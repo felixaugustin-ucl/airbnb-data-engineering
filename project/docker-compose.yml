@@ -1,60 +1,120 @@
-version: "3.9"
-
 # ── NYC Airbnb Hospitality Lakehouse — Service Stack ──────────────────────────
 #
 # Services:
 #   postgres   — relational star schema (OLAP gold layer)
 #   mongodb    — operational geospatial store (Places + neighbourhood boundaries)
+#   ollama     — local LLM server (llama3.2 — no API key required)
+#   mcp-agent  — MCP server + LangChain agent (Python 3.12)
 #
-# ChromaDB runs as a local persistent client (no separate service needed).
-# Start all services:   docker-compose up -d
-# Stop all services:    docker-compose down
-# Reset data volumes:   docker-compose down -v
+# Security model:
+#   Each database has two credential tiers:
+#     admin      — used by transformation scripts (readWrite / full access)
+#     readonly   — used by MCP server / agent (SELECT / read only)
+#   Principle of least privilege: the LLM-facing query layer cannot modify data.
+#   Init scripts in docker/postgres/ and docker/mongodb/ create these roles
+#   automatically on first container start.
+#
+# ⚠ DO NOT run `docker-compose down -v` — this deletes the PostgreSQL and
+#   MongoDB named volumes containing the fully transformed lakehouse data.
+#
+# Start all services:  docker-compose up -d
+# Run agent:           docker-compose run --rm mcp-agent
+# Stop (keep data):    docker-compose down
+# Reset volumes:       docker-compose down -v  ← DESTRUCTIVE
 
 services:
 
   # ── PostgreSQL — Star Schema (OLAP) ────────────────────────────────────────
-  # Hosts the Kimball dimensional model: fact_review, fact_review_weather,
-  # dim_listing, dim_host, dim_neighbourhood, dim_date, noise_borough_month.
   postgres:
     image: postgres:15-alpine
     container_name: airbnb_postgres
     restart: unless-stopped
     environment:
       POSTGRES_DB:       ${POSTGRES_DB:-airbnb}
-      POSTGRES_USER:     ${POSTGRES_USER:-postgres}
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+      POSTGRES_USER:     ${POSTGRES_USER:-airbnb_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-airbnb_admin_pass}
     ports:
       - "5432:5432"
     volumes:
-      # Named volume — data persists across container restarts
       - postgres_data:/var/lib/postgresql/data
+      # Init script — creates airbnb_readonly role on first start
+      - ./docker/postgres:/docker-entrypoint-initdb.d:ro
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-airbnb_admin}"]
       interval: 10s
       timeout: 5s
       retries: 5
 
-  # ── MongoDB — Operational Geospatial Store (OLTP) ──────────────────────────
-  # Hosts neighbourhood boundary polygons (GeoJSON MultiPolygon) and Google
-  # Places POI documents (GeoJSON Point). 2dsphere indexes enable spatial
-  # queries: $geoWithin, $nearSphere, $geoIntersects.
+  # ── MongoDB — Operational Geospatial Store ─────────────────────────────────
   mongodb:
     image: mongo:7.0
     container_name: airbnb_mongodb
     restart: unless-stopped
     environment:
-      MONGO_INITDB_DATABASE: ${MONGO_DB:-airbnb_geo}
+      MONGO_INITDB_DATABASE:  ${MONGO_DB:-airbnb_geo}
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_ROOT_USER:-mongo_root}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_ROOT_PASSWORD:-mongo_root_pass}
     ports:
       - "27017:27017"
     volumes:
       - mongo_data:/data/db
+      # Init script — creates airbnb_admin and airbnb_readonly users on first start
+      - ./docker/mongodb:/docker-entrypoint-initdb.d:ro
     healthcheck:
       test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
       interval: 10s
       timeout: 5s
       retries: 5
 
+  # ── Ollama — Local LLM Server ──────────────────────────────────────────────
+  # No API key required. Models stored in named volume — survive restarts.
+  # First run: docker-compose exec ollama ollama pull llama3.2
+  ollama:
+    image: ollama/ollama:latest
+    container_name: airbnb_ollama
+    restart: unless-stopped
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434/api/tags"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # ── MCP Agent — Python 3.12 ────────────────────────────────────────────────
+  # Connects to PostgreSQL and MongoDB with READ-ONLY credentials.
+  # The LLM agent can query but never modify data — principle of least privilege.
+  mcp-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: airbnb_mcp_agent
+    env_file:
+      - ../.env
+    environment:
+      # Service hostnames (Docker internal network)
+      POSTGRES_HOST:     postgres
+      POSTGRES_USER:     ${POSTGRES_RO_USER:-airbnb_readonly}
+      POSTGRES_PASSWORD: ${POSTGRES_RO_PASSWORD:-airbnb_readonly_pass}
+      MONGO_URI:         mongodb://airbnb_readonly:airbnb_readonly_pass@mongodb:27017/airbnb_geo
+      OLLAMA_HOST:       http://ollama:11434
+      CHROMA_PATH:       /app/chromadb
+    volumes:
+      # ChromaDB — cannot be :ro (SQLite write-lock required for reads)
+      - ./data_pipeline/processed/chromadb:/app/chromadb
+    depends_on:
+      postgres:
+        condition: service_healthy
+      mongodb:
+        condition: service_healthy
+      ollama:
+        condition: service_started
+    stdin_open: true
+    tty: true
+
 volumes:
   postgres_data:
   mongo_data:
+  ollama_models:

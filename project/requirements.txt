@@ -15,3 +15,17 @@ shapely           # Geometry repair (make_valid) — load_mongodb.py pre-indexin
 # ── Transformation: vector indexes (ChromaDB ELT) ─────────────────────────────
 chromadb          # Vector database — review_db + neighbourhood_context_db
 sentence-transformers  # Encoder — multi-qa-mpnet-base-dot-v1
+
+# ── MCP server ────────────────────────────────────────────────────────────────
+mcp==1.27.0       # FastMCP framework — tool registration and stdio transport
+pandas==3.0.2     # DataFrame → JSON serialisation in query_warehouse
+
+# ── Agent (LangChain + Ollama + MCP) ─────────────────────────────────────────
+# Version selection documented in project/versions.txt.
+# Key finding: langchain>=1.0 removed AgentExecutor; use langgraph create_react_agent.
+# langchain-mcp-adapters requires mcp>=1.9.2 — satisfied by mcp==1.27.0.
+langchain==1.2.15                 # orchestration core
+langchain-core==1.2.26            # base message / tool abstractions
+langchain-ollama==1.1.0           # ChatOllama — local LLM, no API key required
+langchain-mcp-adapters==0.2.2     # converts MCP tools → LangChain BaseTool
+langgraph==1.1.6                  # create_react_agent ReAct loop + streaming

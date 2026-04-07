@@ -1,0 +1,196 @@
+================================================================================
+DEPENDENCY VERSION SELECTION LOG — NYC Airbnb Hospitality Lakehouse
+================================================================================
+Date: 2026-04-07
+Purpose: Document version testing and compatibility findings for the agent layer
+         (LangChain + Ollama + MCP). Justifies pinned versions in requirements.txt.
+
+--------------------------------------------------------------------------------
+PACKAGES UNDER TEST
+--------------------------------------------------------------------------------
+Package                 Latest available    Installed & pinned
+----------------------  ------------------  ------------------
+mcp                     1.27.0              1.27.0
+langchain               1.2.15              1.2.15
+langchain-core          1.2.26              1.2.26
+langchain-ollama        1.1.0               1.1.0
+langchain-mcp-adapters  0.2.2               0.2.2
+langgraph               1.1.6               1.1.6  (transitive dep of langchain)
+
+--------------------------------------------------------------------------------
+TEST 1 — Dry-run dependency resolution
+--------------------------------------------------------------------------------
+Command:
+  python3 -m pip install "langchain-mcp-adapters==0.2.2" "langchain==1.2.15" \
+    "langchain-ollama==1.1.0" --dry-run
+
+Result: PASS — no conflicts detected.
+
+Key constraint satisfied:
+  langchain-mcp-adapters==0.2.2 requires mcp>=1.9.2
+  → installed mcp==1.27.0 satisfies this constraint (1.27.0 >= 1.9.2)
+
+--------------------------------------------------------------------------------
+TEST 2 — Import compatibility tests (post-install)
+--------------------------------------------------------------------------------
+Command:
+  python3 -c "
+    from mcp.server.fastmcp import FastMCP
+    from langchain_core.tools import BaseTool
+    from langchain.agents import AgentExecutor          # <-- intentional test
+    from langchain_ollama import ChatOllama
+    from langchain_mcp_adapters.client import MultiServerMCPClient
+    from langchain_mcp_adapters.tools import load_mcp_tools
+    from langgraph.prebuilt import create_react_agent
+  "
+
+Results:
+  PASS  mcp                             (FastMCP importable)
+  PASS  langchain-core                  (BaseTool importable)
+  FAIL  langchain AgentExecutor         ← see finding below
+  PASS  langchain-ollama                (ChatOllama importable)
+  PASS  langchain-mcp-adapters client   (MultiServerMCPClient importable)
+  PASS  langchain-mcp-adapters tools    (load_mcp_tools importable)
+  PASS  langgraph create_react_agent    (create_react_agent importable)
+
+--------------------------------------------------------------------------------
+FINDING: AgentExecutor removed in langchain>=1.0.0
+--------------------------------------------------------------------------------
+Error:
+  cannot import name 'AgentExecutor' from 'langchain.agents'
+
+Cause:
+  LangChain 1.x removed the legacy AgentExecutor class. The modern replacement
+  is langgraph.prebuilt.create_react_agent, which provides a stateful ReAct
+  agent graph with built-in tool-calling loop, streaming, and step callbacks.
+  This is the recommended path from LangChain docs as of 2025.
+
+Decision:
+  Use langgraph.prebuilt.create_react_agent throughout agent.py.
+  Do NOT use langchain.agents.AgentExecutor — removed, not backported.
+
+--------------------------------------------------------------------------------
+TEST 3 — Verify create_react_agent API signature
+--------------------------------------------------------------------------------
+Command:
+  python3 -c "
+    import inspect
+    from langgraph.prebuilt import create_react_agent
+    print(list(inspect.signature(create_react_agent).parameters.keys()))
+  "
+
+Output:
+  ['model', 'tools', 'prompt', 'response_format', 'pre_model_hook',
+   'post_model_hook', 'state_schema', 'context_schema', 'checkpointer',
+   'store', 'interrupt_before', 'interrupt_after', 'debug', 'version',
+   'name', 'deprecated_kwargs']
+
+Usage in agent.py:
+  agent = create_react_agent(model=llm, tools=tools, prompt=system_prompt)
+  # stream() used for step-by-step output, invoke() for single response
+
+--------------------------------------------------------------------------------
+TEST 4 — Runtime: MultiServerMCPClient context manager removed
+--------------------------------------------------------------------------------
+Error at runtime:
+  NotImplementedError: As of langchain-mcp-adapters 0.1.0,
+  MultiServerMCPClient cannot be used as a context manager (async with ...).
+
+Cause:
+  langchain-mcp-adapters 0.2.2 removed the __aenter__/__aexit__ methods from
+  MultiServerMCPClient. The async context manager pattern we used was valid in
+  0.0.x but was deliberately removed in 0.1.0+.
+
+Fix applied in agent.py:
+  Before (broken):
+    async with MultiServerMCPClient({...}) as client:
+        tools = client.get_tools()
+
+  After (correct for >=0.1.0):
+    client = MultiServerMCPClient({...})
+    tools = await client.get_tools()
+
+Reference: langchain-mcp-adapters changelog, 0.1.0 release notes.
+
+--------------------------------------------------------------------------------
+TEST 5 — Runtime: create_react_agent deprecated in langgraph 1.x
+--------------------------------------------------------------------------------
+Warning at runtime:
+  LangGraphDeprecatedSinceV10: create_react_agent has been moved to
+  `langchain.agents`. Please update your import to
+  `from langchain.agents import create_agent`.
+
+Cause:
+  langgraph 1.0 moved create_react_agent out of langgraph.prebuilt into
+  langchain.agents under the new name create_agent. The old import still
+  works but emits a deprecation warning.
+
+Additional change:
+  Parameter renamed: prompt → system_prompt
+
+Fix applied in agent.py:
+  Before: from langgraph.prebuilt import create_react_agent
+          agent = create_react_agent(model=llm, tools=tools, prompt=SYSTEM_PROMPT)
+
+  After:  from langchain.agents import create_agent
+          agent = create_agent(model=llm, tools=tools, system_prompt=SYSTEM_PROMPT)
+
+--------------------------------------------------------------------------------
+TEST 6 — Runtime: pandas not installed in Python 3.13 environment
+--------------------------------------------------------------------------------
+Error at runtime (server.py query_warehouse):
+  No module named 'pandas'
+
+Cause:
+  pandas was listed in requirements.txt but not installed in the active
+  Python 3.13 environment (/usr/local/bin/python3). It is a runtime import
+  inside query_warehouse(), not at module load time, so the missing dependency
+  was only surfaced when the tool was first called.
+
+Fix:
+  pip install pandas  →  installed pandas 3.0.2
+
+requirements.txt entry:
+  pandas==3.0.2
+
+--------------------------------------------------------------------------------
+FINAL PINNED VERSIONS (requirements.txt entries)
+--------------------------------------------------------------------------------
+mcp==1.27.0
+langchain==1.2.15
+langchain-core==1.2.26
+langchain-ollama==1.1.0
+langchain-mcp-adapters==0.2.2
+langgraph==1.1.6  # pinned for reproducibility (transitive dep of langchain)
+
+Rationale for pinning:
+  LangChain's rapid release cadence (0.x→1.x→2.x naming) causes frequent
+  breaking changes. Pinning exact versions ensures the marker can reproduce
+  the agent environment without version drift. The constraint
+  langchain-mcp-adapters>=0.2.2 + mcp>=1.9.2 is forward-compatible but
+  pinning eliminates ambiguity for assessment purposes.
+
+--------------------------------------------------------------------------------
+OLLAMA MODEL SELECTION
+--------------------------------------------------------------------------------
+Minimum requirement: model must support tool/function calling natively.
+  llama3 (base)    — does NOT support tool calling, will ignore tool schemas
+  llama3.1         — SUPPORTS tool calling (Meta's official function-calling model)
+  llama3.2         — SUPPORTS tool calling (smaller, faster)
+  qwen2.5          — SUPPORTS tool calling (strong multilingual + reasoning)
+  mistral-nemo     — SUPPORTS tool calling
+
+Default in agent.py: llama3.2
+Override via env:   OLLAMA_MODEL=llama3.1 python3 agent/agent.py
+
+Rationale for llama3.2 as default (revised after benchmark):
+  llama3.1 (8B, 4.9GB): ~3-8 tokens/sec on CPU — 5-10 min per query.
+  llama3.2 (3B, 2.0GB): ~15-25 tokens/sec on CPU — under 60 sec per query.
+  Both support tool calling. llama3.2 is the practical default for CPU-only
+  machines. llama3.1 remains available via OLLAMA_MODEL env var.
+
+Recommendation for markers:
+  ollama pull llama3.2   # default — fast on CPU
+  ollama pull llama3.1   # higher quality if GPU available
+
+================================================================================
