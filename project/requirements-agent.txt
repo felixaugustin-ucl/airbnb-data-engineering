@@ -1,0 +1,29 @@
+# ── MCP Server + Agent dependencies only ──────────────────────────────────────
+# Used exclusively by the mcp-agent Docker container (Dockerfile).
+# Does NOT include pipeline dependencies (pyspark, shapely, ingestion libs)
+# which are only needed on the host to run the transformation scripts.
+
+# Store drivers
+python-dotenv     # .env credential loading
+psycopg2-binary   # PostgreSQL — query_warehouse tool
+sqlalchemy        # PostgreSQL engine
+pymongo           # MongoDB — query_geodata tool
+pandas==3.0.2     # DataFrame → JSON in query_warehouse
+pyarrow           # Parquet engine for pandas (reload_postgres.py)
+
+# Vector search
+chromadb                # ChromaDB persistent client
+sentence-transformers   # Encoder — multi-qa-mpnet-base-dot-v1
+
+# MCP server
+mcp==1.27.0       # FastMCP — tool registration and stdio transport
+
+# LangChain agent stack (versions pinned — see versions.txt for rationale)
+langchain==1.2.15
+langchain-core==1.2.26
+langchain-ollama==1.1.0
+langchain-mcp-adapters==0.2.2
+langgraph==1.1.6
+
+# Terminal display
+rich
