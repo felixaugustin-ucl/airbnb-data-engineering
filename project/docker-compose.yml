@@ -1,3 +1,60 @@
 version: "3.9"
 
-services: {}
+# ── NYC Airbnb Hospitality Lakehouse — Service Stack ──────────────────────────
+#
+# Services:
+#   postgres   — relational star schema (OLAP gold layer)
+#   mongodb    — operational geospatial store (Places + neighbourhood boundaries)
+#
+# ChromaDB runs as a local persistent client (no separate service needed).
+# Start all services:   docker-compose up -d
+# Stop all services:    docker-compose down
+# Reset data volumes:   docker-compose down -v
+
+services:
+
+  # ── PostgreSQL — Star Schema (OLAP) ────────────────────────────────────────
+  # Hosts the Kimball dimensional model: fact_review, fact_review_weather,
+  # dim_listing, dim_host, dim_neighbourhood, dim_date, noise_borough_month.
+  postgres:
+    image: postgres:15-alpine
+    container_name: airbnb_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB:       ${POSTGRES_DB:-airbnb}
+      POSTGRES_USER:     ${POSTGRES_USER:-postgres}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-postgres}
+    ports:
+      - "5432:5432"
+    volumes:
+      # Named volume — data persists across container restarts
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-postgres}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── MongoDB — Operational Geospatial Store (OLTP) ──────────────────────────
+  # Hosts neighbourhood boundary polygons (GeoJSON MultiPolygon) and Google
+  # Places POI documents (GeoJSON Point). 2dsphere indexes enable spatial
+  # queries: $geoWithin, $nearSphere, $geoIntersects.
+  mongodb:
+    image: mongo:7.0
+    container_name: airbnb_mongodb
+    restart: unless-stopped
+    environment:
+      MONGO_INITDB_DATABASE: ${MONGO_DB:-airbnb_geo}
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
+  mongo_data:

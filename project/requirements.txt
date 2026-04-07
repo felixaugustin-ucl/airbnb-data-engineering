@@ -1,3 +1,17 @@
-requests
-beautifulsoup4
-python-dotenv
+# ── Ingestion ──────────────────────────────────────────────────────────────────
+requests          # HTTP client — all API ingestion scripts
+beautifulsoup4    # HTML parsing — fetch_airbnb.py (snapshot discovery scraping)
+python-dotenv     # .env loading — all scripts with API keys / DB credentials
+
+# ── Transformation: relational (PySpark ETL) ───────────────────────────────────
+pyspark           # Distributed transformation — bronze → silver → gold
+psycopg2-binary   # PostgreSQL driver — gold layer load
+sqlalchemy        # ORM / engine — pandas.to_sql PostgreSQL write
+
+# ── Transformation: operational store (MongoDB ELT) ───────────────────────────
+pymongo           # MongoDB driver — load_mongodb.py
+shapely           # Geometry repair (make_valid) — load_mongodb.py pre-indexing
+
+# ── Transformation: vector indexes (ChromaDB ELT) ─────────────────────────────
+chromadb          # Vector database — review_db + neighbourhood_context_db
+sentence-transformers  # Encoder — multi-qa-mpnet-base-dot-v1
