@@ -193,4 +193,57 @@ Recommendation for markers:
   ollama pull llama3.2   # default — fast on CPU
   ollama pull llama3.1   # higher quality if GPU available
 
+--------------------------------------------------------------------------------
+ARCHITECTURE EVOLUTION — single-agent ReAct → multi-agent planner-executor
+--------------------------------------------------------------------------------
+Branch: feature/mcp         — single-agent ReAct (langchain.agents.create_agent)
+Branch: feature/multi-agent — multi-agent LangGraph StateGraph (this branch)
+
+Problem observed in feature/mcp:
+  llama3.2 was required to simultaneously (a) choose between 4 tools,
+  (b) generate correct SQL / MongoDB filter parameters, and (c) write the final
+  answer — all in a single ReAct loop. The model frequently wrote tool calls
+  as plain-text JSON instead of using the function-call mechanism, requiring a
+  brittle post-hoc recovery pass.
+
+Root cause (documented in ReAct paper, Yao et al. 2022 arXiv:2210.03629):
+  Small LLMs (<7B) exhibit degraded performance when the action space is large
+  relative to model capacity. The model conflates the routing decision with
+  parameter generation and synthesis.
+
+Solution — planner-executor-synthesizer architecture:
+
+  [Planner Node]
+    ChatOllama(format="json") constrains generation to valid JSON output.
+    The routing task (classify question → which store) is a simpler, isolated
+    sub-problem than the combined route+params+answer task of a single agent.
+    Returns: {"route": "warehouse|geodata|semantic|multi", "intents": {...}}
+
+  [Executor Nodes] (warehouse_node, geo_node, semantic_node)
+    Each node handles ONE tool. The LLM only generates parameters for a tool
+    it is already known to be calling — routing is already solved by the planner.
+    SQL generation, MongoDB filter generation, and semantic queries are
+    separated into specialist nodes with focused, short system prompts.
+
+  [Synthesizer Node]
+    Receives clean summaries of all tool results (via _summarise_for_synthesizer).
+    Its only task is writing a coherent English answer from structured data.
+
+  Routes:
+    warehouse → Warehouse  → Synthesizer
+    geodata   → Geo        → Synthesizer
+    semantic  → Semantic   → Synthesizer
+    multi     → Warehouse  → Semantic → Synthesizer
+
+Key technical decisions:
+  - format="json" on planner LLM eliminates free-text tool-call failure mode
+  - Annotated[list, operator.add] accumulates results across nodes in state
+  - One SQL retry with error context in warehouse_node
+  - _summarise_for_synthesizer() strips raw JSON; synthesizer sees clean data
+
+Pattern reference:
+  LangGraph supervisor pattern: https://langchain-ai.github.io/langgraph/
+  Yao et al. "ReAct: Synergizing Reasoning and Acting in Language Models" (2022)
+  arXiv: 2210.03629
+
 ================================================================================
