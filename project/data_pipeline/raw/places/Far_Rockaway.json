@@ -1,0 +1,3921 @@
+{
+  "neighbourhood": "Far Rockaway",
+  "centroid": {
+    "lat": 40.59708819187359,
+    "lon": -73.74168965688487
+  },
+  "fetched_at": "2026-04-06T14:26:04.564584+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59422,
+            "lng": -73.750587
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59548743029149,
+              "lng": -73.74917861970849
+            },
+            "southwest": {
+              "lat": 40.59278946970849,
+              "lng": -73.7518765802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-471-3725",
+        "name": "DredSurfer Grill",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117619959915462612173\">Jenessa Seymour</a>"
+            ],
+            "photo_reference": "AU_ZVEHXivEXu4S4fbyJh7eAdxzxW31vhyykT6Kw_868xv7IpsMYRr9_drWqO-EuwC_NSw_c50TbFegp7SVP4nCB_jHnPtXmO13hU07bZoXPnIEVIWfPadGAzxtqm_gbxw4MGtTqFpCUYC1ejiWrRIPwGmvq783Fo6FJT3YO6lnkpUav3dsqy_HK6uxxVmEEz-EP3QKm8QCMO6ipOvBxdAioy6p7iRd7CXKPi6NwL_UrY1fM-F1opNx9hPj0mC_Ckph566VOsU0J57j8VZu6mAGLMcQKqyNgBB2KBXgePf4GrHPjo5E-7_lORdcMHYMFPcrREFcNJCgy8ASxGqLYS4IvYKKv7ZQe18grvlDET4bcJow9L3d0CylhOb_KiDMbk0yJ3uDX2mOOngh4tursNEP2VUNgE2NYThDCU-ZZc1Hj890i5LWpsm98no21X5Zzqw4nXkMS3tD8n9OLE3R6c088FKlB4vO2OkmgmPR5LPOd7qg442itZ4rFxZ4kGND9JWsi3qXKk_91iatY9ITXblvePQIIM9bMMV9gHVF4aGNTd0EQT9-w2-kNgFQ09pharMDvYBlzMUqEShvQm7LLCgtGgum1adMHDMC7SOsd58L9IZmsuxrrcZCfSh-qPnepmdIE36ncnw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJc_fbBa1owokRIFn1I6Vd2_U",
+        "plus_code": {
+          "compound_code": "H6VX+MQ Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6VX+MQ"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJc_fbBa1owokRIFn1I6Vd2_U",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 196,
+        "vicinity": "16-27 Seagirt Boulevard, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5894843,
+            "lng": -73.7373841
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5907570302915,
+              "lng": -73.73593321970849
+            },
+            "southwest": {
+              "lat": 40.5880590697085,
+              "lng": -73.73863118029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 516-792-3323",
+        "name": "Dino's Villa Mare",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117366763948745775213\">Tayler Fisher</a>"
+            ],
+            "photo_reference": "AU_ZVEH8kO_nRlObx9BFkTPe4MyMvE4RVe-xapqGIU754eCc5DVA-PGCDrINKgyCLIeBa8QBtYIO_o73plmguTfjcswC8wtAAZUfqoY9pPZmPM82ZA6VxLbG0OHidKmRoZU0W52QmdcWQJz8xbkxH9CQWeKUzBBZCbw2TN0swIAuoJS51WR5wvBCGxdg7o6qWpkR8sv23fM4rRnXlds7-iQwsSaRGwGbqHDozxKkOmaoIqDJx4sxRavt6j-0zavC7ZgrR9GZ7uvY3LqtVxS3sh2kGRbtAAtAtxfKMhZYF5Wc0cN0dW-hlTElKClK9pFtKAA3q83o_Dicr2X-X8z900ssEuOHDrHX7A2DUHtWlENo3h2d7DnV_pji7SPPiOsSNlqO7PmURicfB9fXWXXIymMtZZz5T7wfl1jK09qF_IWN76aekNuY3II26IG2XOFGT0W3rznX2TWIDlq-BXHwyZ5x5qoBNy6nwgijzrPltIRv7iL-x5UebKQUi74W_Pg7d5PFOsItzArrJZzZxp92BmwDothHAgFrNmx_mjLvdDbWa27-xCic2Pha46tn0Dubq4vZuiO0Jf3AU5oU_omqVwpnM2mYQWDrColU7JYRtR3XblfQxhUIvEjpIXUi5Xh8PSzTwDUy-KNjLRL63GrI6X9oow",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJrXSzkE9vwokR2Co2mVaTvCY",
+        "plus_code": {
+          "compound_code": "H7Q7+Q2 Atlantic Beach, NY, USA",
+          "global_code": "87G8H7Q7+Q2"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJrXSzkE9vwokR2Co2mVaTvCY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 241,
+        "vicinity": "99 The Plaza #1, Atlantic Beach"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6026641,
+            "lng": -73.7502499
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6040752802915,
+              "lng": -73.7488563197085
+            },
+            "southwest": {
+              "lat": 40.6013773197085,
+              "lng": -73.7515542802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-868-1300",
+        "name": "Subway",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107275098539261457059\">Michael Apfel</a>"
+            ],
+            "photo_reference": "AU_ZVEHECQTTY87J6Dx7vE_JJpmwvy2hHunZXm_KYe3msUHAOkvnOzqmVF-XU7H_EQvn75dHSOZbH2Cw5MuzFfNPDfw-q5s2tc6KuUIjDqYS-_2SbDyreEG2QEo12VAAHyvXRlq5pkQC7cUWDFA8bAHk1RDpVMJvBwZnGqMEyia8I6Kl2y40kKk-0xhAgkRgkdZCu35IrA1vPefWWTbJ-U40FMoD5a18VzK92brJaEbBKoypEokcT3A4IDLqPqd9dGPgZcG27Qdh62SvO8FtTkiNW-zQBPk_xRDWNrosRdJGgW4-eIL7-2iDeknwukI60mFTL8xfKTt3nj1CII3aXoG3-PBUx9e9aPesYdYpr6REn2JSm14JvDt5LTpdO18QoHPoshWExowTmk6EPc5fETyRIiFOUe6MmHkI36ZSllsECGLyT9dDcn0WioD36wyS7Myrkmax5vpPai5Wod2awUZ-mlyy4KKtMWPlIGjKQ7CNkp_8IckD5ilnR3zypaIS2nx5Y_WlnXIbpj-lI3s4KkMgbXW0aHyjoPVxTorU1F8Ao3oyzEhOiF6T3KGiaZapx6NGvwaKR_7WmJ5HO8nLHLv8QjN67g7NQ__muZvJrAAdUpO53m1-K9MAK8T2RzLh2Rgm",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJN0jEhapowokRczP0S0NkNgA",
+        "plus_code": {
+          "compound_code": "J63X+3W Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J63X+3W"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJN0jEhapowokRczP0S0NkNgA",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 106,
+        "vicinity": "18-07 Mott Avenue, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59578700000001,
+            "lng": -73.7383869
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5972060802915,
+              "lng": -73.7370268697085
+            },
+            "southwest": {
+              "lat": 40.5945081197085,
+              "lng": -73.73972483029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-868-1477",
+        "name": "Dannys Delicious Dishes",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114853997388644376412\">Dannys Delicious Dishes</a>"
+            ],
+            "photo_reference": "AU_ZVEG-xOghYUz94spY7eXFhoT_9cfhBtPp-BHpZIPdt6UP2b4xAhyt8bIYhfgqBXPLI4Jw6OLnXR1ymVSkAHb2KzhsVIWbFuCIBgqVf8bNUTwoZvN5Zt_iaaZgxeQWdlbNM1niAcsTSrslju94RIYGjaoOSjvUmmpG4kUGa9gxISxhH_eme5vnNsKtwbkiXn5NNQUhEZKnFPBqMFV9j0v4P0OHjnFn_nhRfhmRWBDHfpOjhQ0di8IOnZp3aP7wZti11LLpNKl20sPU4-Srw2NtNgvdWIVz8hTPprpLFK0tWTbwZzbM4Waom--cCTGnD_gN89rwEG7NF18",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJS9ikOiZvwokRxJvFfoZT9lI",
+        "plus_code": {
+          "compound_code": "H7W6+8J Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H7W6+8J"
+        },
+        "reference": "ChIJS9ikOiZvwokRxJvFfoZT9lI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "207 Seagirt Avenue, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5948457,
+            "lng": -73.7519283
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59628583029151,
+              "lng": -73.7505545697085
+            },
+            "southwest": {
+              "lat": 40.59358786970851,
+              "lng": -73.7532525302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-326-6520",
+        "name": "Krispy Krunchy Chicken",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1152,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114873499045804413373\">Krispy Krunchy Chicken</a>"
+            ],
+            "photo_reference": "AU_ZVEHbDRIa7bkc4zYcnnovuyVuje9SThaA_4223u9dD9CBHQdZF6TWXe1AZcjpstJOR3os4o_r9HiSB3EY4j3L3IBQna9tayv0HDszWFhnAjXB2Cf8CZJGt0a4Q6zvEKQbP3o4dxcuvw7ofc-IdyJhXlJM_FxWqNbnRLPmFE3nkloLtmxizlGKtxpNpEu-0f6DP38EoUVOMF367g2jGJ3A6oBhPHYA0UTwC3mqgTD24FVpKmOYqPdhuKEVVjYviAiz6oAZXL7bSIiIgL4wboL0mnCw6Ycw0Tom_ahcJ-PgW7_ww2qvUi5LGF0yI_IROGPBQZHtW2oAhPo",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJyYiYQT5pwokROYjD_3ivPDI",
+        "plus_code": {
+          "compound_code": "H6VX+W6 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6VX+W6"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJyYiYQT5pwokROYjD_3ivPDI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "17-21 Seagirt Boulevard, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594771,
+            "lng": -73.7519688
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5962494802915,
+              "lng": -73.75057481970849
+            },
+            "southwest": {
+              "lat": 40.59355151970851,
+              "lng": -73.7532727802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 718-569-5265",
+        "name": "OCEAN PARK MARKET Fried chicken",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117762151824075683853\">Aref Alawah</a>"
+            ],
+            "photo_reference": "AU_ZVEGcnEC9FHKBD64wzjizVC5Hp9bZ7umN_-D4Qmlg1eTc1iebVRp8ggLlzW9RzNJR3oVssyKNKgbiJQlZFslNK6HYy736eHDF3W2USBh-dCJfNbhHs8ajG5ixsmtq6CZAeSObY2ZiNljDwQf8FHXIpyfUiey11eIswOuWoBQPPk0ZtjdbJGaZ-eQyzHXgl0j1Teb0X30xKiYWZN8b9YHy17tYWVbnqXnqwD1ESEBBBesMZQhoWSlRLJmExOG4Jbw3Hij709kEvoOSmjxN04qwzjYO8FREIQTNv8hw3WB5p8SIzQP9tGfw0mdoyTVx5OEkX1_5HAhCNtJYNJyHbaBoVIO7M_90sD4GW_7MaV5PtD-ophckz6bjvvkntWI6v4eazvkm0LHUYsRvDPpvUs7uWoSRZW_i5qtI0O39Qz1VUff_eczhZqdY6983hEWPM88Y-cOHtta2c-IVLV-GSt4aZ-clg6Vv6Yp9U2QGm6ktLaBJY8lMVsZIXM45XDq3Ngissfzkjq6a1C5px1i9xJ7Q0Ld4cJ8IjlZSucnC5JfIGtzqu68HkT4yrNqjKPmAxVObL87yTJUWolE-yHtxa5VAFiinpfoE7uzIltjLzfVSmDZgj8w0WbzsdIHHYntXWt2rw49I-IH0",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJw4EgC1lpwokRVxQi7XaaPvU",
+        "plus_code": {
+          "compound_code": "H6VX+W6 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6VX+W6"
+        },
+        "rating": 5,
+        "reference": "ChIJw4EgC1lpwokRVxQi7XaaPvU",
+        "scope": "GOOGLE",
+        "types": [
+          "liquor_store",
+          "grocery_or_supermarket",
+          "convenience_store",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 30,
+        "vicinity": "17-21 Seagirt Boulevard, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6027947,
+            "lng": -73.74978089999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6040497302915,
+              "lng": -73.74844806970849
+            },
+            "southwest": {
+              "lat": 40.6013517697085,
+              "lng": -73.7511460302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-327-4754",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113358973181125261692\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEEf-2FcedhLbhz2Kh8KTAu381tWv5browvw-Twyh29J4qwUEwpSlbYTNKEeZuO5XcFUTAfXW-qiYj-4OtVTGWsjlmCfhxfymx2_bbq-QQ6kRxegcL7Kfss-M7YHvQrUh4VLKGd5A8jbocw9gFKlROUQfDJqplaw5p_Ri4Sx8emnzzeSg5L69ExKzLsb2XDJ1GXhgZkzX72as1dF6BOU7Md5UkcruucuQ-4_hEIRx95QLJgAalNKcu2My5TfMjGlPws8hV60yHHJfIIWXpV4UMWxzAiO2pJmWhhqEZBDsRgTDNMHBNa7UW-desyqQPdjVyKbQWw-X8A",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJDUPfmKpowokRSwAja7Sr1qE",
+        "plus_code": {
+          "compound_code": "J732+43 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J732+43"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJDUPfmKpowokRSwAja7Sr1qE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 546,
+        "vicinity": "14-26 Cornaga Avenue, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.602779,
+            "lng": -73.749517
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6040660802915,
+              "lng": -73.7481409197085
+            },
+            "southwest": {
+              "lat": 40.6013681197085,
+              "lng": -73.75083888029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-868-3051",
+        "name": "Lucky Cornaga",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107275098539261457059\">Michael Apfel</a>"
+            ],
+            "photo_reference": "AU_ZVEFIbw1ACLqcF8xfRMj5VgWHFRW2I2d1D95h-xbq7oTKmifUi28hkhRulueobTM60UF_Y9cnoAsPN0kedQqmJW3luQDTlb8r0Il59GDTlFtijv6SV-e7133stvyVCY-oixFgFOhE4fP_5HtzXhkO9wVZhnOyk_Ykq9z_qymLm3grYDZiQW-fVdirDtLckDg9oIdLEtvx_aBAFug2IfdcgwSUTkOIjA9ULakmuSNs9foc0QQaV2wCajDkW8liyuRhlR6YFAmBAlx70BhW23MBalsYz4mR0HVtOKw1QN4h8w-g4xn4pJfHenHldm0ixZGDnuU6obW9NV6AzUghIDgrNCm2uOPbUvNKseWQH6G6mOFuyj8DTHmhE2jxWDyrhxbMCxoMKYLOwrD42zvudDE0zGy6YgZTc7Y7kRkb0mczemp3FVoWSeGF6scX-iswrDPywivcD9RcXbju8ngxANgi85rJXmtf6bVNjj1CzwT64_pyS5PSC8rffJBxyL42sE5v5PUUZv0hkfjMrz-9KLG_b6Krkkp3gXEk13WDfJyhVyYUTuQ8C6l-b8qJQ5LokplV2Hz0GjpJnCQkMkQ0avkaUUALt_RU-JtmBh_1MFd9gBFtCVbcPysbSlfKAkMAcbm-d2lgl0XD",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJPRlHjKlowokR53tJEDb3r-w",
+        "plus_code": {
+          "compound_code": "J732+45 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J732+45"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJPRlHjKlowokR53tJEDb3r-w",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 136,
+        "vicinity": "14-20 Cornaga Avenue, Far Rockaway"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5892816,
+            "lng": -73.7374573
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5905552802915,
+              "lng": -73.7360159197085
+            },
+            "southwest": {
+              "lat": 40.5878573197085,
+              "lng": -73.73871388029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 516-218-2368",
+        "name": "Dinos Hot Pastrami",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113148947611018822952\">Frugal Cyclist</a>"
+            ],
+            "photo_reference": "AU_ZVEHlmp2QQ19WB7Qdt9fILTesragC6onS-fmpp-IdbJET2-txa12IuaQsRwP-1ckNGZpjPErJVNTMwr9OF57s8lR0bAs-iRzZUyJyhz6TLB2683-u38an57MQ1PSjrOJ8rbyNZMqAHHyEkW6QrQ6bcIuHfIrQaGoRG3KbXIhT2Rah5eVJakxeocBdSMpXe0CS-XXM3at_1Bl3ssT8fkGFAu6iyu2NgOExCul9m-0ugXEQExErGrNpa4xxPmmgcLFeOqZKdZUfTVjlQGFQ1ljyb6zrhH8BKEPv2sTp2SK2Iax07qbtiNvYo1k53Mt5DR36y9fuC4YLu8Sqqj2v_yAVj9d5HDQDqquOs5P1ayhjmI4WiTf2qf-nDS831G1GpSsgFkcu5eTy_d-KCW9vouPkFmiaccozFfRvhPp2Hw97YbM1bEcFrEH4phVmDdBtbN-ODRf3VZgZhMtygaVs78HvfjkH8_oWSL5ROenFUrkpnKI-DxQ3LGDXffShDtB0Lwk1uKqHcLQIQGVGt568mP_JB2jyOaZiaOBg6KRcuJAsyJHL8vMrOLGIjbC40ndVRhU5Z1VZIlXdEO8UWwypSDZb7bnCdxZd8TDkpzuTTpRqDCy4V7Pva900Bh__7E1EIGDY_5SZsA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJxfccbtVvwokRkRmkhJ6UNWE",
+        "plus_code": {
+          "compound_code": "H7Q7+P2 Atlantic Beach, NY, USA",
+          "global_code": "87G8H7Q7+P2"
+        },
+        "rating": 3.9,
+        "reference": "ChIJxfccbtVvwokRkRmkhJ6UNWE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "99 The Plaza, Atlantic Beach"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6028803,
+            "lng": -73.750537
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60425548029151,
+              "lng": -73.7491373197085
+            },
+            "southwest": {
+              "lat": 40.60155751970851,
+              "lng": -73.7518352802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-502-0072",
+        "name": "Bocaditos LLC",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1440,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109138459399393550619\">Estefani Criollo</a>"
+            ],
+            "photo_reference": "AU_ZVEHw_nWx3h_-ZbArbP89tQWmbOhIgISpf0FaEKAaBpyW0yu73hQvVlpm-ojPt5hqb3r7cXJy4pActsHDX0tPP_zuORS6TVD1RK3dLNaDom5jhVmYM0XQVQgzZgmm-UrPH-kBrV0clqYOZw027riCprWmnHUWx1lUl6mZn1ZlKSSggopcdQjPn2w54xdhfme_QOV5DdBDFD15Lc8XYgL8alk5yLsO5M1zDFWDfPJoWB1LyEe54JHRoyn89AOtuDFNO2CSSvhS0SO8kdIcj5GaEBNYPSHr1IFpPfLLFlKxJey4kzrckfN0Bh-BznVHqC3rA2CZ-8IpOil8MnzMTywxxGqVTCdhTbiL43ELqDW6gJluJRqxxQuHqU-dZGJc6jUP90zhwYboohQZEpgYx_NXPvp_ISq_cc6psbhTksthxV3l9sBUuiwyAj6mDFF9ww5PJSp5NO47eC4uBWFVX1BTK9Bnnzf71gxd16EGliz0aLJ0em5JYS16SAdvKncD0kBbiKFFhgsX9xNgh9bii4AH2-c9rqpLEDMHgkEr21tW7yrI8TL1PUEOGf1cYntQLySrJevq7kQXav-rpwtjn1KBH3iIE-OnrqpPyc42qigICMFHfVhmqFZhE_9iqHvPqqFy90WGxdbZQq0jrdmecbTjUalMSRY",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJc5mfUixpwokRkuIaEWOrNEo",
+        "plus_code": {
+          "compound_code": "J63X+5Q Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J63X+5Q"
+        },
+        "rating": 5,
+        "reference": "ChIJc5mfUixpwokRkuIaEWOrNEo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "18-23 Mott Avenue, Far Rockaway"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5980683,
+            "lng": -73.74298859999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5994229302915,
+              "lng": -73.74174496970849
+            },
+            "southwest": {
+              "lat": 40.5967249697085,
+              "lng": -73.74444293029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Apartment by the beach",
+        "place_id": "ChIJg15UEVRvwokR9eqnIq-ClPY",
+        "plus_code": {
+          "compound_code": "H7X4+6R New York, NY, USA",
+          "global_code": "87G8H7X4+6R"
+        },
+        "reference": "ChIJg15UEVRvwokR9eqnIq-ClPY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5956955,
+            "lng": -73.74185179999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5970701802915,
+              "lng": -73.74050551970849
+            },
+            "southwest": {
+              "lat": 40.5943722197085,
+              "lng": -73.7432034802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cozy apartment with Bedroom , New appliances WiFi, AC in Queens On The Beach",
+        "place_id": "ChIJdbwQYFFvwokRFfdp4cczB98",
+        "plus_code": {
+          "compound_code": "H7W5+77 New York, NY, USA",
+          "global_code": "87G8H7W5+77"
+        },
+        "reference": "ChIJdbwQYFFvwokRFfdp4cczB98",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5956688,
+            "lng": -73.7418136
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5970607302915,
+              "lng": -73.74046901970848
+            },
+            "southwest": {
+              "lat": 40.5943627697085,
+              "lng": -73.7431669802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Apartment by the beach",
+        "place_id": "ChIJp1sVYFFvwokRyYX0ziAu1CQ",
+        "reference": "ChIJp1sVYFFvwokRyYX0ziAu1CQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5956665,
+            "lng": -73.74180969999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5970602302915,
+              "lng": -73.74046576970849
+            },
+            "southwest": {
+              "lat": 40.5943622697085,
+              "lng": -73.7431637302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hotel en mar",
+        "place_id": "ChIJge9mQ9VvwokRSkEpTiI6q1o",
+        "plus_code": {
+          "compound_code": "H7W5+77 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H7W5+77"
+        },
+        "reference": "ChIJge9mQ9VvwokRSkEpTiI6q1o",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "7-11 Seagirt Avenue, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59791949999999,
+            "lng": -73.74729920000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5992676302915,
+              "lng": -73.74585266970851
+            },
+            "southwest": {
+              "lat": 40.5965696697085,
+              "lng": -73.74855063029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "FIVE TOWNS BEST PRIVATE BEACH HOUSE",
+        "place_id": "ChIJzSSnqVRvwokRn9yHZ19lYPI",
+        "plus_code": {
+          "compound_code": "H7X3+53 New York, NY, USA",
+          "global_code": "87G8H7X3+53"
+        },
+        "reference": "ChIJzSSnqVRvwokRn9yHZ19lYPI",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59791939999999,
+            "lng": -73.7473068
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59926748029149,
+              "lng": -73.74585646970851
+            },
+            "southwest": {
+              "lat": 40.5965695197085,
+              "lng": -73.74855443029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Five Towns Best Private BeacH Villa - One-Bedroom Villa",
+        "place_id": "ChIJ2dugqVRvwokR1XsNY7_LDNE",
+        "plus_code": {
+          "compound_code": "H7X3+53 New York, NY, USA",
+          "global_code": "87G8H7X3+53"
+        },
+        "reference": "ChIJ2dugqVRvwokR1XsNY7_LDNE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5917969,
+            "lng": -73.74011229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59314533029149,
+              "lng": -73.73874831970849
+            },
+            "southwest": {
+              "lat": 40.5904473697085,
+              "lng": -73.74144628029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Perfect Beach Retreat House - July - Labor Day",
+        "place_id": "ChIJGc1Z31FvwokRIIexqxNcPjs",
+        "plus_code": {
+          "compound_code": "H7R5+PX Atlantic Beach, NY, USA",
+          "global_code": "87G8H7R5+PX"
+        },
+        "reference": "ChIJGc1Z31FvwokRIIexqxNcPjs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59178929999999,
+            "lng": -73.74011229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5931377302915,
+              "lng": -73.7387488197085
+            },
+            "southwest": {
+              "lat": 40.5904397697085,
+              "lng": -73.74144678029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Perfect Beach Retreat House - July - Labor Day",
+        "place_id": "ChIJKRBY31FvwokRVESKbY_Fb1E",
+        "plus_code": {
+          "compound_code": "H7R5+PX Atlantic Beach, NY, USA",
+          "global_code": "87G8H7R5+PX"
+        },
+        "reference": "ChIJKRBY31FvwokRVESKbY_Fb1E",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5998993,
+            "lng": -73.74828339999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6012122802915,
+              "lng": -73.74698666970849
+            },
+            "southwest": {
+              "lat": 40.5985143197085,
+              "lng": -73.7496846302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "FIVE TOWNS BEST PRIVATE BEACH HOUSE",
+        "place_id": "ChIJfUZaLqtowokR5vIWT0zMwf4",
+        "plus_code": {
+          "compound_code": "H7X2+XM New York, NY, USA",
+          "global_code": "87G8H7X2+XM"
+        },
+        "reference": "ChIJfUZaLqtowokR5vIWT0zMwf4",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5910683,
+            "lng": -73.73889160000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5925156802915,
+              "lng": -73.7375359697085
+            },
+            "southwest": {
+              "lat": 40.5898177197085,
+              "lng": -73.74023393029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Atlantic Beach Paradise - Quiet Beach Sanctuary - Four-Bedroom House",
+        "place_id": "ChIJd6y40k9vwokRok6m-k8rvWk",
+        "reference": "ChIJd6y40k9vwokRok6m-k8rvWk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6016617,
+            "lng": -73.7513886
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6030374802915,
+              "lng": -73.75017941970849
+            },
+            "southwest": {
+              "lat": 40.6003395197085,
+              "lng": -73.7528773802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "King sized suite near JFK - Family Suite",
+        "place_id": "ChIJiWo8W6powokRuZYecEvy2Zk",
+        "plus_code": {
+          "compound_code": "J62X+MC New York, NY, USA",
+          "global_code": "87G8J62X+MC"
+        },
+        "reference": "ChIJiWo8W6powokRuZYecEvy2Zk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5961985,
+            "lng": -73.7399838
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59742638029149,
+              "lng": -73.7386410197085
+            },
+            "southwest": {
+              "lat": 40.59472841970849,
+              "lng": -73.74133898029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Seagirt Avenue Wetlands",
+        "photos": [
+          {
+            "height": 1840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEENzxCNf3nZGg6dLHVS5EcPXkiOfd4tx68nCyJVQwvCt7kPQU1enbPJKlly6ucDm88j-WtNoFAjG-fgg9N3FG5vsQxE-HuUt8Q-25O1r0t7uF0oAaYFfThFdQ9IpVjfDb4M99DPPpL8RJaeF4SROViGTcRjb6AbVWA_PqJDuwUB_lvufQmkBmLZBh74fbGycHfHMoLtzXjpDEMCFtnCzCU-Xhj9jboKRQN47GYYAUdXBafSJ9ogy3e4z7C-aCmm5-eKKVpBzqrj_fyJiGo3nZjRqvD4OklKHm1a55OF7kHqh7ncYxc_4paJA772fSai_h9VCxj9T5cKhK0K26dxVfc94ON7S7suX3-AJeiqHtb4fGpE6n0Yln4TYugQp5EFNJpz2NSkyVwZ5bnkUh75BWStoXbW6PlSnVfpOG7leAUqlnSnb2IfSFAfHYgFrsn5ysD3Kq0Gr7hO3tBYPoeDwkqTl6jWn4RDqqaMVCw6oWoYZ2ux1dVFwgREEHj5BiPVL2JuaI9npAz1tetp3dgU17v3FWL6hT6Rz6-w7wIhmg1JiDiweBnchdfF_zaOiaVVWo1IzHZ9SBz0xX_1Wq_hvex3AZ47HqEfbToJVl2JZ7NG5x3_qF5KchzMrAmQno8PxdWzMg",
+            "width": 3701
+          }
+        ],
+        "place_id": "ChIJJT3D_dBvwokRrE7pzZccZqc",
+        "plus_code": {
+          "compound_code": "H7W6+F2 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H7W6+F2"
+        },
+        "rating": 3.5,
+        "reference": "ChIJJT3D_dBvwokRrE7pzZccZqc",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "Seagirt Ave. &, Beach 4th Street, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6023512,
+            "lng": -73.7417219
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6037178802915,
+              "lng": -73.7403383697085
+            },
+            "southwest": {
+              "lat": 40.6010199197085,
+              "lng": -73.7430363302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "The Bench",
+        "photos": [
+          {
+            "height": 1222,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106999877799043992498\">Pharoh Bpajamas</a>"
+            ],
+            "photo_reference": "AU_ZVEHa5JT2q25_e7yWujmUsnOlEk3yzcbV6VyS62GmkbXHKKtMTb225m-FT2MEJTH2cH7zjzVQz8nz2lI_vjD7CHg78nqr2jvI3A1C69hqAyZ1Fn1iEE9XFEfMVGG5kXtpdBgp9P6VEx-lAoKv3Y5tqKUm6RAkvVCufTXXpNZSDO9Q4ZBvS3rVM8UEyV9ctWx3SK4pIkBANV_J9dsddtGHFbEbzEwA4uz-6VmQzW46_lSqECIvHG_xwkOfgMoKx6xqAWX_DhHTFGZQZNhOvAEM8652PIB4pgV1PBZM0tn59Q9YoDq02EsGTJIM-scxMuZ_yOZuPqXvYy9UGBT2DJNDL6A9VUw0cXcUJsJu8NOoXNrbsiDrHAyqT2p_PsRnubgCuUC-XfHJdJAO9o0GAebyeyvCcSsayPMiABxZl1wx827Bk3Hi5uKjEY0aVRLooWzc0dJHHzHaBDIBoc7Bf6vxzrIzJpMiR6CrI9PSngBdg5P4vdXdeSmfMIfsp-mZN_6zE4GeYlCqOYHzWJ1i-DE6NNDxnLbd7OCwt3ZhAtZCRL1dtEFLEJs0vNixSB9cWNesNq3dS1Pl7_P9OwPlcVX_WkTf2oY81e6jnfFdibE45dBinE-U1en4Zra1cxRiVzNwZD-y2g",
+            "width": 2058
+          }
+        ],
+        "place_id": "ChIJc6xtbN1lwokRn-8sO-2n7fY",
+        "plus_code": {
+          "compound_code": "J725+W8 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J725+W8"
+        },
+        "rating": 4.6,
+        "reference": "ChIJc6xtbN1lwokRn-8sO-2n7fY",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 27,
+        "vicinity": "6-52 Reads Lane, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5944975,
+            "lng": -73.7477687
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5961274802915,
+              "lng": -73.74650751970849
+            },
+            "southwest": {
+              "lat": 40.5934295197085,
+              "lng": -73.7492054802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Swimming Beach",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103442221536446062425\">Itsmenana_98 :}</a>"
+            ],
+            "photo_reference": "AU_ZVEEAdxVBZyxJDnKJa8ZIsIzD0Xts9BAKn_FXrYEtBPfhvabgZlRVkZWNyyR2F9dmIbv1j49AHdP5qpc8K9oyU7yARXENF4CFPVsuymbsuYKfcV7bmUSQTtzxS1LsaB8kQdYUpawKMarPlApGDZoQJXg1Ugsmou-xTkF0CDlzLqVH5OwEd4e6XPTkq70wBnS-xzbIrcjCHWPzr11E4NRP6e5fn-JOVKpaQzBwN9syocpHRtpOqLmk7pTrlAh_2xjNFqYFu0dU9VsI3VEzJL_e4UrEoc3JuEAlnBl10u5FttMmsB0OzFUk_iYPoHXtnIEtRJonSyJD-tdO3m5oIVL3jMyru4S8p53JZDT83SK-FW3eje3OYEqRJBVztZcvzpvG4dIO0wBUgh6BvcDY0db7dYO6X5K3xCFIncDshONxSwpfHtnb0llzZurnm6hQ0o-ZbZL5sVS3szhTqWdUjhgCru_Ak7fWZLC3YqqrWP0M5sPGdqmVKAm84_B1UPkeHEZoQc8Pi_DsTE-tQAUQMpg7WPgM8TLzfV9DNrvLcmMutTUrNX4M2pO7-mriBUHmRaOnNmUF7Q07tbsuqMsgcFBK-lw4meJP5YMiaQFJmCSnLtZPqlbPFV3ki-i66-w38H5xgyaMWXNe",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJa0rGIyJpwokRyT6wPW9uSbo",
+        "plus_code": {
+          "compound_code": "H7V2+QV Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H7V2+QV"
+        },
+        "rating": 4.9,
+        "reference": "ChIJa0rGIyJpwokRyT6wPW9uSbo",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 15,
+        "vicinity": "Beach 17th St. &, Seagirt Boulevard, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6000589,
+            "lng": -73.7496058
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6012980802915,
+              "lng": -73.74812346970849
+            },
+            "southwest": {
+              "lat": 40.5986001197085,
+              "lng": -73.7508214302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Cornell Burial Ground",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101270317255322783056\">Wyatt Cornell</a>"
+            ],
+            "photo_reference": "AU_ZVEGvW7plHjzOm--oZ20T5Ekim0xn1QWCA9FNY9_GBjOldvfCEcl-cXJfqGa9B7kh-hQZstwsqEiZ3jtND5idNqcu_HUmWQ_Gygu9hxEdpiajn2O1lHnGo_maUnGba-zaZ-xfj5sxZ9GBFmKsXyNKxN14oDTcd993kuPkO7gYBw1bmFBRvnqGYHfhzPw6QdqxCFSk-XOQnn6fqMzJLUQVxVzUE9_fR816Vp92gZKBsFr35rqr6G532d3x3FuXtsbp8UAoj18Men6aMBDmb1hiY157p1rCGH1CEBuHZ57CEmI8fxMTickguiEX3hR5J91IJ4vRCVGwivE-z2jroEdjCTXIv8wcF4tIZk5H3lH9qzuOISV-_n0SAu1LukKkqDXBaD1puTplXW8T4tSoA5Exmep5f2L4naSya-1DiGor6QQ5lxXzakTO5Gaz_B1TzMYjI7tq-YksHkiMA7boW2k1xc9nEZs37GzpZJ2PeeMsPZ-UJdZHbwsX01YG-jXNIoJK8Insxq1DMZZcme3PWaT6p4pkE-t29dF9JdHrR1zl5jVGpE-3PI64VsZP-pKMi2tLdi2hcWWwJG6_TGHmW66Lw6XOZQf2wBHXClU9rsIx_Jcn33Cxesn6OTRdoUHWMOWrWT10ujHM",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJQWmPGatowokR8KlOiHi5FQI",
+        "plus_code": {
+          "compound_code": "J722+25 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J722+25"
+        },
+        "rating": 3.6,
+        "reference": "ChIJQWmPGatowokR8KlOiHi5FQI",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 30,
+        "vicinity": "Caffrey Avenue, Far Rockaway"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.601875,
+            "lng": -73.7453835
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6032838302915,
+              "lng": -73.7439244197085
+            },
+            "southwest": {
+              "lat": 40.6005858697085,
+              "lng": -73.74662238029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St /Caffery Av",
+        "place_id": "ChIJDQBjelVvwokRbmUvqJ6_jxg",
+        "plus_code": {
+          "compound_code": "J723+QR New York, NY, USA",
+          "global_code": "87G8J723+QR"
+        },
+        "reference": "ChIJDQBjelVvwokRbmUvqJ6_jxg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.596661,
+            "lng": -73.744017
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5979919302915,
+              "lng": -73.7426593197085
+            },
+            "southwest": {
+              "lat": 40.5952939697085,
+              "lng": -73.7453572802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St/Seagirt Blvd",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEHuAJM5myt9W5Kp5ys5aN70J0Je0lsqM-wiBybUmcJoN1Qp-2hBn0D9WldYpT24AZJ46Av3SBVLbhPcHKONCi89rtDnB4ts1oCGEE8QhPRLiN9E8B4HRN6Y1ZtPlyCqiCwrXuBMetmNLrBDa7AKDAEU1zFUYpBpLZPEuari9FuKuN0gDtXj55VwcexNxGaSVztCmwqXjmhvPCl5AOb-Pp98txCMNdWPR6SAmIkKqfoPzXuj8eIAjtzl8GpehFgi5eN2-ijN7Ebb1urOAVC7gsuZcTVOOQGbp-VhsO4oi1O7aeUMcgHfapZ05glDDmRUNMS3XDqRh2H7aqeJZXVJlLbci4GXTMUV4piKQrMhRGWYq7EJkkPZf7I4nPSLCGuCo7W4kaG6q-U3NHYy_ORmGgOHEVrJTUN6o3TxAemHRq572L-MqZusOXNyPfHH523I-T-pvzAUmFlcnGjQZE-XB4LZvZR3ck-smiWakBI7l0vp4JD8_DvvrU5Eh1o8u0a8guUSmE17TJYYe5AkX41mfIo8n68DBIDO_NFYFS3ZyXx0Fo9GM9uLuiWzNsbEUiyPwPN9NgXQtOdld0aDMeBtYRPrPlgrK8XNwJut7Fi3oa-XmV_Oe3Cm6hZ3p5-Q3hFz0Cw7N1Zi",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJY-KchVNvwokR1EPJa4UpsYc",
+        "plus_code": {
+          "compound_code": "H7W4+M9 New York, NY, USA",
+          "global_code": "87G8H7W4+M9"
+        },
+        "rating": 2.8,
+        "reference": "ChIJY-KchVNvwokR1EPJa4UpsYc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59602,
+            "lng": -73.744171
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5973642802915,
+              "lng": -73.7428218697085
+            },
+            "southwest": {
+              "lat": 40.5946663197085,
+              "lng": -73.7455198302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seagirt Av/Beach 9 St",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108848423631760595506\">Mark Lee Tagala</a>"
+            ],
+            "photo_reference": "AU_ZVEE1oDdi_AZTSZ3_DeYL3TFF1pSQrTk-f36exlV5z04oF5uI2Tujn_ti1GciNmwLwH292aXrkeTGzos-KJMYS3Ygkxxs1XVRKsuF3Pgb8MWeN8bBoC4Nl36RutS_0ycdAiMZzDzwOGRGDz_iXtkamnEzLNoRktwmvgJGMBaPdTSns4JeJV5WDNkRGNl-v4kg14WAwYFbZDWGEuVcnRL7Yg4CQYonuU1MZ2PHk-vmne73rKkeF3lIvkCp7VQx2Mh5Tfmj3ZR_qHtaiwI3SmQQE0sneORBynQbC5f08djofKscRBgcdr85EN_WAU_j8NBFuyYkYKSiMQooQv-QAb2s3emSf9TEL5m3ET-8H_0a8LXT81zeM1iUxtQKk0XVQ0YPaCtL0IM9FU_ex9ddqKzeW-IxqrAACe4uQr8mEeBuP18zFGdPS79QEoqPaXX4MOxq97mnm-kvDXqndtCAZe9EKtey8nMIH92kdHrCuzF5JbgBdoY1xrtzelj8AFCQ4ALUWAoXJ8Fn6nuHduWb4hWZi_43c0mhEitR24Xed2XRun4pDPjbt8vJvHPUyskgmVASFPDCNRgyz-r2fL2WBD5jjHn2AOad6nNErp6lHYNky3gwg0H8fRtMUylOTtj9T1MWl_RhDw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ3xW5olNvwokRwQuZyUHucp0",
+        "plus_code": {
+          "compound_code": "H7W4+C8 New York, NY, USA",
+          "global_code": "87G8H7W4+C8"
+        },
+        "rating": 4,
+        "reference": "ChIJ3xW5olNvwokRwQuZyUHucp0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59807999999999,
+            "lng": -73.744492
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59942363029149,
+              "lng": -73.74318606970849
+            },
+            "southwest": {
+              "lat": 40.59672566970849,
+              "lng": -73.7458840302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St/Jarvis Court",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEFENuDk1wR1xo1meLxNa-o2k-mpwZa-j3w7YuTPKFUue1gYnvFsy7-bxiGtd0wPMMI6j5ePg2637k6nkIGSqwIubZDj8TY1xd_0-zcCIY9HiNdFJWxscgJVCpTQ48aUcx984uoF8Eq3SohoNjp1vgSXn9w82PDG4oY1T3k57N-ofGLxZx9aZUtMY9VA9_taj64GIy2cQvoKWHJsEtTMTu5rdzivqBWx_R88cj6gDqYFuGL4dTAXIkKdRL_LigxzigCGSHEKssmBeXiz1fd4R246EGYRRkRq_spV2AHXt4rUiJcSY1trFx8shW4AIGQOkTucQSXPALVeuThajfjK4c9GfAYknkstHagmH2KbpE7lhEnafiwK-yaD50h7dMo3SdPKNqpVCpb7CIthQgZoi9SWIb2G8JzlEqi5FaZYYv6fVBxja4l7JiHo7pFkAY4tRaJvn-H_ZbNIfQFv3KJ_e9-8F30Z3gAo1f9QKarXtG1TW-7uEFd4vUzf03CFVZ8U8eDpUKpAYpO1MJ_HHDGq2tQnLvhsYyf0l1SDY1xywUs4oO-liQZaO0kev6RE9GBQaxG76iq0woM5whZ5ddqEObPFtomuAy4OKhUblKmnFdcenfi8knEIYq-ZgoQk6nCV",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJ1RJhY1RvwokRhZuztjM0yM8",
+        "plus_code": {
+          "compound_code": "H7X4+66 New York, NY, USA",
+          "global_code": "87G8H7X4+66"
+        },
+        "reference": "ChIJ1RJhY1RvwokRhZuztjM0yM8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59801099999999,
+            "lng": -73.74466699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5993660802915,
+              "lng": -73.7432686197085
+            },
+            "southwest": {
+              "lat": 40.5966681197085,
+              "lng": -73.74596658029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St/Meeham Ave",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEE3KSeh2lKso3gYzyfRmrMmiqib-_4ji6bE8GxSFY-1fUZqdGAzW1pYt6l4fox6_QzJavVk8lUwVi19F7lBdG-nlXfqLbgrSkWMwLAZnt9XFNCG60pGx08ynZlikjy6d9HLB-Pr45rZeEicrBB313zJwy3JXyhUR8a5VisZpHQQzW_3UXzgtuXhQqpJFWkKh2ayAJ-S9AxyoAZwbQiW_EOZ8tAkV5BaxrgaNhJQXmMTJzwXDvul1w-e6geoTRGHle6mrijl1OOXzNKtHOC3tRwUTjSydJGrgaNVbhreYIc01TIShomPPS3z-obilUTev_ziRQYNteCBHrBYHgL-y2Y1zQXMKcCaWjDMkfxn0hnQPJWMD8OSwGka31NTvmXERpD2MOlTh1POa-l58KLCE5GCAodJd6P7awYLuMaE82_LLpGuO1DSsnAu1BOniBGDSbjrEZOzLhD6ExKUB8l7rc5N4zuKcRPAxPTQ8vMUmZcYqzqkoucDdb4ndGBjvmBlMnQjHeXUdXyadmECH8eEia4IeURPp5GdlCEMWyP49-mhfNzZv_pmSSb4fhMLK0SjHVfxCkZCZWgyALqSN31vCw2mplhnhdaKplp3X9vpjTgj2LtsCQVV6rLTUSHVBkZhZhwN1A",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJJ2lhY1RvwokR_5Y6B-I_YgE",
+        "plus_code": {
+          "compound_code": "H7X4+64 New York, NY, USA",
+          "global_code": "87G8H7X4+64"
+        },
+        "reference": "ChIJJ2lhY1RvwokR_5Y6B-I_YgE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.600166,
+            "lng": -73.74494899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6015272802915,
+              "lng": -73.74360061970849
+            },
+            "southwest": {
+              "lat": 40.5988293197085,
+              "lng": -73.7462985802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St/Hicksville Rd",
+        "place_id": "ChIJQ-TGAFVvwokRkYv6V3UyYzU",
+        "plus_code": {
+          "compound_code": "J724+32 New York, NY, USA",
+          "global_code": "87G8J724+32"
+        },
+        "reference": "ChIJQ-TGAFVvwokRkYv6V3UyYzU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59544799999999,
+            "lng": -73.74844399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59675973029149,
+              "lng": -73.7470874197085
+            },
+            "southwest": {
+              "lat": 40.59406176970849,
+              "lng": -73.74978538029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seagirt Blvd/Beach 14 St",
+        "place_id": "ChIJQegeKK1owokRvVJ59ejPfpM",
+        "plus_code": {
+          "compound_code": "H7W2+5J New York, NY, USA",
+          "global_code": "87G8H7W2+5J"
+        },
+        "rating": 5,
+        "reference": "ChIJQegeKK1owokRvVJ59ejPfpM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.601822,
+            "lng": -73.745468
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6031761802915,
+              "lng": -73.7440750197085
+            },
+            "southwest": {
+              "lat": 40.6004782197085,
+              "lng": -73.74677298029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St/Caffery Ave",
+        "place_id": "ChIJKQ50cFVvwokR-Ngn9jXv4Lg",
+        "plus_code": {
+          "compound_code": "J723+PR New York, NY, USA",
+          "global_code": "87G8J723+PR"
+        },
+        "reference": "ChIJKQ50cFVvwokR-Ngn9jXv4Lg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.603245,
+            "lng": -73.745834
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60459398029149,
+              "lng": -73.74447746970849
+            },
+            "southwest": {
+              "lat": 40.6018960197085,
+              "lng": -73.74717543029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 9 St/Cornaga Ave",
+        "place_id": "ChIJM1Ojkf9lwokR8yZXvMfdY7I",
+        "plus_code": {
+          "compound_code": "J733+7M New York, NY, USA",
+          "global_code": "87G8J733+7M"
+        },
+        "rating": 5,
+        "reference": "ChIJM1Ojkf9lwokR8yZXvMfdY7I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.603394,
+            "lng": -73.746376
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60473493029151,
+              "lng": -73.74507716970848
+            },
+            "southwest": {
+              "lat": 40.60203696970851,
+              "lng": -73.7477751302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cornaga Ave/Rose St",
+        "place_id": "ChIJFxHb7P9lwokRMo3qHruu5bY",
+        "plus_code": {
+          "compound_code": "J733+9C New York, NY, USA",
+          "global_code": "87G8J733+9C"
+        },
+        "rating": 2.5,
+        "reference": "ChIJFxHb7P9lwokRMo3qHruu5bY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594978,
+            "lng": -73.751335
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5962620802915,
+              "lng": -73.7499864197085
+            },
+            "southwest": {
+              "lat": 40.5935641197085,
+              "lng": -73.75268438029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seagirt Blvd/Beach 17 St",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104347839761189232890\">B.E Francis</a>"
+            ],
+            "photo_reference": "AU_ZVEHCK3Hyh1JHLAPJMr-nhUtJoFHEp_KYK9-vsZMIOihuA1-bBysNYa5lJ1YtB3cH8O5au4UchwJw2Q5P78WBGd-nATCSJXF1xayJxAx9eXDIif3CjmDBL30jf-n57OBU5mzZf6JI5oxJeViT-djQGTSAch_RLH2etmuIpp9-QIM-vgi-UJiGFoOq016XTEkrKhOT5TvGjPxzLLZMRM1aSSE4mLuxfd1VAcUi-dDiC_aHuMlJP4uFxt5VR6jaGhgIW4mWV-9wLiDFtNfLBlE_mSavpuVAdCyP6Y2lxR9SwfJ3Lnw0azCFbnLNe9ijMzrZ2nHGxQrZNL-nNLgNBAVjTpmpKVBhEXpwi8tAna4OOuH6XyEDOIE59yGt6S5WHxZsM-dwweMvSiOLFYWi1Mvoa2ZQ7UnNuLVbS3mcypEbU3Vh1_nqcCLu-8I7AmRoMXVvoEwCI0lzUCz25HGtXc6C_3o6FfIbnEVCluBbwhWDcaUU9NnVRDeYWO9cP_0CV5WOi7MTRPHj_paQid-5PG-UDaXXmU80sGye7r_BO8Y9jd98XDKitcWwiJuZbTjRAhQTCknWKU1_SIJM_JjwCOHfFR0gkpoQu6DM7R3SdYm7LHMCR_Paew3GrBpBuACNyA_weSHatA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJuSqvpa1owokRSjVk4pJ7J5M",
+        "plus_code": {
+          "compound_code": "H6VX+XF New York, NY, USA",
+          "global_code": "87G8H6VX+XF"
+        },
+        "rating": 3.3,
+        "reference": "ChIJuSqvpa1owokRSjVk4pJ7J5M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60266499999999,
+            "lng": -73.749207
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6040246802915,
+              "lng": -73.7478623697085
+            },
+            "southwest": {
+              "lat": 40.6013267197085,
+              "lng": -73.7505603302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cornaga Ave/Mott Ave",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEFtvMYwmLT6EWOiLy30vhVi255BF4Fu4hdZBFM4ViFz9AejMXx4Lb5YTpUjlyOOlim6Wzx7X3QsN4reWl04HHj3CaBVMk4LcIh0qJocOmhluxVJl_e8ZTrfy_dn6FN3N1h0ixcChSEFzJtx1lMqm3v9VzsCf0yRsOqy9Rv6MjiSCP2L9sr_hk_nABqum05ac8ep55b0UL3UXC9qn46q956JwTR9c8973AVeu-2c-Hxialhd3Sqfy0sGMtBa2p7qlaSm9KxPENqhSSquyiuEt-qLV6hTme-4mM2L3BkP5S24_yjIvpURISiCdCOc-HzqVbHS87f9IPnmueJLHCYzZsfyasTk3Stwc3jKwiUW2yws0LU-unOhIiBkOWR9AfoM6Pp-o5lPxieWnzEXFJO1ZsSYyTop0fHIlqwl2KE8Z6gyuQI1gNe893ZMhd8WC14SOKsUdA6QRvCRf3dg22lrywZh3TKWxnDPBL7WjBc46MDjq-qo-7_SC1weeNHUzqSkhaxGjSjTNdSquoLwcErc8-8JE4wZarsxXZID0Q_rPWwL5No48tPjtchrHqQf8F358eeGJnrEM9WKNr3rE7U_bNgwRgIoOzm9jJ7Andx6tgkgPZsJ4kjaGMLekfJuDb806bQP5z9G",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ0UQboqpowokRiE5-MQ-fhuc",
+        "plus_code": {
+          "compound_code": "J732+38 New York, NY, USA",
+          "global_code": "87G8J732+38"
+        },
+        "rating": 2,
+        "reference": "ChIJ0UQboqpowokRiE5-MQ-fhuc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60267799999999,
+            "lng": -73.7494555
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6040375802915,
+              "lng": -73.74811051970849
+            },
+            "southwest": {
+              "lat": 40.6013396197085,
+              "lng": -73.7508084802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cornaga Av /Mott Av",
+        "place_id": "ChIJeUYmmapowokRIRYuwr2cpEY",
+        "plus_code": {
+          "compound_code": "J732+36 New York, NY, USA",
+          "global_code": "87G8J732+36"
+        },
+        "reference": "ChIJeUYmmapowokRIRYuwr2cpEY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.602692,
+            "lng": -73.749702
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6039985302915,
+              "lng": -73.7483387197085
+            },
+            "southwest": {
+              "lat": 40.6013005697085,
+              "lng": -73.7510366802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cornaga Ave/Mott Ave",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEH6OlhnaVfM_3N_c8CbwyBLQON_r6QwA3lNBYmg4ma-hxu1sptql-zVv84e7Kvq0eoo7AWwToVYGLGgMW-vWLx3e_n7VtirOXPfgbUjGY-MQ6CkXBmDJlLOtYwDvWEAe_tTmkOkF_cYhKTbMe4k-eDBifTb3geqI9agnau4z6Tz7c4_bysK5lzuFEofX08Zp768jBAm1bdnXA1HHSOnNR02hJRrwkWgV-yw66GAxaVfmB9zCR3WEQBe3-hQOWeOH5rTkDKhQ8cdKBHmL5rznFknyuB1e4mGS_7x80mdA4qCoex1kA0mIMFalKbVomS795fGd03L_hOg9Th6VTdblY0btODJdAf-BTXkR4GfhVtKFwfck-xmQw96-FAeOQ75K-i5ek9hg5cxmB_UYr5ngqI9MIrVk5nh9_EgHG5jZnyxKwaMoV2pHMDVwL7uizQb-dL1rAcR0tY4D0qkfuUOuPz0KOWHNemYz9yWtQv5bZVVpKfiUn8wiK6DiNpYhsLgxSwh0COCEXyh_27aUxbk2eFZYWdk2sS2mJZplXqy4ism2-y2OQj1-zT_NaC7I4pHj1-U7A5qlP4n5bLnihqnysEzNVO7kH9inm3v-7d791-ZFRkdgpL62pURy6P5uUb0QAi6cw",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJH67rm6powokR2K9iYke0y64",
+        "plus_code": {
+          "compound_code": "J732+34 New York, NY, USA",
+          "global_code": "87G8J732+34"
+        },
+        "rating": 4,
+        "reference": "ChIJH67rm6powokR2K9iYke0y64",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.599645,
+            "lng": -73.752319
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6009952302915,
+              "lng": -73.7509762197085
+            },
+            "southwest": {
+              "lat": 40.5982972697085,
+              "lng": -73.75367418029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 19 St/Gateway Blvd",
+        "place_id": "ChIJfXCa6qtowokRlMySPpMKujA",
+        "plus_code": {
+          "compound_code": "H6XX+V3 New York, NY, USA",
+          "global_code": "87G8H6XX+V3"
+        },
+        "reference": "ChIJfXCa6qtowokRlMySPpMKujA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59805619999999,
+            "lng": -73.7528839
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5994093302915,
+              "lng": -73.75155386970849
+            },
+            "southwest": {
+              "lat": 40.5967113697085,
+              "lng": -73.7542518302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 19 St/Plainview Av",
+        "place_id": "ChIJpVYGEKxowokRuxKExzH6Mls",
+        "plus_code": {
+          "compound_code": "H6XW+6R New York, NY, USA",
+          "global_code": "87G8H6XW+6R"
+        },
+        "rating": 5,
+        "reference": "ChIJpVYGEKxowokRuxKExzH6Mls",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58949700000001,
+            "lng": -73.73639
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5908425302915,
+              "lng": -73.7350413697085
+            },
+            "southwest": {
+              "lat": 40.58814456970851,
+              "lng": -73.7377393302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Atl Beach Park St Albany Blvd",
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103321974965355855369\">Dj Scratchy (DjScratchy)</a>"
+            ],
+            "photo_reference": "AU_ZVEEGwUUNsTXsJSB0aIkPHr0GMLNh2UKKo8ynmfHKZSLn3lDAX2PGiCRMg-limJqQGz4LmjjNwm6bIT3b7h3KJUZogvw7-aU0NZXdzKECSe_bQzxXcY4FvOHjfFCTltPzdGYuThUeEg5qWykF0B9oRP1-A4j7P-S3MXFFfWDURyXIKokc1cMG6PT0ZdTyTnnh8-BhmIVlls5uzcZ4E4sYtEaaSSDGsqVwp_oK8VXRoJ3SqMIRL1JBXUCMLDYpB2w5YpHrecFc8CvAsdvhLlpwMItaV3TSRJ-7adKXSgepLeeJ4pOyeZl5f6KWZGG9B2f3WSvPgImTPIgRWPShj3FNOv29POCQmTkIr-Y4A2jLmWx1rIRrgYK9kASKuAXsJbKTASHxVrX-Nd2UIx6kpryVEav9dpBkS3Ds-GbhvtdDtDuug9qyaOoKkOAryM4omkzkSLgCW998Nr4_ABeJNvpZyx1x4QysOY8T1CtWT0KrMIFfcU1s5_aphZcXCPRBH1VzG4LcpOK9wA_BYUWD-9piUvBVZHpl-5USCm5xhe9PG-9f3qEjsYsBZJgaoIxXAc9I3gWf8ry6vJ3T0vRyqpSAGq7eXlm80CfoDTV9KiSgE7K1muNqHNHQ2DmuFClafsURcdeHDQ",
+            "width": 3060
+          }
+        ],
+        "place_id": "ChIJIzwzj09vwokRN2XsDcC-MxE",
+        "plus_code": {
+          "compound_code": "H7Q7+QC Atlantic Beach, NY, USA",
+          "global_code": "87G8H7Q7+QC"
+        },
+        "reference": "ChIJIzwzj09vwokRN2XsDcC-MxE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59592799999999,
+            "lng": -73.753143
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5972766302915,
+              "lng": -73.75181986970848
+            },
+            "southwest": {
+              "lat": 40.5945786697085,
+              "lng": -73.7545178302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 19 St/Seagirt Blvd",
+        "place_id": "ChIJtdWw0a1owokRlIxzxdP4Ujo",
+        "plus_code": {
+          "compound_code": "H6WW+9P New York, NY, USA",
+          "global_code": "87G8H6WW+9P"
+        },
+        "rating": 5,
+        "reference": "ChIJtdWw0a1owokRlIxzxdP4Ujo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5896061,
+            "lng": -73.7356657
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59089523029151,
+              "lng": -73.7343226197085
+            },
+            "southwest": {
+              "lat": 40.58819726970851,
+              "lng": -73.7370205802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Atl Beach Park St. Albany Blvd",
+        "place_id": "ChIJT9KFiU9vwokR4MHptvmr3Oc",
+        "plus_code": {
+          "compound_code": "H7Q7+RP Atlantic Beach, NY, USA",
+          "global_code": "87G8H7Q7+RP"
+        },
+        "reference": "ChIJT9KFiU9vwokR4MHptvmr3Oc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.601917,
+            "lng": -73.751576
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6032635302915,
+              "lng": -73.75021441970848
+            },
+            "southwest": {
+              "lat": 40.6005655697085,
+              "lng": -73.7529123802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cornaga Av / B 19",
+        "place_id": "ChIJ8T_JQqpowokRtJqHzcNBmvU",
+        "plus_code": {
+          "compound_code": "J62X+Q9 New York, NY, USA",
+          "global_code": "87G8J62X+Q9"
+        },
+        "reference": "ChIJ8T_JQqpowokRtJqHzcNBmvU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59422,
+          "lng": -73.750587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59548743029149,
+            "lng": -73.74917861970849
+          },
+          "southwest": {
+            "lat": 40.59278946970849,
+            "lng": -73.7518765802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-471-3725",
+      "name": "DredSurfer Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117619959915462612173\">Jenessa Seymour</a>"
+          ],
+          "photo_reference": "AU_ZVEHXivEXu4S4fbyJh7eAdxzxW31vhyykT6Kw_868xv7IpsMYRr9_drWqO-EuwC_NSw_c50TbFegp7SVP4nCB_jHnPtXmO13hU07bZoXPnIEVIWfPadGAzxtqm_gbxw4MGtTqFpCUYC1ejiWrRIPwGmvq783Fo6FJT3YO6lnkpUav3dsqy_HK6uxxVmEEz-EP3QKm8QCMO6ipOvBxdAioy6p7iRd7CXKPi6NwL_UrY1fM-F1opNx9hPj0mC_Ckph566VOsU0J57j8VZu6mAGLMcQKqyNgBB2KBXgePf4GrHPjo5E-7_lORdcMHYMFPcrREFcNJCgy8ASxGqLYS4IvYKKv7ZQe18grvlDET4bcJow9L3d0CylhOb_KiDMbk0yJ3uDX2mOOngh4tursNEP2VUNgE2NYThDCU-ZZc1Hj890i5LWpsm98no21X5Zzqw4nXkMS3tD8n9OLE3R6c088FKlB4vO2OkmgmPR5LPOd7qg442itZ4rFxZ4kGND9JWsi3qXKk_91iatY9ITXblvePQIIM9bMMV9gHVF4aGNTd0EQT9-w2-kNgFQ09pharMDvYBlzMUqEShvQm7LLCgtGgum1adMHDMC7SOsd58L9IZmsuxrrcZCfSh-qPnepmdIE36ncnw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJc_fbBa1owokRIFn1I6Vd2_U",
+      "plus_code": {
+        "compound_code": "H6VX+MQ Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6VX+MQ"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJc_fbBa1owokRIFn1I6Vd2_U",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 196,
+      "vicinity": "16-27 Seagirt Boulevard, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5894843,
+          "lng": -73.7373841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5907570302915,
+            "lng": -73.73593321970849
+          },
+          "southwest": {
+            "lat": 40.5880590697085,
+            "lng": -73.73863118029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 516-792-3323",
+      "name": "Dino's Villa Mare",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117366763948745775213\">Tayler Fisher</a>"
+          ],
+          "photo_reference": "AU_ZVEH8kO_nRlObx9BFkTPe4MyMvE4RVe-xapqGIU754eCc5DVA-PGCDrINKgyCLIeBa8QBtYIO_o73plmguTfjcswC8wtAAZUfqoY9pPZmPM82ZA6VxLbG0OHidKmRoZU0W52QmdcWQJz8xbkxH9CQWeKUzBBZCbw2TN0swIAuoJS51WR5wvBCGxdg7o6qWpkR8sv23fM4rRnXlds7-iQwsSaRGwGbqHDozxKkOmaoIqDJx4sxRavt6j-0zavC7ZgrR9GZ7uvY3LqtVxS3sh2kGRbtAAtAtxfKMhZYF5Wc0cN0dW-hlTElKClK9pFtKAA3q83o_Dicr2X-X8z900ssEuOHDrHX7A2DUHtWlENo3h2d7DnV_pji7SPPiOsSNlqO7PmURicfB9fXWXXIymMtZZz5T7wfl1jK09qF_IWN76aekNuY3II26IG2XOFGT0W3rznX2TWIDlq-BXHwyZ5x5qoBNy6nwgijzrPltIRv7iL-x5UebKQUi74W_Pg7d5PFOsItzArrJZzZxp92BmwDothHAgFrNmx_mjLvdDbWa27-xCic2Pha46tn0Dubq4vZuiO0Jf3AU5oU_omqVwpnM2mYQWDrColU7JYRtR3XblfQxhUIvEjpIXUi5Xh8PSzTwDUy-KNjLRL63GrI6X9oow",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJrXSzkE9vwokR2Co2mVaTvCY",
+      "plus_code": {
+        "compound_code": "H7Q7+Q2 Atlantic Beach, NY, USA",
+        "global_code": "87G8H7Q7+Q2"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJrXSzkE9vwokR2Co2mVaTvCY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 241,
+      "vicinity": "99 The Plaza #1, Atlantic Beach"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6026641,
+          "lng": -73.7502499
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6040752802915,
+            "lng": -73.7488563197085
+          },
+          "southwest": {
+            "lat": 40.6013773197085,
+            "lng": -73.7515542802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-868-1300",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107275098539261457059\">Michael Apfel</a>"
+          ],
+          "photo_reference": "AU_ZVEHECQTTY87J6Dx7vE_JJpmwvy2hHunZXm_KYe3msUHAOkvnOzqmVF-XU7H_EQvn75dHSOZbH2Cw5MuzFfNPDfw-q5s2tc6KuUIjDqYS-_2SbDyreEG2QEo12VAAHyvXRlq5pkQC7cUWDFA8bAHk1RDpVMJvBwZnGqMEyia8I6Kl2y40kKk-0xhAgkRgkdZCu35IrA1vPefWWTbJ-U40FMoD5a18VzK92brJaEbBKoypEokcT3A4IDLqPqd9dGPgZcG27Qdh62SvO8FtTkiNW-zQBPk_xRDWNrosRdJGgW4-eIL7-2iDeknwukI60mFTL8xfKTt3nj1CII3aXoG3-PBUx9e9aPesYdYpr6REn2JSm14JvDt5LTpdO18QoHPoshWExowTmk6EPc5fETyRIiFOUe6MmHkI36ZSllsECGLyT9dDcn0WioD36wyS7Myrkmax5vpPai5Wod2awUZ-mlyy4KKtMWPlIGjKQ7CNkp_8IckD5ilnR3zypaIS2nx5Y_WlnXIbpj-lI3s4KkMgbXW0aHyjoPVxTorU1F8Ao3oyzEhOiF6T3KGiaZapx6NGvwaKR_7WmJ5HO8nLHLv8QjN67g7NQ__muZvJrAAdUpO53m1-K9MAK8T2RzLh2Rgm",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJN0jEhapowokRczP0S0NkNgA",
+      "plus_code": {
+        "compound_code": "J63X+3W Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J63X+3W"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJN0jEhapowokRczP0S0NkNgA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 106,
+      "vicinity": "18-07 Mott Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59578700000001,
+          "lng": -73.7383869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5972060802915,
+            "lng": -73.7370268697085
+          },
+          "southwest": {
+            "lat": 40.5945081197085,
+            "lng": -73.73972483029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-868-1477",
+      "name": "Dannys Delicious Dishes",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114853997388644376412\">Dannys Delicious Dishes</a>"
+          ],
+          "photo_reference": "AU_ZVEG-xOghYUz94spY7eXFhoT_9cfhBtPp-BHpZIPdt6UP2b4xAhyt8bIYhfgqBXPLI4Jw6OLnXR1ymVSkAHb2KzhsVIWbFuCIBgqVf8bNUTwoZvN5Zt_iaaZgxeQWdlbNM1niAcsTSrslju94RIYGjaoOSjvUmmpG4kUGa9gxISxhH_eme5vnNsKtwbkiXn5NNQUhEZKnFPBqMFV9j0v4P0OHjnFn_nhRfhmRWBDHfpOjhQ0di8IOnZp3aP7wZti11LLpNKl20sPU4-Srw2NtNgvdWIVz8hTPprpLFK0tWTbwZzbM4Waom--cCTGnD_gN89rwEG7NF18",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJS9ikOiZvwokRxJvFfoZT9lI",
+      "plus_code": {
+        "compound_code": "H7W6+8J Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H7W6+8J"
+      },
+      "reference": "ChIJS9ikOiZvwokRxJvFfoZT9lI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "207 Seagirt Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5948457,
+          "lng": -73.7519283
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59628583029151,
+            "lng": -73.7505545697085
+          },
+          "southwest": {
+            "lat": 40.59358786970851,
+            "lng": -73.7532525302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-326-6520",
+      "name": "Krispy Krunchy Chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1152,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114873499045804413373\">Krispy Krunchy Chicken</a>"
+          ],
+          "photo_reference": "AU_ZVEHbDRIa7bkc4zYcnnovuyVuje9SThaA_4223u9dD9CBHQdZF6TWXe1AZcjpstJOR3os4o_r9HiSB3EY4j3L3IBQna9tayv0HDszWFhnAjXB2Cf8CZJGt0a4Q6zvEKQbP3o4dxcuvw7ofc-IdyJhXlJM_FxWqNbnRLPmFE3nkloLtmxizlGKtxpNpEu-0f6DP38EoUVOMF367g2jGJ3A6oBhPHYA0UTwC3mqgTD24FVpKmOYqPdhuKEVVjYviAiz6oAZXL7bSIiIgL4wboL0mnCw6Ycw0Tom_ahcJ-PgW7_ww2qvUi5LGF0yI_IROGPBQZHtW2oAhPo",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJyYiYQT5pwokROYjD_3ivPDI",
+      "plus_code": {
+        "compound_code": "H6VX+W6 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6VX+W6"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJyYiYQT5pwokROYjD_3ivPDI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "17-21 Seagirt Boulevard, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594771,
+          "lng": -73.7519688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5962494802915,
+            "lng": -73.75057481970849
+          },
+          "southwest": {
+            "lat": 40.59355151970851,
+            "lng": -73.7532727802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 718-569-5265",
+      "name": "OCEAN PARK MARKET Fried chicken",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117762151824075683853\">Aref Alawah</a>"
+          ],
+          "photo_reference": "AU_ZVEGcnEC9FHKBD64wzjizVC5Hp9bZ7umN_-D4Qmlg1eTc1iebVRp8ggLlzW9RzNJR3oVssyKNKgbiJQlZFslNK6HYy736eHDF3W2USBh-dCJfNbhHs8ajG5ixsmtq6CZAeSObY2ZiNljDwQf8FHXIpyfUiey11eIswOuWoBQPPk0ZtjdbJGaZ-eQyzHXgl0j1Teb0X30xKiYWZN8b9YHy17tYWVbnqXnqwD1ESEBBBesMZQhoWSlRLJmExOG4Jbw3Hij709kEvoOSmjxN04qwzjYO8FREIQTNv8hw3WB5p8SIzQP9tGfw0mdoyTVx5OEkX1_5HAhCNtJYNJyHbaBoVIO7M_90sD4GW_7MaV5PtD-ophckz6bjvvkntWI6v4eazvkm0LHUYsRvDPpvUs7uWoSRZW_i5qtI0O39Qz1VUff_eczhZqdY6983hEWPM88Y-cOHtta2c-IVLV-GSt4aZ-clg6Vv6Yp9U2QGm6ktLaBJY8lMVsZIXM45XDq3Ngissfzkjq6a1C5px1i9xJ7Q0Ld4cJ8IjlZSucnC5JfIGtzqu68HkT4yrNqjKPmAxVObL87yTJUWolE-yHtxa5VAFiinpfoE7uzIltjLzfVSmDZgj8w0WbzsdIHHYntXWt2rw49I-IH0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJw4EgC1lpwokRVxQi7XaaPvU",
+      "plus_code": {
+        "compound_code": "H6VX+W6 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6VX+W6"
+      },
+      "rating": 5,
+      "reference": "ChIJw4EgC1lpwokRVxQi7XaaPvU",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "grocery_or_supermarket",
+        "convenience_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 30,
+      "vicinity": "17-21 Seagirt Boulevard, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6027947,
+          "lng": -73.74978089999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6040497302915,
+            "lng": -73.74844806970849
+          },
+          "southwest": {
+            "lat": 40.6013517697085,
+            "lng": -73.7511460302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-327-4754",
+      "name": "Popeyes Louisiana Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113358973181125261692\">Popeyes Louisiana Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEEf-2FcedhLbhz2Kh8KTAu381tWv5browvw-Twyh29J4qwUEwpSlbYTNKEeZuO5XcFUTAfXW-qiYj-4OtVTGWsjlmCfhxfymx2_bbq-QQ6kRxegcL7Kfss-M7YHvQrUh4VLKGd5A8jbocw9gFKlROUQfDJqplaw5p_Ri4Sx8emnzzeSg5L69ExKzLsb2XDJ1GXhgZkzX72as1dF6BOU7Md5UkcruucuQ-4_hEIRx95QLJgAalNKcu2My5TfMjGlPws8hV60yHHJfIIWXpV4UMWxzAiO2pJmWhhqEZBDsRgTDNMHBNa7UW-desyqQPdjVyKbQWw-X8A",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJDUPfmKpowokRSwAja7Sr1qE",
+      "plus_code": {
+        "compound_code": "J732+43 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J732+43"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJDUPfmKpowokRSwAja7Sr1qE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 546,
+      "vicinity": "14-26 Cornaga Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.602779,
+          "lng": -73.749517
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6040660802915,
+            "lng": -73.7481409197085
+          },
+          "southwest": {
+            "lat": 40.6013681197085,
+            "lng": -73.75083888029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-868-3051",
+      "name": "Lucky Cornaga",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107275098539261457059\">Michael Apfel</a>"
+          ],
+          "photo_reference": "AU_ZVEFIbw1ACLqcF8xfRMj5VgWHFRW2I2d1D95h-xbq7oTKmifUi28hkhRulueobTM60UF_Y9cnoAsPN0kedQqmJW3luQDTlb8r0Il59GDTlFtijv6SV-e7133stvyVCY-oixFgFOhE4fP_5HtzXhkO9wVZhnOyk_Ykq9z_qymLm3grYDZiQW-fVdirDtLckDg9oIdLEtvx_aBAFug2IfdcgwSUTkOIjA9ULakmuSNs9foc0QQaV2wCajDkW8liyuRhlR6YFAmBAlx70BhW23MBalsYz4mR0HVtOKw1QN4h8w-g4xn4pJfHenHldm0ixZGDnuU6obW9NV6AzUghIDgrNCm2uOPbUvNKseWQH6G6mOFuyj8DTHmhE2jxWDyrhxbMCxoMKYLOwrD42zvudDE0zGy6YgZTc7Y7kRkb0mczemp3FVoWSeGF6scX-iswrDPywivcD9RcXbju8ngxANgi85rJXmtf6bVNjj1CzwT64_pyS5PSC8rffJBxyL42sE5v5PUUZv0hkfjMrz-9KLG_b6Krkkp3gXEk13WDfJyhVyYUTuQ8C6l-b8qJQ5LokplV2Hz0GjpJnCQkMkQ0avkaUUALt_RU-JtmBh_1MFd9gBFtCVbcPysbSlfKAkMAcbm-d2lgl0XD",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJPRlHjKlowokR53tJEDb3r-w",
+      "plus_code": {
+        "compound_code": "J732+45 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J732+45"
+      },
+      "price_level": 1,
+      "rating": 3.6,
+      "reference": "ChIJPRlHjKlowokR53tJEDb3r-w",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 136,
+      "vicinity": "14-20 Cornaga Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5892816,
+          "lng": -73.7374573
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5905552802915,
+            "lng": -73.7360159197085
+          },
+          "southwest": {
+            "lat": 40.5878573197085,
+            "lng": -73.73871388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 516-218-2368",
+      "name": "Dinos Hot Pastrami",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113148947611018822952\">Frugal Cyclist</a>"
+          ],
+          "photo_reference": "AU_ZVEHlmp2QQ19WB7Qdt9fILTesragC6onS-fmpp-IdbJET2-txa12IuaQsRwP-1ckNGZpjPErJVNTMwr9OF57s8lR0bAs-iRzZUyJyhz6TLB2683-u38an57MQ1PSjrOJ8rbyNZMqAHHyEkW6QrQ6bcIuHfIrQaGoRG3KbXIhT2Rah5eVJakxeocBdSMpXe0CS-XXM3at_1Bl3ssT8fkGFAu6iyu2NgOExCul9m-0ugXEQExErGrNpa4xxPmmgcLFeOqZKdZUfTVjlQGFQ1ljyb6zrhH8BKEPv2sTp2SK2Iax07qbtiNvYo1k53Mt5DR36y9fuC4YLu8Sqqj2v_yAVj9d5HDQDqquOs5P1ayhjmI4WiTf2qf-nDS831G1GpSsgFkcu5eTy_d-KCW9vouPkFmiaccozFfRvhPp2Hw97YbM1bEcFrEH4phVmDdBtbN-ODRf3VZgZhMtygaVs78HvfjkH8_oWSL5ROenFUrkpnKI-DxQ3LGDXffShDtB0Lwk1uKqHcLQIQGVGt568mP_JB2jyOaZiaOBg6KRcuJAsyJHL8vMrOLGIjbC40ndVRhU5Z1VZIlXdEO8UWwypSDZb7bnCdxZd8TDkpzuTTpRqDCy4V7Pva900Bh__7E1EIGDY_5SZsA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJxfccbtVvwokRkRmkhJ6UNWE",
+      "plus_code": {
+        "compound_code": "H7Q7+P2 Atlantic Beach, NY, USA",
+        "global_code": "87G8H7Q7+P2"
+      },
+      "rating": 3.9,
+      "reference": "ChIJxfccbtVvwokRkRmkhJ6UNWE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "99 The Plaza, Atlantic Beach"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6028803,
+          "lng": -73.750537
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60425548029151,
+            "lng": -73.7491373197085
+          },
+          "southwest": {
+            "lat": 40.60155751970851,
+            "lng": -73.7518352802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-502-0072",
+      "name": "Bocaditos LLC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109138459399393550619\">Estefani Criollo</a>"
+          ],
+          "photo_reference": "AU_ZVEHw_nWx3h_-ZbArbP89tQWmbOhIgISpf0FaEKAaBpyW0yu73hQvVlpm-ojPt5hqb3r7cXJy4pActsHDX0tPP_zuORS6TVD1RK3dLNaDom5jhVmYM0XQVQgzZgmm-UrPH-kBrV0clqYOZw027riCprWmnHUWx1lUl6mZn1ZlKSSggopcdQjPn2w54xdhfme_QOV5DdBDFD15Lc8XYgL8alk5yLsO5M1zDFWDfPJoWB1LyEe54JHRoyn89AOtuDFNO2CSSvhS0SO8kdIcj5GaEBNYPSHr1IFpPfLLFlKxJey4kzrckfN0Bh-BznVHqC3rA2CZ-8IpOil8MnzMTywxxGqVTCdhTbiL43ELqDW6gJluJRqxxQuHqU-dZGJc6jUP90zhwYboohQZEpgYx_NXPvp_ISq_cc6psbhTksthxV3l9sBUuiwyAj6mDFF9ww5PJSp5NO47eC4uBWFVX1BTK9Bnnzf71gxd16EGliz0aLJ0em5JYS16SAdvKncD0kBbiKFFhgsX9xNgh9bii4AH2-c9rqpLEDMHgkEr21tW7yrI8TL1PUEOGf1cYntQLySrJevq7kQXav-rpwtjn1KBH3iIE-OnrqpPyc42qigICMFHfVhmqFZhE_9iqHvPqqFy90WGxdbZQq0jrdmecbTjUalMSRY",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJc5mfUixpwokRkuIaEWOrNEo",
+      "plus_code": {
+        "compound_code": "J63X+5Q Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J63X+5Q"
+      },
+      "rating": 5,
+      "reference": "ChIJc5mfUixpwokRkuIaEWOrNEo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "18-23 Mott Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5980683,
+          "lng": -73.74298859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5994229302915,
+            "lng": -73.74174496970849
+          },
+          "southwest": {
+            "lat": 40.5967249697085,
+            "lng": -73.74444293029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Apartment by the beach",
+      "place_id": "ChIJg15UEVRvwokR9eqnIq-ClPY",
+      "plus_code": {
+        "compound_code": "H7X4+6R New York, NY, USA",
+        "global_code": "87G8H7X4+6R"
+      },
+      "reference": "ChIJg15UEVRvwokR9eqnIq-ClPY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5956955,
+          "lng": -73.74185179999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5970701802915,
+            "lng": -73.74050551970849
+          },
+          "southwest": {
+            "lat": 40.5943722197085,
+            "lng": -73.7432034802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cozy apartment with Bedroom , New appliances WiFi, AC in Queens On The Beach",
+      "place_id": "ChIJdbwQYFFvwokRFfdp4cczB98",
+      "plus_code": {
+        "compound_code": "H7W5+77 New York, NY, USA",
+        "global_code": "87G8H7W5+77"
+      },
+      "reference": "ChIJdbwQYFFvwokRFfdp4cczB98",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5956688,
+          "lng": -73.7418136
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5970607302915,
+            "lng": -73.74046901970848
+          },
+          "southwest": {
+            "lat": 40.5943627697085,
+            "lng": -73.7431669802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Apartment by the beach",
+      "place_id": "ChIJp1sVYFFvwokRyYX0ziAu1CQ",
+      "reference": "ChIJp1sVYFFvwokRyYX0ziAu1CQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5956665,
+          "lng": -73.74180969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5970602302915,
+            "lng": -73.74046576970849
+          },
+          "southwest": {
+            "lat": 40.5943622697085,
+            "lng": -73.7431637302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hotel en mar",
+      "place_id": "ChIJge9mQ9VvwokRSkEpTiI6q1o",
+      "plus_code": {
+        "compound_code": "H7W5+77 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H7W5+77"
+      },
+      "reference": "ChIJge9mQ9VvwokRSkEpTiI6q1o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "7-11 Seagirt Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59791949999999,
+          "lng": -73.74729920000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5992676302915,
+            "lng": -73.74585266970851
+          },
+          "southwest": {
+            "lat": 40.5965696697085,
+            "lng": -73.74855063029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "FIVE TOWNS BEST PRIVATE BEACH HOUSE",
+      "place_id": "ChIJzSSnqVRvwokRn9yHZ19lYPI",
+      "plus_code": {
+        "compound_code": "H7X3+53 New York, NY, USA",
+        "global_code": "87G8H7X3+53"
+      },
+      "reference": "ChIJzSSnqVRvwokRn9yHZ19lYPI",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59791939999999,
+          "lng": -73.7473068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59926748029149,
+            "lng": -73.74585646970851
+          },
+          "southwest": {
+            "lat": 40.5965695197085,
+            "lng": -73.74855443029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Five Towns Best Private BeacH Villa - One-Bedroom Villa",
+      "place_id": "ChIJ2dugqVRvwokR1XsNY7_LDNE",
+      "plus_code": {
+        "compound_code": "H7X3+53 New York, NY, USA",
+        "global_code": "87G8H7X3+53"
+      },
+      "reference": "ChIJ2dugqVRvwokR1XsNY7_LDNE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5917969,
+          "lng": -73.74011229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59314533029149,
+            "lng": -73.73874831970849
+          },
+          "southwest": {
+            "lat": 40.5904473697085,
+            "lng": -73.74144628029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Perfect Beach Retreat House - July - Labor Day",
+      "place_id": "ChIJGc1Z31FvwokRIIexqxNcPjs",
+      "plus_code": {
+        "compound_code": "H7R5+PX Atlantic Beach, NY, USA",
+        "global_code": "87G8H7R5+PX"
+      },
+      "reference": "ChIJGc1Z31FvwokRIIexqxNcPjs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59178929999999,
+          "lng": -73.74011229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5931377302915,
+            "lng": -73.7387488197085
+          },
+          "southwest": {
+            "lat": 40.5904397697085,
+            "lng": -73.74144678029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Perfect Beach Retreat House - July - Labor Day",
+      "place_id": "ChIJKRBY31FvwokRVESKbY_Fb1E",
+      "plus_code": {
+        "compound_code": "H7R5+PX Atlantic Beach, NY, USA",
+        "global_code": "87G8H7R5+PX"
+      },
+      "reference": "ChIJKRBY31FvwokRVESKbY_Fb1E",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5998993,
+          "lng": -73.74828339999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6012122802915,
+            "lng": -73.74698666970849
+          },
+          "southwest": {
+            "lat": 40.5985143197085,
+            "lng": -73.7496846302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "FIVE TOWNS BEST PRIVATE BEACH HOUSE",
+      "place_id": "ChIJfUZaLqtowokR5vIWT0zMwf4",
+      "plus_code": {
+        "compound_code": "H7X2+XM New York, NY, USA",
+        "global_code": "87G8H7X2+XM"
+      },
+      "reference": "ChIJfUZaLqtowokR5vIWT0zMwf4",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5910683,
+          "lng": -73.73889160000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5925156802915,
+            "lng": -73.7375359697085
+          },
+          "southwest": {
+            "lat": 40.5898177197085,
+            "lng": -73.74023393029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Atlantic Beach Paradise - Quiet Beach Sanctuary - Four-Bedroom House",
+      "place_id": "ChIJd6y40k9vwokRok6m-k8rvWk",
+      "reference": "ChIJd6y40k9vwokRok6m-k8rvWk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6016617,
+          "lng": -73.7513886
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6030374802915,
+            "lng": -73.75017941970849
+          },
+          "southwest": {
+            "lat": 40.6003395197085,
+            "lng": -73.7528773802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "King sized suite near JFK - Family Suite",
+      "place_id": "ChIJiWo8W6powokRuZYecEvy2Zk",
+      "plus_code": {
+        "compound_code": "J62X+MC New York, NY, USA",
+        "global_code": "87G8J62X+MC"
+      },
+      "reference": "ChIJiWo8W6powokRuZYecEvy2Zk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5961985,
+          "lng": -73.7399838
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59742638029149,
+            "lng": -73.7386410197085
+          },
+          "southwest": {
+            "lat": 40.59472841970849,
+            "lng": -73.74133898029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Seagirt Avenue Wetlands",
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEENzxCNf3nZGg6dLHVS5EcPXkiOfd4tx68nCyJVQwvCt7kPQU1enbPJKlly6ucDm88j-WtNoFAjG-fgg9N3FG5vsQxE-HuUt8Q-25O1r0t7uF0oAaYFfThFdQ9IpVjfDb4M99DPPpL8RJaeF4SROViGTcRjb6AbVWA_PqJDuwUB_lvufQmkBmLZBh74fbGycHfHMoLtzXjpDEMCFtnCzCU-Xhj9jboKRQN47GYYAUdXBafSJ9ogy3e4z7C-aCmm5-eKKVpBzqrj_fyJiGo3nZjRqvD4OklKHm1a55OF7kHqh7ncYxc_4paJA772fSai_h9VCxj9T5cKhK0K26dxVfc94ON7S7suX3-AJeiqHtb4fGpE6n0Yln4TYugQp5EFNJpz2NSkyVwZ5bnkUh75BWStoXbW6PlSnVfpOG7leAUqlnSnb2IfSFAfHYgFrsn5ysD3Kq0Gr7hO3tBYPoeDwkqTl6jWn4RDqqaMVCw6oWoYZ2ux1dVFwgREEHj5BiPVL2JuaI9npAz1tetp3dgU17v3FWL6hT6Rz6-w7wIhmg1JiDiweBnchdfF_zaOiaVVWo1IzHZ9SBz0xX_1Wq_hvex3AZ47HqEfbToJVl2JZ7NG5x3_qF5KchzMrAmQno8PxdWzMg",
+          "width": 3701
+        }
+      ],
+      "place_id": "ChIJJT3D_dBvwokRrE7pzZccZqc",
+      "plus_code": {
+        "compound_code": "H7W6+F2 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H7W6+F2"
+      },
+      "rating": 3.5,
+      "reference": "ChIJJT3D_dBvwokRrE7pzZccZqc",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Seagirt Ave. &, Beach 4th Street, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6023512,
+          "lng": -73.7417219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6037178802915,
+            "lng": -73.7403383697085
+          },
+          "southwest": {
+            "lat": 40.6010199197085,
+            "lng": -73.7430363302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "The Bench",
+      "photos": [
+        {
+          "height": 1222,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106999877799043992498\">Pharoh Bpajamas</a>"
+          ],
+          "photo_reference": "AU_ZVEHa5JT2q25_e7yWujmUsnOlEk3yzcbV6VyS62GmkbXHKKtMTb225m-FT2MEJTH2cH7zjzVQz8nz2lI_vjD7CHg78nqr2jvI3A1C69hqAyZ1Fn1iEE9XFEfMVGG5kXtpdBgp9P6VEx-lAoKv3Y5tqKUm6RAkvVCufTXXpNZSDO9Q4ZBvS3rVM8UEyV9ctWx3SK4pIkBANV_J9dsddtGHFbEbzEwA4uz-6VmQzW46_lSqECIvHG_xwkOfgMoKx6xqAWX_DhHTFGZQZNhOvAEM8652PIB4pgV1PBZM0tn59Q9YoDq02EsGTJIM-scxMuZ_yOZuPqXvYy9UGBT2DJNDL6A9VUw0cXcUJsJu8NOoXNrbsiDrHAyqT2p_PsRnubgCuUC-XfHJdJAO9o0GAebyeyvCcSsayPMiABxZl1wx827Bk3Hi5uKjEY0aVRLooWzc0dJHHzHaBDIBoc7Bf6vxzrIzJpMiR6CrI9PSngBdg5P4vdXdeSmfMIfsp-mZN_6zE4GeYlCqOYHzWJ1i-DE6NNDxnLbd7OCwt3ZhAtZCRL1dtEFLEJs0vNixSB9cWNesNq3dS1Pl7_P9OwPlcVX_WkTf2oY81e6jnfFdibE45dBinE-U1en4Zra1cxRiVzNwZD-y2g",
+          "width": 2058
+        }
+      ],
+      "place_id": "ChIJc6xtbN1lwokRn-8sO-2n7fY",
+      "plus_code": {
+        "compound_code": "J725+W8 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J725+W8"
+      },
+      "rating": 4.6,
+      "reference": "ChIJc6xtbN1lwokRn-8sO-2n7fY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "6-52 Reads Lane, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5944975,
+          "lng": -73.7477687
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5961274802915,
+            "lng": -73.74650751970849
+          },
+          "southwest": {
+            "lat": 40.5934295197085,
+            "lng": -73.7492054802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Swimming Beach",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103442221536446062425\">Itsmenana_98 :}</a>"
+          ],
+          "photo_reference": "AU_ZVEEAdxVBZyxJDnKJa8ZIsIzD0Xts9BAKn_FXrYEtBPfhvabgZlRVkZWNyyR2F9dmIbv1j49AHdP5qpc8K9oyU7yARXENF4CFPVsuymbsuYKfcV7bmUSQTtzxS1LsaB8kQdYUpawKMarPlApGDZoQJXg1Ugsmou-xTkF0CDlzLqVH5OwEd4e6XPTkq70wBnS-xzbIrcjCHWPzr11E4NRP6e5fn-JOVKpaQzBwN9syocpHRtpOqLmk7pTrlAh_2xjNFqYFu0dU9VsI3VEzJL_e4UrEoc3JuEAlnBl10u5FttMmsB0OzFUk_iYPoHXtnIEtRJonSyJD-tdO3m5oIVL3jMyru4S8p53JZDT83SK-FW3eje3OYEqRJBVztZcvzpvG4dIO0wBUgh6BvcDY0db7dYO6X5K3xCFIncDshONxSwpfHtnb0llzZurnm6hQ0o-ZbZL5sVS3szhTqWdUjhgCru_Ak7fWZLC3YqqrWP0M5sPGdqmVKAm84_B1UPkeHEZoQc8Pi_DsTE-tQAUQMpg7WPgM8TLzfV9DNrvLcmMutTUrNX4M2pO7-mriBUHmRaOnNmUF7Q07tbsuqMsgcFBK-lw4meJP5YMiaQFJmCSnLtZPqlbPFV3ki-i66-w38H5xgyaMWXNe",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJa0rGIyJpwokRyT6wPW9uSbo",
+      "plus_code": {
+        "compound_code": "H7V2+QV Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H7V2+QV"
+      },
+      "rating": 4.9,
+      "reference": "ChIJa0rGIyJpwokRyT6wPW9uSbo",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "Beach 17th St. &, Seagirt Boulevard, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6000589,
+          "lng": -73.7496058
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6012980802915,
+            "lng": -73.74812346970849
+          },
+          "southwest": {
+            "lat": 40.5986001197085,
+            "lng": -73.7508214302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Cornell Burial Ground",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101270317255322783056\">Wyatt Cornell</a>"
+          ],
+          "photo_reference": "AU_ZVEGvW7plHjzOm--oZ20T5Ekim0xn1QWCA9FNY9_GBjOldvfCEcl-cXJfqGa9B7kh-hQZstwsqEiZ3jtND5idNqcu_HUmWQ_Gygu9hxEdpiajn2O1lHnGo_maUnGba-zaZ-xfj5sxZ9GBFmKsXyNKxN14oDTcd993kuPkO7gYBw1bmFBRvnqGYHfhzPw6QdqxCFSk-XOQnn6fqMzJLUQVxVzUE9_fR816Vp92gZKBsFr35rqr6G532d3x3FuXtsbp8UAoj18Men6aMBDmb1hiY157p1rCGH1CEBuHZ57CEmI8fxMTickguiEX3hR5J91IJ4vRCVGwivE-z2jroEdjCTXIv8wcF4tIZk5H3lH9qzuOISV-_n0SAu1LukKkqDXBaD1puTplXW8T4tSoA5Exmep5f2L4naSya-1DiGor6QQ5lxXzakTO5Gaz_B1TzMYjI7tq-YksHkiMA7boW2k1xc9nEZs37GzpZJ2PeeMsPZ-UJdZHbwsX01YG-jXNIoJK8Insxq1DMZZcme3PWaT6p4pkE-t29dF9JdHrR1zl5jVGpE-3PI64VsZP-pKMi2tLdi2hcWWwJG6_TGHmW66Lw6XOZQf2wBHXClU9rsIx_Jcn33Cxesn6OTRdoUHWMOWrWT10ujHM",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQWmPGatowokR8KlOiHi5FQI",
+      "plus_code": {
+        "compound_code": "J722+25 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J722+25"
+      },
+      "rating": 3.6,
+      "reference": "ChIJQWmPGatowokR8KlOiHi5FQI",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 30,
+      "vicinity": "Caffrey Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.601875,
+          "lng": -73.7453835
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6032838302915,
+            "lng": -73.7439244197085
+          },
+          "southwest": {
+            "lat": 40.6005858697085,
+            "lng": -73.74662238029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St /Caffery Av",
+      "place_id": "ChIJDQBjelVvwokRbmUvqJ6_jxg",
+      "plus_code": {
+        "compound_code": "J723+QR New York, NY, USA",
+        "global_code": "87G8J723+QR"
+      },
+      "reference": "ChIJDQBjelVvwokRbmUvqJ6_jxg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.596661,
+          "lng": -73.744017
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5979919302915,
+            "lng": -73.7426593197085
+          },
+          "southwest": {
+            "lat": 40.5952939697085,
+            "lng": -73.7453572802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St/Seagirt Blvd",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEHuAJM5myt9W5Kp5ys5aN70J0Je0lsqM-wiBybUmcJoN1Qp-2hBn0D9WldYpT24AZJ46Av3SBVLbhPcHKONCi89rtDnB4ts1oCGEE8QhPRLiN9E8B4HRN6Y1ZtPlyCqiCwrXuBMetmNLrBDa7AKDAEU1zFUYpBpLZPEuari9FuKuN0gDtXj55VwcexNxGaSVztCmwqXjmhvPCl5AOb-Pp98txCMNdWPR6SAmIkKqfoPzXuj8eIAjtzl8GpehFgi5eN2-ijN7Ebb1urOAVC7gsuZcTVOOQGbp-VhsO4oi1O7aeUMcgHfapZ05glDDmRUNMS3XDqRh2H7aqeJZXVJlLbci4GXTMUV4piKQrMhRGWYq7EJkkPZf7I4nPSLCGuCo7W4kaG6q-U3NHYy_ORmGgOHEVrJTUN6o3TxAemHRq572L-MqZusOXNyPfHH523I-T-pvzAUmFlcnGjQZE-XB4LZvZR3ck-smiWakBI7l0vp4JD8_DvvrU5Eh1o8u0a8guUSmE17TJYYe5AkX41mfIo8n68DBIDO_NFYFS3ZyXx0Fo9GM9uLuiWzNsbEUiyPwPN9NgXQtOdld0aDMeBtYRPrPlgrK8XNwJut7Fi3oa-XmV_Oe3Cm6hZ3p5-Q3hFz0Cw7N1Zi",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJY-KchVNvwokR1EPJa4UpsYc",
+      "plus_code": {
+        "compound_code": "H7W4+M9 New York, NY, USA",
+        "global_code": "87G8H7W4+M9"
+      },
+      "rating": 2.8,
+      "reference": "ChIJY-KchVNvwokR1EPJa4UpsYc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59602,
+          "lng": -73.744171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5973642802915,
+            "lng": -73.7428218697085
+          },
+          "southwest": {
+            "lat": 40.5946663197085,
+            "lng": -73.7455198302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seagirt Av/Beach 9 St",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108848423631760595506\">Mark Lee Tagala</a>"
+          ],
+          "photo_reference": "AU_ZVEE1oDdi_AZTSZ3_DeYL3TFF1pSQrTk-f36exlV5z04oF5uI2Tujn_ti1GciNmwLwH292aXrkeTGzos-KJMYS3Ygkxxs1XVRKsuF3Pgb8MWeN8bBoC4Nl36RutS_0ycdAiMZzDzwOGRGDz_iXtkamnEzLNoRktwmvgJGMBaPdTSns4JeJV5WDNkRGNl-v4kg14WAwYFbZDWGEuVcnRL7Yg4CQYonuU1MZ2PHk-vmne73rKkeF3lIvkCp7VQx2Mh5Tfmj3ZR_qHtaiwI3SmQQE0sneORBynQbC5f08djofKscRBgcdr85EN_WAU_j8NBFuyYkYKSiMQooQv-QAb2s3emSf9TEL5m3ET-8H_0a8LXT81zeM1iUxtQKk0XVQ0YPaCtL0IM9FU_ex9ddqKzeW-IxqrAACe4uQr8mEeBuP18zFGdPS79QEoqPaXX4MOxq97mnm-kvDXqndtCAZe9EKtey8nMIH92kdHrCuzF5JbgBdoY1xrtzelj8AFCQ4ALUWAoXJ8Fn6nuHduWb4hWZi_43c0mhEitR24Xed2XRun4pDPjbt8vJvHPUyskgmVASFPDCNRgyz-r2fL2WBD5jjHn2AOad6nNErp6lHYNky3gwg0H8fRtMUylOTtj9T1MWl_RhDw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ3xW5olNvwokRwQuZyUHucp0",
+      "plus_code": {
+        "compound_code": "H7W4+C8 New York, NY, USA",
+        "global_code": "87G8H7W4+C8"
+      },
+      "rating": 4,
+      "reference": "ChIJ3xW5olNvwokRwQuZyUHucp0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59807999999999,
+          "lng": -73.744492
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59942363029149,
+            "lng": -73.74318606970849
+          },
+          "southwest": {
+            "lat": 40.59672566970849,
+            "lng": -73.7458840302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St/Jarvis Court",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEFENuDk1wR1xo1meLxNa-o2k-mpwZa-j3w7YuTPKFUue1gYnvFsy7-bxiGtd0wPMMI6j5ePg2637k6nkIGSqwIubZDj8TY1xd_0-zcCIY9HiNdFJWxscgJVCpTQ48aUcx984uoF8Eq3SohoNjp1vgSXn9w82PDG4oY1T3k57N-ofGLxZx9aZUtMY9VA9_taj64GIy2cQvoKWHJsEtTMTu5rdzivqBWx_R88cj6gDqYFuGL4dTAXIkKdRL_LigxzigCGSHEKssmBeXiz1fd4R246EGYRRkRq_spV2AHXt4rUiJcSY1trFx8shW4AIGQOkTucQSXPALVeuThajfjK4c9GfAYknkstHagmH2KbpE7lhEnafiwK-yaD50h7dMo3SdPKNqpVCpb7CIthQgZoi9SWIb2G8JzlEqi5FaZYYv6fVBxja4l7JiHo7pFkAY4tRaJvn-H_ZbNIfQFv3KJ_e9-8F30Z3gAo1f9QKarXtG1TW-7uEFd4vUzf03CFVZ8U8eDpUKpAYpO1MJ_HHDGq2tQnLvhsYyf0l1SDY1xywUs4oO-liQZaO0kev6RE9GBQaxG76iq0woM5whZ5ddqEObPFtomuAy4OKhUblKmnFdcenfi8knEIYq-ZgoQk6nCV",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJ1RJhY1RvwokRhZuztjM0yM8",
+      "plus_code": {
+        "compound_code": "H7X4+66 New York, NY, USA",
+        "global_code": "87G8H7X4+66"
+      },
+      "reference": "ChIJ1RJhY1RvwokRhZuztjM0yM8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59801099999999,
+          "lng": -73.74466699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5993660802915,
+            "lng": -73.7432686197085
+          },
+          "southwest": {
+            "lat": 40.5966681197085,
+            "lng": -73.74596658029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St/Meeham Ave",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEE3KSeh2lKso3gYzyfRmrMmiqib-_4ji6bE8GxSFY-1fUZqdGAzW1pYt6l4fox6_QzJavVk8lUwVi19F7lBdG-nlXfqLbgrSkWMwLAZnt9XFNCG60pGx08ynZlikjy6d9HLB-Pr45rZeEicrBB313zJwy3JXyhUR8a5VisZpHQQzW_3UXzgtuXhQqpJFWkKh2ayAJ-S9AxyoAZwbQiW_EOZ8tAkV5BaxrgaNhJQXmMTJzwXDvul1w-e6geoTRGHle6mrijl1OOXzNKtHOC3tRwUTjSydJGrgaNVbhreYIc01TIShomPPS3z-obilUTev_ziRQYNteCBHrBYHgL-y2Y1zQXMKcCaWjDMkfxn0hnQPJWMD8OSwGka31NTvmXERpD2MOlTh1POa-l58KLCE5GCAodJd6P7awYLuMaE82_LLpGuO1DSsnAu1BOniBGDSbjrEZOzLhD6ExKUB8l7rc5N4zuKcRPAxPTQ8vMUmZcYqzqkoucDdb4ndGBjvmBlMnQjHeXUdXyadmECH8eEia4IeURPp5GdlCEMWyP49-mhfNzZv_pmSSb4fhMLK0SjHVfxCkZCZWgyALqSN31vCw2mplhnhdaKplp3X9vpjTgj2LtsCQVV6rLTUSHVBkZhZhwN1A",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJJ2lhY1RvwokR_5Y6B-I_YgE",
+      "plus_code": {
+        "compound_code": "H7X4+64 New York, NY, USA",
+        "global_code": "87G8H7X4+64"
+      },
+      "reference": "ChIJJ2lhY1RvwokR_5Y6B-I_YgE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.600166,
+          "lng": -73.74494899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6015272802915,
+            "lng": -73.74360061970849
+          },
+          "southwest": {
+            "lat": 40.5988293197085,
+            "lng": -73.7462985802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St/Hicksville Rd",
+      "place_id": "ChIJQ-TGAFVvwokRkYv6V3UyYzU",
+      "plus_code": {
+        "compound_code": "J724+32 New York, NY, USA",
+        "global_code": "87G8J724+32"
+      },
+      "reference": "ChIJQ-TGAFVvwokRkYv6V3UyYzU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59544799999999,
+          "lng": -73.74844399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59675973029149,
+            "lng": -73.7470874197085
+          },
+          "southwest": {
+            "lat": 40.59406176970849,
+            "lng": -73.74978538029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seagirt Blvd/Beach 14 St",
+      "place_id": "ChIJQegeKK1owokRvVJ59ejPfpM",
+      "plus_code": {
+        "compound_code": "H7W2+5J New York, NY, USA",
+        "global_code": "87G8H7W2+5J"
+      },
+      "rating": 5,
+      "reference": "ChIJQegeKK1owokRvVJ59ejPfpM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.601822,
+          "lng": -73.745468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6031761802915,
+            "lng": -73.7440750197085
+          },
+          "southwest": {
+            "lat": 40.6004782197085,
+            "lng": -73.74677298029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St/Caffery Ave",
+      "place_id": "ChIJKQ50cFVvwokR-Ngn9jXv4Lg",
+      "plus_code": {
+        "compound_code": "J723+PR New York, NY, USA",
+        "global_code": "87G8J723+PR"
+      },
+      "reference": "ChIJKQ50cFVvwokR-Ngn9jXv4Lg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.603245,
+          "lng": -73.745834
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60459398029149,
+            "lng": -73.74447746970849
+          },
+          "southwest": {
+            "lat": 40.6018960197085,
+            "lng": -73.74717543029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 9 St/Cornaga Ave",
+      "place_id": "ChIJM1Ojkf9lwokR8yZXvMfdY7I",
+      "plus_code": {
+        "compound_code": "J733+7M New York, NY, USA",
+        "global_code": "87G8J733+7M"
+      },
+      "rating": 5,
+      "reference": "ChIJM1Ojkf9lwokR8yZXvMfdY7I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.603394,
+          "lng": -73.746376
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60473493029151,
+            "lng": -73.74507716970848
+          },
+          "southwest": {
+            "lat": 40.60203696970851,
+            "lng": -73.7477751302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cornaga Ave/Rose St",
+      "place_id": "ChIJFxHb7P9lwokRMo3qHruu5bY",
+      "plus_code": {
+        "compound_code": "J733+9C New York, NY, USA",
+        "global_code": "87G8J733+9C"
+      },
+      "rating": 2.5,
+      "reference": "ChIJFxHb7P9lwokRMo3qHruu5bY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594978,
+          "lng": -73.751335
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5962620802915,
+            "lng": -73.7499864197085
+          },
+          "southwest": {
+            "lat": 40.5935641197085,
+            "lng": -73.75268438029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seagirt Blvd/Beach 17 St",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104347839761189232890\">B.E Francis</a>"
+          ],
+          "photo_reference": "AU_ZVEHCK3Hyh1JHLAPJMr-nhUtJoFHEp_KYK9-vsZMIOihuA1-bBysNYa5lJ1YtB3cH8O5au4UchwJw2Q5P78WBGd-nATCSJXF1xayJxAx9eXDIif3CjmDBL30jf-n57OBU5mzZf6JI5oxJeViT-djQGTSAch_RLH2etmuIpp9-QIM-vgi-UJiGFoOq016XTEkrKhOT5TvGjPxzLLZMRM1aSSE4mLuxfd1VAcUi-dDiC_aHuMlJP4uFxt5VR6jaGhgIW4mWV-9wLiDFtNfLBlE_mSavpuVAdCyP6Y2lxR9SwfJ3Lnw0azCFbnLNe9ijMzrZ2nHGxQrZNL-nNLgNBAVjTpmpKVBhEXpwi8tAna4OOuH6XyEDOIE59yGt6S5WHxZsM-dwweMvSiOLFYWi1Mvoa2ZQ7UnNuLVbS3mcypEbU3Vh1_nqcCLu-8I7AmRoMXVvoEwCI0lzUCz25HGtXc6C_3o6FfIbnEVCluBbwhWDcaUU9NnVRDeYWO9cP_0CV5WOi7MTRPHj_paQid-5PG-UDaXXmU80sGye7r_BO8Y9jd98XDKitcWwiJuZbTjRAhQTCknWKU1_SIJM_JjwCOHfFR0gkpoQu6DM7R3SdYm7LHMCR_Paew3GrBpBuACNyA_weSHatA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJuSqvpa1owokRSjVk4pJ7J5M",
+      "plus_code": {
+        "compound_code": "H6VX+XF New York, NY, USA",
+        "global_code": "87G8H6VX+XF"
+      },
+      "rating": 3.3,
+      "reference": "ChIJuSqvpa1owokRSjVk4pJ7J5M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60266499999999,
+          "lng": -73.749207
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6040246802915,
+            "lng": -73.7478623697085
+          },
+          "southwest": {
+            "lat": 40.6013267197085,
+            "lng": -73.7505603302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cornaga Ave/Mott Ave",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEFtvMYwmLT6EWOiLy30vhVi255BF4Fu4hdZBFM4ViFz9AejMXx4Lb5YTpUjlyOOlim6Wzx7X3QsN4reWl04HHj3CaBVMk4LcIh0qJocOmhluxVJl_e8ZTrfy_dn6FN3N1h0ixcChSEFzJtx1lMqm3v9VzsCf0yRsOqy9Rv6MjiSCP2L9sr_hk_nABqum05ac8ep55b0UL3UXC9qn46q956JwTR9c8973AVeu-2c-Hxialhd3Sqfy0sGMtBa2p7qlaSm9KxPENqhSSquyiuEt-qLV6hTme-4mM2L3BkP5S24_yjIvpURISiCdCOc-HzqVbHS87f9IPnmueJLHCYzZsfyasTk3Stwc3jKwiUW2yws0LU-unOhIiBkOWR9AfoM6Pp-o5lPxieWnzEXFJO1ZsSYyTop0fHIlqwl2KE8Z6gyuQI1gNe893ZMhd8WC14SOKsUdA6QRvCRf3dg22lrywZh3TKWxnDPBL7WjBc46MDjq-qo-7_SC1weeNHUzqSkhaxGjSjTNdSquoLwcErc8-8JE4wZarsxXZID0Q_rPWwL5No48tPjtchrHqQf8F358eeGJnrEM9WKNr3rE7U_bNgwRgIoOzm9jJ7Andx6tgkgPZsJ4kjaGMLekfJuDb806bQP5z9G",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ0UQboqpowokRiE5-MQ-fhuc",
+      "plus_code": {
+        "compound_code": "J732+38 New York, NY, USA",
+        "global_code": "87G8J732+38"
+      },
+      "rating": 2,
+      "reference": "ChIJ0UQboqpowokRiE5-MQ-fhuc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60267799999999,
+          "lng": -73.7494555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6040375802915,
+            "lng": -73.74811051970849
+          },
+          "southwest": {
+            "lat": 40.6013396197085,
+            "lng": -73.7508084802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cornaga Av /Mott Av",
+      "place_id": "ChIJeUYmmapowokRIRYuwr2cpEY",
+      "plus_code": {
+        "compound_code": "J732+36 New York, NY, USA",
+        "global_code": "87G8J732+36"
+      },
+      "reference": "ChIJeUYmmapowokRIRYuwr2cpEY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.602692,
+          "lng": -73.749702
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6039985302915,
+            "lng": -73.7483387197085
+          },
+          "southwest": {
+            "lat": 40.6013005697085,
+            "lng": -73.7510366802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cornaga Ave/Mott Ave",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEH6OlhnaVfM_3N_c8CbwyBLQON_r6QwA3lNBYmg4ma-hxu1sptql-zVv84e7Kvq0eoo7AWwToVYGLGgMW-vWLx3e_n7VtirOXPfgbUjGY-MQ6CkXBmDJlLOtYwDvWEAe_tTmkOkF_cYhKTbMe4k-eDBifTb3geqI9agnau4z6Tz7c4_bysK5lzuFEofX08Zp768jBAm1bdnXA1HHSOnNR02hJRrwkWgV-yw66GAxaVfmB9zCR3WEQBe3-hQOWeOH5rTkDKhQ8cdKBHmL5rznFknyuB1e4mGS_7x80mdA4qCoex1kA0mIMFalKbVomS795fGd03L_hOg9Th6VTdblY0btODJdAf-BTXkR4GfhVtKFwfck-xmQw96-FAeOQ75K-i5ek9hg5cxmB_UYr5ngqI9MIrVk5nh9_EgHG5jZnyxKwaMoV2pHMDVwL7uizQb-dL1rAcR0tY4D0qkfuUOuPz0KOWHNemYz9yWtQv5bZVVpKfiUn8wiK6DiNpYhsLgxSwh0COCEXyh_27aUxbk2eFZYWdk2sS2mJZplXqy4ism2-y2OQj1-zT_NaC7I4pHj1-U7A5qlP4n5bLnihqnysEzNVO7kH9inm3v-7d791-ZFRkdgpL62pURy6P5uUb0QAi6cw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJH67rm6powokR2K9iYke0y64",
+      "plus_code": {
+        "compound_code": "J732+34 New York, NY, USA",
+        "global_code": "87G8J732+34"
+      },
+      "rating": 4,
+      "reference": "ChIJH67rm6powokR2K9iYke0y64",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.599645,
+          "lng": -73.752319
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6009952302915,
+            "lng": -73.7509762197085
+          },
+          "southwest": {
+            "lat": 40.5982972697085,
+            "lng": -73.75367418029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 19 St/Gateway Blvd",
+      "place_id": "ChIJfXCa6qtowokRlMySPpMKujA",
+      "plus_code": {
+        "compound_code": "H6XX+V3 New York, NY, USA",
+        "global_code": "87G8H6XX+V3"
+      },
+      "reference": "ChIJfXCa6qtowokRlMySPpMKujA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59805619999999,
+          "lng": -73.7528839
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5994093302915,
+            "lng": -73.75155386970849
+          },
+          "southwest": {
+            "lat": 40.5967113697085,
+            "lng": -73.7542518302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 19 St/Plainview Av",
+      "place_id": "ChIJpVYGEKxowokRuxKExzH6Mls",
+      "plus_code": {
+        "compound_code": "H6XW+6R New York, NY, USA",
+        "global_code": "87G8H6XW+6R"
+      },
+      "rating": 5,
+      "reference": "ChIJpVYGEKxowokRuxKExzH6Mls",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58949700000001,
+          "lng": -73.73639
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5908425302915,
+            "lng": -73.7350413697085
+          },
+          "southwest": {
+            "lat": 40.58814456970851,
+            "lng": -73.7377393302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Atl Beach Park St Albany Blvd",
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103321974965355855369\">Dj Scratchy (DjScratchy)</a>"
+          ],
+          "photo_reference": "AU_ZVEEGwUUNsTXsJSB0aIkPHr0GMLNh2UKKo8ynmfHKZSLn3lDAX2PGiCRMg-limJqQGz4LmjjNwm6bIT3b7h3KJUZogvw7-aU0NZXdzKECSe_bQzxXcY4FvOHjfFCTltPzdGYuThUeEg5qWykF0B9oRP1-A4j7P-S3MXFFfWDURyXIKokc1cMG6PT0ZdTyTnnh8-BhmIVlls5uzcZ4E4sYtEaaSSDGsqVwp_oK8VXRoJ3SqMIRL1JBXUCMLDYpB2w5YpHrecFc8CvAsdvhLlpwMItaV3TSRJ-7adKXSgepLeeJ4pOyeZl5f6KWZGG9B2f3WSvPgImTPIgRWPShj3FNOv29POCQmTkIr-Y4A2jLmWx1rIRrgYK9kASKuAXsJbKTASHxVrX-Nd2UIx6kpryVEav9dpBkS3Ds-GbhvtdDtDuug9qyaOoKkOAryM4omkzkSLgCW998Nr4_ABeJNvpZyx1x4QysOY8T1CtWT0KrMIFfcU1s5_aphZcXCPRBH1VzG4LcpOK9wA_BYUWD-9piUvBVZHpl-5USCm5xhe9PG-9f3qEjsYsBZJgaoIxXAc9I3gWf8ry6vJ3T0vRyqpSAGq7eXlm80CfoDTV9KiSgE7K1muNqHNHQ2DmuFClafsURcdeHDQ",
+          "width": 3060
+        }
+      ],
+      "place_id": "ChIJIzwzj09vwokRN2XsDcC-MxE",
+      "plus_code": {
+        "compound_code": "H7Q7+QC Atlantic Beach, NY, USA",
+        "global_code": "87G8H7Q7+QC"
+      },
+      "reference": "ChIJIzwzj09vwokRN2XsDcC-MxE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59592799999999,
+          "lng": -73.753143
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5972766302915,
+            "lng": -73.75181986970848
+          },
+          "southwest": {
+            "lat": 40.5945786697085,
+            "lng": -73.7545178302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 19 St/Seagirt Blvd",
+      "place_id": "ChIJtdWw0a1owokRlIxzxdP4Ujo",
+      "plus_code": {
+        "compound_code": "H6WW+9P New York, NY, USA",
+        "global_code": "87G8H6WW+9P"
+      },
+      "rating": 5,
+      "reference": "ChIJtdWw0a1owokRlIxzxdP4Ujo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5896061,
+          "lng": -73.7356657
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59089523029151,
+            "lng": -73.7343226197085
+          },
+          "southwest": {
+            "lat": 40.58819726970851,
+            "lng": -73.7370205802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Atl Beach Park St. Albany Blvd",
+      "place_id": "ChIJT9KFiU9vwokR4MHptvmr3Oc",
+      "plus_code": {
+        "compound_code": "H7Q7+RP Atlantic Beach, NY, USA",
+        "global_code": "87G8H7Q7+RP"
+      },
+      "reference": "ChIJT9KFiU9vwokR4MHptvmr3Oc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.601917,
+          "lng": -73.751576
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6032635302915,
+            "lng": -73.75021441970848
+          },
+          "southwest": {
+            "lat": 40.6005655697085,
+            "lng": -73.7529123802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cornaga Av / B 19",
+      "place_id": "ChIJ8T_JQqpowokRtJqHzcNBmvU",
+      "plus_code": {
+        "compound_code": "J62X+Q9 New York, NY, USA",
+        "global_code": "87G8J62X+Q9"
+      },
+      "reference": "ChIJ8T_JQqpowokRtJqHzcNBmvU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

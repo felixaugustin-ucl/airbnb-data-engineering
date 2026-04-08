@@ -1,0 +1,2773 @@
+{
+  "neighbourhood": "Bay Terrace",
+  "centroid": {
+    "lat": 40.790879378205126,
+    "lon": -73.78057357692308
+  },
+  "fetched_at": "2026-04-06T14:10:21.779366+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78844670000001,
+            "lng": -73.7851748
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7898789802915,
+              "lng": -73.7839318197085
+            },
+            "southwest": {
+              "lat": 40.78718101970851,
+              "lng": -73.7866297802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-352-6606",
+        "name": "Ponticello Baybridge Italian Restaurant & Pizzeria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110034206329512369259\">William Patrick</a>"
+            ],
+            "photo_reference": "AU_ZVEGjke0RjpXProMXT4UHQsW0iZ01pd0m9oIxwYmJ-6sB9XhsoHMaFdaaFODGFMveBbmMgN8UQSXf79BkeW9HipywsYb9jfU7RfBQP4HciDWzeYXBDGgP22nKnVKlUO1fW4jjut0JKYg5Rbwouc2DWGVhO8shfgveUiW4sBwltWFeeOTVbjxmQ3KlCHm-Nf_bUofjdD0mOdJ6BP7UrO2rCD4gK-04_dMYaPEnMSOXiV2l0hKs6pQIcIKx-j_PrkIvYna21odd7bW6mF2v7GesunGJIAslQvfNcLD3L2sR9Arl4A004JgWXekqtZYWPg3BRbzmwynhYZZREr0-epi3puJW1CoIwlRIGksG2Krv832ArK0ivRf3I0EgRyiKgj-OpcPzxlRSe9Wv7xdh3dh4PdYdOxMIAkz0kCX0691APgqt0NeziQ0HPEzytH7OZFp9ONyrH9zsTayKNtht0fOp2jXlRxPbuETAph0HlpjPL2FGiI-2lt9S5DH58wxKjw9-MIqyLexuYlD9JhP8-yeko7Emo-RpaMw0mA4CXu8twMZb3WCheU7OlIWcDIIIGjS3cdcSGeiR6BYJBdQDArdIX854IEg_Eo3R_ag6C1m67AQ7D6xaxQGGmY_MOCKquAI-yi2w5fh6",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJJV4aU1yKwokRU8XBj4XuknA",
+        "plus_code": {
+          "compound_code": "Q6Q7+9W Bay Terrace, Queens, NY, USA",
+          "global_code": "87G8Q6Q7+9W"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJJV4aU1yKwokRU8XBj4XuknA",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 224,
+        "vicinity": "208-18 Cross Island Parkway, Bay Terrace"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7884426,
+            "lng": -73.7851168
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7898613802915,
+              "lng": -73.7837563197085
+            },
+            "southwest": {
+              "lat": 40.7871634197085,
+              "lng": -73.78645428029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+        "international_phone_number": "+1 718-352-3949",
+        "name": "7-Eleven",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110034206329512369259\">William Patrick</a>"
+            ],
+            "photo_reference": "AU_ZVEFIXn4g9aQbYUcWXEaULpDoOGxqesfpealEUI8qxJogmVu7swpq4rtFs_LokUeO8WLSpkP7xRZzjvecq49DjZal0Gw72awBPVDjRXmC-g2i70rueE0y0O4wLD6g0hxAlZbjZHgzU47AqVE9Zqg62I_S2hLyzoT4e4wkvAxigoh3MebBn_3DjlH4vySoAucgcOtMG45K_EeE6TrRTaklp_7nHlborXV6W4Dxyw_9oI15nlJtzrNZrFqVsuPupE-zchHBGe3AUh8k-l5ItGXuusq36FRvapg8araelhKKr4WXs34ubhSVpZ9G1TZfrW98M79LiY6KupJrElIdV3CH8uHOmAlhQd8SvWpXy8nv4b0MEP90WK4bcv79lV8IAqVr9sbwrCMs4AvG4eE41UXk8hiXvszqVzIaPPQTN4cfET7-Xq8nf1mQHw0r87bDR4vXXQf4qBynffccBJBLxRpjh1ria3MfoZK2T6dgCMOSVNPqYH5Y88CABNKjwbE4kvEcS1hFWdKPPTl7UywQh-z_-aFxnwdmCCymigozXk0jB9pz16A3BBmVnNYU_qFpOBwNEdCsNAYo2vXHsea0yfOJYSmdvRspsXms3uy8Wjbi0YpETpvWFi3Ag8-AV7RQaJ2h0tV_WfWx",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ03qDh5KKwokRwT-JzCpom_U",
+        "plus_code": {
+          "compound_code": "Q6Q7+9X Bayside, Queens, NY, USA",
+          "global_code": "87G8Q6Q7+9X"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJ03qDh5KKwokRwT-JzCpom_U",
+        "scope": "GOOGLE",
+        "types": [
+          "convenience_store",
+          "liquor_store",
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 59,
+        "vicinity": "208-22 Cross Island Parkway, Bayside"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.7884639,
+            "lng": -73.78551949999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.78988758029149,
+              "lng": -73.7840974697085
+            },
+            "southwest": {
+              "lat": 40.7871896197085,
+              "lng": -73.7867954302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-352-8800",
+        "name": "Baybridge Szechuan",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 4016,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110007223407971870102\">Lonnie Goldman</a>"
+            ],
+            "photo_reference": "AU_ZVEEDkyYapV_XFO7MhQcdL60lLqfLTt4iHhKN80I4H85EQOSZ5wVg6rMF8STMeNhbMdTG604qZNQce9IT1RqLksPaH8RtgGsUSCBxP0mjln_Fns9f4s70tBtyiPVL-oVf71DT_XZlRfLMRYEBomjbmW-KZgf2zJEWMi3tHZatHSmMtVAP5v72BV0rbUDjlbYePw-FjqylN_ru6axXSaXbxYUeaqCgwatZ8Rm-Htu8dM608SRyLxlJFaTmxO06SSE_Kwx8xf6jxOgL4Ad1uTsk9wLZE6zBCzLHZP4bQKt3uXZdeXKd9P7j9oXIJgwp5baCGzaa50v1Lv3AQLd0-ewKkHfA9PpVYCgXHoYGLxzEhV8ytIbgyDoJ9E50CU-1tyjpSA6h2DVY39ZpZm3zC0dvB0iyZAQHHu3IC77pMzFO0wl3hu7OE-9MIn9wQ7-eVICn_p-cAxHCxQigz5Jq3WkAsOq02bY4sMdanfgC_XaKTpW3PzvLwSL98qTVvL1rWPXY_JQYFMTz2aRmKHcw8RUrjdxuJMcMlAHC7vX6QyBpwW7N5O-vFce7Fug-Y8t1nwVNGOq0uXqdiBRoO1nXlTO1a7Qa6QpMbYOFOJaE8W2JOSW0WR868Rakl3JAc1vtq0sRVUO1okDT",
+            "width": 4016
+          }
+        ],
+        "place_id": "ChIJKy5nTVyKwokRonUvPZaaUKE",
+        "plus_code": {
+          "compound_code": "Q6Q7+9Q Bay Terrace, Queens, NY, USA",
+          "global_code": "87G8Q6Q7+9Q"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJKy5nTVyKwokRonUvPZaaUKE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 183,
+        "vicinity": "208-06 Cross Island Parkway, Bay Terrace"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7884639,
+            "lng": -73.78551949999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.78988758029149,
+              "lng": -73.7840974697085
+            },
+            "southwest": {
+              "lat": 40.7871896197085,
+              "lng": -73.7867954302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 646-383-1465",
+        "name": "Dim Sum Bloom Bayside",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112481324831952323918\">Dim Sum Bloom Bayside</a>"
+            ],
+            "photo_reference": "AU_ZVEEaVNOucUlaCxvCFF4q1_csxsSDZBFneSyAh5oO1YE8ifkCdnPBdqAnSKD2k6z-QcGZAy9z3w76PPLfzu8eRvv1J25pC9dDLAkBCjiLt86rYb8vUh6a9vZiAgIjDj6-I4ihqLn0j3EnRaCddBYiaQjvAsNAu1tJKiIb3rF-q2Muj5bffxr03oIPEsmvtexH09ShhfEcWxKmewFCbh6xqwvaddPxC1ViszBITP9Mahme58xVuKk3zPOGFd6CocERp8NoJsEsC18RvVEHE1GYRTYmyiwu26nOqMtZfmMRyWFqi4f_nLTIGmwX7ASKdXSkcW6hGFd9D4k",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJAZ0gmrqLwokRzlo8dYx28ko",
+        "plus_code": {
+          "compound_code": "Q6Q7+9Q Bayside, Queens, NY, USA",
+          "global_code": "87G8Q6Q7+9Q"
+        },
+        "rating": 4.3,
+        "reference": "ChIJAZ0gmrqLwokRzlo8dYx28ko",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 125,
+        "vicinity": "208-06 Cross Island Parkway, Bayside"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7874145,
+            "lng": -73.79149040000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7887465802915,
+              "lng": -73.7901271697085
+            },
+            "southwest": {
+              "lat": 40.7860486197085,
+              "lng": -73.79282513029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 646-879-2162",
+        "name": "Franky's Souvlaki",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113348942785011443039\">Franky&#39;s Souvlaki</a>"
+            ],
+            "photo_reference": "AU_ZVEF5Kl5f-eZVXF4qlCpq2ErXLk6nBwW__YtgJBkOKootbkLNY6Qqz4lPlIxrJM16cj0G-EKLFUr3BcYhrUWkg9nVInlfvz6FTfZ3JFqCD9Ps_M3vKbfrnUt_GhcVrjZMXZNgjitrssjX0XAUjXO6fpDXOSql2RUQQFFKXWXokBTg9TKdCiN-OYSczkz7UjIF_u4arYVJDHmyZbSy1STToG7riY0QPLFYPeI61bXGUiRM6jGAAX7ZAErebiQ5gIW245SplKFI9b1h3gokSWkhBAZJ-J4MwMVNKHEDEAcERk59Y8HdU72_X6X8cCOtZ9Y-3Rgu1SI4Utc",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ32lsyz-LwokRdtMWVTMRi6A",
+        "plus_code": {
+          "compound_code": "Q6P5+XC Beechhurst, Queens, NY, USA",
+          "global_code": "87G8Q6P5+XC"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ32lsyz-LwokRdtMWVTMRi6A",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 215,
+        "vicinity": "Cross Island Parkway, Beechhurst"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78860969999999,
+            "lng": -73.7876529
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7898441802915,
+              "lng": -73.7863045197085
+            },
+            "southwest": {
+              "lat": 40.7871462197085,
+              "lng": -73.7890024802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "91 Xu\u2019s Bar",
+        "place_id": "ChIJv6TQZQCLwokR03QvDEKotU8",
+        "plus_code": {
+          "compound_code": "Q6Q6+CW Bayside, Queens, NY, USA",
+          "global_code": "87G8Q6Q6+CW"
+        },
+        "reference": "ChIJv6TQZQCLwokR03QvDEKotU8",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "206-05 Emily Road, Bayside"
+      }
+    ],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7920899,
+            "lng": -73.7760996
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79317045000001,
+              "lng": -73.77318265
+            },
+            "southwest": {
+              "lat": 40.78884824999999,
+              "lng": -73.78485044999998
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 718-352-4793",
+        "name": "Fort Totten Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106224977678053537634\">Fort Totten Park</a>"
+            ],
+            "photo_reference": "AU_ZVEG-4dzFS0coa0cXnEa_riu9CFdJ6Yc6Wf0kkd-NcOvP-atMQI2X3lqkEettfDg3p_THCKej8Inta1l6_JL6w5eAd1UBdXfcSxG56WRFf4V6Q96TnTo_-CMQfwc3ZgXyHke3CLt6snnhEksuFVCUVt9H16hvZmxTv_6G7mQvNjyWm56QDAStGCI1VcQFbz2dxiLdNovTSN6cgRvF6jXWqc7CIEhu4RdP0sY5SZBLV9xt7TMbw7GOyUeNpqyzH5qfmNbr-rwM14_urv_l96J3VsuNevKB-QV9dU0yG-3hlNKmlhLkXG7b5VFv0NFWtZ8U87WhmS2BiKw",
+            "width": 2700
+          }
+        ],
+        "place_id": "ChIJbcUVg0aKwokReYezTpY55OA",
+        "plus_code": {
+          "compound_code": "Q6RF+RH Fort Totten, Queens, NY, USA",
+          "global_code": "87G8Q6RF+RH"
+        },
+        "rating": 4.6,
+        "reference": "ChIJbcUVg0aKwokReYezTpY55OA",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3667,
+        "vicinity": "Totten Ave. &, 15th Road, Fort Totten"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7900679,
+            "lng": -73.7864275
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79175548029149,
+              "lng": -73.7791201
+            },
+            "southwest": {
+              "lat": 40.78905751970849,
+              "lng": -73.78886329999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Little Bay Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105375892992132758393\">Little Bay Park</a>"
+            ],
+            "photo_reference": "AU_ZVEF0ICFaEH1Sapo2ljTRDnCo4e-b-XLveMMq-Q-W6Aml8xWBa_YHGEvAEFSFd9yoB6QOUv-D6FCBjSbX7ghTuNprdiKIGf1uEIsyWxn1M2vAK9zTuYl8Hl5E2aay2GfNbOHJeRcsNAjGEaE_-jYL6AYNfXPoE9pXw-3QZ2gTlERpCspO_aCounNMA7VrET7sqvvai2GJ0d2fK-Ck5tf3M5OZoaKJXV-t1_t2YvVghDRX-fKv8LXRIpR5EUIcPaoHMWM84gDKRGrpB7SZmrXfzKMEyjrYUID822qyV3mqNofxW4YtGqCoWG-y4yRhgjBFhUkQF0MQuEk",
+            "width": 2704
+          }
+        ],
+        "place_id": "ChIJO1DvZlyKwokRCDbATn5FzJA",
+        "plus_code": {
+          "compound_code": "Q6R7+2C Whitestone, Queens, NY, USA",
+          "global_code": "87G8Q6R7+2C"
+        },
+        "rating": 4.6,
+        "reference": "ChIJO1DvZlyKwokRCDbATn5FzJA",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2454,
+        "vicinity": "Cross Island Parkway, Whitestone"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7921708,
+            "lng": -73.7777605
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79366108029151,
+              "lng": -73.77631106970851
+            },
+            "southwest": {
+              "lat": 40.79096311970851,
+              "lng": -73.77900903029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-352-1548",
+        "name": "Bayside Historical Society",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 899,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100424938198873991818\">Bayside Historical Society</a>"
+            ],
+            "photo_reference": "AU_ZVEGmq9KS7JC6BVTtK7KQMWMUhxotf0PD4H1E70yI_PpKD8zU_0DimQ9ePa_VzXMh4toOuZvAtcuy7n2DiyumisK4IPnkRySl-Byf7hI3tch-N0w_Hk9vNKKqneupax85FQ1j6GndNRoDcNI5RrX95V6MurxyB-7ANQz71Alq7x-fbXmgS2UVJ6vALwZKJ93-9nc3NVSNxl5gEhZF0jksZySl3exsF43WOYYDr5nWBvEwEEY2PbbbzHoq-aQ5ecU7zS_FQGDgQnawHfo-BuyTbN0o4xzn1dcPoG5cihjr3F9O2VoBf00Eli-mfYmb1qqYpr68ZjJsRjY",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJQSm4VESKwokRbHC0bL4kzjY",
+        "plus_code": {
+          "compound_code": "Q6RC+VV Fort Totten, Queens, NY, USA",
+          "global_code": "87G8Q6RC+VV"
+        },
+        "rating": 4.5,
+        "reference": "ChIJQSm4VESKwokRbHC0bL4kzjY",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 118,
+        "vicinity": "2-08 Totten Avenue, Fort Totten"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7823178,
+            "lng": -73.7775411
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7835348802915,
+              "lng": -73.7760961197085
+            },
+            "southwest": {
+              "lat": 40.78083691970851,
+              "lng": -73.7787940802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Bay Terrace Playground",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115612768716093829429\">Bay Terrace Playground</a>"
+            ],
+            "photo_reference": "AU_ZVEEF2SvlrMStpsGqRHhdcgA7abB7F7oP5VqaZOVIVFF4ZbwA40dnFDWqQm_rwH_RSqVRUQiLURvGVUSSzwD_UPcYZOV9AenJUrTxaUu3ILmw0Es6D0kgL8k2Efh-RmwjucadFp4-AnEDNfYvbGGA_cvNMDwD4M6KZ5RZtY8MYuVhEHw44-YWoq2HQkdLoJLNg4vfCD9nt6wejqCqxOiUhlTWBZ-fVKzwLVm41ug39sr08iXONPk1pPdfEoKJd8OnY80u2wsYDNsH-163q_Nv4jxscTWJLb5lYAg7MY9ScrKLpEWnxz8sCop8e4eWBZf0CS6hOQ8o_x8",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJnZz0eGmKwokRpjjTPejM2lE",
+        "plus_code": {
+          "compound_code": "Q6JC+WX Bayside, Queens, NY, USA",
+          "global_code": "87G8Q6JC+WX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJnZz0eGmKwokRpjjTPejM2lE",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 68,
+        "vicinity": "23rd Ave. &, Bell Boulevard, Bayside"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78545,
+            "lng": -73.77869050000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7868284302915,
+              "lng": -73.7773627697085
+            },
+            "southwest": {
+              "lat": 40.7841304697085,
+              "lng": -73.78006073029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Bl/16 Av",
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101217005580106231295\">Susmith Sarma</a>"
+            ],
+            "photo_reference": "AU_ZVEEanbnKujLYyOXRzefx6usnLCoedzW--az3Pw8QftkNgQQxltY4Gvvb-xhOtbgL4sVCOTdsO09KtPRuaQuibKpLuvt-rGgh2SLOhQqc_VXiLK1OqufuHJw0Y949agStN-9cYBd3kP0rTCThx-EvZBN_tj03nRiWjFoZ0uyPlX6e8_qSb2Ax9eaw007J09R3NrAgMIFcus_YkfNXLoITMi_SbO1Df7oCtdia1owchsZCtv-U0UyZ7fxlVQh5BKh1Ht-5dCcxgf98-ULiqRFEmKR7Djdd1UtXziQLeht6DwjEtZDEf4pDE6I10vulganeygTq4re2-sIRcJg9Lg6Rpow2c5dWEvRO39se6-7EV0GuD3VAo2SoPOMNq9v-vzD-wRUSYU8f4LzkfMWBkC1Tc0n9xfUBnnL21NqNSLfeqC_or3e45fxK-J0RXQlL4VoMx7hxPEs-dsE5aUEMDYZUgV8ewMPw1FisZiMb0TICW3wbCnJmcKbNE6O_2Xm0CtrrQ5XRh7K5mtWE2aInom7iUPP_X5QFi3rzFPDd2jJx1G1RqcCZkq2qMG0svLaZh2TYPOWxKJ6ZSx1QpsHvJd-njVbLrWrmGEsFCfVGATmN1segVU9m5qPOlPYDvjYaL93q8vhBww",
+            "width": 3072
+          }
+        ],
+        "place_id": "ChIJdYtVc0KKwokRgNT5dt_4nBA",
+        "plus_code": {
+          "compound_code": "Q6PC+5G New York, NY, USA",
+          "global_code": "87G8Q6PC+5G"
+        },
+        "reference": "ChIJdYtVc0KKwokRgNT5dt_4nBA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.791428,
+            "lng": -73.781059
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79277208029149,
+              "lng": -73.77970176970848
+            },
+            "southwest": {
+              "lat": 40.7900741197085,
+              "lng": -73.7823997302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Totten Av/Cross Island Pkwy",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103153805823094698749\">Joyan Tharakan, MHA</a>"
+            ],
+            "photo_reference": "AU_ZVEGbAsT43N-ZLM8qhKAJ3QofSW0GKVNrITZb0_GKy9MklsihErVhXcHhe8r6Pss8du_73r58Y0x8-Y_3DvoffQhN8t6y-JhzIeSMXxPCXYUsp9tPWtYrknMoLNiDmthVF6UsWXR4tdye5l0ySaMY2Uxs0X0x2uhNiKTwJBjCmdTIdwzJTyB2rz5JhxN8H5oxDJYpz38aPkvlAWcS_qZH5DOqbsUYQ8UUnlDveR-mrh1Qd0D9tCrmFQA1Yty-NjcILhs0gER4j0cHo7sPaHzY0Uvegpvd7veKjX9uzumK17q1NCY-sqlW0uf-2iJ04QnhbxjZNvcjosBwOM8H9VLA1Vly_OawK-IVxXVgrn8zW9tMjIvsmHRFnd-QLG4mtUym6zdbATRijRmP8jqm7PSPVrnMiBoxG1gXZMmdX3H8glh6CNz17quS0YkxurxTx4mwkmIqPJKi9oSHr1yA0CbI_b8YdetziaTf0EKQykVeboe0eW9aMyi-3zA1uQ7129Uosl-UMBUrHlkUwBHJZQjLlDbNA4eBe0DPC_wg5rOAJet1rSndK82ylbUIS7GLL0fIUrdDQVje9g2565jNNNx4bxADaA776PEWi1r81H6NrUeGPz89JNpRxOQNlEa7Gt7TUERwzavzA0FSG8Q2w_zJc-1Xjdo",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJhT5LkkSKwokR9kFu-igSw5I",
+        "plus_code": {
+          "compound_code": "Q6R9+HH New York, NY, USA",
+          "global_code": "87G8Q6R9+HH"
+        },
+        "rating": 5,
+        "reference": "ChIJhT5LkkSKwokR9kFu-igSw5I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.79076930000001,
+            "lng": -73.781534
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79212753029149,
+              "lng": -73.7802122697085
+            },
+            "southwest": {
+              "lat": 40.7894295697085,
+              "lng": -73.7829102302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 877-690-5116",
+        "name": "Totten Ave/Cross Island Pkwy",
+        "photos": [
+          {
+            "height": 4608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112874442489935812277\">Doctor Baldeagle</a>"
+            ],
+            "photo_reference": "AU_ZVEG9C6E_eAXBvZi-NFxx_HSlGYP9bCphK0pReM82OpX10-_tn5gL6dKiWbqdjrO1q3GtWYTzxLtDKXrtcLsxUlxfKUbi7IMDN2sXhRfFA0b73lE5w1YNm1CO88H9qH2s0skmw1iSKL1ypkb5lCcsYcZEaKZVwZTOgFi4Jm_y2fBDjB_bVYk0zUJCdgiAcch3eU5hXiMSa2AwCDhI6WMCzxVKDeyz2d2Wb2bY5A4tUg2428YItdQBV2YV7JJ4AUN6HN8PmlDE4ZN1N8e8-8s4YDLe4NWAyBHds2LXdg88U2i5yoqkrUuK-QG3r0S0GuD-HPBIOpT36h4gXJE20SfuPbpTiEnTEmWFT3j3j3J0puOkrINa6EG1p3oZ3MhZmeDTTOz25iQHD7sCK0gABQBDeyptLk_MekDbI4aIBX3-GAXbkavkcJaQP4y1lGl3mZIvzGENr1j3emqUv3l_KHwMtZ-CLEMHvnpu0ejOd6DORsV0CiDl0yGESTmp2KwJB9ddXcKxQQiQpYyTSXvxMCvW7bxas7V_BSy0vUIyV-auVDxHHQmsLz18uC4_z3mRSRcMmJ8ZpdAxEVpMYQzetx7treU8MRH-81kGladFT95cUhILrhi6r1qwcz3QCPOP8G81rAUkYgvA",
+            "width": 3456
+          }
+        ],
+        "place_id": "ChIJeW8ZkkSKwokRCWXSYXQleTo",
+        "plus_code": {
+          "compound_code": "Q6R9+89 New York, NY, USA",
+          "global_code": "87G8Q6R9+89"
+        },
+        "rating": 5,
+        "reference": "ChIJeW8ZkkSKwokRCWXSYXQleTo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.788715,
+            "lng": -73.782074
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79006518029149,
+              "lng": -73.7807275697085
+            },
+            "southwest": {
+              "lat": 40.7873672197085,
+              "lng": -73.78342553029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/212 St",
+        "place_id": "ChIJIVrQI0OKwokRrJGDKCnE-ng",
+        "plus_code": {
+          "compound_code": "Q6Q9+F5 New York, NY, USA",
+          "global_code": "87G8Q6Q9+F5"
+        },
+        "reference": "ChIJIVrQI0OKwokRrJGDKCnE-ng",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78884100000001,
+            "lng": -73.782478
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7901597302915,
+              "lng": -73.78114361970849
+            },
+            "southwest": {
+              "lat": 40.7874617697085,
+              "lng": -73.78384158029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/212 St",
+        "photos": [
+          {
+            "height": 4624,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109673994378547404711\">Sir Benni Miles New York</a>"
+            ],
+            "photo_reference": "AU_ZVEH3d5SQxH-ZaNQNfM0IyqZ7dWCuryKk-j9QFVW6zAtyM0hgXkuWx2oaucPhHEonRRaVQJs1FE4ViEMimz5Xc-Oo-mZI1JFIWVloFHlQA6xbr7X_TP3Mz_j_T-kSGKkcDzTs_UAL7NfxDeGJA5SIAfJsnVvjZ-nxtReSqSum2GoXR0y_gOJrw2efTdyU8X3F2O6lFeHdTLV3gyr_I02viB9WS1c81YlUJfph83iGsaovyB9XgskVIcz6JIkzygM_1d1j6iQAQDYXR2fTtOL-w1cwepoxm981V3S9BRwpNja-4_ju9TrfGh8BySgy9pu-y2t30PU8HmivKKDEjUBrZowogRtQ-ON65P2TMTli5Hc5JdM6Ws1KWMHHEkb8dlDE022-rDrfIZnkgY2RYUfVY8J1hz8yPmKHeohrLS_exnqfK58g2S4FqPOKShKoe6txBCSajpraCvB_K_iAAyvbrASgn1dOmS6mW6ocDnkLc5NIOsNtVJhHxWJUeVej3IGaM9D-SnS09-sRZSVBlNEPTTt9cJoIigZaSg-uocagI_ixSKAlEAyWnfcjSPRkj3piIvB1cGf3Pq5r_lDxUc-GzCY2Z46J9Td35QpwgxnqdqWEn8u4pRGBETJH0_AkeqbSNcKfQR5M0xOtsHlSHqXfFiB2xZU",
+            "width": 3472
+          }
+        ],
+        "place_id": "ChIJ-144MEOKwokRf7_xjz9JpYA",
+        "plus_code": {
+          "compound_code": "Q6Q9+G2 New York, NY, USA",
+          "global_code": "87G8Q6Q9+G2"
+        },
+        "reference": "ChIJ-144MEOKwokRf7_xjz9JpYA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.788589,
+            "lng": -73.782166
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7899634802915,
+              "lng": -73.78079796970849
+            },
+            "southwest": {
+              "lat": 40.7872655197085,
+              "lng": -73.7834959302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/212 St",
+        "place_id": "ChIJHQH-JEOKwokRieA9b_68adU",
+        "plus_code": {
+          "compound_code": "Q6Q9+C4 New York, NY, USA",
+          "global_code": "87G8Q6Q9+C4"
+        },
+        "reference": "ChIJHQH-JEOKwokRieA9b_68adU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.788914,
+            "lng": -73.783104
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7902666802915,
+              "lng": -73.78175451970849
+            },
+            "southwest": {
+              "lat": 40.7875687197085,
+              "lng": -73.7844524802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/212 St",
+        "place_id": "ChIJnUnP0lyKwokRLcipV5llvt0",
+        "plus_code": {
+          "compound_code": "Q6Q8+HQ New York, NY, USA",
+          "global_code": "87G8Q6Q8+HQ"
+        },
+        "reference": "ChIJnUnP0lyKwokRLcipV5llvt0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.788082,
+            "lng": -73.78108999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.78946243029151,
+              "lng": -73.77971571970849
+            },
+            "southwest": {
+              "lat": 40.78676446970851,
+              "lng": -73.7824136802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/212 St",
+        "place_id": "ChIJD8auHUOKwokR_sjD4kFTEGg",
+        "plus_code": {
+          "compound_code": "Q6Q9+6H New York, NY, USA",
+          "global_code": "87G8Q6Q9+6H"
+        },
+        "reference": "ChIJD8auHUOKwokR_sjD4kFTEGg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78880300000001,
+            "lng": -73.783119
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7901190802915,
+              "lng": -73.7817739697085
+            },
+            "southwest": {
+              "lat": 40.78742111970851,
+              "lng": -73.7844719302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/209 St",
+        "place_id": "ChIJnUnP0lyKwokRWgT_qDhTIwU",
+        "plus_code": {
+          "compound_code": "Q6Q8+GQ New York, NY, USA",
+          "global_code": "87G8Q6Q8+GQ"
+        },
+        "reference": "ChIJnUnP0lyKwokRWgT_qDhTIwU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7888245,
+            "lng": -73.78779949999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7902078802915,
+              "lng": -73.78645771970848
+            },
+            "southwest": {
+              "lat": 40.7875099197085,
+              "lng": -73.7891556802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/Bayridge Condo",
+        "place_id": "ChIJ61ppy12KwokRRZRMP0mzLBg",
+        "plus_code": {
+          "compound_code": "Q6Q6+GV New York, NY, USA",
+          "global_code": "87G8Q6Q6+GV"
+        },
+        "rating": 5,
+        "reference": "ChIJ61ppy12KwokRRZRMP0mzLBg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.788849,
+            "lng": -73.786804
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7902131802915,
+              "lng": -73.7854554697085
+            },
+            "southwest": {
+              "lat": 40.7875152197085,
+              "lng": -73.7881534302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/Estates Ln",
+        "place_id": "ChIJB0NdTVyKwokRhccyppiQHHo",
+        "plus_code": {
+          "compound_code": "Q6Q7+G7 New York, NY, USA",
+          "global_code": "87G8Q6Q7+G7"
+        },
+        "reference": "ChIJB0NdTVyKwokRhccyppiQHHo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78898050000001,
+            "lng": -73.7870904
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.79028288029151,
+              "lng": -73.7857348197085
+            },
+            "southwest": {
+              "lat": 40.78758491970851,
+              "lng": -73.78843278029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/Baybridge Condo",
+        "photos": [
+          {
+            "height": 1463,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110530589976498169345\">Pamela Larriuz</a>"
+            ],
+            "photo_reference": "AU_ZVEFMjCDUl0BBjFYoviYSKKfPpBIpiulJzDKdhYmPf8kgbO_B-X3TBalqC_dDFXPsw2pRiRp4jP0IAHyklRQqujZJ9tL-mZnyXlD3MOxuU4n7o_mb588CTHoG-Rlt9HWR9eJPUIjEgUGKEDr_iXPXazUYQHgFkqljIY5ja9gpIB--WJFvCZ36QXgc5rGzmoQtdjd0CYDATYPUXV03eaJBBUpw-guJq3gEWQTZ1pD2g5dNNZe_Z0yMugFNexo3GnxJxUIXPnhrKevK5WigDXEMPUzbNe70LjhAug3iQXQ33i3M5qlPBKUOoIDTbjX8HXBVumqGg7B8AtGdtGnEHksiw3Wk_sJEeZxbgConq-WjWPvsG3u4fixoeoWkZZAAx1gKbPnGNpurS6ijvOencwzR8Lr2CHdlTBbL0Ji5p8UdmBzlezSq1-Y2OkXorxs9m8o3gd8YOnWvfzFK8Dr3eDkCVRdg5iYChxjPAT_U5GSDSCWggMRTQM0o5Zw_YpS0afqfb6OPBEJV07B0tIeBMSJbiI9UWXbsO12JlyENXVqJ3u5NmDrU9JdCU91JBwq831aK5hWQqoPsnxYdZNnUCASQ7TtniObha1LdL7Hdo3wmKH78PYoKvi_4AnYyZaTwbjyAMY0",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJlXpJy12KwokReoAHDDnpS4E",
+        "plus_code": {
+          "compound_code": "Q6Q7+H5 New York, NY, USA",
+          "global_code": "87G8Q6Q7+H5"
+        },
+        "reference": "ChIJlXpJy12KwokReoAHDDnpS4E",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.785744,
+            "lng": -73.778778
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7870756302915,
+              "lng": -73.77747041970851
+            },
+            "southwest": {
+              "lat": 40.7843776697085,
+              "lng": -73.78016838029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/16 Av",
+        "place_id": "ChIJAx2ZckKKwokRJIgdeUFwPuc",
+        "plus_code": {
+          "compound_code": "Q6PC+7F New York, NY, USA",
+          "global_code": "87G8Q6PC+7F"
+        },
+        "rating": 5,
+        "reference": "ChIJAx2ZckKKwokRJIgdeUFwPuc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.785583,
+            "lng": -73.781517
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7869302302915,
+              "lng": -73.78022896970847
+            },
+            "southwest": {
+              "lat": 40.7842322697085,
+              "lng": -73.7829269302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "212 St/15 Ave",
+        "place_id": "ChIJrTndn0KKwokRL74RLvVvV3g",
+        "plus_code": {
+          "compound_code": "Q6P9+69 New York, NY, USA",
+          "global_code": "87G8Q6P9+69"
+        },
+        "reference": "ChIJrTndn0KKwokRL74RLvVvV3g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.785408,
+            "lng": -73.781509
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7867620802915,
+              "lng": -73.7802273697085
+            },
+            "southwest": {
+              "lat": 40.7840641197085,
+              "lng": -73.7829253302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "212 St/15 Av",
+        "place_id": "ChIJjcVLIGiKwokRacnI3ol0Xro",
+        "plus_code": {
+          "compound_code": "Q6P9+59 New York, NY, USA",
+          "global_code": "87G8Q6P9+59"
+        },
+        "reference": "ChIJjcVLIGiKwokRacnI3ol0Xro",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78875399999999,
+            "lng": -73.78781099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7901413802915,
+              "lng": -73.78646946970849
+            },
+            "southwest": {
+              "lat": 40.7874434197085,
+              "lng": -73.7891674302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Cross Island Pkwy/Estates Ln",
+        "place_id": "ChIJ5_qcy12KwokRkKmqhDYMqTw",
+        "plus_code": {
+          "compound_code": "Q6Q6+GV New York, NY, USA",
+          "global_code": "87G8Q6Q6+GV"
+        },
+        "rating": 3,
+        "reference": "ChIJ5_qcy12KwokRkKmqhDYMqTw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.78515599999999,
+            "lng": -73.77860299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.78652663029148,
+              "lng": -73.77720221970849
+            },
+            "southwest": {
+              "lat": 40.78382866970849,
+              "lng": -73.7799001802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/16 Av",
+        "place_id": "ChIJm4OjCkKKwokRYttMkR0J-wM",
+        "plus_code": {
+          "compound_code": "Q6PC+3H New York, NY, USA",
+          "global_code": "87G8Q6PC+3H"
+        },
+        "reference": "ChIJm4OjCkKKwokRYttMkR0J-wM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.783028,
+            "lng": -73.77975500000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7843901302915,
+              "lng": -73.7784159697085
+            },
+            "southwest": {
+              "lat": 40.7816921697085,
+              "lng": -73.78111393029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "18 Av/212 St",
+        "place_id": "ChIJmX5jqWmKwokRo7OSTzDDYm0",
+        "plus_code": {
+          "compound_code": "Q6MC+63 New York, NY, USA",
+          "global_code": "87G8Q6MC+63"
+        },
+        "reference": "ChIJmX5jqWmKwokRo7OSTzDDYm0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.782776,
+            "lng": -73.776634
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7841063802915,
+              "lng": -73.77533121970849
+            },
+            "southwest": {
+              "lat": 40.7814084197085,
+              "lng": -73.77802918029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/23 Av",
+        "place_id": "ChIJFZNeLmqKwokRV-YyUf2C_lY",
+        "plus_code": {
+          "compound_code": "Q6MF+48 New York, NY, USA",
+          "global_code": "87G8Q6MF+48"
+        },
+        "reference": "ChIJFZNeLmqKwokRV-YyUf2C_lY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.782513,
+            "lng": -73.776695
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7838794302915,
+              "lng": -73.7752944197085
+            },
+            "southwest": {
+              "lat": 40.7811814697085,
+              "lng": -73.77799238029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bell Blvd/23 Av",
+        "place_id": "ChIJFZNeLmqKwokRokb7GN-CrqQ",
+        "plus_code": {
+          "compound_code": "Q6MF+28 New York, NY, USA",
+          "global_code": "87G8Q6MF+28"
+        },
+        "reference": "ChIJFZNeLmqKwokRokb7GN-CrqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.782032,
+            "lng": -73.781548
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7834278802915,
+              "lng": -73.7801950697085
+            },
+            "southwest": {
+              "lat": 40.7807299197085,
+              "lng": -73.7828930302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "211 St/18 Av",
+        "place_id": "ChIJnT-26miKwokRcQNNk0neyZc",
+        "plus_code": {
+          "compound_code": "Q6J9+R9 New York, NY, USA",
+          "global_code": "87G8Q6J9+R9"
+        },
+        "reference": "ChIJnT-26miKwokRcQNNk0neyZc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.781975,
+            "lng": -73.78175399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7833156802915,
+              "lng": -73.78037516970849
+            },
+            "southwest": {
+              "lat": 40.7806177197085,
+              "lng": -73.7830731302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "211 St/18 Av",
+        "place_id": "ChIJS_gNlWiKwokRX1q4-gn9Lbg",
+        "plus_code": {
+          "compound_code": "Q6J9+Q7 New York, NY, USA",
+          "global_code": "87G8Q6J9+Q7"
+        },
+        "reference": "ChIJS_gNlWiKwokRX1q4-gn9Lbg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78844670000001,
+          "lng": -73.7851748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7898789802915,
+            "lng": -73.7839318197085
+          },
+          "southwest": {
+            "lat": 40.78718101970851,
+            "lng": -73.7866297802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-352-6606",
+      "name": "Ponticello Baybridge Italian Restaurant & Pizzeria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110034206329512369259\">William Patrick</a>"
+          ],
+          "photo_reference": "AU_ZVEGjke0RjpXProMXT4UHQsW0iZ01pd0m9oIxwYmJ-6sB9XhsoHMaFdaaFODGFMveBbmMgN8UQSXf79BkeW9HipywsYb9jfU7RfBQP4HciDWzeYXBDGgP22nKnVKlUO1fW4jjut0JKYg5Rbwouc2DWGVhO8shfgveUiW4sBwltWFeeOTVbjxmQ3KlCHm-Nf_bUofjdD0mOdJ6BP7UrO2rCD4gK-04_dMYaPEnMSOXiV2l0hKs6pQIcIKx-j_PrkIvYna21odd7bW6mF2v7GesunGJIAslQvfNcLD3L2sR9Arl4A004JgWXekqtZYWPg3BRbzmwynhYZZREr0-epi3puJW1CoIwlRIGksG2Krv832ArK0ivRf3I0EgRyiKgj-OpcPzxlRSe9Wv7xdh3dh4PdYdOxMIAkz0kCX0691APgqt0NeziQ0HPEzytH7OZFp9ONyrH9zsTayKNtht0fOp2jXlRxPbuETAph0HlpjPL2FGiI-2lt9S5DH58wxKjw9-MIqyLexuYlD9JhP8-yeko7Emo-RpaMw0mA4CXu8twMZb3WCheU7OlIWcDIIIGjS3cdcSGeiR6BYJBdQDArdIX854IEg_Eo3R_ag6C1m67AQ7D6xaxQGGmY_MOCKquAI-yi2w5fh6",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJJV4aU1yKwokRU8XBj4XuknA",
+      "plus_code": {
+        "compound_code": "Q6Q7+9W Bay Terrace, Queens, NY, USA",
+        "global_code": "87G8Q6Q7+9W"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJJV4aU1yKwokRU8XBj4XuknA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 224,
+      "vicinity": "208-18 Cross Island Parkway, Bay Terrace"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7884426,
+          "lng": -73.7851168
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7898613802915,
+            "lng": -73.7837563197085
+          },
+          "southwest": {
+            "lat": 40.7871634197085,
+            "lng": -73.78645428029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+      "international_phone_number": "+1 718-352-3949",
+      "name": "7-Eleven",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110034206329512369259\">William Patrick</a>"
+          ],
+          "photo_reference": "AU_ZVEFIXn4g9aQbYUcWXEaULpDoOGxqesfpealEUI8qxJogmVu7swpq4rtFs_LokUeO8WLSpkP7xRZzjvecq49DjZal0Gw72awBPVDjRXmC-g2i70rueE0y0O4wLD6g0hxAlZbjZHgzU47AqVE9Zqg62I_S2hLyzoT4e4wkvAxigoh3MebBn_3DjlH4vySoAucgcOtMG45K_EeE6TrRTaklp_7nHlborXV6W4Dxyw_9oI15nlJtzrNZrFqVsuPupE-zchHBGe3AUh8k-l5ItGXuusq36FRvapg8araelhKKr4WXs34ubhSVpZ9G1TZfrW98M79LiY6KupJrElIdV3CH8uHOmAlhQd8SvWpXy8nv4b0MEP90WK4bcv79lV8IAqVr9sbwrCMs4AvG4eE41UXk8hiXvszqVzIaPPQTN4cfET7-Xq8nf1mQHw0r87bDR4vXXQf4qBynffccBJBLxRpjh1ria3MfoZK2T6dgCMOSVNPqYH5Y88CABNKjwbE4kvEcS1hFWdKPPTl7UywQh-z_-aFxnwdmCCymigozXk0jB9pz16A3BBmVnNYU_qFpOBwNEdCsNAYo2vXHsea0yfOJYSmdvRspsXms3uy8Wjbi0YpETpvWFi3Ag8-AV7RQaJ2h0tV_WfWx",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ03qDh5KKwokRwT-JzCpom_U",
+      "plus_code": {
+        "compound_code": "Q6Q7+9X Bayside, Queens, NY, USA",
+        "global_code": "87G8Q6Q7+9X"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJ03qDh5KKwokRwT-JzCpom_U",
+      "scope": "GOOGLE",
+      "types": [
+        "convenience_store",
+        "liquor_store",
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 59,
+      "vicinity": "208-22 Cross Island Parkway, Bayside"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7884639,
+          "lng": -73.78551949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.78988758029149,
+            "lng": -73.7840974697085
+          },
+          "southwest": {
+            "lat": 40.7871896197085,
+            "lng": -73.7867954302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-352-8800",
+      "name": "Baybridge Szechuan",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4016,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110007223407971870102\">Lonnie Goldman</a>"
+          ],
+          "photo_reference": "AU_ZVEEDkyYapV_XFO7MhQcdL60lLqfLTt4iHhKN80I4H85EQOSZ5wVg6rMF8STMeNhbMdTG604qZNQce9IT1RqLksPaH8RtgGsUSCBxP0mjln_Fns9f4s70tBtyiPVL-oVf71DT_XZlRfLMRYEBomjbmW-KZgf2zJEWMi3tHZatHSmMtVAP5v72BV0rbUDjlbYePw-FjqylN_ru6axXSaXbxYUeaqCgwatZ8Rm-Htu8dM608SRyLxlJFaTmxO06SSE_Kwx8xf6jxOgL4Ad1uTsk9wLZE6zBCzLHZP4bQKt3uXZdeXKd9P7j9oXIJgwp5baCGzaa50v1Lv3AQLd0-ewKkHfA9PpVYCgXHoYGLxzEhV8ytIbgyDoJ9E50CU-1tyjpSA6h2DVY39ZpZm3zC0dvB0iyZAQHHu3IC77pMzFO0wl3hu7OE-9MIn9wQ7-eVICn_p-cAxHCxQigz5Jq3WkAsOq02bY4sMdanfgC_XaKTpW3PzvLwSL98qTVvL1rWPXY_JQYFMTz2aRmKHcw8RUrjdxuJMcMlAHC7vX6QyBpwW7N5O-vFce7Fug-Y8t1nwVNGOq0uXqdiBRoO1nXlTO1a7Qa6QpMbYOFOJaE8W2JOSW0WR868Rakl3JAc1vtq0sRVUO1okDT",
+          "width": 4016
+        }
+      ],
+      "place_id": "ChIJKy5nTVyKwokRonUvPZaaUKE",
+      "plus_code": {
+        "compound_code": "Q6Q7+9Q Bay Terrace, Queens, NY, USA",
+        "global_code": "87G8Q6Q7+9Q"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJKy5nTVyKwokRonUvPZaaUKE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 183,
+      "vicinity": "208-06 Cross Island Parkway, Bay Terrace"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7884639,
+          "lng": -73.78551949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.78988758029149,
+            "lng": -73.7840974697085
+          },
+          "southwest": {
+            "lat": 40.7871896197085,
+            "lng": -73.7867954302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 646-383-1465",
+      "name": "Dim Sum Bloom Bayside",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112481324831952323918\">Dim Sum Bloom Bayside</a>"
+          ],
+          "photo_reference": "AU_ZVEEaVNOucUlaCxvCFF4q1_csxsSDZBFneSyAh5oO1YE8ifkCdnPBdqAnSKD2k6z-QcGZAy9z3w76PPLfzu8eRvv1J25pC9dDLAkBCjiLt86rYb8vUh6a9vZiAgIjDj6-I4ihqLn0j3EnRaCddBYiaQjvAsNAu1tJKiIb3rF-q2Muj5bffxr03oIPEsmvtexH09ShhfEcWxKmewFCbh6xqwvaddPxC1ViszBITP9Mahme58xVuKk3zPOGFd6CocERp8NoJsEsC18RvVEHE1GYRTYmyiwu26nOqMtZfmMRyWFqi4f_nLTIGmwX7ASKdXSkcW6hGFd9D4k",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJAZ0gmrqLwokRzlo8dYx28ko",
+      "plus_code": {
+        "compound_code": "Q6Q7+9Q Bayside, Queens, NY, USA",
+        "global_code": "87G8Q6Q7+9Q"
+      },
+      "rating": 4.3,
+      "reference": "ChIJAZ0gmrqLwokRzlo8dYx28ko",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 125,
+      "vicinity": "208-06 Cross Island Parkway, Bayside"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7874145,
+          "lng": -73.79149040000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7887465802915,
+            "lng": -73.7901271697085
+          },
+          "southwest": {
+            "lat": 40.7860486197085,
+            "lng": -73.79282513029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 646-879-2162",
+      "name": "Franky's Souvlaki",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113348942785011443039\">Franky&#39;s Souvlaki</a>"
+          ],
+          "photo_reference": "AU_ZVEF5Kl5f-eZVXF4qlCpq2ErXLk6nBwW__YtgJBkOKootbkLNY6Qqz4lPlIxrJM16cj0G-EKLFUr3BcYhrUWkg9nVInlfvz6FTfZ3JFqCD9Ps_M3vKbfrnUt_GhcVrjZMXZNgjitrssjX0XAUjXO6fpDXOSql2RUQQFFKXWXokBTg9TKdCiN-OYSczkz7UjIF_u4arYVJDHmyZbSy1STToG7riY0QPLFYPeI61bXGUiRM6jGAAX7ZAErebiQ5gIW245SplKFI9b1h3gokSWkhBAZJ-J4MwMVNKHEDEAcERk59Y8HdU72_X6X8cCOtZ9Y-3Rgu1SI4Utc",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ32lsyz-LwokRdtMWVTMRi6A",
+      "plus_code": {
+        "compound_code": "Q6P5+XC Beechhurst, Queens, NY, USA",
+        "global_code": "87G8Q6P5+XC"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ32lsyz-LwokRdtMWVTMRi6A",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 215,
+      "vicinity": "Cross Island Parkway, Beechhurst"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78860969999999,
+          "lng": -73.7876529
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7898441802915,
+            "lng": -73.7863045197085
+          },
+          "southwest": {
+            "lat": 40.7871462197085,
+            "lng": -73.7890024802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "91 Xu\u2019s Bar",
+      "place_id": "ChIJv6TQZQCLwokR03QvDEKotU8",
+      "plus_code": {
+        "compound_code": "Q6Q6+CW Bayside, Queens, NY, USA",
+        "global_code": "87G8Q6Q6+CW"
+      },
+      "reference": "ChIJv6TQZQCLwokR03QvDEKotU8",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "206-05 Emily Road, Bayside"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7920899,
+          "lng": -73.7760996
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79317045000001,
+            "lng": -73.77318265
+          },
+          "southwest": {
+            "lat": 40.78884824999999,
+            "lng": -73.78485044999998
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 718-352-4793",
+      "name": "Fort Totten Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106224977678053537634\">Fort Totten Park</a>"
+          ],
+          "photo_reference": "AU_ZVEG-4dzFS0coa0cXnEa_riu9CFdJ6Yc6Wf0kkd-NcOvP-atMQI2X3lqkEettfDg3p_THCKej8Inta1l6_JL6w5eAd1UBdXfcSxG56WRFf4V6Q96TnTo_-CMQfwc3ZgXyHke3CLt6snnhEksuFVCUVt9H16hvZmxTv_6G7mQvNjyWm56QDAStGCI1VcQFbz2dxiLdNovTSN6cgRvF6jXWqc7CIEhu4RdP0sY5SZBLV9xt7TMbw7GOyUeNpqyzH5qfmNbr-rwM14_urv_l96J3VsuNevKB-QV9dU0yG-3hlNKmlhLkXG7b5VFv0NFWtZ8U87WhmS2BiKw",
+          "width": 2700
+        }
+      ],
+      "place_id": "ChIJbcUVg0aKwokReYezTpY55OA",
+      "plus_code": {
+        "compound_code": "Q6RF+RH Fort Totten, Queens, NY, USA",
+        "global_code": "87G8Q6RF+RH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJbcUVg0aKwokReYezTpY55OA",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3667,
+      "vicinity": "Totten Ave. &, 15th Road, Fort Totten"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7900679,
+          "lng": -73.7864275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79175548029149,
+            "lng": -73.7791201
+          },
+          "southwest": {
+            "lat": 40.78905751970849,
+            "lng": -73.78886329999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Little Bay Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105375892992132758393\">Little Bay Park</a>"
+          ],
+          "photo_reference": "AU_ZVEF0ICFaEH1Sapo2ljTRDnCo4e-b-XLveMMq-Q-W6Aml8xWBa_YHGEvAEFSFd9yoB6QOUv-D6FCBjSbX7ghTuNprdiKIGf1uEIsyWxn1M2vAK9zTuYl8Hl5E2aay2GfNbOHJeRcsNAjGEaE_-jYL6AYNfXPoE9pXw-3QZ2gTlERpCspO_aCounNMA7VrET7sqvvai2GJ0d2fK-Ck5tf3M5OZoaKJXV-t1_t2YvVghDRX-fKv8LXRIpR5EUIcPaoHMWM84gDKRGrpB7SZmrXfzKMEyjrYUID822qyV3mqNofxW4YtGqCoWG-y4yRhgjBFhUkQF0MQuEk",
+          "width": 2704
+        }
+      ],
+      "place_id": "ChIJO1DvZlyKwokRCDbATn5FzJA",
+      "plus_code": {
+        "compound_code": "Q6R7+2C Whitestone, Queens, NY, USA",
+        "global_code": "87G8Q6R7+2C"
+      },
+      "rating": 4.6,
+      "reference": "ChIJO1DvZlyKwokRCDbATn5FzJA",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2454,
+      "vicinity": "Cross Island Parkway, Whitestone"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7921708,
+          "lng": -73.7777605
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79366108029151,
+            "lng": -73.77631106970851
+          },
+          "southwest": {
+            "lat": 40.79096311970851,
+            "lng": -73.77900903029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-352-1548",
+      "name": "Bayside Historical Society",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 899,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100424938198873991818\">Bayside Historical Society</a>"
+          ],
+          "photo_reference": "AU_ZVEGmq9KS7JC6BVTtK7KQMWMUhxotf0PD4H1E70yI_PpKD8zU_0DimQ9ePa_VzXMh4toOuZvAtcuy7n2DiyumisK4IPnkRySl-Byf7hI3tch-N0w_Hk9vNKKqneupax85FQ1j6GndNRoDcNI5RrX95V6MurxyB-7ANQz71Alq7x-fbXmgS2UVJ6vALwZKJ93-9nc3NVSNxl5gEhZF0jksZySl3exsF43WOYYDr5nWBvEwEEY2PbbbzHoq-aQ5ecU7zS_FQGDgQnawHfo-BuyTbN0o4xzn1dcPoG5cihjr3F9O2VoBf00Eli-mfYmb1qqYpr68ZjJsRjY",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJQSm4VESKwokRbHC0bL4kzjY",
+      "plus_code": {
+        "compound_code": "Q6RC+VV Fort Totten, Queens, NY, USA",
+        "global_code": "87G8Q6RC+VV"
+      },
+      "rating": 4.5,
+      "reference": "ChIJQSm4VESKwokRbHC0bL4kzjY",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 118,
+      "vicinity": "2-08 Totten Avenue, Fort Totten"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7823178,
+          "lng": -73.7775411
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7835348802915,
+            "lng": -73.7760961197085
+          },
+          "southwest": {
+            "lat": 40.78083691970851,
+            "lng": -73.7787940802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Bay Terrace Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115612768716093829429\">Bay Terrace Playground</a>"
+          ],
+          "photo_reference": "AU_ZVEEF2SvlrMStpsGqRHhdcgA7abB7F7oP5VqaZOVIVFF4ZbwA40dnFDWqQm_rwH_RSqVRUQiLURvGVUSSzwD_UPcYZOV9AenJUrTxaUu3ILmw0Es6D0kgL8k2Efh-RmwjucadFp4-AnEDNfYvbGGA_cvNMDwD4M6KZ5RZtY8MYuVhEHw44-YWoq2HQkdLoJLNg4vfCD9nt6wejqCqxOiUhlTWBZ-fVKzwLVm41ug39sr08iXONPk1pPdfEoKJd8OnY80u2wsYDNsH-163q_Nv4jxscTWJLb5lYAg7MY9ScrKLpEWnxz8sCop8e4eWBZf0CS6hOQ8o_x8",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJnZz0eGmKwokRpjjTPejM2lE",
+      "plus_code": {
+        "compound_code": "Q6JC+WX Bayside, Queens, NY, USA",
+        "global_code": "87G8Q6JC+WX"
+      },
+      "rating": 4.2,
+      "reference": "ChIJnZz0eGmKwokRpjjTPejM2lE",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 68,
+      "vicinity": "23rd Ave. &, Bell Boulevard, Bayside"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78545,
+          "lng": -73.77869050000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7868284302915,
+            "lng": -73.7773627697085
+          },
+          "southwest": {
+            "lat": 40.7841304697085,
+            "lng": -73.78006073029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Bl/16 Av",
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101217005580106231295\">Susmith Sarma</a>"
+          ],
+          "photo_reference": "AU_ZVEEanbnKujLYyOXRzefx6usnLCoedzW--az3Pw8QftkNgQQxltY4Gvvb-xhOtbgL4sVCOTdsO09KtPRuaQuibKpLuvt-rGgh2SLOhQqc_VXiLK1OqufuHJw0Y949agStN-9cYBd3kP0rTCThx-EvZBN_tj03nRiWjFoZ0uyPlX6e8_qSb2Ax9eaw007J09R3NrAgMIFcus_YkfNXLoITMi_SbO1Df7oCtdia1owchsZCtv-U0UyZ7fxlVQh5BKh1Ht-5dCcxgf98-ULiqRFEmKR7Djdd1UtXziQLeht6DwjEtZDEf4pDE6I10vulganeygTq4re2-sIRcJg9Lg6Rpow2c5dWEvRO39se6-7EV0GuD3VAo2SoPOMNq9v-vzD-wRUSYU8f4LzkfMWBkC1Tc0n9xfUBnnL21NqNSLfeqC_or3e45fxK-J0RXQlL4VoMx7hxPEs-dsE5aUEMDYZUgV8ewMPw1FisZiMb0TICW3wbCnJmcKbNE6O_2Xm0CtrrQ5XRh7K5mtWE2aInom7iUPP_X5QFi3rzFPDd2jJx1G1RqcCZkq2qMG0svLaZh2TYPOWxKJ6ZSx1QpsHvJd-njVbLrWrmGEsFCfVGATmN1segVU9m5qPOlPYDvjYaL93q8vhBww",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJdYtVc0KKwokRgNT5dt_4nBA",
+      "plus_code": {
+        "compound_code": "Q6PC+5G New York, NY, USA",
+        "global_code": "87G8Q6PC+5G"
+      },
+      "reference": "ChIJdYtVc0KKwokRgNT5dt_4nBA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.791428,
+          "lng": -73.781059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79277208029149,
+            "lng": -73.77970176970848
+          },
+          "southwest": {
+            "lat": 40.7900741197085,
+            "lng": -73.7823997302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Totten Av/Cross Island Pkwy",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103153805823094698749\">Joyan Tharakan, MHA</a>"
+          ],
+          "photo_reference": "AU_ZVEGbAsT43N-ZLM8qhKAJ3QofSW0GKVNrITZb0_GKy9MklsihErVhXcHhe8r6Pss8du_73r58Y0x8-Y_3DvoffQhN8t6y-JhzIeSMXxPCXYUsp9tPWtYrknMoLNiDmthVF6UsWXR4tdye5l0ySaMY2Uxs0X0x2uhNiKTwJBjCmdTIdwzJTyB2rz5JhxN8H5oxDJYpz38aPkvlAWcS_qZH5DOqbsUYQ8UUnlDveR-mrh1Qd0D9tCrmFQA1Yty-NjcILhs0gER4j0cHo7sPaHzY0Uvegpvd7veKjX9uzumK17q1NCY-sqlW0uf-2iJ04QnhbxjZNvcjosBwOM8H9VLA1Vly_OawK-IVxXVgrn8zW9tMjIvsmHRFnd-QLG4mtUym6zdbATRijRmP8jqm7PSPVrnMiBoxG1gXZMmdX3H8glh6CNz17quS0YkxurxTx4mwkmIqPJKi9oSHr1yA0CbI_b8YdetziaTf0EKQykVeboe0eW9aMyi-3zA1uQ7129Uosl-UMBUrHlkUwBHJZQjLlDbNA4eBe0DPC_wg5rOAJet1rSndK82ylbUIS7GLL0fIUrdDQVje9g2565jNNNx4bxADaA776PEWi1r81H6NrUeGPz89JNpRxOQNlEa7Gt7TUERwzavzA0FSG8Q2w_zJc-1Xjdo",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJhT5LkkSKwokR9kFu-igSw5I",
+      "plus_code": {
+        "compound_code": "Q6R9+HH New York, NY, USA",
+        "global_code": "87G8Q6R9+HH"
+      },
+      "rating": 5,
+      "reference": "ChIJhT5LkkSKwokR9kFu-igSw5I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.79076930000001,
+          "lng": -73.781534
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79212753029149,
+            "lng": -73.7802122697085
+          },
+          "southwest": {
+            "lat": 40.7894295697085,
+            "lng": -73.7829102302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 877-690-5116",
+      "name": "Totten Ave/Cross Island Pkwy",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112874442489935812277\">Doctor Baldeagle</a>"
+          ],
+          "photo_reference": "AU_ZVEG9C6E_eAXBvZi-NFxx_HSlGYP9bCphK0pReM82OpX10-_tn5gL6dKiWbqdjrO1q3GtWYTzxLtDKXrtcLsxUlxfKUbi7IMDN2sXhRfFA0b73lE5w1YNm1CO88H9qH2s0skmw1iSKL1ypkb5lCcsYcZEaKZVwZTOgFi4Jm_y2fBDjB_bVYk0zUJCdgiAcch3eU5hXiMSa2AwCDhI6WMCzxVKDeyz2d2Wb2bY5A4tUg2428YItdQBV2YV7JJ4AUN6HN8PmlDE4ZN1N8e8-8s4YDLe4NWAyBHds2LXdg88U2i5yoqkrUuK-QG3r0S0GuD-HPBIOpT36h4gXJE20SfuPbpTiEnTEmWFT3j3j3J0puOkrINa6EG1p3oZ3MhZmeDTTOz25iQHD7sCK0gABQBDeyptLk_MekDbI4aIBX3-GAXbkavkcJaQP4y1lGl3mZIvzGENr1j3emqUv3l_KHwMtZ-CLEMHvnpu0ejOd6DORsV0CiDl0yGESTmp2KwJB9ddXcKxQQiQpYyTSXvxMCvW7bxas7V_BSy0vUIyV-auVDxHHQmsLz18uC4_z3mRSRcMmJ8ZpdAxEVpMYQzetx7treU8MRH-81kGladFT95cUhILrhi6r1qwcz3QCPOP8G81rAUkYgvA",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJeW8ZkkSKwokRCWXSYXQleTo",
+      "plus_code": {
+        "compound_code": "Q6R9+89 New York, NY, USA",
+        "global_code": "87G8Q6R9+89"
+      },
+      "rating": 5,
+      "reference": "ChIJeW8ZkkSKwokRCWXSYXQleTo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.788715,
+          "lng": -73.782074
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79006518029149,
+            "lng": -73.7807275697085
+          },
+          "southwest": {
+            "lat": 40.7873672197085,
+            "lng": -73.78342553029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/212 St",
+      "place_id": "ChIJIVrQI0OKwokRrJGDKCnE-ng",
+      "plus_code": {
+        "compound_code": "Q6Q9+F5 New York, NY, USA",
+        "global_code": "87G8Q6Q9+F5"
+      },
+      "reference": "ChIJIVrQI0OKwokRrJGDKCnE-ng",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78884100000001,
+          "lng": -73.782478
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7901597302915,
+            "lng": -73.78114361970849
+          },
+          "southwest": {
+            "lat": 40.7874617697085,
+            "lng": -73.78384158029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/212 St",
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109673994378547404711\">Sir Benni Miles New York</a>"
+          ],
+          "photo_reference": "AU_ZVEH3d5SQxH-ZaNQNfM0IyqZ7dWCuryKk-j9QFVW6zAtyM0hgXkuWx2oaucPhHEonRRaVQJs1FE4ViEMimz5Xc-Oo-mZI1JFIWVloFHlQA6xbr7X_TP3Mz_j_T-kSGKkcDzTs_UAL7NfxDeGJA5SIAfJsnVvjZ-nxtReSqSum2GoXR0y_gOJrw2efTdyU8X3F2O6lFeHdTLV3gyr_I02viB9WS1c81YlUJfph83iGsaovyB9XgskVIcz6JIkzygM_1d1j6iQAQDYXR2fTtOL-w1cwepoxm981V3S9BRwpNja-4_ju9TrfGh8BySgy9pu-y2t30PU8HmivKKDEjUBrZowogRtQ-ON65P2TMTli5Hc5JdM6Ws1KWMHHEkb8dlDE022-rDrfIZnkgY2RYUfVY8J1hz8yPmKHeohrLS_exnqfK58g2S4FqPOKShKoe6txBCSajpraCvB_K_iAAyvbrASgn1dOmS6mW6ocDnkLc5NIOsNtVJhHxWJUeVej3IGaM9D-SnS09-sRZSVBlNEPTTt9cJoIigZaSg-uocagI_ixSKAlEAyWnfcjSPRkj3piIvB1cGf3Pq5r_lDxUc-GzCY2Z46J9Td35QpwgxnqdqWEn8u4pRGBETJH0_AkeqbSNcKfQR5M0xOtsHlSHqXfFiB2xZU",
+          "width": 3472
+        }
+      ],
+      "place_id": "ChIJ-144MEOKwokRf7_xjz9JpYA",
+      "plus_code": {
+        "compound_code": "Q6Q9+G2 New York, NY, USA",
+        "global_code": "87G8Q6Q9+G2"
+      },
+      "reference": "ChIJ-144MEOKwokRf7_xjz9JpYA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.788589,
+          "lng": -73.782166
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7899634802915,
+            "lng": -73.78079796970849
+          },
+          "southwest": {
+            "lat": 40.7872655197085,
+            "lng": -73.7834959302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/212 St",
+      "place_id": "ChIJHQH-JEOKwokRieA9b_68adU",
+      "plus_code": {
+        "compound_code": "Q6Q9+C4 New York, NY, USA",
+        "global_code": "87G8Q6Q9+C4"
+      },
+      "reference": "ChIJHQH-JEOKwokRieA9b_68adU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.788914,
+          "lng": -73.783104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7902666802915,
+            "lng": -73.78175451970849
+          },
+          "southwest": {
+            "lat": 40.7875687197085,
+            "lng": -73.7844524802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/212 St",
+      "place_id": "ChIJnUnP0lyKwokRLcipV5llvt0",
+      "plus_code": {
+        "compound_code": "Q6Q8+HQ New York, NY, USA",
+        "global_code": "87G8Q6Q8+HQ"
+      },
+      "reference": "ChIJnUnP0lyKwokRLcipV5llvt0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.788082,
+          "lng": -73.78108999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.78946243029151,
+            "lng": -73.77971571970849
+          },
+          "southwest": {
+            "lat": 40.78676446970851,
+            "lng": -73.7824136802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/212 St",
+      "place_id": "ChIJD8auHUOKwokR_sjD4kFTEGg",
+      "plus_code": {
+        "compound_code": "Q6Q9+6H New York, NY, USA",
+        "global_code": "87G8Q6Q9+6H"
+      },
+      "reference": "ChIJD8auHUOKwokR_sjD4kFTEGg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78880300000001,
+          "lng": -73.783119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7901190802915,
+            "lng": -73.7817739697085
+          },
+          "southwest": {
+            "lat": 40.78742111970851,
+            "lng": -73.7844719302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/209 St",
+      "place_id": "ChIJnUnP0lyKwokRWgT_qDhTIwU",
+      "plus_code": {
+        "compound_code": "Q6Q8+GQ New York, NY, USA",
+        "global_code": "87G8Q6Q8+GQ"
+      },
+      "reference": "ChIJnUnP0lyKwokRWgT_qDhTIwU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7888245,
+          "lng": -73.78779949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7902078802915,
+            "lng": -73.78645771970848
+          },
+          "southwest": {
+            "lat": 40.7875099197085,
+            "lng": -73.7891556802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/Bayridge Condo",
+      "place_id": "ChIJ61ppy12KwokRRZRMP0mzLBg",
+      "plus_code": {
+        "compound_code": "Q6Q6+GV New York, NY, USA",
+        "global_code": "87G8Q6Q6+GV"
+      },
+      "rating": 5,
+      "reference": "ChIJ61ppy12KwokRRZRMP0mzLBg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.788849,
+          "lng": -73.786804
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7902131802915,
+            "lng": -73.7854554697085
+          },
+          "southwest": {
+            "lat": 40.7875152197085,
+            "lng": -73.7881534302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/Estates Ln",
+      "place_id": "ChIJB0NdTVyKwokRhccyppiQHHo",
+      "plus_code": {
+        "compound_code": "Q6Q7+G7 New York, NY, USA",
+        "global_code": "87G8Q6Q7+G7"
+      },
+      "reference": "ChIJB0NdTVyKwokRhccyppiQHHo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78898050000001,
+          "lng": -73.7870904
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.79028288029151,
+            "lng": -73.7857348197085
+          },
+          "southwest": {
+            "lat": 40.78758491970851,
+            "lng": -73.78843278029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/Baybridge Condo",
+      "photos": [
+        {
+          "height": 1463,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110530589976498169345\">Pamela Larriuz</a>"
+          ],
+          "photo_reference": "AU_ZVEFMjCDUl0BBjFYoviYSKKfPpBIpiulJzDKdhYmPf8kgbO_B-X3TBalqC_dDFXPsw2pRiRp4jP0IAHyklRQqujZJ9tL-mZnyXlD3MOxuU4n7o_mb588CTHoG-Rlt9HWR9eJPUIjEgUGKEDr_iXPXazUYQHgFkqljIY5ja9gpIB--WJFvCZ36QXgc5rGzmoQtdjd0CYDATYPUXV03eaJBBUpw-guJq3gEWQTZ1pD2g5dNNZe_Z0yMugFNexo3GnxJxUIXPnhrKevK5WigDXEMPUzbNe70LjhAug3iQXQ33i3M5qlPBKUOoIDTbjX8HXBVumqGg7B8AtGdtGnEHksiw3Wk_sJEeZxbgConq-WjWPvsG3u4fixoeoWkZZAAx1gKbPnGNpurS6ijvOencwzR8Lr2CHdlTBbL0Ji5p8UdmBzlezSq1-Y2OkXorxs9m8o3gd8YOnWvfzFK8Dr3eDkCVRdg5iYChxjPAT_U5GSDSCWggMRTQM0o5Zw_YpS0afqfb6OPBEJV07B0tIeBMSJbiI9UWXbsO12JlyENXVqJ3u5NmDrU9JdCU91JBwq831aK5hWQqoPsnxYdZNnUCASQ7TtniObha1LdL7Hdo3wmKH78PYoKvi_4AnYyZaTwbjyAMY0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlXpJy12KwokReoAHDDnpS4E",
+      "plus_code": {
+        "compound_code": "Q6Q7+H5 New York, NY, USA",
+        "global_code": "87G8Q6Q7+H5"
+      },
+      "reference": "ChIJlXpJy12KwokReoAHDDnpS4E",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.785744,
+          "lng": -73.778778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7870756302915,
+            "lng": -73.77747041970851
+          },
+          "southwest": {
+            "lat": 40.7843776697085,
+            "lng": -73.78016838029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/16 Av",
+      "place_id": "ChIJAx2ZckKKwokRJIgdeUFwPuc",
+      "plus_code": {
+        "compound_code": "Q6PC+7F New York, NY, USA",
+        "global_code": "87G8Q6PC+7F"
+      },
+      "rating": 5,
+      "reference": "ChIJAx2ZckKKwokRJIgdeUFwPuc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.785583,
+          "lng": -73.781517
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7869302302915,
+            "lng": -73.78022896970847
+          },
+          "southwest": {
+            "lat": 40.7842322697085,
+            "lng": -73.7829269302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "212 St/15 Ave",
+      "place_id": "ChIJrTndn0KKwokRL74RLvVvV3g",
+      "plus_code": {
+        "compound_code": "Q6P9+69 New York, NY, USA",
+        "global_code": "87G8Q6P9+69"
+      },
+      "reference": "ChIJrTndn0KKwokRL74RLvVvV3g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.785408,
+          "lng": -73.781509
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7867620802915,
+            "lng": -73.7802273697085
+          },
+          "southwest": {
+            "lat": 40.7840641197085,
+            "lng": -73.7829253302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "212 St/15 Av",
+      "place_id": "ChIJjcVLIGiKwokRacnI3ol0Xro",
+      "plus_code": {
+        "compound_code": "Q6P9+59 New York, NY, USA",
+        "global_code": "87G8Q6P9+59"
+      },
+      "reference": "ChIJjcVLIGiKwokRacnI3ol0Xro",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78875399999999,
+          "lng": -73.78781099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7901413802915,
+            "lng": -73.78646946970849
+          },
+          "southwest": {
+            "lat": 40.7874434197085,
+            "lng": -73.7891674302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Cross Island Pkwy/Estates Ln",
+      "place_id": "ChIJ5_qcy12KwokRkKmqhDYMqTw",
+      "plus_code": {
+        "compound_code": "Q6Q6+GV New York, NY, USA",
+        "global_code": "87G8Q6Q6+GV"
+      },
+      "rating": 3,
+      "reference": "ChIJ5_qcy12KwokRkKmqhDYMqTw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.78515599999999,
+          "lng": -73.77860299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.78652663029148,
+            "lng": -73.77720221970849
+          },
+          "southwest": {
+            "lat": 40.78382866970849,
+            "lng": -73.7799001802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/16 Av",
+      "place_id": "ChIJm4OjCkKKwokRYttMkR0J-wM",
+      "plus_code": {
+        "compound_code": "Q6PC+3H New York, NY, USA",
+        "global_code": "87G8Q6PC+3H"
+      },
+      "reference": "ChIJm4OjCkKKwokRYttMkR0J-wM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.783028,
+          "lng": -73.77975500000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7843901302915,
+            "lng": -73.7784159697085
+          },
+          "southwest": {
+            "lat": 40.7816921697085,
+            "lng": -73.78111393029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "18 Av/212 St",
+      "place_id": "ChIJmX5jqWmKwokRo7OSTzDDYm0",
+      "plus_code": {
+        "compound_code": "Q6MC+63 New York, NY, USA",
+        "global_code": "87G8Q6MC+63"
+      },
+      "reference": "ChIJmX5jqWmKwokRo7OSTzDDYm0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.782776,
+          "lng": -73.776634
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7841063802915,
+            "lng": -73.77533121970849
+          },
+          "southwest": {
+            "lat": 40.7814084197085,
+            "lng": -73.77802918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/23 Av",
+      "place_id": "ChIJFZNeLmqKwokRV-YyUf2C_lY",
+      "plus_code": {
+        "compound_code": "Q6MF+48 New York, NY, USA",
+        "global_code": "87G8Q6MF+48"
+      },
+      "reference": "ChIJFZNeLmqKwokRV-YyUf2C_lY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.782513,
+          "lng": -73.776695
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7838794302915,
+            "lng": -73.7752944197085
+          },
+          "southwest": {
+            "lat": 40.7811814697085,
+            "lng": -73.77799238029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bell Blvd/23 Av",
+      "place_id": "ChIJFZNeLmqKwokRokb7GN-CrqQ",
+      "plus_code": {
+        "compound_code": "Q6MF+28 New York, NY, USA",
+        "global_code": "87G8Q6MF+28"
+      },
+      "reference": "ChIJFZNeLmqKwokRokb7GN-CrqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.782032,
+          "lng": -73.781548
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7834278802915,
+            "lng": -73.7801950697085
+          },
+          "southwest": {
+            "lat": 40.7807299197085,
+            "lng": -73.7828930302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "211 St/18 Av",
+      "place_id": "ChIJnT-26miKwokRcQNNk0neyZc",
+      "plus_code": {
+        "compound_code": "Q6J9+R9 New York, NY, USA",
+        "global_code": "87G8Q6J9+R9"
+      },
+      "reference": "ChIJnT-26miKwokRcQNNk0neyZc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.781975,
+          "lng": -73.78175399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7833156802915,
+            "lng": -73.78037516970849
+          },
+          "southwest": {
+            "lat": 40.7806177197085,
+            "lng": -73.7830731302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "211 St/18 Av",
+      "place_id": "ChIJS_gNlWiKwokRX1q4-gn9Lbg",
+      "plus_code": {
+        "compound_code": "Q6J9+Q7 New York, NY, USA",
+        "global_code": "87G8Q6J9+Q7"
+      },
+      "reference": "ChIJS_gNlWiKwokRX1q4-gn9Lbg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

@@ -1,0 +1,2168 @@
+{
+  "neighbourhood": "Country Club",
+  "centroid": {
+    "lat": 40.84398071331828,
+    "lon": -73.81494850564334
+  },
+  "fetched_at": "2026-04-06T14:21:36.359788+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.84637839999999,
+            "lng": -73.81952919999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84763803029151,
+              "lng": -73.81819061970849
+            },
+            "southwest": {
+              "lat": 40.84494006970851,
+              "lng": -73.82088858029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-777-9555",
+        "name": "Country Bay Pizza",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 845,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103804797633154480520\">Country Bay Pizza</a>"
+            ],
+            "photo_reference": "AU_ZVEFzi65w5gKlwkdNx0XpT5NktpulFI4L1zYhHTg7jMVCC8rYicDe1tV-e3IPISiQPhoc__xSGITWpoBrbQdv_ank0MyijCI6ufm-p8gwUqMcZ0MVnNYYPReCHIhxqcXWO2jcPi_lPeoZEJQEvdcHVpZCi6UerJ1WteW-u7ZYFL4WtVea0pZ4LbqXm1m9UVkqWrWz62p5EZpnb0wx4HY_-x6pDjznqfq0D-BUdngfCIYSIKNK8DlaKwKsu77JPMsCfmPCcwCmWLS0D7DoFxQgV2ZLVYQnfI9xAkX3LNCt4DbpSyfRPbSA-GPfwMsJGxQ6ACQa0bxPSZc",
+            "width": 712
+          }
+        ],
+        "place_id": "ChIJ___PFV6LwokRrjScJYclyHw",
+        "plus_code": {
+          "compound_code": "R5WJ+H5 The Bronx, NY, USA",
+          "global_code": "87G8R5WJ+H5"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ___PFV6LwokRrjScJYclyHw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 69,
+        "vicinity": "3233 Ampere Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8463681,
+            "lng": -73.81952749999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84763268029149,
+              "lng": -73.81819926970849
+            },
+            "southwest": {
+              "lat": 40.84493471970849,
+              "lng": -73.8208972302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 929-777-9855",
+        "name": "Salotto Dorato",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2528,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103034175378860461894\">Salotto Dorato</a>"
+            ],
+            "photo_reference": "AU_ZVEH5kidVT9LlwjdMQaiyfrB8szTypR718qPa6E6ky0gC_t8G50RlLoKCeCr8l9vMDmxeCaS3pOmaqn0YZ3wc3ZWBUY2v1Rb9N1nFZcMl9a2cpKmu4Y8FDEVE0VLOEXxRyhNaR1IzXNTTTdHRFC2xHpF_NSMZ9ue114xfmQtOC4mHJubkEO958OwtXpSYfwDKKjY14CXIugCH67tY-7afD4t1CHJ5kiF7LxB3B2FFXWGvrj3D8_No158bTR2UQhCy7xNDmY-2_jhOgPVPwUlu8XZBmCYYQojjP_3-OMcYFsfde93sDkgsl6E4H63Ws8pkcr3kchh_14A",
+            "width": 2268
+          }
+        ],
+        "place_id": "ChIJZxSkRoyLwokRaN1cIEyu0Gg",
+        "plus_code": {
+          "compound_code": "R5WJ+G5 The Bronx, NY, USA",
+          "global_code": "87G8R5WJ+G5"
+        },
+        "rating": 5,
+        "reference": "ChIJZxSkRoyLwokRaN1cIEyu0Gg",
+        "scope": "GOOGLE",
+        "types": [
+          "grocery_or_supermarket",
+          "cafe",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "3233 Ampere Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.835712,
+            "lng": -73.8179935
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8369951802915,
+              "lng": -73.8165910697085
+            },
+            "southwest": {
+              "lat": 40.8342972197085,
+              "lng": -73.8192890302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-931-5511",
+        "name": "Loretta's Pizza",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103651916325000190761\">Number One</a>"
+            ],
+            "photo_reference": "AU_ZVEG1JJWXx3FS6YGDuB4hJM-hmfLTEODevr4sEmlHcKOPp80beDuoAVo-k6qVvntUooS6aIL50FMwqf2zsxv2GB9yvPFVW909lnBILGb5eRKyKPmGh8ydDzLEiPhFV2Oj573K1fMw7crHHOOOWjOfdtnjthtXPf4ND07pXnlYyaNWZe6Sm7FAjCfFrHXr7vSKRTl3P8ugoj9zenHT3zoe2EFi1-X-jcFXlbwRo8N5i-_tMJtys1C0Yq4nj8PU1Joo5QnmjI00mHZYkv9F8JhsOoAFIM-rzg-p1CAiNndSl_jcIy8l3F6RdVtXM8J6c4rGvjoVR8Sp9odFfSaypsDRnxMPjTec4aoybx-eOOFv7JDzEyyq5PPtStX1hbYks7s_6qPXDnha1nNq8-RtFPSO6fb9jkVDAhJKoQbC_ERPYe0EPtB1oVbrCzqRDSoE__TFBZxKMxYIjGiV1pt0TF65hWESp5lPwcjfGilnXLV02fuigq8rcYg268ZWf0f4M_g2UMzB4RA7mdCXPRVpdWZYP5ImJl0_5vEQExMli5Eun1P1Zh7WbQdz4R81MqqF3mydGtSQldn599zPk5X92mTI2sbY5hopEof8oTNvPi6l7YU1Dum8E6NwWgwnF01odncQhkWhrSNk",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ8yVV-2mLwokRLAAhn7mByp4",
+        "plus_code": {
+          "compound_code": "R5PJ+7R The Bronx, NY, USA",
+          "global_code": "87G8R5PJ+7R"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJ8yVV-2mLwokRLAAhn7mByp4",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 461,
+        "vicinity": "3276 Layton Avenue, The Bronx"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8446617,
+            "lng": -73.81700889999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8460964802915,
+              "lng": -73.81567306970848
+            },
+            "southwest": {
+              "lat": 40.8433985197085,
+              "lng": -73.8183710302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cozy 1-bedroom lower level apartment with WiFi, AC in charming The Bronx",
+        "place_id": "ChIJ9bk_SmeLwokRjZey5cxW4oY",
+        "plus_code": {
+          "compound_code": "R5VM+V5 New York, NY, USA",
+          "global_code": "87G8R5VM+V5"
+        },
+        "reference": "ChIJ9bk_SmeLwokRjZey5cxW4oY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.843132,
+            "lng": -73.817146
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8444856302915,
+              "lng": -73.8158284197085
+            },
+            "southwest": {
+              "lat": 40.84178766970851,
+              "lng": -73.8185263802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Radio Dr/Lucerne St",
+        "place_id": "ChIJ0TiXbWeLwokROvGJpOp8ASw",
+        "plus_code": {
+          "compound_code": "R5VM+74 New York, NY, USA",
+          "global_code": "87G8R5VM+74"
+        },
+        "rating": 5,
+        "reference": "ChIJ0TiXbWeLwokROvGJpOp8ASw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.84420799999999,
+            "lng": -73.81938199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8455620802915,
+              "lng": -73.81807636970849
+            },
+            "southwest": {
+              "lat": 40.8428641197085,
+              "lng": -73.8207743302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Radio Dr/Griswold Av",
+        "place_id": "ChIJgUc5k12LwokRD4CBaNe9jmw",
+        "plus_code": {
+          "compound_code": "R5VJ+M6 New York, NY, USA",
+          "global_code": "87G8R5VJ+M6"
+        },
+        "reference": "ChIJgUc5k12LwokRD4CBaNe9jmw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.841061,
+            "lng": -73.81785599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8424067802915,
+              "lng": -73.81652631970849
+            },
+            "southwest": {
+              "lat": 40.8397088197085,
+              "lng": -73.8192242802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Campbell Dr/Country Club Rd",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106155320830142452598\">Nick Minervino</a>"
+            ],
+            "photo_reference": "AU_ZVEHd8W-5Z3wd-O8ty0beL8336y6nxnzwQgNEDjXnOqR6mdmssPxQWWL6Bll18o2y1OculsyyqgrnjA1TLa_B4mvBV7xCFdYfn0Xauc5MotA1TIvym5tgHpW7fosN7G3obBLUOIH0RaVGdB9iKYwk_GLvGCkHMkNtfbLEBkvhaNjWLKoXt6maebkgsGNp92qI-J50fQmwrYiud_dRZKhcdl1LKYvci-NFseeo4yhe6OgREUeneuzTp9hBBS81BMvy2bezb8JVWGRgYkHEzqlCcTXoojBa7-DEdrvR5PFh2ajNKFBf-v-NGtazD3Q9BrESgYKgix5pLjzIpfIcuaHTUe-zgS0YxbXnb3ybPK7dXAhqe1HojTqpREO7i8s4c7yRKwqdTUsH1MI17IFBVdEs0W3_YIRc_dIWVDuFKfcy70OJ94piAK16rVxdhb3aEfzIdlgiZPTnMnM7Z5bH99Ve_dFNWsnRn0CV-pI7y6DabjMnd5rFNEzZoGItE9jHrg1unxmTaiNUsARzKAJfV46QhchwtwQOskgaROazqdaM_mPrRdVxLyCn0-DwordUqYVVGCPLVUMB7HQOX_0Lkr39NTnBTvogPlKeFo0FXPgJlqMMylEXb7rGYOscOWfDFtk0kXjV_g",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ44nO82eLwokRFzO-ucHjFlg",
+        "plus_code": {
+          "compound_code": "R5RJ+CV New York, NY, USA",
+          "global_code": "87G8R5RJ+CV"
+        },
+        "rating": 5,
+        "reference": "ChIJ44nO82eLwokRFzO-ucHjFlg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.846081,
+            "lng": -73.819206
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8474310802915,
+              "lng": -73.81788781970849
+            },
+            "southwest": {
+              "lat": 40.8447331197085,
+              "lng": -73.8205857802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Research Ave/Ampere Av",
+        "place_id": "ChIJLdxdEF6LwokRAEf0h9qwNDk",
+        "plus_code": {
+          "compound_code": "R5WJ+C8 New York, NY, USA",
+          "global_code": "87G8R5WJ+C8"
+        },
+        "reference": "ChIJLdxdEF6LwokRAEf0h9qwNDk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.842197,
+            "lng": -73.819565
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8435730302915,
+              "lng": -73.8182058197085
+            },
+            "southwest": {
+              "lat": 40.8408750697085,
+              "lng": -73.8209037802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Spencer Dr/Reed Pl",
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106155320830142452598\">Nick Minervino</a>"
+            ],
+            "photo_reference": "AU_ZVEEr9cv7VL1umkFMawM4cFZ-4KOjfgo2YKl1iXPTVuBkfSav1gHBJdJodhRhl5n-s4qM-hcFwcLGDyXkHTIl5qc2WDV4NOZIzveljRe6fBtVaEWMgBpeU6F1QxdGqdE8IH6Ldan2jhAeSHMPfjuZwPjnuNWoZgGm2it2pdcQKGmylq0E-tb80Q9Kz9f8GmhCwvSjryltPGi77r1o6tbl9NvHARBsllCwsG1a3Wiws6jGqkxi5YHXSEaokln2KOu8Posk9-jAnUW89QPmDc0E2bHoF6PIssAOCy1U4DXqJTQucYF8PSJOyYJt6h5Q17OysVnHWZqc8ixmfdUjFI1GnJ0OCu3wCGsEK4GBuiU0WvCaRpcJinCP5QzhlwwGVL6kpjlxZtZamLKN6jvH0sjzivBeH70M3pZkomRIjFMxoQxdVExBrGGrLquLgxRY_tzMJHasE7OzOOuwAgM9TJ7kx_CSIQ3w84p0UYf4hq8-msldn4Tfax3iBykm7qV5u6JEaVIMxp3fMcORfBsy9pCSMJib7MqnV2-ptINQILDui0h9BlBC0vm8f_qwZaWZ74Lj-DRdXdTJj-iOjTcgGOE4jPIYbUzikPSVYDP-1DoNRn_oKAMfgcDABhzyszMzeXDNnzq-NA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ9S9jD12LwokRf1DnENzELPQ",
+        "plus_code": {
+          "compound_code": "R5RJ+V5 New York, NY, USA",
+          "global_code": "87G8R5RJ+V5"
+        },
+        "rating": 5,
+        "reference": "ChIJ9S9jD12LwokRf1DnENzELPQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.83913,
+            "lng": -73.81727599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8404735802915,
+              "lng": -73.81595756970849
+            },
+            "southwest": {
+              "lat": 40.8377756197085,
+              "lng": -73.81865553029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Campbell Dr/Agar Pl",
+        "place_id": "ChIJg4TiE2iLwokRccptGq5FjnQ",
+        "plus_code": {
+          "compound_code": "R5QM+M3 New York, NY, USA",
+          "global_code": "87G8R5QM+M3"
+        },
+        "reference": "ChIJg4TiE2iLwokRccptGq5FjnQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.843109,
+            "lng": -73.82253299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8444528802915,
+              "lng": -73.8211741697085
+            },
+            "southwest": {
+              "lat": 40.84175491970851,
+              "lng": -73.8238721302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kennellworth Pl/Spencer Dr",
+        "place_id": "ChIJ_exB9lyLwokR93YzOivV-G8",
+        "plus_code": {
+          "compound_code": "R5VG+6X New York, NY, USA",
+          "global_code": "87G8R5VG+6X"
+        },
+        "reference": "ChIJ_exB9lyLwokR93YzOivV-G8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.84598499999999,
+            "lng": -73.82222
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8473326302915,
+              "lng": -73.8208366197085
+            },
+            "southwest": {
+              "lat": 40.8446346697085,
+              "lng": -73.82353458029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kennellworth Pl/Ampere Ave",
+        "place_id": "ChIJ_Y0Bm16LwokRNaXiphv7maY",
+        "plus_code": {
+          "compound_code": "R5WH+94 New York, NY, USA",
+          "global_code": "87G8R5WH+94"
+        },
+        "rating": 5,
+        "reference": "ChIJ_Y0Bm16LwokRNaXiphv7maY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.83791,
+            "lng": -73.818878
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.83928598029149,
+              "lng": -73.81753471970849
+            },
+            "southwest": {
+              "lat": 40.83658801970849,
+              "lng": -73.8202326802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Campbell Dr/Stadium Av",
+        "place_id": "ChIJZX0fh0KLwokRoIyy5AtsaxI",
+        "plus_code": {
+          "compound_code": "R5QJ+5C New York, NY, USA",
+          "global_code": "87G8R5QJ+5C"
+        },
+        "reference": "ChIJZX0fh0KLwokRoIyy5AtsaxI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.84251,
+            "lng": -73.824776
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8438898302915,
+              "lng": -73.8234133197085
+            },
+            "southwest": {
+              "lat": 40.8411918697085,
+              "lng": -73.8261112802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Country Club Rd/Kearney Av",
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109078172434495104071\">Jazmin Sanchez</a>"
+            ],
+            "photo_reference": "AU_ZVEFrCmDHYgMjFgJaBXbJegmpMpbhFBrndkU4sh24jM8QzQ4vybzWxACPCmLj3ol92KJSQ9ntqHXZDdE-psE-cOcPIyo0JfwCi8-BhZV5266Dz3rXE1jNZq-l7G-43CX_yJBQpEIHS-crgNRv3ej2IqfnOsfG5KKcFrkvngJsTuBhVe_ViqD5rpLkYkLdeqAFgU2FVIu0BH5mt9g4-nvjhJFckyxarYfYbgrGNCSWr_x3_3zc04_wtUl1AzexlAEM7d7CdTl2ZIgZ4EL15u9yR9vaBwlPfXeHyAxtC85E0-WfovVDZyIbnY-4qTmcX5OH4Rln-nlLPjkElxAQB-Hgms6X4nzluwrmny7ROsPdo9apEGPvB-lNtSGzOdJRFnG7qnAvd1pULBNxqMhXaaWLPkrJRhMQ3jvnQuQv27Ydh8UEXQYaRhM52Rux_1WR5jAlam7shTvvHyMK9-81J00methmP66TTHXJsbRQR-MeOcUA_DirVSIfM3oXZs3UmJ-cOFFZYJFkwpWlnnepFG2FDqIOIksJM79sgoMy1aE0XoORSuTWC3RwAcBYJBrCv8hv-fN1WHGN4sq4RJi200YZpVXVOOAYjXtbfIrktviX9_-yAZSJPM3Dbd_vMw0tcp0cWAJWpw",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJu2jkZluLwokRR03q96kTYfQ",
+        "plus_code": {
+          "compound_code": "R5VG+23 New York, NY, USA",
+          "global_code": "87G8R5VG+23"
+        },
+        "reference": "ChIJu2jkZluLwokRR03q96kTYfQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.842747,
+            "lng": -73.824997
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8440500802915,
+              "lng": -73.8236719197085
+            },
+            "southwest": {
+              "lat": 40.8413521197085,
+              "lng": -73.82636988029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Country Club Rd/McDonough Pl",
+        "place_id": "ChIJR3Jqb1uLwokRrtIqr7QRJU0",
+        "plus_code": {
+          "compound_code": "R5VG+32 New York, NY, USA",
+          "global_code": "87G8R5VG+32"
+        },
+        "rating": 1,
+        "reference": "ChIJR3Jqb1uLwokRrtIqr7QRJU0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.842606,
+            "lng": -73.825073
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8439755802915,
+              "lng": -73.82371326970848
+            },
+            "southwest": {
+              "lat": 40.8412776197085,
+              "lng": -73.8264112302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "MacDonough Pl/Country Club Rd",
+        "place_id": "ChIJC8G-aFuLwokRrBaQX-pIhUA",
+        "plus_code": {
+          "compound_code": "R5VF+2X New York, NY, USA",
+          "global_code": "87G8R5VF+2X"
+        },
+        "reference": "ChIJC8G-aFuLwokRrBaQX-pIhUA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.839298,
+            "lng": -73.823174
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84065993029149,
+              "lng": -73.8218159697085
+            },
+            "southwest": {
+              "lat": 40.83796196970849,
+              "lng": -73.8245139302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rawlins Ave/Kearney Av",
+        "place_id": "ChIJ-Ub9YEOLwokR7-DPmXpKnFk",
+        "plus_code": {
+          "compound_code": "R5QG+PP New York, NY, USA",
+          "global_code": "87G8R5QG+PP"
+        },
+        "reference": "ChIJ-Ub9YEOLwokR7-DPmXpKnFk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.84575299999999,
+            "lng": -73.825394
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84709408029149,
+              "lng": -73.82407531970848
+            },
+            "southwest": {
+              "lat": 40.84439611970849,
+              "lng": -73.82677328029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Blvd/Middletown Rd",
+        "place_id": "ChIJoZSl5luLwokRvg7LE5upMd0",
+        "plus_code": {
+          "compound_code": "R5WF+8R New York, NY, USA",
+          "global_code": "87G8R5WF+8R"
+        },
+        "reference": "ChIJoZSl5luLwokRvg7LE5upMd0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.841106,
+            "lng": -73.825104
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84245263029149,
+              "lng": -73.82379656970849
+            },
+            "southwest": {
+              "lat": 40.8397546697085,
+              "lng": -73.82649453029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Blvd/Connell Pl",
+        "place_id": "ChIJu1SxskSLwokRslF0VMNuLMg",
+        "plus_code": {
+          "compound_code": "R5RF+CX New York, NY, USA",
+          "global_code": "87G8R5RF+CX"
+        },
+        "reference": "ChIJu1SxskSLwokRslF0VMNuLMg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8453295,
+            "lng": -73.8257945
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84667848029149,
+              "lng": -73.82444551970849
+            },
+            "southwest": {
+              "lat": 40.8439805197085,
+              "lng": -73.82714348029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Bl/Middletown Rd",
+        "place_id": "ChIJbzxswluLwokRh1EhMHm1drs",
+        "plus_code": {
+          "compound_code": "R5WF+4M New York, NY, USA",
+          "global_code": "87G8R5WF+4M"
+        },
+        "reference": "ChIJbzxswluLwokRh1EhMHm1drs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.84490599999999,
+            "lng": -73.82619500000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8462538302915,
+              "lng": -73.82481221970849
+            },
+            "southwest": {
+              "lat": 40.8435558697085,
+              "lng": -73.8275101802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Blvd/Middletown Rd",
+        "place_id": "ChIJybrquFuLwokRHOM0nS_nxEk",
+        "plus_code": {
+          "compound_code": "R5VF+XG New York, NY, USA",
+          "global_code": "87G8R5VF+XG"
+        },
+        "reference": "ChIJybrquFuLwokRHOM0nS_nxEk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.843197,
+            "lng": -73.82627900000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84454553029151,
+              "lng": -73.8249164197085
+            },
+            "southwest": {
+              "lat": 40.84184756970851,
+              "lng": -73.82761438029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Blvd/Jarvis Av",
+        "place_id": "ChIJc98yDluLwokRqMEI5xb_D20",
+        "plus_code": {
+          "compound_code": "R5VF+7F New York, NY, USA",
+          "global_code": "87G8R5VF+7F"
+        },
+        "rating": 5,
+        "reference": "ChIJc98yDluLwokRqMEI5xb_D20",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.843185,
+            "lng": -73.82646199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8445126302915,
+              "lng": -73.8251342197085
+            },
+            "southwest": {
+              "lat": 40.8418146697085,
+              "lng": -73.82783218029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Jarvis Av/Bruckner Blvd",
+        "photos": [
+          {
+            "height": 4048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115387740151103410877\">Judd Karlman</a>"
+            ],
+            "photo_reference": "AU_ZVEHV0fI2NxeT_56KP-bbPnOFAFE5PtnqnHwkhevi1h5kcN9okRyaQHtf5qzHUnl1K9_xUhSomK_tMw9CVrwySy9emaMNZzO58lxyhFfwlNcirP94OQqYVAhCsZYfqO0fXmD4s5fjRNMl3o8tQD97KquyQT8E1D_1aFNFydJmxkGm-gKBdI3-JiLRCgxD7egaRtnA4EmR9zS1GllTdnZKwwwbM99gnD1hxd1l1M8Q7WSMvzqkpU39sGxWsG4tSfE3Zd9wiUvdvbU9SkXXlzj0fMVBozsX2obPxv898pkdWF6NbfrO94lmULo8ynRLlaSKu37JHJmwLr4ZINkCaUa5dq8R-K1y0ipOZ5k7mtTv_QSm_EsTMgF4rTJylQYM0Gjw4ODnh_6SjjAMgaEXGdsxQFufgFLybPabVHKb7o8uMarkfaBJJBTyIJf1JXCuOEXQVsQ_9xKP2L5zX4C4kWbgFCFRWU43cHgzI_q1hB_oNRIkkpfWVHcXSpuI43LSv31_Dn9bXJKuZKEa-9dXTSDCCh-rZxA7C1CuKZ0QazaF-Rwv7zwJZkjPgXTxiUnIJE6xd-1tssB98RaeQkQNAT71hsj3Aoa29qYnLh6wwT5z876J5BPN9yXLsULhGLZd5iu7aaTxqw",
+            "width": 3036
+          }
+        ],
+        "place_id": "ChIJdXQrEFuLwokR3QL9zobwUPE",
+        "plus_code": {
+          "compound_code": "R5VF+7C New York, NY, USA",
+          "global_code": "87G8R5VF+7C"
+        },
+        "rating": 2,
+        "reference": "ChIJdXQrEFuLwokR3QL9zobwUPE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.83934,
+            "lng": -73.82485199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.84068558029151,
+              "lng": -73.82355071970849
+            },
+            "southwest": {
+              "lat": 40.83798761970851,
+              "lng": -73.8262486802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Blvd/Kearney Av",
+        "photos": [
+          {
+            "height": 1840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114405596115394314423\">Evelyn Alicea</a>"
+            ],
+            "photo_reference": "AU_ZVEFXLD9wDZYBwKduOV2PnJg5nmJpCnUqHKWW1NArVP9LciTOB_BjPZW2YTWhWY3Z-f9YHwjPdce34XG9x-cnoqMUBYQwzoXyqTrGOz9i5Jgm77QWXhq6JhdejCMiORbgIlTh-o3m5txHDmYw0A9RbTxcyJQrGSagHlI2aDwyvkI8iGpFetYhhGe39YaoGarGve3GEdM0xvrxtGuYaMYp0RbICBlc4uh8HvyKGt1QIZHlOSdD5Dzex65FZktEz-Ale501XRN0QUBwidjh7hPAiO7PHt-9sy66_gfH0MJmy3-tOf4im2015aaKw-_uX77aVl7wEZLIfe-UbOwMNkQd1vZW9V-04H_w2Le6s_0QG2Ql15hq6GySIu-7Ay2mCDFPd0IMiWYuWzUcHQnOUMeh9kipt6PuqEsmib1skhJzT9mVl64Fb1VtK6ve2ySHz6zOe01nyaD_sMyE7hUm7r_wdZPScaXDCgntGTyngIDsOYspdDf2UJhZjhNGf5l9O9trK5Z8Z4QMZhZduqZ0qajv2TupDkOGXGplYptYkhUtCsew_dwg4FbrJEToTeicko0Vc98CP4oWiITZUvnKPhJKYX36vF2hts32mMHHF21f2GBv01dk1TbCoAYMztwG8eX1",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJO4d7hkSLwokR23VRl_K5fHs",
+        "plus_code": {
+          "compound_code": "R5QG+P3 New York, NY, USA",
+          "global_code": "87G8R5QG+P3"
+        },
+        "reference": "ChIJO4d7hkSLwokR23VRl_K5fHs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.83543400000001,
+            "lng": -73.817932
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8367799802915,
+              "lng": -73.81659611970848
+            },
+            "southwest": {
+              "lat": 40.8340820197085,
+              "lng": -73.8192940802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Dean Ave/Layton Av",
+        "photos": [
+          {
+            "height": 1840,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108684192256083898209\">mikey bx 10465</a>"
+            ],
+            "photo_reference": "AU_ZVEHyihe0sQ9Cdb9YRi4AGMzbbWL_-zAs64rrZkY-uqW9yYEHpIXBTQ-zRHuGJ07L0fyQ3yPbT4EIqpVKyx6n7qlYA3sF1NLa4_Rwcn0ZgNRifGwpT1GOEVJbBEwKcjTz-erzMCeVazJhiTarOflJ-i7Ot7JZIr-jHPofoJOqomgjixf9tLrDvcjo38O7AI57TF7euuu71MeWe-vRf98HgLbGX88JCKIPZGmKeTk5VmZnR8KErF7Mml085S7RIdxUWDYAI1ZRyycn3W6XdvmxpmVH9Wbk74Wm7GGKnSjgomzoB7WOrQ5t63t6HSt6WiQDjkYmhfoDdc4BPQyl6z7likyHDgw1eL7UdQYE-2qokgeOcDGg-KofbVgkue2lNSGqcQYLlck_WxAnVw_Ec1P7HOMs7DSHcRIgbNRjRuxkqAjUeISl9c8CJtu_5aCyino6wDlZe1QhrWKfM1vhr19ewmoQDRaUFeqTwQ1oWzJ3EH15DVdquX_fND7lX9h_wpWdncIoTGYldJoAj96CAAa9ITbzG36FhXwtFJFE5MdEKiKX8Occ2Wpka15vVualVs7bCb6C1nIn2Jc00VAkTS3Z43FH6--pFiNLBomC9WT9y_ny8UdwYdzBJRfaBoL4ZtTaR3aI3Vx8",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJbf1C-WmLwokRwZDC1sYEo9M",
+        "plus_code": {
+          "compound_code": "R5PJ+5R New York, NY, USA",
+          "global_code": "87G8R5PJ+5R"
+        },
+        "rating": 5,
+        "reference": "ChIJbf1C-WmLwokRwZDC1sYEo9M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.841438,
+            "lng": -73.82616399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8427894302915,
+              "lng": -73.8247816697085
+            },
+            "southwest": {
+              "lat": 40.8400914697085,
+              "lng": -73.8274796302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bruckner Blvd/Coddington Av",
+        "place_id": "ChIJV_d1M1uLwokRqOb_NWHNebA",
+        "plus_code": {
+          "compound_code": "R5RF+HG New York, NY, USA",
+          "global_code": "87G8R5RF+HG"
+        },
+        "reference": "ChIJV_d1M1uLwokRqOb_NWHNebA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84637839999999,
+          "lng": -73.81952919999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84763803029151,
+            "lng": -73.81819061970849
+          },
+          "southwest": {
+            "lat": 40.84494006970851,
+            "lng": -73.82088858029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-777-9555",
+      "name": "Country Bay Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 845,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103804797633154480520\">Country Bay Pizza</a>"
+          ],
+          "photo_reference": "AU_ZVEFzi65w5gKlwkdNx0XpT5NktpulFI4L1zYhHTg7jMVCC8rYicDe1tV-e3IPISiQPhoc__xSGITWpoBrbQdv_ank0MyijCI6ufm-p8gwUqMcZ0MVnNYYPReCHIhxqcXWO2jcPi_lPeoZEJQEvdcHVpZCi6UerJ1WteW-u7ZYFL4WtVea0pZ4LbqXm1m9UVkqWrWz62p5EZpnb0wx4HY_-x6pDjznqfq0D-BUdngfCIYSIKNK8DlaKwKsu77JPMsCfmPCcwCmWLS0D7DoFxQgV2ZLVYQnfI9xAkX3LNCt4DbpSyfRPbSA-GPfwMsJGxQ6ACQa0bxPSZc",
+          "width": 712
+        }
+      ],
+      "place_id": "ChIJ___PFV6LwokRrjScJYclyHw",
+      "plus_code": {
+        "compound_code": "R5WJ+H5 The Bronx, NY, USA",
+        "global_code": "87G8R5WJ+H5"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ___PFV6LwokRrjScJYclyHw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 69,
+      "vicinity": "3233 Ampere Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8463681,
+          "lng": -73.81952749999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84763268029149,
+            "lng": -73.81819926970849
+          },
+          "southwest": {
+            "lat": 40.84493471970849,
+            "lng": -73.8208972302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 929-777-9855",
+      "name": "Salotto Dorato",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2528,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103034175378860461894\">Salotto Dorato</a>"
+          ],
+          "photo_reference": "AU_ZVEH5kidVT9LlwjdMQaiyfrB8szTypR718qPa6E6ky0gC_t8G50RlLoKCeCr8l9vMDmxeCaS3pOmaqn0YZ3wc3ZWBUY2v1Rb9N1nFZcMl9a2cpKmu4Y8FDEVE0VLOEXxRyhNaR1IzXNTTTdHRFC2xHpF_NSMZ9ue114xfmQtOC4mHJubkEO958OwtXpSYfwDKKjY14CXIugCH67tY-7afD4t1CHJ5kiF7LxB3B2FFXWGvrj3D8_No158bTR2UQhCy7xNDmY-2_jhOgPVPwUlu8XZBmCYYQojjP_3-OMcYFsfde93sDkgsl6E4H63Ws8pkcr3kchh_14A",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJZxSkRoyLwokRaN1cIEyu0Gg",
+      "plus_code": {
+        "compound_code": "R5WJ+G5 The Bronx, NY, USA",
+        "global_code": "87G8R5WJ+G5"
+      },
+      "rating": 5,
+      "reference": "ChIJZxSkRoyLwokRaN1cIEyu0Gg",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "cafe",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "3233 Ampere Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.835712,
+          "lng": -73.8179935
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8369951802915,
+            "lng": -73.8165910697085
+          },
+          "southwest": {
+            "lat": 40.8342972197085,
+            "lng": -73.8192890302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-931-5511",
+      "name": "Loretta's Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103651916325000190761\">Number One</a>"
+          ],
+          "photo_reference": "AU_ZVEG1JJWXx3FS6YGDuB4hJM-hmfLTEODevr4sEmlHcKOPp80beDuoAVo-k6qVvntUooS6aIL50FMwqf2zsxv2GB9yvPFVW909lnBILGb5eRKyKPmGh8ydDzLEiPhFV2Oj573K1fMw7crHHOOOWjOfdtnjthtXPf4ND07pXnlYyaNWZe6Sm7FAjCfFrHXr7vSKRTl3P8ugoj9zenHT3zoe2EFi1-X-jcFXlbwRo8N5i-_tMJtys1C0Yq4nj8PU1Joo5QnmjI00mHZYkv9F8JhsOoAFIM-rzg-p1CAiNndSl_jcIy8l3F6RdVtXM8J6c4rGvjoVR8Sp9odFfSaypsDRnxMPjTec4aoybx-eOOFv7JDzEyyq5PPtStX1hbYks7s_6qPXDnha1nNq8-RtFPSO6fb9jkVDAhJKoQbC_ERPYe0EPtB1oVbrCzqRDSoE__TFBZxKMxYIjGiV1pt0TF65hWESp5lPwcjfGilnXLV02fuigq8rcYg268ZWf0f4M_g2UMzB4RA7mdCXPRVpdWZYP5ImJl0_5vEQExMli5Eun1P1Zh7WbQdz4R81MqqF3mydGtSQldn599zPk5X92mTI2sbY5hopEof8oTNvPi6l7YU1Dum8E6NwWgwnF01odncQhkWhrSNk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ8yVV-2mLwokRLAAhn7mByp4",
+      "plus_code": {
+        "compound_code": "R5PJ+7R The Bronx, NY, USA",
+        "global_code": "87G8R5PJ+7R"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJ8yVV-2mLwokRLAAhn7mByp4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 461,
+      "vicinity": "3276 Layton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8446617,
+          "lng": -73.81700889999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8460964802915,
+            "lng": -73.81567306970848
+          },
+          "southwest": {
+            "lat": 40.8433985197085,
+            "lng": -73.8183710302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cozy 1-bedroom lower level apartment with WiFi, AC in charming The Bronx",
+      "place_id": "ChIJ9bk_SmeLwokRjZey5cxW4oY",
+      "plus_code": {
+        "compound_code": "R5VM+V5 New York, NY, USA",
+        "global_code": "87G8R5VM+V5"
+      },
+      "reference": "ChIJ9bk_SmeLwokRjZey5cxW4oY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.843132,
+          "lng": -73.817146
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8444856302915,
+            "lng": -73.8158284197085
+          },
+          "southwest": {
+            "lat": 40.84178766970851,
+            "lng": -73.8185263802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Radio Dr/Lucerne St",
+      "place_id": "ChIJ0TiXbWeLwokROvGJpOp8ASw",
+      "plus_code": {
+        "compound_code": "R5VM+74 New York, NY, USA",
+        "global_code": "87G8R5VM+74"
+      },
+      "rating": 5,
+      "reference": "ChIJ0TiXbWeLwokROvGJpOp8ASw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84420799999999,
+          "lng": -73.81938199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8455620802915,
+            "lng": -73.81807636970849
+          },
+          "southwest": {
+            "lat": 40.8428641197085,
+            "lng": -73.8207743302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Radio Dr/Griswold Av",
+      "place_id": "ChIJgUc5k12LwokRD4CBaNe9jmw",
+      "plus_code": {
+        "compound_code": "R5VJ+M6 New York, NY, USA",
+        "global_code": "87G8R5VJ+M6"
+      },
+      "reference": "ChIJgUc5k12LwokRD4CBaNe9jmw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841061,
+          "lng": -73.81785599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8424067802915,
+            "lng": -73.81652631970849
+          },
+          "southwest": {
+            "lat": 40.8397088197085,
+            "lng": -73.8192242802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Campbell Dr/Country Club Rd",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106155320830142452598\">Nick Minervino</a>"
+          ],
+          "photo_reference": "AU_ZVEHd8W-5Z3wd-O8ty0beL8336y6nxnzwQgNEDjXnOqR6mdmssPxQWWL6Bll18o2y1OculsyyqgrnjA1TLa_B4mvBV7xCFdYfn0Xauc5MotA1TIvym5tgHpW7fosN7G3obBLUOIH0RaVGdB9iKYwk_GLvGCkHMkNtfbLEBkvhaNjWLKoXt6maebkgsGNp92qI-J50fQmwrYiud_dRZKhcdl1LKYvci-NFseeo4yhe6OgREUeneuzTp9hBBS81BMvy2bezb8JVWGRgYkHEzqlCcTXoojBa7-DEdrvR5PFh2ajNKFBf-v-NGtazD3Q9BrESgYKgix5pLjzIpfIcuaHTUe-zgS0YxbXnb3ybPK7dXAhqe1HojTqpREO7i8s4c7yRKwqdTUsH1MI17IFBVdEs0W3_YIRc_dIWVDuFKfcy70OJ94piAK16rVxdhb3aEfzIdlgiZPTnMnM7Z5bH99Ve_dFNWsnRn0CV-pI7y6DabjMnd5rFNEzZoGItE9jHrg1unxmTaiNUsARzKAJfV46QhchwtwQOskgaROazqdaM_mPrRdVxLyCn0-DwordUqYVVGCPLVUMB7HQOX_0Lkr39NTnBTvogPlKeFo0FXPgJlqMMylEXb7rGYOscOWfDFtk0kXjV_g",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ44nO82eLwokRFzO-ucHjFlg",
+      "plus_code": {
+        "compound_code": "R5RJ+CV New York, NY, USA",
+        "global_code": "87G8R5RJ+CV"
+      },
+      "rating": 5,
+      "reference": "ChIJ44nO82eLwokRFzO-ucHjFlg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.846081,
+          "lng": -73.819206
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8474310802915,
+            "lng": -73.81788781970849
+          },
+          "southwest": {
+            "lat": 40.8447331197085,
+            "lng": -73.8205857802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Research Ave/Ampere Av",
+      "place_id": "ChIJLdxdEF6LwokRAEf0h9qwNDk",
+      "plus_code": {
+        "compound_code": "R5WJ+C8 New York, NY, USA",
+        "global_code": "87G8R5WJ+C8"
+      },
+      "reference": "ChIJLdxdEF6LwokRAEf0h9qwNDk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.842197,
+          "lng": -73.819565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8435730302915,
+            "lng": -73.8182058197085
+          },
+          "southwest": {
+            "lat": 40.8408750697085,
+            "lng": -73.8209037802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Spencer Dr/Reed Pl",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106155320830142452598\">Nick Minervino</a>"
+          ],
+          "photo_reference": "AU_ZVEEr9cv7VL1umkFMawM4cFZ-4KOjfgo2YKl1iXPTVuBkfSav1gHBJdJodhRhl5n-s4qM-hcFwcLGDyXkHTIl5qc2WDV4NOZIzveljRe6fBtVaEWMgBpeU6F1QxdGqdE8IH6Ldan2jhAeSHMPfjuZwPjnuNWoZgGm2it2pdcQKGmylq0E-tb80Q9Kz9f8GmhCwvSjryltPGi77r1o6tbl9NvHARBsllCwsG1a3Wiws6jGqkxi5YHXSEaokln2KOu8Posk9-jAnUW89QPmDc0E2bHoF6PIssAOCy1U4DXqJTQucYF8PSJOyYJt6h5Q17OysVnHWZqc8ixmfdUjFI1GnJ0OCu3wCGsEK4GBuiU0WvCaRpcJinCP5QzhlwwGVL6kpjlxZtZamLKN6jvH0sjzivBeH70M3pZkomRIjFMxoQxdVExBrGGrLquLgxRY_tzMJHasE7OzOOuwAgM9TJ7kx_CSIQ3w84p0UYf4hq8-msldn4Tfax3iBykm7qV5u6JEaVIMxp3fMcORfBsy9pCSMJib7MqnV2-ptINQILDui0h9BlBC0vm8f_qwZaWZ74Lj-DRdXdTJj-iOjTcgGOE4jPIYbUzikPSVYDP-1DoNRn_oKAMfgcDABhzyszMzeXDNnzq-NA",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ9S9jD12LwokRf1DnENzELPQ",
+      "plus_code": {
+        "compound_code": "R5RJ+V5 New York, NY, USA",
+        "global_code": "87G8R5RJ+V5"
+      },
+      "rating": 5,
+      "reference": "ChIJ9S9jD12LwokRf1DnENzELPQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83913,
+          "lng": -73.81727599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8404735802915,
+            "lng": -73.81595756970849
+          },
+          "southwest": {
+            "lat": 40.8377756197085,
+            "lng": -73.81865553029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Campbell Dr/Agar Pl",
+      "place_id": "ChIJg4TiE2iLwokRccptGq5FjnQ",
+      "plus_code": {
+        "compound_code": "R5QM+M3 New York, NY, USA",
+        "global_code": "87G8R5QM+M3"
+      },
+      "reference": "ChIJg4TiE2iLwokRccptGq5FjnQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.843109,
+          "lng": -73.82253299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8444528802915,
+            "lng": -73.8211741697085
+          },
+          "southwest": {
+            "lat": 40.84175491970851,
+            "lng": -73.8238721302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kennellworth Pl/Spencer Dr",
+      "place_id": "ChIJ_exB9lyLwokR93YzOivV-G8",
+      "plus_code": {
+        "compound_code": "R5VG+6X New York, NY, USA",
+        "global_code": "87G8R5VG+6X"
+      },
+      "reference": "ChIJ_exB9lyLwokR93YzOivV-G8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84598499999999,
+          "lng": -73.82222
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8473326302915,
+            "lng": -73.8208366197085
+          },
+          "southwest": {
+            "lat": 40.8446346697085,
+            "lng": -73.82353458029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kennellworth Pl/Ampere Ave",
+      "place_id": "ChIJ_Y0Bm16LwokRNaXiphv7maY",
+      "plus_code": {
+        "compound_code": "R5WH+94 New York, NY, USA",
+        "global_code": "87G8R5WH+94"
+      },
+      "rating": 5,
+      "reference": "ChIJ_Y0Bm16LwokRNaXiphv7maY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83791,
+          "lng": -73.818878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.83928598029149,
+            "lng": -73.81753471970849
+          },
+          "southwest": {
+            "lat": 40.83658801970849,
+            "lng": -73.8202326802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Campbell Dr/Stadium Av",
+      "place_id": "ChIJZX0fh0KLwokRoIyy5AtsaxI",
+      "plus_code": {
+        "compound_code": "R5QJ+5C New York, NY, USA",
+        "global_code": "87G8R5QJ+5C"
+      },
+      "reference": "ChIJZX0fh0KLwokRoIyy5AtsaxI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84251,
+          "lng": -73.824776
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8438898302915,
+            "lng": -73.8234133197085
+          },
+          "southwest": {
+            "lat": 40.8411918697085,
+            "lng": -73.8261112802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Country Club Rd/Kearney Av",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109078172434495104071\">Jazmin Sanchez</a>"
+          ],
+          "photo_reference": "AU_ZVEFrCmDHYgMjFgJaBXbJegmpMpbhFBrndkU4sh24jM8QzQ4vybzWxACPCmLj3ol92KJSQ9ntqHXZDdE-psE-cOcPIyo0JfwCi8-BhZV5266Dz3rXE1jNZq-l7G-43CX_yJBQpEIHS-crgNRv3ej2IqfnOsfG5KKcFrkvngJsTuBhVe_ViqD5rpLkYkLdeqAFgU2FVIu0BH5mt9g4-nvjhJFckyxarYfYbgrGNCSWr_x3_3zc04_wtUl1AzexlAEM7d7CdTl2ZIgZ4EL15u9yR9vaBwlPfXeHyAxtC85E0-WfovVDZyIbnY-4qTmcX5OH4Rln-nlLPjkElxAQB-Hgms6X4nzluwrmny7ROsPdo9apEGPvB-lNtSGzOdJRFnG7qnAvd1pULBNxqMhXaaWLPkrJRhMQ3jvnQuQv27Ydh8UEXQYaRhM52Rux_1WR5jAlam7shTvvHyMK9-81J00methmP66TTHXJsbRQR-MeOcUA_DirVSIfM3oXZs3UmJ-cOFFZYJFkwpWlnnepFG2FDqIOIksJM79sgoMy1aE0XoORSuTWC3RwAcBYJBrCv8hv-fN1WHGN4sq4RJi200YZpVXVOOAYjXtbfIrktviX9_-yAZSJPM3Dbd_vMw0tcp0cWAJWpw",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJu2jkZluLwokRR03q96kTYfQ",
+      "plus_code": {
+        "compound_code": "R5VG+23 New York, NY, USA",
+        "global_code": "87G8R5VG+23"
+      },
+      "reference": "ChIJu2jkZluLwokRR03q96kTYfQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.842747,
+          "lng": -73.824997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8440500802915,
+            "lng": -73.8236719197085
+          },
+          "southwest": {
+            "lat": 40.8413521197085,
+            "lng": -73.82636988029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Country Club Rd/McDonough Pl",
+      "place_id": "ChIJR3Jqb1uLwokRrtIqr7QRJU0",
+      "plus_code": {
+        "compound_code": "R5VG+32 New York, NY, USA",
+        "global_code": "87G8R5VG+32"
+      },
+      "rating": 1,
+      "reference": "ChIJR3Jqb1uLwokRrtIqr7QRJU0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.842606,
+          "lng": -73.825073
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8439755802915,
+            "lng": -73.82371326970848
+          },
+          "southwest": {
+            "lat": 40.8412776197085,
+            "lng": -73.8264112302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "MacDonough Pl/Country Club Rd",
+      "place_id": "ChIJC8G-aFuLwokRrBaQX-pIhUA",
+      "plus_code": {
+        "compound_code": "R5VF+2X New York, NY, USA",
+        "global_code": "87G8R5VF+2X"
+      },
+      "reference": "ChIJC8G-aFuLwokRrBaQX-pIhUA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.839298,
+          "lng": -73.823174
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84065993029149,
+            "lng": -73.8218159697085
+          },
+          "southwest": {
+            "lat": 40.83796196970849,
+            "lng": -73.8245139302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rawlins Ave/Kearney Av",
+      "place_id": "ChIJ-Ub9YEOLwokR7-DPmXpKnFk",
+      "plus_code": {
+        "compound_code": "R5QG+PP New York, NY, USA",
+        "global_code": "87G8R5QG+PP"
+      },
+      "reference": "ChIJ-Ub9YEOLwokR7-DPmXpKnFk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84575299999999,
+          "lng": -73.825394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84709408029149,
+            "lng": -73.82407531970848
+          },
+          "southwest": {
+            "lat": 40.84439611970849,
+            "lng": -73.82677328029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Blvd/Middletown Rd",
+      "place_id": "ChIJoZSl5luLwokRvg7LE5upMd0",
+      "plus_code": {
+        "compound_code": "R5WF+8R New York, NY, USA",
+        "global_code": "87G8R5WF+8R"
+      },
+      "reference": "ChIJoZSl5luLwokRvg7LE5upMd0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841106,
+          "lng": -73.825104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84245263029149,
+            "lng": -73.82379656970849
+          },
+          "southwest": {
+            "lat": 40.8397546697085,
+            "lng": -73.82649453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Blvd/Connell Pl",
+      "place_id": "ChIJu1SxskSLwokRslF0VMNuLMg",
+      "plus_code": {
+        "compound_code": "R5RF+CX New York, NY, USA",
+        "global_code": "87G8R5RF+CX"
+      },
+      "reference": "ChIJu1SxskSLwokRslF0VMNuLMg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8453295,
+          "lng": -73.8257945
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84667848029149,
+            "lng": -73.82444551970849
+          },
+          "southwest": {
+            "lat": 40.8439805197085,
+            "lng": -73.82714348029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Bl/Middletown Rd",
+      "place_id": "ChIJbzxswluLwokRh1EhMHm1drs",
+      "plus_code": {
+        "compound_code": "R5WF+4M New York, NY, USA",
+        "global_code": "87G8R5WF+4M"
+      },
+      "reference": "ChIJbzxswluLwokRh1EhMHm1drs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.84490599999999,
+          "lng": -73.82619500000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8462538302915,
+            "lng": -73.82481221970849
+          },
+          "southwest": {
+            "lat": 40.8435558697085,
+            "lng": -73.8275101802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Blvd/Middletown Rd",
+      "place_id": "ChIJybrquFuLwokRHOM0nS_nxEk",
+      "plus_code": {
+        "compound_code": "R5VF+XG New York, NY, USA",
+        "global_code": "87G8R5VF+XG"
+      },
+      "reference": "ChIJybrquFuLwokRHOM0nS_nxEk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.843197,
+          "lng": -73.82627900000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84454553029151,
+            "lng": -73.8249164197085
+          },
+          "southwest": {
+            "lat": 40.84184756970851,
+            "lng": -73.82761438029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Blvd/Jarvis Av",
+      "place_id": "ChIJc98yDluLwokRqMEI5xb_D20",
+      "plus_code": {
+        "compound_code": "R5VF+7F New York, NY, USA",
+        "global_code": "87G8R5VF+7F"
+      },
+      "rating": 5,
+      "reference": "ChIJc98yDluLwokRqMEI5xb_D20",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.843185,
+          "lng": -73.82646199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8445126302915,
+            "lng": -73.8251342197085
+          },
+          "southwest": {
+            "lat": 40.8418146697085,
+            "lng": -73.82783218029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jarvis Av/Bruckner Blvd",
+      "photos": [
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115387740151103410877\">Judd Karlman</a>"
+          ],
+          "photo_reference": "AU_ZVEHV0fI2NxeT_56KP-bbPnOFAFE5PtnqnHwkhevi1h5kcN9okRyaQHtf5qzHUnl1K9_xUhSomK_tMw9CVrwySy9emaMNZzO58lxyhFfwlNcirP94OQqYVAhCsZYfqO0fXmD4s5fjRNMl3o8tQD97KquyQT8E1D_1aFNFydJmxkGm-gKBdI3-JiLRCgxD7egaRtnA4EmR9zS1GllTdnZKwwwbM99gnD1hxd1l1M8Q7WSMvzqkpU39sGxWsG4tSfE3Zd9wiUvdvbU9SkXXlzj0fMVBozsX2obPxv898pkdWF6NbfrO94lmULo8ynRLlaSKu37JHJmwLr4ZINkCaUa5dq8R-K1y0ipOZ5k7mtTv_QSm_EsTMgF4rTJylQYM0Gjw4ODnh_6SjjAMgaEXGdsxQFufgFLybPabVHKb7o8uMarkfaBJJBTyIJf1JXCuOEXQVsQ_9xKP2L5zX4C4kWbgFCFRWU43cHgzI_q1hB_oNRIkkpfWVHcXSpuI43LSv31_Dn9bXJKuZKEa-9dXTSDCCh-rZxA7C1CuKZ0QazaF-Rwv7zwJZkjPgXTxiUnIJE6xd-1tssB98RaeQkQNAT71hsj3Aoa29qYnLh6wwT5z876J5BPN9yXLsULhGLZd5iu7aaTxqw",
+          "width": 3036
+        }
+      ],
+      "place_id": "ChIJdXQrEFuLwokR3QL9zobwUPE",
+      "plus_code": {
+        "compound_code": "R5VF+7C New York, NY, USA",
+        "global_code": "87G8R5VF+7C"
+      },
+      "rating": 2,
+      "reference": "ChIJdXQrEFuLwokR3QL9zobwUPE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83934,
+          "lng": -73.82485199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.84068558029151,
+            "lng": -73.82355071970849
+          },
+          "southwest": {
+            "lat": 40.83798761970851,
+            "lng": -73.8262486802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Blvd/Kearney Av",
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114405596115394314423\">Evelyn Alicea</a>"
+          ],
+          "photo_reference": "AU_ZVEFXLD9wDZYBwKduOV2PnJg5nmJpCnUqHKWW1NArVP9LciTOB_BjPZW2YTWhWY3Z-f9YHwjPdce34XG9x-cnoqMUBYQwzoXyqTrGOz9i5Jgm77QWXhq6JhdejCMiORbgIlTh-o3m5txHDmYw0A9RbTxcyJQrGSagHlI2aDwyvkI8iGpFetYhhGe39YaoGarGve3GEdM0xvrxtGuYaMYp0RbICBlc4uh8HvyKGt1QIZHlOSdD5Dzex65FZktEz-Ale501XRN0QUBwidjh7hPAiO7PHt-9sy66_gfH0MJmy3-tOf4im2015aaKw-_uX77aVl7wEZLIfe-UbOwMNkQd1vZW9V-04H_w2Le6s_0QG2Ql15hq6GySIu-7Ay2mCDFPd0IMiWYuWzUcHQnOUMeh9kipt6PuqEsmib1skhJzT9mVl64Fb1VtK6ve2ySHz6zOe01nyaD_sMyE7hUm7r_wdZPScaXDCgntGTyngIDsOYspdDf2UJhZjhNGf5l9O9trK5Z8Z4QMZhZduqZ0qajv2TupDkOGXGplYptYkhUtCsew_dwg4FbrJEToTeicko0Vc98CP4oWiITZUvnKPhJKYX36vF2hts32mMHHF21f2GBv01dk1TbCoAYMztwG8eX1",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJO4d7hkSLwokR23VRl_K5fHs",
+      "plus_code": {
+        "compound_code": "R5QG+P3 New York, NY, USA",
+        "global_code": "87G8R5QG+P3"
+      },
+      "reference": "ChIJO4d7hkSLwokR23VRl_K5fHs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.83543400000001,
+          "lng": -73.817932
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8367799802915,
+            "lng": -73.81659611970848
+          },
+          "southwest": {
+            "lat": 40.8340820197085,
+            "lng": -73.8192940802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dean Ave/Layton Av",
+      "photos": [
+        {
+          "height": 1840,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108684192256083898209\">mikey bx 10465</a>"
+          ],
+          "photo_reference": "AU_ZVEHyihe0sQ9Cdb9YRi4AGMzbbWL_-zAs64rrZkY-uqW9yYEHpIXBTQ-zRHuGJ07L0fyQ3yPbT4EIqpVKyx6n7qlYA3sF1NLa4_Rwcn0ZgNRifGwpT1GOEVJbBEwKcjTz-erzMCeVazJhiTarOflJ-i7Ot7JZIr-jHPofoJOqomgjixf9tLrDvcjo38O7AI57TF7euuu71MeWe-vRf98HgLbGX88JCKIPZGmKeTk5VmZnR8KErF7Mml085S7RIdxUWDYAI1ZRyycn3W6XdvmxpmVH9Wbk74Wm7GGKnSjgomzoB7WOrQ5t63t6HSt6WiQDjkYmhfoDdc4BPQyl6z7likyHDgw1eL7UdQYE-2qokgeOcDGg-KofbVgkue2lNSGqcQYLlck_WxAnVw_Ec1P7HOMs7DSHcRIgbNRjRuxkqAjUeISl9c8CJtu_5aCyino6wDlZe1QhrWKfM1vhr19ewmoQDRaUFeqTwQ1oWzJ3EH15DVdquX_fND7lX9h_wpWdncIoTGYldJoAj96CAAa9ITbzG36FhXwtFJFE5MdEKiKX8Occ2Wpka15vVualVs7bCb6C1nIn2Jc00VAkTS3Z43FH6--pFiNLBomC9WT9y_ny8UdwYdzBJRfaBoL4ZtTaR3aI3Vx8",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJbf1C-WmLwokRwZDC1sYEo9M",
+      "plus_code": {
+        "compound_code": "R5PJ+5R New York, NY, USA",
+        "global_code": "87G8R5PJ+5R"
+      },
+      "rating": 5,
+      "reference": "ChIJbf1C-WmLwokRwZDC1sYEo9M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.841438,
+          "lng": -73.82616399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8427894302915,
+            "lng": -73.8247816697085
+          },
+          "southwest": {
+            "lat": 40.8400914697085,
+            "lng": -73.8274796302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bruckner Blvd/Coddington Av",
+      "place_id": "ChIJV_d1M1uLwokRqOb_NWHNebA",
+      "plus_code": {
+        "compound_code": "R5RF+HG New York, NY, USA",
+        "global_code": "87G8R5RF+HG"
+      },
+      "reference": "ChIJV_d1M1uLwokRqOb_NWHNebA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

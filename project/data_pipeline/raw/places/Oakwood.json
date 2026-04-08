@@ -1,0 +1,4708 @@
+{
+  "neighbourhood": "Oakwood",
+  "centroid": {
+    "lat": 40.55701642857143,
+    "lon": -74.1137675079365
+  },
+  "fetched_at": "2026-04-06T14:39:58.654633+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56465310000001,
+            "lng": -74.1138074
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56603603029151,
+              "lng": -74.1125188197085
+            },
+            "southwest": {
+              "lat": 40.56333806970851,
+              "lng": -74.1152167802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-987-1111",
+        "name": "Empire East",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 319,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118095036344245080879\">Empire East</a>"
+            ],
+            "photo_reference": "AU_ZVEERAjs4MFOHULnz4q4vvZZufUzGrGNsymPTPeovDJN4RoH66IMfzEvPNiBugUwdJ6CLjIQ45qRjTxE3Y3Mz2g0DHyn0rmCw-z1720674TvQxgXxz1OFVLR9DNfvZR8LKCv58K7TEWk5UlHmGVnNua_aBPFyaUhNzrjGSEz13UhAjFivnBw6a6IJn-o2C8RKD_4k_7YIfjztaM2TyL3GnmT5ESkbCKTwg0MPjMhe1u3evunBD9G64RLLT-Zs5EGAT3p5ZY3TaQpOWb6H6GFeGGFtNzRH9MFLxIZ9WISxu_IPwz_6sSR6f_PGHY10JzeJuqKWZDXIZ9U",
+            "width": 479
+          }
+        ],
+        "place_id": "ChIJizVKdlBJwokRHPEgmQx29v8",
+        "plus_code": {
+          "compound_code": "HV7P+VF Staten Island, NY, USA",
+          "global_code": "87G7HV7P+VF"
+        },
+        "price_level": 2,
+        "rating": 3.7,
+        "reference": "ChIJizVKdlBJwokRHPEgmQx29v8",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 355,
+        "vicinity": "2740 Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5654202,
+            "lng": -74.112993
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5668204802915,
+              "lng": -74.1117035697085
+            },
+            "southwest": {
+              "lat": 40.5641225197085,
+              "lng": -74.1144015302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-509-6553",
+        "name": "Jersey Mike's Subs",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106811663766260235009\">Jersey Mike&#39;s Subs</a>"
+            ],
+            "photo_reference": "AU_ZVEHS-AbR0dzzXyFCn6fuFTJwjJGPt7CGJXrgrg1u2M0XKaYDpMbRM1XylaoefbM5KEgVG9LWwAbNnu-tLnS-RlyIDu2vYTAg8aMpVN153V2u523lFs-FovAmwTV3VFjIoLN88uCwkbwiIqxZPAdlTjvlO5yzbegBWIZdfC074XpDGdQ_n4tMTB9XY3qTc3rk6dUNN9KdtsT66Qum51TkaXhoTe1_aRkIxXvwuLsA4_yUfeV5wmOt33MnBGEnZGozqdkWs7dK7m1Yu8_7gyZAeUfr8DNE3Q2LfUx8X2K4Rhu034Tk2o95sgCFKAWNsORDdH4Np0FdCcE",
+            "width": 4500
+          }
+        ],
+        "place_id": "ChIJS00oplpJwokRI26FLg6gpSg",
+        "plus_code": {
+          "compound_code": "HV8P+5R New York, NY, USA",
+          "global_code": "87G7HV8P+5R"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJS00oplpJwokRI26FLg6gpSg",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 339,
+        "vicinity": "2714 Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56381,
+            "lng": -74.11529999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5652372802915,
+              "lng": -74.1139043197085
+            },
+            "southwest": {
+              "lat": 40.5625393197085,
+              "lng": -74.1166022802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-701-2974",
+        "name": "Starbucks Coffee Company",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2293,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103620767151299443097\">Arkady Utkin</a>"
+            ],
+            "photo_reference": "AU_ZVEHdtiV6vwSk30wq931kMMOeWN36tUxMRwVVRC0mUTtr_JoYhNOL4S9tmtMClDMglz-r2hQqDm30_-lEf5M02F10wx7l1uqLh4kiMU0zTwYpuaMoyChFZYR-wl-CrG6h2b4emJHE2-AYwNltjvcO22sAWAc9Wxhq5e9flz7ixjPhrHTbU0OSW5QXZ98R9AtmMVN00gtZq-ggGQRt-NCjk1blPTZfNlUfXUznC615rtG0Bqr12garK6OsoMlqtCxg5igM3rvtG6FZuWcejInRDy543bZfKFbonqqplohjFm9F5H-0Mu7dHcjULMGMHK2ltkphuGd_xc0uDKDEldJFsJ5zTfb5fI4dLSSMxZ2k14roDu5hARYTBVzrH0yKasUJwaMHcpKwuR6WA9Mw_5Kd9BwoD5JCQ8Qi7Wio6jb2YEkGhN_O6b8Qw53rDPjKjhzB5NakI6R_wzquy4qiwAyTDVMNJtESo78W_Lliw_5clCx_lG6yHjJHzAbsaNKGi7ouBdPBF1SXdfLKo7_ATNZa-Q5F0yUoORUb6Dag_Y-NXxrESK0byysVsseqoikUR-isJH11_GIe3gwLMtnKEzEE_swdllkh40Cx4yRtuQHKvldAQ8EUv21v4C4lhQHJRa5bMcCTqWmo",
+            "width": 3706
+          }
+        ],
+        "place_id": "ChIJa9l5ZfdJwokRDzDQldM7DPc",
+        "plus_code": {
+          "compound_code": "HV7M+GV Staten Island, NY, USA",
+          "global_code": "87G7HV7M+GV"
+        },
+        "rating": 2.2,
+        "reference": "ChIJa9l5ZfdJwokRDzDQldM7DPc",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 72,
+        "vicinity": "2800 Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5644249,
+            "lng": -74.114203
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5657812802915,
+              "lng": -74.1128915697085
+            },
+            "southwest": {
+              "lat": 40.5630833197085,
+              "lng": -74.1155895302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-607-3296",
+        "name": "QDOBA Mexican Eats",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102323817267384224606\">VITA CHICHITA</a>"
+            ],
+            "photo_reference": "AU_ZVEGqR8u3TzvaIN6wS4uNolo8_DUHYWn49TGncUSN4NZMktwaPianB6pr9DhwK6X58-SMoujY69Z8uvXuDlYMJpjWaBuabe6vq0WSgYXu5HF51ibm0rLu2P5MHFFSf-h2lFm0RQzx-mVBJfUObRVj8Kfa1tmdhYoPQ2PCcg7F6b0MThubIY3uboNf7xRHmcPeaLN6SGRVXJq7NvHSCPOP12F5-Jfaz7mHH-zX0Jsvy7P5P7Qz0u6trCz--Ji_PvgWH48UezhcqtxIkBj-l2kl4eHPs4ZMDcigE3XGQqhkkUPKNx_7VSTeFFwa2GmjywN_EZZ-DWJKdGNqkAyMiE3ZgtclwZwgIaBPXrKaMIwyk8PrdUecU8gyG8Ny75NEUuzLYU4RERPekFZDKiTv6U44hvlehEZsowPlST_czAv2Tk1ep3vEJCvNGCamMqazMQN1tgzDBnivTjSuIlxDab-IrcqVJFgZ5iuC2YmaFZklfy5rCSxYqG_5pqHDGBGNgCqjoxCHjH_sV--RoYtOn1c3VG-lYrk2DC-7eVBHknjrVY1wAJIC31KVoekqxHMB5QPl4iPQNhCbSNpIT_mz18JWciv-kYi9qoytoSbepZ6qSda6gDONcTWkPJTf4jTH9K8iGaU1LVt5",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJc8y0mQdJwokRoMgKqel7BUU",
+        "plus_code": {
+          "compound_code": "HV7P+Q8 Staten Island, NY, USA",
+          "global_code": "87G7HV7P+Q8"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJc8y0mQdJwokRoMgKqel7BUU",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 214,
+        "vicinity": "2750A Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5653254,
+            "lng": -74.1143881
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56674763029149,
+              "lng": -74.11304556970849
+            },
+            "southwest": {
+              "lat": 40.5640496697085,
+              "lng": -74.1157435302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-524-7800",
+        "name": "Wendy's",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 666,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107695581655031286750\">STATEN ISLANDER</a>"
+            ],
+            "photo_reference": "AU_ZVEFPINSS7_PlXblCmB7vzKc1TIvhjGM_ErMofbk8FD8DetxokxfurTS43TbBoLO537FA9Ka6CS_IWhZq1lOovtD1X4oMkGmITavQ8N2wR19Lle4Wx_jYgzuelv_rFzIoSQRNZvht-Ec_NqmV3NQPLDXaz1X1v-Atei8wU_mIXZwJ6gTZ7h5NzKVyOxBMv75bzy0ngTjsMPVPZd9uH7F5itWzO1CXAhmvJpurfDgiQuAYbXnNbAwoXrPeLeS41SL4diBsDT22kRcty3lVnI0z2cfjvCY7ApZXbmEfu5rRmMzc_shC1rkdpl3FNyDCwfj9qFxDkewsbISUjduzXRVqLOYHmouettGDs4O9DasqotZdBCa1ppIoc7IqMghN96KYtD3uXiQoyEGhiH0MltZxCP21awATiDwwaz42UMvAjWcsyDZgv53gbleFvZ_KSz-nHaQesdrlSdT8iQpn8n20lW7UBzHgLhX1g7Yms7ivau9hP26UJWJkrLwJWOj8pJZ0w8NgP-Q58csGv__CxBUZJ4A11nPRgz5A1pl7XKCMTH6k5GSsK4XLUO9K-5eDkxcOXpBA78VzDbuUzRwqaOWleI946cs17V-qYAO0Y2smWZj3Xorbil74r4qHEW9L4zJk7g007wVj4jEiSCVG9vExuQ",
+            "width": 939
+          }
+        ],
+        "place_id": "ChIJwZt6fwBJwokRGn0y52SY6HM",
+        "plus_code": {
+          "compound_code": "HV8P+46 Staten Island, NY, USA",
+          "global_code": "87G7HV8P+46"
+        },
+        "price_level": 1,
+        "rating": 2.7,
+        "reference": "ChIJwZt6fwBJwokRGn0y52SY6HM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 67,
+        "vicinity": "2720 Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5656608,
+            "lng": -74.1127798
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56704498029149,
+              "lng": -74.11149091970849
+            },
+            "southwest": {
+              "lat": 40.56434701970849,
+              "lng": -74.1141888802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-351-7185",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 664,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116100847039980652150\">Emma Noah</a>"
+            ],
+            "photo_reference": "AU_ZVEFEujLqS9OOS_RRnkeZTnXKPmMMnMqiNFzfILMjIQGnMufH8i3EC2ROlfyU456ejjkml6yixX27Ip4hsobYmCIIHlOGcdeYTGIiZPvGqv_W2wyQSeOB-UxoK8aSFJhoYwTBl3934kogZi7WkRzO5vXrtVpafZdpk5SugQOMHSS3_bJVBJBCv825Q4OxYwteovfLs2iVM5H9DtJsZJuh8v5Sq3gRkEmgY8IXOFozCGIXeNDYN78mfrk0UL8SVMOH4s4U-BbsJU2E8NUpdAZypo2tmv36lkD1ucYA1aGJZPKoF9Rw17kmmn3Wtiepwpdb852SA9x1uXRCsXHGwpz8NdfxgpO1P4NYBKijn5UZp1SJswfh57auokfQQlA4Tgbl4PlAqXrkQYEZZYj_PpUO2H5jn5YdV2rtlPlcL_T8q0_dUjB7_vMB8adbDql9ow4U4J1TsbjDfY44aQAEQ6Fv6yJ-Zad-HRPor1fc94cOK30wxt2kIe2V2ZjjWy4ioaz5phfd96W_79A7wc6-XjGtHd9-UUYd8YUxrwJPlE0m34D4ae4w6PULSGeBdUTvws5A9Awvr5-V63VAzV_eW3iQKyTxqUbwjVL3z_6qxSI_PLuL-d0j_eU0v9ougwVfSxEkUmyNsn2L",
+            "width": 598
+          }
+        ],
+        "place_id": "ChIJqxzCcy5JwokRiNPaBUQzo7k",
+        "plus_code": {
+          "compound_code": "HV8P+7V Staten Island, NY, USA",
+          "global_code": "87G7HV8P+7V"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJqxzCcy5JwokRiNPaBUQzo7k",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 131,
+        "vicinity": "Tysens Park Shopping Center, 2704 Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5653972,
+            "lng": -74.11021149999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5669925302915,
+              "lng": -74.10877391970848
+            },
+            "southwest": {
+              "lat": 40.5642945697085,
+              "lng": -74.11147188029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-301-0020",
+        "name": "Siam Thai Eatery Staten Island",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103891463877818976079\">Siam Thai Eatery Staten Island</a>"
+            ],
+            "photo_reference": "AU_ZVEGSs9qt5P04OhO-Wt1OWDnSpzvw8BX9u8209p3EK9lUWRqqahXLa3LBHQJh9Ko4ahuSQ4FoioWncgkP_drxBXnGmdZMF4B7fuRMkWswx4V1FBOXeGaNbW5OfDEkMB_-i6AlIQd2j74M592qe1-vszYQ6qW5_QDKtLwh-9mssI1HlCa6_SZ3SSETVQawi1v-t3woZcuWzvYhNVHlFAsSTVHXoZYzPGLR7U98GBstgy7VNRAvtwBFomnVfX8hbyyZVHIPLj7aLr_i_NMScAD_5XI4lWUUSx6fX8lBijHxWlFLmW4RT8xAXdDxot_K35wOTKNUqVNHr8c",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJG4MbZZVJwokRV5L2TNVrCCE",
+        "plus_code": {
+          "compound_code": "HV8Q+5W Staten Island, NY, USA",
+          "global_code": "87G7HV8Q+5W"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJG4MbZZVJwokRV5L2TNVrCCE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 657,
+        "vicinity": "2656 Hylan Boulevard unit 160, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5644249,
+            "lng": -74.114203
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5657812802915,
+              "lng": -74.1128915697085
+            },
+            "southwest": {
+              "lat": 40.5630833197085,
+              "lng": -74.1155895302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-607-3296",
+        "name": "QDOBA Mexican Eats",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102323817267384224606\">VITA CHICHITA</a>"
+            ],
+            "photo_reference": "AU_ZVEEnGuK-a85cQEzwqqg4w7uUQ5qnMD8Lv1sXS7LS15XJ7bX40C0AKvwux2Gv3sFV7Co3kA2sWcFM-5VB0_Z_b3sC33omhWJqtTWoAwXMJJtPygfJtLiU6LooDdfIHDC4n9Kn7fGcfmPb3WT3c_p4Y6v2sFhdYedbCD_Wou6roAnhNMpZE8lMCwCYULc9v-6HDqgCXgr5hQuyjTBTGcxhNdqzujyOVOw5f5EM-ygv3WcHvQxZvC0xf_nNjX11ccTRAW6gO9VZbxFhjcBThIrdm_0U9QQczUym7v9zlmdAQiVn162ML4X_snKRPD1BH42vv6SKnkqKBeapieznmv6qIctHMSF6OKk-u2sjCw_PnlfK6Kzzypn0BNvuSCQa8hrUygpVNqFn_dqVhTntfUL52llgrCd0pthfhmyeE5wYgnZ7BYh2qV7E5hvsH2NRImbwTX8K-gf76CiWgb8Upi5Hw4-whlkQvzTkFPGbw5MfDb2wYjyfglBPwaAo6M_2kbdb_jbld2CKLNQipePNfgzd1uhr7ARNM9usl3gcZ9zIjnupnA7_TPgaQV3S8sx5NxMgNKorguz39U_V7DmAPA_kh8dCeAfATVbB4WBhPgXP6VxcKObnFhu5i1JjRRW0mc1CUWae1okN",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJc8y0mQdJwokRoMgKqel7BUU",
+        "plus_code": {
+          "compound_code": "HV7P+Q8 Staten Island, NY, USA",
+          "global_code": "87G7HV7P+Q8"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJc8y0mQdJwokRoMgKqel7BUU",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 214,
+        "vicinity": "2750A Hylan Boulevard, Staten Island"
+      }
+    ],
+    "lodging": [],
+    "tourist_attraction": [],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561665,
+            "lng": -74.112118
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56303008029149,
+              "lng": -74.1108083697085
+            },
+            "southwest": {
+              "lat": 40.56033211970849,
+              "lng": -74.11350633029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Tysens La",
+        "place_id": "ChIJ__QRtURJwokRLPO70F3p3oU",
+        "plus_code": {
+          "compound_code": "HV6Q+M5 New York, NY, USA",
+          "global_code": "87G7HV6Q+M5"
+        },
+        "reference": "ChIJ__QRtURJwokRLPO70F3p3oU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.557217,
+            "lng": -74.114601
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55857233029149,
+              "lng": -74.1132549197085
+            },
+            "southwest": {
+              "lat": 40.5558743697085,
+              "lng": -74.1159528802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Guyon Ave",
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112252645478894344634\">Joan Gagliano</a>"
+            ],
+            "photo_reference": "AU_ZVEEmwPgB26sdpugQ2e3m0hoc4K-cHHvRPKvqhpWlol3YULFtmbuve4uuBRGih036aUAWPFxywMYork9Uo0DadpRTgAHzfb6b_8XvDsEQNmDQI5-vxoLddRAc5ypYPuF6IQGJEkvMqpd-GTgS_hyUhc0dRB6kVPuD3eK9XXSrQQCaVtliCbPTkq3Xl9-tiiwSU0ifdhxd_s7FKolIpIPo1VOWmibPbUxITgIboVaN3hnMl5uKOlkTJvgYUIgPs4ajNz5Vx7Ow9RdaRB7CU7npT1utUXrJQfP3YmIkuQUhTj_-06WHe5dJkkmLSVf-H-NmapgNWDsfWshjq9DmnYog8Un2iEIayxu6aifRkJvzmQAQ9BXqDoJCPjZAiXpi4w0h8MkAVZmVcIk0K6-rIplnpvruwmTIjezjPsdtvQKAi_U7qo5NHCXTIkwDfV3XyyZBHQ_CYXXHrHUQJ8f6ri9HyQMV_kMK_9-f146_iy4aBSmDbfrVEv_QrxKjErBYclBXHxyRfXxP7aREiH_R7TOGBQ8mTdpu5uHdvf32r8sAwPx0S3uMfLZSW4a7b3Z0nn2jtZqvW3Rwalxkg1NIYD1FhQpInAL8wDQJAdUJgsFs6-xvz4VzcGQpxZzB6Vie8CG4Z_iDiw",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJwwsjDV1JwokR-LMPixUBa9U",
+        "plus_code": {
+          "compound_code": "HV4P+V5 New York, NY, USA",
+          "global_code": "87G7HV4P+V5"
+        },
+        "reference": "ChIJwwsjDV1JwokR-LMPixUBa9U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55699499999999,
+            "lng": -74.114914
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5583609802915,
+              "lng": -74.1135777197085
+            },
+            "southwest": {
+              "lat": 40.5556630197085,
+              "lng": -74.11627568029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Promenade Ave",
+        "place_id": "ChIJ0YVCdF1JwokRRQB7cfG9c5w",
+        "plus_code": {
+          "compound_code": "HV4P+Q2 New York, NY, USA",
+          "global_code": "87G7HV4P+Q2"
+        },
+        "reference": "ChIJ0YVCdF1JwokRRQB7cfG9c5w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55788,
+            "lng": -74.11331899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5592292302915,
+              "lng": -74.1119626697085
+            },
+            "southwest": {
+              "lat": 40.5565312697085,
+              "lng": -74.11466063029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Isabella Ave",
+        "place_id": "ChIJu9BtJF1JwokRHmwCz0Snx0M",
+        "plus_code": {
+          "compound_code": "HV5P+5M New York, NY, USA",
+          "global_code": "87G7HV5P+5M"
+        },
+        "reference": "ChIJu9BtJF1JwokRHmwCz0Snx0M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.558529,
+            "lng": -74.113312
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5598758802915,
+              "lng": -74.1119898697085
+            },
+            "southwest": {
+              "lat": 40.5571779197085,
+              "lng": -74.1146878302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Stoneham St",
+        "place_id": "ChIJQRj921xJwokRV5ukOoXIT8U",
+        "plus_code": {
+          "compound_code": "HV5P+CM New York, NY, USA",
+          "global_code": "87G7HV5P+CM"
+        },
+        "reference": "ChIJQRj921xJwokRV5ukOoXIT8U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.555614,
+            "lng": -74.116394
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5569629802915,
+              "lng": -74.11504501970849
+            },
+            "southwest": {
+              "lat": 40.5542650197085,
+              "lng": -74.11774298029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Fox Ln",
+        "place_id": "ChIJJQM_ZmdJwokRPsYgYcRXxhU",
+        "plus_code": {
+          "compound_code": "HV4M+6C New York, NY, USA",
+          "global_code": "87G7HV4M+6C"
+        },
+        "rating": 5,
+        "reference": "ChIJJQM_ZmdJwokRPsYgYcRXxhU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.555691,
+            "lng": -74.116608
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5570178802915,
+              "lng": -74.11520861970851
+            },
+            "southwest": {
+              "lat": 40.5543199197085,
+              "lng": -74.11790658029153
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Aviston St",
+        "place_id": "ChIJMQGQZ2dJwokRWwZU70nmssE",
+        "plus_code": {
+          "compound_code": "HV4M+79 New York, NY, USA",
+          "global_code": "87G7HV4M+79"
+        },
+        "reference": "ChIJMQGQZ2dJwokRWwZU70nmssE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56023,
+            "lng": -74.113152
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5615757802915,
+              "lng": -74.11179481970849
+            },
+            "southwest": {
+              "lat": 40.5588778197085,
+              "lng": -74.11449278029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Peter Ave",
+        "place_id": "ChIJIUaspVxJwokR2M6vWtrHETw",
+        "plus_code": {
+          "compound_code": "HV6P+3P New York, NY, USA",
+          "global_code": "87G7HV6P+3P"
+        },
+        "reference": "ChIJIUaspVxJwokR2M6vWtrHETw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56035199999999,
+            "lng": -74.112915
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5617160802915,
+              "lng": -74.11160481970849
+            },
+            "southwest": {
+              "lat": 40.5590181197085,
+              "lng": -74.11430278029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Roberts Dr",
+        "place_id": "ChIJXdK2qFxJwokRxjA7yuVVE_Y",
+        "plus_code": {
+          "compound_code": "HV6P+4R New York, NY, USA",
+          "global_code": "87G7HV6P+4R"
+        },
+        "reference": "ChIJXdK2qFxJwokRxjA7yuVVE_Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5603925,
+            "lng": -74.1200525
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5617689302915,
+              "lng": -74.1186755197085
+            },
+            "southwest": {
+              "lat": 40.5590709697085,
+              "lng": -74.12137348029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Guyon Av",
+        "place_id": "ChIJedvf6V5JwokRicFjKSRFtbo",
+        "plus_code": {
+          "compound_code": "HV6H+5X New York, NY, USA",
+          "global_code": "87G7HV6H+5X"
+        },
+        "reference": "ChIJedvf6V5JwokRicFjKSRFtbo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.553421,
+            "lng": -74.117249
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5547762802915,
+              "lng": -74.11590001970849
+            },
+            "southwest": {
+              "lat": 40.5520783197085,
+              "lng": -74.1185979802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Delwit Ave",
+        "photos": [
+          {
+            "height": 2620,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108786125994187123766\">JIMMY LTR</a>"
+            ],
+            "photo_reference": "AU_ZVEH382ewbsDTdZtDlOl2WyENGW5wQXwlTOLNHPCR0yjH8t4Zy73uC-KwGEreZjEWy1hdaI_F-oYD-Nm8sMSxfXvBoSvQRRENcm4_1FMvCvd3VVkfkQUf0HwACPn8mRhKMI4pzopC8D5mBbtL7AFoqX8sZ-IkdUXNbsdrC0TExqoSyunOKiUYpg8fk_1da_wIhWhmfkIwbAw4JhwfKonWhHj1Pbdgay0O5Bvi5TKn2aoszvTRrJU0DrhK8zMaRjeRg3IMNZ1jk0Ndkvt_s61YNYLtMTzx42SMcGSg1_MC1HdHTbJDRzpr7Q-0UpRkD685fqdoh5zIHD7LBNlaKX_iypkmSyy-qhe5CqtIoULGfdS8tk4QDLi0nzSAdlrQmga9pfpGiZerFmYj-fyo1r4qWZe8BzqW12s4HxjoSjRbhL_AdCBONr3pER8KwxqqWnD3m324ZFcEUAtHPhlgSmwEzHWc2nU4sgpdw5dCaHG02KO3hUz0dnbGYSGmd21Ym9JB6N2KjVTLlOpl9n6jM3p6J5l_j7teRl6SmoSGz_aIIwCzsWffqWjuPjqvER1ajYk4kbeEXwOlpPyr-ic06YlYDh0kM4_b5lZeXhm2gk-W5bP8DLhbgshibL_yfz1wZGrL",
+            "width": 4656
+          }
+        ],
+        "place_id": "ChIJD8PtJ2dJwokRorbz-SrHgbM",
+        "plus_code": {
+          "compound_code": "HV3M+94 New York, NY, USA",
+          "global_code": "87G7HV3M+94"
+        },
+        "reference": "ChIJD8PtJ2dJwokRorbz-SrHgbM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561623,
+            "lng": -74.112259
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5629562802915,
+              "lng": -74.1108721197085
+            },
+            "southwest": {
+              "lat": 40.5602583197085,
+              "lng": -74.11357008029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Tysens Ln",
+        "place_id": "ChIJkZIqS1tJwokRXPV3klfFHB0",
+        "plus_code": {
+          "compound_code": "HV6Q+J3 New York, NY, USA",
+          "global_code": "87G7HV6Q+J3"
+        },
+        "reference": "ChIJkZIqS1tJwokRXPV3klfFHB0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56170700000001,
+            "lng": -74.111977
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5630747802915,
+              "lng": -74.11067401970848
+            },
+            "southwest": {
+              "lat": 40.5603768197085,
+              "lng": -74.1133719802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Tysens Ln",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105318413203542460760\">Shakasim Sharakhmedov</a>"
+            ],
+            "photo_reference": "AU_ZVEGRPJt8Os9iVpDOvtTMcXIXpdeJyVyLDlubgFDCi3vbfpEVllRB0WLs7dy8qqsJaaEtHqovmKHYtDnGu2KdOJKQTVptTCI-eNUbf0Qg1aOKG4CJ8Gbx9LWCLzTpwKzTaQFkoAobrgJ2iIVcwRrITkojMTXHQ37CY04ae5llhv9PpiM6LYWhowe-VIqfa5mJBS8ouu2l7t1mXNFEoHWQ4WRO5Z7-cHdz-ybl0FSsFsNJjIr2KWDYxZmZYfMjpT2y5aYABQob3c989Vge-B8TI1bJjDl6iueB9qCo9k8S2NpA1CU9x027lT7iCYXx69A9THxOIQ_eG48ZhN9JOPDe02-9csLgJpj1oyZYsZkhxvN_P7u2jv5CZd60yfznWOkvvPCf4SmpHvz1pFcMUupf0Gp4j7EwalwRsTRoeMzZheYMXqNNw90nCWbEaXg9SFFSPF8DxYS_wZdIjn3SlSry9qYiklD8aPTMpAdzgdVfKa5B_VhJb1QWY7O5V6nsJh-cBe63MiI4TsJCUUfrcRjbGCi2DruUVHuJx83kcGv6ocJxGRk07LQy5y7QrRIvGiNLFsHYyIl8E-sBN_m4tYt3K4Dn0g6kEC8KLd-q_L9uI_Y0VlcYNDxNKIUd7Hj_o9GmgfLgKQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJi06NtURJwokRfSpdV-ZY_fc",
+        "plus_code": {
+          "compound_code": "HV6Q+M6 New York, NY, USA",
+          "global_code": "87G7HV6Q+M6"
+        },
+        "rating": 5,
+        "reference": "ChIJi06NtURJwokRfSpdV-ZY_fc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.562126,
+            "lng": -74.11818699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5634664802915,
+              "lng": -74.1168242697085
+            },
+            "southwest": {
+              "lat": 40.5607685197085,
+              "lng": -74.11952223029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Oak Av",
+        "place_id": "ChIJBz9kWFlJwokR1mpQVLFuZD0",
+        "plus_code": {
+          "compound_code": "HV6J+VP New York, NY, USA",
+          "global_code": "87G7HV6J+VP"
+        },
+        "reference": "ChIJBz9kWFlJwokR1mpQVLFuZD0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56271,
+            "lng": -74.114189
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5640726802915,
+              "lng": -74.11290646970849
+            },
+            "southwest": {
+              "lat": 40.5613747197085,
+              "lng": -74.1156044302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tysens Ln/Falcon Ave",
+        "place_id": "ChIJ94dyGltJwokRs1elD1n-zws",
+        "plus_code": {
+          "compound_code": "HV7P+38 New York, NY, USA",
+          "global_code": "87G7HV7P+38"
+        },
+        "reference": "ChIJ94dyGltJwokRs1elD1n-zws",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.560604,
+            "lng": -74.11966699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56195898029149,
+              "lng": -74.1183279697085
+            },
+            "southwest": {
+              "lat": 40.5592610197085,
+              "lng": -74.12102593029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Guyon Ave",
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103353425398109396483\">John Creutz</a>"
+            ],
+            "photo_reference": "AU_ZVEGoo_I4SpaQvBTkQGBJx6jfeX5FS9xM6IfdQ0HjrjTF_olgK8-d0BcEoK9g12nHd70qmcR7Taarib4KebpW2QSr85F0Ua24AdRFIDiPu0tZLxPFdfwqEo5pL_7zXTj_EFx8OP4vxJnVSOWKEBE5mHLLi0wn4t0P-RhMxqqh9M5Nwc_rOlnlWfYXqP9cEqA5e8NALejtciecr3EVU3oI0HWExvAXK5DrCsvk03LRWytyjtTN0BV4Kx-aJmfeUAvNncdBaamFxezObrhgqms-Bd9W49zL0KCQMqEzh1upa6uZzNuTgJ9nuoKwLZ1oVndcx3CHcIzCbcXo7LX6Y3-J5_uZD6GaHn9_vXdxi3URR9mKIt00FPy4AAwNihGPVeYZqJXapKKy5q1hKXBgCSEzNoUT2sUaUebe6jHiA24xKNiuh6uOQWPEbz70NsN8JrTY7ZudFP4I1TDe1Zus2ya2pcCLjaxcxwtzn9YQehHxakFFlFpUFxkKo81D-rN5T-d1Lx-qhTwxWt0XCv7ixN6WbHwbl5gzwZjeKvQPbok_RS0oF-V2RXFJZFBtL54k4k0ofZnhgY4pwTEPdnj3kLj4cENEVADqqyw5lWHO_n0wy6pYMZnvYupFYrDolflZukYNLYHnaWHO",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJT5KVwF5JwokRMZJ6B2vq3JM",
+        "plus_code": {
+          "compound_code": "HV6J+64 New York, NY, USA",
+          "global_code": "87G7HV6J+64"
+        },
+        "rating": 4,
+        "reference": "ChIJT5KVwF5JwokRMZJ6B2vq3JM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56262999999999,
+            "lng": -74.111542
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5639538802915,
+              "lng": -74.1101810697085
+            },
+            "southwest": {
+              "lat": 40.5612559197085,
+              "lng": -74.11287903029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Isernia Ave",
+        "place_id": "ChIJIf1T10RJwokRLDEciw0ovl4",
+        "plus_code": {
+          "compound_code": "HV7Q+39 New York, NY, USA",
+          "global_code": "87G7HV7Q+39"
+        },
+        "rating": 5,
+        "reference": "ChIJIf1T10RJwokRLDEciw0ovl4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56117999999999,
+            "lng": -74.119415
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5625063302915,
+              "lng": -74.11803126970848
+            },
+            "southwest": {
+              "lat": 40.5598083697085,
+              "lng": -74.1207292302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Isabella Ave",
+        "place_id": "ChIJzYthtl5JwokRNKQbQXTYim8",
+        "plus_code": {
+          "compound_code": "HV6J+F6 New York, NY, USA",
+          "global_code": "87G7HV6J+F6"
+        },
+        "reference": "ChIJzYthtl5JwokRNKQbQXTYim8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.560207,
+            "lng": -74.120438
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5615526302915,
+              "lng": -74.1190835197085
+            },
+            "southwest": {
+              "lat": 40.5588546697085,
+              "lng": -74.1217814802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Guyon Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111267204896381271657\">Morey Apelbaum</a>"
+            ],
+            "photo_reference": "AU_ZVEEwoTuWdaUp5M2K0BVEvjm6t1BkcRvuzLN-ZEVEXSVVD9sH2r-izSz_qfevai0ap6oExZQWuJn_Du3jFcg799-ltTpA93zgMSTLNPy-DDdd_Z81KrSUfNvHpIpw0tSC2IGrJb5Rxzq-I3MhfPbSuTnlSjNFRv-B0kKjKKu1pgcmo4yZQzEo2xMEq7r_I3ynI3s9pH7kaqXMGJzYzVw3Usq-pVPjoPTsuQJlxxLM2sjig56gFvne8kmkESYoZFXcoMh9cUDCLCfGO0Z2u0xJ0lcR4Ow3agfQ1bTENvt5plFeHxBDnH3KmqmfdFUPasnbDCSWOv6o3hsye2iK-oJrGGObCnBt2kQpP-bNGnqeeCkOmsLUmK91ERzbOmARf5qamlBUcqPOVTe_OgOx0q4z9U_Q4b4s9Z_MbMxzcZM2-wsd_dkriW-ee_13E724U5zpWYHHFb4VZwcOQgNYr3K0Nrs_zssrqi7iNB6MWQZcnL2mK-CUolbMww2GC8dDh5PB2WnCQJUkhLo4_PuxSN6-XwfhGAnfHGfmLfxeMMDy5-cmDhimce0d0P21D3MUFvEyajFGVuuIBSEA6eGSsrF6WW9uuilnPoZw9JOonuLlSXSh9OLd7y72pHL1ukm5Q4Z5",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJGS1q5l5JwokRtgj5PWmiw8s",
+        "plus_code": {
+          "compound_code": "HV6H+3R New York, NY, USA",
+          "global_code": "87G7HV6H+3R"
+        },
+        "rating": 5,
+        "reference": "ChIJGS1q5l5JwokRtgj5PWmiw8s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.562298,
+            "lng": -74.117828
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5636646802915,
+              "lng": -74.11650826970849
+            },
+            "southwest": {
+              "lat": 40.5609667197085,
+              "lng": -74.11920623029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Oak Ave",
+        "place_id": "ChIJtVxD4VtJwokRdyHU4RWKaXM",
+        "plus_code": {
+          "compound_code": "HV6J+WV New York, NY, USA",
+          "global_code": "87G7HV6J+WV"
+        },
+        "rating": 5,
+        "reference": "ChIJtVxD4VtJwokRdyHU4RWKaXM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561954,
+            "lng": -74.118546
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5632890802915,
+              "lng": -74.1171746697085
+            },
+            "southwest": {
+              "lat": 40.5605911197085,
+              "lng": -74.11987263029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Oak Av",
+        "place_id": "ChIJP2fGUFlJwokRNS9KDnXpv60",
+        "plus_code": {
+          "compound_code": "HV6J+QH New York, NY, USA",
+          "global_code": "87G7HV6J+QH"
+        },
+        "reference": "ChIJP2fGUFlJwokRNS9KDnXpv60",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561188,
+            "lng": -74.1213645
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5625163802915,
+              "lng": -74.1200372197085
+            },
+            "southwest": {
+              "lat": 40.55981841970851,
+              "lng": -74.1227351802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Guyon Av/Clawson St",
+        "place_id": "ChIJXWocJl9JwokReFqgdjubFN8",
+        "plus_code": {
+          "compound_code": "HV6H+FF New York, NY, USA",
+          "global_code": "87G7HV6H+FF"
+        },
+        "reference": "ChIJXWocJl9JwokReFqgdjubFN8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561081,
+            "lng": -74.121315
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5624554302915,
+              "lng": -74.11993921970848
+            },
+            "southwest": {
+              "lat": 40.5597574697085,
+              "lng": -74.1226371802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Guyon Ave/Clawson St",
+        "place_id": "ChIJBU5DJl9JwokRTiZ5Qrsa8uM",
+        "plus_code": {
+          "compound_code": "HV6H+CF New York, NY, USA",
+          "global_code": "87G7HV6H+CF"
+        },
+        "rating": 4,
+        "reference": "ChIJBU5DJl9JwokRTiZ5Qrsa8uM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.559391,
+            "lng": -74.12257400000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5607778802915,
+              "lng": -74.12121706970849
+            },
+            "southwest": {
+              "lat": 40.5580799197085,
+              "lng": -74.1239150302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Brook Ave",
+        "place_id": "ChIJocyan19JwokRngP2i_wMlW4",
+        "plus_code": {
+          "compound_code": "HV5G+QX New York, NY, USA",
+          "global_code": "87G7HV5G+QX"
+        },
+        "reference": "ChIJocyan19JwokRngP2i_wMlW4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.563782,
+            "lng": -74.116722
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56514988029149,
+              "lng": -74.11540691970849
+            },
+            "southwest": {
+              "lat": 40.56245191970849,
+              "lng": -74.1181048802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Tysens Ln",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101814017912517665021\">Richard Wells</a>"
+            ],
+            "photo_reference": "AU_ZVEEZyD9r3OJ-mxtd0hM0rZu-enziRnDtXQfqOKQtKgjkYr0WjJvzPHTXxE2LRCnNSaYBChK_a2-BdLXrc1FUtBr3d2w6Ni3RyzLqFdzNg4C5tGHuWDdeBaX2CyVMTdVYTRYKr7Yf8pv_W7D2HEAdHuwIVowTxOs7FSbcTtlQOhuLzo6k0NDtjRjCNM4qKUVR-H-v8PUZKgbs2Jl0mjpTP0NtDkzJ6cpXfbdMR55m0QLDZ8Ms3tRG_Jj6_FGiP8X6DR1nU0Qq6iAnP9KBLE-YZsJIYbNiJ0WF30ec73sZobumcypYkQmaJL_SWs2GysQ5XcXOgNvNn5XqxpW-J3hw-0LC2mG_N6ApjUYvUOOiXuogQ_5EpgLScCVG8LKcSQHRUyr7NW61GwnMBHiqFj9Li19Gz7YuTd0HOOvcziwsLxfQ9AvOERKWvw3PlKo6G_755J4OyMZ0B5r3KikMHnwDz9FL88RCzBYajMznymZUL68yKi1LSX64t05nf9v8Z6xREgStPf3L1E_6PAN_QTUEAuwexDFVZTH2tdAL_Q0TWU5nqxE2_lAFPt_MzOerand1jQaAQ4LosRXOZdJV-6iCTB39ghJhX6OoI6cd-QJvzgMe6u68kC1swIN1BKuaE9XjeZi9clBD",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJTdoVNVpJwokR8wUJMAvyaiA",
+        "plus_code": {
+          "compound_code": "HV7M+G8 New York, NY, USA",
+          "global_code": "87G7HV7M+G8"
+        },
+        "rating": 4.7,
+        "reference": "ChIJTdoVNVpJwokR8wUJMAvyaiA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561295,
+            "lng": -74.121414
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5626256802915,
+              "lng": -74.1200843197085
+            },
+            "southwest": {
+              "lat": 40.5599277197085,
+              "lng": -74.12278228029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Guyon Ave/Clawson St",
+        "place_id": "ChIJL1fKKF9JwokRSoP4rt7QZhM",
+        "plus_code": {
+          "compound_code": "HV6H+GC New York, NY, USA",
+          "global_code": "87G7HV6H+GC"
+        },
+        "reference": "ChIJL1fKKF9JwokRSoP4rt7QZhM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.564049,
+            "lng": -74.110535
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5653261302915,
+              "lng": -74.10919201970849
+            },
+            "southwest": {
+              "lat": 40.5626281697085,
+              "lng": -74.11188998029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Ebbitts St",
+        "place_id": "ChIJy64RE0VJwokR2aSyUhRkAaI",
+        "plus_code": {
+          "compound_code": "HV7Q+JQ New York, NY, USA",
+          "global_code": "87G7HV7Q+JQ"
+        },
+        "rating": 3,
+        "reference": "ChIJy64RE0VJwokR2aSyUhRkAaI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5641215,
+            "lng": -74.110325
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5654788302915,
+              "lng": -74.10899411970848
+            },
+            "southwest": {
+              "lat": 40.5627808697085,
+              "lng": -74.11169208029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Ebbitts St",
+        "place_id": "ChIJVbGMbEVJwokRDsMtMHaH710",
+        "plus_code": {
+          "compound_code": "HV7Q+JV New York, NY, USA",
+          "global_code": "87G7HV7Q+JV"
+        },
+        "reference": "ChIJVbGMbEVJwokRDsMtMHaH710",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56361749999999,
+            "lng": -74.108795
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5649951302915,
+              "lng": -74.1074208697085
+            },
+            "southwest": {
+              "lat": 40.5622971697085,
+              "lng": -74.11011883029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Cuba Av",
+        "place_id": "ChIJ18-so0VJwokRYIF48lW6Iso",
+        "plus_code": {
+          "compound_code": "HV7R+CF New York, NY, USA",
+          "global_code": "87G7HV7R+CF"
+        },
+        "reference": "ChIJ18-so0VJwokRYIF48lW6Iso",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56353000000001,
+            "lng": -74.10875700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56490498029149,
+              "lng": -74.1073852197085
+            },
+            "southwest": {
+              "lat": 40.5622070197085,
+              "lng": -74.11008318029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Cuba Ave",
+        "place_id": "ChIJqxN1o0VJwokRm1uIk83qacM",
+        "plus_code": {
+          "compound_code": "HV7R+CF New York, NY, USA",
+          "global_code": "87G7HV7R+CF"
+        },
+        "reference": "ChIJqxN1o0VJwokRm1uIk83qacM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56266,
+            "lng": -74.107033
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5640048802915,
+              "lng": -74.1056760697085
+            },
+            "southwest": {
+              "lat": 40.5613069197085,
+              "lng": -74.1083740302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Manila Pl",
+        "place_id": "ChIJG6Lr0UVJwokRZROL7W7cq2g",
+        "plus_code": {
+          "compound_code": "HV7V+35 New York, NY, USA",
+          "global_code": "87G7HV7V+35"
+        },
+        "rating": 5,
+        "reference": "ChIJG6Lr0UVJwokRZROL7W7cq2g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56422800000001,
+            "lng": -74.11033599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56555528029151,
+              "lng": -74.10894081970848
+            },
+            "southwest": {
+              "lat": 40.56285731970851,
+              "lng": -74.1116387802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Ebbitts St",
+        "place_id": "ChIJz8QUbEVJwokRtwyTgl8AboE",
+        "plus_code": {
+          "compound_code": "HV7Q+MV New York, NY, USA",
+          "global_code": "87G7HV7Q+MV"
+        },
+        "reference": "ChIJz8QUbEVJwokRtwyTgl8AboE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56370500000001,
+            "lng": -74.10883299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5650378802915,
+              "lng": -74.1074981197085
+            },
+            "southwest": {
+              "lat": 40.5623399197085,
+              "lng": -74.1101960802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Cuba Ave",
+        "place_id": "ChIJHx1qokVJwokRCQ6CTgcaNms",
+        "plus_code": {
+          "compound_code": "HV7R+FF New York, NY, USA",
+          "global_code": "87G7HV7R+FF"
+        },
+        "rating": 5,
+        "reference": "ChIJHx1qokVJwokRCQ6CTgcaNms",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56459,
+            "lng": -74.115494
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5659412802915,
+              "lng": -74.1141426197085
+            },
+            "southwest": {
+              "lat": 40.5632433197085,
+              "lng": -74.11684058029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Reno Ave",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101814017912517665021\">Richard Wells</a>"
+            ],
+            "photo_reference": "AU_ZVEEDiFWmO4Rk2Ix9Jf26lauGOcqJoiUUje1H1zGng5vm7TS57GipdFkJ9m-6AcsbeM9q5RYtYMxEZEcHDYufkUOGPJmHORf0me73saX_8EyKkT5rGfi-v8nOP44rJaJiogHRdwHs1Ab4RyrQfcOHPqlIsMwSfHsuza8QnmChNm7ED--zX0V041Wy6IaP3lSk9a5jHwRoKyF0EZflz1IWdSkyW_4nX1uocsZrpUma6ep1MZA3UHYV06dMlE3eVeqngDvRvoxKFY0SFa_1au7-6AgdmxI2lO7LLan_mwh4PSaP3zE4wqZt8YxHk4n9twj598aMo9gYRKj4bVi9USaF556dxdaiAwbi4bdOkIAxEBwf147JHt3C_F67_HAKUF01kqGbTao7QJORL9AShqfm-nznBUm3EnYKk3gUq0Io99sQA4XtNQf_e9MvkovbL8TW2lOJLV2F_FzZkBJuJ96u2U5LphliXodbrYsVvXvPp6NzsrFtwmGV1eLGXlntpTUc6DilleSvXk7Yl60HKCzfD4X2T8r_vYsjcFVoVk2dBIwTybVhtrerkeniSfCcK3e5VuJl6TyAV7BpIUhPoAq_0FZDIIBJNFIcUltgKPS55aImuDThRBInI_FhVHSBffCGmrxbeA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ1W5lXlpJwokRGPEL9WP1YjI",
+        "plus_code": {
+          "compound_code": "HV7M+RR New York, NY, USA",
+          "global_code": "87G7HV7M+RR"
+        },
+        "rating": 5,
+        "reference": "ChIJ1W5lXlpJwokRGPEL9WP1YjI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.564194,
+            "lng": -74.110115
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5655626302915,
+              "lng": -74.10881076970848
+            },
+            "southwest": {
+              "lat": 40.5628646697085,
+              "lng": -74.11150873029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mill Rd/Ebbitts St",
+        "place_id": "ChIJ8a7sbUVJwokRLJp3QvLL3Rk",
+        "plus_code": {
+          "compound_code": "HV7Q+MX New York, NY, USA",
+          "global_code": "87G7HV7Q+MX"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ8a7sbUVJwokRLJp3QvLL3Rk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.562767,
+            "lng": -74.106956
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5640899802915,
+              "lng": -74.1056309697085
+            },
+            "southwest": {
+              "lat": 40.5613920197085,
+              "lng": -74.1083289302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Winham Ave",
+        "place_id": "ChIJ-TxR0EVJwokRE9swFk7JFcc",
+        "plus_code": {
+          "compound_code": "HV7V+46 New York, NY, USA",
+          "global_code": "87G7HV7V+46"
+        },
+        "reference": "ChIJ-TxR0EVJwokRE9swFk7JFcc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56190499999999,
+            "lng": -74.1054195
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5632812802915,
+              "lng": -74.1040450197085
+            },
+            "southwest": {
+              "lat": 40.56058331970851,
+              "lng": -74.1067429802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Finley Av",
+        "place_id": "ChIJX_UHiUZJwokRWwjlQ4PpwTo",
+        "plus_code": {
+          "compound_code": "HV6V+QR New York, NY, USA",
+          "global_code": "87G7HV6V+QR"
+        },
+        "reference": "ChIJX_UHiUZJwokRWwjlQ4PpwTo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561825,
+            "lng": -74.105408
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5631983302915,
+              "lng": -74.1040367197085
+            },
+            "southwest": {
+              "lat": 40.56050036970851,
+              "lng": -74.10673468029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Finley Ave",
+        "place_id": "ChIJv2A9iUZJwokRmwKJY1SJTtA",
+        "plus_code": {
+          "compound_code": "HV6V+PR New York, NY, USA",
+          "global_code": "87G7HV6V+PR"
+        },
+        "reference": "ChIJv2A9iUZJwokRmwKJY1SJTtA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56198099999999,
+            "lng": -74.105431
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5633124802915,
+              "lng": -74.10409841970849
+            },
+            "southwest": {
+              "lat": 40.5606145197085,
+              "lng": -74.1067963802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Finley Ave",
+        "place_id": "ChIJPd7JiUZJwokRepSdi4-CIOg",
+        "plus_code": {
+          "compound_code": "HV6V+QR New York, NY, USA",
+          "global_code": "87G7HV6V+QR"
+        },
+        "rating": 5,
+        "reference": "ChIJPd7JiUZJwokRepSdi4-CIOg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5651415,
+            "lng": -74.11505149999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5664732802915,
+              "lng": -74.11367301970849
+            },
+            "southwest": {
+              "lat": 40.5637753197085,
+              "lng": -74.11637098029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Cannon Bl",
+        "place_id": "ChIJsxtOiFpJwokRTabPVKHlOw8",
+        "plus_code": {
+          "compound_code": "HV8M+3X New York, NY, USA",
+          "global_code": "87G7HV8M+3X"
+        },
+        "reference": "ChIJsxtOiFpJwokRTabPVKHlOw8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.565113,
+            "lng": -74.11483799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5664632802915,
+              "lng": -74.11349121970851
+            },
+            "southwest": {
+              "lat": 40.5637653197085,
+              "lng": -74.11618918029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Cannon Blvd",
+        "place_id": "ChIJe-rTiFpJwokRE3m3c3VCZoY",
+        "plus_code": {
+          "compound_code": "HV8P+23 New York, NY, USA",
+          "global_code": "87G7HV8P+23"
+        },
+        "reference": "ChIJe-rTiFpJwokRE3m3c3VCZoY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56516999999999,
+            "lng": -74.115265
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5665110302915,
+              "lng": -74.11392336970847
+            },
+            "southwest": {
+              "lat": 40.5638130697085,
+              "lng": -74.1166213302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Cannon Blvd",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110103401246680364161\">Jason Lindelof</a>"
+            ],
+            "photo_reference": "AU_ZVEHvGtPclQ2Q5QULa0BTuiaezsn-SmsFZgelploKnHAyFuqcZdl2TuMUpgFw_hGUCe4qXG-BofdaCljM8Axsg_9BHkzVolExVCAEmMHkiu7ekZQ_O7DUnE5GIWfvwom9QWVTDn_yjGLfO33r0BmaJR-bUEApRtmPYH4Zk9A4M-vkG7Ca90EnRZr1I8UMasE8VykNJcETLWXKF_uMl0_WcFNuCJpLs7kDMHIKXnWtakmTUC2Z-24rCRNxLC0kgbSzeyZHJtWeYcZ3ak_gvfJsWwMcET1w7oWzSR8xOR3fAgQW5PrYT6OtF_sWJHbeYCNXPoYpxP-E2nuzQ3chsX5VuNeaqd9nQOuRV44AHKGkdD_R9nwyTo6yFIjolQSP4jTBrA6SEynTpeBTSfbJIFm4Yu5Y4lTJ5862AxvDvtKbHq1pKZZdudxchjLlkBtqG3Aoajqurlwmnj0hsdSK37RQ0n_CMps1f3TJWTsdyP8R5uvgcNJQZnHrVwxoJn3X6WXBYQnMJ52btaUOyVJ39J4yx8Ii4Hsi6c_4IGcUVK6osegOXsgb5tt-tGKhX5xCvxyuweKinFX0rhjX8UrcqsY3tRwT_eWWYY7njeYy7uuV7EtmajZlbKHO23FjexUVDKiBRe8VmKXA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJUXqMYlpJwokRhEm6TISEsDs",
+        "plus_code": {
+          "compound_code": "HV8M+3V New York, NY, USA",
+          "global_code": "87G7HV8M+3V"
+        },
+        "reference": "ChIJUXqMYlpJwokRhEm6TISEsDs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561188,
+            "lng": -74.10430099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56256498029149,
+              "lng": -74.1029231697085
+            },
+            "southwest": {
+              "lat": 40.5598670197085,
+              "lng": -74.10562113029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Roma Ave",
+        "place_id": "ChIJQ3i570ZJwokRB-TAvg6SOyc",
+        "plus_code": {
+          "compound_code": "HV6W+F7 New York, NY, USA",
+          "global_code": "87G7HV6W+F7"
+        },
+        "rating": 5,
+        "reference": "ChIJQ3i570ZJwokRB-TAvg6SOyc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561186,
+            "lng": -74.1041565
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5625620302915,
+              "lng": -74.1027799197085
+            },
+            "southwest": {
+              "lat": 40.5598640697085,
+              "lng": -74.1054778802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Roma Av",
+        "place_id": "ChIJHxxe5UZJwokRPBIxveKbUSY",
+        "plus_code": {
+          "compound_code": "HV6W+F8 New York, NY, USA",
+          "global_code": "87G7HV6W+F8"
+        },
+        "reference": "ChIJHxxe5UZJwokRPBIxveKbUSY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55968499999999,
+            "lng": -74.12430599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5610168802915,
+              "lng": -74.12295156970849
+            },
+            "southwest": {
+              "lat": 40.5583189197085,
+              "lng": -74.12564953029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Champlain Av",
+        "place_id": "ChIJ6fVCK-BLwokR9SK2VD6BHqQ",
+        "plus_code": {
+          "compound_code": "HV5G+V7 New York, NY, USA",
+          "global_code": "87G7HV5G+V7"
+        },
+        "reference": "ChIJ6fVCK-BLwokR9SK2VD6BHqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561184,
+            "lng": -74.104012
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56251028029149,
+              "lng": -74.1026862197085
+            },
+            "southwest": {
+              "lat": 40.55981231970849,
+              "lng": -74.10538418029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Roma Ave",
+        "place_id": "ChIJt1Ih5UZJwokR7QZQQcpienQ",
+        "plus_code": {
+          "compound_code": "HV6W+F9 New York, NY, USA",
+          "global_code": "87G7HV6W+F9"
+        },
+        "rating": 5,
+        "reference": "ChIJt1Ih5UZJwokR7QZQQcpienQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.565521,
+            "lng": -74.112297
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56683863029149,
+              "lng": -74.11098176970849
+            },
+            "southwest": {
+              "lat": 40.56414066970849,
+              "lng": -74.1136797302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Hylan Blvd",
+        "place_id": "ChIJW6oIAFBJwokRb2K4UwoKqk4",
+        "plus_code": {
+          "compound_code": "HV8Q+63 New York, NY, USA",
+          "global_code": "87G7HV8Q+63"
+        },
+        "rating": 4,
+        "reference": "ChIJW6oIAFBJwokRb2K4UwoKqk4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.559101,
+            "lng": -74.125153
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5604656802915,
+              "lng": -74.12382551970849
+            },
+            "southwest": {
+              "lat": 40.5577677197085,
+              "lng": -74.1265234802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Montreal Ave",
+        "place_id": "ChIJCX6dOeBLwokRFB5e2CTX1WU",
+        "plus_code": {
+          "compound_code": "HV5F+JW New York, NY, USA",
+          "global_code": "87G7HV5F+JW"
+        },
+        "reference": "ChIJCX6dOeBLwokRFB5e2CTX1WU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.562416,
+            "lng": -74.123238
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5637358302915,
+              "lng": -74.12191941970849
+            },
+            "southwest": {
+              "lat": 40.5610378697085,
+              "lng": -74.1246173802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Guyon Ave/Elmira St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118148905604434368538\">G L</a>"
+            ],
+            "photo_reference": "AU_ZVEF_CHfwIBDJ4_lWv8VP45osAtXbCqdQECpcE67F2AIphf9XRB9yIBOs6p24Zoo-bnbN9g4MUjM5XD9_VGIFFNN2VBBIOjL9qalYo2WE1-_Eqh-7SRI__pd77K2PjlnfmtgqhdF2X9ZGt5E_1YWtu3AFpspq5Wqq5wVALnZUwpG-Fl1_vf4dfJwbzIA4GYZ1da87xDVJ0n4OeWrcdw8FuMCB4-em7fxKCifHPqWmGB7Oodzk8hdiGsbwbSwtKiyLm8gAFL_IJYR_bZAQY0_y55iS89Ndmtl4CkVnnP1_a2ACPZhbITQkQAPHHG6zJQ7QZJM8qhu49xKi6YXDiOEoFCxBPYrjJFXx2eWHgtZOlSnbshomjhqgr2XU3IRLM6_NQSv4eCMBN6FUzCMypwkJey7UUiqyaeCJGzgVc7zuBAJXhTdBmWTKzRAIwbAmmor2y3sm02ukMawGhwrZjZXbTP4Ow4Vc7sTOGrfYbtyWhX4tAAW9oOjSd1csHQOJxtAb2qVzKVcOP9-EM5Kbo16OZ_HWq0qREYve6P0Tfi0D6TIxHNx12M4bDRsSjZpzzlfVqP4A_zeu0TcuGM05wMMEe0ybShA3AQKTiQosvnjafhg50IfrO6xGByAKjNfHNwFXnqf00yCHpjBx5MfF6SSASQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ7_77sVhJwokRdcYQ2rOYTIA",
+        "plus_code": {
+          "compound_code": "HV6G+XP New York, NY, USA",
+          "global_code": "87G7HV6G+XP"
+        },
+        "reference": "ChIJ7_77sVhJwokRdcYQ2rOYTIA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.565987,
+            "lng": -74.113106
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56730243029149,
+              "lng": -74.1117923697085
+            },
+            "southwest": {
+              "lat": 40.5646044697085,
+              "lng": -74.1144903302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ebbitts St/Hylan Blvd",
+        "place_id": "ChIJKQ0vD1BJwokRzGPK_erDPgU",
+        "plus_code": {
+          "compound_code": "HV8P+9Q New York, NY, USA",
+          "global_code": "87G7HV8P+9Q"
+        },
+        "reference": "ChIJKQ0vD1BJwokRzGPK_erDPgU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56465310000001,
+          "lng": -74.1138074
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56603603029151,
+            "lng": -74.1125188197085
+          },
+          "southwest": {
+            "lat": 40.56333806970851,
+            "lng": -74.1152167802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-987-1111",
+      "name": "Empire East",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 319,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118095036344245080879\">Empire East</a>"
+          ],
+          "photo_reference": "AU_ZVEERAjs4MFOHULnz4q4vvZZufUzGrGNsymPTPeovDJN4RoH66IMfzEvPNiBugUwdJ6CLjIQ45qRjTxE3Y3Mz2g0DHyn0rmCw-z1720674TvQxgXxz1OFVLR9DNfvZR8LKCv58K7TEWk5UlHmGVnNua_aBPFyaUhNzrjGSEz13UhAjFivnBw6a6IJn-o2C8RKD_4k_7YIfjztaM2TyL3GnmT5ESkbCKTwg0MPjMhe1u3evunBD9G64RLLT-Zs5EGAT3p5ZY3TaQpOWb6H6GFeGGFtNzRH9MFLxIZ9WISxu_IPwz_6sSR6f_PGHY10JzeJuqKWZDXIZ9U",
+          "width": 479
+        }
+      ],
+      "place_id": "ChIJizVKdlBJwokRHPEgmQx29v8",
+      "plus_code": {
+        "compound_code": "HV7P+VF Staten Island, NY, USA",
+        "global_code": "87G7HV7P+VF"
+      },
+      "price_level": 2,
+      "rating": 3.7,
+      "reference": "ChIJizVKdlBJwokRHPEgmQx29v8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 355,
+      "vicinity": "2740 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5654202,
+          "lng": -74.112993
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5668204802915,
+            "lng": -74.1117035697085
+          },
+          "southwest": {
+            "lat": 40.5641225197085,
+            "lng": -74.1144015302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-509-6553",
+      "name": "Jersey Mike's Subs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106811663766260235009\">Jersey Mike&#39;s Subs</a>"
+          ],
+          "photo_reference": "AU_ZVEHS-AbR0dzzXyFCn6fuFTJwjJGPt7CGJXrgrg1u2M0XKaYDpMbRM1XylaoefbM5KEgVG9LWwAbNnu-tLnS-RlyIDu2vYTAg8aMpVN153V2u523lFs-FovAmwTV3VFjIoLN88uCwkbwiIqxZPAdlTjvlO5yzbegBWIZdfC074XpDGdQ_n4tMTB9XY3qTc3rk6dUNN9KdtsT66Qum51TkaXhoTe1_aRkIxXvwuLsA4_yUfeV5wmOt33MnBGEnZGozqdkWs7dK7m1Yu8_7gyZAeUfr8DNE3Q2LfUx8X2K4Rhu034Tk2o95sgCFKAWNsORDdH4Np0FdCcE",
+          "width": 4500
+        }
+      ],
+      "place_id": "ChIJS00oplpJwokRI26FLg6gpSg",
+      "plus_code": {
+        "compound_code": "HV8P+5R New York, NY, USA",
+        "global_code": "87G7HV8P+5R"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJS00oplpJwokRI26FLg6gpSg",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 339,
+      "vicinity": "2714 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56381,
+          "lng": -74.11529999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5652372802915,
+            "lng": -74.1139043197085
+          },
+          "southwest": {
+            "lat": 40.5625393197085,
+            "lng": -74.1166022802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-701-2974",
+      "name": "Starbucks Coffee Company",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2293,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103620767151299443097\">Arkady Utkin</a>"
+          ],
+          "photo_reference": "AU_ZVEHdtiV6vwSk30wq931kMMOeWN36tUxMRwVVRC0mUTtr_JoYhNOL4S9tmtMClDMglz-r2hQqDm30_-lEf5M02F10wx7l1uqLh4kiMU0zTwYpuaMoyChFZYR-wl-CrG6h2b4emJHE2-AYwNltjvcO22sAWAc9Wxhq5e9flz7ixjPhrHTbU0OSW5QXZ98R9AtmMVN00gtZq-ggGQRt-NCjk1blPTZfNlUfXUznC615rtG0Bqr12garK6OsoMlqtCxg5igM3rvtG6FZuWcejInRDy543bZfKFbonqqplohjFm9F5H-0Mu7dHcjULMGMHK2ltkphuGd_xc0uDKDEldJFsJ5zTfb5fI4dLSSMxZ2k14roDu5hARYTBVzrH0yKasUJwaMHcpKwuR6WA9Mw_5Kd9BwoD5JCQ8Qi7Wio6jb2YEkGhN_O6b8Qw53rDPjKjhzB5NakI6R_wzquy4qiwAyTDVMNJtESo78W_Lliw_5clCx_lG6yHjJHzAbsaNKGi7ouBdPBF1SXdfLKo7_ATNZa-Q5F0yUoORUb6Dag_Y-NXxrESK0byysVsseqoikUR-isJH11_GIe3gwLMtnKEzEE_swdllkh40Cx4yRtuQHKvldAQ8EUv21v4C4lhQHJRa5bMcCTqWmo",
+          "width": 3706
+        }
+      ],
+      "place_id": "ChIJa9l5ZfdJwokRDzDQldM7DPc",
+      "plus_code": {
+        "compound_code": "HV7M+GV Staten Island, NY, USA",
+        "global_code": "87G7HV7M+GV"
+      },
+      "rating": 2.2,
+      "reference": "ChIJa9l5ZfdJwokRDzDQldM7DPc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 72,
+      "vicinity": "2800 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5644249,
+          "lng": -74.114203
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5657812802915,
+            "lng": -74.1128915697085
+          },
+          "southwest": {
+            "lat": 40.5630833197085,
+            "lng": -74.1155895302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-607-3296",
+      "name": "QDOBA Mexican Eats",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2252,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102323817267384224606\">VITA CHICHITA</a>"
+          ],
+          "photo_reference": "AU_ZVEGqR8u3TzvaIN6wS4uNolo8_DUHYWn49TGncUSN4NZMktwaPianB6pr9DhwK6X58-SMoujY69Z8uvXuDlYMJpjWaBuabe6vq0WSgYXu5HF51ibm0rLu2P5MHFFSf-h2lFm0RQzx-mVBJfUObRVj8Kfa1tmdhYoPQ2PCcg7F6b0MThubIY3uboNf7xRHmcPeaLN6SGRVXJq7NvHSCPOP12F5-Jfaz7mHH-zX0Jsvy7P5P7Qz0u6trCz--Ji_PvgWH48UezhcqtxIkBj-l2kl4eHPs4ZMDcigE3XGQqhkkUPKNx_7VSTeFFwa2GmjywN_EZZ-DWJKdGNqkAyMiE3ZgtclwZwgIaBPXrKaMIwyk8PrdUecU8gyG8Ny75NEUuzLYU4RERPekFZDKiTv6U44hvlehEZsowPlST_czAv2Tk1ep3vEJCvNGCamMqazMQN1tgzDBnivTjSuIlxDab-IrcqVJFgZ5iuC2YmaFZklfy5rCSxYqG_5pqHDGBGNgCqjoxCHjH_sV--RoYtOn1c3VG-lYrk2DC-7eVBHknjrVY1wAJIC31KVoekqxHMB5QPl4iPQNhCbSNpIT_mz18JWciv-kYi9qoytoSbepZ6qSda6gDONcTWkPJTf4jTH9K8iGaU1LVt5",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJc8y0mQdJwokRoMgKqel7BUU",
+      "plus_code": {
+        "compound_code": "HV7P+Q8 Staten Island, NY, USA",
+        "global_code": "87G7HV7P+Q8"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJc8y0mQdJwokRoMgKqel7BUU",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 214,
+      "vicinity": "2750A Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5653254,
+          "lng": -74.1143881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56674763029149,
+            "lng": -74.11304556970849
+          },
+          "southwest": {
+            "lat": 40.5640496697085,
+            "lng": -74.1157435302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-524-7800",
+      "name": "Wendy's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 666,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107695581655031286750\">STATEN ISLANDER</a>"
+          ],
+          "photo_reference": "AU_ZVEFPINSS7_PlXblCmB7vzKc1TIvhjGM_ErMofbk8FD8DetxokxfurTS43TbBoLO537FA9Ka6CS_IWhZq1lOovtD1X4oMkGmITavQ8N2wR19Lle4Wx_jYgzuelv_rFzIoSQRNZvht-Ec_NqmV3NQPLDXaz1X1v-Atei8wU_mIXZwJ6gTZ7h5NzKVyOxBMv75bzy0ngTjsMPVPZd9uH7F5itWzO1CXAhmvJpurfDgiQuAYbXnNbAwoXrPeLeS41SL4diBsDT22kRcty3lVnI0z2cfjvCY7ApZXbmEfu5rRmMzc_shC1rkdpl3FNyDCwfj9qFxDkewsbISUjduzXRVqLOYHmouettGDs4O9DasqotZdBCa1ppIoc7IqMghN96KYtD3uXiQoyEGhiH0MltZxCP21awATiDwwaz42UMvAjWcsyDZgv53gbleFvZ_KSz-nHaQesdrlSdT8iQpn8n20lW7UBzHgLhX1g7Yms7ivau9hP26UJWJkrLwJWOj8pJZ0w8NgP-Q58csGv__CxBUZJ4A11nPRgz5A1pl7XKCMTH6k5GSsK4XLUO9K-5eDkxcOXpBA78VzDbuUzRwqaOWleI946cs17V-qYAO0Y2smWZj3Xorbil74r4qHEW9L4zJk7g007wVj4jEiSCVG9vExuQ",
+          "width": 939
+        }
+      ],
+      "place_id": "ChIJwZt6fwBJwokRGn0y52SY6HM",
+      "plus_code": {
+        "compound_code": "HV8P+46 Staten Island, NY, USA",
+        "global_code": "87G7HV8P+46"
+      },
+      "price_level": 1,
+      "rating": 2.7,
+      "reference": "ChIJwZt6fwBJwokRGn0y52SY6HM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 67,
+      "vicinity": "2720 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5656608,
+          "lng": -74.1127798
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56704498029149,
+            "lng": -74.11149091970849
+          },
+          "southwest": {
+            "lat": 40.56434701970849,
+            "lng": -74.1141888802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-351-7185",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 664,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116100847039980652150\">Emma Noah</a>"
+          ],
+          "photo_reference": "AU_ZVEFEujLqS9OOS_RRnkeZTnXKPmMMnMqiNFzfILMjIQGnMufH8i3EC2ROlfyU456ejjkml6yixX27Ip4hsobYmCIIHlOGcdeYTGIiZPvGqv_W2wyQSeOB-UxoK8aSFJhoYwTBl3934kogZi7WkRzO5vXrtVpafZdpk5SugQOMHSS3_bJVBJBCv825Q4OxYwteovfLs2iVM5H9DtJsZJuh8v5Sq3gRkEmgY8IXOFozCGIXeNDYN78mfrk0UL8SVMOH4s4U-BbsJU2E8NUpdAZypo2tmv36lkD1ucYA1aGJZPKoF9Rw17kmmn3Wtiepwpdb852SA9x1uXRCsXHGwpz8NdfxgpO1P4NYBKijn5UZp1SJswfh57auokfQQlA4Tgbl4PlAqXrkQYEZZYj_PpUO2H5jn5YdV2rtlPlcL_T8q0_dUjB7_vMB8adbDql9ow4U4J1TsbjDfY44aQAEQ6Fv6yJ-Zad-HRPor1fc94cOK30wxt2kIe2V2ZjjWy4ioaz5phfd96W_79A7wc6-XjGtHd9-UUYd8YUxrwJPlE0m34D4ae4w6PULSGeBdUTvws5A9Awvr5-V63VAzV_eW3iQKyTxqUbwjVL3z_6qxSI_PLuL-d0j_eU0v9ougwVfSxEkUmyNsn2L",
+          "width": 598
+        }
+      ],
+      "place_id": "ChIJqxzCcy5JwokRiNPaBUQzo7k",
+      "plus_code": {
+        "compound_code": "HV8P+7V Staten Island, NY, USA",
+        "global_code": "87G7HV8P+7V"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJqxzCcy5JwokRiNPaBUQzo7k",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 131,
+      "vicinity": "Tysens Park Shopping Center, 2704 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5653972,
+          "lng": -74.11021149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5669925302915,
+            "lng": -74.10877391970848
+          },
+          "southwest": {
+            "lat": 40.5642945697085,
+            "lng": -74.11147188029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-301-0020",
+      "name": "Siam Thai Eatery Staten Island",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103891463877818976079\">Siam Thai Eatery Staten Island</a>"
+          ],
+          "photo_reference": "AU_ZVEGSs9qt5P04OhO-Wt1OWDnSpzvw8BX9u8209p3EK9lUWRqqahXLa3LBHQJh9Ko4ahuSQ4FoioWncgkP_drxBXnGmdZMF4B7fuRMkWswx4V1FBOXeGaNbW5OfDEkMB_-i6AlIQd2j74M592qe1-vszYQ6qW5_QDKtLwh-9mssI1HlCa6_SZ3SSETVQawi1v-t3woZcuWzvYhNVHlFAsSTVHXoZYzPGLR7U98GBstgy7VNRAvtwBFomnVfX8hbyyZVHIPLj7aLr_i_NMScAD_5XI4lWUUSx6fX8lBijHxWlFLmW4RT8xAXdDxot_K35wOTKNUqVNHr8c",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJG4MbZZVJwokRV5L2TNVrCCE",
+      "plus_code": {
+        "compound_code": "HV8Q+5W Staten Island, NY, USA",
+        "global_code": "87G7HV8Q+5W"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJG4MbZZVJwokRV5L2TNVrCCE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 657,
+      "vicinity": "2656 Hylan Boulevard unit 160, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561665,
+          "lng": -74.112118
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56303008029149,
+            "lng": -74.1108083697085
+          },
+          "southwest": {
+            "lat": 40.56033211970849,
+            "lng": -74.11350633029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Tysens La",
+      "place_id": "ChIJ__QRtURJwokRLPO70F3p3oU",
+      "plus_code": {
+        "compound_code": "HV6Q+M5 New York, NY, USA",
+        "global_code": "87G7HV6Q+M5"
+      },
+      "reference": "ChIJ__QRtURJwokRLPO70F3p3oU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.557217,
+          "lng": -74.114601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55857233029149,
+            "lng": -74.1132549197085
+          },
+          "southwest": {
+            "lat": 40.5558743697085,
+            "lng": -74.1159528802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Guyon Ave",
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112252645478894344634\">Joan Gagliano</a>"
+          ],
+          "photo_reference": "AU_ZVEEmwPgB26sdpugQ2e3m0hoc4K-cHHvRPKvqhpWlol3YULFtmbuve4uuBRGih036aUAWPFxywMYork9Uo0DadpRTgAHzfb6b_8XvDsEQNmDQI5-vxoLddRAc5ypYPuF6IQGJEkvMqpd-GTgS_hyUhc0dRB6kVPuD3eK9XXSrQQCaVtliCbPTkq3Xl9-tiiwSU0ifdhxd_s7FKolIpIPo1VOWmibPbUxITgIboVaN3hnMl5uKOlkTJvgYUIgPs4ajNz5Vx7Ow9RdaRB7CU7npT1utUXrJQfP3YmIkuQUhTj_-06WHe5dJkkmLSVf-H-NmapgNWDsfWshjq9DmnYog8Un2iEIayxu6aifRkJvzmQAQ9BXqDoJCPjZAiXpi4w0h8MkAVZmVcIk0K6-rIplnpvruwmTIjezjPsdtvQKAi_U7qo5NHCXTIkwDfV3XyyZBHQ_CYXXHrHUQJ8f6ri9HyQMV_kMK_9-f146_iy4aBSmDbfrVEv_QrxKjErBYclBXHxyRfXxP7aREiH_R7TOGBQ8mTdpu5uHdvf32r8sAwPx0S3uMfLZSW4a7b3Z0nn2jtZqvW3Rwalxkg1NIYD1FhQpInAL8wDQJAdUJgsFs6-xvz4VzcGQpxZzB6Vie8CG4Z_iDiw",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJwwsjDV1JwokR-LMPixUBa9U",
+      "plus_code": {
+        "compound_code": "HV4P+V5 New York, NY, USA",
+        "global_code": "87G7HV4P+V5"
+      },
+      "reference": "ChIJwwsjDV1JwokR-LMPixUBa9U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55699499999999,
+          "lng": -74.114914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5583609802915,
+            "lng": -74.1135777197085
+          },
+          "southwest": {
+            "lat": 40.5556630197085,
+            "lng": -74.11627568029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Promenade Ave",
+      "place_id": "ChIJ0YVCdF1JwokRRQB7cfG9c5w",
+      "plus_code": {
+        "compound_code": "HV4P+Q2 New York, NY, USA",
+        "global_code": "87G7HV4P+Q2"
+      },
+      "reference": "ChIJ0YVCdF1JwokRRQB7cfG9c5w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55788,
+          "lng": -74.11331899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5592292302915,
+            "lng": -74.1119626697085
+          },
+          "southwest": {
+            "lat": 40.5565312697085,
+            "lng": -74.11466063029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Isabella Ave",
+      "place_id": "ChIJu9BtJF1JwokRHmwCz0Snx0M",
+      "plus_code": {
+        "compound_code": "HV5P+5M New York, NY, USA",
+        "global_code": "87G7HV5P+5M"
+      },
+      "reference": "ChIJu9BtJF1JwokRHmwCz0Snx0M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.558529,
+          "lng": -74.113312
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5598758802915,
+            "lng": -74.1119898697085
+          },
+          "southwest": {
+            "lat": 40.5571779197085,
+            "lng": -74.1146878302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Stoneham St",
+      "place_id": "ChIJQRj921xJwokRV5ukOoXIT8U",
+      "plus_code": {
+        "compound_code": "HV5P+CM New York, NY, USA",
+        "global_code": "87G7HV5P+CM"
+      },
+      "reference": "ChIJQRj921xJwokRV5ukOoXIT8U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.555614,
+          "lng": -74.116394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5569629802915,
+            "lng": -74.11504501970849
+          },
+          "southwest": {
+            "lat": 40.5542650197085,
+            "lng": -74.11774298029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Fox Ln",
+      "place_id": "ChIJJQM_ZmdJwokRPsYgYcRXxhU",
+      "plus_code": {
+        "compound_code": "HV4M+6C New York, NY, USA",
+        "global_code": "87G7HV4M+6C"
+      },
+      "rating": 5,
+      "reference": "ChIJJQM_ZmdJwokRPsYgYcRXxhU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.555691,
+          "lng": -74.116608
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5570178802915,
+            "lng": -74.11520861970851
+          },
+          "southwest": {
+            "lat": 40.5543199197085,
+            "lng": -74.11790658029153
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Aviston St",
+      "place_id": "ChIJMQGQZ2dJwokRWwZU70nmssE",
+      "plus_code": {
+        "compound_code": "HV4M+79 New York, NY, USA",
+        "global_code": "87G7HV4M+79"
+      },
+      "reference": "ChIJMQGQZ2dJwokRWwZU70nmssE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56023,
+          "lng": -74.113152
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5615757802915,
+            "lng": -74.11179481970849
+          },
+          "southwest": {
+            "lat": 40.5588778197085,
+            "lng": -74.11449278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Peter Ave",
+      "place_id": "ChIJIUaspVxJwokR2M6vWtrHETw",
+      "plus_code": {
+        "compound_code": "HV6P+3P New York, NY, USA",
+        "global_code": "87G7HV6P+3P"
+      },
+      "reference": "ChIJIUaspVxJwokR2M6vWtrHETw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56035199999999,
+          "lng": -74.112915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5617160802915,
+            "lng": -74.11160481970849
+          },
+          "southwest": {
+            "lat": 40.5590181197085,
+            "lng": -74.11430278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Roberts Dr",
+      "place_id": "ChIJXdK2qFxJwokRxjA7yuVVE_Y",
+      "plus_code": {
+        "compound_code": "HV6P+4R New York, NY, USA",
+        "global_code": "87G7HV6P+4R"
+      },
+      "reference": "ChIJXdK2qFxJwokRxjA7yuVVE_Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5603925,
+          "lng": -74.1200525
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5617689302915,
+            "lng": -74.1186755197085
+          },
+          "southwest": {
+            "lat": 40.5590709697085,
+            "lng": -74.12137348029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Guyon Av",
+      "place_id": "ChIJedvf6V5JwokRicFjKSRFtbo",
+      "plus_code": {
+        "compound_code": "HV6H+5X New York, NY, USA",
+        "global_code": "87G7HV6H+5X"
+      },
+      "reference": "ChIJedvf6V5JwokRicFjKSRFtbo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.553421,
+          "lng": -74.117249
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5547762802915,
+            "lng": -74.11590001970849
+          },
+          "southwest": {
+            "lat": 40.5520783197085,
+            "lng": -74.1185979802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Delwit Ave",
+      "photos": [
+        {
+          "height": 2620,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108786125994187123766\">JIMMY LTR</a>"
+          ],
+          "photo_reference": "AU_ZVEH382ewbsDTdZtDlOl2WyENGW5wQXwlTOLNHPCR0yjH8t4Zy73uC-KwGEreZjEWy1hdaI_F-oYD-Nm8sMSxfXvBoSvQRRENcm4_1FMvCvd3VVkfkQUf0HwACPn8mRhKMI4pzopC8D5mBbtL7AFoqX8sZ-IkdUXNbsdrC0TExqoSyunOKiUYpg8fk_1da_wIhWhmfkIwbAw4JhwfKonWhHj1Pbdgay0O5Bvi5TKn2aoszvTRrJU0DrhK8zMaRjeRg3IMNZ1jk0Ndkvt_s61YNYLtMTzx42SMcGSg1_MC1HdHTbJDRzpr7Q-0UpRkD685fqdoh5zIHD7LBNlaKX_iypkmSyy-qhe5CqtIoULGfdS8tk4QDLi0nzSAdlrQmga9pfpGiZerFmYj-fyo1r4qWZe8BzqW12s4HxjoSjRbhL_AdCBONr3pER8KwxqqWnD3m324ZFcEUAtHPhlgSmwEzHWc2nU4sgpdw5dCaHG02KO3hUz0dnbGYSGmd21Ym9JB6N2KjVTLlOpl9n6jM3p6J5l_j7teRl6SmoSGz_aIIwCzsWffqWjuPjqvER1ajYk4kbeEXwOlpPyr-ic06YlYDh0kM4_b5lZeXhm2gk-W5bP8DLhbgshibL_yfz1wZGrL",
+          "width": 4656
+        }
+      ],
+      "place_id": "ChIJD8PtJ2dJwokRorbz-SrHgbM",
+      "plus_code": {
+        "compound_code": "HV3M+94 New York, NY, USA",
+        "global_code": "87G7HV3M+94"
+      },
+      "reference": "ChIJD8PtJ2dJwokRorbz-SrHgbM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561623,
+          "lng": -74.112259
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5629562802915,
+            "lng": -74.1108721197085
+          },
+          "southwest": {
+            "lat": 40.5602583197085,
+            "lng": -74.11357008029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Tysens Ln",
+      "place_id": "ChIJkZIqS1tJwokRXPV3klfFHB0",
+      "plus_code": {
+        "compound_code": "HV6Q+J3 New York, NY, USA",
+        "global_code": "87G7HV6Q+J3"
+      },
+      "reference": "ChIJkZIqS1tJwokRXPV3klfFHB0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56170700000001,
+          "lng": -74.111977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5630747802915,
+            "lng": -74.11067401970848
+          },
+          "southwest": {
+            "lat": 40.5603768197085,
+            "lng": -74.1133719802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Tysens Ln",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105318413203542460760\">Shakasim Sharakhmedov</a>"
+          ],
+          "photo_reference": "AU_ZVEGRPJt8Os9iVpDOvtTMcXIXpdeJyVyLDlubgFDCi3vbfpEVllRB0WLs7dy8qqsJaaEtHqovmKHYtDnGu2KdOJKQTVptTCI-eNUbf0Qg1aOKG4CJ8Gbx9LWCLzTpwKzTaQFkoAobrgJ2iIVcwRrITkojMTXHQ37CY04ae5llhv9PpiM6LYWhowe-VIqfa5mJBS8ouu2l7t1mXNFEoHWQ4WRO5Z7-cHdz-ybl0FSsFsNJjIr2KWDYxZmZYfMjpT2y5aYABQob3c989Vge-B8TI1bJjDl6iueB9qCo9k8S2NpA1CU9x027lT7iCYXx69A9THxOIQ_eG48ZhN9JOPDe02-9csLgJpj1oyZYsZkhxvN_P7u2jv5CZd60yfznWOkvvPCf4SmpHvz1pFcMUupf0Gp4j7EwalwRsTRoeMzZheYMXqNNw90nCWbEaXg9SFFSPF8DxYS_wZdIjn3SlSry9qYiklD8aPTMpAdzgdVfKa5B_VhJb1QWY7O5V6nsJh-cBe63MiI4TsJCUUfrcRjbGCi2DruUVHuJx83kcGv6ocJxGRk07LQy5y7QrRIvGiNLFsHYyIl8E-sBN_m4tYt3K4Dn0g6kEC8KLd-q_L9uI_Y0VlcYNDxNKIUd7Hj_o9GmgfLgKQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJi06NtURJwokRfSpdV-ZY_fc",
+      "plus_code": {
+        "compound_code": "HV6Q+M6 New York, NY, USA",
+        "global_code": "87G7HV6Q+M6"
+      },
+      "rating": 5,
+      "reference": "ChIJi06NtURJwokRfSpdV-ZY_fc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.562126,
+          "lng": -74.11818699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5634664802915,
+            "lng": -74.1168242697085
+          },
+          "southwest": {
+            "lat": 40.5607685197085,
+            "lng": -74.11952223029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Oak Av",
+      "place_id": "ChIJBz9kWFlJwokR1mpQVLFuZD0",
+      "plus_code": {
+        "compound_code": "HV6J+VP New York, NY, USA",
+        "global_code": "87G7HV6J+VP"
+      },
+      "reference": "ChIJBz9kWFlJwokR1mpQVLFuZD0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56271,
+          "lng": -74.114189
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5640726802915,
+            "lng": -74.11290646970849
+          },
+          "southwest": {
+            "lat": 40.5613747197085,
+            "lng": -74.1156044302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tysens Ln/Falcon Ave",
+      "place_id": "ChIJ94dyGltJwokRs1elD1n-zws",
+      "plus_code": {
+        "compound_code": "HV7P+38 New York, NY, USA",
+        "global_code": "87G7HV7P+38"
+      },
+      "reference": "ChIJ94dyGltJwokRs1elD1n-zws",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.560604,
+          "lng": -74.11966699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56195898029149,
+            "lng": -74.1183279697085
+          },
+          "southwest": {
+            "lat": 40.5592610197085,
+            "lng": -74.12102593029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Guyon Ave",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103353425398109396483\">John Creutz</a>"
+          ],
+          "photo_reference": "AU_ZVEGoo_I4SpaQvBTkQGBJx6jfeX5FS9xM6IfdQ0HjrjTF_olgK8-d0BcEoK9g12nHd70qmcR7Taarib4KebpW2QSr85F0Ua24AdRFIDiPu0tZLxPFdfwqEo5pL_7zXTj_EFx8OP4vxJnVSOWKEBE5mHLLi0wn4t0P-RhMxqqh9M5Nwc_rOlnlWfYXqP9cEqA5e8NALejtciecr3EVU3oI0HWExvAXK5DrCsvk03LRWytyjtTN0BV4Kx-aJmfeUAvNncdBaamFxezObrhgqms-Bd9W49zL0KCQMqEzh1upa6uZzNuTgJ9nuoKwLZ1oVndcx3CHcIzCbcXo7LX6Y3-J5_uZD6GaHn9_vXdxi3URR9mKIt00FPy4AAwNihGPVeYZqJXapKKy5q1hKXBgCSEzNoUT2sUaUebe6jHiA24xKNiuh6uOQWPEbz70NsN8JrTY7ZudFP4I1TDe1Zus2ya2pcCLjaxcxwtzn9YQehHxakFFlFpUFxkKo81D-rN5T-d1Lx-qhTwxWt0XCv7ixN6WbHwbl5gzwZjeKvQPbok_RS0oF-V2RXFJZFBtL54k4k0ofZnhgY4pwTEPdnj3kLj4cENEVADqqyw5lWHO_n0wy6pYMZnvYupFYrDolflZukYNLYHnaWHO",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJT5KVwF5JwokRMZJ6B2vq3JM",
+      "plus_code": {
+        "compound_code": "HV6J+64 New York, NY, USA",
+        "global_code": "87G7HV6J+64"
+      },
+      "rating": 4,
+      "reference": "ChIJT5KVwF5JwokRMZJ6B2vq3JM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56262999999999,
+          "lng": -74.111542
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5639538802915,
+            "lng": -74.1101810697085
+          },
+          "southwest": {
+            "lat": 40.5612559197085,
+            "lng": -74.11287903029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Isernia Ave",
+      "place_id": "ChIJIf1T10RJwokRLDEciw0ovl4",
+      "plus_code": {
+        "compound_code": "HV7Q+39 New York, NY, USA",
+        "global_code": "87G7HV7Q+39"
+      },
+      "rating": 5,
+      "reference": "ChIJIf1T10RJwokRLDEciw0ovl4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56117999999999,
+          "lng": -74.119415
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5625063302915,
+            "lng": -74.11803126970848
+          },
+          "southwest": {
+            "lat": 40.5598083697085,
+            "lng": -74.1207292302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Isabella Ave",
+      "place_id": "ChIJzYthtl5JwokRNKQbQXTYim8",
+      "plus_code": {
+        "compound_code": "HV6J+F6 New York, NY, USA",
+        "global_code": "87G7HV6J+F6"
+      },
+      "reference": "ChIJzYthtl5JwokRNKQbQXTYim8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.560207,
+          "lng": -74.120438
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5615526302915,
+            "lng": -74.1190835197085
+          },
+          "southwest": {
+            "lat": 40.5588546697085,
+            "lng": -74.1217814802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Guyon Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111267204896381271657\">Morey Apelbaum</a>"
+          ],
+          "photo_reference": "AU_ZVEEwoTuWdaUp5M2K0BVEvjm6t1BkcRvuzLN-ZEVEXSVVD9sH2r-izSz_qfevai0ap6oExZQWuJn_Du3jFcg799-ltTpA93zgMSTLNPy-DDdd_Z81KrSUfNvHpIpw0tSC2IGrJb5Rxzq-I3MhfPbSuTnlSjNFRv-B0kKjKKu1pgcmo4yZQzEo2xMEq7r_I3ynI3s9pH7kaqXMGJzYzVw3Usq-pVPjoPTsuQJlxxLM2sjig56gFvne8kmkESYoZFXcoMh9cUDCLCfGO0Z2u0xJ0lcR4Ow3agfQ1bTENvt5plFeHxBDnH3KmqmfdFUPasnbDCSWOv6o3hsye2iK-oJrGGObCnBt2kQpP-bNGnqeeCkOmsLUmK91ERzbOmARf5qamlBUcqPOVTe_OgOx0q4z9U_Q4b4s9Z_MbMxzcZM2-wsd_dkriW-ee_13E724U5zpWYHHFb4VZwcOQgNYr3K0Nrs_zssrqi7iNB6MWQZcnL2mK-CUolbMww2GC8dDh5PB2WnCQJUkhLo4_PuxSN6-XwfhGAnfHGfmLfxeMMDy5-cmDhimce0d0P21D3MUFvEyajFGVuuIBSEA6eGSsrF6WW9uuilnPoZw9JOonuLlSXSh9OLd7y72pHL1ukm5Q4Z5",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJGS1q5l5JwokRtgj5PWmiw8s",
+      "plus_code": {
+        "compound_code": "HV6H+3R New York, NY, USA",
+        "global_code": "87G7HV6H+3R"
+      },
+      "rating": 5,
+      "reference": "ChIJGS1q5l5JwokRtgj5PWmiw8s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.562298,
+          "lng": -74.117828
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5636646802915,
+            "lng": -74.11650826970849
+          },
+          "southwest": {
+            "lat": 40.5609667197085,
+            "lng": -74.11920623029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Oak Ave",
+      "place_id": "ChIJtVxD4VtJwokRdyHU4RWKaXM",
+      "plus_code": {
+        "compound_code": "HV6J+WV New York, NY, USA",
+        "global_code": "87G7HV6J+WV"
+      },
+      "rating": 5,
+      "reference": "ChIJtVxD4VtJwokRdyHU4RWKaXM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561954,
+          "lng": -74.118546
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5632890802915,
+            "lng": -74.1171746697085
+          },
+          "southwest": {
+            "lat": 40.5605911197085,
+            "lng": -74.11987263029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Oak Av",
+      "place_id": "ChIJP2fGUFlJwokRNS9KDnXpv60",
+      "plus_code": {
+        "compound_code": "HV6J+QH New York, NY, USA",
+        "global_code": "87G7HV6J+QH"
+      },
+      "reference": "ChIJP2fGUFlJwokRNS9KDnXpv60",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561188,
+          "lng": -74.1213645
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5625163802915,
+            "lng": -74.1200372197085
+          },
+          "southwest": {
+            "lat": 40.55981841970851,
+            "lng": -74.1227351802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Guyon Av/Clawson St",
+      "place_id": "ChIJXWocJl9JwokReFqgdjubFN8",
+      "plus_code": {
+        "compound_code": "HV6H+FF New York, NY, USA",
+        "global_code": "87G7HV6H+FF"
+      },
+      "reference": "ChIJXWocJl9JwokReFqgdjubFN8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561081,
+          "lng": -74.121315
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5624554302915,
+            "lng": -74.11993921970848
+          },
+          "southwest": {
+            "lat": 40.5597574697085,
+            "lng": -74.1226371802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Guyon Ave/Clawson St",
+      "place_id": "ChIJBU5DJl9JwokRTiZ5Qrsa8uM",
+      "plus_code": {
+        "compound_code": "HV6H+CF New York, NY, USA",
+        "global_code": "87G7HV6H+CF"
+      },
+      "rating": 4,
+      "reference": "ChIJBU5DJl9JwokRTiZ5Qrsa8uM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.559391,
+          "lng": -74.12257400000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5607778802915,
+            "lng": -74.12121706970849
+          },
+          "southwest": {
+            "lat": 40.5580799197085,
+            "lng": -74.1239150302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Brook Ave",
+      "place_id": "ChIJocyan19JwokRngP2i_wMlW4",
+      "plus_code": {
+        "compound_code": "HV5G+QX New York, NY, USA",
+        "global_code": "87G7HV5G+QX"
+      },
+      "reference": "ChIJocyan19JwokRngP2i_wMlW4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.563782,
+          "lng": -74.116722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56514988029149,
+            "lng": -74.11540691970849
+          },
+          "southwest": {
+            "lat": 40.56245191970849,
+            "lng": -74.1181048802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Tysens Ln",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101814017912517665021\">Richard Wells</a>"
+          ],
+          "photo_reference": "AU_ZVEEZyD9r3OJ-mxtd0hM0rZu-enziRnDtXQfqOKQtKgjkYr0WjJvzPHTXxE2LRCnNSaYBChK_a2-BdLXrc1FUtBr3d2w6Ni3RyzLqFdzNg4C5tGHuWDdeBaX2CyVMTdVYTRYKr7Yf8pv_W7D2HEAdHuwIVowTxOs7FSbcTtlQOhuLzo6k0NDtjRjCNM4qKUVR-H-v8PUZKgbs2Jl0mjpTP0NtDkzJ6cpXfbdMR55m0QLDZ8Ms3tRG_Jj6_FGiP8X6DR1nU0Qq6iAnP9KBLE-YZsJIYbNiJ0WF30ec73sZobumcypYkQmaJL_SWs2GysQ5XcXOgNvNn5XqxpW-J3hw-0LC2mG_N6ApjUYvUOOiXuogQ_5EpgLScCVG8LKcSQHRUyr7NW61GwnMBHiqFj9Li19Gz7YuTd0HOOvcziwsLxfQ9AvOERKWvw3PlKo6G_755J4OyMZ0B5r3KikMHnwDz9FL88RCzBYajMznymZUL68yKi1LSX64t05nf9v8Z6xREgStPf3L1E_6PAN_QTUEAuwexDFVZTH2tdAL_Q0TWU5nqxE2_lAFPt_MzOerand1jQaAQ4LosRXOZdJV-6iCTB39ghJhX6OoI6cd-QJvzgMe6u68kC1swIN1BKuaE9XjeZi9clBD",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJTdoVNVpJwokR8wUJMAvyaiA",
+      "plus_code": {
+        "compound_code": "HV7M+G8 New York, NY, USA",
+        "global_code": "87G7HV7M+G8"
+      },
+      "rating": 4.7,
+      "reference": "ChIJTdoVNVpJwokR8wUJMAvyaiA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561295,
+          "lng": -74.121414
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5626256802915,
+            "lng": -74.1200843197085
+          },
+          "southwest": {
+            "lat": 40.5599277197085,
+            "lng": -74.12278228029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Guyon Ave/Clawson St",
+      "place_id": "ChIJL1fKKF9JwokRSoP4rt7QZhM",
+      "plus_code": {
+        "compound_code": "HV6H+GC New York, NY, USA",
+        "global_code": "87G7HV6H+GC"
+      },
+      "reference": "ChIJL1fKKF9JwokRSoP4rt7QZhM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.564049,
+          "lng": -74.110535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5653261302915,
+            "lng": -74.10919201970849
+          },
+          "southwest": {
+            "lat": 40.5626281697085,
+            "lng": -74.11188998029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Ebbitts St",
+      "place_id": "ChIJy64RE0VJwokR2aSyUhRkAaI",
+      "plus_code": {
+        "compound_code": "HV7Q+JQ New York, NY, USA",
+        "global_code": "87G7HV7Q+JQ"
+      },
+      "rating": 3,
+      "reference": "ChIJy64RE0VJwokR2aSyUhRkAaI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5641215,
+          "lng": -74.110325
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5654788302915,
+            "lng": -74.10899411970848
+          },
+          "southwest": {
+            "lat": 40.5627808697085,
+            "lng": -74.11169208029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Ebbitts St",
+      "place_id": "ChIJVbGMbEVJwokRDsMtMHaH710",
+      "plus_code": {
+        "compound_code": "HV7Q+JV New York, NY, USA",
+        "global_code": "87G7HV7Q+JV"
+      },
+      "reference": "ChIJVbGMbEVJwokRDsMtMHaH710",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56361749999999,
+          "lng": -74.108795
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5649951302915,
+            "lng": -74.1074208697085
+          },
+          "southwest": {
+            "lat": 40.5622971697085,
+            "lng": -74.11011883029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Cuba Av",
+      "place_id": "ChIJ18-so0VJwokRYIF48lW6Iso",
+      "plus_code": {
+        "compound_code": "HV7R+CF New York, NY, USA",
+        "global_code": "87G7HV7R+CF"
+      },
+      "reference": "ChIJ18-so0VJwokRYIF48lW6Iso",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56353000000001,
+          "lng": -74.10875700000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56490498029149,
+            "lng": -74.1073852197085
+          },
+          "southwest": {
+            "lat": 40.5622070197085,
+            "lng": -74.11008318029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Cuba Ave",
+      "place_id": "ChIJqxN1o0VJwokRm1uIk83qacM",
+      "plus_code": {
+        "compound_code": "HV7R+CF New York, NY, USA",
+        "global_code": "87G7HV7R+CF"
+      },
+      "reference": "ChIJqxN1o0VJwokRm1uIk83qacM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56266,
+          "lng": -74.107033
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5640048802915,
+            "lng": -74.1056760697085
+          },
+          "southwest": {
+            "lat": 40.5613069197085,
+            "lng": -74.1083740302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Manila Pl",
+      "place_id": "ChIJG6Lr0UVJwokRZROL7W7cq2g",
+      "plus_code": {
+        "compound_code": "HV7V+35 New York, NY, USA",
+        "global_code": "87G7HV7V+35"
+      },
+      "rating": 5,
+      "reference": "ChIJG6Lr0UVJwokRZROL7W7cq2g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56422800000001,
+          "lng": -74.11033599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56555528029151,
+            "lng": -74.10894081970848
+          },
+          "southwest": {
+            "lat": 40.56285731970851,
+            "lng": -74.1116387802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Ebbitts St",
+      "place_id": "ChIJz8QUbEVJwokRtwyTgl8AboE",
+      "plus_code": {
+        "compound_code": "HV7Q+MV New York, NY, USA",
+        "global_code": "87G7HV7Q+MV"
+      },
+      "reference": "ChIJz8QUbEVJwokRtwyTgl8AboE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56370500000001,
+          "lng": -74.10883299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5650378802915,
+            "lng": -74.1074981197085
+          },
+          "southwest": {
+            "lat": 40.5623399197085,
+            "lng": -74.1101960802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Cuba Ave",
+      "place_id": "ChIJHx1qokVJwokRCQ6CTgcaNms",
+      "plus_code": {
+        "compound_code": "HV7R+FF New York, NY, USA",
+        "global_code": "87G7HV7R+FF"
+      },
+      "rating": 5,
+      "reference": "ChIJHx1qokVJwokRCQ6CTgcaNms",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56459,
+          "lng": -74.115494
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5659412802915,
+            "lng": -74.1141426197085
+          },
+          "southwest": {
+            "lat": 40.5632433197085,
+            "lng": -74.11684058029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Reno Ave",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101814017912517665021\">Richard Wells</a>"
+          ],
+          "photo_reference": "AU_ZVEEDiFWmO4Rk2Ix9Jf26lauGOcqJoiUUje1H1zGng5vm7TS57GipdFkJ9m-6AcsbeM9q5RYtYMxEZEcHDYufkUOGPJmHORf0me73saX_8EyKkT5rGfi-v8nOP44rJaJiogHRdwHs1Ab4RyrQfcOHPqlIsMwSfHsuza8QnmChNm7ED--zX0V041Wy6IaP3lSk9a5jHwRoKyF0EZflz1IWdSkyW_4nX1uocsZrpUma6ep1MZA3UHYV06dMlE3eVeqngDvRvoxKFY0SFa_1au7-6AgdmxI2lO7LLan_mwh4PSaP3zE4wqZt8YxHk4n9twj598aMo9gYRKj4bVi9USaF556dxdaiAwbi4bdOkIAxEBwf147JHt3C_F67_HAKUF01kqGbTao7QJORL9AShqfm-nznBUm3EnYKk3gUq0Io99sQA4XtNQf_e9MvkovbL8TW2lOJLV2F_FzZkBJuJ96u2U5LphliXodbrYsVvXvPp6NzsrFtwmGV1eLGXlntpTUc6DilleSvXk7Yl60HKCzfD4X2T8r_vYsjcFVoVk2dBIwTybVhtrerkeniSfCcK3e5VuJl6TyAV7BpIUhPoAq_0FZDIIBJNFIcUltgKPS55aImuDThRBInI_FhVHSBffCGmrxbeA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ1W5lXlpJwokRGPEL9WP1YjI",
+      "plus_code": {
+        "compound_code": "HV7M+RR New York, NY, USA",
+        "global_code": "87G7HV7M+RR"
+      },
+      "rating": 5,
+      "reference": "ChIJ1W5lXlpJwokRGPEL9WP1YjI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.564194,
+          "lng": -74.110115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5655626302915,
+            "lng": -74.10881076970848
+          },
+          "southwest": {
+            "lat": 40.5628646697085,
+            "lng": -74.11150873029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mill Rd/Ebbitts St",
+      "place_id": "ChIJ8a7sbUVJwokRLJp3QvLL3Rk",
+      "plus_code": {
+        "compound_code": "HV7Q+MX New York, NY, USA",
+        "global_code": "87G7HV7Q+MX"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ8a7sbUVJwokRLJp3QvLL3Rk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.562767,
+          "lng": -74.106956
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5640899802915,
+            "lng": -74.1056309697085
+          },
+          "southwest": {
+            "lat": 40.5613920197085,
+            "lng": -74.1083289302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Winham Ave",
+      "place_id": "ChIJ-TxR0EVJwokRE9swFk7JFcc",
+      "plus_code": {
+        "compound_code": "HV7V+46 New York, NY, USA",
+        "global_code": "87G7HV7V+46"
+      },
+      "reference": "ChIJ-TxR0EVJwokRE9swFk7JFcc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56190499999999,
+          "lng": -74.1054195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5632812802915,
+            "lng": -74.1040450197085
+          },
+          "southwest": {
+            "lat": 40.56058331970851,
+            "lng": -74.1067429802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Finley Av",
+      "place_id": "ChIJX_UHiUZJwokRWwjlQ4PpwTo",
+      "plus_code": {
+        "compound_code": "HV6V+QR New York, NY, USA",
+        "global_code": "87G7HV6V+QR"
+      },
+      "reference": "ChIJX_UHiUZJwokRWwjlQ4PpwTo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561825,
+          "lng": -74.105408
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5631983302915,
+            "lng": -74.1040367197085
+          },
+          "southwest": {
+            "lat": 40.56050036970851,
+            "lng": -74.10673468029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Finley Ave",
+      "place_id": "ChIJv2A9iUZJwokRmwKJY1SJTtA",
+      "plus_code": {
+        "compound_code": "HV6V+PR New York, NY, USA",
+        "global_code": "87G7HV6V+PR"
+      },
+      "reference": "ChIJv2A9iUZJwokRmwKJY1SJTtA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56198099999999,
+          "lng": -74.105431
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5633124802915,
+            "lng": -74.10409841970849
+          },
+          "southwest": {
+            "lat": 40.5606145197085,
+            "lng": -74.1067963802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Finley Ave",
+      "place_id": "ChIJPd7JiUZJwokRepSdi4-CIOg",
+      "plus_code": {
+        "compound_code": "HV6V+QR New York, NY, USA",
+        "global_code": "87G7HV6V+QR"
+      },
+      "rating": 5,
+      "reference": "ChIJPd7JiUZJwokRepSdi4-CIOg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5651415,
+          "lng": -74.11505149999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5664732802915,
+            "lng": -74.11367301970849
+          },
+          "southwest": {
+            "lat": 40.5637753197085,
+            "lng": -74.11637098029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Cannon Bl",
+      "place_id": "ChIJsxtOiFpJwokRTabPVKHlOw8",
+      "plus_code": {
+        "compound_code": "HV8M+3X New York, NY, USA",
+        "global_code": "87G7HV8M+3X"
+      },
+      "reference": "ChIJsxtOiFpJwokRTabPVKHlOw8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.565113,
+          "lng": -74.11483799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5664632802915,
+            "lng": -74.11349121970851
+          },
+          "southwest": {
+            "lat": 40.5637653197085,
+            "lng": -74.11618918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Cannon Blvd",
+      "place_id": "ChIJe-rTiFpJwokRE3m3c3VCZoY",
+      "plus_code": {
+        "compound_code": "HV8P+23 New York, NY, USA",
+        "global_code": "87G7HV8P+23"
+      },
+      "reference": "ChIJe-rTiFpJwokRE3m3c3VCZoY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56516999999999,
+          "lng": -74.115265
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5665110302915,
+            "lng": -74.11392336970847
+          },
+          "southwest": {
+            "lat": 40.5638130697085,
+            "lng": -74.1166213302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Cannon Blvd",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110103401246680364161\">Jason Lindelof</a>"
+          ],
+          "photo_reference": "AU_ZVEHvGtPclQ2Q5QULa0BTuiaezsn-SmsFZgelploKnHAyFuqcZdl2TuMUpgFw_hGUCe4qXG-BofdaCljM8Axsg_9BHkzVolExVCAEmMHkiu7ekZQ_O7DUnE5GIWfvwom9QWVTDn_yjGLfO33r0BmaJR-bUEApRtmPYH4Zk9A4M-vkG7Ca90EnRZr1I8UMasE8VykNJcETLWXKF_uMl0_WcFNuCJpLs7kDMHIKXnWtakmTUC2Z-24rCRNxLC0kgbSzeyZHJtWeYcZ3ak_gvfJsWwMcET1w7oWzSR8xOR3fAgQW5PrYT6OtF_sWJHbeYCNXPoYpxP-E2nuzQ3chsX5VuNeaqd9nQOuRV44AHKGkdD_R9nwyTo6yFIjolQSP4jTBrA6SEynTpeBTSfbJIFm4Yu5Y4lTJ5862AxvDvtKbHq1pKZZdudxchjLlkBtqG3Aoajqurlwmnj0hsdSK37RQ0n_CMps1f3TJWTsdyP8R5uvgcNJQZnHrVwxoJn3X6WXBYQnMJ52btaUOyVJ39J4yx8Ii4Hsi6c_4IGcUVK6osegOXsgb5tt-tGKhX5xCvxyuweKinFX0rhjX8UrcqsY3tRwT_eWWYY7njeYy7uuV7EtmajZlbKHO23FjexUVDKiBRe8VmKXA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJUXqMYlpJwokRhEm6TISEsDs",
+      "plus_code": {
+        "compound_code": "HV8M+3V New York, NY, USA",
+        "global_code": "87G7HV8M+3V"
+      },
+      "reference": "ChIJUXqMYlpJwokRhEm6TISEsDs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561188,
+          "lng": -74.10430099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56256498029149,
+            "lng": -74.1029231697085
+          },
+          "southwest": {
+            "lat": 40.5598670197085,
+            "lng": -74.10562113029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Roma Ave",
+      "place_id": "ChIJQ3i570ZJwokRB-TAvg6SOyc",
+      "plus_code": {
+        "compound_code": "HV6W+F7 New York, NY, USA",
+        "global_code": "87G7HV6W+F7"
+      },
+      "rating": 5,
+      "reference": "ChIJQ3i570ZJwokRB-TAvg6SOyc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561186,
+          "lng": -74.1041565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5625620302915,
+            "lng": -74.1027799197085
+          },
+          "southwest": {
+            "lat": 40.5598640697085,
+            "lng": -74.1054778802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Roma Av",
+      "place_id": "ChIJHxxe5UZJwokRPBIxveKbUSY",
+      "plus_code": {
+        "compound_code": "HV6W+F8 New York, NY, USA",
+        "global_code": "87G7HV6W+F8"
+      },
+      "reference": "ChIJHxxe5UZJwokRPBIxveKbUSY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55968499999999,
+          "lng": -74.12430599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5610168802915,
+            "lng": -74.12295156970849
+          },
+          "southwest": {
+            "lat": 40.5583189197085,
+            "lng": -74.12564953029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Champlain Av",
+      "place_id": "ChIJ6fVCK-BLwokR9SK2VD6BHqQ",
+      "plus_code": {
+        "compound_code": "HV5G+V7 New York, NY, USA",
+        "global_code": "87G7HV5G+V7"
+      },
+      "reference": "ChIJ6fVCK-BLwokR9SK2VD6BHqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561184,
+          "lng": -74.104012
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56251028029149,
+            "lng": -74.1026862197085
+          },
+          "southwest": {
+            "lat": 40.55981231970849,
+            "lng": -74.10538418029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Roma Ave",
+      "place_id": "ChIJt1Ih5UZJwokR7QZQQcpienQ",
+      "plus_code": {
+        "compound_code": "HV6W+F9 New York, NY, USA",
+        "global_code": "87G7HV6W+F9"
+      },
+      "rating": 5,
+      "reference": "ChIJt1Ih5UZJwokR7QZQQcpienQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.565521,
+          "lng": -74.112297
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56683863029149,
+            "lng": -74.11098176970849
+          },
+          "southwest": {
+            "lat": 40.56414066970849,
+            "lng": -74.1136797302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Hylan Blvd",
+      "place_id": "ChIJW6oIAFBJwokRb2K4UwoKqk4",
+      "plus_code": {
+        "compound_code": "HV8Q+63 New York, NY, USA",
+        "global_code": "87G7HV8Q+63"
+      },
+      "rating": 4,
+      "reference": "ChIJW6oIAFBJwokRb2K4UwoKqk4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.559101,
+          "lng": -74.125153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5604656802915,
+            "lng": -74.12382551970849
+          },
+          "southwest": {
+            "lat": 40.5577677197085,
+            "lng": -74.1265234802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Montreal Ave",
+      "place_id": "ChIJCX6dOeBLwokRFB5e2CTX1WU",
+      "plus_code": {
+        "compound_code": "HV5F+JW New York, NY, USA",
+        "global_code": "87G7HV5F+JW"
+      },
+      "reference": "ChIJCX6dOeBLwokRFB5e2CTX1WU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.562416,
+          "lng": -74.123238
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5637358302915,
+            "lng": -74.12191941970849
+          },
+          "southwest": {
+            "lat": 40.5610378697085,
+            "lng": -74.1246173802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Guyon Ave/Elmira St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118148905604434368538\">G L</a>"
+          ],
+          "photo_reference": "AU_ZVEF_CHfwIBDJ4_lWv8VP45osAtXbCqdQECpcE67F2AIphf9XRB9yIBOs6p24Zoo-bnbN9g4MUjM5XD9_VGIFFNN2VBBIOjL9qalYo2WE1-_Eqh-7SRI__pd77K2PjlnfmtgqhdF2X9ZGt5E_1YWtu3AFpspq5Wqq5wVALnZUwpG-Fl1_vf4dfJwbzIA4GYZ1da87xDVJ0n4OeWrcdw8FuMCB4-em7fxKCifHPqWmGB7Oodzk8hdiGsbwbSwtKiyLm8gAFL_IJYR_bZAQY0_y55iS89Ndmtl4CkVnnP1_a2ACPZhbITQkQAPHHG6zJQ7QZJM8qhu49xKi6YXDiOEoFCxBPYrjJFXx2eWHgtZOlSnbshomjhqgr2XU3IRLM6_NQSv4eCMBN6FUzCMypwkJey7UUiqyaeCJGzgVc7zuBAJXhTdBmWTKzRAIwbAmmor2y3sm02ukMawGhwrZjZXbTP4Ow4Vc7sTOGrfYbtyWhX4tAAW9oOjSd1csHQOJxtAb2qVzKVcOP9-EM5Kbo16OZ_HWq0qREYve6P0Tfi0D6TIxHNx12M4bDRsSjZpzzlfVqP4A_zeu0TcuGM05wMMEe0ybShA3AQKTiQosvnjafhg50IfrO6xGByAKjNfHNwFXnqf00yCHpjBx5MfF6SSASQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ7_77sVhJwokRdcYQ2rOYTIA",
+      "plus_code": {
+        "compound_code": "HV6G+XP New York, NY, USA",
+        "global_code": "87G7HV6G+XP"
+      },
+      "reference": "ChIJ7_77sVhJwokRdcYQ2rOYTIA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.565987,
+          "lng": -74.113106
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56730243029149,
+            "lng": -74.1117923697085
+          },
+          "southwest": {
+            "lat": 40.5646044697085,
+            "lng": -74.1144903302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ebbitts St/Hylan Blvd",
+      "place_id": "ChIJKQ0vD1BJwokRzGPK_erDPgU",
+      "plus_code": {
+        "compound_code": "HV8P+9Q New York, NY, USA",
+        "global_code": "87G7HV8P+9Q"
+      },
+      "reference": "ChIJKQ0vD1BJwokRzGPK_erDPgU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

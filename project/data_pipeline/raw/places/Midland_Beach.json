@@ -1,0 +1,2663 @@
+{
+  "neighbourhood": "Midland Beach",
+  "centroid": {
+    "lat": 40.572942818181815,
+    "lon": -74.09045245454546
+  },
+  "fetched_at": "2026-04-06T14:41:01.351862+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57203729999999,
+            "lng": -74.0951607
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57343058029149,
+              "lng": -74.09378286970849
+            },
+            "southwest": {
+              "lat": 40.57073261970849,
+              "lng": -74.09648083029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-351-7575",
+        "name": "Lilya's Restaurant & Grill Cafe Gourmand",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1514,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100407652999051251251\">Lilya&#39;s Restaurant &amp; Grill Cafe Gourmand</a>"
+            ],
+            "photo_reference": "AU_ZVEG8oAxsbsWNoLoeR-Nt-qGLYxzpdmmj6uxUbvq8gRavRvzfrVdMpcw-Q0fjNVhsyCTIHigCZztgfVO2b5SobkG8xu7SEDwqgpDnIrUJ8QsLdOfNvsb9KY51OiEVdglWuyDUxgFL25O4CzAMt1UsvkrvDUN8ZaBE0y7_nkc8Lee2SbcpjSb7BhmdjQ3gswKSHDCdba7sVw2vDvHSap20b-ILAmloWIlP5hEmqL9jz-_CFTX-15FIxRAlMG502CbFGwIi7beXKhguLJvgg2YgYmaaoNLVMhJcL2sF1EmmPFrTlihOLwnlF0eCraxmRc_RRIRu1MDz-q0",
+            "width": 2692
+          }
+        ],
+        "place_id": "ChIJK8bBozRJwokRNy88hNFUgFA",
+        "plus_code": {
+          "compound_code": "HWC3+RW Staten Island, NY, USA",
+          "global_code": "87G7HWC3+RW"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJK8bBozRJwokRNy88hNFUgFA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 398,
+        "vicinity": "548 Lincoln Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57252820000001,
+            "lng": -74.0928067
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5738028302915,
+              "lng": -74.09145136970848
+            },
+            "southwest": {
+              "lat": 40.5711048697085,
+              "lng": -74.0941493302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-987-8888",
+        "name": "New Everybody's Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+            ],
+            "photo_reference": "AU_ZVEE1Jbc3MeTn9ugTrllQ9MrJjI2YfLGnwJfXRfVBRlidw_lxCpQYnpDZWbtgw1wOjx14YFudIqqstanFvzCyFp_oYNKNhjhh3vwmLq62tR4NcijgRZgcQFkQHopykOiFUF13d5jIWOTkaRPWuCV2G1NqMb4f_B-nlyqW-qMxWjHh9K6fEIka_VBy8jpj6WpWuwSe2KKRttMRsghb8k05i4pM8LPobeY-lr6Owl4OokNzJgfIDB33XdJGmq2613leZ5bhh8M15T-c7-s-r16njNbe7UPB42d-PiVlRITn79X5nS4WifjZU2gOPUgZsPVmpp2z4eDlRL9gSaOd5SyOhAvtYWe7_5wn22YdpObELi4fJ3FnEa6CoRtsBTKsfJ99X60KPbiIL6cgvSvlOeVoWpDRsIE8HHveNidb2G2Nmob-9LJwkmGiyf-iPDCRldh4J7lPkFXDRWa9XEQOL2WEBNqohrxZ5TZ_mdUOGMhkw5k62xa9gVkh1mjy95vEX6fQy9FLn6MqynEz-j5aaU2-ZSksigSOeenxR13LaFfeJw951-4j2z4xna7IBuqINFS2grLBl90d8-Mo5XqWAkxXgkrS9xs-I08ikTyjyVU20gUL_galuGcIbP1htHw1cKwkLdQSmg",
+            "width": 750
+          }
+        ],
+        "place_id": "ChIJ7_nCMzNJwokRs9NVVLP8Xxg",
+        "plus_code": {
+          "compound_code": "HWF4+2V Staten Island, NY, USA",
+          "global_code": "87G7HWF4+2V"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ7_nCMzNJwokRs9NVVLP8Xxg",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 112,
+        "vicinity": "581 Midland Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5711299,
+            "lng": -74.091494
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5725201802915,
+              "lng": -74.0900929697085
+            },
+            "southwest": {
+              "lat": 40.5698222197085,
+              "lng": -74.0927909302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Corner Caffe",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105747576132217094245\">Catherine Liang</a>"
+            ],
+            "photo_reference": "AU_ZVEHkQPxpyvkFL88PxInGnYMmYw0HhmXXFkNODh2Ime8d7U3B87mQPW-1CJUmWIYa6Ytxzgw9YEQ4s0w3GzmkUWXJfeNOHv7bfSrreBjQAmCaOl5b2QWZ2fDZh6Jlb1Q-QQdTcaL__w19Roihg-w1-82x2Eicn4zjqBLrsFUGnPX5SPLPMZcM1MSfiRP8ybFL80VBmAWfPsh3iqyVX6frNrr_ha66M3uzmrcaPCkxApc1d37ToV1xIBGF4jwnkLXawf3lc4XRe5eOPU6pcB8kOa-lqin3CwiBCYuQSd9Niq8N4dy9afHaE2gDLBp35cSXboc64FGi2cf4CE9B0NFMWGsGzIWoesd88kC85QXCZt1KyfcgI3JZt9Gp-Q-j8eieJpZt6h0VYY-VRdy-QGAf7j93jPG8LJkDrX9KhM90XX50vNwgJF931QxenKFhwihoPwCqn32x-YVepMdkgZ_D-vUEkRnm-Jd1W2AU8oWGRFBtMO4it-jriX6B_MTChZBflV6ZFxm_Agq-88LZdOQ2FaMKLgZ2nSYx-NzRBwiMg7MHcyNturuEaEXXUZ-LpmqnO-mDBRjjLUjYCT0-DZOHefEdJiNyjCiC0h14VkcJrpvSPnI4SiEDxMWGo28-yUANSYwjSZO-adfXzECBHYentkKw3xo",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJAwU4MQBJwokRABBNCf2dUpY",
+        "plus_code": {
+          "compound_code": "HWC5+FC Staten Island, NY, USA",
+          "global_code": "87G7HWC5+FC"
+        },
+        "rating": 5,
+        "reference": "ChIJAwU4MQBJwokRABBNCf2dUpY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "628 Midland Avenue, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5711266,
+            "lng": -74.0915153
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5725185302915,
+              "lng": -74.0901036197085
+            },
+            "southwest": {
+              "lat": 40.5698205697085,
+              "lng": -74.0928015802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-524-4022",
+        "name": "Arka Mediterranean",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106071270271246979372\">Arka Mediterranean</a>"
+            ],
+            "photo_reference": "AU_ZVEE8BifdT6vQkHwl6pnoKTo97ysvhUPIw8_xPUL4RQAbe66hLlYxDv3uEC8zNHElJZ1Q92S0SMTt3p56nTnO2ec0kPILNypYMZiHv4-Ay0u3-Ar0ENMChhZmpJWA_TDAFYjW8JQ-KDsNS6XbMqjBEoSAs10NsxDDzkwoWe0PqUSPE40ecHwMM2oaLasFcJdLw1aZigiVUwJ21gK04A6mV3VZmpCHMUEqc35yPm6_495lFLaNDjPVLufw28gJd03iCu0ooSH0GJ2hmHHctpdu8kPxLZME6SS6p8TRbhhkwMy6nDFkPEEviJ7uDIYVqnXtPyR_znl1fbQ",
+            "width": 1800
+          }
+        ],
+        "place_id": "ChIJCxl5HQBJwokR3hOtKdKQLyk",
+        "plus_code": {
+          "compound_code": "HWC5+F9 Staten Island, NY, USA",
+          "global_code": "87G7HWC5+F9"
+        },
+        "rating": 5,
+        "reference": "ChIJCxl5HQBJwokR3hOtKdKQLyk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 78,
+        "vicinity": "628 Midland Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5721968,
+            "lng": -74.0933692
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5736545302915,
+              "lng": -74.09197276970849
+            },
+            "southwest": {
+              "lat": 40.5709565697085,
+              "lng": -74.0946707302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-682-1550",
+        "name": "Amalfi Coast Pizzeria and Restaurant Inc",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110208627825751912875\">Amalfi Coast Pizzeria And Restaurant</a>"
+            ],
+            "photo_reference": "AU_ZVEEWYaLz_nRYtR05o1pvqP0yKOoQTGh5AQPVr0tZuZq0hY588JAs1vi0QoS-vGMSrRbKBteH9ifuhyEVVGlD-fVMr3xTQeQX_msVmEn7F4UaqVfitdecveVHdHWGhSGmQ19cjvuwz9FrQrODJNamN1ih1YoEFYrPHaXXxHu1HM4jBkIPZ0susBupJcXgd0fTaRuypK3yKjXTV6Z0MbA08wFz_gi4IL-i8yhX3Le1pP6peKawl22QCzcvmaRFaXe1NkPFN8cWIrsZWWB7odOtSlXhEGDJVtci87DPeQgnmiVW6ZkBSn3CJ0uBr__rndDM-f5lSThLRKw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJqZqEiAZJwokRJigwzZYbIq4",
+        "plus_code": {
+          "compound_code": "HWC4+VM Staten Island, NY, USA",
+          "global_code": "87G7HWC4+VM"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJqZqEiAZJwokRJigwzZYbIq4",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 77,
+        "vicinity": "572 Midland Avenue, Staten Island"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5754852,
+            "lng": -74.0946274
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5768962302915,
+              "lng": -74.09339321970849
+            },
+            "southwest": {
+              "lat": 40.5741982697085,
+              "lng": -74.0960911802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Charming 1 Bdr Apt. First floor, private, safe, in serene SI, near all!",
+        "place_id": "ChIJXy26KctOwokReyPHfEDewzw",
+        "plus_code": {
+          "compound_code": "HWG4+54 New York, NY, USA",
+          "global_code": "87G7HWG4+54"
+        },
+        "reference": "ChIJXy26KctOwokReyPHfEDewzw",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5737381,
+            "lng": -74.0974426
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5750772802915,
+              "lng": -74.09627351970849
+            },
+            "southwest": {
+              "lat": 40.5723793197085,
+              "lng": -74.0989714802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Charming 1 Bdr Apt. First floor, private, safe, in serene SI, near all!",
+        "place_id": "ChIJFX-8KctOwokRtGnMzq9e4tU",
+        "plus_code": {
+          "compound_code": "HWF3+F2 New York, NY, USA",
+          "global_code": "87G7HWF3+F2"
+        },
+        "reference": "ChIJFX-8KctOwokRtGnMzq9e4tU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5737495,
+            "lng": -74.09745029999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5751454302915,
+              "lng": -74.0961897197085
+            },
+            "southwest": {
+              "lat": 40.5724474697085,
+              "lng": -74.09888768029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Charming 1 Bdr Apt. First floor, private, safe, in serene SI, near all!",
+        "place_id": "ChIJXy26KctOwokRdpBgoEQsdyE",
+        "reference": "ChIJXy26KctOwokRdpBgoEQsdyE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5762928,
+            "lng": -74.098669
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5773295802915,
+              "lng": -74.09761231970849
+            },
+            "southwest": {
+              "lat": 40.5746316197085,
+              "lng": -74.1003102802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Midland Field",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105883553050641660357\">Midland Field</a>"
+            ],
+            "photo_reference": "AU_ZVEFFrS5YDRUkGszXkLi_zxcMQdphjcA8qSyHZClC3_rHL4WkUeUuuxe1oQhaKFG_pqahHt6kO--IX4suJLMcobd7YzqHRF_37J5Jnhn3E-Fm9xTko6Mb2lTQ0VAKwa1StGl0QjBLtPNVOWzS_c62sZTD9-n8ae-KF-GgFE1rwqmSzzcrMevGA7hDN9uTZnnFnnrsbyIM-BCgVEE0dBHlbmYUledpRmmwAGxznyDV6Ak28ZQc1tgGjNuPgZAn_T-t5bR9N943FUf1oSi2Kp0XHtNn6Tyv94DcKR9OfjRNa2gYKTftmqtQtQvAYgW6MbEv66dWkziYjyY",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJSztYWMpOwokRCfB5UkhRN1Y",
+        "plus_code": {
+          "compound_code": "HWG2+GG Staten Island, NY, USA",
+          "global_code": "87G7HWG2+GG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJSztYWMpOwokRCfB5UkhRN1Y",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 77,
+        "vicinity": "5119, 333 Midland Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57598309999999,
+            "lng": -74.1008715
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5774999802915,
+              "lng": -74.09924891970849
+            },
+            "southwest": {
+              "lat": 40.5748020197085,
+              "lng": -74.10194688029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Park",
+        "place_id": "ChIJsZrmfrVOwokRbA9PB2oskqQ",
+        "plus_code": {
+          "compound_code": "HVGX+9M Staten Island, NY, USA",
+          "global_code": "87G7HVGX+9M"
+        },
+        "rating": 4,
+        "reference": "ChIJsZrmfrVOwokRbA9PB2oskqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 21,
+        "vicinity": "333 Midland Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5731771,
+            "lng": -74.08474389999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57461713029149,
+              "lng": -74.08354086970849
+            },
+            "southwest": {
+              "lat": 40.57191916970849,
+              "lng": -74.0862388302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Turtle Fountain",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107781565966703880887\">Kevin Morris</a>"
+            ],
+            "photo_reference": "AU_ZVEFlJAZr167kqLGD_p7Esnr9X8fx5S44TqTR42cdWKOrQjj0kI5auSIWllLJmeBc55FjYyYlk7-uw-VmZi-E605WZROIrytVYDjKexZxVqPF_tCTvNsFHqLGuRv5XH1jkJx3iBweArvTQ3ZQWiUAC9WFdjt4s9FDLfU2TOUVgfF1JLDEEUhrjrnFXVTalgBEjkzoX8hd8pTpEroUhF2w6OJGyFTACGCdCR1RBW4QcgeNAajcSJBb0nYeWpzSUkhxhxv5t4CzG3jULEqutUlZgQG-SFqJHFUNBySFz_LelAY00YNeqHWlXVOcjMnhywH6s3avS7oj-ae8T6QnhspgvPeEWEcPE4DWClK4fGnXlpzPAZuIG0tCqae2gm6aNS2kY-43q5ra7aFEdrwCxMTyzW9hsdRFgNmsWEBu3Cj_Cv7gV9D8ISnZLe0rGzgDkai39M5anhZ1136n4duuQ8tWEEYpACqPXzMqZF-CnF3Sinq4CFXgNeehwR70K39z7Fwgsy4mCJDmsrs8VDbnV6wAZYN9xekfi_eEQC-ZlZ19tCL2INmgQFoxVWV2x8GOenrH_NdzzHZ4DA84ifABI64By865EV0b7vQeXxox5bMcd6XmJ_RsPDGVUyLb85i1A57Xp1ywHWjV",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJQ7zVMwBPwokRONyiKL-fVzo",
+        "plus_code": {
+          "compound_code": "HWF8+74 Staten Island, NY, USA",
+          "global_code": "87G7HWF8+74"
+        },
+        "rating": 3.9,
+        "reference": "ChIJQ7zVMwBPwokRONyiKL-fVzo",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "Midland Beach, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5728745,
+            "lng": -74.09414249999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5742055302915,
+              "lng": -74.09280996970848
+            },
+            "southwest": {
+              "lat": 40.5715075697085,
+              "lng": -74.0955079302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Av/Freeborn St",
+        "place_id": "ChIJi-3MrMxOwokRrnaGYJ480C4",
+        "plus_code": {
+          "compound_code": "HWF4+48 New York, NY, USA",
+          "global_code": "87G7HWF4+48"
+        },
+        "reference": "ChIJi-3MrMxOwokRrnaGYJ480C4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57122,
+            "lng": -74.090042
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5725527302915,
+              "lng": -74.08866471970849
+            },
+            "southwest": {
+              "lat": 40.5698547697085,
+              "lng": -74.0913626802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Hempstead Ave",
+        "place_id": "ChIJISD-vjJJwokRiNz_C4wQSWc",
+        "plus_code": {
+          "compound_code": "HWC5+FX New York, NY, USA",
+          "global_code": "87G7HWC5+FX"
+        },
+        "reference": "ChIJISD-vjJJwokRiNz_C4wQSWc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.571201,
+            "lng": -74.090897
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5725248802915,
+              "lng": -74.08957121970849
+            },
+            "southwest": {
+              "lat": 40.5698269197085,
+              "lng": -74.0922691802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Ave/Patterson Ave",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117888853951251129735\">Joey C</a>"
+            ],
+            "photo_reference": "AU_ZVEEN9GTY4iGG2x3FXbxuRf61li5opWIPQNU8X5k_BXZG5nfbXNkxxhC4UphtfYxpc0m86bGFYgu0JsIFzK4X7biCfWwMuq9qHJexFiuPGcJWPy-4vFHtiFdZ5hcNxx0aTIktwh0tQiIIcf13qdK1dAmyeXrPQ_5p_Yz8a3y_ZUxjEiWI3bvj0SmsbD2ump8woMcs-9stMuq9Pxj7g9McENzVCfcGClj3rDmGo5eTVm1A6Uy-gXnaQiWP8Y9X3eKpmrio6rjnhTlaaL6K9As3J4KprCJOnTPS9VPMwza03CJIvldQiXe6HHhxkBUSZM3fCz4T6eiXG0g1X3tvV5rw0H6EiyINynNMoTYxPPMe2MIGgfWp4mJflLjQu2Y8YF1FfH7R-OGtQ5haaVx_N_n_FuhoTuZRGN6fLMx9lfMSYMxN8wQ7yquOcqFbWSTXZfuX9IQigQ8b9HhhLkfSXx4LGBqAqdXip8wfkR-3UrFH62Lir9aBjoyh5TfSKsEpi79v_UFXg2ULR2bSiYd4hOa2eMqnhpBvyxTWuldJ_DklL3UUHv-HFwdFtsaMNj-eUFhikJUQqCtXGNlAf_JRzf6B6Nj6cOxZ6s-jblBcr-UJKPXTnWuLUa6HYdKdavvP1G8XVx5c_g",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJS4ukwjJJwokROS6GpjEAyyQ",
+        "plus_code": {
+          "compound_code": "HWC5+FJ New York, NY, USA",
+          "global_code": "87G7HWC5+FJ"
+        },
+        "reference": "ChIJS4ukwjJJwokROS6GpjEAyyQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57288,
+            "lng": -74.08779899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5742252302915,
+              "lng": -74.08644621970848
+            },
+            "southwest": {
+              "lat": 40.5715272697085,
+              "lng": -74.0891441802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Hunter Av",
+        "photos": [
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115456271580802602163\">Ackeem K. Duggan</a>"
+            ],
+            "photo_reference": "AU_ZVEFrEimKetbCEZJXNitDjWyL9UGCsfwDfGBCtgfjX5EBDFdvtjO3aROZ8Ip1C91YspxEOK6f2XePUxKEcjJa7KQZjZRcWTNu9Fo40iFn6v8fnoduLXU0JXhDJZiE29vRuGCY1FC0eg2EKNRVVAF-bqsNORyTvHql0hnl2O55wZ32XrcDdcQJHVe3AKPdZoVMQ_n4vUMqvP5qsGNw_1CgnTFm9fBJcu24CCf3PU3lfkEWwHUdREngQQWnxTcTc3quAYbtGPvyvijX2E9uJmv5jhnhbL8XP5NvoxR3cT6svAfRfgWtVDRNGE-gxBsl-aRFoglhI09a2CgT2xUG_t28R75gcmVXc58ZEvealpkmiNgrl3_BsSRZyZVTv7hH22eGy7IYO01-1FFyiK5DD2vo64X4A980JI5ck_-_1EvtFu83LsXsHsl1wh2mBfzAAMbayhQbRiBawomXX64LGOrypfifPjCActjNEVQ__Nz5DgPkKqAX5YZA5TsWzVkOkG4A-HUwopC3V2Y60UZp3J1sw9xUK_0Nte_w4vu0UdA3LI6MWO5mkBYyIoqcjIckLz2l4UOIDnQSS11pCJS-Gil7HXwaxJEOO73-DjXBAzjIGAwyBvtDHRJ2ThZZrhl0_jZJ_w1mPA",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJCfk9vNJOwokRDw5QmsW_lzE",
+        "plus_code": {
+          "compound_code": "HWF6+5V New York, NY, USA",
+          "global_code": "87G7HWF6+5V"
+        },
+        "reference": "ChIJCfk9vNJOwokRDw5QmsW_lzE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57233799999999,
+            "lng": -74.092964
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5736585302915,
+              "lng": -74.0915628197085
+            },
+            "southwest": {
+              "lat": 40.5709605697085,
+              "lng": -74.0942607802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Ave/Colony St",
+        "place_id": "ChIJ3WyJNjNJwokRGqhtoO9T7lE",
+        "plus_code": {
+          "compound_code": "HWC4+WR New York, NY, USA",
+          "global_code": "87G7HWC4+WR"
+        },
+        "reference": "ChIJ3WyJNjNJwokRGqhtoO9T7lE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57082399999999,
+            "lng": -74.09053
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5722038302915,
+              "lng": -74.0891518697085
+            },
+            "southwest": {
+              "lat": 40.5695058697085,
+              "lng": -74.09184983029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Ave/Father Capodanno Blvd",
+        "photos": [
+          {
+            "height": 2088,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117888853951251129735\">Joey C</a>"
+            ],
+            "photo_reference": "AU_ZVEHNu4okC5bEgCxBtJSdCap2Su-KAGSUZV-mDtdfS8v0QxFsIYIVeTRRTVC-W42SIJbQ9d4i49maJxSxXiQMiG0Yy870Vc3yGDUBre8Xa8Chmd7Y32IfxYTNJ_YUMo_ChJKK4bVLtg_4ASGG_Mom5NnZ5r0JbRObhH6TDNlVT-Mzv2zTzm6Eoz0D7o0MlPNchqJPjaPxOFsxpIJv5k_U2d5XmgkEws-99ICErFBU47GqOPkJaeuN9gNYax0sNngN8z2zThqx-W2y7lrkUUDN65CK60L3728DKvTx_5Hxo7mfBs6mBfUauR2ksssV49P8dHpHVQ3JKCXtq500_HVA8OiviKjtcMwuXL6thxm-3sD8weCeUjMvmb2lzT7NVvww8fSbtA3yCkTv9NdhYLgNPj2HNhNLMPOm_OeqCFAgq3Z__eOzYHstKoBMGe1XNM69GzpnqXaojmcrqgWp9Ce8Dta2eP65ZviJkT7vp9VKfBQ-baarFDQFZyMs1ESwEinkEpMUKh7IIR3D3tvhF6dVS1HdC_eA7gkqUVcuFNCk6u6fqvM5I9O5MhltrDegAtEgQHEDGYhLwCQgBYtIdDBpYFgfjDKbmMlJZdYO4bT9YA0Mg3-RTZEbBzaWEEzrkcOfF_TlzELT",
+            "width": 4640
+          }
+        ],
+        "place_id": "ChIJAcD26zJJwokRDgeqnDkgke0",
+        "plus_code": {
+          "compound_code": "HWC5+8Q New York, NY, USA",
+          "global_code": "87G7HWC5+8Q"
+        },
+        "rating": 5,
+        "reference": "ChIJAcD26zJJwokRDgeqnDkgke0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572502,
+            "lng": -74.09358999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5738794302915,
+              "lng": -74.09221431970849
+            },
+            "southwest": {
+              "lat": 40.5711814697085,
+              "lng": -74.0949122802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Ave/Olympia Blvd",
+        "place_id": "ChIJgZobTDNJwokRpaFd8GEToh0",
+        "plus_code": {
+          "compound_code": "HWF4+2H New York, NY, USA",
+          "global_code": "87G7HWF4+2H"
+        },
+        "reference": "ChIJgZobTDNJwokRpaFd8GEToh0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572956,
+            "lng": -74.09419299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57430438029149,
+              "lng": -74.0928444697085
+            },
+            "southwest": {
+              "lat": 40.5716064197085,
+              "lng": -74.0955424302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Av/Freeborn St",
+        "place_id": "ChIJM26QrMxOwokRx5HvPReVvYg",
+        "plus_code": {
+          "compound_code": "HWF4+58 New York, NY, USA",
+          "global_code": "87G7HWF4+58"
+        },
+        "reference": "ChIJM26QrMxOwokRx5HvPReVvYg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574017,
+            "lng": -74.086266
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57534588029149,
+              "lng": -74.08489626970848
+            },
+            "southwest": {
+              "lat": 40.57264791970849,
+              "lng": -74.0875942302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Jefferson Av",
+        "photos": [
+          {
+            "height": 2580,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107876594457716543908\">MAIN AVE LLC.</a>"
+            ],
+            "photo_reference": "AU_ZVEGlof8ZLqFwPMV1pH87nVfJETOENwjeUjf8F53lQWn77E5sDVfwkG_KMIYu4cy8-Wt-cVsepSriGnYgBL44z5UO1aWWeKapB4r0G4WLpgWTKRQaFvhRuRekS2MYLRURQBd4jLMgy08NvJc4tQiOp-ks22JD61T7lzf0QjdMtKOWdD1RuF52Rl4_wS7Y3COWyaGvHZucoxUor-ysticF2SJbXqYJd4Qez3tDf6CGjsWuNwNYgM0FLfM9obJkwxAUmqVGJl4iypSgnLmm04cdfa53s86_G7IYcXZbW0pCpQD6G9rIrlCl1CruqaC79dHfJRslbX9NZej5Zlz-vwxMAa9KzQkKcQiki-LNCOdI3FEVMi5lG4lwhEDwTmDQPpoRAW6q4iXii25nRspFq0SbgZAygc69g_kSa2opuUft5XGonzF6IAxvrYfEOIiiV7sl0d2aWpAmjKy4ftZzSh1O2VI6pwlFwa8lpP1aKcnOqNG-nLkLr0hHfPOi84ZqeV2h96-0Hg2v2ZQJVlYYvgDWEicUwmK81j8QKiWNzwEiDBNicqsBp7zbsczgL1XuEfGWX2CagpwCJvtDm3wLD3KWBEGiKT3iVMW1m-O2NlxRU5GXJgjpSGZLCoILRAAe-HM75ce23ka_",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJB_E--dJOwokRuZ5wwx8erMA",
+        "plus_code": {
+          "compound_code": "HWF7+JF New York, NY, USA",
+          "global_code": "87G7HWF7+JF"
+        },
+        "rating": 5,
+        "reference": "ChIJB_E--dJOwokRuZ5wwx8erMA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574841,
+            "lng": -74.084778
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5762006302915,
+              "lng": -74.0834398197085
+            },
+            "southwest": {
+              "lat": 40.5735026697085,
+              "lng": -74.08613778029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Graham Blvd",
+        "place_id": "ChIJUZ2pu9NOwokRbHd8XuDzSKU",
+        "plus_code": {
+          "compound_code": "HWF8+W3 New York, NY, USA",
+          "global_code": "87G7HWF8+W3"
+        },
+        "reference": "ChIJUZ2pu9NOwokRbHd8XuDzSKU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574051,
+            "lng": -74.09648899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5754386302915,
+              "lng": -74.0951040197085
+            },
+            "southwest": {
+              "lat": 40.5727406697085,
+              "lng": -74.09780198029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Av/Kiswick St",
+        "photos": [
+          {
+            "height": 2088,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112235881721622370081\">Maksim Sergienko</a>"
+            ],
+            "photo_reference": "AU_ZVEGDwL2K18nYYkIQ8VCuHbzrsBCHQDhVwke-A-V6d4qXL-wYCk6BxygZ4bEts291r0eNia5bgz8dzAx3Af8btYioBnWPP7hDp8AlopA4VATkg_aUUHjm75QPHrb-3sXRU_u1Duid-idqAigSBmGcO-0iLdhDJpq4UZDEsyeDo13xJ2s9zWHyEdvQd9abWkK6ej8nU4_2zoz8KFgFg53p-hRXOobRyXEVZlFw71mk17jRgb2ZbfntGkpxwFbY6ffZfacIJH6kvL1txdlayOW43pgARxg3Jv0T_BwdUO3xPLpk0y5qbdAeuFWguhVTC84E4Jw5M2Hn0WN1WHs5TnKrikN3JZXaGMMRT1hGdF8czqNzwUlHkusZXinNPjaUUOtsQ8J8kQioV2LSbYa-UthD8toY50Ta9XyUg1Bp30AIkGlh2BasMM5S7vUQrr6zzaRol96jU55t-Kdev1liKoSUFOvuec2gBatSkx69QzDIyN_GTCpzSJki_F8NkFz5vGvjYWWvfw1OJWWO2_-rRxE08zQ5K5NTEEF-af8M7FX5ogJ3YzHFrV5FhV5jErW9z2lFzkftqWP7AgW8UmDEPtoDRKBc0WAoWkggwDtiJsSZ_wrs6F5jQw1ElrF_Yhg2ZcjFv-uiWON8",
+            "width": 4640
+          }
+        ],
+        "place_id": "ChIJA3haOMtOwokRYodaBQeCYpE",
+        "plus_code": {
+          "compound_code": "HWF3+JC New York, NY, USA",
+          "global_code": "87G7HWF3+JC"
+        },
+        "rating": 3.5,
+        "reference": "ChIJA3haOMtOwokRYodaBQeCYpE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57517199999999,
+            "lng": -74.08382399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57648023029149,
+              "lng": -74.08254391970848
+            },
+            "southwest": {
+              "lat": 40.5737822697085,
+              "lng": -74.08524188029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Sioux St",
+        "place_id": "ChIJp6fS7NNOwokRklkzKJ1kaQc",
+        "plus_code": {
+          "compound_code": "HWG8+3F New York, NY, USA",
+          "global_code": "87G7HWG8+3F"
+        },
+        "reference": "ChIJp6fS7NNOwokRklkzKJ1kaQc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57468799999999,
+            "lng": -74.09729
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5760075802915,
+              "lng": -74.09596851970849
+            },
+            "southwest": {
+              "lat": 40.5733096197085,
+              "lng": -74.0986664802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Av/Moreland St",
+        "place_id": "ChIJE-UhH8tOwokR8-2t3JcVyCQ",
+        "plus_code": {
+          "compound_code": "HWF3+V3 New York, NY, USA",
+          "global_code": "87G7HWF3+V3"
+        },
+        "reference": "ChIJE-UhH8tOwokR8-2t3JcVyCQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5752735,
+            "lng": -74.09846499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5766275302915,
+              "lng": -74.0971112197085
+            },
+            "southwest": {
+              "lat": 40.5739295697085,
+              "lng": -74.0998091802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Av/Mason Av",
+        "place_id": "ChIJoeXL78pOwokRGG5VA1tJC0U",
+        "plus_code": {
+          "compound_code": "HWG2+4J New York, NY, USA",
+          "global_code": "87G7HWG2+4J"
+        },
+        "reference": "ChIJoeXL78pOwokRGG5VA1tJC0U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57506600000001,
+            "lng": -74.098328
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5764246802915,
+              "lng": -74.09693256970849
+            },
+            "southwest": {
+              "lat": 40.5737267197085,
+              "lng": -74.0996305302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Ave/Mason Ave",
+        "place_id": "ChIJ4w9c78pOwokRAwxWhysZ8-Y",
+        "plus_code": {
+          "compound_code": "HWG2+2M New York, NY, USA",
+          "global_code": "87G7HWG2+2M"
+        },
+        "reference": "ChIJ4w9c78pOwokRAwxWhysZ8-Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.576038,
+            "lng": -74.082748
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5773928802915,
+              "lng": -74.08140481970848
+            },
+            "southwest": {
+              "lat": 40.5746949197085,
+              "lng": -74.08410278029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Slater Blvd",
+        "photos": [
+          {
+            "height": 3826,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107493206398934142400\">Allen Alson</a>"
+            ],
+            "photo_reference": "AU_ZVEENhSBd8JpquBQeMURKnHQSHwNFov1wiXLN50pMrvE3POGGvOFG3is7SYb-umOFE-zt1KPd9ORB5IKnLzXk1vnGE5_EOA-l8WOqSxXdkG0cUPvQeortEPHZ6O31RyeG2BQFHRWGgzkvaMWrPOT3ZO19i7_kgZfBjknSV8cGMlEU-3lEfl2M1Hp6Xpz6igHyze1ZreLiCL5K7Z3K2Rzt0Sp5k23xlIbI3halsm6V-_XQSItllLklQn8ZoPhdIHYZsLLOW-_NZ8ZMfn1Mg3cNycWt-WiyWXkz9uN0CLwy4esn8xLNwd58-YVbXQtfr-spJoaHhuNsTI2eo1YUalP0lgDYNX3b4M0dpJKHriHLwbvFxCXn6azIktKqkFBkiUT9V_HU8boQYHA5IPUR4G848wTXybjutpiKKzQ8JSR20o9ySKwqQtr8Eb4vggACIfcojsylLTZxxrG6H9hVc_ifrYqkhBDiz-BPxScm5XkaOmy45GgU6F0aTGcUife4U2iuPWsSqtWjkGYKmfWESZ6FZl2hr8lt8bwembge999LLnKC8cdqFBtdS3IWKcfvRQn9BydHsainHQYU1AKD7vE7cOk0l913Q2VmtV43o68u9ciXDEgfitUh3s-MrxxLzX7mtrM",
+            "width": 13842
+          }
+        ],
+        "place_id": "ChIJ8TtVqNZOwokRxD8TXAbZaj0",
+        "plus_code": {
+          "compound_code": "HWG8+CW New York, NY, USA",
+          "global_code": "87G7HWG8+CW"
+        },
+        "rating": 5,
+        "reference": "ChIJ8TtVqNZOwokRxD8TXAbZaj0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.575481,
+            "lng": -74.098602
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57677538029149,
+              "lng": -74.0973040697085
+            },
+            "southwest": {
+              "lat": 40.5740774197085,
+              "lng": -74.1000020302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Midland Ave/Mason Av",
+        "place_id": "ChIJX9Gb8cpOwokRQH7Fonp1ggE",
+        "plus_code": {
+          "compound_code": "HWG2+5H New York, NY, USA",
+          "global_code": "87G7HWG2+5H"
+        },
+        "reference": "ChIJX9Gb8cpOwokRQH7Fonp1ggE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5763605,
+            "lng": -74.081997
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5776903302915,
+              "lng": -74.0806287197085
+            },
+            "southwest": {
+              "lat": 40.5749923697085,
+              "lng": -74.0833266802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "FR Capodanno Bl/Slater Bl",
+        "place_id": "ChIJ0ZJmptZOwokRLWFdD_rPNuo",
+        "plus_code": {
+          "compound_code": "HWG9+G6 New York, NY, USA",
+          "global_code": "87G7HWG9+G6"
+        },
+        "reference": "ChIJ0ZJmptZOwokRLWFdD_rPNuo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.576221,
+            "lng": -74.082054
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57756998029149,
+              "lng": -74.0807050197085
+            },
+            "southwest": {
+              "lat": 40.57487201970849,
+              "lng": -74.08340298029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Slater Blvd",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116271895314676389421\">Tim Noel</a>"
+            ],
+            "photo_reference": "AU_ZVEGy7eHtHmwSFVWYCrrxEW59N29dmi-jt3GgJ9qtYY-4qqgnGHYOzRZE64njrQuHPOvQlIOdL21W_7PHk1K4511EWZ1fT9RmAGDNiWzyHvHGu-AFRwog3cRl0dLJeQozuTTq_CiTta4CkhGLXFvqHYOL5ZK82QqIl0t_6fmzbWXjdqq19ny4LwnyXK9qz3qZ41m8QYXgu7itQEkH07WzuxxLn1eTBte0XiMWj01P0xhPxZxKmh3KsBPJt66GWzrDp1-gdQPdlUFWzFunWF8mAN4EsTN3MxsxxO1Jw3Yfo_CWF4oQwojEAYaGH2OjUTYtUy3H-beNrhmxsb6C4UR4VP1HTPVC2XuorRQPh5tGc9V1qJPk8pr6KNCwjQhoS5W9H4XmUUuLdKFRrPMaeqWP2GznPbhSQLUTb2HgskWRU6LoL8v0eXFLHhQlmMkS3Ae7P5WMUIYSJ31_CqrLI-Bl29hQSR2PXM9ymur7ixiNj-9qZn3KVyHkszalh1G7DDa6mb0L1kTmFVHKdF4nU3Cx6wGpwzN1_1yuhpVIJlrgbFSVjV-SI4-9tV3QYXPt_8qlt96sd_9s6xPOar62GbWCpzDiMWuTlE3LXg8HHKVzbLjlpYqavt-bucFPQFHn9DQhMYnyQQ",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJNVvbo9ZOwokRmXEWZJ-GcZA",
+        "plus_code": {
+          "compound_code": "HWG9+F5 New York, NY, USA",
+          "global_code": "87G7HWG9+F5"
+        },
+        "reference": "ChIJNVvbo9ZOwokRmXEWZJ-GcZA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.576935,
+            "lng": -74.081169
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5782945802915,
+              "lng": -74.07983006970848
+            },
+            "southwest": {
+              "lat": 40.5755966197085,
+              "lng": -74.0825280302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Father Capodanno Blvd/Naughton Av",
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116271459576068841417\">Bonnie G</a>"
+            ],
+            "photo_reference": "AU_ZVEHtzoOfsUPff2INs1zSxpRIuvD9lDXXgENNsJbd1l8PhRWLnicxVC3z6jCL3uYwUmF79_xWdwR259sC-kmZ8hqBy25PCcpHdsIg_AzhBcsujPZYyWb1tUdcMaCpgHHbRLwKqQ3sFvHJ04B5Z4YJowG83GE6goFRIkvF2V9laWUFWVt6QadQpq9QKCagYO2Eo5Neu8IzbX4WIEeLOUa3YgjmTXuZvmIxVZ5J7eewg1sP_fdVMhb4c5SaNMdDbWWilxSIzboYXjVVeazgEplpoCe0mDZKdpkxPmQK_rHDJb0VzcG1GcgebyYg9n3fODcm5g7yJ7bXmNCtJM7KA-UV55pFXVwwQraNT2wUB7TL_ZrP9t14pj5MqPIvp2YNV09iFq68lp3VoYNTOI0xetVYk91rGjz9-Uhi4T1mLPKZbpYn2pEu5R1jJD6PqYYM8aE-aZozYYM2GL5tuAAkP0z3V8mQeok5Kj19l5UT50A14ro0JPQbBoCd2Tf3z3vWxOB3Llbn71ze3JDj0f6dbEFzFuosQFqnazDsm8Sa1se52E-6k1uU-YX7tkOD3xtKlpuuyDQNx_INuynE4vpq4XoMBGMCmvH_6UaXJhTUCrJWy87eiaceo9WWLEJ1j0ewgbDaNUb-Av5c3oiDa221Vxt7lg",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJD6OLk9ZOwokRpiyvZB5h-Yc",
+        "plus_code": {
+          "compound_code": "HWG9+QG New York, NY, USA",
+          "global_code": "87G7HWG9+QG"
+        },
+        "reference": "ChIJD6OLk9ZOwokRpiyvZB5h-Yc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57203729999999,
+          "lng": -74.0951607
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57343058029149,
+            "lng": -74.09378286970849
+          },
+          "southwest": {
+            "lat": 40.57073261970849,
+            "lng": -74.09648083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-351-7575",
+      "name": "Lilya's Restaurant & Grill Cafe Gourmand",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1514,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100407652999051251251\">Lilya&#39;s Restaurant &amp; Grill Cafe Gourmand</a>"
+          ],
+          "photo_reference": "AU_ZVEG8oAxsbsWNoLoeR-Nt-qGLYxzpdmmj6uxUbvq8gRavRvzfrVdMpcw-Q0fjNVhsyCTIHigCZztgfVO2b5SobkG8xu7SEDwqgpDnIrUJ8QsLdOfNvsb9KY51OiEVdglWuyDUxgFL25O4CzAMt1UsvkrvDUN8ZaBE0y7_nkc8Lee2SbcpjSb7BhmdjQ3gswKSHDCdba7sVw2vDvHSap20b-ILAmloWIlP5hEmqL9jz-_CFTX-15FIxRAlMG502CbFGwIi7beXKhguLJvgg2YgYmaaoNLVMhJcL2sF1EmmPFrTlihOLwnlF0eCraxmRc_RRIRu1MDz-q0",
+          "width": 2692
+        }
+      ],
+      "place_id": "ChIJK8bBozRJwokRNy88hNFUgFA",
+      "plus_code": {
+        "compound_code": "HWC3+RW Staten Island, NY, USA",
+        "global_code": "87G7HWC3+RW"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJK8bBozRJwokRNy88hNFUgFA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 398,
+      "vicinity": "548 Lincoln Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57252820000001,
+          "lng": -74.0928067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5738028302915,
+            "lng": -74.09145136970848
+          },
+          "southwest": {
+            "lat": 40.5711048697085,
+            "lng": -74.0941493302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-987-8888",
+      "name": "New Everybody's Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+          ],
+          "photo_reference": "AU_ZVEE1Jbc3MeTn9ugTrllQ9MrJjI2YfLGnwJfXRfVBRlidw_lxCpQYnpDZWbtgw1wOjx14YFudIqqstanFvzCyFp_oYNKNhjhh3vwmLq62tR4NcijgRZgcQFkQHopykOiFUF13d5jIWOTkaRPWuCV2G1NqMb4f_B-nlyqW-qMxWjHh9K6fEIka_VBy8jpj6WpWuwSe2KKRttMRsghb8k05i4pM8LPobeY-lr6Owl4OokNzJgfIDB33XdJGmq2613leZ5bhh8M15T-c7-s-r16njNbe7UPB42d-PiVlRITn79X5nS4WifjZU2gOPUgZsPVmpp2z4eDlRL9gSaOd5SyOhAvtYWe7_5wn22YdpObELi4fJ3FnEa6CoRtsBTKsfJ99X60KPbiIL6cgvSvlOeVoWpDRsIE8HHveNidb2G2Nmob-9LJwkmGiyf-iPDCRldh4J7lPkFXDRWa9XEQOL2WEBNqohrxZ5TZ_mdUOGMhkw5k62xa9gVkh1mjy95vEX6fQy9FLn6MqynEz-j5aaU2-ZSksigSOeenxR13LaFfeJw951-4j2z4xna7IBuqINFS2grLBl90d8-Mo5XqWAkxXgkrS9xs-I08ikTyjyVU20gUL_galuGcIbP1htHw1cKwkLdQSmg",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJ7_nCMzNJwokRs9NVVLP8Xxg",
+      "plus_code": {
+        "compound_code": "HWF4+2V Staten Island, NY, USA",
+        "global_code": "87G7HWF4+2V"
+      },
+      "rating": 3.9,
+      "reference": "ChIJ7_nCMzNJwokRs9NVVLP8Xxg",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 112,
+      "vicinity": "581 Midland Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5711299,
+          "lng": -74.091494
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5725201802915,
+            "lng": -74.0900929697085
+          },
+          "southwest": {
+            "lat": 40.5698222197085,
+            "lng": -74.0927909302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Corner Caffe",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105747576132217094245\">Catherine Liang</a>"
+          ],
+          "photo_reference": "AU_ZVEHkQPxpyvkFL88PxInGnYMmYw0HhmXXFkNODh2Ime8d7U3B87mQPW-1CJUmWIYa6Ytxzgw9YEQ4s0w3GzmkUWXJfeNOHv7bfSrreBjQAmCaOl5b2QWZ2fDZh6Jlb1Q-QQdTcaL__w19Roihg-w1-82x2Eicn4zjqBLrsFUGnPX5SPLPMZcM1MSfiRP8ybFL80VBmAWfPsh3iqyVX6frNrr_ha66M3uzmrcaPCkxApc1d37ToV1xIBGF4jwnkLXawf3lc4XRe5eOPU6pcB8kOa-lqin3CwiBCYuQSd9Niq8N4dy9afHaE2gDLBp35cSXboc64FGi2cf4CE9B0NFMWGsGzIWoesd88kC85QXCZt1KyfcgI3JZt9Gp-Q-j8eieJpZt6h0VYY-VRdy-QGAf7j93jPG8LJkDrX9KhM90XX50vNwgJF931QxenKFhwihoPwCqn32x-YVepMdkgZ_D-vUEkRnm-Jd1W2AU8oWGRFBtMO4it-jriX6B_MTChZBflV6ZFxm_Agq-88LZdOQ2FaMKLgZ2nSYx-NzRBwiMg7MHcyNturuEaEXXUZ-LpmqnO-mDBRjjLUjYCT0-DZOHefEdJiNyjCiC0h14VkcJrpvSPnI4SiEDxMWGo28-yUANSYwjSZO-adfXzECBHYentkKw3xo",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJAwU4MQBJwokRABBNCf2dUpY",
+      "plus_code": {
+        "compound_code": "HWC5+FC Staten Island, NY, USA",
+        "global_code": "87G7HWC5+FC"
+      },
+      "rating": 5,
+      "reference": "ChIJAwU4MQBJwokRABBNCf2dUpY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "628 Midland Avenue, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5711266,
+          "lng": -74.0915153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5725185302915,
+            "lng": -74.0901036197085
+          },
+          "southwest": {
+            "lat": 40.5698205697085,
+            "lng": -74.0928015802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-524-4022",
+      "name": "Arka Mediterranean",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106071270271246979372\">Arka Mediterranean</a>"
+          ],
+          "photo_reference": "AU_ZVEE8BifdT6vQkHwl6pnoKTo97ysvhUPIw8_xPUL4RQAbe66hLlYxDv3uEC8zNHElJZ1Q92S0SMTt3p56nTnO2ec0kPILNypYMZiHv4-Ay0u3-Ar0ENMChhZmpJWA_TDAFYjW8JQ-KDsNS6XbMqjBEoSAs10NsxDDzkwoWe0PqUSPE40ecHwMM2oaLasFcJdLw1aZigiVUwJ21gK04A6mV3VZmpCHMUEqc35yPm6_495lFLaNDjPVLufw28gJd03iCu0ooSH0GJ2hmHHctpdu8kPxLZME6SS6p8TRbhhkwMy6nDFkPEEviJ7uDIYVqnXtPyR_znl1fbQ",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJCxl5HQBJwokR3hOtKdKQLyk",
+      "plus_code": {
+        "compound_code": "HWC5+F9 Staten Island, NY, USA",
+        "global_code": "87G7HWC5+F9"
+      },
+      "rating": 5,
+      "reference": "ChIJCxl5HQBJwokR3hOtKdKQLyk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 78,
+      "vicinity": "628 Midland Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5721968,
+          "lng": -74.0933692
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5736545302915,
+            "lng": -74.09197276970849
+          },
+          "southwest": {
+            "lat": 40.5709565697085,
+            "lng": -74.0946707302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-682-1550",
+      "name": "Amalfi Coast Pizzeria and Restaurant Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110208627825751912875\">Amalfi Coast Pizzeria And Restaurant</a>"
+          ],
+          "photo_reference": "AU_ZVEEWYaLz_nRYtR05o1pvqP0yKOoQTGh5AQPVr0tZuZq0hY588JAs1vi0QoS-vGMSrRbKBteH9ifuhyEVVGlD-fVMr3xTQeQX_msVmEn7F4UaqVfitdecveVHdHWGhSGmQ19cjvuwz9FrQrODJNamN1ih1YoEFYrPHaXXxHu1HM4jBkIPZ0susBupJcXgd0fTaRuypK3yKjXTV6Z0MbA08wFz_gi4IL-i8yhX3Le1pP6peKawl22QCzcvmaRFaXe1NkPFN8cWIrsZWWB7odOtSlXhEGDJVtci87DPeQgnmiVW6ZkBSn3CJ0uBr__rndDM-f5lSThLRKw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJqZqEiAZJwokRJigwzZYbIq4",
+      "plus_code": {
+        "compound_code": "HWC4+VM Staten Island, NY, USA",
+        "global_code": "87G7HWC4+VM"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJqZqEiAZJwokRJigwzZYbIq4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "572 Midland Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5754852,
+          "lng": -74.0946274
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5768962302915,
+            "lng": -74.09339321970849
+          },
+          "southwest": {
+            "lat": 40.5741982697085,
+            "lng": -74.0960911802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Charming 1 Bdr Apt. First floor, private, safe, in serene SI, near all!",
+      "place_id": "ChIJXy26KctOwokReyPHfEDewzw",
+      "plus_code": {
+        "compound_code": "HWG4+54 New York, NY, USA",
+        "global_code": "87G7HWG4+54"
+      },
+      "reference": "ChIJXy26KctOwokReyPHfEDewzw",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5737381,
+          "lng": -74.0974426
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5750772802915,
+            "lng": -74.09627351970849
+          },
+          "southwest": {
+            "lat": 40.5723793197085,
+            "lng": -74.0989714802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Charming 1 Bdr Apt. First floor, private, safe, in serene SI, near all!",
+      "place_id": "ChIJFX-8KctOwokRtGnMzq9e4tU",
+      "plus_code": {
+        "compound_code": "HWF3+F2 New York, NY, USA",
+        "global_code": "87G7HWF3+F2"
+      },
+      "reference": "ChIJFX-8KctOwokRtGnMzq9e4tU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5737495,
+          "lng": -74.09745029999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5751454302915,
+            "lng": -74.0961897197085
+          },
+          "southwest": {
+            "lat": 40.5724474697085,
+            "lng": -74.09888768029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Charming 1 Bdr Apt. First floor, private, safe, in serene SI, near all!",
+      "place_id": "ChIJXy26KctOwokRdpBgoEQsdyE",
+      "reference": "ChIJXy26KctOwokRdpBgoEQsdyE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5762928,
+          "lng": -74.098669
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5773295802915,
+            "lng": -74.09761231970849
+          },
+          "southwest": {
+            "lat": 40.5746316197085,
+            "lng": -74.1003102802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Midland Field",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105883553050641660357\">Midland Field</a>"
+          ],
+          "photo_reference": "AU_ZVEFFrS5YDRUkGszXkLi_zxcMQdphjcA8qSyHZClC3_rHL4WkUeUuuxe1oQhaKFG_pqahHt6kO--IX4suJLMcobd7YzqHRF_37J5Jnhn3E-Fm9xTko6Mb2lTQ0VAKwa1StGl0QjBLtPNVOWzS_c62sZTD9-n8ae-KF-GgFE1rwqmSzzcrMevGA7hDN9uTZnnFnnrsbyIM-BCgVEE0dBHlbmYUledpRmmwAGxznyDV6Ak28ZQc1tgGjNuPgZAn_T-t5bR9N943FUf1oSi2Kp0XHtNn6Tyv94DcKR9OfjRNa2gYKTftmqtQtQvAYgW6MbEv66dWkziYjyY",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJSztYWMpOwokRCfB5UkhRN1Y",
+      "plus_code": {
+        "compound_code": "HWG2+GG Staten Island, NY, USA",
+        "global_code": "87G7HWG2+GG"
+      },
+      "rating": 4.3,
+      "reference": "ChIJSztYWMpOwokRCfB5UkhRN1Y",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "5119, 333 Midland Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57598309999999,
+          "lng": -74.1008715
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5774999802915,
+            "lng": -74.09924891970849
+          },
+          "southwest": {
+            "lat": 40.5748020197085,
+            "lng": -74.10194688029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Park",
+      "place_id": "ChIJsZrmfrVOwokRbA9PB2oskqQ",
+      "plus_code": {
+        "compound_code": "HVGX+9M Staten Island, NY, USA",
+        "global_code": "87G7HVGX+9M"
+      },
+      "rating": 4,
+      "reference": "ChIJsZrmfrVOwokRbA9PB2oskqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "333 Midland Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5731771,
+          "lng": -74.08474389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57461713029149,
+            "lng": -74.08354086970849
+          },
+          "southwest": {
+            "lat": 40.57191916970849,
+            "lng": -74.0862388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Turtle Fountain",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107781565966703880887\">Kevin Morris</a>"
+          ],
+          "photo_reference": "AU_ZVEFlJAZr167kqLGD_p7Esnr9X8fx5S44TqTR42cdWKOrQjj0kI5auSIWllLJmeBc55FjYyYlk7-uw-VmZi-E605WZROIrytVYDjKexZxVqPF_tCTvNsFHqLGuRv5XH1jkJx3iBweArvTQ3ZQWiUAC9WFdjt4s9FDLfU2TOUVgfF1JLDEEUhrjrnFXVTalgBEjkzoX8hd8pTpEroUhF2w6OJGyFTACGCdCR1RBW4QcgeNAajcSJBb0nYeWpzSUkhxhxv5t4CzG3jULEqutUlZgQG-SFqJHFUNBySFz_LelAY00YNeqHWlXVOcjMnhywH6s3avS7oj-ae8T6QnhspgvPeEWEcPE4DWClK4fGnXlpzPAZuIG0tCqae2gm6aNS2kY-43q5ra7aFEdrwCxMTyzW9hsdRFgNmsWEBu3Cj_Cv7gV9D8ISnZLe0rGzgDkai39M5anhZ1136n4duuQ8tWEEYpACqPXzMqZF-CnF3Sinq4CFXgNeehwR70K39z7Fwgsy4mCJDmsrs8VDbnV6wAZYN9xekfi_eEQC-ZlZ19tCL2INmgQFoxVWV2x8GOenrH_NdzzHZ4DA84ifABI64By865EV0b7vQeXxox5bMcd6XmJ_RsPDGVUyLb85i1A57Xp1ywHWjV",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQ7zVMwBPwokRONyiKL-fVzo",
+      "plus_code": {
+        "compound_code": "HWF8+74 Staten Island, NY, USA",
+        "global_code": "87G7HWF8+74"
+      },
+      "rating": 3.9,
+      "reference": "ChIJQ7zVMwBPwokRONyiKL-fVzo",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "Midland Beach, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5728745,
+          "lng": -74.09414249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5742055302915,
+            "lng": -74.09280996970848
+          },
+          "southwest": {
+            "lat": 40.5715075697085,
+            "lng": -74.0955079302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Av/Freeborn St",
+      "place_id": "ChIJi-3MrMxOwokRrnaGYJ480C4",
+      "plus_code": {
+        "compound_code": "HWF4+48 New York, NY, USA",
+        "global_code": "87G7HWF4+48"
+      },
+      "reference": "ChIJi-3MrMxOwokRrnaGYJ480C4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57122,
+          "lng": -74.090042
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5725527302915,
+            "lng": -74.08866471970849
+          },
+          "southwest": {
+            "lat": 40.5698547697085,
+            "lng": -74.0913626802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Hempstead Ave",
+      "place_id": "ChIJISD-vjJJwokRiNz_C4wQSWc",
+      "plus_code": {
+        "compound_code": "HWC5+FX New York, NY, USA",
+        "global_code": "87G7HWC5+FX"
+      },
+      "reference": "ChIJISD-vjJJwokRiNz_C4wQSWc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.571201,
+          "lng": -74.090897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5725248802915,
+            "lng": -74.08957121970849
+          },
+          "southwest": {
+            "lat": 40.5698269197085,
+            "lng": -74.0922691802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Ave/Patterson Ave",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117888853951251129735\">Joey C</a>"
+          ],
+          "photo_reference": "AU_ZVEEN9GTY4iGG2x3FXbxuRf61li5opWIPQNU8X5k_BXZG5nfbXNkxxhC4UphtfYxpc0m86bGFYgu0JsIFzK4X7biCfWwMuq9qHJexFiuPGcJWPy-4vFHtiFdZ5hcNxx0aTIktwh0tQiIIcf13qdK1dAmyeXrPQ_5p_Yz8a3y_ZUxjEiWI3bvj0SmsbD2ump8woMcs-9stMuq9Pxj7g9McENzVCfcGClj3rDmGo5eTVm1A6Uy-gXnaQiWP8Y9X3eKpmrio6rjnhTlaaL6K9As3J4KprCJOnTPS9VPMwza03CJIvldQiXe6HHhxkBUSZM3fCz4T6eiXG0g1X3tvV5rw0H6EiyINynNMoTYxPPMe2MIGgfWp4mJflLjQu2Y8YF1FfH7R-OGtQ5haaVx_N_n_FuhoTuZRGN6fLMx9lfMSYMxN8wQ7yquOcqFbWSTXZfuX9IQigQ8b9HhhLkfSXx4LGBqAqdXip8wfkR-3UrFH62Lir9aBjoyh5TfSKsEpi79v_UFXg2ULR2bSiYd4hOa2eMqnhpBvyxTWuldJ_DklL3UUHv-HFwdFtsaMNj-eUFhikJUQqCtXGNlAf_JRzf6B6Nj6cOxZ6s-jblBcr-UJKPXTnWuLUa6HYdKdavvP1G8XVx5c_g",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJS4ukwjJJwokROS6GpjEAyyQ",
+      "plus_code": {
+        "compound_code": "HWC5+FJ New York, NY, USA",
+        "global_code": "87G7HWC5+FJ"
+      },
+      "reference": "ChIJS4ukwjJJwokROS6GpjEAyyQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57288,
+          "lng": -74.08779899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5742252302915,
+            "lng": -74.08644621970848
+          },
+          "southwest": {
+            "lat": 40.5715272697085,
+            "lng": -74.0891441802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Hunter Av",
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115456271580802602163\">Ackeem K. Duggan</a>"
+          ],
+          "photo_reference": "AU_ZVEFrEimKetbCEZJXNitDjWyL9UGCsfwDfGBCtgfjX5EBDFdvtjO3aROZ8Ip1C91YspxEOK6f2XePUxKEcjJa7KQZjZRcWTNu9Fo40iFn6v8fnoduLXU0JXhDJZiE29vRuGCY1FC0eg2EKNRVVAF-bqsNORyTvHql0hnl2O55wZ32XrcDdcQJHVe3AKPdZoVMQ_n4vUMqvP5qsGNw_1CgnTFm9fBJcu24CCf3PU3lfkEWwHUdREngQQWnxTcTc3quAYbtGPvyvijX2E9uJmv5jhnhbL8XP5NvoxR3cT6svAfRfgWtVDRNGE-gxBsl-aRFoglhI09a2CgT2xUG_t28R75gcmVXc58ZEvealpkmiNgrl3_BsSRZyZVTv7hH22eGy7IYO01-1FFyiK5DD2vo64X4A980JI5ck_-_1EvtFu83LsXsHsl1wh2mBfzAAMbayhQbRiBawomXX64LGOrypfifPjCActjNEVQ__Nz5DgPkKqAX5YZA5TsWzVkOkG4A-HUwopC3V2Y60UZp3J1sw9xUK_0Nte_w4vu0UdA3LI6MWO5mkBYyIoqcjIckLz2l4UOIDnQSS11pCJS-Gil7HXwaxJEOO73-DjXBAzjIGAwyBvtDHRJ2ThZZrhl0_jZJ_w1mPA",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJCfk9vNJOwokRDw5QmsW_lzE",
+      "plus_code": {
+        "compound_code": "HWF6+5V New York, NY, USA",
+        "global_code": "87G7HWF6+5V"
+      },
+      "reference": "ChIJCfk9vNJOwokRDw5QmsW_lzE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57233799999999,
+          "lng": -74.092964
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5736585302915,
+            "lng": -74.0915628197085
+          },
+          "southwest": {
+            "lat": 40.5709605697085,
+            "lng": -74.0942607802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Ave/Colony St",
+      "place_id": "ChIJ3WyJNjNJwokRGqhtoO9T7lE",
+      "plus_code": {
+        "compound_code": "HWC4+WR New York, NY, USA",
+        "global_code": "87G7HWC4+WR"
+      },
+      "reference": "ChIJ3WyJNjNJwokRGqhtoO9T7lE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57082399999999,
+          "lng": -74.09053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5722038302915,
+            "lng": -74.0891518697085
+          },
+          "southwest": {
+            "lat": 40.5695058697085,
+            "lng": -74.09184983029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Ave/Father Capodanno Blvd",
+      "photos": [
+        {
+          "height": 2088,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117888853951251129735\">Joey C</a>"
+          ],
+          "photo_reference": "AU_ZVEHNu4okC5bEgCxBtJSdCap2Su-KAGSUZV-mDtdfS8v0QxFsIYIVeTRRTVC-W42SIJbQ9d4i49maJxSxXiQMiG0Yy870Vc3yGDUBre8Xa8Chmd7Y32IfxYTNJ_YUMo_ChJKK4bVLtg_4ASGG_Mom5NnZ5r0JbRObhH6TDNlVT-Mzv2zTzm6Eoz0D7o0MlPNchqJPjaPxOFsxpIJv5k_U2d5XmgkEws-99ICErFBU47GqOPkJaeuN9gNYax0sNngN8z2zThqx-W2y7lrkUUDN65CK60L3728DKvTx_5Hxo7mfBs6mBfUauR2ksssV49P8dHpHVQ3JKCXtq500_HVA8OiviKjtcMwuXL6thxm-3sD8weCeUjMvmb2lzT7NVvww8fSbtA3yCkTv9NdhYLgNPj2HNhNLMPOm_OeqCFAgq3Z__eOzYHstKoBMGe1XNM69GzpnqXaojmcrqgWp9Ce8Dta2eP65ZviJkT7vp9VKfBQ-baarFDQFZyMs1ESwEinkEpMUKh7IIR3D3tvhF6dVS1HdC_eA7gkqUVcuFNCk6u6fqvM5I9O5MhltrDegAtEgQHEDGYhLwCQgBYtIdDBpYFgfjDKbmMlJZdYO4bT9YA0Mg3-RTZEbBzaWEEzrkcOfF_TlzELT",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJAcD26zJJwokRDgeqnDkgke0",
+      "plus_code": {
+        "compound_code": "HWC5+8Q New York, NY, USA",
+        "global_code": "87G7HWC5+8Q"
+      },
+      "rating": 5,
+      "reference": "ChIJAcD26zJJwokRDgeqnDkgke0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572502,
+          "lng": -74.09358999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5738794302915,
+            "lng": -74.09221431970849
+          },
+          "southwest": {
+            "lat": 40.5711814697085,
+            "lng": -74.0949122802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Ave/Olympia Blvd",
+      "place_id": "ChIJgZobTDNJwokRpaFd8GEToh0",
+      "plus_code": {
+        "compound_code": "HWF4+2H New York, NY, USA",
+        "global_code": "87G7HWF4+2H"
+      },
+      "reference": "ChIJgZobTDNJwokRpaFd8GEToh0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572956,
+          "lng": -74.09419299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57430438029149,
+            "lng": -74.0928444697085
+          },
+          "southwest": {
+            "lat": 40.5716064197085,
+            "lng": -74.0955424302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Av/Freeborn St",
+      "place_id": "ChIJM26QrMxOwokRx5HvPReVvYg",
+      "plus_code": {
+        "compound_code": "HWF4+58 New York, NY, USA",
+        "global_code": "87G7HWF4+58"
+      },
+      "reference": "ChIJM26QrMxOwokRx5HvPReVvYg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574017,
+          "lng": -74.086266
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57534588029149,
+            "lng": -74.08489626970848
+          },
+          "southwest": {
+            "lat": 40.57264791970849,
+            "lng": -74.0875942302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Jefferson Av",
+      "photos": [
+        {
+          "height": 2580,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107876594457716543908\">MAIN AVE LLC.</a>"
+          ],
+          "photo_reference": "AU_ZVEGlof8ZLqFwPMV1pH87nVfJETOENwjeUjf8F53lQWn77E5sDVfwkG_KMIYu4cy8-Wt-cVsepSriGnYgBL44z5UO1aWWeKapB4r0G4WLpgWTKRQaFvhRuRekS2MYLRURQBd4jLMgy08NvJc4tQiOp-ks22JD61T7lzf0QjdMtKOWdD1RuF52Rl4_wS7Y3COWyaGvHZucoxUor-ysticF2SJbXqYJd4Qez3tDf6CGjsWuNwNYgM0FLfM9obJkwxAUmqVGJl4iypSgnLmm04cdfa53s86_G7IYcXZbW0pCpQD6G9rIrlCl1CruqaC79dHfJRslbX9NZej5Zlz-vwxMAa9KzQkKcQiki-LNCOdI3FEVMi5lG4lwhEDwTmDQPpoRAW6q4iXii25nRspFq0SbgZAygc69g_kSa2opuUft5XGonzF6IAxvrYfEOIiiV7sl0d2aWpAmjKy4ftZzSh1O2VI6pwlFwa8lpP1aKcnOqNG-nLkLr0hHfPOi84ZqeV2h96-0Hg2v2ZQJVlYYvgDWEicUwmK81j8QKiWNzwEiDBNicqsBp7zbsczgL1XuEfGWX2CagpwCJvtDm3wLD3KWBEGiKT3iVMW1m-O2NlxRU5GXJgjpSGZLCoILRAAe-HM75ce23ka_",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJB_E--dJOwokRuZ5wwx8erMA",
+      "plus_code": {
+        "compound_code": "HWF7+JF New York, NY, USA",
+        "global_code": "87G7HWF7+JF"
+      },
+      "rating": 5,
+      "reference": "ChIJB_E--dJOwokRuZ5wwx8erMA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574841,
+          "lng": -74.084778
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5762006302915,
+            "lng": -74.0834398197085
+          },
+          "southwest": {
+            "lat": 40.5735026697085,
+            "lng": -74.08613778029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Graham Blvd",
+      "place_id": "ChIJUZ2pu9NOwokRbHd8XuDzSKU",
+      "plus_code": {
+        "compound_code": "HWF8+W3 New York, NY, USA",
+        "global_code": "87G7HWF8+W3"
+      },
+      "reference": "ChIJUZ2pu9NOwokRbHd8XuDzSKU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574051,
+          "lng": -74.09648899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5754386302915,
+            "lng": -74.0951040197085
+          },
+          "southwest": {
+            "lat": 40.5727406697085,
+            "lng": -74.09780198029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Av/Kiswick St",
+      "photos": [
+        {
+          "height": 2088,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112235881721622370081\">Maksim Sergienko</a>"
+          ],
+          "photo_reference": "AU_ZVEGDwL2K18nYYkIQ8VCuHbzrsBCHQDhVwke-A-V6d4qXL-wYCk6BxygZ4bEts291r0eNia5bgz8dzAx3Af8btYioBnWPP7hDp8AlopA4VATkg_aUUHjm75QPHrb-3sXRU_u1Duid-idqAigSBmGcO-0iLdhDJpq4UZDEsyeDo13xJ2s9zWHyEdvQd9abWkK6ej8nU4_2zoz8KFgFg53p-hRXOobRyXEVZlFw71mk17jRgb2ZbfntGkpxwFbY6ffZfacIJH6kvL1txdlayOW43pgARxg3Jv0T_BwdUO3xPLpk0y5qbdAeuFWguhVTC84E4Jw5M2Hn0WN1WHs5TnKrikN3JZXaGMMRT1hGdF8czqNzwUlHkusZXinNPjaUUOtsQ8J8kQioV2LSbYa-UthD8toY50Ta9XyUg1Bp30AIkGlh2BasMM5S7vUQrr6zzaRol96jU55t-Kdev1liKoSUFOvuec2gBatSkx69QzDIyN_GTCpzSJki_F8NkFz5vGvjYWWvfw1OJWWO2_-rRxE08zQ5K5NTEEF-af8M7FX5ogJ3YzHFrV5FhV5jErW9z2lFzkftqWP7AgW8UmDEPtoDRKBc0WAoWkggwDtiJsSZ_wrs6F5jQw1ElrF_Yhg2ZcjFv-uiWON8",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJA3haOMtOwokRYodaBQeCYpE",
+      "plus_code": {
+        "compound_code": "HWF3+JC New York, NY, USA",
+        "global_code": "87G7HWF3+JC"
+      },
+      "rating": 3.5,
+      "reference": "ChIJA3haOMtOwokRYodaBQeCYpE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57517199999999,
+          "lng": -74.08382399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57648023029149,
+            "lng": -74.08254391970848
+          },
+          "southwest": {
+            "lat": 40.5737822697085,
+            "lng": -74.08524188029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Sioux St",
+      "place_id": "ChIJp6fS7NNOwokRklkzKJ1kaQc",
+      "plus_code": {
+        "compound_code": "HWG8+3F New York, NY, USA",
+        "global_code": "87G7HWG8+3F"
+      },
+      "reference": "ChIJp6fS7NNOwokRklkzKJ1kaQc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57468799999999,
+          "lng": -74.09729
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5760075802915,
+            "lng": -74.09596851970849
+          },
+          "southwest": {
+            "lat": 40.5733096197085,
+            "lng": -74.0986664802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Av/Moreland St",
+      "place_id": "ChIJE-UhH8tOwokR8-2t3JcVyCQ",
+      "plus_code": {
+        "compound_code": "HWF3+V3 New York, NY, USA",
+        "global_code": "87G7HWF3+V3"
+      },
+      "reference": "ChIJE-UhH8tOwokR8-2t3JcVyCQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5752735,
+          "lng": -74.09846499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5766275302915,
+            "lng": -74.0971112197085
+          },
+          "southwest": {
+            "lat": 40.5739295697085,
+            "lng": -74.0998091802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Av/Mason Av",
+      "place_id": "ChIJoeXL78pOwokRGG5VA1tJC0U",
+      "plus_code": {
+        "compound_code": "HWG2+4J New York, NY, USA",
+        "global_code": "87G7HWG2+4J"
+      },
+      "reference": "ChIJoeXL78pOwokRGG5VA1tJC0U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57506600000001,
+          "lng": -74.098328
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5764246802915,
+            "lng": -74.09693256970849
+          },
+          "southwest": {
+            "lat": 40.5737267197085,
+            "lng": -74.0996305302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Ave/Mason Ave",
+      "place_id": "ChIJ4w9c78pOwokRAwxWhysZ8-Y",
+      "plus_code": {
+        "compound_code": "HWG2+2M New York, NY, USA",
+        "global_code": "87G7HWG2+2M"
+      },
+      "reference": "ChIJ4w9c78pOwokRAwxWhysZ8-Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.576038,
+          "lng": -74.082748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5773928802915,
+            "lng": -74.08140481970848
+          },
+          "southwest": {
+            "lat": 40.5746949197085,
+            "lng": -74.08410278029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Slater Blvd",
+      "photos": [
+        {
+          "height": 3826,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107493206398934142400\">Allen Alson</a>"
+          ],
+          "photo_reference": "AU_ZVEENhSBd8JpquBQeMURKnHQSHwNFov1wiXLN50pMrvE3POGGvOFG3is7SYb-umOFE-zt1KPd9ORB5IKnLzXk1vnGE5_EOA-l8WOqSxXdkG0cUPvQeortEPHZ6O31RyeG2BQFHRWGgzkvaMWrPOT3ZO19i7_kgZfBjknSV8cGMlEU-3lEfl2M1Hp6Xpz6igHyze1ZreLiCL5K7Z3K2Rzt0Sp5k23xlIbI3halsm6V-_XQSItllLklQn8ZoPhdIHYZsLLOW-_NZ8ZMfn1Mg3cNycWt-WiyWXkz9uN0CLwy4esn8xLNwd58-YVbXQtfr-spJoaHhuNsTI2eo1YUalP0lgDYNX3b4M0dpJKHriHLwbvFxCXn6azIktKqkFBkiUT9V_HU8boQYHA5IPUR4G848wTXybjutpiKKzQ8JSR20o9ySKwqQtr8Eb4vggACIfcojsylLTZxxrG6H9hVc_ifrYqkhBDiz-BPxScm5XkaOmy45GgU6F0aTGcUife4U2iuPWsSqtWjkGYKmfWESZ6FZl2hr8lt8bwembge999LLnKC8cdqFBtdS3IWKcfvRQn9BydHsainHQYU1AKD7vE7cOk0l913Q2VmtV43o68u9ciXDEgfitUh3s-MrxxLzX7mtrM",
+          "width": 13842
+        }
+      ],
+      "place_id": "ChIJ8TtVqNZOwokRxD8TXAbZaj0",
+      "plus_code": {
+        "compound_code": "HWG8+CW New York, NY, USA",
+        "global_code": "87G7HWG8+CW"
+      },
+      "rating": 5,
+      "reference": "ChIJ8TtVqNZOwokRxD8TXAbZaj0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.575481,
+          "lng": -74.098602
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57677538029149,
+            "lng": -74.0973040697085
+          },
+          "southwest": {
+            "lat": 40.5740774197085,
+            "lng": -74.1000020302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Midland Ave/Mason Av",
+      "place_id": "ChIJX9Gb8cpOwokRQH7Fonp1ggE",
+      "plus_code": {
+        "compound_code": "HWG2+5H New York, NY, USA",
+        "global_code": "87G7HWG2+5H"
+      },
+      "reference": "ChIJX9Gb8cpOwokRQH7Fonp1ggE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5763605,
+          "lng": -74.081997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5776903302915,
+            "lng": -74.0806287197085
+          },
+          "southwest": {
+            "lat": 40.5749923697085,
+            "lng": -74.0833266802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "FR Capodanno Bl/Slater Bl",
+      "place_id": "ChIJ0ZJmptZOwokRLWFdD_rPNuo",
+      "plus_code": {
+        "compound_code": "HWG9+G6 New York, NY, USA",
+        "global_code": "87G7HWG9+G6"
+      },
+      "reference": "ChIJ0ZJmptZOwokRLWFdD_rPNuo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.576221,
+          "lng": -74.082054
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57756998029149,
+            "lng": -74.0807050197085
+          },
+          "southwest": {
+            "lat": 40.57487201970849,
+            "lng": -74.08340298029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Slater Blvd",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116271895314676389421\">Tim Noel</a>"
+          ],
+          "photo_reference": "AU_ZVEGy7eHtHmwSFVWYCrrxEW59N29dmi-jt3GgJ9qtYY-4qqgnGHYOzRZE64njrQuHPOvQlIOdL21W_7PHk1K4511EWZ1fT9RmAGDNiWzyHvHGu-AFRwog3cRl0dLJeQozuTTq_CiTta4CkhGLXFvqHYOL5ZK82QqIl0t_6fmzbWXjdqq19ny4LwnyXK9qz3qZ41m8QYXgu7itQEkH07WzuxxLn1eTBte0XiMWj01P0xhPxZxKmh3KsBPJt66GWzrDp1-gdQPdlUFWzFunWF8mAN4EsTN3MxsxxO1Jw3Yfo_CWF4oQwojEAYaGH2OjUTYtUy3H-beNrhmxsb6C4UR4VP1HTPVC2XuorRQPh5tGc9V1qJPk8pr6KNCwjQhoS5W9H4XmUUuLdKFRrPMaeqWP2GznPbhSQLUTb2HgskWRU6LoL8v0eXFLHhQlmMkS3Ae7P5WMUIYSJ31_CqrLI-Bl29hQSR2PXM9ymur7ixiNj-9qZn3KVyHkszalh1G7DDa6mb0L1kTmFVHKdF4nU3Cx6wGpwzN1_1yuhpVIJlrgbFSVjV-SI4-9tV3QYXPt_8qlt96sd_9s6xPOar62GbWCpzDiMWuTlE3LXg8HHKVzbLjlpYqavt-bucFPQFHn9DQhMYnyQQ",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJNVvbo9ZOwokRmXEWZJ-GcZA",
+      "plus_code": {
+        "compound_code": "HWG9+F5 New York, NY, USA",
+        "global_code": "87G7HWG9+F5"
+      },
+      "reference": "ChIJNVvbo9ZOwokRmXEWZJ-GcZA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.576935,
+          "lng": -74.081169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5782945802915,
+            "lng": -74.07983006970848
+          },
+          "southwest": {
+            "lat": 40.5755966197085,
+            "lng": -74.0825280302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Father Capodanno Blvd/Naughton Av",
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116271459576068841417\">Bonnie G</a>"
+          ],
+          "photo_reference": "AU_ZVEHtzoOfsUPff2INs1zSxpRIuvD9lDXXgENNsJbd1l8PhRWLnicxVC3z6jCL3uYwUmF79_xWdwR259sC-kmZ8hqBy25PCcpHdsIg_AzhBcsujPZYyWb1tUdcMaCpgHHbRLwKqQ3sFvHJ04B5Z4YJowG83GE6goFRIkvF2V9laWUFWVt6QadQpq9QKCagYO2Eo5Neu8IzbX4WIEeLOUa3YgjmTXuZvmIxVZ5J7eewg1sP_fdVMhb4c5SaNMdDbWWilxSIzboYXjVVeazgEplpoCe0mDZKdpkxPmQK_rHDJb0VzcG1GcgebyYg9n3fODcm5g7yJ7bXmNCtJM7KA-UV55pFXVwwQraNT2wUB7TL_ZrP9t14pj5MqPIvp2YNV09iFq68lp3VoYNTOI0xetVYk91rGjz9-Uhi4T1mLPKZbpYn2pEu5R1jJD6PqYYM8aE-aZozYYM2GL5tuAAkP0z3V8mQeok5Kj19l5UT50A14ro0JPQbBoCd2Tf3z3vWxOB3Llbn71ze3JDj0f6dbEFzFuosQFqnazDsm8Sa1se52E-6k1uU-YX7tkOD3xtKlpuuyDQNx_INuynE4vpq4XoMBGMCmvH_6UaXJhTUCrJWy87eiaceo9WWLEJ1j0ewgbDaNUb-Av5c3oiDa221Vxt7lg",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJD6OLk9ZOwokRpiyvZB5h-Yc",
+      "plus_code": {
+        "compound_code": "HWG9+QG New York, NY, USA",
+        "global_code": "87G7HWG9+QG"
+      },
+      "reference": "ChIJD6OLk9ZOwokRpiyvZB5h-Yc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

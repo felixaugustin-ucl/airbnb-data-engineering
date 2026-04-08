@@ -1,0 +1,1517 @@
+{
+  "neighbourhood": "Port Ivory",
+  "centroid": {
+    "lat": 40.642800902111325,
+    "lon": -74.17702815738964
+  },
+  "fetched_at": "2026-04-06T14:08:49.861013+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6471513,
+            "lng": -74.1862536
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6484854802915,
+              "lng": -74.1848973697085
+            },
+            "southwest": {
+              "lat": 40.6457875197085,
+              "lng": -74.1875953302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 732-910-2040",
+        "name": "THE SOUTHERN AFFAIR",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117588180252149622439\">Life with Kayla</a>"
+            ],
+            "photo_reference": "AU_ZVEFfQcNmqYxb6vmplkL7PyUkK4uDObdJ6zReA1UP_3-VSnM8pPVfLMmH30yMVe472RGDFpo8BVfdy1qeeq7BCrc1BSQgfgzpUJ8YQw4sWHCAmQluUSTj8YZsMTxwbRstMWEfLtVG1zOdJGKJYT05xxEgsd2LVPQfZnB_zjc_0gpymaOJad5i7uyJdalmClxN8DdhzKfRT83dR3FSAMMX6GtHL7_S5BmgG_mYHVznTpBndA5RiHPRRbE_5Ot37XA2D0lwwc30C9oMJ5Y1vZKIhw6PF0vmWjofW3VglOr9rJgt4zigJ-ZgOUOdWGbxfA_ldxjrWtJaQmShaaxQX9IN_0UxWITjEyTbvmOj_DDAm9WBEI9BTb78-GFNOj29Z0IKQRlAC_217PxonTNXtUCyXKwnl53kxRyEPLbBsxXD1PTIn1bKhELSG1R65qQ22LyHz_gn-Uij4Xl9NhQnVx7fze4kYEakGyh-v16rArGLO4_JzGbFjXVITx_mXVjaL_rAC6xl6CQTl0vtA2-qbH8HhQfUEq-ATSnwo5TYNPzXYhm13nCTcamGFX5CzujhKg_8j65BVxKtfkccm4Z8oQG--yplpW1Vx7GGbN_jkAIMQFX6qJRkA6IZ9I0But_YGeLZl7CXskJfFPer9NB4r6hYPwqPDkQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJo1xyrxRNwokRWPvChjmvzmw",
+        "plus_code": {
+          "compound_code": "JRW7+VF Elizabeth, NJ, USA",
+          "global_code": "87G7JRW7+VF"
+        },
+        "rating": 4.7,
+        "reference": "ChIJo1xyrxRNwokRWPvChjmvzmw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "115 Front Street, Elizabeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.64702459999999,
+            "lng": -74.1869581
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64833423029149,
+              "lng": -74.18555001970849
+            },
+            "southwest": {
+              "lat": 40.64563626970849,
+              "lng": -74.1882479802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 908-558-1959",
+        "name": "Mario's Famous Pizza",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110572242073783424899\">Mario&#39;s Famous Pizza</a>"
+            ],
+            "photo_reference": "AU_ZVEHe0Gl8d_R_R2U5M2c8xursu3oidMfkoce7e_PBEVud1IBxJ0M65T3IrY2UdUNDsOqkWVzGJHMvaESvhjasniCe5IwgF5pEv-SwbQKJB9p0HdyxUHqy5_JGxzTQXOGcAHVQrHpQwtxlGou26gJROTUn8yl63PGfGoYVFezNT6xiP6oQekxS7WIOWx6cQUyqLZHhf4t6mSCHMN2Uu-0bsbyu9B940c1N7pX5ZujBopC46Gr1sZOiULGNlRP5osgWB0027C7h1XVZrIPUGgiGXLDcjKfYBOjRieOwt-gVZI7zd1ublp1H_czav9SOcF2DP_tvAMxHOg4",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJowGcMG9NwokRfApfPkhyq-8",
+        "plus_code": {
+          "compound_code": "JRW7+R6 Elizabeth, NJ, USA",
+          "global_code": "87G7JRW7+R6"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJowGcMG9NwokRfApfPkhyq-8",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 760,
+        "vicinity": "94 Front Street, Elizabeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6465716,
+            "lng": -74.1870881
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6478662302915,
+              "lng": -74.1856949197085
+            },
+            "southwest": {
+              "lat": 40.6451682697085,
+              "lng": -74.1883928802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 908-290-2837",
+        "name": "DaRastaPastaMan",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110413595121742623244\">Marlon Josue Garcia Paredes</a>"
+            ],
+            "photo_reference": "AU_ZVEFHYY2RnXrJlHLA75sgZCbVvC8rgzc79QeuFoBTIzIbNBQpgslorQ-l0BbCqhGbYbHLhZZNZJsbeDuQP0ROobdSVWvghB8D5cAN-pWUNZL6wR_p8GJUf0nd7uuj6LYiVv7fJQWvCNXKK5GQRnBcc8WVaAY-L-5Nbca-38CbFbFm_HNgRk2CV-IxIlzp8PRbVd_kEYySNn5x7rDXoUd84zYC6_sacNGXFzVyBqVUDG82V5V_Ei2nsdj7sVF74aUGQjpcSYxPsYbiSGsJ_0vZP7JSegmjgXMBrAPCVGhK25yIf5DUejrqFsELy-9WSmCb8fTJnwuqoi62JfqAUwYOqEW6iRaL8b-X13XBwZOH1i6dIQEG51UWtosBO8Fp9fKDhNQcjwwdxDyAc_UsUQhl61fotAth-j7-BDGGc7l13cfYLVpruoxxgwgKAq9QhGbdPdMN9uuUtaCYDcTl8SnRrUSl7JDm0bOcbvbgTYJylqMlpwfWeQT7zs-W9vd1QtkpubEi5wCa1CZUVS2BqdE0aOLMsmhn-mXYDs5J_4Pba6hdL_-znGe5f9KLz9Mjaey2ZMX9L-S_Far3BaxipEh_2t7j_sW_Qlh6iG3kWDo1RGJCvimM9KewwAoIuIEp3zJIiBtRyY2uueXLO8YU76jxxxA4YLc",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJK6YQtJlNwokRw15U6rGV4vU",
+        "plus_code": {
+          "compound_code": "JRW7+J5 Elizabeth, NJ, USA",
+          "global_code": "87G7JRW7+J5"
+        },
+        "rating": 5,
+        "reference": "ChIJK6YQtJlNwokRw15U6rGV4vU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "71 Front Street, Elizabeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.64696319999999,
+            "lng": -74.187482
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64837548029149,
+              "lng": -74.1861944697085
+            },
+            "southwest": {
+              "lat": 40.6456775197085,
+              "lng": -74.1888924302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Dominos Pizza",
+        "place_id": "ChIJXbPlZwBNwokRZA9ixoZySbU",
+        "plus_code": {
+          "compound_code": "JRW7+Q2 Elizabeth, NJ, USA",
+          "global_code": "87G7JRW7+Q2"
+        },
+        "reference": "ChIJXbPlZwBNwokRZA9ixoZySbU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "80-88 Front Street, Elizabeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.64696319999999,
+            "lng": -74.187482
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64837548029149,
+              "lng": -74.1861944697085
+            },
+            "southwest": {
+              "lat": 40.6456775197085,
+              "lng": -74.1888924302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Del Porto Italian restaurant",
+        "place_id": "ChIJaxHIYgBNwokRGnntK2aSqRI",
+        "plus_code": {
+          "compound_code": "JRW7+Q2 Elizabeth, NJ, USA",
+          "global_code": "87G7JRW7+Q2"
+        },
+        "reference": "ChIJaxHIYgBNwokRGnntK2aSqRI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "80-88 Front Street, Elizabeth"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6501999,
+            "lng": -74.1814575
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6515502302915,
+              "lng": -74.18010581970849
+            },
+            "southwest": {
+              "lat": 40.6488522697085,
+              "lng": -74.1828037802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Nice Modern 3BR 1BA - W Backyard",
+        "place_id": "ChIJNRSb7XFNwokR1CJEd-IUY_I",
+        "plus_code": {
+          "compound_code": "MR29+3C Elizabeth, NJ, USA",
+          "global_code": "87G7MR29+3C"
+        },
+        "reference": "ChIJNRSb7XFNwokR1CJEd-IUY_I",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6375008,
+            "lng": -74.1685562
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6387564802915,
+              "lng": -74.1672253697085
+            },
+            "southwest": {
+              "lat": 40.6360585197085,
+              "lng": -74.16992333029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "cozzy room with private entrance and drive way - Double Room with Terrace",
+        "place_id": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+        "plus_code": {
+          "compound_code": "JRQJ+2H New York, NY, USA",
+          "global_code": "87G7JRQJ+2H"
+        },
+        "reference": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6375008,
+            "lng": -74.1685562
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6387564802915,
+              "lng": -74.1672253697085
+            },
+            "southwest": {
+              "lat": 40.6360585197085,
+              "lng": -74.16992333029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "cozy room with private bathroom - Double Room with Private Bathroom",
+        "place_id": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+        "plus_code": {
+          "compound_code": "JRQJ+2H New York, NY, USA",
+          "global_code": "87G7JRQJ+2H"
+        },
+        "reference": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63716,
+            "lng": -74.174965
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64265794999998,
+              "lng": -74.17302051970849
+            },
+            "southwest": {
+              "lat": 40.63532735000002,
+              "lng": -74.1757184802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Mariner's Marsh Park",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110422816017252782212\">Christopher Buss</a>"
+            ],
+            "photo_reference": "AU_ZVEEcjnlaqo1rE2dfiU_ti6BfE13gD3pUAutWbw48a031BWz9HGg-q_DBYglcBSyWokAK3NQf5bl5LEIqIaPYd4i8mNMGx9OB6AiwWtDBqPQjpF9PBaLzd72rNtl3qO4FKVmD0ZWVjdxIBsm5vshEEoCmkqaZZvHkr7BI50rLExkTgyoEK4oe6GA8GvTHIqM58qeRY6yPYLg7sG6z_WWBKZjeaKOpe2TETle4g7nD-OcnDruigTVti13xM03rCMeTYwML1cNjPUzoNDOf3xIylECZt6VWR2DgRrPYpNx8iyhmm1ThdQnDU7_kJjNwG9cZWPbjm-SY5UPVfYK_ATwmmAKQCU0YRvfIU6yOfqHzs8DR0BJ81evmIzyZXIZnaFCIHFNs9_BkacSf39rQkKqATs1MGol3rru_3PWsZ5Vt4Q0XxtRw1tXT3oT_9asCcHN8HrsVY97dPIThCmLX4acaYKOSNrfT40EjAZ65N5fNZWiEdkmPG30YWIjxOUMCvdajLkGzMG8GbgeHnVlmsvhS23I_1tPOqgynqyIqSc2Sf0NDAuYe8ukdFMjhtuXaFkdPxetXQZrdWLAW2JhfREYf4C2suNxXtcaTqD2OKqoz4DcfVeUCW3__V6F-dvH--ZE01I9Ec7Ub",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJW72HEglNwokR9zuqHhaaSdI",
+        "plus_code": {
+          "compound_code": "JRPG+V2 Staten Island, NY, USA",
+          "global_code": "87G7JRPG+V2"
+        },
+        "rating": 3.8,
+        "reference": "ChIJW72HEglNwokR9zuqHhaaSdI",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 43,
+        "vicinity": "3418 Richmond Terrace, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6384775,
+            "lng": -74.17116899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6398262802915,
+              "lng": -74.16984141970849
+            },
+            "southwest": {
+              "lat": 40.6371283197085,
+              "lng": -74.1725393802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Holland Av/Benjamin Pl",
+        "place_id": "ChIJkW4pAQpNwokRyVBcSvvzPo4",
+        "plus_code": {
+          "compound_code": "JRQH+9G New York, NY, USA",
+          "global_code": "87G7JRQH+9G"
+        },
+        "reference": "ChIJkW4pAQpNwokRyVBcSvvzPo4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.640709,
+            "lng": -74.170288
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6421014302915,
+              "lng": -74.16895666970849
+            },
+            "southwest": {
+              "lat": 40.6394034697085,
+              "lng": -74.1716546302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Federal Pl",
+        "place_id": "ChIJkS_bfKBNwokRKZxJF-B6T7Q",
+        "plus_code": {
+          "compound_code": "JRRH+7V New York, NY, USA",
+          "global_code": "87G7JRRH+7V"
+        },
+        "reference": "ChIJkS_bfKBNwokRKZxJF-B6T7Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63932399999999,
+            "lng": -74.171188
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64065173029149,
+              "lng": -74.16984026970849
+            },
+            "southwest": {
+              "lat": 40.6379537697085,
+              "lng": -74.1725382302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Holland Ave/Benjamin Pl",
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113070918694095223654\">Stefan Robinson</a>"
+            ],
+            "photo_reference": "AU_ZVEG5mKtPKyM8BLqhxYVg8eOAx3vALpY6n41J0s9jOTYZ1bDBArzdGDkbyG2SHJDdKkLu27Bo1nbNgFIlS37iaNN0y0QCdfTrkbAlMdS_4f4zL17t4qdadUW5J1b5AcGabPqWoq_i-avSFxxQkHtif0UWRfhaRstMZE3Q_PbJnlYOOn2lzg-zzzLnN_xBUe_SaAhawquE2HRLltIz7BJtgpioVCa0M0587GWHtJpgojHiKMlObtNo4q561SGcPYGJPecI8lbZUOAcKIUavSNUcUHZVCiqE1pfY5RPtyborQUCVf1xNP7jcrCCtCZYNy27ZNO-qmPUhZ7DxrdRnb50wyPcDEb5icfXAcFuvdyNRDri4SsnLO27SWrzlZrCu7UO23qI9yC51Y-_lRTpTJiP0mK2AnLePDw6Nktr0yV-XERN9gUiGAXg-pCilvoA6_UUZYDB0a2cm-GqgNb49R7YcIF74Ca83nNN_u9gAPJQ1oXNDfnyWgwNZks7I3R4Ef1EDbxxeiNtXMwkQX-pUJ42_yUg_LJycubuY7vWeuqDW6c5V0WYt43sB_mRJ4Li27WTZYa8W6ZBzCoqp96zfZirHUa0e4XVCQlwoiIBy3kCmpnI0H4JEyEcTdS9ER8Spd9p7Xb0hA",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJzbIbCwpNwokRGI_QRVwPjIs",
+        "plus_code": {
+          "compound_code": "JRQH+PG New York, NY, USA",
+          "global_code": "87G7JRQH+PG"
+        },
+        "reference": "ChIJzbIbCwpNwokRGI_QRVwPjIs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63762699999999,
+            "lng": -74.17115
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63897568029149,
+              "lng": -74.1698241197085
+            },
+            "southwest": {
+              "lat": 40.6362777197085,
+              "lng": -74.1725220802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Holland Ave/Benjamin Pl",
+        "place_id": "ChIJLbMg_QlNwokRCekKd5gSAv0",
+        "plus_code": {
+          "compound_code": "JRQH+3G New York, NY, USA",
+          "global_code": "87G7JRQH+3G"
+        },
+        "rating": 1,
+        "reference": "ChIJLbMg_QlNwokRCekKd5gSAv0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.640587,
+            "lng": -74.167259
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6419374302915,
+              "lng": -74.16594966970848
+            },
+            "southwest": {
+              "lat": 40.6392394697085,
+              "lng": -74.1686476302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Arlington Ave",
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105936864096459175357\">Felicitos Mendoza Barrag\u00e1n</a>"
+            ],
+            "photo_reference": "AU_ZVEEKCr1htV_mx7R3JBMU8HPNs8A5hnjP1URTqlijFY0YunbkoWfMSdWQogTKQJ1hiyWJvy3nc-UeHF7CjQQDQorga6sbO1cFDFj40u6eGeZ282udy7hABWMjlvSwOJOaUhPX8mkPf_TTByAXAPu1tQRuLXgN8rIdBSyEsMv5kaqgbIFoki5Z96TqVPgGUZf4sHo2kqNwbwncQDftkVCNn3qj7P8cK0HtwDdzeUNvPhnrReuyHOGIX1xNC7PQPEaLg6DSfDMeOJ3gYeprLZbl_7FfQNgKkwrorppXEJ-76tCKylzN5br-5xKJIFe8H2-TWu5sFOhlGO487R2gshHotFBvdUVZaP5nsphaTBlzgdXEb8AgDgIYtROx9FhxAf0ebCQmA8LDM-4SjxY0lxvKNrHyYv-N6Ycer7dBLOccvPIC51JYoD8KKrVtN9gITD2aE4zgJ3U8s_Y5_cvM1S83rSMWxp2g0DVY-UisWtg0aTFQTUkmGtR5O8k4qVrKl-REKJG1TSKPiQdpFLPHW-BF-8vyIVONnkMI0AUsHPZN_vIANE-2DM7N6oD8ZOj1G3laEniNBSO_GXjIUSvjVe15rBbWd_jC_L5Nrj-gSfuhXCcIVvxTithMYiurt3QYOEl75PrQhw",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+        "plus_code": {
+          "compound_code": "JRRM+63 New York, NY, USA",
+          "global_code": "87G7JRRM+63"
+        },
+        "reference": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636002,
+            "lng": -74.17107399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6373438302915,
+              "lng": -74.16972536970849
+            },
+            "southwest": {
+              "lat": 40.6346458697085,
+              "lng": -74.1724233302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arlington Pl/Holland Ave",
+        "place_id": "ChIJ0wDf1QlNwokRcKSXnb2aWng",
+        "plus_code": {
+          "compound_code": "JRPH+CH New York, NY, USA",
+          "global_code": "87G7JRPH+CH"
+        },
+        "rating": 5,
+        "reference": "ChIJ0wDf1QlNwokRcKSXnb2aWng",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.64013300000001,
+            "lng": -74.166122
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6414811802915,
+              "lng": -74.1647367197085
+            },
+            "southwest": {
+              "lat": 40.6387832197085,
+              "lng": -74.1674346802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "South Ave/Richmond Terrace",
+        "place_id": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+        "plus_code": {
+          "compound_code": "JRRM+3H New York, NY, USA",
+          "global_code": "87G7JRRM+3H"
+        },
+        "reference": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6401215,
+            "lng": -74.165939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64147163029149,
+              "lng": -74.16464276970848
+            },
+            "southwest": {
+              "lat": 40.6387736697085,
+              "lng": -74.1673407302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/South Av",
+        "place_id": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+        "plus_code": {
+          "compound_code": "JRRM+2J New York, NY, USA",
+          "global_code": "87G7JRRM+2J"
+        },
+        "reference": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.640106,
+            "lng": -74.165756
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6414803302915,
+              "lng": -74.16439126970849
+            },
+            "southwest": {
+              "lat": 40.6387823697085,
+              "lng": -74.16708923029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/South Ave",
+        "place_id": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+        "plus_code": {
+          "compound_code": "JRRM+2M New York, NY, USA",
+          "global_code": "87G7JRRM+2M"
+        },
+        "rating": 2,
+        "reference": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6471513,
+          "lng": -74.1862536
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6484854802915,
+            "lng": -74.1848973697085
+          },
+          "southwest": {
+            "lat": 40.6457875197085,
+            "lng": -74.1875953302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 732-910-2040",
+      "name": "THE SOUTHERN AFFAIR",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117588180252149622439\">Life with Kayla</a>"
+          ],
+          "photo_reference": "AU_ZVEFfQcNmqYxb6vmplkL7PyUkK4uDObdJ6zReA1UP_3-VSnM8pPVfLMmH30yMVe472RGDFpo8BVfdy1qeeq7BCrc1BSQgfgzpUJ8YQw4sWHCAmQluUSTj8YZsMTxwbRstMWEfLtVG1zOdJGKJYT05xxEgsd2LVPQfZnB_zjc_0gpymaOJad5i7uyJdalmClxN8DdhzKfRT83dR3FSAMMX6GtHL7_S5BmgG_mYHVznTpBndA5RiHPRRbE_5Ot37XA2D0lwwc30C9oMJ5Y1vZKIhw6PF0vmWjofW3VglOr9rJgt4zigJ-ZgOUOdWGbxfA_ldxjrWtJaQmShaaxQX9IN_0UxWITjEyTbvmOj_DDAm9WBEI9BTb78-GFNOj29Z0IKQRlAC_217PxonTNXtUCyXKwnl53kxRyEPLbBsxXD1PTIn1bKhELSG1R65qQ22LyHz_gn-Uij4Xl9NhQnVx7fze4kYEakGyh-v16rArGLO4_JzGbFjXVITx_mXVjaL_rAC6xl6CQTl0vtA2-qbH8HhQfUEq-ATSnwo5TYNPzXYhm13nCTcamGFX5CzujhKg_8j65BVxKtfkccm4Z8oQG--yplpW1Vx7GGbN_jkAIMQFX6qJRkA6IZ9I0But_YGeLZl7CXskJfFPer9NB4r6hYPwqPDkQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJo1xyrxRNwokRWPvChjmvzmw",
+      "plus_code": {
+        "compound_code": "JRW7+VF Elizabeth, NJ, USA",
+        "global_code": "87G7JRW7+VF"
+      },
+      "rating": 4.7,
+      "reference": "ChIJo1xyrxRNwokRWPvChjmvzmw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "115 Front Street, Elizabeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.64702459999999,
+          "lng": -74.1869581
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64833423029149,
+            "lng": -74.18555001970849
+          },
+          "southwest": {
+            "lat": 40.64563626970849,
+            "lng": -74.1882479802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 908-558-1959",
+      "name": "Mario's Famous Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110572242073783424899\">Mario&#39;s Famous Pizza</a>"
+          ],
+          "photo_reference": "AU_ZVEHe0Gl8d_R_R2U5M2c8xursu3oidMfkoce7e_PBEVud1IBxJ0M65T3IrY2UdUNDsOqkWVzGJHMvaESvhjasniCe5IwgF5pEv-SwbQKJB9p0HdyxUHqy5_JGxzTQXOGcAHVQrHpQwtxlGou26gJROTUn8yl63PGfGoYVFezNT6xiP6oQekxS7WIOWx6cQUyqLZHhf4t6mSCHMN2Uu-0bsbyu9B940c1N7pX5ZujBopC46Gr1sZOiULGNlRP5osgWB0027C7h1XVZrIPUGgiGXLDcjKfYBOjRieOwt-gVZI7zd1ublp1H_czav9SOcF2DP_tvAMxHOg4",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJowGcMG9NwokRfApfPkhyq-8",
+      "plus_code": {
+        "compound_code": "JRW7+R6 Elizabeth, NJ, USA",
+        "global_code": "87G7JRW7+R6"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJowGcMG9NwokRfApfPkhyq-8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 760,
+      "vicinity": "94 Front Street, Elizabeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6465716,
+          "lng": -74.1870881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6478662302915,
+            "lng": -74.1856949197085
+          },
+          "southwest": {
+            "lat": 40.6451682697085,
+            "lng": -74.1883928802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 908-290-2837",
+      "name": "DaRastaPastaMan",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110413595121742623244\">Marlon Josue Garcia Paredes</a>"
+          ],
+          "photo_reference": "AU_ZVEFHYY2RnXrJlHLA75sgZCbVvC8rgzc79QeuFoBTIzIbNBQpgslorQ-l0BbCqhGbYbHLhZZNZJsbeDuQP0ROobdSVWvghB8D5cAN-pWUNZL6wR_p8GJUf0nd7uuj6LYiVv7fJQWvCNXKK5GQRnBcc8WVaAY-L-5Nbca-38CbFbFm_HNgRk2CV-IxIlzp8PRbVd_kEYySNn5x7rDXoUd84zYC6_sacNGXFzVyBqVUDG82V5V_Ei2nsdj7sVF74aUGQjpcSYxPsYbiSGsJ_0vZP7JSegmjgXMBrAPCVGhK25yIf5DUejrqFsELy-9WSmCb8fTJnwuqoi62JfqAUwYOqEW6iRaL8b-X13XBwZOH1i6dIQEG51UWtosBO8Fp9fKDhNQcjwwdxDyAc_UsUQhl61fotAth-j7-BDGGc7l13cfYLVpruoxxgwgKAq9QhGbdPdMN9uuUtaCYDcTl8SnRrUSl7JDm0bOcbvbgTYJylqMlpwfWeQT7zs-W9vd1QtkpubEi5wCa1CZUVS2BqdE0aOLMsmhn-mXYDs5J_4Pba6hdL_-znGe5f9KLz9Mjaey2ZMX9L-S_Far3BaxipEh_2t7j_sW_Qlh6iG3kWDo1RGJCvimM9KewwAoIuIEp3zJIiBtRyY2uueXLO8YU76jxxxA4YLc",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJK6YQtJlNwokRw15U6rGV4vU",
+      "plus_code": {
+        "compound_code": "JRW7+J5 Elizabeth, NJ, USA",
+        "global_code": "87G7JRW7+J5"
+      },
+      "rating": 5,
+      "reference": "ChIJK6YQtJlNwokRw15U6rGV4vU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "71 Front Street, Elizabeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.64696319999999,
+          "lng": -74.187482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64837548029149,
+            "lng": -74.1861944697085
+          },
+          "southwest": {
+            "lat": 40.6456775197085,
+            "lng": -74.1888924302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Dominos Pizza",
+      "place_id": "ChIJXbPlZwBNwokRZA9ixoZySbU",
+      "plus_code": {
+        "compound_code": "JRW7+Q2 Elizabeth, NJ, USA",
+        "global_code": "87G7JRW7+Q2"
+      },
+      "reference": "ChIJXbPlZwBNwokRZA9ixoZySbU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "80-88 Front Street, Elizabeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.64696319999999,
+          "lng": -74.187482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64837548029149,
+            "lng": -74.1861944697085
+          },
+          "southwest": {
+            "lat": 40.6456775197085,
+            "lng": -74.1888924302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Del Porto Italian restaurant",
+      "place_id": "ChIJaxHIYgBNwokRGnntK2aSqRI",
+      "plus_code": {
+        "compound_code": "JRW7+Q2 Elizabeth, NJ, USA",
+        "global_code": "87G7JRW7+Q2"
+      },
+      "reference": "ChIJaxHIYgBNwokRGnntK2aSqRI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "80-88 Front Street, Elizabeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6501999,
+          "lng": -74.1814575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6515502302915,
+            "lng": -74.18010581970849
+          },
+          "southwest": {
+            "lat": 40.6488522697085,
+            "lng": -74.1828037802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Nice Modern 3BR 1BA - W Backyard",
+      "place_id": "ChIJNRSb7XFNwokR1CJEd-IUY_I",
+      "plus_code": {
+        "compound_code": "MR29+3C Elizabeth, NJ, USA",
+        "global_code": "87G7MR29+3C"
+      },
+      "reference": "ChIJNRSb7XFNwokR1CJEd-IUY_I",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6375008,
+          "lng": -74.1685562
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6387564802915,
+            "lng": -74.1672253697085
+          },
+          "southwest": {
+            "lat": 40.6360585197085,
+            "lng": -74.16992333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "cozzy room with private entrance and drive way - Double Room with Terrace",
+      "place_id": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+      "plus_code": {
+        "compound_code": "JRQJ+2H New York, NY, USA",
+        "global_code": "87G7JRQJ+2H"
+      },
+      "reference": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6375008,
+          "lng": -74.1685562
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6387564802915,
+            "lng": -74.1672253697085
+          },
+          "southwest": {
+            "lat": 40.6360585197085,
+            "lng": -74.16992333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "cozy room with private bathroom - Double Room with Private Bathroom",
+      "place_id": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+      "plus_code": {
+        "compound_code": "JRQJ+2H New York, NY, USA",
+        "global_code": "87G7JRQJ+2H"
+      },
+      "reference": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63716,
+          "lng": -74.174965
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64265794999998,
+            "lng": -74.17302051970849
+          },
+          "southwest": {
+            "lat": 40.63532735000002,
+            "lng": -74.1757184802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Mariner's Marsh Park",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110422816017252782212\">Christopher Buss</a>"
+          ],
+          "photo_reference": "AU_ZVEEcjnlaqo1rE2dfiU_ti6BfE13gD3pUAutWbw48a031BWz9HGg-q_DBYglcBSyWokAK3NQf5bl5LEIqIaPYd4i8mNMGx9OB6AiwWtDBqPQjpF9PBaLzd72rNtl3qO4FKVmD0ZWVjdxIBsm5vshEEoCmkqaZZvHkr7BI50rLExkTgyoEK4oe6GA8GvTHIqM58qeRY6yPYLg7sG6z_WWBKZjeaKOpe2TETle4g7nD-OcnDruigTVti13xM03rCMeTYwML1cNjPUzoNDOf3xIylECZt6VWR2DgRrPYpNx8iyhmm1ThdQnDU7_kJjNwG9cZWPbjm-SY5UPVfYK_ATwmmAKQCU0YRvfIU6yOfqHzs8DR0BJ81evmIzyZXIZnaFCIHFNs9_BkacSf39rQkKqATs1MGol3rru_3PWsZ5Vt4Q0XxtRw1tXT3oT_9asCcHN8HrsVY97dPIThCmLX4acaYKOSNrfT40EjAZ65N5fNZWiEdkmPG30YWIjxOUMCvdajLkGzMG8GbgeHnVlmsvhS23I_1tPOqgynqyIqSc2Sf0NDAuYe8ukdFMjhtuXaFkdPxetXQZrdWLAW2JhfREYf4C2suNxXtcaTqD2OKqoz4DcfVeUCW3__V6F-dvH--ZE01I9Ec7Ub",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJW72HEglNwokR9zuqHhaaSdI",
+      "plus_code": {
+        "compound_code": "JRPG+V2 Staten Island, NY, USA",
+        "global_code": "87G7JRPG+V2"
+      },
+      "rating": 3.8,
+      "reference": "ChIJW72HEglNwokR9zuqHhaaSdI",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "3418 Richmond Terrace, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6384775,
+          "lng": -74.17116899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6398262802915,
+            "lng": -74.16984141970849
+          },
+          "southwest": {
+            "lat": 40.6371283197085,
+            "lng": -74.1725393802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Holland Av/Benjamin Pl",
+      "place_id": "ChIJkW4pAQpNwokRyVBcSvvzPo4",
+      "plus_code": {
+        "compound_code": "JRQH+9G New York, NY, USA",
+        "global_code": "87G7JRQH+9G"
+      },
+      "reference": "ChIJkW4pAQpNwokRyVBcSvvzPo4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.640709,
+          "lng": -74.170288
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6421014302915,
+            "lng": -74.16895666970849
+          },
+          "southwest": {
+            "lat": 40.6394034697085,
+            "lng": -74.1716546302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Federal Pl",
+      "place_id": "ChIJkS_bfKBNwokRKZxJF-B6T7Q",
+      "plus_code": {
+        "compound_code": "JRRH+7V New York, NY, USA",
+        "global_code": "87G7JRRH+7V"
+      },
+      "reference": "ChIJkS_bfKBNwokRKZxJF-B6T7Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63932399999999,
+          "lng": -74.171188
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64065173029149,
+            "lng": -74.16984026970849
+          },
+          "southwest": {
+            "lat": 40.6379537697085,
+            "lng": -74.1725382302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Holland Ave/Benjamin Pl",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113070918694095223654\">Stefan Robinson</a>"
+          ],
+          "photo_reference": "AU_ZVEG5mKtPKyM8BLqhxYVg8eOAx3vALpY6n41J0s9jOTYZ1bDBArzdGDkbyG2SHJDdKkLu27Bo1nbNgFIlS37iaNN0y0QCdfTrkbAlMdS_4f4zL17t4qdadUW5J1b5AcGabPqWoq_i-avSFxxQkHtif0UWRfhaRstMZE3Q_PbJnlYOOn2lzg-zzzLnN_xBUe_SaAhawquE2HRLltIz7BJtgpioVCa0M0587GWHtJpgojHiKMlObtNo4q561SGcPYGJPecI8lbZUOAcKIUavSNUcUHZVCiqE1pfY5RPtyborQUCVf1xNP7jcrCCtCZYNy27ZNO-qmPUhZ7DxrdRnb50wyPcDEb5icfXAcFuvdyNRDri4SsnLO27SWrzlZrCu7UO23qI9yC51Y-_lRTpTJiP0mK2AnLePDw6Nktr0yV-XERN9gUiGAXg-pCilvoA6_UUZYDB0a2cm-GqgNb49R7YcIF74Ca83nNN_u9gAPJQ1oXNDfnyWgwNZks7I3R4Ef1EDbxxeiNtXMwkQX-pUJ42_yUg_LJycubuY7vWeuqDW6c5V0WYt43sB_mRJ4Li27WTZYa8W6ZBzCoqp96zfZirHUa0e4XVCQlwoiIBy3kCmpnI0H4JEyEcTdS9ER8Spd9p7Xb0hA",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJzbIbCwpNwokRGI_QRVwPjIs",
+      "plus_code": {
+        "compound_code": "JRQH+PG New York, NY, USA",
+        "global_code": "87G7JRQH+PG"
+      },
+      "reference": "ChIJzbIbCwpNwokRGI_QRVwPjIs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63762699999999,
+          "lng": -74.17115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63897568029149,
+            "lng": -74.1698241197085
+          },
+          "southwest": {
+            "lat": 40.6362777197085,
+            "lng": -74.1725220802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Holland Ave/Benjamin Pl",
+      "place_id": "ChIJLbMg_QlNwokRCekKd5gSAv0",
+      "plus_code": {
+        "compound_code": "JRQH+3G New York, NY, USA",
+        "global_code": "87G7JRQH+3G"
+      },
+      "rating": 1,
+      "reference": "ChIJLbMg_QlNwokRCekKd5gSAv0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.640587,
+          "lng": -74.167259
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6419374302915,
+            "lng": -74.16594966970848
+          },
+          "southwest": {
+            "lat": 40.6392394697085,
+            "lng": -74.1686476302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Arlington Ave",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105936864096459175357\">Felicitos Mendoza Barrag\u00e1n</a>"
+          ],
+          "photo_reference": "AU_ZVEEKCr1htV_mx7R3JBMU8HPNs8A5hnjP1URTqlijFY0YunbkoWfMSdWQogTKQJ1hiyWJvy3nc-UeHF7CjQQDQorga6sbO1cFDFj40u6eGeZ282udy7hABWMjlvSwOJOaUhPX8mkPf_TTByAXAPu1tQRuLXgN8rIdBSyEsMv5kaqgbIFoki5Z96TqVPgGUZf4sHo2kqNwbwncQDftkVCNn3qj7P8cK0HtwDdzeUNvPhnrReuyHOGIX1xNC7PQPEaLg6DSfDMeOJ3gYeprLZbl_7FfQNgKkwrorppXEJ-76tCKylzN5br-5xKJIFe8H2-TWu5sFOhlGO487R2gshHotFBvdUVZaP5nsphaTBlzgdXEb8AgDgIYtROx9FhxAf0ebCQmA8LDM-4SjxY0lxvKNrHyYv-N6Ycer7dBLOccvPIC51JYoD8KKrVtN9gITD2aE4zgJ3U8s_Y5_cvM1S83rSMWxp2g0DVY-UisWtg0aTFQTUkmGtR5O8k4qVrKl-REKJG1TSKPiQdpFLPHW-BF-8vyIVONnkMI0AUsHPZN_vIANE-2DM7N6oD8ZOj1G3laEniNBSO_GXjIUSvjVe15rBbWd_jC_L5Nrj-gSfuhXCcIVvxTithMYiurt3QYOEl75PrQhw",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+      "plus_code": {
+        "compound_code": "JRRM+63 New York, NY, USA",
+        "global_code": "87G7JRRM+63"
+      },
+      "reference": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636002,
+          "lng": -74.17107399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6373438302915,
+            "lng": -74.16972536970849
+          },
+          "southwest": {
+            "lat": 40.6346458697085,
+            "lng": -74.1724233302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arlington Pl/Holland Ave",
+      "place_id": "ChIJ0wDf1QlNwokRcKSXnb2aWng",
+      "plus_code": {
+        "compound_code": "JRPH+CH New York, NY, USA",
+        "global_code": "87G7JRPH+CH"
+      },
+      "rating": 5,
+      "reference": "ChIJ0wDf1QlNwokRcKSXnb2aWng",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.64013300000001,
+          "lng": -74.166122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6414811802915,
+            "lng": -74.1647367197085
+          },
+          "southwest": {
+            "lat": 40.6387832197085,
+            "lng": -74.1674346802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Ave/Richmond Terrace",
+      "place_id": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+      "plus_code": {
+        "compound_code": "JRRM+3H New York, NY, USA",
+        "global_code": "87G7JRRM+3H"
+      },
+      "reference": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6401215,
+          "lng": -74.165939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64147163029149,
+            "lng": -74.16464276970848
+          },
+          "southwest": {
+            "lat": 40.6387736697085,
+            "lng": -74.1673407302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/South Av",
+      "place_id": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+      "plus_code": {
+        "compound_code": "JRRM+2J New York, NY, USA",
+        "global_code": "87G7JRRM+2J"
+      },
+      "reference": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.640106,
+          "lng": -74.165756
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6414803302915,
+            "lng": -74.16439126970849
+          },
+          "southwest": {
+            "lat": 40.6387823697085,
+            "lng": -74.16708923029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/South Ave",
+      "place_id": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+      "plus_code": {
+        "compound_code": "JRRM+2M New York, NY, USA",
+        "global_code": "87G7JRRM+2M"
+      },
+      "rating": 2,
+      "reference": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

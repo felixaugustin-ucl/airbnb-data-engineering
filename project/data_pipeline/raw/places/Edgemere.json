@@ -1,0 +1,3107 @@
+{
+  "neighbourhood": "Edgemere",
+  "centroid": {
+    "lat": 40.601836657980456,
+    "lon": -73.77731847882735
+  },
+  "fetched_at": "2026-04-06T14:25:54.752348+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59551889999999,
+            "lng": -73.77539410000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59696083029149,
+              "lng": -73.7740348197085
+            },
+            "southwest": {
+              "lat": 40.59426286970849,
+              "lng": -73.77673278029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-337-6015",
+        "name": "New Garden",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103266430009659544441\">Loria Allens</a>"
+            ],
+            "photo_reference": "AU_ZVEGbJPPoK2s_CNEVc5UQi5ol8AgBtUjJhYer12t96Ur6JdUlC_pJCjH-yEhLrvAGTDZdQpZecavWAEFG5S1myiG17ulMghd4IX6xkRU7g_ZwqK4U4pPgh_rQu4DnhYc9EbYN7XXb6nFfnH0tD3UthKAQ8J1cNfOy2Cy4Md4qwwY_IL2Od9pfuGaw5n4rGKJcjQoFLp9pdbmzr1NlC_su6qTbyPhgICtwR7fM5ItAxW25roq2FrML1g4crIUB_ya-kWYYqBGJFXBFveOHbkZGC4xygfxciFYBhmjs7VERuuFwxHd7rky4Pa9dawcI0tiCR04iL-6qjeRavvfTJ05v-8JTPad1FB1F-y5VIEK91AY3l5lnrPHko6S8-bOlEt73hWzbsDVOe4b5N-3iQXTFS854Xf4nE3V5e13dWHYv-mMtONXIjvT7DR3U01QEdjexqld6UN_70A7BixsV_DC9CAlWr-nfo97t2oLs16BW_icuwXWVFCGgmzAwXd4csUM0kAmXhx_5yLIfnfqEPdudVWEUs_UI3AMLMbsC5mN1-cWWSQj_AWTL8BUR-a8iGHIVXMxAjwLewIX5AhDufA6RS_SYPaThhujuStV_VVAmkcFJEVLWxDBew1qsfGhf_zy5YO3VSkjSHFWK7NubQsI_YWs1NoY",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJuRSGcpdowokRUTCs2VMTJZk",
+        "plus_code": {
+          "compound_code": "H6WF+6R Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6WF+6R"
+        },
+        "price_level": 1,
+        "rating": 3.4,
+        "reference": "ChIJuRSGcpdowokRUTCs2VMTJZk",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 166,
+        "vicinity": "43-17 Beach Channel Drive, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5951055,
+            "lng": -73.780188
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5965125802915,
+              "lng": -73.7788400697085
+            },
+            "southwest": {
+              "lat": 40.5938146197085,
+              "lng": -73.7815380302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Forever Jerk",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113959792578934541726\">Keith U</a>"
+            ],
+            "photo_reference": "AU_ZVEGX6uoTddvai80SCKP9xAaaffsjc302hoDXHN9AybKJHmmgrrxUoVdpl1KIEO9FeOFP7HKPiTyT6cKncODfBN-067CaeYbhmuaaKMTZ3YynQxDdKXg2kLI1g0f-lOs6kOGY4DcGXKYTStptv7LeupYzqpQCsW7UrwUS3znGfhmH53Ie183cUN0q5nV_iEgUbXaokUpqPnos8X09mX7bMXsKZ440o-bpP9lIPypxStlCqc3nIBmd7IilEXNBsr-hYF2MW-Hb3jqXVvjglC--WuV0LxQmuOQSLGbqlRVYRFoIjbmZdTpRbUNUqLPtYMljtmrv6GUjxfn03MiAFo11qskfNA9jukCEr2ZEUemPGsK6C71Q7H7ReAoOIYmdBvTxAJIdF0-b6jI45GFmVRcamnhFhYM3nTyP5CnriDn1MchqJcA00wIMZ-tvk-s2XzpLRAK-VRN7EJakDLq4aVBSbIKb96vwXFZ_G8eUPJphDGpTzTgfdcNNnKy3GdbQBjc97Q7jgf3LbdKnpwYdEbGSV__zwljni_Xarexw0r55yn7OENx98OmZTTWSsD75RKVdzPHbLYcB8vOZnK8MgrMieNMkGhQk-D3KS5SXoMfPWvGix5hx1LWheKGjGxpELN-a",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJ6UDDosRpwokR5GPhyCcZGqU",
+        "plus_code": {
+          "compound_code": "H6W9+2W Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6W9+2W"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ6UDDosRpwokR5GPhyCcZGqU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "49-01 Beach Channel Drive, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.593221,
+            "lng": -73.77697700000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5947408302915,
+              "lng": -73.7756101697085
+            },
+            "southwest": {
+              "lat": 40.5920428697085,
+              "lng": -73.77830813029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-484-2233",
+        "name": "Beach Dunes Eats & Arts",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112545845060613603212\">Mahendra Surujnarine</a>"
+            ],
+            "photo_reference": "AU_ZVEGQhZVmqlPzhiy62qt2ixjWjYL9iU0jPWeMSqJEOtG1yYsKNUmdo0tU2tw-QV3NlYVVIXUlpOuPFuFv0_HNJrT7KYoHfPZaQl2kfuhhAsccMVQf9qEDLgydGYjjHIaCLa43ZejVYZldNXK658Rgal_4URkNXqytX5Kp8H7BcnVHmSUc5ht4MuGs-GQVDCJTSDRte5xW404dqJoK7Wt8rqGOsiV-Q31Ggk3UxWqn1tYtPPxKSnViCW--fobWX4J49KEnYbCDO4yeIsNyx2W9kTG2J9mOhydD_g-JQRrxH0jzSf2Lzq2BWT-csXoJPP6bpOYDnO0HACBDA4CIg2s7iYiNn2mu6CNqL2DunDPRD_nYRKiL5gI5spne_SEQ2YJORQq09mAHdzADul7_CuzOyxjU0fTepsu88YxSauPDh9mN2NkFmjLAGKb48b0sgp1n9uS7Po8a5nZzbFJXAbi_19p4XEs-u3VqqVrQ-tfU3E0j21srnLPl5D949suMIqd5hnhBA9n8qDkY2XUfXDpieIxog6dqQbn4__E82hCnIYl7zCP7b47jPUi9tS7gLrktgAls2aUOveNu7wrBJv7SkrOMrYIosoQDxd0Xihm_8rkDMG_QaUr88KhhLr7147bgpgN7UA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ93xgL_RpwokRdGkpmFFWYzk",
+        "plus_code": {
+          "compound_code": "H6VF+76 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6VF+76"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ93xgL_RpwokRdGkpmFFWYzk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 81,
+        "vicinity": "45-19 Rockaway Beach Boulevard, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59868730000001,
+            "lng": -73.7667219
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60052743029149,
+              "lng": -73.76549901970849
+            },
+            "southwest": {
+              "lat": 40.5978294697085,
+              "lng": -73.7681969802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Bayswater Park Barbecuing Areas",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEHguGklO71HWChwjtP0_vIj2YVOuO3O6SHElBeRDwkqDTuTXWJvTELvQm9oJSzFbWktrc6AqD4hhSGGO7-WZxaq7OwGAPPqjnJbEUBngtxoqsxeGoQpjFO9FIr60FfrqDzrGhxxq-KeoWRpfPg7gGavdWLwp9iH41mgVRhy3EXzxyhAMJnft8iPbqPoyqZJkW3TI-UKgBhZGWkIxZXgKgh1iVnVwYc3u7zhSaOUpTKbuzpxvABWtqITzpg4f_5GzRd-dU1u7gms_-QIXIkpF9p--YlMR0Yw7Tz9uGLrafVm3A6GlPz-X67fODIa-_Yk3nNAgcYWK6wG22n0ekGCO70SgyOJL_rO_7EKHgT3kw7roczEsNGPwi9w2aUqIuWv5ohS0EXS4PM3yYkRN8xWXtXDDMSq1-cRqx2uVh9zYRB64WY7FiXG6dHkWY4zCX6Ugnuc4yTwrLNjbyICAThciH7-Sh9at1CAyo7iL_ADl-tY9aLLm9av4Glr6FJlGCkt5uFoH-t-QvyrMnUunGLxr8FZscbyLTT-asDa9FUwDK9qeoFeGWclkKYUBfAt8RzFTOyMtdqBNoYokSsIJDBuGZaC6q9mHDRnnLDZ9o8vHiEYikfaPdW-sXPwbNgsbegJGOncxDWMg0Moi2ePWnwBhlrovBA",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJeQUhfQBpwokRXmhpwJsIBi8",
+        "plus_code": {
+          "compound_code": "H6XM+F8 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6XM+F8"
+        },
+        "rating": 5,
+        "reference": "ChIJeQUhfQBpwokRXmhpwJsIBi8",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "7-01 Bay 32 Street, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59872649999999,
+            "lng": -73.7662622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60004688029149,
+              "lng": -73.76488886970849
+            },
+            "southwest": {
+              "lat": 40.59734891970849,
+              "lng": -73.76758683029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 646-932-7937",
+        "name": "Roots Island Jamaican BBQ",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEENtQybuVJH_JrrtrlkMzRLNMGsFsjm5p-CxxUOcotlV-kd5pwud597V5OfkhgkZtGwF1Z7PPRcdoDY3xMwcWGjvwuE4IM7_-JufDusAv5BiVflbWNBbaOfM6UbWE5Md9qQKzmQ6YlMCYnRREyGDZHl9J4ifcOXZr18xbv02kvGld_eeiafEtWbaKqSSmAhCg9NA8W0QtVHCYvgQBptvJHa8fhvgnw-bKJOgCNzVbymjDLsrqQmz8va-QLj9era0VDzjH_SC4SBH8cj40m1CeuTmcPVKHOx-9fRAEwjS5nUH3Ov6bi3odmUiVKXSRZvRLXHKQx6xt0YK1vV5gZNZ4sLwGAiBIMIE8KnF2tb5ElWB0EJVsx2t7Nfojyh2R9fQeh5KaQ8pXSaRn_6THD-_mceDywtiPIzQSuO2y_pWqOx7eJ7rpZm289_Mx_A46v7HMJz7GB5q5LHcqbOr_mqMcne3JwbNrFIMdbaai_z37s1vkY1ow_vQDrUlPETVW1Z-vHTbAdXHve8dfckyt63qLRtSZTTyGC-7zSSy3MllG5_HMyJLrBaM6FiZVpr2CwDY5FSQ28djQX8JoWwUntQExKSJZRVQkofu1IX4YQI0OUcpbUub_oIQ4srTjLr91dzBMiYaQ",
+            "width": 3419
+          }
+        ],
+        "place_id": "ChIJS9mIEQBpwokRKAeC1sNG04w",
+        "plus_code": {
+          "compound_code": "H6XM+FF Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6XM+FF"
+        },
+        "rating": 5,
+        "reference": "ChIJS9mIEQBpwokRKAeC1sNG04w",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "Beach Channel Drive, Far Rockaway"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59716030000001,
+            "lng": -73.7769012
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5985150302915,
+              "lng": -73.7754673197085
+            },
+            "southwest": {
+              "lat": 40.5958170697085,
+              "lng": -73.7781652802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "NYC Luxury Cottage",
+        "place_id": "ChIJabJs_plowokRiaeG-wG1Dic",
+        "plus_code": {
+          "compound_code": "H6WF+V6 New York, NY, USA",
+          "global_code": "87G8H6WF+V6"
+        },
+        "reference": "ChIJabJs_plowokRiaeG-wG1Dic",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6029663,
+            "lng": -73.768692
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6043438802915,
+              "lng": -73.76720346970849
+            },
+            "southwest": {
+              "lat": 40.6016459197085,
+              "lng": -73.7699014302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "3-bedroom apartment in fabulous Queens with WiFi AC, near to park and beach.",
+        "place_id": "ChIJMaVFqaFowokRVbRkmmPqvaU",
+        "plus_code": {
+          "compound_code": "J63J+5G New York, NY, USA",
+          "global_code": "87G8J63J+5G"
+        },
+        "reference": "ChIJMaVFqaFowokRVbRkmmPqvaU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60296810000001,
+            "lng": -73.76868859999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6043575802915,
+              "lng": -73.76720631970849
+            },
+            "southwest": {
+              "lat": 40.6016596197085,
+              "lng": -73.7699042802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 516-697-0160",
+        "name": "Deborah and Philmore Warner",
+        "place_id": "ChIJZas57xhpwokRPNM5maXR-kk",
+        "plus_code": {
+          "compound_code": "J63J+5G Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J63J+5G"
+        },
+        "reference": "ChIJZas57xhpwokRPNM5maXR-kk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "10-77 Bay 32 Street PH, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5951767,
+            "lng": -73.775177
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59654118029149,
+              "lng": -73.77359266970849
+            },
+            "southwest": {
+              "lat": 40.59384321970849,
+              "lng": -73.7762906302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "2 Bedrooms in beach town in Queens NYC",
+        "place_id": "ChIJCZOnEZdowokRaUoIFr-EQuY",
+        "plus_code": {
+          "compound_code": "H6WF+3W New York, NY, USA",
+          "global_code": "87G8H6WF+3W"
+        },
+        "reference": "ChIJCZOnEZdowokRaUoIFr-EQuY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5948906,
+            "lng": -73.7773514
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59623928029151,
+              "lng": -73.7760070197085
+            },
+            "southwest": {
+              "lat": 40.59354131970851,
+              "lng": -73.77870498029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Extra Spacious 3 Bedrooms with 2 Full Baths near Metro",
+        "place_id": "ChIJC0zy1JBowokRorwniAo_emQ",
+        "plus_code": {
+          "compound_code": "H6VF+X3 New York, NY, USA",
+          "global_code": "87G8H6VF+X3"
+        },
+        "reference": "ChIJC0zy1JBowokRorwniAo_emQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5950089,
+            "lng": -73.7731171
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5963643802915,
+              "lng": -73.77166631970849
+            },
+            "southwest": {
+              "lat": 40.5936664197085,
+              "lng": -73.77436428029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Jaris Beach Suite",
+        "place_id": "ChIJl-atvpdowokRtCUQ4F6tyQw",
+        "plus_code": {
+          "compound_code": "H6WG+2Q New York, NY, USA",
+          "global_code": "87G8H6WG+2Q"
+        },
+        "reference": "ChIJl-atvpdowokRtCUQ4F6tyQw",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59495929999999,
+            "lng": -73.773201
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5963176302915,
+              "lng": -73.7717058197085
+            },
+            "southwest": {
+              "lat": 40.5936196697085,
+              "lng": -73.77440378029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "A Quaint Little \"Peace\" of Heaven by the Beach!!",
+        "place_id": "ChIJT2jlu5dowokR_S5or7Ef1IY",
+        "plus_code": {
+          "compound_code": "H6VG+XP New York, NY, USA",
+          "global_code": "87G8H6VG+XP"
+        },
+        "reference": "ChIJT2jlu5dowokR_S5or7Ef1IY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5949517,
+            "lng": -73.773201
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5963100802915,
+              "lng": -73.77170541970851
+            },
+            "southwest": {
+              "lat": 40.5936121197085,
+              "lng": -73.77440338029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "A Quaint Little \\\"Peace\\\" of Heaven by the Beach!!",
+        "place_id": "ChIJr5Hlu5dowokRCzMEXRdB52k",
+        "plus_code": {
+          "compound_code": "H6VG+XP New York, NY, USA",
+          "global_code": "87G8H6VG+XP"
+        },
+        "reference": "ChIJr5Hlu5dowokRCzMEXRdB52k",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.593422,
+            "lng": -73.7751923
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5948599802915,
+              "lng": -73.7739338697085
+            },
+            "southwest": {
+              "lat": 40.5921620197085,
+              "lng": -73.7766318302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "MASTER SUITE Studio- Private Entrance and Bathroom",
+        "place_id": "ChIJYQcr7JZowokRFefHgH2aTDc",
+        "plus_code": {
+          "compound_code": "H6VF+9W New York, NY, USA",
+          "global_code": "87G8H6VF+9W"
+        },
+        "reference": "ChIJYQcr7JZowokRFefHgH2aTDc",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5949135,
+            "lng": -73.7706681
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59627613029149,
+              "lng": -73.76919881970849
+            },
+            "southwest": {
+              "lat": 40.59357816970849,
+              "lng": -73.7718967802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Modern vacation rental w/hot tub. 15 minutes from the airport",
+        "place_id": "ChIJD5LyZ71owokRu8095HItYU0",
+        "plus_code": {
+          "compound_code": "H6VH+XP New York, NY, USA",
+          "global_code": "87G8H6VH+XP"
+        },
+        "reference": "ChIJD5LyZ71owokRu8095HItYU0",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59635919999999,
+            "lng": -73.7686004
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59769893029149,
+              "lng": -73.76733261970848
+            },
+            "southwest": {
+              "lat": 40.59500096970849,
+              "lng": -73.7700305802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "3-bedroom & 2-bath house near Beach with 2 car parking",
+        "place_id": "ChIJA-8C16JowokRvmWdEXlIgIQ",
+        "plus_code": {
+          "compound_code": "H6WJ+GH New York, NY, USA",
+          "global_code": "87G8H6WJ+GH"
+        },
+        "reference": "ChIJA-8C16JowokRvmWdEXlIgIQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59635919999999,
+            "lng": -73.7686004
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59769893029149,
+              "lng": -73.76733261970848
+            },
+            "southwest": {
+              "lat": 40.59500096970849,
+              "lng": -73.7700305802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Private BR/BA/Kitch/LR nr Beach/Train/JFK/Hospital",
+        "place_id": "ChIJA-8C16JowokR-m4M32Tasjo",
+        "plus_code": {
+          "compound_code": "H6WJ+GH New York, NY, USA",
+          "global_code": "87G8H6WJ+GH"
+        },
+        "reference": "ChIJA-8C16JowokR-m4M32Tasjo",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5963593,
+            "lng": -73.76858519999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5976437802915,
+              "lng": -73.76722881970849
+            },
+            "southwest": {
+              "lat": 40.5949458197085,
+              "lng": -73.7699267802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Private BR, BA,KIT&LR Near Beach/JFK/UBS/Subway",
+        "place_id": "ChIJg4AB16JowokR3f2LSEsOtCc",
+        "reference": "ChIJg4AB16JowokR3f2LSEsOtCc",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5963516,
+            "lng": -73.7685928
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5976396302915,
+              "lng": -73.76723681970849
+            },
+            "southwest": {
+              "lat": 40.5949416697085,
+              "lng": -73.76993478029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Beach House 2Car parking Beach Subway City JFK USB - Three-Bedroom House",
+        "place_id": "ChIJPXYC16JowokR9Uia6hNBUHU",
+        "plus_code": {
+          "compound_code": "H6WJ+GH New York, NY, USA",
+          "global_code": "87G8H6WJ+GH"
+        },
+        "reference": "ChIJPXYC16JowokR9Uia6hNBUHU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5963919,
+            "lng": -73.76853440000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5977168302915,
+              "lng": -73.7672999197085
+            },
+            "southwest": {
+              "lat": 40.5950188697085,
+              "lng": -73.76999788029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "ROCKAWAY HOUSE",
+        "place_id": "ChIJyT3NRgBpwokR1X_0nnA0mP8",
+        "plus_code": {
+          "compound_code": "H6WJ+HH Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6WJ+HH"
+        },
+        "reference": "ChIJyT3NRgBpwokR1X_0nnA0mP8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4-02 Beach 36th Street, Far Rockaway"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6024493,
+            "lng": -73.7699782
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6041589802915,
+              "lng": -73.76863426970849
+            },
+            "southwest": {
+              "lat": 40.6014610197085,
+              "lng": -73.7713322302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Norton Basin Natural Resource Area",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEEGw3T8ed-PveQR3M-R_XttTZf_jyLkFlFndYm6yW64g37rCPSw7PT84FITNCOi07Ynr-Xlpfl36eV7qQECUiyIOS2CAMYnlQuj84PlTzz5ndf4l_eQZXFMkra9AutRiE__gZiAhOiLlwt5NngBVKxCJpxQO7sBC7si4wocHRMpGhP7219_ZM00dn8k0SulpXwDhrwsh-m9APupCyfWdbN60lSw-nv5V6udARuM5m7mIgxpYwRE1HDdOtbpny2i8gtluB1jSCDeDO1vqIQVu1fa0B_UYcCAtG4ol3BfA4GCypdGZ-VHu8hfbFZtvh5_ZLt-vjtrPQ2j6RcrERf4A5VbYAZt4YDMEOL1H-ueD3q2cdFcBf88IYNmVGIVHERUIA3qn_4UV18V3BeeTzc0iPI__WrDPsT1YNPQ2gU9XyMyWIwVoO0RR58pbrMSx7UngzvrLA1fv_weP4iBcHMLnXmQxF3dQCVRy1LKfC0PhefNyM7rG_TIMVcJQsZOOnjj_CWn0wIf4JLLytGk_dtlvTGZV6Oxj83fVmHkXHF5--rPjKjJc6GVaKJMf3sv7f64yErpba4Qpu0pl-FPFiAazAPpayFgtuTCiiP7yFtukK2ByixhfXRIbTUP4LEQo1v_ZyM2oQ",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ4f5IxqFowokR-fLa79ZTUWA",
+        "plus_code": {
+          "compound_code": "J62J+X2 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J62J+X2"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ4f5IxqFowokR-fLa79ZTUWA",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 28,
+        "vicinity": "32-31 Healy Avenue, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.599056,
+            "lng": -73.7691138
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60132985,
+              "lng": -73.76555714999999
+            },
+            "southwest": {
+              "lat": 40.59636445,
+              "lng": -73.77029935
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Bayswater Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110048010024917823475\">Bayswater Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGWcdOZkj42OYe7KA_C9KMQOT7rW-ta42UwdGdgzuqZ74Hb5u6V_HttZSonoGFKFaDDCk67HhIkeM379ckkZvK8j0x7oQEYPm6Lw-A7Zv-cXaOqMptWpkizQSfcvpEc9vBoBUc_wBdFxRGZTZLYItZRMDiykZteSa-zqggdk8XH663KRDXK2fRmbPHxQCrgtD7uL362ldQNbXNpafAJ3VsN91B_ngz1Ga2weTnl3dAdU8sfG0FSGMIi1zWMkVPrDGJhb3NsPsWDa38-kOt1a5-zYbEHUTSFtRMpsTHTrOFi1fYji7oxZxR3mqIspdF9IftN18LUi7I",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJ-6VSIaJowokRal-BA5qdSxc",
+        "plus_code": {
+          "compound_code": "H6XJ+J9 Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6XJ+J9"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ-6VSIaJowokRal-BA5qdSxc",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 788,
+        "vicinity": "7-01 Bay 32 Street, Far Rockaway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5991285,
+            "lng": -73.7850751
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60154290000001,
+              "lng": -73.7837246197085
+            },
+            "southwest": {
+              "lat": 40.5983237,
+              "lng": -73.7864225802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 718-318-4000",
+        "name": "Rockaway Community Park",
+        "photos": [
+          {
+            "height": 955,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110721079709085069032\">Rockaway Community Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGbGs0FGLvUc-Kh5uZAgd7IgJpd0j1S-eL6nft8-NeK7Eis1xmQEMFf0j9ufBAgRkRHESTDhJg8a8cg-eLG88et-r2elVeY1gyQvilJL2_cyn9powzhSwViL5WKQuc_u_z47B96AvpQKpnblBcuWiooJVCvZtAe5xWrXFq4q8TrewK4Y4eYeypATfUGia59YKp5EShjYsnLqCBFQwDjjV0qVeRdVhk8bNcO0tp1ysgPZcrTcjqwbkywlsNxN1Hva7l0YeVdljddEfCwd39sPqRNM-0ToDdPnQ16ZqWk4-aplC30HDTkX9nDhLklhFevGPWxC52iV0s",
+            "width": 1274
+          }
+        ],
+        "place_id": "ChIJM9LBfYVowokR1pPVJthZ7X8",
+        "plus_code": {
+          "compound_code": "H6X7+MX Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H6X7+MX"
+        },
+        "rating": 4.3,
+        "reference": "ChIJM9LBfYVowokR1pPVJthZ7X8",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 116,
+        "vicinity": "Conch Pl. &, Edgemere Park Road, Far Rockaway"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5956865,
+            "lng": -73.7756895
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59706088029149,
+              "lng": -73.77434301970848
+            },
+            "southwest": {
+              "lat": 40.59436291970849,
+              "lng": -73.7770409802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 44 St",
+        "place_id": "ChIJPe6tapdowokRQ2SQmfzqkqI",
+        "plus_code": {
+          "compound_code": "H6WF+7P New York, NY, USA",
+          "global_code": "87G8H6WF+7P"
+        },
+        "reference": "ChIJPe6tapdowokRQ2SQmfzqkqI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595768,
+            "lng": -73.775894
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59706678029149,
+              "lng": -73.77453906970848
+            },
+            "southwest": {
+              "lat": 40.59436881970849,
+              "lng": -73.7772370302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 44 St",
+        "place_id": "ChIJqdVgQJdowokRQB8OKxREpPw",
+        "plus_code": {
+          "compound_code": "H6WF+8J New York, NY, USA",
+          "global_code": "87G8H6WF+8J"
+        },
+        "rating": 2.5,
+        "reference": "ChIJqdVgQJdowokRQB8OKxREpPw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595604,
+            "lng": -73.77548999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59699953029149,
+              "lng": -73.77414636970849
+            },
+            "southwest": {
+              "lat": 40.5943015697085,
+              "lng": -73.7768443302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 44 St",
+        "place_id": "ChIJR1DPFJdowokRK2w1tCRwMM0",
+        "plus_code": {
+          "compound_code": "H6WF+6R New York, NY, USA",
+          "global_code": "87G8H6WF+6R"
+        },
+        "reference": "ChIJR1DPFJdowokRK2w1tCRwMM0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5959105,
+            "lng": -73.7725425
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5972134802915,
+              "lng": -73.7711911197085
+            },
+            "southwest": {
+              "lat": 40.5945155197085,
+              "lng": -73.77388908029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Drive & Beach 40 Street",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEHnzYUI7nKYLdVSU63qzn0jPYVbVXdABpdwd-yL1bHO_bBgzIA0PhdMTRr8qs9sHasrfplyNsOya0hwslWXsaK_VBEb8ZhZ-Pl9EVLQ7iSVpjlSr9GYoZdjECgqpU1r1J5HXt5EuUmTn3oyG75I6If3oYqn3PoGD5kzN_9dHaaExgc6bhCBKp8sVDbfAEwAVHdaI8Gh47oEd-UOGrjabhiz1wh6nH_3PwJZ5FAvX8CSOOCS_Z0DGYRI5CWCq7TCU53bG-0zT8Myg7n0Aigr2gxR912ZjTJlCB4Mdvt9CbnB5dRkeQsrkdWqFtAPr4chbKgVPj_DTELDuR-2HJlEOcH-rEQK7gUD4B-EW3d7S_xF3ZuCZi-Z9NKkb8Si7mkPCN4nHFcaCHKsHxx2g1UBw04Xa0FtmdYlq6et9oJV87tJ0ePT59xJXgPdgmcIfCODMiYjN-jECDeF8_ir3dwU3T4tp8krepNMRKXvWCIc8fUjg7Y--8dkFmfrowg9sEaXGud-kNeKZasWea6U4VcmixcVpVPiMjP5TXpggr3rFBQj7IBb1L3oxpl8h9FD40gtG4yuGGn3bWsje1Kr5p81z-nX2FuvdLF97xF6kfHtnucRccNnSDDzkGp6POUpStYXu_eh0Kdc",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJU_GG7ZdowokRvOkJW5eizXA",
+        "plus_code": {
+          "compound_code": "H6WG+9X New York, NY, USA",
+          "global_code": "87G8H6WG+9X"
+        },
+        "reference": "ChIJU_GG7ZdowokRvOkJW5eizXA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595763,
+            "lng": -73.772531
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5971361302915,
+              "lng": -73.7711833697085
+            },
+            "southwest": {
+              "lat": 40.5944381697085,
+              "lng": -73.7738813302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 41st Street",
+        "place_id": "ChIJ9Y8G7ZdowokRLEia2qCfUkA",
+        "plus_code": {
+          "compound_code": "H6WG+8X New York, NY, USA",
+          "global_code": "87G8H6WG+8X"
+        },
+        "reference": "ChIJ9Y8G7ZdowokRLEia2qCfUkA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5957339,
+            "lng": -73.7725316
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5971251802915,
+              "lng": -73.77118486970849
+            },
+            "southwest": {
+              "lat": 40.5944272197085,
+              "lng": -73.77388283029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 41 St",
+        "place_id": "ChIJ3RMH7ZdowokRnBJHTUQGkew",
+        "plus_code": {
+          "compound_code": "H6WG+7X New York, NY, USA",
+          "global_code": "87G8H6WG+7X"
+        },
+        "reference": "ChIJ3RMH7ZdowokRnBJHTUQGkew",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595307,
+            "lng": -73.781581
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5966906302915,
+              "lng": -73.78023591970849
+            },
+            "southwest": {
+              "lat": 40.5939926697085,
+              "lng": -73.78293388029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 51 St",
+        "place_id": "ChIJgfiuSpBowokR8Ik0mhUF6no",
+        "plus_code": {
+          "compound_code": "H6W9+49 New York, NY, USA",
+          "global_code": "87G8H6W9+49"
+        },
+        "reference": "ChIJgfiuSpBowokR8Ik0mhUF6no",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595398,
+            "lng": -73.781487
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5967042802915,
+              "lng": -73.7801428197085
+            },
+            "southwest": {
+              "lat": 40.5940063197085,
+              "lng": -73.78284078029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 51 St",
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102747507916538731917\">Adekunle Onanuga</a>"
+            ],
+            "photo_reference": "AU_ZVEG3r7EA3J5szHqwbFeW6Bi7_M2s1Utmw4coalndiU3ik7ZGJaG7-_lD_K407d1Heh0MFuFivgZTLhMmJeDuM5ltDzpPWhWWY9Ug5HXbVXi2TIlQzmmKtXfrhI9Q2ddHYXN8GAWtrZzW5lTFDdkCHTh2WRO7DYWDzSmZL0OdITfihjG5qIZa8QittpkfVkWk_UTiQxT33yvILM4HK1qN0Ok7Hku19tAYUM3K-gyOht02Y_-niOFkiAJHAuYjhJKQXps5ZKAsP5vIDkr9cvhfUdXUxFUz8sjqgtgWUQzyTWhF7HhbvB5PViCqselN7mUuzba-8h8-dCX5egUGniuVnkhcW00YLiV71JnrIddMcy5YYnV9brzzuhUMfvL7oG1JFCAUdTTvp3ePGzeYtK1OzwJS5s-_mIi4oNNx8hFeP7taFVFvYeNZO5zvxhLMh94_fw9HvSz7npcLsA-KnIH_1wMoDN7klFXYBajm-xxQ8oeaV9s5QMY166vOO-MWA-kdZ9NVE16cyqx0JS8-bJJgxHY8_XLrnCyWFQknrWVS3zQnGQ_ETb0pdrZB_4FBxMgFq8qbqRJdno2Ofle-s6nG-rW6-UaYoqrIh_GpBsYR4eXMAgnf0Qyrw9M30d6DH8PSFbbFxVrV",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJh9vwSpBowokRMo2MAI1qtSQ",
+        "plus_code": {
+          "compound_code": "H6W9+5C New York, NY, USA",
+          "global_code": "87G8H6W9+5C"
+        },
+        "rating": 2,
+        "reference": "ChIJh9vwSpBowokRMo2MAI1qtSQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595219,
+            "lng": -73.781677
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5965755302915,
+              "lng": -73.78032896970849
+            },
+            "southwest": {
+              "lat": 40.5938775697085,
+              "lng": -73.7830269302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 51 St",
+        "photos": [
+          {
+            "height": 1525,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEHz8XCTOZeqBa4EYTgc2pblx41vuKDYGQdbtSQFAqCV7o5NIt8VU_4B2He7lrjJ6X43bqBp7ETOxtRCALWPGvQmNr45By7ZXQAWn5PgCZbYY8zo0HoyBxdtzlIPN3yv9-2ELnjxea34OIkpOFxx_lNghdoCNRtOg1Cjfb_U4xiUAB_eSl5id89G1wJUhXY9QgnCmftVXyXLp0mJ5hB9uPqa4X3tHcwO2CBPSr8AMw_sYhCTAicZP8vYxdmmpgXimgCk6gqzARvj0S88yQuAQHv5iJgW9iUeoXBLuFErehtQNy6XhB38ZSW_99eBVpvLdqTOCBIFZsChCdiz0IkkvWab2uUYl_0kTw2BTQtTLl6Vwjnm5B94LnwGJWAAvSKajCo6YR9c4EkYprNLGTB5bnUeLBlig0DKhY2nS-1cKLZMGHxAsb4eIWM4JoKUco5C4bhLKsdmQDip2LB-mjAokdLw8baKVxwyuZYnh1WLLfsScHgWq5fcTKHYSRwPUoi1hGs-KLzCsk-PDOwD4uaGyb32DgRKrE4L9yC-0-qq4DvEKh8JbsIAb6en-d9R0B5nVF_MI54Z-3fegD8ayuOmIeRaDQaIrYLQe1M66SVB-NDFSIDDWIQmLGzxHcgYNxq26DluTS2Bx7GzWXLfQSWfZQvs",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJh4a9ypFowokRkpaEay9tu1E",
+        "plus_code": {
+          "compound_code": "H6W9+38 New York, NY, USA",
+          "global_code": "87G8H6W9+38"
+        },
+        "reference": "ChIJh4a9ypFowokRkpaEay9tu1E",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.596325,
+            "lng": -73.76917999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5975979302915,
+              "lng": -73.7678166697085
+            },
+            "southwest": {
+              "lat": 40.59489996970851,
+              "lng": -73.7705146302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bch Chann Dr/Beach 36 St",
+        "photos": [
+          {
+            "height": 1908,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEE8uHERRt7DqBtUbyLLQfSfXR79n7n8gam7adm3ioxg9OyDdrj7vwftaFPDHPWYYqG-aF4wgSQ36iTvH7GMwvwf8VkhcIZjeLHvnGcmUNFUGvfrQofatT6JL9BWN4_kH16NJO_Vr-xuE-y51nVN5YMlQW5ZtnMuyuAu6SG064q1Tvgc8y-jFthrZJaCWr3Oth9kI9g-YhmdBtYrqw9riGlqNDOsCShPa4i1waCGz2N0SAxOTxSHqQxFa1dn_ubGh6ARBfSmqQWYSTXQhfQ6Mi5LcQLzfMAxu-l8q0N1NS7ftjKOY_Cczs3yoY0OqY58Zyut1PDYaJ2-edAklGWBnH_a3xBRuE58Eaq_nU1reNpaJfDqbD05zlTdePSH0Z5D-vcHJP3jl94lnmqkjQU5sbnH_ASZMKKq7m7wNLNun173WTC5D-CoGrAyrUTI4Ck6sPYjFGwOsclNg1MqFCzZoWQQG4tWWmFKYPu3VgRgvxYBLF8x4IbO9TXirdKNIOYd0sg-ZvglsL_AP6TAGBzEdN1CYXrEcRm4STzQ9hUpZMVTxJg2C2z9G2Xt2050DU3iIx0kbCKsaA7weDAX9JRbsEKqKqdFsy2WZXeKF854qqHX4wrJZaAVQzcWKB5QbcvJikuYTA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJv_SQ0aJowokR2netF2hLJiY",
+        "plus_code": {
+          "compound_code": "H6WJ+G8 New York, NY, USA",
+          "global_code": "87G8H6WJ+G8"
+        },
+        "rating": 5,
+        "reference": "ChIJv_SQ0aJowokR2netF2hLJiY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595196,
+            "lng": -73.78475999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5965040802915,
+              "lng": -73.78340676970849
+            },
+            "southwest": {
+              "lat": 40.5938061197085,
+              "lng": -73.7861047302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 54 St",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEElJXcMi1XlxKUTU62vhSQwsfqa6IihgsGElboNNloHxNnp6X8cJ8lQ0GV-XQy9lqVxKlRmD4z_OPHRF5mtqXKv4u6VQRohBxIed7CqtLmpESb1vBVSOSTwCPWG6YIo1ptBS7zd-_rhkAd_M8LMzq2EXGYhhz50EpHaFbMSaLPlrW_0MJIx619oU-QeeOoZjmEO8BX7dhEoGa3BfCAnhq-lr-pjrNdchFoK9RiP6yDhYCoYPTnEXCV90ps9QB8OJf5h_45_dxHvJ5RpfABAXYIdv0S17x-crYiLAi4JYRY1KyrJQ2V_oFSEFlhhADtqsQk2y30tiH45FacaSnaT7_-zxUXJ-OybTdbAt3eM40lq0iAAl-7FM9cKFERFWySAXIPBqfnLxBGi_5rRGXpCC2pamunnvHLCb3EdQ6Gzn8zYh-9o_M6-T9nzXHda2YTK7yV89_k9BqjHk_DTIZKa_nX2GmcKR_mOrDBZ3OX17HRtAMxyXWYEshM7nhbwvMkmBRXLY6172bEzlKgscotvDah7Q2bxWF1ELPc6WTRTf59aQtcPjr7W3IKmsPQc5GNjcot4mvvETZCepHiqJebzRod9so5RfeP1j1gYAMrMtMqiHMrFMFt1C1YSXNkVgtU6Qf6s6g",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJw0uLSI5owokRU1N2MqmV0rI",
+        "plus_code": {
+          "compound_code": "H6W8+33 New York, NY, USA",
+          "global_code": "87G8H6W8+33"
+        },
+        "rating": 5,
+        "reference": "ChIJw0uLSI5owokRU1N2MqmV0rI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595083,
+            "lng": -73.78475949999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5964310802915,
+              "lng": -73.78341046970849
+            },
+            "southwest": {
+              "lat": 40.5937331197085,
+              "lng": -73.7861084302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 54 St",
+        "place_id": "ChIJZ-ktRo5owokRwV9zcFb886c",
+        "plus_code": {
+          "compound_code": "H6W8+23 New York, NY, USA",
+          "global_code": "87G8H6W8+23"
+        },
+        "reference": "ChIJZ-ktRo5owokRwV9zcFb886c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594971,
+            "lng": -73.78475999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5963534802915,
+              "lng": -73.78341491970848
+            },
+            "southwest": {
+              "lat": 40.5936555197085,
+              "lng": -73.7861128802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach Channel Dr/Beach 54 St",
+        "photos": [
+          {
+            "height": 1129,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEHowF17nCH_rDmfdXdRoRfeWhJYDU4sY8RhWwhAK9ioKbMB5H7e0QbNbLI384qTMZ3AXx0A5bfnwpIt6ngbvLT5fiJ1tqwuUuXPt5DkEu0oHz-iA8Qaab9zthWDRpR-8MzRl5VT4vuTaRpUEnD1tHZrl30-_r8TUwphSgsZ4mejECDFusP7k6Vdc2bZbUW3HSmyTuqd8iLCLR6dFmg-16E-Xnvs0Shu-TdwsmG3ZNXqE1vvXtLBk04XaQves2E8rMmYYV8QeVC2Jd0yRogrUAzN6Gu_92viX1Kjpl31aY4eBYLwkr2Ya34GU2CpbBcqY6pqkm-f-b08ix89WXyaeBu5Uw6ATwbwt2vhvEUDcfbiDM8PhS6pDwIGkXPZC1qz1VOlS6jHugeC-PSnrHOf1Ba1VDoaxaqF7HYKrnHenDTmdogHYICa0YVYz5Pj9waLZKPo1YUozbylyRfrqL0JinyQAXSBiEHvMcHqXmRrfIZiA7FL7AXGWYCJkLhKzJ0wSdGO5EEpu_635-uyl6RBnT3N-PySq-9POakBLzdNTzGz43FT4rYLjMrE-n5Ddmse7qwC1sgToj837EN6CiXq04WkCVAgBrKq7WAUhyJ6V0fiJE2IuRWJOKA3R_PX7nmQtycPfekZHMKAwp3DXXFGJeP_",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ_c5VRo5owokR_xZfs-587IE",
+        "plus_code": {
+          "compound_code": "H6V8+X3 New York, NY, USA",
+          "global_code": "87G8H6V8+X3"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ_c5VRo5owokR_xZfs-587IE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5929198,
+            "lng": -73.7759262
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5943907302915,
+              "lng": -73.77431746970849
+            },
+            "southwest": {
+              "lat": 40.5916927697085,
+              "lng": -73.7770154302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 44 St",
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102270916178756585218\">Stephan Gr\u00fctering</a>"
+            ],
+            "photo_reference": "AU_ZVEGPMPCP0tUSQzcAclpewJmBzt3pDOBBEuxCacxv8Gll3ChmudG8NDcAbXKTtmrzMPDHslMjVRoKXTjKOu4qxEdXGWgUz9HmtOYBGRXWZSc4SE_j80EwdMxzxjwV1uHiB_6w30B_NJmuQo6G-peCUPVPlfC15ESLtrVubyw4hlLvTTrh7LgoDIH8RDIn3ibZpBF_5QsDcJUY53S_wE1ToyG7EjFhuJlIeYJqlgtQAQLk34gPmll1bY3k-d1YRvnv3wBdjIWrYT-7Eto7oIfsljj6OhtnCLh1GxtXXmC7pwtMHPB5ylGpV1DmV0i0GgzL7wNGQSFB7nCHPbBKbFYHANzBaLc0wilx5AHKxW6nGVxoE93P6RK0zUd3eZjg4ACFb0mDqpXD-KhxbnMgWoRpuS_rSWxyIUfWfOxZHeb-PNurc52DoO-RRPq4H_lzAvVR8b-B3nF_sV5618EvMaVbgWfh2joh3Js0uxrHW4aNtvByU4riv1W64uCUPvM70i9CmIVxerQDYyKionwm24qK4OkHjmOeZq78-zKxf1bmANm4UiR8g-J3C-wOWPbHGLyQZwSvsYhFvpXUKZzEs0HQRBgw0p_gloX2prk0EY62LKCV-LoBwWWZNI5hkUVU4PMiUPBJfOZw",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJx8uhvpZowokRpkW3UqQq7yQ",
+        "plus_code": {
+          "compound_code": "H6VF+5J New York, NY, USA",
+          "global_code": "87G8H6VF+5J"
+        },
+        "rating": 4.4,
+        "reference": "ChIJx8uhvpZowokRpkW3UqQq7yQ",
+        "scope": "GOOGLE",
+        "types": [
+          "subway_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 27,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59551889999999,
+          "lng": -73.77539410000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59696083029149,
+            "lng": -73.7740348197085
+          },
+          "southwest": {
+            "lat": 40.59426286970849,
+            "lng": -73.77673278029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-337-6015",
+      "name": "New Garden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103266430009659544441\">Loria Allens</a>"
+          ],
+          "photo_reference": "AU_ZVEGbJPPoK2s_CNEVc5UQi5ol8AgBtUjJhYer12t96Ur6JdUlC_pJCjH-yEhLrvAGTDZdQpZecavWAEFG5S1myiG17ulMghd4IX6xkRU7g_ZwqK4U4pPgh_rQu4DnhYc9EbYN7XXb6nFfnH0tD3UthKAQ8J1cNfOy2Cy4Md4qwwY_IL2Od9pfuGaw5n4rGKJcjQoFLp9pdbmzr1NlC_su6qTbyPhgICtwR7fM5ItAxW25roq2FrML1g4crIUB_ya-kWYYqBGJFXBFveOHbkZGC4xygfxciFYBhmjs7VERuuFwxHd7rky4Pa9dawcI0tiCR04iL-6qjeRavvfTJ05v-8JTPad1FB1F-y5VIEK91AY3l5lnrPHko6S8-bOlEt73hWzbsDVOe4b5N-3iQXTFS854Xf4nE3V5e13dWHYv-mMtONXIjvT7DR3U01QEdjexqld6UN_70A7BixsV_DC9CAlWr-nfo97t2oLs16BW_icuwXWVFCGgmzAwXd4csUM0kAmXhx_5yLIfnfqEPdudVWEUs_UI3AMLMbsC5mN1-cWWSQj_AWTL8BUR-a8iGHIVXMxAjwLewIX5AhDufA6RS_SYPaThhujuStV_VVAmkcFJEVLWxDBew1qsfGhf_zy5YO3VSkjSHFWK7NubQsI_YWs1NoY",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJuRSGcpdowokRUTCs2VMTJZk",
+      "plus_code": {
+        "compound_code": "H6WF+6R Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6WF+6R"
+      },
+      "price_level": 1,
+      "rating": 3.4,
+      "reference": "ChIJuRSGcpdowokRUTCs2VMTJZk",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 166,
+      "vicinity": "43-17 Beach Channel Drive, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5951055,
+          "lng": -73.780188
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5965125802915,
+            "lng": -73.7788400697085
+          },
+          "southwest": {
+            "lat": 40.5938146197085,
+            "lng": -73.7815380302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Forever Jerk",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113959792578934541726\">Keith U</a>"
+          ],
+          "photo_reference": "AU_ZVEGX6uoTddvai80SCKP9xAaaffsjc302hoDXHN9AybKJHmmgrrxUoVdpl1KIEO9FeOFP7HKPiTyT6cKncODfBN-067CaeYbhmuaaKMTZ3YynQxDdKXg2kLI1g0f-lOs6kOGY4DcGXKYTStptv7LeupYzqpQCsW7UrwUS3znGfhmH53Ie183cUN0q5nV_iEgUbXaokUpqPnos8X09mX7bMXsKZ440o-bpP9lIPypxStlCqc3nIBmd7IilEXNBsr-hYF2MW-Hb3jqXVvjglC--WuV0LxQmuOQSLGbqlRVYRFoIjbmZdTpRbUNUqLPtYMljtmrv6GUjxfn03MiAFo11qskfNA9jukCEr2ZEUemPGsK6C71Q7H7ReAoOIYmdBvTxAJIdF0-b6jI45GFmVRcamnhFhYM3nTyP5CnriDn1MchqJcA00wIMZ-tvk-s2XzpLRAK-VRN7EJakDLq4aVBSbIKb96vwXFZ_G8eUPJphDGpTzTgfdcNNnKy3GdbQBjc97Q7jgf3LbdKnpwYdEbGSV__zwljni_Xarexw0r55yn7OENx98OmZTTWSsD75RKVdzPHbLYcB8vOZnK8MgrMieNMkGhQk-D3KS5SXoMfPWvGix5hx1LWheKGjGxpELN-a",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJ6UDDosRpwokR5GPhyCcZGqU",
+      "plus_code": {
+        "compound_code": "H6W9+2W Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6W9+2W"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ6UDDosRpwokR5GPhyCcZGqU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "49-01 Beach Channel Drive, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.593221,
+          "lng": -73.77697700000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5947408302915,
+            "lng": -73.7756101697085
+          },
+          "southwest": {
+            "lat": 40.5920428697085,
+            "lng": -73.77830813029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-484-2233",
+      "name": "Beach Dunes Eats & Arts",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112545845060613603212\">Mahendra Surujnarine</a>"
+          ],
+          "photo_reference": "AU_ZVEGQhZVmqlPzhiy62qt2ixjWjYL9iU0jPWeMSqJEOtG1yYsKNUmdo0tU2tw-QV3NlYVVIXUlpOuPFuFv0_HNJrT7KYoHfPZaQl2kfuhhAsccMVQf9qEDLgydGYjjHIaCLa43ZejVYZldNXK658Rgal_4URkNXqytX5Kp8H7BcnVHmSUc5ht4MuGs-GQVDCJTSDRte5xW404dqJoK7Wt8rqGOsiV-Q31Ggk3UxWqn1tYtPPxKSnViCW--fobWX4J49KEnYbCDO4yeIsNyx2W9kTG2J9mOhydD_g-JQRrxH0jzSf2Lzq2BWT-csXoJPP6bpOYDnO0HACBDA4CIg2s7iYiNn2mu6CNqL2DunDPRD_nYRKiL5gI5spne_SEQ2YJORQq09mAHdzADul7_CuzOyxjU0fTepsu88YxSauPDh9mN2NkFmjLAGKb48b0sgp1n9uS7Po8a5nZzbFJXAbi_19p4XEs-u3VqqVrQ-tfU3E0j21srnLPl5D949suMIqd5hnhBA9n8qDkY2XUfXDpieIxog6dqQbn4__E82hCnIYl7zCP7b47jPUi9tS7gLrktgAls2aUOveNu7wrBJv7SkrOMrYIosoQDxd0Xihm_8rkDMG_QaUr88KhhLr7147bgpgN7UA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ93xgL_RpwokRdGkpmFFWYzk",
+      "plus_code": {
+        "compound_code": "H6VF+76 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6VF+76"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ93xgL_RpwokRdGkpmFFWYzk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 81,
+      "vicinity": "45-19 Rockaway Beach Boulevard, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59868730000001,
+          "lng": -73.7667219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60052743029149,
+            "lng": -73.76549901970849
+          },
+          "southwest": {
+            "lat": 40.5978294697085,
+            "lng": -73.7681969802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Bayswater Park Barbecuing Areas",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEHguGklO71HWChwjtP0_vIj2YVOuO3O6SHElBeRDwkqDTuTXWJvTELvQm9oJSzFbWktrc6AqD4hhSGGO7-WZxaq7OwGAPPqjnJbEUBngtxoqsxeGoQpjFO9FIr60FfrqDzrGhxxq-KeoWRpfPg7gGavdWLwp9iH41mgVRhy3EXzxyhAMJnft8iPbqPoyqZJkW3TI-UKgBhZGWkIxZXgKgh1iVnVwYc3u7zhSaOUpTKbuzpxvABWtqITzpg4f_5GzRd-dU1u7gms_-QIXIkpF9p--YlMR0Yw7Tz9uGLrafVm3A6GlPz-X67fODIa-_Yk3nNAgcYWK6wG22n0ekGCO70SgyOJL_rO_7EKHgT3kw7roczEsNGPwi9w2aUqIuWv5ohS0EXS4PM3yYkRN8xWXtXDDMSq1-cRqx2uVh9zYRB64WY7FiXG6dHkWY4zCX6Ugnuc4yTwrLNjbyICAThciH7-Sh9at1CAyo7iL_ADl-tY9aLLm9av4Glr6FJlGCkt5uFoH-t-QvyrMnUunGLxr8FZscbyLTT-asDa9FUwDK9qeoFeGWclkKYUBfAt8RzFTOyMtdqBNoYokSsIJDBuGZaC6q9mHDRnnLDZ9o8vHiEYikfaPdW-sXPwbNgsbegJGOncxDWMg0Moi2ePWnwBhlrovBA",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJeQUhfQBpwokRXmhpwJsIBi8",
+      "plus_code": {
+        "compound_code": "H6XM+F8 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6XM+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJeQUhfQBpwokRXmhpwJsIBi8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "7-01 Bay 32 Street, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59872649999999,
+          "lng": -73.7662622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60004688029149,
+            "lng": -73.76488886970849
+          },
+          "southwest": {
+            "lat": 40.59734891970849,
+            "lng": -73.76758683029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 646-932-7937",
+      "name": "Roots Island Jamaican BBQ",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEENtQybuVJH_JrrtrlkMzRLNMGsFsjm5p-CxxUOcotlV-kd5pwud597V5OfkhgkZtGwF1Z7PPRcdoDY3xMwcWGjvwuE4IM7_-JufDusAv5BiVflbWNBbaOfM6UbWE5Md9qQKzmQ6YlMCYnRREyGDZHl9J4ifcOXZr18xbv02kvGld_eeiafEtWbaKqSSmAhCg9NA8W0QtVHCYvgQBptvJHa8fhvgnw-bKJOgCNzVbymjDLsrqQmz8va-QLj9era0VDzjH_SC4SBH8cj40m1CeuTmcPVKHOx-9fRAEwjS5nUH3Ov6bi3odmUiVKXSRZvRLXHKQx6xt0YK1vV5gZNZ4sLwGAiBIMIE8KnF2tb5ElWB0EJVsx2t7Nfojyh2R9fQeh5KaQ8pXSaRn_6THD-_mceDywtiPIzQSuO2y_pWqOx7eJ7rpZm289_Mx_A46v7HMJz7GB5q5LHcqbOr_mqMcne3JwbNrFIMdbaai_z37s1vkY1ow_vQDrUlPETVW1Z-vHTbAdXHve8dfckyt63qLRtSZTTyGC-7zSSy3MllG5_HMyJLrBaM6FiZVpr2CwDY5FSQ28djQX8JoWwUntQExKSJZRVQkofu1IX4YQI0OUcpbUub_oIQ4srTjLr91dzBMiYaQ",
+          "width": 3419
+        }
+      ],
+      "place_id": "ChIJS9mIEQBpwokRKAeC1sNG04w",
+      "plus_code": {
+        "compound_code": "H6XM+FF Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6XM+FF"
+      },
+      "rating": 5,
+      "reference": "ChIJS9mIEQBpwokRKAeC1sNG04w",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "Beach Channel Drive, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59716030000001,
+          "lng": -73.7769012
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5985150302915,
+            "lng": -73.7754673197085
+          },
+          "southwest": {
+            "lat": 40.5958170697085,
+            "lng": -73.7781652802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "NYC Luxury Cottage",
+      "place_id": "ChIJabJs_plowokRiaeG-wG1Dic",
+      "plus_code": {
+        "compound_code": "H6WF+V6 New York, NY, USA",
+        "global_code": "87G8H6WF+V6"
+      },
+      "reference": "ChIJabJs_plowokRiaeG-wG1Dic",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6029663,
+          "lng": -73.768692
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6043438802915,
+            "lng": -73.76720346970849
+          },
+          "southwest": {
+            "lat": 40.6016459197085,
+            "lng": -73.7699014302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "3-bedroom apartment in fabulous Queens with WiFi AC, near to park and beach.",
+      "place_id": "ChIJMaVFqaFowokRVbRkmmPqvaU",
+      "plus_code": {
+        "compound_code": "J63J+5G New York, NY, USA",
+        "global_code": "87G8J63J+5G"
+      },
+      "reference": "ChIJMaVFqaFowokRVbRkmmPqvaU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60296810000001,
+          "lng": -73.76868859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6043575802915,
+            "lng": -73.76720631970849
+          },
+          "southwest": {
+            "lat": 40.6016596197085,
+            "lng": -73.7699042802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 516-697-0160",
+      "name": "Deborah and Philmore Warner",
+      "place_id": "ChIJZas57xhpwokRPNM5maXR-kk",
+      "plus_code": {
+        "compound_code": "J63J+5G Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J63J+5G"
+      },
+      "reference": "ChIJZas57xhpwokRPNM5maXR-kk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "10-77 Bay 32 Street PH, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5951767,
+          "lng": -73.775177
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59654118029149,
+            "lng": -73.77359266970849
+          },
+          "southwest": {
+            "lat": 40.59384321970849,
+            "lng": -73.7762906302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "2 Bedrooms in beach town in Queens NYC",
+      "place_id": "ChIJCZOnEZdowokRaUoIFr-EQuY",
+      "plus_code": {
+        "compound_code": "H6WF+3W New York, NY, USA",
+        "global_code": "87G8H6WF+3W"
+      },
+      "reference": "ChIJCZOnEZdowokRaUoIFr-EQuY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5948906,
+          "lng": -73.7773514
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59623928029151,
+            "lng": -73.7760070197085
+          },
+          "southwest": {
+            "lat": 40.59354131970851,
+            "lng": -73.77870498029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Extra Spacious 3 Bedrooms with 2 Full Baths near Metro",
+      "place_id": "ChIJC0zy1JBowokRorwniAo_emQ",
+      "plus_code": {
+        "compound_code": "H6VF+X3 New York, NY, USA",
+        "global_code": "87G8H6VF+X3"
+      },
+      "reference": "ChIJC0zy1JBowokRorwniAo_emQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5950089,
+          "lng": -73.7731171
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5963643802915,
+            "lng": -73.77166631970849
+          },
+          "southwest": {
+            "lat": 40.5936664197085,
+            "lng": -73.77436428029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Jaris Beach Suite",
+      "place_id": "ChIJl-atvpdowokRtCUQ4F6tyQw",
+      "plus_code": {
+        "compound_code": "H6WG+2Q New York, NY, USA",
+        "global_code": "87G8H6WG+2Q"
+      },
+      "reference": "ChIJl-atvpdowokRtCUQ4F6tyQw",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59495929999999,
+          "lng": -73.773201
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5963176302915,
+            "lng": -73.7717058197085
+          },
+          "southwest": {
+            "lat": 40.5936196697085,
+            "lng": -73.77440378029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "A Quaint Little \"Peace\" of Heaven by the Beach!!",
+      "place_id": "ChIJT2jlu5dowokR_S5or7Ef1IY",
+      "plus_code": {
+        "compound_code": "H6VG+XP New York, NY, USA",
+        "global_code": "87G8H6VG+XP"
+      },
+      "reference": "ChIJT2jlu5dowokR_S5or7Ef1IY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5949517,
+          "lng": -73.773201
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5963100802915,
+            "lng": -73.77170541970851
+          },
+          "southwest": {
+            "lat": 40.5936121197085,
+            "lng": -73.77440338029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "A Quaint Little \\\"Peace\\\" of Heaven by the Beach!!",
+      "place_id": "ChIJr5Hlu5dowokRCzMEXRdB52k",
+      "plus_code": {
+        "compound_code": "H6VG+XP New York, NY, USA",
+        "global_code": "87G8H6VG+XP"
+      },
+      "reference": "ChIJr5Hlu5dowokRCzMEXRdB52k",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.593422,
+          "lng": -73.7751923
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5948599802915,
+            "lng": -73.7739338697085
+          },
+          "southwest": {
+            "lat": 40.5921620197085,
+            "lng": -73.7766318302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "MASTER SUITE Studio- Private Entrance and Bathroom",
+      "place_id": "ChIJYQcr7JZowokRFefHgH2aTDc",
+      "plus_code": {
+        "compound_code": "H6VF+9W New York, NY, USA",
+        "global_code": "87G8H6VF+9W"
+      },
+      "reference": "ChIJYQcr7JZowokRFefHgH2aTDc",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5949135,
+          "lng": -73.7706681
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59627613029149,
+            "lng": -73.76919881970849
+          },
+          "southwest": {
+            "lat": 40.59357816970849,
+            "lng": -73.7718967802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Modern vacation rental w/hot tub. 15 minutes from the airport",
+      "place_id": "ChIJD5LyZ71owokRu8095HItYU0",
+      "plus_code": {
+        "compound_code": "H6VH+XP New York, NY, USA",
+        "global_code": "87G8H6VH+XP"
+      },
+      "reference": "ChIJD5LyZ71owokRu8095HItYU0",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59635919999999,
+          "lng": -73.7686004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59769893029149,
+            "lng": -73.76733261970848
+          },
+          "southwest": {
+            "lat": 40.59500096970849,
+            "lng": -73.7700305802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "3-bedroom & 2-bath house near Beach with 2 car parking",
+      "place_id": "ChIJA-8C16JowokRvmWdEXlIgIQ",
+      "plus_code": {
+        "compound_code": "H6WJ+GH New York, NY, USA",
+        "global_code": "87G8H6WJ+GH"
+      },
+      "reference": "ChIJA-8C16JowokRvmWdEXlIgIQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59635919999999,
+          "lng": -73.7686004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59769893029149,
+            "lng": -73.76733261970848
+          },
+          "southwest": {
+            "lat": 40.59500096970849,
+            "lng": -73.7700305802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Private BR/BA/Kitch/LR nr Beach/Train/JFK/Hospital",
+      "place_id": "ChIJA-8C16JowokR-m4M32Tasjo",
+      "plus_code": {
+        "compound_code": "H6WJ+GH New York, NY, USA",
+        "global_code": "87G8H6WJ+GH"
+      },
+      "reference": "ChIJA-8C16JowokR-m4M32Tasjo",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5963593,
+          "lng": -73.76858519999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5976437802915,
+            "lng": -73.76722881970849
+          },
+          "southwest": {
+            "lat": 40.5949458197085,
+            "lng": -73.7699267802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Private BR, BA,KIT&LR Near Beach/JFK/UBS/Subway",
+      "place_id": "ChIJg4AB16JowokR3f2LSEsOtCc",
+      "reference": "ChIJg4AB16JowokR3f2LSEsOtCc",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5963516,
+          "lng": -73.7685928
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5976396302915,
+            "lng": -73.76723681970849
+          },
+          "southwest": {
+            "lat": 40.5949416697085,
+            "lng": -73.76993478029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beach House 2Car parking Beach Subway City JFK USB - Three-Bedroom House",
+      "place_id": "ChIJPXYC16JowokR9Uia6hNBUHU",
+      "plus_code": {
+        "compound_code": "H6WJ+GH New York, NY, USA",
+        "global_code": "87G8H6WJ+GH"
+      },
+      "reference": "ChIJPXYC16JowokR9Uia6hNBUHU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5963919,
+          "lng": -73.76853440000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5977168302915,
+            "lng": -73.7672999197085
+          },
+          "southwest": {
+            "lat": 40.5950188697085,
+            "lng": -73.76999788029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "ROCKAWAY HOUSE",
+      "place_id": "ChIJyT3NRgBpwokR1X_0nnA0mP8",
+      "plus_code": {
+        "compound_code": "H6WJ+HH Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6WJ+HH"
+      },
+      "reference": "ChIJyT3NRgBpwokR1X_0nnA0mP8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4-02 Beach 36th Street, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6024493,
+          "lng": -73.7699782
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6041589802915,
+            "lng": -73.76863426970849
+          },
+          "southwest": {
+            "lat": 40.6014610197085,
+            "lng": -73.7713322302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Norton Basin Natural Resource Area",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEEGw3T8ed-PveQR3M-R_XttTZf_jyLkFlFndYm6yW64g37rCPSw7PT84FITNCOi07Ynr-Xlpfl36eV7qQECUiyIOS2CAMYnlQuj84PlTzz5ndf4l_eQZXFMkra9AutRiE__gZiAhOiLlwt5NngBVKxCJpxQO7sBC7si4wocHRMpGhP7219_ZM00dn8k0SulpXwDhrwsh-m9APupCyfWdbN60lSw-nv5V6udARuM5m7mIgxpYwRE1HDdOtbpny2i8gtluB1jSCDeDO1vqIQVu1fa0B_UYcCAtG4ol3BfA4GCypdGZ-VHu8hfbFZtvh5_ZLt-vjtrPQ2j6RcrERf4A5VbYAZt4YDMEOL1H-ueD3q2cdFcBf88IYNmVGIVHERUIA3qn_4UV18V3BeeTzc0iPI__WrDPsT1YNPQ2gU9XyMyWIwVoO0RR58pbrMSx7UngzvrLA1fv_weP4iBcHMLnXmQxF3dQCVRy1LKfC0PhefNyM7rG_TIMVcJQsZOOnjj_CWn0wIf4JLLytGk_dtlvTGZV6Oxj83fVmHkXHF5--rPjKjJc6GVaKJMf3sv7f64yErpba4Qpu0pl-FPFiAazAPpayFgtuTCiiP7yFtukK2ByixhfXRIbTUP4LEQo1v_ZyM2oQ",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ4f5IxqFowokR-fLa79ZTUWA",
+      "plus_code": {
+        "compound_code": "J62J+X2 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J62J+X2"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ4f5IxqFowokR-fLa79ZTUWA",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 28,
+      "vicinity": "32-31 Healy Avenue, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.599056,
+          "lng": -73.7691138
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60132985,
+            "lng": -73.76555714999999
+          },
+          "southwest": {
+            "lat": 40.59636445,
+            "lng": -73.77029935
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Bayswater Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110048010024917823475\">Bayswater Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGWcdOZkj42OYe7KA_C9KMQOT7rW-ta42UwdGdgzuqZ74Hb5u6V_HttZSonoGFKFaDDCk67HhIkeM379ckkZvK8j0x7oQEYPm6Lw-A7Zv-cXaOqMptWpkizQSfcvpEc9vBoBUc_wBdFxRGZTZLYItZRMDiykZteSa-zqggdk8XH663KRDXK2fRmbPHxQCrgtD7uL362ldQNbXNpafAJ3VsN91B_ngz1Ga2weTnl3dAdU8sfG0FSGMIi1zWMkVPrDGJhb3NsPsWDa38-kOt1a5-zYbEHUTSFtRMpsTHTrOFi1fYji7oxZxR3mqIspdF9IftN18LUi7I",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJ-6VSIaJowokRal-BA5qdSxc",
+      "plus_code": {
+        "compound_code": "H6XJ+J9 Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6XJ+J9"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ-6VSIaJowokRal-BA5qdSxc",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 788,
+      "vicinity": "7-01 Bay 32 Street, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5991285,
+          "lng": -73.7850751
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60154290000001,
+            "lng": -73.7837246197085
+          },
+          "southwest": {
+            "lat": 40.5983237,
+            "lng": -73.7864225802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 718-318-4000",
+      "name": "Rockaway Community Park",
+      "photos": [
+        {
+          "height": 955,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110721079709085069032\">Rockaway Community Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGbGs0FGLvUc-Kh5uZAgd7IgJpd0j1S-eL6nft8-NeK7Eis1xmQEMFf0j9ufBAgRkRHESTDhJg8a8cg-eLG88et-r2elVeY1gyQvilJL2_cyn9powzhSwViL5WKQuc_u_z47B96AvpQKpnblBcuWiooJVCvZtAe5xWrXFq4q8TrewK4Y4eYeypATfUGia59YKp5EShjYsnLqCBFQwDjjV0qVeRdVhk8bNcO0tp1ysgPZcrTcjqwbkywlsNxN1Hva7l0YeVdljddEfCwd39sPqRNM-0ToDdPnQ16ZqWk4-aplC30HDTkX9nDhLklhFevGPWxC52iV0s",
+          "width": 1274
+        }
+      ],
+      "place_id": "ChIJM9LBfYVowokR1pPVJthZ7X8",
+      "plus_code": {
+        "compound_code": "H6X7+MX Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H6X7+MX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJM9LBfYVowokR1pPVJthZ7X8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 116,
+      "vicinity": "Conch Pl. &, Edgemere Park Road, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5956865,
+          "lng": -73.7756895
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59706088029149,
+            "lng": -73.77434301970848
+          },
+          "southwest": {
+            "lat": 40.59436291970849,
+            "lng": -73.7770409802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 44 St",
+      "place_id": "ChIJPe6tapdowokRQ2SQmfzqkqI",
+      "plus_code": {
+        "compound_code": "H6WF+7P New York, NY, USA",
+        "global_code": "87G8H6WF+7P"
+      },
+      "reference": "ChIJPe6tapdowokRQ2SQmfzqkqI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595768,
+          "lng": -73.775894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59706678029149,
+            "lng": -73.77453906970848
+          },
+          "southwest": {
+            "lat": 40.59436881970849,
+            "lng": -73.7772370302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 44 St",
+      "place_id": "ChIJqdVgQJdowokRQB8OKxREpPw",
+      "plus_code": {
+        "compound_code": "H6WF+8J New York, NY, USA",
+        "global_code": "87G8H6WF+8J"
+      },
+      "rating": 2.5,
+      "reference": "ChIJqdVgQJdowokRQB8OKxREpPw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595604,
+          "lng": -73.77548999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59699953029149,
+            "lng": -73.77414636970849
+          },
+          "southwest": {
+            "lat": 40.5943015697085,
+            "lng": -73.7768443302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 44 St",
+      "place_id": "ChIJR1DPFJdowokRK2w1tCRwMM0",
+      "plus_code": {
+        "compound_code": "H6WF+6R New York, NY, USA",
+        "global_code": "87G8H6WF+6R"
+      },
+      "reference": "ChIJR1DPFJdowokRK2w1tCRwMM0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5959105,
+          "lng": -73.7725425
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5972134802915,
+            "lng": -73.7711911197085
+          },
+          "southwest": {
+            "lat": 40.5945155197085,
+            "lng": -73.77388908029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Drive & Beach 40 Street",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEHnzYUI7nKYLdVSU63qzn0jPYVbVXdABpdwd-yL1bHO_bBgzIA0PhdMTRr8qs9sHasrfplyNsOya0hwslWXsaK_VBEb8ZhZ-Pl9EVLQ7iSVpjlSr9GYoZdjECgqpU1r1J5HXt5EuUmTn3oyG75I6If3oYqn3PoGD5kzN_9dHaaExgc6bhCBKp8sVDbfAEwAVHdaI8Gh47oEd-UOGrjabhiz1wh6nH_3PwJZ5FAvX8CSOOCS_Z0DGYRI5CWCq7TCU53bG-0zT8Myg7n0Aigr2gxR912ZjTJlCB4Mdvt9CbnB5dRkeQsrkdWqFtAPr4chbKgVPj_DTELDuR-2HJlEOcH-rEQK7gUD4B-EW3d7S_xF3ZuCZi-Z9NKkb8Si7mkPCN4nHFcaCHKsHxx2g1UBw04Xa0FtmdYlq6et9oJV87tJ0ePT59xJXgPdgmcIfCODMiYjN-jECDeF8_ir3dwU3T4tp8krepNMRKXvWCIc8fUjg7Y--8dkFmfrowg9sEaXGud-kNeKZasWea6U4VcmixcVpVPiMjP5TXpggr3rFBQj7IBb1L3oxpl8h9FD40gtG4yuGGn3bWsje1Kr5p81z-nX2FuvdLF97xF6kfHtnucRccNnSDDzkGp6POUpStYXu_eh0Kdc",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJU_GG7ZdowokRvOkJW5eizXA",
+      "plus_code": {
+        "compound_code": "H6WG+9X New York, NY, USA",
+        "global_code": "87G8H6WG+9X"
+      },
+      "reference": "ChIJU_GG7ZdowokRvOkJW5eizXA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595763,
+          "lng": -73.772531
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5971361302915,
+            "lng": -73.7711833697085
+          },
+          "southwest": {
+            "lat": 40.5944381697085,
+            "lng": -73.7738813302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 41st Street",
+      "place_id": "ChIJ9Y8G7ZdowokRLEia2qCfUkA",
+      "plus_code": {
+        "compound_code": "H6WG+8X New York, NY, USA",
+        "global_code": "87G8H6WG+8X"
+      },
+      "reference": "ChIJ9Y8G7ZdowokRLEia2qCfUkA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5957339,
+          "lng": -73.7725316
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5971251802915,
+            "lng": -73.77118486970849
+          },
+          "southwest": {
+            "lat": 40.5944272197085,
+            "lng": -73.77388283029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 41 St",
+      "place_id": "ChIJ3RMH7ZdowokRnBJHTUQGkew",
+      "plus_code": {
+        "compound_code": "H6WG+7X New York, NY, USA",
+        "global_code": "87G8H6WG+7X"
+      },
+      "reference": "ChIJ3RMH7ZdowokRnBJHTUQGkew",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595307,
+          "lng": -73.781581
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5966906302915,
+            "lng": -73.78023591970849
+          },
+          "southwest": {
+            "lat": 40.5939926697085,
+            "lng": -73.78293388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 51 St",
+      "place_id": "ChIJgfiuSpBowokR8Ik0mhUF6no",
+      "plus_code": {
+        "compound_code": "H6W9+49 New York, NY, USA",
+        "global_code": "87G8H6W9+49"
+      },
+      "reference": "ChIJgfiuSpBowokR8Ik0mhUF6no",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595398,
+          "lng": -73.781487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5967042802915,
+            "lng": -73.7801428197085
+          },
+          "southwest": {
+            "lat": 40.5940063197085,
+            "lng": -73.78284078029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 51 St",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102747507916538731917\">Adekunle Onanuga</a>"
+          ],
+          "photo_reference": "AU_ZVEG3r7EA3J5szHqwbFeW6Bi7_M2s1Utmw4coalndiU3ik7ZGJaG7-_lD_K407d1Heh0MFuFivgZTLhMmJeDuM5ltDzpPWhWWY9Ug5HXbVXi2TIlQzmmKtXfrhI9Q2ddHYXN8GAWtrZzW5lTFDdkCHTh2WRO7DYWDzSmZL0OdITfihjG5qIZa8QittpkfVkWk_UTiQxT33yvILM4HK1qN0Ok7Hku19tAYUM3K-gyOht02Y_-niOFkiAJHAuYjhJKQXps5ZKAsP5vIDkr9cvhfUdXUxFUz8sjqgtgWUQzyTWhF7HhbvB5PViCqselN7mUuzba-8h8-dCX5egUGniuVnkhcW00YLiV71JnrIddMcy5YYnV9brzzuhUMfvL7oG1JFCAUdTTvp3ePGzeYtK1OzwJS5s-_mIi4oNNx8hFeP7taFVFvYeNZO5zvxhLMh94_fw9HvSz7npcLsA-KnIH_1wMoDN7klFXYBajm-xxQ8oeaV9s5QMY166vOO-MWA-kdZ9NVE16cyqx0JS8-bJJgxHY8_XLrnCyWFQknrWVS3zQnGQ_ETb0pdrZB_4FBxMgFq8qbqRJdno2Ofle-s6nG-rW6-UaYoqrIh_GpBsYR4eXMAgnf0Qyrw9M30d6DH8PSFbbFxVrV",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJh9vwSpBowokRMo2MAI1qtSQ",
+      "plus_code": {
+        "compound_code": "H6W9+5C New York, NY, USA",
+        "global_code": "87G8H6W9+5C"
+      },
+      "rating": 2,
+      "reference": "ChIJh9vwSpBowokRMo2MAI1qtSQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595219,
+          "lng": -73.781677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5965755302915,
+            "lng": -73.78032896970849
+          },
+          "southwest": {
+            "lat": 40.5938775697085,
+            "lng": -73.7830269302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 51 St",
+      "photos": [
+        {
+          "height": 1525,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEHz8XCTOZeqBa4EYTgc2pblx41vuKDYGQdbtSQFAqCV7o5NIt8VU_4B2He7lrjJ6X43bqBp7ETOxtRCALWPGvQmNr45By7ZXQAWn5PgCZbYY8zo0HoyBxdtzlIPN3yv9-2ELnjxea34OIkpOFxx_lNghdoCNRtOg1Cjfb_U4xiUAB_eSl5id89G1wJUhXY9QgnCmftVXyXLp0mJ5hB9uPqa4X3tHcwO2CBPSr8AMw_sYhCTAicZP8vYxdmmpgXimgCk6gqzARvj0S88yQuAQHv5iJgW9iUeoXBLuFErehtQNy6XhB38ZSW_99eBVpvLdqTOCBIFZsChCdiz0IkkvWab2uUYl_0kTw2BTQtTLl6Vwjnm5B94LnwGJWAAvSKajCo6YR9c4EkYprNLGTB5bnUeLBlig0DKhY2nS-1cKLZMGHxAsb4eIWM4JoKUco5C4bhLKsdmQDip2LB-mjAokdLw8baKVxwyuZYnh1WLLfsScHgWq5fcTKHYSRwPUoi1hGs-KLzCsk-PDOwD4uaGyb32DgRKrE4L9yC-0-qq4DvEKh8JbsIAb6en-d9R0B5nVF_MI54Z-3fegD8ayuOmIeRaDQaIrYLQe1M66SVB-NDFSIDDWIQmLGzxHcgYNxq26DluTS2Bx7GzWXLfQSWfZQvs",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJh4a9ypFowokRkpaEay9tu1E",
+      "plus_code": {
+        "compound_code": "H6W9+38 New York, NY, USA",
+        "global_code": "87G8H6W9+38"
+      },
+      "reference": "ChIJh4a9ypFowokRkpaEay9tu1E",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.596325,
+          "lng": -73.76917999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5975979302915,
+            "lng": -73.7678166697085
+          },
+          "southwest": {
+            "lat": 40.59489996970851,
+            "lng": -73.7705146302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bch Chann Dr/Beach 36 St",
+      "photos": [
+        {
+          "height": 1908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEE8uHERRt7DqBtUbyLLQfSfXR79n7n8gam7adm3ioxg9OyDdrj7vwftaFPDHPWYYqG-aF4wgSQ36iTvH7GMwvwf8VkhcIZjeLHvnGcmUNFUGvfrQofatT6JL9BWN4_kH16NJO_Vr-xuE-y51nVN5YMlQW5ZtnMuyuAu6SG064q1Tvgc8y-jFthrZJaCWr3Oth9kI9g-YhmdBtYrqw9riGlqNDOsCShPa4i1waCGz2N0SAxOTxSHqQxFa1dn_ubGh6ARBfSmqQWYSTXQhfQ6Mi5LcQLzfMAxu-l8q0N1NS7ftjKOY_Cczs3yoY0OqY58Zyut1PDYaJ2-edAklGWBnH_a3xBRuE58Eaq_nU1reNpaJfDqbD05zlTdePSH0Z5D-vcHJP3jl94lnmqkjQU5sbnH_ASZMKKq7m7wNLNun173WTC5D-CoGrAyrUTI4Ck6sPYjFGwOsclNg1MqFCzZoWQQG4tWWmFKYPu3VgRgvxYBLF8x4IbO9TXirdKNIOYd0sg-ZvglsL_AP6TAGBzEdN1CYXrEcRm4STzQ9hUpZMVTxJg2C2z9G2Xt2050DU3iIx0kbCKsaA7weDAX9JRbsEKqKqdFsy2WZXeKF854qqHX4wrJZaAVQzcWKB5QbcvJikuYTA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJv_SQ0aJowokR2netF2hLJiY",
+      "plus_code": {
+        "compound_code": "H6WJ+G8 New York, NY, USA",
+        "global_code": "87G8H6WJ+G8"
+      },
+      "rating": 5,
+      "reference": "ChIJv_SQ0aJowokR2netF2hLJiY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595196,
+          "lng": -73.78475999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5965040802915,
+            "lng": -73.78340676970849
+          },
+          "southwest": {
+            "lat": 40.5938061197085,
+            "lng": -73.7861047302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 54 St",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEElJXcMi1XlxKUTU62vhSQwsfqa6IihgsGElboNNloHxNnp6X8cJ8lQ0GV-XQy9lqVxKlRmD4z_OPHRF5mtqXKv4u6VQRohBxIed7CqtLmpESb1vBVSOSTwCPWG6YIo1ptBS7zd-_rhkAd_M8LMzq2EXGYhhz50EpHaFbMSaLPlrW_0MJIx619oU-QeeOoZjmEO8BX7dhEoGa3BfCAnhq-lr-pjrNdchFoK9RiP6yDhYCoYPTnEXCV90ps9QB8OJf5h_45_dxHvJ5RpfABAXYIdv0S17x-crYiLAi4JYRY1KyrJQ2V_oFSEFlhhADtqsQk2y30tiH45FacaSnaT7_-zxUXJ-OybTdbAt3eM40lq0iAAl-7FM9cKFERFWySAXIPBqfnLxBGi_5rRGXpCC2pamunnvHLCb3EdQ6Gzn8zYh-9o_M6-T9nzXHda2YTK7yV89_k9BqjHk_DTIZKa_nX2GmcKR_mOrDBZ3OX17HRtAMxyXWYEshM7nhbwvMkmBRXLY6172bEzlKgscotvDah7Q2bxWF1ELPc6WTRTf59aQtcPjr7W3IKmsPQc5GNjcot4mvvETZCepHiqJebzRod9so5RfeP1j1gYAMrMtMqiHMrFMFt1C1YSXNkVgtU6Qf6s6g",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJw0uLSI5owokRU1N2MqmV0rI",
+      "plus_code": {
+        "compound_code": "H6W8+33 New York, NY, USA",
+        "global_code": "87G8H6W8+33"
+      },
+      "rating": 5,
+      "reference": "ChIJw0uLSI5owokRU1N2MqmV0rI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595083,
+          "lng": -73.78475949999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5964310802915,
+            "lng": -73.78341046970849
+          },
+          "southwest": {
+            "lat": 40.5937331197085,
+            "lng": -73.7861084302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 54 St",
+      "place_id": "ChIJZ-ktRo5owokRwV9zcFb886c",
+      "plus_code": {
+        "compound_code": "H6W8+23 New York, NY, USA",
+        "global_code": "87G8H6W8+23"
+      },
+      "reference": "ChIJZ-ktRo5owokRwV9zcFb886c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594971,
+          "lng": -73.78475999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5963534802915,
+            "lng": -73.78341491970848
+          },
+          "southwest": {
+            "lat": 40.5936555197085,
+            "lng": -73.7861128802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach Channel Dr/Beach 54 St",
+      "photos": [
+        {
+          "height": 1129,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEHowF17nCH_rDmfdXdRoRfeWhJYDU4sY8RhWwhAK9ioKbMB5H7e0QbNbLI384qTMZ3AXx0A5bfnwpIt6ngbvLT5fiJ1tqwuUuXPt5DkEu0oHz-iA8Qaab9zthWDRpR-8MzRl5VT4vuTaRpUEnD1tHZrl30-_r8TUwphSgsZ4mejECDFusP7k6Vdc2bZbUW3HSmyTuqd8iLCLR6dFmg-16E-Xnvs0Shu-TdwsmG3ZNXqE1vvXtLBk04XaQves2E8rMmYYV8QeVC2Jd0yRogrUAzN6Gu_92viX1Kjpl31aY4eBYLwkr2Ya34GU2CpbBcqY6pqkm-f-b08ix89WXyaeBu5Uw6ATwbwt2vhvEUDcfbiDM8PhS6pDwIGkXPZC1qz1VOlS6jHugeC-PSnrHOf1Ba1VDoaxaqF7HYKrnHenDTmdogHYICa0YVYz5Pj9waLZKPo1YUozbylyRfrqL0JinyQAXSBiEHvMcHqXmRrfIZiA7FL7AXGWYCJkLhKzJ0wSdGO5EEpu_635-uyl6RBnT3N-PySq-9POakBLzdNTzGz43FT4rYLjMrE-n5Ddmse7qwC1sgToj837EN6CiXq04WkCVAgBrKq7WAUhyJ6V0fiJE2IuRWJOKA3R_PX7nmQtycPfekZHMKAwp3DXXFGJeP_",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ_c5VRo5owokR_xZfs-587IE",
+      "plus_code": {
+        "compound_code": "H6V8+X3 New York, NY, USA",
+        "global_code": "87G8H6V8+X3"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ_c5VRo5owokR_xZfs-587IE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5929198,
+          "lng": -73.7759262
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5943907302915,
+            "lng": -73.77431746970849
+          },
+          "southwest": {
+            "lat": 40.5916927697085,
+            "lng": -73.7770154302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 44 St",
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102270916178756585218\">Stephan Gr\u00fctering</a>"
+          ],
+          "photo_reference": "AU_ZVEGPMPCP0tUSQzcAclpewJmBzt3pDOBBEuxCacxv8Gll3ChmudG8NDcAbXKTtmrzMPDHslMjVRoKXTjKOu4qxEdXGWgUz9HmtOYBGRXWZSc4SE_j80EwdMxzxjwV1uHiB_6w30B_NJmuQo6G-peCUPVPlfC15ESLtrVubyw4hlLvTTrh7LgoDIH8RDIn3ibZpBF_5QsDcJUY53S_wE1ToyG7EjFhuJlIeYJqlgtQAQLk34gPmll1bY3k-d1YRvnv3wBdjIWrYT-7Eto7oIfsljj6OhtnCLh1GxtXXmC7pwtMHPB5ylGpV1DmV0i0GgzL7wNGQSFB7nCHPbBKbFYHANzBaLc0wilx5AHKxW6nGVxoE93P6RK0zUd3eZjg4ACFb0mDqpXD-KhxbnMgWoRpuS_rSWxyIUfWfOxZHeb-PNurc52DoO-RRPq4H_lzAvVR8b-B3nF_sV5618EvMaVbgWfh2joh3Js0uxrHW4aNtvByU4riv1W64uCUPvM70i9CmIVxerQDYyKionwm24qK4OkHjmOeZq78-zKxf1bmANm4UiR8g-J3C-wOWPbHGLyQZwSvsYhFvpXUKZzEs0HQRBgw0p_gloX2prk0EY62LKCV-LoBwWWZNI5hkUVU4PMiUPBJfOZw",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJx8uhvpZowokRpkW3UqQq7yQ",
+      "plus_code": {
+        "compound_code": "H6VF+5J New York, NY, USA",
+        "global_code": "87G8H6VF+5J"
+      },
+      "rating": 4.4,
+      "reference": "ChIJx8uhvpZowokRpkW3UqQq7yQ",
+      "scope": "GOOGLE",
+      "types": [
+        "subway_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "United States"
+    }
+  ]
+}

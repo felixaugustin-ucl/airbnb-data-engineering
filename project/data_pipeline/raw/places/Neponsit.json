@@ -1,0 +1,2001 @@
+{
+  "neighbourhood": "Neponsit",
+  "centroid": {
+    "lat": 40.57094363636364,
+    "lon": -73.86224986363636
+  },
+  "fetched_at": "2026-04-06T14:42:06.329404+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5673021,
+            "lng": -73.8666253
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56895463029151,
+              "lng": -73.86553716970849
+            },
+            "southwest": {
+              "lat": 40.56625666970851,
+              "lng": -73.86823513029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Spectro",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2817,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106508421298504920449\">Abby Rand</a>"
+            ],
+            "photo_reference": "AU_ZVEG2-IKRneLFtXqnjbh5kUecDBJSZC875KK9DjRBtIbXwfpvnW7g5WsPBXEsqTOajNREAfXLZXluXB7iDJoxTybzWqOx1ToxVU6fUZyAyycxjzWWqB0aksBDEAVTnt9us85eaGuXa472VuIg8yMsClvWBShG-kTQB7YeC5tTHlJaArppPyOTl5dVFq4W3XEGmtbQ8r5FnecUgq09rbbaQj05dUO1CZYurSLIUF_jDay-YBF9qyjLmbrPD8yrZxPz637GzgmoTYzaQQUKSOfRHdof0XbDuDfIkM1doASz6vtxRmh50HUF2djr5XKyywwPGl70NJbrV9WVP8Omzh71cfRamACQ9meoF3N7RD3HivdKg6o-MwQoCJiL6PFnbDOr9uPPlVRdnY5ZRh2VYjnIKkeEuqudqVHDtQMRGZdFmxJB2TWsuKhJX5evcAxu2KkDDMQxM6aEJpM5pOlNE-ikbBvabfjPT3HFqssxjFcUso-jAbK059R9WLvHmjLUh4Lw0CRfsGxIhU5dox69XJb1xwTRnLiqD1LeTrSPRXvGqB60ihUIKF4ydwZl5ywzGcHc5Ps7poojeoPztN2VkjuHzccbNwk0VzPoevs4FEReZ4zxdN22QpUvrYHTfkTd9MzjNaXU3w",
+            "width": 2817
+          }
+        ],
+        "place_id": "ChIJKXRWQx9DwokRmF3duJy5tNE",
+        "plus_code": {
+          "compound_code": "H48M+W8 Neponsit, Queens, NY, USA",
+          "global_code": "87G8H48M+W8"
+        },
+        "rating": 4.4,
+        "reference": "ChIJKXRWQx9DwokRmF3duJy5tNE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "167-02 Rockaway Beach Boulevard, Neponsit"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57310109999999,
+            "lng": -73.8549958
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57444973029151,
+              "lng": -73.85364651970849
+            },
+            "southwest": {
+              "lat": 40.57175176970851,
+              "lng": -73.8563444802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "It\u2019s not the Hamptons: New York\u2019s beach an hour away from Manhattan. Ocean views",
+        "place_id": "ChIJxZTlomRCwokRR49lXUi6o0w",
+        "plus_code": {
+          "compound_code": "H4FW+62 New York, NY, USA",
+          "global_code": "87G8H4FW+62"
+        },
+        "reference": "ChIJxZTlomRCwokRR49lXUi6o0w",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57310109999999,
+            "lng": -73.8549881
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5744521302915,
+              "lng": -73.85364061970849
+            },
+            "southwest": {
+              "lat": 40.57175416970851,
+              "lng": -73.85633858029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "It\u2019s not the Hamptons: New York\u2019s beach an hour away from Manhattan. Ocean views",
+        "place_id": "ChIJc0zkomRCwokRTcJwputijuE",
+        "plus_code": {
+          "compound_code": "H4FW+62 New York, NY, USA",
+          "global_code": "87G8H4FW+62"
+        },
+        "reference": "ChIJc0zkomRCwokRTcJwputijuE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5670706,
+            "lng": -73.87177009999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5682265302915,
+              "lng": -73.8681836
+            },
+            "southwest": {
+              "lat": 40.5655285697085,
+              "lng": -73.8749144
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 718-318-4310",
+        "name": "Jacob Riis Park (Gateway National Recreation Area)",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2368,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101162313592994903903\">Sam Kan</a>"
+            ],
+            "photo_reference": "AU_ZVEHMAMwofm08PS25E7_StQBnGV3fsDre6u7oq9-yORRxGYzDo3nvA-koo10pTH98ffkfqnD4ND0W0Jh0TNSRRQlolJULCHQbQ9slxXetBn3kOEMJ8U7rr1QwwCc6GUeu84AiJeg4yxsMgK_UBgOiPMs_x288Fogrt4HIU9bLlhlfZRrhBQEMu-OBrj4bGbIq3N3IFiWZgV43Dj_m2H9offZ8MhaJtg2XFBI6jNm2333Gcmo7iTLQ5lh0MwwKuQKUkqfARqlBgfbzkUA9b01q0mLXJLCdKDM3XVXtpL8WOvpsRvs1Kzd_LJgqHy_jUJHai56LAs8GyeVYdEm8nE58WAr5sDd3iv5u1aMhI-zclbgCAY447I0RFfbAerlE7_ifOhxRu5kwHjk40KK4RLwajiSGgSrXcIOwbiNSEHk4shVL-XiXEO-MOgB4euLZik89CZjNIrXVpE-IsUlo7YadYxJajYO5JabDj1Qyr7tjCQcFgYqdsR9tfCwlbEgb1ItWf2WTh2LIaU86GiSaTrQHj8aj24fhoJlg_U0ZYGoqLLKupxQgaL_ue5u1sgKahJP-PEh5muPh__lOjmXxJAHCQcLFUcweUWo4FC1kx22zi61jELtDhQqT4n9JlT8m9g3qjxB-cc0D",
+            "width": 4208
+          }
+        ],
+        "place_id": "ChIJY3WyZkRCwokRkdrlxKbZ9v0",
+        "plus_code": {
+          "compound_code": "H48H+R7 Rockaway Park, Queens, NY, USA",
+          "global_code": "87G8H48H+R7"
+        },
+        "rating": 4.6,
+        "reference": "ChIJY3WyZkRCwokRkdrlxKbZ9v0",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5190,
+        "vicinity": "1-57 Rockaway Beach Boulevard, Rockaway Park"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5717104,
+            "lng": -73.8607943
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5731733802915,
+              "lng": -73.8594664197085
+            },
+            "southwest": {
+              "lat": 40.57047541970851,
+              "lng": -73.86216438029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-938-1666",
+        "name": "The Little North Pole",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114631929378489095974\">Heather O&#39; Brien</a>"
+            ],
+            "photo_reference": "AU_ZVEFwUDRWOAP0V_sHTQms-RxiwH35a-36we9oGWTaRmA2qtIJZmbFTsQ6jmWDtugPF5D3DMzTzuZ4O1I8SJCQLdK_6hquOLMLqKKYKwJmxXk-uRvvA1h67Y2vdfFaNUgA5__K0C6EDonITMn1OopxlvglfnMwOJ_BWjaBIWwOZuQF26g9StWKDWdr4FiwucDTMoDdIzfLjczk-P4v9iqdk3bZCI9kA-rpsuKYi_Bn_7QYvDKJoCbjiyGy_irMwvbtoOcqSdW_VKgT5an_YMLMlFYBPi_CfqaBgLMZ6a8bbvD0mmRhRsOiM5hFYXnwhLxUShIvEDJe6Sv08Pb1-ajtutOuXGlW8OAwoiPGNPOvhoau85Zqx-A8Esd_7eSptKzZ5uJk2jhSOOSPATl2Nf0G5haDeaz3x-Ai7Jz25P_fwojl0NaqDr-nLJDCgbkjK300TXQcbjAEE9Xmax9ewumUFdT1mGsLyZP06JLDKPdJMQWmqfAgyC52DyvforV7rFMCksrFGM5oGzaWt7s23jTnxN3W5bNTtosS-QJMm0mJEj7qe9qytr3eQKjoxt8XszFOB4qopUytJLS5J0-iTYNuCqW0zPGJh81un9SQaOaBNZJ4dshVPvMXkgbaF7mLcWIH",
+            "width": 1099
+          }
+        ],
+        "place_id": "ChIJzSFrYWZCwokRAVRKv3Fef0M",
+        "plus_code": {
+          "compound_code": "H4CQ+MM Neponsit, Queens, NY, USA",
+          "global_code": "87G8H4CQ+MM"
+        },
+        "rating": 4.8,
+        "reference": "ChIJzSFrYWZCwokRAVRKv3Fef0M",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 94,
+        "vicinity": "144-03 Neponsit Avenue, Neponsit"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.569311,
+            "lng": -73.8642385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5706341802915,
+              "lng": -73.86287136970849
+            },
+            "southwest": {
+              "lat": 40.5679362197085,
+              "lng": -73.8655693302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Bl/Beach 149 St",
+        "place_id": "ChIJ-VoTEmhCwokR7ESNUNKsMek",
+        "plus_code": {
+          "compound_code": "H49P+P8 New York, NY, USA",
+          "global_code": "87G8H49P+P8"
+        },
+        "reference": "ChIJ-VoTEmhCwokR7ESNUNKsMek",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572011,
+            "lng": -73.8577365
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5733400302915,
+              "lng": -73.8563736197085
+            },
+            "southwest": {
+              "lat": 40.5706420697085,
+              "lng": -73.85907158029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Bl/B 141 St",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101065906647365675104\">Lidia Rodriguez</a>"
+            ],
+            "photo_reference": "AU_ZVEHkrksFmP4vR6utqhOMogdmtrpJbI1qer5yNX8rztxqtN669jF_feYzwiphw-5E0VUYn9l58Q-vzMXareGdxbjbVAMmGrB3P5JnU5brKYl1rPiorajCcVfdU1uZwDVsUTHIPOBon0XdXDahahdIezFe2adE_CWZ7tp3FqoLylWeEgGocLmTT-SQX3v5rfBYjIfgGvZnMCm0w5cuv4gBypyznsw0f5Gdq8rlDno_MQImrsLqsUnrjTuJfUj0ZS_5jVAc84tg-k8OR-KhTmJvj4N_L5nl0Ckv3vZzyuOrsnRyEuJHIiOmbtm-AuXYvatEoR-4gqnvgoHaht8JAmHxqjOKbAkxsxnEQATLv5gQQtAhqKqn26KolVSQJViguY2z-VB0BWNfXQHOteyycBC-V_oxa8VFdx-aBgqNaRcR9ZZdrJ4Y9YdyMwQgnEIzfuY02v8eY-0b4j4K7HwJVArrzPBZ9HZzOqBU5BM-iEy35sF77F8gz08ykfQ-LVf12o8wdM8uwMLDjDstZ3dsgRyAE4ER48MMpAJcZpouXymqrd9fZ2OyK1MjAHJ2cDDHK63P2j32J1glywAbhT_gVgHV2i_ZjH985uV61sbkaeVE7YnTizRRx9QBpAPpDsWSjalA",
+            "width": 2252
+          }
+        ],
+        "place_id": "ChIJTZrWSGRCwokRGmXGfstXv7w",
+        "plus_code": {
+          "compound_code": "H4CR+RW New York, NY, USA",
+          "global_code": "87G8H4CR+RW"
+        },
+        "reference": "ChIJTZrWSGRCwokRGmXGfstXv7w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5706408,
+            "lng": -73.8612849
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5719634302915,
+              "lng": -73.8599173697085
+            },
+            "southwest": {
+              "lat": 40.5692654697085,
+              "lng": -73.86261533029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 145 St",
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110008081044762350847\">Eric Nogin</a>"
+            ],
+            "photo_reference": "AU_ZVEHRpM02bDFZtNiwOwR3yv6v4BblzqZcxCFL9f_kMkiDqtDgogHYJhUuQb-0spNSCUlHRvxplqj7-4reQmTT9aMrttYnDZ5q5zXoZ3yzAwVz1Agp4v3s1n_qX0mAd9-oW6CDr8nq1occNl0_vJixlGTWY21E9q2jNPW6HFb2gpo5Uo74xG2jnR8Cw4KHn5KMxQ6S5f4tye8qTmai6UK0rUrbiSh-WeBzw6U7D9aq5avsKXDaL5ktwMULlBUM-WSaNjLsJ-a0Sf4kthcFbMJ1DaxCXRwEIFl20iDKLgAXUB3_VKxrNQ7cNvLBcZ6Ov7eL4E66OcJVwZC_QGa7nTL8He8uWvWLqJtF8Bow9IqXSkQea4ciX_d5sO4QhFAU-eqeFldDPAqIn7P11Z_DVJ1Bjd6dhi257ciGTf6mTjC6CZNc9xkLTBJ4TygO5PLBpgr7Cpk3Ii7y2J6PgVPr5Fg_iuhf5lG4jtxD_Qxk2HjLbydHPGF6MGof_RDCJE_nMGUIbQMZQJx-uGmpfP1RNqN6TsjZRvr_A4vshrsj4qLUp0lpHIsiW8ZmAI_3nTrNBL9CsuF07hOGnK5dN6fKtw6IZjnQdqc7FkiSA94lVBKFHCu8Xf0B0O_Gw8KI2tNXI3DDU5E_pVR9",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJhx8PQGZCwokRUGO7CX3WIP8",
+        "plus_code": {
+          "compound_code": "H4CQ+7F New York, NY, USA",
+          "global_code": "87G8H4CQ+7F"
+        },
+        "reference": "ChIJhx8PQGZCwokRUGO7CX3WIP8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57000000000001,
+            "lng": -73.862122
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57139523029151,
+              "lng": -73.8608054197085
+            },
+            "southwest": {
+              "lat": 40.56869726970851,
+              "lng": -73.86350338029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 147 St",
+        "photos": [
+          {
+            "height": 2802,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100554709261180307047\">Marina K</a>"
+            ],
+            "photo_reference": "AU_ZVEEpPITgXNO1a2JbcIimdQ6Km9sLXd10Arax-EbfjD5UOf6z0xO3FNk1gbsF8wQshJnr7mwvjdJTRcatijh2Z3A5tVNddGvughQOjlgTJbXMucd7OXveZx7zZhjsT86XKlrwR3dbrJSRW7vhZDSWD2gqbMOf2bLEaBM8Aa5TKni8HKwDGieD8RpboJemuSjouvIjcDBLbsdEjpQPUUyRQxp33dgMTvQlIVEnjzBkb3TmT8lC7xuVXHzaA3v8MMTyKhVZAvfHz-sBHxlrxr2kQXjpc8xp_M1yz86foPECfvC_uD82_7dBT-Uld0tuKlpFxIbcs7_8Rx_TsUmt0YS2B276pyV402IXRX1as8ZG2lfqe10a-Zo8O9Si4ndiZ_EqWm4ev9ZNiplz1fJWEjcuo9ILYBmdyAqSZE5p1wXf4VWFjyu9zuECBiChrErND56Szh-EY2yI6_8prBmyAvc1b9a_zbEdY3ioPlwa8_TLefcur2uvI_TMFRLZdIppnNEH-rgcLpeFpINhrhrNWUx28S9MD9wUPpCz_byARazXGJKbHNM7Yd5zmAvpm0VWFGeI00d_TKbqeTq2D2gIYY8C2jkjKqP_EZ6fU3dzoK1WBjl8uUc7KnRG_0BfvtkqrQTDN8W9vVKe",
+            "width": 3732
+          }
+        ],
+        "place_id": "ChIJcScALGZCwokR0-tRbghm8mg",
+        "plus_code": {
+          "compound_code": "H49Q+X5 New York, NY, USA",
+          "global_code": "87G8H49Q+X5"
+        },
+        "reference": "ChIJcScALGZCwokR0-tRbghm8mg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.569992,
+            "lng": -73.862206
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5713770802915,
+              "lng": -73.86088231970851
+            },
+            "southwest": {
+              "lat": 40.5686791197085,
+              "lng": -73.86358028029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 147 St",
+        "place_id": "ChIJO-z0K2ZCwokRe9ZvMhVBL2k",
+        "plus_code": {
+          "compound_code": "H49Q+X4 New York, NY, USA",
+          "global_code": "87G8H49Q+X4"
+        },
+        "reference": "ChIJO-z0K2ZCwokRe9ZvMhVBL2k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.570072,
+            "lng": -73.86277
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5713794802915,
+              "lng": -73.8613919197085
+            },
+            "southwest": {
+              "lat": 40.56868151970851,
+              "lng": -73.8640898802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 147 St",
+        "place_id": "ChIJpz8L1GdCwokR2P_Zk-hoRRk",
+        "plus_code": {
+          "compound_code": "H4CP+2V New York, NY, USA",
+          "global_code": "87G8H4CP+2V"
+        },
+        "reference": "ChIJpz8L1GdCwokR2P_Zk-hoRRk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56943089999999,
+            "lng": -73.863648
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5707979302915,
+              "lng": -73.8623117197085
+            },
+            "southwest": {
+              "lat": 40.5680999697085,
+              "lng": -73.86500968029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Boulevard & Beach 149th Street",
+        "place_id": "ChIJ92Z6bWhCwokRZQzQcqfpW2k",
+        "plus_code": {
+          "compound_code": "H49P+QG New York, NY, USA",
+          "global_code": "87G8H49P+QG"
+        },
+        "rating": 5,
+        "reference": "ChIJ92Z6bWhCwokRZQzQcqfpW2k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.569331,
+            "lng": -73.8644989
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5706647302915,
+              "lng": -73.86313931970848
+            },
+            "southwest": {
+              "lat": 40.5679667697085,
+              "lng": -73.8658372802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rckwy Bch Blvd/Bch 149 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117901173654556611531\">Mirza Medunjanin</a>"
+            ],
+            "photo_reference": "AU_ZVEFnvyYemysT3CPUZmJ43Fz8Z5y5IFCIS4vyLIgrnyLyWoTIDPzLKaJeIomMa0ehNFFID0UI3COawNaRQ24H_p51lYoLIWjlrqlRvQcvfh6ZP4dJReanj9sJWwiNztRTakCkxNUNk5ummxiYAOjhqBSwvrAf9-y9CYQgVkPnjnGt_-9zbedSDAM2-cpK7zD9YvgWUQdpqUnpBMGDx3zqp3TiKqMMNVaWDYj3qBDYOfDPT1PF4uY7OyA8ZjJNHq-4_Oe0ghjjyu6Q9wk-FeyT9zw_uoZde6_PRyoGKmpY-TvJeAIIYlM_S6yzkCeEY_LXhRcvdy3-3EGZFfr6Eaw8LePWJvqx6BrNFiddlW7hEKWOtoslv7sNS1aG_EG7qExpm7GugabZ-35Hl3G5id8cXXErurhW1tSxsqzJ0FTkMaqrHLsl8SaJH-6grDCX4sV1UXWCsS8rlkcJXz_s64dKxGfSp6YdYmvON_gxiP5x7uwK_-GUlnBpdkr79B2m2FvnsPqzGzeRJOe6IfLoiHCUBilI_zzCEQ2-7BEwPDk9I8OmYYUET1RknD5RNT8NpCg4TEiBaXrj7dRJWOlX2NNpMvQ-1TMaCYDvnCfyBk3790Qlue5G42tvWMqPvuabPHrv5Ka61A",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJfVNzEGhCwokRsFLFNWki8t0",
+        "plus_code": {
+          "compound_code": "H49P+P6 New York, NY, USA",
+          "global_code": "87G8H49P+P6"
+        },
+        "reference": "ChIJfVNzEGhCwokRsFLFNWki8t0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.568775,
+            "lng": -73.865082
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57011728029149,
+              "lng": -73.86372371970849
+            },
+            "southwest": {
+              "lat": 40.56741931970849,
+              "lng": -73.86642168029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Neponsit Hospital",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112385749461986717978\">Daniel Catano</a>"
+            ],
+            "photo_reference": "AU_ZVEGq3unvsOrDlfsuSnskm3quX7U6PTXRdBDYUe6OZFztnfQ4-MwSH46FjIMdfi0LxPl8ar9VOOVcy9MgPd6qwwKjjVk9S4yUfQXUVSRMbcuAnyFkUO1cgmD7BWQQPlMjbBGbK_zITgzVHVJ3qIfymlQqljAvgzMcTquG-kIpdZcp1WrFmtxbSyVnGxMMPHw3wDZ7DyZ7FX3l-q3HvPsjD9oB-Zgn6zeSZeuAlQX0KWBVLyJKMFZgBYaUDX3QFSxXBL9ky8RezgKRJ1f4YZdN_R7PIg4tnM29Pm8ETnMmfuq0N6WeezIIgNexcZhj-9YLRVMWixNBisdl6G41MlZ3TXsy7583zds-I16wn3nGhK4a3B6vIlwfhFl2X-3CmuF8RuIBhFNCnp2oaOme5p98wD6tTOcltUcWK3rEPZ0e5Pr7JZ_k3LF7jZGs6U2gnyTVstTZ7PIESjoF15aCTOYVeBB5hgQRFRW4O6R2Tgeow6r4_4TR08RtQy0ApD39Blt8s1L_3cBc4FkJAgijCUNMWu9CA6KQwZpAtHTvfyFBuEtxuIubRGIXtMI_CIk5DUPz5g0Xe-8BqIELOCPsIbHv4AaCY3WzykU5qAGanQ8CZUd7vTr8pZFtZlmLKRyYYJxsjRysaQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJJe6LIWhCwokRnBWFYUDSIis",
+        "plus_code": {
+          "compound_code": "H49M+GX New York, NY, USA",
+          "global_code": "87G8H49M+GX"
+        },
+        "rating": 3,
+        "reference": "ChIJJe6LIWhCwokRnBWFYUDSIis",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57214,
+            "lng": -73.85781899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5734295802915,
+              "lng": -73.85642866970849
+            },
+            "southwest": {
+              "lat": 40.5707316197085,
+              "lng": -73.8591266302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 141 St",
+        "place_id": "ChIJIQqZSGRCwokRvHdlyXOvAmQ",
+        "plus_code": {
+          "compound_code": "H4CR+VV New York, NY, USA",
+          "global_code": "87G8H4CR+VV"
+        },
+        "reference": "ChIJIQqZSGRCwokRvHdlyXOvAmQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.571884,
+            "lng": -73.857658
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5732623302915,
+              "lng": -73.8563301197085
+            },
+            "southwest": {
+              "lat": 40.5705643697085,
+              "lng": -73.85902808029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 141 St",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101065906647365675104\">Lidia Rodriguez</a>"
+            ],
+            "photo_reference": "AU_ZVEFcR9VZ1kPou4SwNYGTId1zu0n5x67MSD8y8e-2HKpl-I2xVSF-Zx1hdFLCVPW0YchXr7kGTHffnyeN3YwVDXVLKoy8Mii7uMnLXAklFbR4N4BSNfCc6RMj2dCKq5fuHRUA5NflxX4S4bGlwcXUJF4M9FYzPUQwiwEIxgt8TEPr8rNuS_qI9mL0kNPTKYSbYuxpvz52xk561KJl4QnWywu1ENl_OmWqztSJ6YHEPSKPlh16zAg7VpOsd-vjh0g5mf0npNvgWbmtBrgEELm8DXg2XVlOydStOBB4ulBB0tymzx7L6rCcI-i4ZyQfh3zXGAeA1c2MJrjyCZDQkoQrTfFl9bR-kGzE18KL9CTBmncJgUPWP7140jRQ9qBHa-8axpoSBd2YFl7AtCq2PU5LSo4gJY9gX37yhw7Qx7GuGBTqBJjq4VvWD0KhGruf3VHoSf1BIgyoAW8we9fogeNxLhGVXxJ18eXgMaMP_z1vhePDqu5Utcrq4q-zTP6Gv2BSX_NtE-l8PAAfpnoodE1prK458QO7SNRCgkwvueXpFRNi9uqxAmfm6xBlpDIhaL_RYAHKdX_8wClLDCNv2avY1OaNvzniJPz-vA0J_SkyQ3EkoEkaUUTeYiew-ZXG-pib",
+            "width": 2252
+          }
+        ],
+        "place_id": "ChIJwUu6TmRCwokRb3HUfVoOnUU",
+        "plus_code": {
+          "compound_code": "H4CR+QW New York, NY, USA",
+          "global_code": "87G8H4CR+QW"
+        },
+        "rating": 3,
+        "reference": "ChIJwUu6TmRCwokRb3HUfVoOnUU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57338399999999,
+            "lng": -73.854377
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5747423302915,
+              "lng": -73.8530006197085
+            },
+            "southwest": {
+              "lat": 40.5720443697085,
+              "lng": -73.8556985802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Bl/Beach 137 St",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101065906647365675104\">Lidia Rodriguez</a>"
+            ],
+            "photo_reference": "AU_ZVEHVrsQzi9Wme4yxupB0nJV-pqp0wt2Jz-P20zDGYWu47huv3TqaUDX9Ifq0umgkUtu-MeywK1xTvNgbspy774xOZLQjQW2EN2mxXikWads8jEWzCwY_lnjz_wMd0XaiwHeJJVrlPIB3c-ytMClzRgD0XjQ_CxEih8qg_LqBmv8t5Io1vGMMyxCVNDaaPlIVQI_wj1OeT9VdvudVu3eUY9Jb0XLV4uw4ytltjrh10NCnK7Oo1j3PDmGeTwI01Mn__QWY8bm-15JYCnlqezJgaMQJYrnucxWtfiadLaqrkM7kHKWuRz5O5rjb0FwA3ImtDIpR7fQ5Sac85hDDDxJmMkhldE9EXUEfFyr9mOrWZrRFW_bdgog1CMRgaQUOlGv2aOQYPSD7AQZ39sNeN1hZIlr8Yod1C5iYKdX3jhixVUWQpdlAkMw1ZY8PiZv9xM-zKirseH_l5b1q71SVXK8H23nDbe6SQqRFteSes1wF6Tvbto4w8HBBZeHKFqpuIzczvAkiJeuIWCa9Rqb2NgjuZzZR823y7zaxrKfdat08lxwtOa5auV33UEqO64SqDwVkmp-rWBcE7GFZxMjYiw-M_XFB9AycqQKrHdgLEiNi3tvZJC-spMNs8qTxAxKC8Y7LazC3zur8",
+            "width": 2252
+          }
+        ],
+        "place_id": "ChIJuc19qGRCwokRUtimeZl62e0",
+        "plus_code": {
+          "compound_code": "H4FW+96 New York, NY, USA",
+          "global_code": "87G8H4FW+96"
+        },
+        "reference": "ChIJuc19qGRCwokRUtimeZl62e0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573231,
+            "lng": -73.854485
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5745777802915,
+              "lng": -73.85313446970851
+            },
+            "southwest": {
+              "lat": 40.5718798197085,
+              "lng": -73.85583243029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 137 St",
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101866510316299303078\">Amy Chace</a>"
+            ],
+            "photo_reference": "AU_ZVEHxoVqLSl2T9IQpITDSImCqf2vL-hyYHVW2RAXmOFyf3ZFLEH4aebr-2iZoUpZvKAsoOdNYOQmAiUqddOGevjRqSAGj03JfjCSOAuJxcPT4szpYtofCXVRjM89MoOVu6JV8q1XZD6RuNJJMg3ORXxAULd3Eei3VOYd66pg-f_ddgKeRE26SiSDmu-IdFZlB4HWCuMaukV8C_pcBwKYq34jzFD0w8gTy0eOGEqancCMWPKnYYRbpKRxmrEO9HlD5CbGKAunPy6acHf6sc_vPj6EQcbnkfKXVRu5pCP0g3cPzBKqqfXDDnxST3N2c-pPtD91rhjKZZQUQkWesD_a7ufT12ocdLrDP-i9ktSvZ_dqhE56lRxhxbKcnX_f3g1DKaNW-ClRc1mom2jql10rt9rZ8361aJmh3lsemZ5JSDrUhJvkAKsGcEc1iYbTQD9px4wd60FE51R9TkZCvh5wArXXJqRsDCQM4IschRK80E00XfhfNfshEDfRPmcup-jyCd8yYf9xIrMy7CxB5qtA6DqPoPrbXE1Z4yKmCwO0AIW46XCWAmk2m6Phw4kFIBRApOU6DiXiCJr9vtWLKd_X6-zwjiUdktKCCk5VAY8rpqlLGdxqVtzC7EQuyl7yBJ_b342uZ4w",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJCUrgpWRCwokRl0UKWh4cEmQ",
+        "plus_code": {
+          "compound_code": "H4FW+76 New York, NY, USA",
+          "global_code": "87G8H4FW+76"
+        },
+        "reference": "ChIJCUrgpWRCwokRl0UKWh4cEmQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57354,
+            "lng": -73.854263
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5748487802915,
+              "lng": -73.8528849197085
+            },
+            "southwest": {
+              "lat": 40.5721508197085,
+              "lng": -73.85558288029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 137 St",
+        "place_id": "ChIJv5rQV2NCwokRje0dxBRDTAc",
+        "plus_code": {
+          "compound_code": "H4FW+C7 New York, NY, USA",
+          "global_code": "87G8H4FW+C7"
+        },
+        "reference": "ChIJv5rQV2NCwokRje0dxBRDTAc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573887,
+            "lng": -73.852913
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5752366802915,
+              "lng": -73.8515645697085
+            },
+            "southwest": {
+              "lat": 40.5725387197085,
+              "lng": -73.8542625302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 135 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100838838300537475796\">Nino Qasoshvili</a>"
+            ],
+            "photo_reference": "AU_ZVEEotIcl_Ky5CuvRXJNcSHoA2GWmRezvtnYgxBZlm9f9MScHWbovt6LcUWL7FG5FPaLRtjAriCc7umN64Ey8c9cfyjHc8YDrI0eA0Z_uYTmT66Sczwnsj-PKDI7yv7addSQKP3y2axwBOpYwStwJd5zkJCN3MGiaIVvlVYt0NaIL_rOcIPv5nzVqihVoTxeK8errxJhx_UwhQ5IShaB9ZAKX4FdH8iyQB-HTJRM6O4aeUM5FOWmwcEkegsic-5M25w-66htnaBQMIzC4ElH8aN-Nr2Yylo-LOmH2R78Evjo11MkaPVbObeWZsR5iRyFAiZ1vMA_90sYyKKLcFvl4IeZfPpppy6XA4J7H_TpGMRJR-sNB5A_SYEaW0uHtmteXkdqbJTrIm6f-fOSjRI3UC_x_f_SZJQaUSGkO7Fm4UCSDhC8FwP21Pn3VYLpDhy29jBdPZHfT8x_wuqQou1lK1Q7g6dEl7DKS0KxyF2am2fbVal3pLlat7NPj8z_sX7uwJWxYyIjBICMfY-Atvt70joj8LwTuqQFi6ichLirrMnfU4TLIGjmDIP5yPabss5UZBP_Rf6ItbG2wQQgqJbg6q4PrZGsliHMuVwMG2vY8-yjYgoU0KIPcIKeIaRlgepVgRTFLvrzG",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ12dZpXxCwokRXcq_DwfPHh4",
+        "plus_code": {
+          "compound_code": "H4FW+HR New York, NY, USA",
+          "global_code": "87G8H4FW+HR"
+        },
+        "rating": 5,
+        "reference": "ChIJ12dZpXxCwokRXcq_DwfPHh4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574044,
+            "lng": -73.852784
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5754003302915,
+              "lng": -73.85141471970849
+            },
+            "southwest": {
+              "lat": 40.5727023697085,
+              "lng": -73.8541126802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Bl/B 135 St",
+        "place_id": "ChIJfeL6unxCwokRP7X4b91hfLM",
+        "plus_code": {
+          "compound_code": "H4FW+JV New York, NY, USA",
+          "global_code": "87G8H4FW+JV"
+        },
+        "reference": "ChIJfeL6unxCwokRP7X4b91hfLM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5742,
+            "lng": -73.852654
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5755105302915,
+              "lng": -73.8512776197085
+            },
+            "southwest": {
+              "lat": 40.5728125697085,
+              "lng": -73.8539755802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Beach Blvd/Beach 135th St",
+        "place_id": "ChIJM5Dgu3xCwokRbjjjY5axGZo",
+        "plus_code": {
+          "compound_code": "H4FW+MW New York, NY, USA",
+          "global_code": "87G8H4FW+MW"
+        },
+        "rating": 5,
+        "reference": "ChIJM5Dgu3xCwokRbjjjY5axGZo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56649,
+            "lng": -73.871483
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56787153029151,
+              "lng": -73.87015256970848
+            },
+            "southwest": {
+              "lat": 40.56517356970851,
+              "lng": -73.8728505302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Jacob Riis Park Rd/Bath House",
+        "photos": [
+          {
+            "height": 2400,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEEBo44nShilxFeltKIIuFv7AmtcObotN-8fGoNLSJFUAxcNo657snm8YN0fAodMAtm3MmOV6Rx_Qr1n8teYDnvojRTQ2Zll6GmhfVCK61CaICYAXygSZjgGqkeiUZzgphYqE_ceGGFh4S5YgP89oiz-PbkUWVuWYbr36xniIqDUVjSw-W2_V2H_y6OtROMU-o6Zsaz_DgfoUM8eohk6z_qLRXLW22PSJllxVsipccOJJ1kH3dWEZljxv_G3OFWDI2zTbBgczL1V2P79SGAZuP-tXIl_4lFV1tXt6z8NDZDwKBAwSe3XkNPQ49fFEvsOj6XpEMaC8QDqztm7yUw8wT-Ybdf6RTTAHwR7NV8j8zlM2VOkiYwH1tQZo5Uvct3ByScH9M15Sycn_b9PXixL6YxOQ4ie2fQKCL1gmi-CcMq17tl0k4fVP7WOf4YO0PlAiZDo65j1oOxQPcwaKRzB_djJ-2seMiAecg70vS9rk5eSrjwKQt3VvgAe4Mt6YS85JAoCBMsHoc3gVa0ZjU7RskIkXClJ7jswBZF5jW5YeyWlyGuwy6y53rzTwaeAtOMP1mSIOLhkeygWD1RFV2deFhWXxboITNgqwyIRGO-avSgN0GROQBuapx4vG5Kh7-gwKBf7-O0rb5jaV7Z61gY1yV3bbHY",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ3SYdB0RCwokRLxzjMF-JEs4",
+        "plus_code": {
+          "compound_code": "H48H+HC New York, NY, USA",
+          "global_code": "87G8H48H+HC"
+        },
+        "reference": "ChIJ3SYdB0RCwokRLxzjMF-JEs4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5673021,
+          "lng": -73.8666253
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56895463029151,
+            "lng": -73.86553716970849
+          },
+          "southwest": {
+            "lat": 40.56625666970851,
+            "lng": -73.86823513029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Spectro",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2817,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106508421298504920449\">Abby Rand</a>"
+          ],
+          "photo_reference": "AU_ZVEG2-IKRneLFtXqnjbh5kUecDBJSZC875KK9DjRBtIbXwfpvnW7g5WsPBXEsqTOajNREAfXLZXluXB7iDJoxTybzWqOx1ToxVU6fUZyAyycxjzWWqB0aksBDEAVTnt9us85eaGuXa472VuIg8yMsClvWBShG-kTQB7YeC5tTHlJaArppPyOTl5dVFq4W3XEGmtbQ8r5FnecUgq09rbbaQj05dUO1CZYurSLIUF_jDay-YBF9qyjLmbrPD8yrZxPz637GzgmoTYzaQQUKSOfRHdof0XbDuDfIkM1doASz6vtxRmh50HUF2djr5XKyywwPGl70NJbrV9WVP8Omzh71cfRamACQ9meoF3N7RD3HivdKg6o-MwQoCJiL6PFnbDOr9uPPlVRdnY5ZRh2VYjnIKkeEuqudqVHDtQMRGZdFmxJB2TWsuKhJX5evcAxu2KkDDMQxM6aEJpM5pOlNE-ikbBvabfjPT3HFqssxjFcUso-jAbK059R9WLvHmjLUh4Lw0CRfsGxIhU5dox69XJb1xwTRnLiqD1LeTrSPRXvGqB60ihUIKF4ydwZl5ywzGcHc5Ps7poojeoPztN2VkjuHzccbNwk0VzPoevs4FEReZ4zxdN22QpUvrYHTfkTd9MzjNaXU3w",
+          "width": 2817
+        }
+      ],
+      "place_id": "ChIJKXRWQx9DwokRmF3duJy5tNE",
+      "plus_code": {
+        "compound_code": "H48M+W8 Neponsit, Queens, NY, USA",
+        "global_code": "87G8H48M+W8"
+      },
+      "rating": 4.4,
+      "reference": "ChIJKXRWQx9DwokRmF3duJy5tNE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "167-02 Rockaway Beach Boulevard, Neponsit"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57310109999999,
+          "lng": -73.8549958
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57444973029151,
+            "lng": -73.85364651970849
+          },
+          "southwest": {
+            "lat": 40.57175176970851,
+            "lng": -73.8563444802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "It\u2019s not the Hamptons: New York\u2019s beach an hour away from Manhattan. Ocean views",
+      "place_id": "ChIJxZTlomRCwokRR49lXUi6o0w",
+      "plus_code": {
+        "compound_code": "H4FW+62 New York, NY, USA",
+        "global_code": "87G8H4FW+62"
+      },
+      "reference": "ChIJxZTlomRCwokRR49lXUi6o0w",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57310109999999,
+          "lng": -73.8549881
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5744521302915,
+            "lng": -73.85364061970849
+          },
+          "southwest": {
+            "lat": 40.57175416970851,
+            "lng": -73.85633858029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "It\u2019s not the Hamptons: New York\u2019s beach an hour away from Manhattan. Ocean views",
+      "place_id": "ChIJc0zkomRCwokRTcJwputijuE",
+      "plus_code": {
+        "compound_code": "H4FW+62 New York, NY, USA",
+        "global_code": "87G8H4FW+62"
+      },
+      "reference": "ChIJc0zkomRCwokRTcJwputijuE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5670706,
+          "lng": -73.87177009999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5682265302915,
+            "lng": -73.8681836
+          },
+          "southwest": {
+            "lat": 40.5655285697085,
+            "lng": -73.8749144
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 718-318-4310",
+      "name": "Jacob Riis Park (Gateway National Recreation Area)",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2368,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101162313592994903903\">Sam Kan</a>"
+          ],
+          "photo_reference": "AU_ZVEHMAMwofm08PS25E7_StQBnGV3fsDre6u7oq9-yORRxGYzDo3nvA-koo10pTH98ffkfqnD4ND0W0Jh0TNSRRQlolJULCHQbQ9slxXetBn3kOEMJ8U7rr1QwwCc6GUeu84AiJeg4yxsMgK_UBgOiPMs_x288Fogrt4HIU9bLlhlfZRrhBQEMu-OBrj4bGbIq3N3IFiWZgV43Dj_m2H9offZ8MhaJtg2XFBI6jNm2333Gcmo7iTLQ5lh0MwwKuQKUkqfARqlBgfbzkUA9b01q0mLXJLCdKDM3XVXtpL8WOvpsRvs1Kzd_LJgqHy_jUJHai56LAs8GyeVYdEm8nE58WAr5sDd3iv5u1aMhI-zclbgCAY447I0RFfbAerlE7_ifOhxRu5kwHjk40KK4RLwajiSGgSrXcIOwbiNSEHk4shVL-XiXEO-MOgB4euLZik89CZjNIrXVpE-IsUlo7YadYxJajYO5JabDj1Qyr7tjCQcFgYqdsR9tfCwlbEgb1ItWf2WTh2LIaU86GiSaTrQHj8aj24fhoJlg_U0ZYGoqLLKupxQgaL_ue5u1sgKahJP-PEh5muPh__lOjmXxJAHCQcLFUcweUWo4FC1kx22zi61jELtDhQqT4n9JlT8m9g3qjxB-cc0D",
+          "width": 4208
+        }
+      ],
+      "place_id": "ChIJY3WyZkRCwokRkdrlxKbZ9v0",
+      "plus_code": {
+        "compound_code": "H48H+R7 Rockaway Park, Queens, NY, USA",
+        "global_code": "87G8H48H+R7"
+      },
+      "rating": 4.6,
+      "reference": "ChIJY3WyZkRCwokRkdrlxKbZ9v0",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5190,
+      "vicinity": "1-57 Rockaway Beach Boulevard, Rockaway Park"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5717104,
+          "lng": -73.8607943
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5731733802915,
+            "lng": -73.8594664197085
+          },
+          "southwest": {
+            "lat": 40.57047541970851,
+            "lng": -73.86216438029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-938-1666",
+      "name": "The Little North Pole",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114631929378489095974\">Heather O&#39; Brien</a>"
+          ],
+          "photo_reference": "AU_ZVEFwUDRWOAP0V_sHTQms-RxiwH35a-36we9oGWTaRmA2qtIJZmbFTsQ6jmWDtugPF5D3DMzTzuZ4O1I8SJCQLdK_6hquOLMLqKKYKwJmxXk-uRvvA1h67Y2vdfFaNUgA5__K0C6EDonITMn1OopxlvglfnMwOJ_BWjaBIWwOZuQF26g9StWKDWdr4FiwucDTMoDdIzfLjczk-P4v9iqdk3bZCI9kA-rpsuKYi_Bn_7QYvDKJoCbjiyGy_irMwvbtoOcqSdW_VKgT5an_YMLMlFYBPi_CfqaBgLMZ6a8bbvD0mmRhRsOiM5hFYXnwhLxUShIvEDJe6Sv08Pb1-ajtutOuXGlW8OAwoiPGNPOvhoau85Zqx-A8Esd_7eSptKzZ5uJk2jhSOOSPATl2Nf0G5haDeaz3x-Ai7Jz25P_fwojl0NaqDr-nLJDCgbkjK300TXQcbjAEE9Xmax9ewumUFdT1mGsLyZP06JLDKPdJMQWmqfAgyC52DyvforV7rFMCksrFGM5oGzaWt7s23jTnxN3W5bNTtosS-QJMm0mJEj7qe9qytr3eQKjoxt8XszFOB4qopUytJLS5J0-iTYNuCqW0zPGJh81un9SQaOaBNZJ4dshVPvMXkgbaF7mLcWIH",
+          "width": 1099
+        }
+      ],
+      "place_id": "ChIJzSFrYWZCwokRAVRKv3Fef0M",
+      "plus_code": {
+        "compound_code": "H4CQ+MM Neponsit, Queens, NY, USA",
+        "global_code": "87G8H4CQ+MM"
+      },
+      "rating": 4.8,
+      "reference": "ChIJzSFrYWZCwokRAVRKv3Fef0M",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 94,
+      "vicinity": "144-03 Neponsit Avenue, Neponsit"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.569311,
+          "lng": -73.8642385
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5706341802915,
+            "lng": -73.86287136970849
+          },
+          "southwest": {
+            "lat": 40.5679362197085,
+            "lng": -73.8655693302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Bl/Beach 149 St",
+      "place_id": "ChIJ-VoTEmhCwokR7ESNUNKsMek",
+      "plus_code": {
+        "compound_code": "H49P+P8 New York, NY, USA",
+        "global_code": "87G8H49P+P8"
+      },
+      "reference": "ChIJ-VoTEmhCwokR7ESNUNKsMek",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572011,
+          "lng": -73.8577365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5733400302915,
+            "lng": -73.8563736197085
+          },
+          "southwest": {
+            "lat": 40.5706420697085,
+            "lng": -73.85907158029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Bl/B 141 St",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101065906647365675104\">Lidia Rodriguez</a>"
+          ],
+          "photo_reference": "AU_ZVEHkrksFmP4vR6utqhOMogdmtrpJbI1qer5yNX8rztxqtN669jF_feYzwiphw-5E0VUYn9l58Q-vzMXareGdxbjbVAMmGrB3P5JnU5brKYl1rPiorajCcVfdU1uZwDVsUTHIPOBon0XdXDahahdIezFe2adE_CWZ7tp3FqoLylWeEgGocLmTT-SQX3v5rfBYjIfgGvZnMCm0w5cuv4gBypyznsw0f5Gdq8rlDno_MQImrsLqsUnrjTuJfUj0ZS_5jVAc84tg-k8OR-KhTmJvj4N_L5nl0Ckv3vZzyuOrsnRyEuJHIiOmbtm-AuXYvatEoR-4gqnvgoHaht8JAmHxqjOKbAkxsxnEQATLv5gQQtAhqKqn26KolVSQJViguY2z-VB0BWNfXQHOteyycBC-V_oxa8VFdx-aBgqNaRcR9ZZdrJ4Y9YdyMwQgnEIzfuY02v8eY-0b4j4K7HwJVArrzPBZ9HZzOqBU5BM-iEy35sF77F8gz08ykfQ-LVf12o8wdM8uwMLDjDstZ3dsgRyAE4ER48MMpAJcZpouXymqrd9fZ2OyK1MjAHJ2cDDHK63P2j32J1glywAbhT_gVgHV2i_ZjH985uV61sbkaeVE7YnTizRRx9QBpAPpDsWSjalA",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJTZrWSGRCwokRGmXGfstXv7w",
+      "plus_code": {
+        "compound_code": "H4CR+RW New York, NY, USA",
+        "global_code": "87G8H4CR+RW"
+      },
+      "reference": "ChIJTZrWSGRCwokRGmXGfstXv7w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5706408,
+          "lng": -73.8612849
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5719634302915,
+            "lng": -73.8599173697085
+          },
+          "southwest": {
+            "lat": 40.5692654697085,
+            "lng": -73.86261533029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 145 St",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110008081044762350847\">Eric Nogin</a>"
+          ],
+          "photo_reference": "AU_ZVEHRpM02bDFZtNiwOwR3yv6v4BblzqZcxCFL9f_kMkiDqtDgogHYJhUuQb-0spNSCUlHRvxplqj7-4reQmTT9aMrttYnDZ5q5zXoZ3yzAwVz1Agp4v3s1n_qX0mAd9-oW6CDr8nq1occNl0_vJixlGTWY21E9q2jNPW6HFb2gpo5Uo74xG2jnR8Cw4KHn5KMxQ6S5f4tye8qTmai6UK0rUrbiSh-WeBzw6U7D9aq5avsKXDaL5ktwMULlBUM-WSaNjLsJ-a0Sf4kthcFbMJ1DaxCXRwEIFl20iDKLgAXUB3_VKxrNQ7cNvLBcZ6Ov7eL4E66OcJVwZC_QGa7nTL8He8uWvWLqJtF8Bow9IqXSkQea4ciX_d5sO4QhFAU-eqeFldDPAqIn7P11Z_DVJ1Bjd6dhi257ciGTf6mTjC6CZNc9xkLTBJ4TygO5PLBpgr7Cpk3Ii7y2J6PgVPr5Fg_iuhf5lG4jtxD_Qxk2HjLbydHPGF6MGof_RDCJE_nMGUIbQMZQJx-uGmpfP1RNqN6TsjZRvr_A4vshrsj4qLUp0lpHIsiW8ZmAI_3nTrNBL9CsuF07hOGnK5dN6fKtw6IZjnQdqc7FkiSA94lVBKFHCu8Xf0B0O_Gw8KI2tNXI3DDU5E_pVR9",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJhx8PQGZCwokRUGO7CX3WIP8",
+      "plus_code": {
+        "compound_code": "H4CQ+7F New York, NY, USA",
+        "global_code": "87G8H4CQ+7F"
+      },
+      "reference": "ChIJhx8PQGZCwokRUGO7CX3WIP8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57000000000001,
+          "lng": -73.862122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57139523029151,
+            "lng": -73.8608054197085
+          },
+          "southwest": {
+            "lat": 40.56869726970851,
+            "lng": -73.86350338029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 147 St",
+      "photos": [
+        {
+          "height": 2802,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100554709261180307047\">Marina K</a>"
+          ],
+          "photo_reference": "AU_ZVEEpPITgXNO1a2JbcIimdQ6Km9sLXd10Arax-EbfjD5UOf6z0xO3FNk1gbsF8wQshJnr7mwvjdJTRcatijh2Z3A5tVNddGvughQOjlgTJbXMucd7OXveZx7zZhjsT86XKlrwR3dbrJSRW7vhZDSWD2gqbMOf2bLEaBM8Aa5TKni8HKwDGieD8RpboJemuSjouvIjcDBLbsdEjpQPUUyRQxp33dgMTvQlIVEnjzBkb3TmT8lC7xuVXHzaA3v8MMTyKhVZAvfHz-sBHxlrxr2kQXjpc8xp_M1yz86foPECfvC_uD82_7dBT-Uld0tuKlpFxIbcs7_8Rx_TsUmt0YS2B276pyV402IXRX1as8ZG2lfqe10a-Zo8O9Si4ndiZ_EqWm4ev9ZNiplz1fJWEjcuo9ILYBmdyAqSZE5p1wXf4VWFjyu9zuECBiChrErND56Szh-EY2yI6_8prBmyAvc1b9a_zbEdY3ioPlwa8_TLefcur2uvI_TMFRLZdIppnNEH-rgcLpeFpINhrhrNWUx28S9MD9wUPpCz_byARazXGJKbHNM7Yd5zmAvpm0VWFGeI00d_TKbqeTq2D2gIYY8C2jkjKqP_EZ6fU3dzoK1WBjl8uUc7KnRG_0BfvtkqrQTDN8W9vVKe",
+          "width": 3732
+        }
+      ],
+      "place_id": "ChIJcScALGZCwokR0-tRbghm8mg",
+      "plus_code": {
+        "compound_code": "H49Q+X5 New York, NY, USA",
+        "global_code": "87G8H49Q+X5"
+      },
+      "reference": "ChIJcScALGZCwokR0-tRbghm8mg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.569992,
+          "lng": -73.862206
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5713770802915,
+            "lng": -73.86088231970851
+          },
+          "southwest": {
+            "lat": 40.5686791197085,
+            "lng": -73.86358028029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 147 St",
+      "place_id": "ChIJO-z0K2ZCwokRe9ZvMhVBL2k",
+      "plus_code": {
+        "compound_code": "H49Q+X4 New York, NY, USA",
+        "global_code": "87G8H49Q+X4"
+      },
+      "reference": "ChIJO-z0K2ZCwokRe9ZvMhVBL2k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.570072,
+          "lng": -73.86277
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5713794802915,
+            "lng": -73.8613919197085
+          },
+          "southwest": {
+            "lat": 40.56868151970851,
+            "lng": -73.8640898802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 147 St",
+      "place_id": "ChIJpz8L1GdCwokR2P_Zk-hoRRk",
+      "plus_code": {
+        "compound_code": "H4CP+2V New York, NY, USA",
+        "global_code": "87G8H4CP+2V"
+      },
+      "reference": "ChIJpz8L1GdCwokR2P_Zk-hoRRk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56943089999999,
+          "lng": -73.863648
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5707979302915,
+            "lng": -73.8623117197085
+          },
+          "southwest": {
+            "lat": 40.5680999697085,
+            "lng": -73.86500968029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Boulevard & Beach 149th Street",
+      "place_id": "ChIJ92Z6bWhCwokRZQzQcqfpW2k",
+      "plus_code": {
+        "compound_code": "H49P+QG New York, NY, USA",
+        "global_code": "87G8H49P+QG"
+      },
+      "rating": 5,
+      "reference": "ChIJ92Z6bWhCwokRZQzQcqfpW2k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.569331,
+          "lng": -73.8644989
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5706647302915,
+            "lng": -73.86313931970848
+          },
+          "southwest": {
+            "lat": 40.5679667697085,
+            "lng": -73.8658372802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rckwy Bch Blvd/Bch 149 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117901173654556611531\">Mirza Medunjanin</a>"
+          ],
+          "photo_reference": "AU_ZVEFnvyYemysT3CPUZmJ43Fz8Z5y5IFCIS4vyLIgrnyLyWoTIDPzLKaJeIomMa0ehNFFID0UI3COawNaRQ24H_p51lYoLIWjlrqlRvQcvfh6ZP4dJReanj9sJWwiNztRTakCkxNUNk5ummxiYAOjhqBSwvrAf9-y9CYQgVkPnjnGt_-9zbedSDAM2-cpK7zD9YvgWUQdpqUnpBMGDx3zqp3TiKqMMNVaWDYj3qBDYOfDPT1PF4uY7OyA8ZjJNHq-4_Oe0ghjjyu6Q9wk-FeyT9zw_uoZde6_PRyoGKmpY-TvJeAIIYlM_S6yzkCeEY_LXhRcvdy3-3EGZFfr6Eaw8LePWJvqx6BrNFiddlW7hEKWOtoslv7sNS1aG_EG7qExpm7GugabZ-35Hl3G5id8cXXErurhW1tSxsqzJ0FTkMaqrHLsl8SaJH-6grDCX4sV1UXWCsS8rlkcJXz_s64dKxGfSp6YdYmvON_gxiP5x7uwK_-GUlnBpdkr79B2m2FvnsPqzGzeRJOe6IfLoiHCUBilI_zzCEQ2-7BEwPDk9I8OmYYUET1RknD5RNT8NpCg4TEiBaXrj7dRJWOlX2NNpMvQ-1TMaCYDvnCfyBk3790Qlue5G42tvWMqPvuabPHrv5Ka61A",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJfVNzEGhCwokRsFLFNWki8t0",
+      "plus_code": {
+        "compound_code": "H49P+P6 New York, NY, USA",
+        "global_code": "87G8H49P+P6"
+      },
+      "reference": "ChIJfVNzEGhCwokRsFLFNWki8t0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.568775,
+          "lng": -73.865082
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57011728029149,
+            "lng": -73.86372371970849
+          },
+          "southwest": {
+            "lat": 40.56741931970849,
+            "lng": -73.86642168029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Neponsit Hospital",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112385749461986717978\">Daniel Catano</a>"
+          ],
+          "photo_reference": "AU_ZVEGq3unvsOrDlfsuSnskm3quX7U6PTXRdBDYUe6OZFztnfQ4-MwSH46FjIMdfi0LxPl8ar9VOOVcy9MgPd6qwwKjjVk9S4yUfQXUVSRMbcuAnyFkUO1cgmD7BWQQPlMjbBGbK_zITgzVHVJ3qIfymlQqljAvgzMcTquG-kIpdZcp1WrFmtxbSyVnGxMMPHw3wDZ7DyZ7FX3l-q3HvPsjD9oB-Zgn6zeSZeuAlQX0KWBVLyJKMFZgBYaUDX3QFSxXBL9ky8RezgKRJ1f4YZdN_R7PIg4tnM29Pm8ETnMmfuq0N6WeezIIgNexcZhj-9YLRVMWixNBisdl6G41MlZ3TXsy7583zds-I16wn3nGhK4a3B6vIlwfhFl2X-3CmuF8RuIBhFNCnp2oaOme5p98wD6tTOcltUcWK3rEPZ0e5Pr7JZ_k3LF7jZGs6U2gnyTVstTZ7PIESjoF15aCTOYVeBB5hgQRFRW4O6R2Tgeow6r4_4TR08RtQy0ApD39Blt8s1L_3cBc4FkJAgijCUNMWu9CA6KQwZpAtHTvfyFBuEtxuIubRGIXtMI_CIk5DUPz5g0Xe-8BqIELOCPsIbHv4AaCY3WzykU5qAGanQ8CZUd7vTr8pZFtZlmLKRyYYJxsjRysaQ",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJJe6LIWhCwokRnBWFYUDSIis",
+      "plus_code": {
+        "compound_code": "H49M+GX New York, NY, USA",
+        "global_code": "87G8H49M+GX"
+      },
+      "rating": 3,
+      "reference": "ChIJJe6LIWhCwokRnBWFYUDSIis",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57214,
+          "lng": -73.85781899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5734295802915,
+            "lng": -73.85642866970849
+          },
+          "southwest": {
+            "lat": 40.5707316197085,
+            "lng": -73.8591266302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 141 St",
+      "place_id": "ChIJIQqZSGRCwokRvHdlyXOvAmQ",
+      "plus_code": {
+        "compound_code": "H4CR+VV New York, NY, USA",
+        "global_code": "87G8H4CR+VV"
+      },
+      "reference": "ChIJIQqZSGRCwokRvHdlyXOvAmQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.571884,
+          "lng": -73.857658
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5732623302915,
+            "lng": -73.8563301197085
+          },
+          "southwest": {
+            "lat": 40.5705643697085,
+            "lng": -73.85902808029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 141 St",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101065906647365675104\">Lidia Rodriguez</a>"
+          ],
+          "photo_reference": "AU_ZVEFcR9VZ1kPou4SwNYGTId1zu0n5x67MSD8y8e-2HKpl-I2xVSF-Zx1hdFLCVPW0YchXr7kGTHffnyeN3YwVDXVLKoy8Mii7uMnLXAklFbR4N4BSNfCc6RMj2dCKq5fuHRUA5NflxX4S4bGlwcXUJF4M9FYzPUQwiwEIxgt8TEPr8rNuS_qI9mL0kNPTKYSbYuxpvz52xk561KJl4QnWywu1ENl_OmWqztSJ6YHEPSKPlh16zAg7VpOsd-vjh0g5mf0npNvgWbmtBrgEELm8DXg2XVlOydStOBB4ulBB0tymzx7L6rCcI-i4ZyQfh3zXGAeA1c2MJrjyCZDQkoQrTfFl9bR-kGzE18KL9CTBmncJgUPWP7140jRQ9qBHa-8axpoSBd2YFl7AtCq2PU5LSo4gJY9gX37yhw7Qx7GuGBTqBJjq4VvWD0KhGruf3VHoSf1BIgyoAW8we9fogeNxLhGVXxJ18eXgMaMP_z1vhePDqu5Utcrq4q-zTP6Gv2BSX_NtE-l8PAAfpnoodE1prK458QO7SNRCgkwvueXpFRNi9uqxAmfm6xBlpDIhaL_RYAHKdX_8wClLDCNv2avY1OaNvzniJPz-vA0J_SkyQ3EkoEkaUUTeYiew-ZXG-pib",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJwUu6TmRCwokRb3HUfVoOnUU",
+      "plus_code": {
+        "compound_code": "H4CR+QW New York, NY, USA",
+        "global_code": "87G8H4CR+QW"
+      },
+      "rating": 3,
+      "reference": "ChIJwUu6TmRCwokRb3HUfVoOnUU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57338399999999,
+          "lng": -73.854377
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5747423302915,
+            "lng": -73.8530006197085
+          },
+          "southwest": {
+            "lat": 40.5720443697085,
+            "lng": -73.8556985802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Bl/Beach 137 St",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101065906647365675104\">Lidia Rodriguez</a>"
+          ],
+          "photo_reference": "AU_ZVEHVrsQzi9Wme4yxupB0nJV-pqp0wt2Jz-P20zDGYWu47huv3TqaUDX9Ifq0umgkUtu-MeywK1xTvNgbspy774xOZLQjQW2EN2mxXikWads8jEWzCwY_lnjz_wMd0XaiwHeJJVrlPIB3c-ytMClzRgD0XjQ_CxEih8qg_LqBmv8t5Io1vGMMyxCVNDaaPlIVQI_wj1OeT9VdvudVu3eUY9Jb0XLV4uw4ytltjrh10NCnK7Oo1j3PDmGeTwI01Mn__QWY8bm-15JYCnlqezJgaMQJYrnucxWtfiadLaqrkM7kHKWuRz5O5rjb0FwA3ImtDIpR7fQ5Sac85hDDDxJmMkhldE9EXUEfFyr9mOrWZrRFW_bdgog1CMRgaQUOlGv2aOQYPSD7AQZ39sNeN1hZIlr8Yod1C5iYKdX3jhixVUWQpdlAkMw1ZY8PiZv9xM-zKirseH_l5b1q71SVXK8H23nDbe6SQqRFteSes1wF6Tvbto4w8HBBZeHKFqpuIzczvAkiJeuIWCa9Rqb2NgjuZzZR823y7zaxrKfdat08lxwtOa5auV33UEqO64SqDwVkmp-rWBcE7GFZxMjYiw-M_XFB9AycqQKrHdgLEiNi3tvZJC-spMNs8qTxAxKC8Y7LazC3zur8",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJuc19qGRCwokRUtimeZl62e0",
+      "plus_code": {
+        "compound_code": "H4FW+96 New York, NY, USA",
+        "global_code": "87G8H4FW+96"
+      },
+      "reference": "ChIJuc19qGRCwokRUtimeZl62e0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573231,
+          "lng": -73.854485
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5745777802915,
+            "lng": -73.85313446970851
+          },
+          "southwest": {
+            "lat": 40.5718798197085,
+            "lng": -73.85583243029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 137 St",
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101866510316299303078\">Amy Chace</a>"
+          ],
+          "photo_reference": "AU_ZVEHxoVqLSl2T9IQpITDSImCqf2vL-hyYHVW2RAXmOFyf3ZFLEH4aebr-2iZoUpZvKAsoOdNYOQmAiUqddOGevjRqSAGj03JfjCSOAuJxcPT4szpYtofCXVRjM89MoOVu6JV8q1XZD6RuNJJMg3ORXxAULd3Eei3VOYd66pg-f_ddgKeRE26SiSDmu-IdFZlB4HWCuMaukV8C_pcBwKYq34jzFD0w8gTy0eOGEqancCMWPKnYYRbpKRxmrEO9HlD5CbGKAunPy6acHf6sc_vPj6EQcbnkfKXVRu5pCP0g3cPzBKqqfXDDnxST3N2c-pPtD91rhjKZZQUQkWesD_a7ufT12ocdLrDP-i9ktSvZ_dqhE56lRxhxbKcnX_f3g1DKaNW-ClRc1mom2jql10rt9rZ8361aJmh3lsemZ5JSDrUhJvkAKsGcEc1iYbTQD9px4wd60FE51R9TkZCvh5wArXXJqRsDCQM4IschRK80E00XfhfNfshEDfRPmcup-jyCd8yYf9xIrMy7CxB5qtA6DqPoPrbXE1Z4yKmCwO0AIW46XCWAmk2m6Phw4kFIBRApOU6DiXiCJr9vtWLKd_X6-zwjiUdktKCCk5VAY8rpqlLGdxqVtzC7EQuyl7yBJ_b342uZ4w",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJCUrgpWRCwokRl0UKWh4cEmQ",
+      "plus_code": {
+        "compound_code": "H4FW+76 New York, NY, USA",
+        "global_code": "87G8H4FW+76"
+      },
+      "reference": "ChIJCUrgpWRCwokRl0UKWh4cEmQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57354,
+          "lng": -73.854263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5748487802915,
+            "lng": -73.8528849197085
+          },
+          "southwest": {
+            "lat": 40.5721508197085,
+            "lng": -73.85558288029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 137 St",
+      "place_id": "ChIJv5rQV2NCwokRje0dxBRDTAc",
+      "plus_code": {
+        "compound_code": "H4FW+C7 New York, NY, USA",
+        "global_code": "87G8H4FW+C7"
+      },
+      "reference": "ChIJv5rQV2NCwokRje0dxBRDTAc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573887,
+          "lng": -73.852913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5752366802915,
+            "lng": -73.8515645697085
+          },
+          "southwest": {
+            "lat": 40.5725387197085,
+            "lng": -73.8542625302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 135 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100838838300537475796\">Nino Qasoshvili</a>"
+          ],
+          "photo_reference": "AU_ZVEEotIcl_Ky5CuvRXJNcSHoA2GWmRezvtnYgxBZlm9f9MScHWbovt6LcUWL7FG5FPaLRtjAriCc7umN64Ey8c9cfyjHc8YDrI0eA0Z_uYTmT66Sczwnsj-PKDI7yv7addSQKP3y2axwBOpYwStwJd5zkJCN3MGiaIVvlVYt0NaIL_rOcIPv5nzVqihVoTxeK8errxJhx_UwhQ5IShaB9ZAKX4FdH8iyQB-HTJRM6O4aeUM5FOWmwcEkegsic-5M25w-66htnaBQMIzC4ElH8aN-Nr2Yylo-LOmH2R78Evjo11MkaPVbObeWZsR5iRyFAiZ1vMA_90sYyKKLcFvl4IeZfPpppy6XA4J7H_TpGMRJR-sNB5A_SYEaW0uHtmteXkdqbJTrIm6f-fOSjRI3UC_x_f_SZJQaUSGkO7Fm4UCSDhC8FwP21Pn3VYLpDhy29jBdPZHfT8x_wuqQou1lK1Q7g6dEl7DKS0KxyF2am2fbVal3pLlat7NPj8z_sX7uwJWxYyIjBICMfY-Atvt70joj8LwTuqQFi6ichLirrMnfU4TLIGjmDIP5yPabss5UZBP_Rf6ItbG2wQQgqJbg6q4PrZGsliHMuVwMG2vY8-yjYgoU0KIPcIKeIaRlgepVgRTFLvrzG",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ12dZpXxCwokRXcq_DwfPHh4",
+      "plus_code": {
+        "compound_code": "H4FW+HR New York, NY, USA",
+        "global_code": "87G8H4FW+HR"
+      },
+      "rating": 5,
+      "reference": "ChIJ12dZpXxCwokRXcq_DwfPHh4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574044,
+          "lng": -73.852784
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5754003302915,
+            "lng": -73.85141471970849
+          },
+          "southwest": {
+            "lat": 40.5727023697085,
+            "lng": -73.8541126802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Bl/B 135 St",
+      "place_id": "ChIJfeL6unxCwokRP7X4b91hfLM",
+      "plus_code": {
+        "compound_code": "H4FW+JV New York, NY, USA",
+        "global_code": "87G8H4FW+JV"
+      },
+      "reference": "ChIJfeL6unxCwokRP7X4b91hfLM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5742,
+          "lng": -73.852654
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5755105302915,
+            "lng": -73.8512776197085
+          },
+          "southwest": {
+            "lat": 40.5728125697085,
+            "lng": -73.8539755802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Beach Blvd/Beach 135th St",
+      "place_id": "ChIJM5Dgu3xCwokRbjjjY5axGZo",
+      "plus_code": {
+        "compound_code": "H4FW+MW New York, NY, USA",
+        "global_code": "87G8H4FW+MW"
+      },
+      "rating": 5,
+      "reference": "ChIJM5Dgu3xCwokRbjjjY5axGZo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56649,
+          "lng": -73.871483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56787153029151,
+            "lng": -73.87015256970848
+          },
+          "southwest": {
+            "lat": 40.56517356970851,
+            "lng": -73.8728505302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Jacob Riis Park Rd/Bath House",
+      "photos": [
+        {
+          "height": 2400,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEEBo44nShilxFeltKIIuFv7AmtcObotN-8fGoNLSJFUAxcNo657snm8YN0fAodMAtm3MmOV6Rx_Qr1n8teYDnvojRTQ2Zll6GmhfVCK61CaICYAXygSZjgGqkeiUZzgphYqE_ceGGFh4S5YgP89oiz-PbkUWVuWYbr36xniIqDUVjSw-W2_V2H_y6OtROMU-o6Zsaz_DgfoUM8eohk6z_qLRXLW22PSJllxVsipccOJJ1kH3dWEZljxv_G3OFWDI2zTbBgczL1V2P79SGAZuP-tXIl_4lFV1tXt6z8NDZDwKBAwSe3XkNPQ49fFEvsOj6XpEMaC8QDqztm7yUw8wT-Ybdf6RTTAHwR7NV8j8zlM2VOkiYwH1tQZo5Uvct3ByScH9M15Sycn_b9PXixL6YxOQ4ie2fQKCL1gmi-CcMq17tl0k4fVP7WOf4YO0PlAiZDo65j1oOxQPcwaKRzB_djJ-2seMiAecg70vS9rk5eSrjwKQt3VvgAe4Mt6YS85JAoCBMsHoc3gVa0ZjU7RskIkXClJ7jswBZF5jW5YeyWlyGuwy6y53rzTwaeAtOMP1mSIOLhkeygWD1RFV2deFhWXxboITNgqwyIRGO-avSgN0GROQBuapx4vG5Kh7-gwKBf7-O0rb5jaV7Z61gY1yV3bbHY",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ3SYdB0RCwokRLxzjMF-JEs4",
+      "plus_code": {
+        "compound_code": "H48H+HC New York, NY, USA",
+        "global_code": "87G8H48H+HC"
+      },
+      "reference": "ChIJ3SYdB0RCwokRLxzjMF-JEs4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

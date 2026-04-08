@@ -200,43 +200,51 @@ def query_geodata(
     projection: dict | None = None,
     limit: int = 20,
     sort: list[list] | None = None,
+    pipeline: list | None = None,
 ) -> str:
     """
     Query the MongoDB geospatial store and return matching documents as JSON.
 
-    Supports standard MongoDB filter syntax including geospatial operators
-    ($nearSphere, $geoWithin, $geoIntersects) and regular field filters.
-    The _id field is always excluded from results (not serialisable).
+    Two modes:
+      1. Find mode (default)  — filter + projection + sort + limit (simple queries)
+      2. Aggregate mode       — pass a `pipeline` list of MongoDB aggregation stages
+
+    Use aggregate mode when you need GROUP BY, AVG, COUNT, or other aggregations
+    across documents (e.g. average restaurant rating by borough).
 
     Available collections:
       neighbourhoods — GeoJSON MultiPolygon boundaries per neighbourhood
-        Fields: neighbourhood, borough, geometry (MultiPolygon),
-                centroid (Point), loaded_at
-        Example filter: {"borough": "Brooklyn"}
+        Fields: neighbourhood, borough, geometry (MultiPolygon), centroid (Point)
 
-      places — POI documents with GeoJSON Point geometry
+      places — Google Places POI documents
         Fields: place_id, name, neighbourhood, borough, types, rating,
                 user_ratings_total, vicinity, price_level, geometry (Point)
-        Example filter: {"neighbourhood": "Williamsburg", "types": "restaurant"}
+        types values: "restaurant", "bar", "lodging", "tourist_attraction",
+                      "transit_station"
 
-    Geospatial proximity example (restaurants within 500m of a point):
+    Find mode example (restaurants in Williamsburg):
       collection: "places"
-      filter: {
-        "geometry": {
-          "$nearSphere": {
-            "$geometry": {"type": "Point", "coordinates": [-73.957, 40.714]},
-            "$maxDistance": 500
-          }
-        },
-        "types": "restaurant"
-      }
+      filter: {"neighbourhood": "Williamsburg", "types": "restaurant"}
+      sort: [["rating", -1]]
+      limit: 10
+
+    Aggregate mode example (average restaurant rating per borough):
+      collection: "places"
+      pipeline: [
+        {"$match": {"types": "restaurant", "rating": {"$exists": true}}},
+        {"$group": {"_id": "$borough", "avg_rating": {"$avg": "$rating"},
+                    "place_count": {"$sum": 1}}},
+        {"$sort": {"avg_rating": -1}}
+      ]
 
     Args:
         collection:  "neighbourhoods" or "places"
-        filter:      MongoDB filter dict (default: {} — all documents)
-        projection:  Fields to include/exclude (default: all except _id)
-        limit:       Maximum documents to return (default 20, max 200)
-        sort:        List of [field, direction] pairs, e.g. [["rating", -1]]
+        filter:      MongoDB filter dict — find mode only (default: {})
+        projection:  Fields to include/exclude — find mode only
+        limit:       Max documents — find mode only (default 20, max 200)
+        sort:        [field, direction] pairs — find mode only
+        pipeline:    Aggregation pipeline stages — aggregate mode
+                     (overrides filter/projection/sort/limit when provided)
 
     Returns:
         JSON string — {"documents": [...], "count": N} or {"error": "..."}.
@@ -244,29 +252,43 @@ def query_geodata(
     if collection not in ("neighbourhoods", "places"):
         return json.dumps({"error": f"Unknown collection '{collection}'. Use 'neighbourhoods' or 'places'."})
 
-    if isinstance(limit, dict):
-        limit = limit.get("value", 20)
-    effective_limit = min(int(limit), 200)
-    query_filter    = filter or {}
-    proj            = projection or {}
-    proj["_id"]     = 0   # always exclude _id (not JSON-serialisable)
-
     try:
         db  = _get_mongo_db()
         col = db[collection]
-        cursor = col.find(query_filter, proj).limit(effective_limit)
 
+        # ── Aggregate mode ─────────────────────────────────────────────────────
+        if pipeline:
+            # Append $project to strip _id from aggregation results
+            has_project = any("$project" in stage for stage in pipeline)
+            if not has_project:
+                pipeline = pipeline + [{"$project": {"_id": 0}}]
+
+            docs = list(col.aggregate(pipeline))
+            return json.dumps(
+                {"documents": docs, "count": len(docs)},
+                indent=2,
+                default=str,
+            )
+
+        # ── Find mode ──────────────────────────────────────────────────────────
+        if isinstance(limit, dict):
+            limit = limit.get("value", 20)
+        effective_limit = min(int(limit), 200)
+        query_filter    = filter or {}
+        proj            = projection or {}
+        proj["_id"]     = 0
+
+        cursor = col.find(query_filter, proj).limit(effective_limit)
         if sort:
             cursor = cursor.sort(sort)
 
         docs = list(cursor)
-
-        # Serialise GeoJSON geometry inline — already plain dicts, just dump
         return json.dumps(
             {"documents": docs, "count": len(docs)},
             indent=2,
-            default=str,   # fallback for any non-serialisable scalar
+            default=str,
         )
+
     except Exception as e:
         log.error(f"query_geodata error: {e}")
         return json.dumps({"error": str(e)})

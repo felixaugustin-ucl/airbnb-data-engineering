@@ -1,0 +1,2987 @@
+{
+  "neighbourhood": "Arden Heights",
+  "centroid": {
+    "lat": 40.55510298,
+    "lon": -74.18092109999999
+  },
+  "fetched_at": "2026-04-06T14:07:56.574816+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5530978,
+            "lng": -74.1923432
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5545645802915,
+              "lng": -74.1909145697085
+            },
+            "southwest": {
+              "lat": 40.55186661970851,
+              "lng": -74.1936125302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-562-4842",
+        "name": "Chick n' Cha",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1088,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100473766996174978959\">Chick n&#39; Cha</a>"
+            ],
+            "photo_reference": "AU_ZVEH3HHft7495HfgVduqamHeYBFr_an97jbP017kSf_28_SW0U3b_QJTxxLtaMEi5LyUe3YQeFGGybN4-AQq2rb-us4fQe72jnIqAD4XFtVixs_2xT9fKIwTXhQgWUL5r-_vbp6lP4nm0L2TGr_m4xm70ZzLcGW2_5dRdFWz9Jib6g4QzTu_OlHbZ27eKWfFsmwSpMLsHciK01rYsbpeGmmFLQYjzjq3Ll9B_RoJc4RF5DRSSjsq3ep-GkSkbtY77VDckvpT9D3OMgiHg3Nfe-mAcJ0Ch7ITgpecwk5gKF4oUOmFyvw9iIHZHjHNbqx9wgK2s3jVJLrI",
+            "width": 982
+          }
+        ],
+        "place_id": "ChIJIXWxYhRLwokRvV4SWLTvxLY",
+        "plus_code": {
+          "compound_code": "HR35+63 Staten Island, NY, USA",
+          "global_code": "87G7HR35+63"
+        },
+        "rating": 3.8,
+        "reference": "ChIJIXWxYhRLwokRvV4SWLTvxLY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "262 Arden Avenue Suite G, Staten Island"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5512619,
+            "lng": -74.1867676
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5525935302915,
+              "lng": -74.1853798697085
+            },
+            "southwest": {
+              "lat": 40.5498955697085,
+              "lng": -74.1880778302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Roomy garden apartment close to hospitals, shopping and transportation!",
+        "place_id": "ChIJmWImihtLwokRRNfF5-4EtgU",
+        "reference": "ChIJmWImihtLwokRRNfF5-4EtgU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5492096,
+            "lng": -74.1887818
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5504965302915,
+              "lng": -74.1874822697085
+            },
+            "southwest": {
+              "lat": 40.5477985697085,
+              "lng": -74.19018023029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Roomy garden apartment close to hospitals, shopping and transportation!",
+        "place_id": "ChIJoZ52gR5LwokRoMT0sp0o_Rk",
+        "plus_code": {
+          "compound_code": "GRX6+MF New York, NY, USA",
+          "global_code": "87G7GRX6+MF"
+        },
+        "reference": "ChIJoZ52gR5LwokRoMT0sp0o_Rk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.551894,
+            "lng": -74.18445109999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5533016302915,
+              "lng": -74.18321956970848
+            },
+            "southwest": {
+              "lat": 40.5506036697085,
+              "lng": -74.18591753029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Carlton Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104191934008376107199\">Igor Shapiro</a>"
+            ],
+            "photo_reference": "AU_ZVEEPEvOm6hVwnQQHIuj0NfF_kx8DyP716YmfCOYoSzvV_OdJBRXhLZSgu71btwprjy_8sg2AW2Z6DhmiU1TVdhWCRIBy7cFp4UYESIa3LVIaIQQkYWS1TFq6AAAbuBJfZx2Z-iDKFUz5C52FeQm5SHGpbcKYXOrDYZpPFuIqorB9SjZ9yG3HR7SUU54OgZk93gv7NqW-5BBVz6sj7LGafTHHkRBKcF4Fzp1nNXXKULNDU7fDzxQ3E5QBqbj4-XZQvWJqU0WXb82jUaqvJkPxJdT_15sWfg6wEl2ObbvrxQp8xZZZUSdKNG7hHYt0adCZMSEIQxjE2ygjNBdtmdvdc-mz45zLQV2VuaBL3oP9xaGe1sznMMUyh7MikISm6CBAEtscv8UtyB1M7ywaepY7qte8dGHkDYmOLL0Zo112_BVhFHtJbfGoWYyeGP-2bQutKApkC--EmXKqrORBm0yiWKbyq2uL4W9VH9o2n7d459MANZ-WVxoly-tfN_h-i5P85SJvWzEYd0pRa7OX9nyQy6bbM1mFpecLwSRwo58d_430lnA6NloEHFZ3Ij5_bTRaddPlVfdfUm63BATdRRjAakVS7NYK95rxwG2JTGGrlaq07k5daYpWSq0vLRXjv0WPubbfpA",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJG7yRaxtLwokR4Nkv4E2yx_s",
+        "plus_code": {
+          "compound_code": "HR28+Q6 Staten Island, NY, USA",
+          "global_code": "87G7HR28+Q6"
+        },
+        "rating": 4.5,
+        "reference": "ChIJG7yRaxtLwokR4Nkv4E2yx_s",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 15,
+        "vicinity": "Carlton Blvd &, Crown Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5525828,
+            "lng": -74.17592379999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55403758029149,
+              "lng": -74.17491861970849
+            },
+            "southwest": {
+              "lat": 40.55133961970849,
+              "lng": -74.17761658029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Wegener Park",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108293790157876672473\">Nicolas puma</a>"
+            ],
+            "photo_reference": "AU_ZVEGi_TS090jTsGZAxs3xV97MpnskmffwurI39dRvADEON2FPTR61Cuw8vKEewCNe_P5gaTo706ON3WdBFLGnMKyNZvVFSfRYDthuCr-kmQuou-X49IhxMlRQMaND15oPLDkiuF9BggYf8R-KnjesKgeMs_sguxZZWUySp03KZdEkD_cnsoZqSjGVRVewpfzrWkKmKTyVRnAuWXC-pHKeyQA_tQBrvtfKOcl2HWeJyepKuw79MYRbUNDkwOMFjHTY_6ZgFNF4wndCI8XehRpFA_CvqnK4u6M-R-JL2tZQLalkXJLBRWcUkhtcC1fd0BmT7lXpbbBGUufE_Ls2SQdmsaWhGQqdioN8UAEZkmRq4Aha5LYV2uNn1lUx1WL7D3FL9GluLYWuEkqNiNOhnj0EaHUgluX-bKqfUvdSjlrY2c41N4Sc8xY2CfZ4q8HZrmJkt037DQyAtiZcfbfFgoOO2Hu9aASAHd_8HMAr188pE7I0JTE_cVWJutCVQv_FKFgXO4rpe6xwdJh_H0jMjQ8OFcu6K8MSSFW5JPZO09lx_OrqzZhZFXZK5Ou37xjVSld3_0IBcRN4FvVBGIW3e1FniL67WZ3H52lLyNC5Q7N-t5irgCsaXc0TukEhdL_-kiGJdE3Jbg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJM5W_egZLwokRZc1vqpVMRZc",
+        "plus_code": {
+          "compound_code": "HR3F+2J Staten Island, NY, USA",
+          "global_code": "87G7HR3F+2J"
+        },
+        "rating": 3.7,
+        "reference": "ChIJM5W_egZLwokRZc1vqpVMRZc",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 19,
+        "vicinity": "Drumgoole Road East, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5484735,
+            "lng": -74.1736462
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5498224802915,
+              "lng": -74.17229721970848
+            },
+            "southwest": {
+              "lat": 40.5471245197085,
+              "lng": -74.17499518029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Laredo Avenue Parcel",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109327541628463242419\">Laredo Avenue Parcel</a>"
+            ],
+            "photo_reference": "AU_ZVEECoL8X3Pa4WrCZ4GjC3Y8Fk1pkcmV1Yf7FWsthVRWP_QFPXTQ8NEbUP9p4Kg5FBZ2W5CNPLeOcnvAOzfMljAOZSBgovrn77_5-bZV_r0jO2onHGXQq9tuS7QvBPH5WbJvvdUNCuMobTQTmDSAlfaYfKr6bIY0uMK3qzo_PDJV3gHPMWUJlNafnxn03osdx9gJoN0x2nvJmZHgvMV1C2E8CyrtVuxHc2vRkX2145YdIfWsiTxaNfXB-5lvoCICQz3td-y_4ztpnGAfITpxyATnuBmb5fCyKCxMWwGcTpopUW-rpX-wnQb3TTTHsEexUMiCv3yf5s6w",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJC6CvIAFLwokRlWZeqvHYTNE",
+        "plus_code": {
+          "compound_code": "GRXG+9G Staten Island, NY, USA",
+          "global_code": "87G7GRXG+9G"
+        },
+        "rating": 4.2,
+        "reference": "ChIJC6CvIAFLwokRlWZeqvHYTNE",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 19,
+        "vicinity": "Laredo Ave. &, Annadale Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55677170000001,
+            "lng": -74.19195119999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55864529999999,
+              "lng": -74.19012955000001
+            },
+            "southwest": {
+              "lat": 40.5558225,
+              "lng": -74.19589895000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Arden Woods",
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109826640324517206198\">Arden Woods</a>"
+            ],
+            "photo_reference": "AU_ZVEGuMS_u03TcePBbJlaUTsdMV3Zg6maLgJYvf5aiEeWNqC0jLhBxDXRk5BHhsEJWxXqq15Y3TSPTqsUpS0A_uJvBYSlZ8EUlf1F3Js1WCYwBooc5Xe-FfE4XdAOK4KyPYHBMCaFmNRIPvS0xBuJhWg3Yngwbrbd99CJVMYwNzaxC8Kdgw94S7JDPmyJdhFMknN0sRGqHBXzdG10X6r08_l49AQwFMXsmqv4LLVke8FuDUITWgaZKF-IW27CiW0LP-2V4lX5RtIQAkO1juCViU7ZtOvODpm_L0vhq8ZXP2Cb4pVpoxmgTXyDH6Jd4GrOc9wZPvzT_f1M",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJETxYXQ5LwokRAYMbs94IJZ8",
+        "plus_code": {
+          "compound_code": "HR45+P6 Staten Island, NY, USA",
+          "global_code": "87G7HR45+P6"
+        },
+        "rating": 4.4,
+        "reference": "ChIJETxYXQ5LwokRAYMbs94IJZ8",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "Arden Avenue, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.556034,
+            "lng": -74.182144
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5573820302915,
+              "lng": -74.1807934197085
+            },
+            "southwest": {
+              "lat": 40.5546840697085,
+              "lng": -74.1834913802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Shotwell Ave",
+        "place_id": "ChIJbUPZ-g9LwokRuOQxwrn39hs",
+        "plus_code": {
+          "compound_code": "HR49+C4 New York, NY, USA",
+          "global_code": "87G7HR49+C4"
+        },
+        "reference": "ChIJbUPZ-g9LwokRuOQxwrn39hs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.556202,
+            "lng": -74.182289
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55756368029149,
+              "lng": -74.1809619697085
+            },
+            "southwest": {
+              "lat": 40.55486571970849,
+              "lng": -74.18365993029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Shotwell Ave",
+        "place_id": "ChIJUyGX5A9LwokR_Pw5uKPR1xc",
+        "plus_code": {
+          "compound_code": "HR49+F3 New York, NY, USA",
+          "global_code": "87G7HR49+F3"
+        },
+        "reference": "ChIJUyGX5A9LwokR_Pw5uKPR1xc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.555511,
+            "lng": -74.17614
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5569253802915,
+              "lng": -74.17475951970849
+            },
+            "southwest": {
+              "lat": 40.5542274197085,
+              "lng": -74.17745748029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Drumgoole Rd W",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103827110337344252748\">WeiTing Huang</a>"
+            ],
+            "photo_reference": "AU_ZVEFA692hvICJC1IirAtViY1RUSt3K6KlKDoahY3ZfU7WlrxVexpj-G7PLD9Uh_KoTk_joZykuqzxy-vEvLrJCjVAtorrKJ51HnLk0tY9Ye3hyv24tOHZgmBcAuCAHA_pOWjQwCtqyieqky27blZZVuGCBRN6gFwIseLRFc3gB8OrGSNUCtNFWxWJU6J-z-7_6FzSUzTFMH9h48QCTJDgyKrwMTk-Td2KMw-bvRYNG66utOU0GP5Xnsp8xfGnzSRHWJXTj6zZ127QzXKiMFddmE2V2OD1r5IkvhOAq780YODfAOAGTP0btAyJq7bUFU9_wVemBXZkPva1UfBuvKuNGUS4hQS2YgGUS1IBmXLkPRk1HiP6JiJ_LKq-d6eO6W8D_BxI6Q3Pk6F7o5YUETLn8tWNhCTkLMGtQOxP9iKMC0PLORq1DfczqnEVJkLdZVPgOSPwrF-NNA29uUwovno7ImyTjP9LgfvOuiZ8H5M4GPX_4_pAehhZPYNAT_ot4gZevM9tAbwtNWzwmSnqR1EJdxX-IWTdy4cgtv1d4APHmmcKvCuKYo9-lMD2-iBymmZxd1r3eKujWZpbVtWh3lm5ScczKju5dn570WoqlQrqd4ecUPEcxmfYDfOaFifQCQ0RNEkEpg",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJva6lsAhLwokR7P6Z0A4cjQg",
+        "plus_code": {
+          "compound_code": "HR4F+6G New York, NY, USA",
+          "global_code": "87G7HR4F+6G"
+        },
+        "reference": "ChIJva6lsAhLwokR7P6Z0A4cjQg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55460000000001,
+            "lng": -74.175789
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55594373029151,
+              "lng": -74.17449246970848
+            },
+            "southwest": {
+              "lat": 40.55324576970851,
+              "lng": -74.17719043029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Drumgoole Rd East",
+        "place_id": "ChIJ0QRapwhLwokRugPZ6a786k4",
+        "plus_code": {
+          "compound_code": "HR3F+RM New York, NY, USA",
+          "global_code": "87G7HR3F+RM"
+        },
+        "reference": "ChIJ0QRapwhLwokRugPZ6a786k4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.556644,
+            "lng": -74.17585
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5579766302915,
+              "lng": -74.17445001970849
+            },
+            "southwest": {
+              "lat": 40.5552786697085,
+              "lng": -74.17714798029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Drumgoole Rd West/Annadale Rd",
+        "place_id": "ChIJ95K82whLwokRBgNjDZTEjd8",
+        "plus_code": {
+          "compound_code": "HR4F+MM New York, NY, USA",
+          "global_code": "87G7HR4F+MM"
+        },
+        "reference": "ChIJ95K82whLwokRBgNjDZTEjd8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55758300000001,
+            "lng": -74.176346
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5589259802915,
+              "lng": -74.17504766970848
+            },
+            "southwest": {
+              "lat": 40.55622801970851,
+              "lng": -74.1777456302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Crossfield Ave",
+        "place_id": "ChIJ_yz3LglLwokRUq56Dc1Ji80",
+        "plus_code": {
+          "compound_code": "HR5F+2F New York, NY, USA",
+          "global_code": "87G7HR5F+2F"
+        },
+        "rating": 4,
+        "reference": "ChIJ_yz3LglLwokRUq56Dc1Ji80",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55862399999999,
+            "lng": -74.176781
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55997963029149,
+              "lng": -74.1753775697085
+            },
+            "southwest": {
+              "lat": 40.55728166970849,
+              "lng": -74.17807553029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Dorval Pl",
+        "place_id": "ChIJqfokSwlLwokR6KHshBxGGkg",
+        "plus_code": {
+          "compound_code": "HR5F+C7 New York, NY, USA",
+          "global_code": "87G7HR5F+C7"
+        },
+        "reference": "ChIJqfokSwlLwokR6KHshBxGGkg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55217700000001,
+            "lng": -74.185982
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5535271302915,
+              "lng": -74.18463561970849
+            },
+            "southwest": {
+              "lat": 40.5508291697085,
+              "lng": -74.1873335802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Carlton Blvd",
+        "place_id": "ChIJh7sxnxtLwokRsD_SOoWGPEs",
+        "plus_code": {
+          "compound_code": "HR27+VJ New York, NY, USA",
+          "global_code": "87G7HR27+VJ"
+        },
+        "reference": "ChIJh7sxnxtLwokRsD_SOoWGPEs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.552094,
+            "lng": -74.186172
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5534338302915,
+              "lng": -74.1848021197085
+            },
+            "southwest": {
+              "lat": 40.5507358697085,
+              "lng": -74.1875000802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Carlton Blvd",
+        "place_id": "ChIJUwoMmRtLwokR8acauhaMXpY",
+        "plus_code": {
+          "compound_code": "HR27+RG New York, NY, USA",
+          "global_code": "87G7HR27+RG"
+        },
+        "reference": "ChIJUwoMmRtLwokR8acauhaMXpY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.560074,
+            "lng": -74.180466
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5614231302915,
+              "lng": -74.1791151697085
+            },
+            "southwest": {
+              "lat": 40.5587251697085,
+              "lng": -74.1818131302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Oak Ln",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115089011126939764016\">\u041f\u0435\u0442\u0440 \u0417\u0430\u0433\u043d\u0438\u0442\u043a\u043e</a>"
+            ],
+            "photo_reference": "AU_ZVEEv7n3hLgeVG-7ba-tMtJYmSUBzkwMic31RCOBmiEyqClg5U9sqOik9EMh0NAEhAlnKLHkeUQk9tVmhNOgnVmtD8UUDzs3CkQ6B5oSOPEgxCkFX4ZU_tDLYdf5KtORM6KtjTlGiVezCEA7tbZwiAIOef4EgUvve1DS9dND-ZNb_crGrKseIygPhNpIbz8DcVWPFELQE_TRYy2CkNgdTCerLdbwkbDYfmxDL72gLF9Tv_5Bx73EGgFz_rkntegvn5TfaU_deZ0-04Tv_bjpZ7RTeUWVOSJXENeAHrtZ1vgrcNmfqJqPUc2_s_FalMW3sIh2_G8fSaSinCzTGdKNBe9g-395z6M-kxMaGDQFXHQ0pG-PfU2nk3UuYrp5OjA3BJLtm86ua7gcV8FCs7d3n4P1OOJobmceX3XYrKJlOa7kUED5-i2eH_NeAr3Wa_fHcg2GpSxdlQbH55KIk_M7msZym05K1qo_vU-lqA25vgw-hfxqxc2Y968Qv7iSkJklhv3suKHagdbtRB6zQO_QPV4nHDvG2ivsXZK3X6uUmOY6e5tABsJ1-Q74Po9BSwXzxyBQ6CMmnBVYGqy-epzbL758T4jH3DxRrgoyZAW8so5TlvrW73vbr3yiXtEJPVETh40gcn8q6",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJyfoveA5LwokRvvEDNdmUfug",
+        "plus_code": {
+          "compound_code": "HR69+2R New York, NY, USA",
+          "global_code": "87G7HR69+2R"
+        },
+        "reference": "ChIJyfoveA5LwokRvvEDNdmUfug",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.560204,
+            "lng": -74.180359
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5615553302915,
+              "lng": -74.17898406970849
+            },
+            "southwest": {
+              "lat": 40.5588573697085,
+              "lng": -74.1816820302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Berry Ave W",
+        "place_id": "ChIJFQ3R1w1LwokRh0jO6PCRxbc",
+        "plus_code": {
+          "compound_code": "HR69+3V New York, NY, USA",
+          "global_code": "87G7HR69+3V"
+        },
+        "reference": "ChIJFQ3R1w1LwokRh0jO6PCRxbc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.559185,
+            "lng": -74.176727
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56053188029149,
+              "lng": -74.17539566970848
+            },
+            "southwest": {
+              "lat": 40.55783391970849,
+              "lng": -74.1780936302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Dorval Ave",
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103827110337344252748\">WeiTing Huang</a>"
+            ],
+            "photo_reference": "AU_ZVEGNQWbs-g_-mybB0pJ4chI0v_POzW1tsvVZim4lZkqc83sRToE1FJmFLFmolrU-tSVx4Vezg7Plqn9wN33jnny9itluqFYiyTGzI_G1cq5c7GCqIKFp_oJZ1QRGurXNz9Wuy9efflTqX-GNK-ahmrS1lMZGEEYAEBJAqCDU-T_ppYD5nG-0N8uNvZG-as08nL3HfsIS7KWHylq-gzclzVYrErvbx8ECgVQqXJPTCodLQCotk2QtCrV7eca_4Xm-JEdDKTM3_3kGCbodddH-K-XbuGCFHsAgQXx7HIHT_bP7ierjBu31BFvFyBlM7NJJJx0s30UICu5vsLbNTe82-xhYSAEfp3sI_Cn3jGHsg_8IPze5ijcB4UmhEG3gVODUs7rk3emU-a2RfW-G8QtufjB-Xqob6DWqMQwtaFk3DLkrjR2phVvyd5KuoI31NCThAUEd-gNuKMM2Zq3T8qeRNMi55UfkFtHHF-TsG1QUqsIOzrMxzexUkZPZ79ctYifBxMlUaEBjQa-C-gPK8yGkhNUvMlINxTucOI8d3LwZdwBir54b9lLLHTzBjzSlOYwI-w7zhL_-E-W16ObmN2Du5XkjOvi8rAxqJJPVnm-aKLG_ZHsAA_pkSjAWczDzq2BZbQWq7A",
+            "width": 3072
+          }
+        ],
+        "place_id": "ChIJWarmUglLwokR-5oXZLu3lyY",
+        "plus_code": {
+          "compound_code": "HR5F+M8 New York, NY, USA",
+          "global_code": "87G7HR5F+M8"
+        },
+        "reference": "ChIJWarmUglLwokR-5oXZLu3lyY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55191,
+            "lng": -74.17527
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5532529802915,
+              "lng": -74.1739740697085
+            },
+            "southwest": {
+              "lat": 40.5505550197085,
+              "lng": -74.17667203029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Genesee Ave",
+        "photos": [
+          {
+            "height": 2952,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111908658567991188051\">Jim Kelly</a>"
+            ],
+            "photo_reference": "AU_ZVEGoXkvqUgY_QRKynere9TLaHETToSmeFxosamcnfRm8GBakXmvgq9rMwQbezb7aWb3AggO29cEo0E8TdJqz_Ur7WGEI2sJ3i-F9ICfXkViy9h1iffdsYG6hKdst5WM_rwT_0T5Tu6xsxNqw8NtbiLHxj4bGi9swh7b9i90YtL9Pu9WMiBrcIaCUfBt7ZmmtcPP2HkKM-KUhTBQmo2kXXvmpQL-0w3LWOCGS6cQidaoZPlVw4NZlbixQebowGvMcwf41ZabPxXLbG8qgyiME84brODyrSv3odf997bFjoyZQ_zHMcwsSI97oi8H1btHWoTXFieh0fJOVeXTvTdx4rh6SFWZTwd_e7uTAhnd9zNJymdBrIHR4b0WkGWu8xXVK3_IvUFHpAL_N8vxBGU6U8-HyNBSlxmAwxXgu04h6K_kKr7C9elvgoyTTrVN8DtxUdkUrvIu5pWvMjWY2yc_RhRwefph4oz_ltMDD_BFZpApqwfvgfxsdNwzQ8Zr0b8D4XYnHyN-uOnA0StKeLZ9o8An5lpNfmvy8N4HDqKYBf7N76B2LufyHgKQgd7wDK7hLCZ9ssDgDUQbnVZbdWICgVBYjEfvT7e0lxZtkveYizue6-fbl8a4PaCmpRlbWste9yWpLc064",
+            "width": 5248
+          }
+        ],
+        "place_id": "ChIJ438X9QZLwokRrcffO-1IjCM",
+        "plus_code": {
+          "compound_code": "HR2F+QV New York, NY, USA",
+          "global_code": "87G7HR2F+QV"
+        },
+        "reference": "ChIJ438X9QZLwokRrcffO-1IjCM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.550903,
+            "lng": -74.175293
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5522182302915,
+              "lng": -74.17395021970849
+            },
+            "southwest": {
+              "lat": 40.5495202697085,
+              "lng": -74.17664818029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Notus Ave",
+        "place_id": "ChIJD9jC6gZLwokR8rmb7H94RBE",
+        "plus_code": {
+          "compound_code": "HR2F+9V New York, NY, USA",
+          "global_code": "87G7HR2F+9V"
+        },
+        "reference": "ChIJD9jC6gZLwokR8rmb7H94RBE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.550266,
+            "lng": -74.1876565
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5515988302915,
+              "lng": -74.18632211970849
+            },
+            "southwest": {
+              "lat": 40.5489008697085,
+              "lng": -74.18902008029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Av/Woodrow Rd",
+        "place_id": "ChIJqVzgFhxLwokRzdovczxlOzE",
+        "plus_code": {
+          "compound_code": "HR26+4W New York, NY, USA",
+          "global_code": "87G7HR26+4W"
+        },
+        "reference": "ChIJqVzgFhxLwokRzdovczxlOzE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.549683,
+            "lng": -74.186844
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5510643802915,
+              "lng": -74.1854660197085
+            },
+            "southwest": {
+              "lat": 40.5483664197085,
+              "lng": -74.1881639802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Crown Ave",
+        "place_id": "ChIJ1XU_QRxLwokRYHpbEPe_sLw",
+        "plus_code": {
+          "compound_code": "GRX7+V7 New York, NY, USA",
+          "global_code": "87G7GRX7+V7"
+        },
+        "reference": "ChIJ1XU_QRxLwokRYHpbEPe_sLw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.550224,
+            "lng": -74.18766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5515866302915,
+              "lng": -74.1862986197085
+            },
+            "southwest": {
+              "lat": 40.5488886697085,
+              "lng": -74.1889965802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Woodrow Rd",
+        "place_id": "ChIJqXW3FRxLwokR13fLQvSwaMs",
+        "plus_code": {
+          "compound_code": "HR26+3W New York, NY, USA",
+          "global_code": "87G7HR26+3W"
+        },
+        "reference": "ChIJqXW3FRxLwokR13fLQvSwaMs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.550411,
+            "lng": -74.187935
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5517441302915,
+              "lng": -74.1866003197085
+            },
+            "southwest": {
+              "lat": 40.5490461697085,
+              "lng": -74.18929828029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Woodrow Rd",
+        "place_id": "ChIJjbgYGhxLwokRZg1D4qPppds",
+        "plus_code": {
+          "compound_code": "HR26+5R New York, NY, USA",
+          "global_code": "87G7HR26+5R"
+        },
+        "reference": "ChIJjbgYGhxLwokRZg1D4qPppds",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.561691,
+            "lng": -74.177193
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56303378029151,
+              "lng": -74.17589751970849
+            },
+            "southwest": {
+              "lat": 40.56033581970851,
+              "lng": -74.1785954802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Token St",
+        "place_id": "ChIJddmLeQxLwokR_NsXCNXPwio",
+        "plus_code": {
+          "compound_code": "HR6F+M4 New York, NY, USA",
+          "global_code": "87G7HR6F+M4"
+        },
+        "reference": "ChIJddmLeQxLwokR_NsXCNXPwio",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54965599999999,
+            "lng": -74.18808000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55099063029149,
+              "lng": -74.18670286970848
+            },
+            "southwest": {
+              "lat": 40.54829266970849,
+              "lng": -74.18940083029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Almond St",
+        "place_id": "ChIJBRtOJBxLwokRTCakDj6gNSQ",
+        "plus_code": {
+          "compound_code": "GRX6+VQ New York, NY, USA",
+          "global_code": "87G7GRX6+VQ"
+        },
+        "reference": "ChIJBRtOJBxLwokRTCakDj6gNSQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56255,
+            "lng": -74.17751299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56390213029149,
+              "lng": -74.1761300697085
+            },
+            "southwest": {
+              "lat": 40.5612041697085,
+              "lng": -74.17882803029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Tynan St",
+        "place_id": "ChIJFcsOhgxLwokRwrV8bi0D-ks",
+        "plus_code": {
+          "compound_code": "HR7C+2X New York, NY, USA",
+          "global_code": "87G7HR7C+2X"
+        },
+        "reference": "ChIJFcsOhgxLwokRwrV8bi0D-ks",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.551792,
+            "lng": -74.190514
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5531499802915,
+              "lng": -74.1891507197085
+            },
+            "southwest": {
+              "lat": 40.5504520197085,
+              "lng": -74.19184868029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Rolling Hill Green",
+        "place_id": "ChIJ2b0SMxlLwokRZlshJ4hpVlE",
+        "plus_code": {
+          "compound_code": "HR25+PQ New York, NY, USA",
+          "global_code": "87G7HR25+PQ"
+        },
+        "reference": "ChIJ2b0SMxlLwokRZlshJ4hpVlE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.552353,
+            "lng": -74.190857
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5537023302915,
+              "lng": -74.18950741970849
+            },
+            "southwest": {
+              "lat": 40.5510043697085,
+              "lng": -74.1922053802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Correll Ave",
+        "place_id": "ChIJMzlfJRlLwokROGiDZlwSXt8",
+        "plus_code": {
+          "compound_code": "HR25+WM New York, NY, USA",
+          "global_code": "87G7HR25+WM"
+        },
+        "reference": "ChIJMzlfJRlLwokROGiDZlwSXt8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.546913,
+            "lng": -74.180977
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5482239802915,
+              "lng": -74.1796608197085
+            },
+            "southwest": {
+              "lat": 40.5455260197085,
+              "lng": -74.18235878029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Drumgoole Rd East",
+        "place_id": "ChIJr-Ll6wJLwokRA056nxL6aPY",
+        "plus_code": {
+          "compound_code": "GRW9+QJ New York, NY, USA",
+          "global_code": "87G7GRW9+QJ"
+        },
+        "reference": "ChIJr-Ll6wJLwokRA056nxL6aPY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.546741,
+            "lng": -74.181068
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5481279802915,
+              "lng": -74.17968621970849
+            },
+            "southwest": {
+              "lat": 40.5454300197085,
+              "lng": -74.1823841802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Drumgoole Rd West",
+        "place_id": "ChIJf_J2wQJLwokR9HE7MXgLISI",
+        "plus_code": {
+          "compound_code": "GRW9+MH New York, NY, USA",
+          "global_code": "87G7GRW9+MH"
+        },
+        "reference": "ChIJf_J2wQJLwokR9HE7MXgLISI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.547588,
+            "lng": -74.17508699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5489341802915,
+              "lng": -74.1736770197085
+            },
+            "southwest": {
+              "lat": 40.5462362197085,
+              "lng": -74.17637498029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Annadale Rd/Rye Ave",
+        "place_id": "ChIJb_XqDQFLwokRNYjYL6MpGcs",
+        "plus_code": {
+          "compound_code": "GRXF+2X New York, NY, USA",
+          "global_code": "87G7GRXF+2X"
+        },
+        "reference": "ChIJb_XqDQFLwokRNYjYL6MpGcs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.563465,
+            "lng": -74.177193
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5648363302915,
+              "lng": -74.1758225197085
+            },
+            "southwest": {
+              "lat": 40.5621383697085,
+              "lng": -74.17852048029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Annadale Rd",
+        "place_id": "ChIJU_b-oQxLwokR594Rjnnm15w",
+        "plus_code": {
+          "compound_code": "HR7F+94 New York, NY, USA",
+          "global_code": "87G7HR7F+94"
+        },
+        "reference": "ChIJU_b-oQxLwokR594Rjnnm15w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.562935,
+            "lng": -74.17533499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56427873029151,
+              "lng": -74.17398751970849
+            },
+            "southwest": {
+              "lat": 40.56158076970851,
+              "lng": -74.17668548029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Crossfield Av",
+        "place_id": "ChIJnfGwFAtLwokRSi9Y2O2XSKw",
+        "plus_code": {
+          "compound_code": "HR7F+5V New York, NY, USA",
+          "global_code": "87G7HR7F+5V"
+        },
+        "reference": "ChIJnfGwFAtLwokRSi9Y2O2XSKw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.563574,
+            "lng": -74.177292
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56491153029149,
+              "lng": -74.1759549197085
+            },
+            "southwest": {
+              "lat": 40.56221356970849,
+              "lng": -74.17865288029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Annadale Rd",
+        "place_id": "ChIJ1fY4ogxLwokRluz6QrgQR1c",
+        "plus_code": {
+          "compound_code": "HR7F+C3 New York, NY, USA",
+          "global_code": "87G7HR7F+C3"
+        },
+        "reference": "ChIJ1fY4ogxLwokRluz6QrgQR1c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.563065,
+            "lng": -74.17566699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5644042302915,
+              "lng": -74.17432071970849
+            },
+            "southwest": {
+              "lat": 40.5617062697085,
+              "lng": -74.1770186802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Crossfield Ave",
+        "place_id": "ChIJYVzJawtLwokRweTrXCv9-1k",
+        "plus_code": {
+          "compound_code": "HR7F+6P New York, NY, USA",
+          "global_code": "87G7HR7F+6P"
+        },
+        "reference": "ChIJYVzJawtLwokRweTrXCv9-1k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56280499999999,
+            "lng": -74.17500299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56418343029149,
+              "lng": -74.17363676970848
+            },
+            "southwest": {
+              "lat": 40.5614854697085,
+              "lng": -74.1763347302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Crossfield Ave",
+        "place_id": "ChIJB8NXEQtLwokRZALHp4FrJs4",
+        "plus_code": {
+          "compound_code": "HR7F+4X New York, NY, USA",
+          "global_code": "87G7HR7F+4X"
+        },
+        "reference": "ChIJB8NXEQtLwokRZALHp4FrJs4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5530978,
+          "lng": -74.1923432
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5545645802915,
+            "lng": -74.1909145697085
+          },
+          "southwest": {
+            "lat": 40.55186661970851,
+            "lng": -74.1936125302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-562-4842",
+      "name": "Chick n' Cha",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1088,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100473766996174978959\">Chick n&#39; Cha</a>"
+          ],
+          "photo_reference": "AU_ZVEH3HHft7495HfgVduqamHeYBFr_an97jbP017kSf_28_SW0U3b_QJTxxLtaMEi5LyUe3YQeFGGybN4-AQq2rb-us4fQe72jnIqAD4XFtVixs_2xT9fKIwTXhQgWUL5r-_vbp6lP4nm0L2TGr_m4xm70ZzLcGW2_5dRdFWz9Jib6g4QzTu_OlHbZ27eKWfFsmwSpMLsHciK01rYsbpeGmmFLQYjzjq3Ll9B_RoJc4RF5DRSSjsq3ep-GkSkbtY77VDckvpT9D3OMgiHg3Nfe-mAcJ0Ch7ITgpecwk5gKF4oUOmFyvw9iIHZHjHNbqx9wgK2s3jVJLrI",
+          "width": 982
+        }
+      ],
+      "place_id": "ChIJIXWxYhRLwokRvV4SWLTvxLY",
+      "plus_code": {
+        "compound_code": "HR35+63 Staten Island, NY, USA",
+        "global_code": "87G7HR35+63"
+      },
+      "rating": 3.8,
+      "reference": "ChIJIXWxYhRLwokRvV4SWLTvxLY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "262 Arden Avenue Suite G, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5512619,
+          "lng": -74.1867676
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5525935302915,
+            "lng": -74.1853798697085
+          },
+          "southwest": {
+            "lat": 40.5498955697085,
+            "lng": -74.1880778302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Roomy garden apartment close to hospitals, shopping and transportation!",
+      "place_id": "ChIJmWImihtLwokRRNfF5-4EtgU",
+      "reference": "ChIJmWImihtLwokRRNfF5-4EtgU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5492096,
+          "lng": -74.1887818
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5504965302915,
+            "lng": -74.1874822697085
+          },
+          "southwest": {
+            "lat": 40.5477985697085,
+            "lng": -74.19018023029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Roomy garden apartment close to hospitals, shopping and transportation!",
+      "place_id": "ChIJoZ52gR5LwokRoMT0sp0o_Rk",
+      "plus_code": {
+        "compound_code": "GRX6+MF New York, NY, USA",
+        "global_code": "87G7GRX6+MF"
+      },
+      "reference": "ChIJoZ52gR5LwokRoMT0sp0o_Rk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.551894,
+          "lng": -74.18445109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5533016302915,
+            "lng": -74.18321956970848
+          },
+          "southwest": {
+            "lat": 40.5506036697085,
+            "lng": -74.18591753029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Carlton Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104191934008376107199\">Igor Shapiro</a>"
+          ],
+          "photo_reference": "AU_ZVEEPEvOm6hVwnQQHIuj0NfF_kx8DyP716YmfCOYoSzvV_OdJBRXhLZSgu71btwprjy_8sg2AW2Z6DhmiU1TVdhWCRIBy7cFp4UYESIa3LVIaIQQkYWS1TFq6AAAbuBJfZx2Z-iDKFUz5C52FeQm5SHGpbcKYXOrDYZpPFuIqorB9SjZ9yG3HR7SUU54OgZk93gv7NqW-5BBVz6sj7LGafTHHkRBKcF4Fzp1nNXXKULNDU7fDzxQ3E5QBqbj4-XZQvWJqU0WXb82jUaqvJkPxJdT_15sWfg6wEl2ObbvrxQp8xZZZUSdKNG7hHYt0adCZMSEIQxjE2ygjNBdtmdvdc-mz45zLQV2VuaBL3oP9xaGe1sznMMUyh7MikISm6CBAEtscv8UtyB1M7ywaepY7qte8dGHkDYmOLL0Zo112_BVhFHtJbfGoWYyeGP-2bQutKApkC--EmXKqrORBm0yiWKbyq2uL4W9VH9o2n7d459MANZ-WVxoly-tfN_h-i5P85SJvWzEYd0pRa7OX9nyQy6bbM1mFpecLwSRwo58d_430lnA6NloEHFZ3Ij5_bTRaddPlVfdfUm63BATdRRjAakVS7NYK95rxwG2JTGGrlaq07k5daYpWSq0vLRXjv0WPubbfpA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJG7yRaxtLwokR4Nkv4E2yx_s",
+      "plus_code": {
+        "compound_code": "HR28+Q6 Staten Island, NY, USA",
+        "global_code": "87G7HR28+Q6"
+      },
+      "rating": 4.5,
+      "reference": "ChIJG7yRaxtLwokR4Nkv4E2yx_s",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 15,
+      "vicinity": "Carlton Blvd &, Crown Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5525828,
+          "lng": -74.17592379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55403758029149,
+            "lng": -74.17491861970849
+          },
+          "southwest": {
+            "lat": 40.55133961970849,
+            "lng": -74.17761658029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Wegener Park",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108293790157876672473\">Nicolas puma</a>"
+          ],
+          "photo_reference": "AU_ZVEGi_TS090jTsGZAxs3xV97MpnskmffwurI39dRvADEON2FPTR61Cuw8vKEewCNe_P5gaTo706ON3WdBFLGnMKyNZvVFSfRYDthuCr-kmQuou-X49IhxMlRQMaND15oPLDkiuF9BggYf8R-KnjesKgeMs_sguxZZWUySp03KZdEkD_cnsoZqSjGVRVewpfzrWkKmKTyVRnAuWXC-pHKeyQA_tQBrvtfKOcl2HWeJyepKuw79MYRbUNDkwOMFjHTY_6ZgFNF4wndCI8XehRpFA_CvqnK4u6M-R-JL2tZQLalkXJLBRWcUkhtcC1fd0BmT7lXpbbBGUufE_Ls2SQdmsaWhGQqdioN8UAEZkmRq4Aha5LYV2uNn1lUx1WL7D3FL9GluLYWuEkqNiNOhnj0EaHUgluX-bKqfUvdSjlrY2c41N4Sc8xY2CfZ4q8HZrmJkt037DQyAtiZcfbfFgoOO2Hu9aASAHd_8HMAr188pE7I0JTE_cVWJutCVQv_FKFgXO4rpe6xwdJh_H0jMjQ8OFcu6K8MSSFW5JPZO09lx_OrqzZhZFXZK5Ou37xjVSld3_0IBcRN4FvVBGIW3e1FniL67WZ3H52lLyNC5Q7N-t5irgCsaXc0TukEhdL_-kiGJdE3Jbg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJM5W_egZLwokRZc1vqpVMRZc",
+      "plus_code": {
+        "compound_code": "HR3F+2J Staten Island, NY, USA",
+        "global_code": "87G7HR3F+2J"
+      },
+      "rating": 3.7,
+      "reference": "ChIJM5W_egZLwokRZc1vqpVMRZc",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "Drumgoole Road East, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5484735,
+          "lng": -74.1736462
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5498224802915,
+            "lng": -74.17229721970848
+          },
+          "southwest": {
+            "lat": 40.5471245197085,
+            "lng": -74.17499518029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Laredo Avenue Parcel",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109327541628463242419\">Laredo Avenue Parcel</a>"
+          ],
+          "photo_reference": "AU_ZVEECoL8X3Pa4WrCZ4GjC3Y8Fk1pkcmV1Yf7FWsthVRWP_QFPXTQ8NEbUP9p4Kg5FBZ2W5CNPLeOcnvAOzfMljAOZSBgovrn77_5-bZV_r0jO2onHGXQq9tuS7QvBPH5WbJvvdUNCuMobTQTmDSAlfaYfKr6bIY0uMK3qzo_PDJV3gHPMWUJlNafnxn03osdx9gJoN0x2nvJmZHgvMV1C2E8CyrtVuxHc2vRkX2145YdIfWsiTxaNfXB-5lvoCICQz3td-y_4ztpnGAfITpxyATnuBmb5fCyKCxMWwGcTpopUW-rpX-wnQb3TTTHsEexUMiCv3yf5s6w",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJC6CvIAFLwokRlWZeqvHYTNE",
+      "plus_code": {
+        "compound_code": "GRXG+9G Staten Island, NY, USA",
+        "global_code": "87G7GRXG+9G"
+      },
+      "rating": 4.2,
+      "reference": "ChIJC6CvIAFLwokRlWZeqvHYTNE",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 19,
+      "vicinity": "Laredo Ave. &, Annadale Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55677170000001,
+          "lng": -74.19195119999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55864529999999,
+            "lng": -74.19012955000001
+          },
+          "southwest": {
+            "lat": 40.5558225,
+            "lng": -74.19589895000001
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Arden Woods",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109826640324517206198\">Arden Woods</a>"
+          ],
+          "photo_reference": "AU_ZVEGuMS_u03TcePBbJlaUTsdMV3Zg6maLgJYvf5aiEeWNqC0jLhBxDXRk5BHhsEJWxXqq15Y3TSPTqsUpS0A_uJvBYSlZ8EUlf1F3Js1WCYwBooc5Xe-FfE4XdAOK4KyPYHBMCaFmNRIPvS0xBuJhWg3Yngwbrbd99CJVMYwNzaxC8Kdgw94S7JDPmyJdhFMknN0sRGqHBXzdG10X6r08_l49AQwFMXsmqv4LLVke8FuDUITWgaZKF-IW27CiW0LP-2V4lX5RtIQAkO1juCViU7ZtOvODpm_L0vhq8ZXP2Cb4pVpoxmgTXyDH6Jd4GrOc9wZPvzT_f1M",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJETxYXQ5LwokRAYMbs94IJZ8",
+      "plus_code": {
+        "compound_code": "HR45+P6 Staten Island, NY, USA",
+        "global_code": "87G7HR45+P6"
+      },
+      "rating": 4.4,
+      "reference": "ChIJETxYXQ5LwokRAYMbs94IJZ8",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "Arden Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.556034,
+          "lng": -74.182144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5573820302915,
+            "lng": -74.1807934197085
+          },
+          "southwest": {
+            "lat": 40.5546840697085,
+            "lng": -74.1834913802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Shotwell Ave",
+      "place_id": "ChIJbUPZ-g9LwokRuOQxwrn39hs",
+      "plus_code": {
+        "compound_code": "HR49+C4 New York, NY, USA",
+        "global_code": "87G7HR49+C4"
+      },
+      "reference": "ChIJbUPZ-g9LwokRuOQxwrn39hs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.556202,
+          "lng": -74.182289
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55756368029149,
+            "lng": -74.1809619697085
+          },
+          "southwest": {
+            "lat": 40.55486571970849,
+            "lng": -74.18365993029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Shotwell Ave",
+      "place_id": "ChIJUyGX5A9LwokR_Pw5uKPR1xc",
+      "plus_code": {
+        "compound_code": "HR49+F3 New York, NY, USA",
+        "global_code": "87G7HR49+F3"
+      },
+      "reference": "ChIJUyGX5A9LwokR_Pw5uKPR1xc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.555511,
+          "lng": -74.17614
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5569253802915,
+            "lng": -74.17475951970849
+          },
+          "southwest": {
+            "lat": 40.5542274197085,
+            "lng": -74.17745748029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Drumgoole Rd W",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103827110337344252748\">WeiTing Huang</a>"
+          ],
+          "photo_reference": "AU_ZVEFA692hvICJC1IirAtViY1RUSt3K6KlKDoahY3ZfU7WlrxVexpj-G7PLD9Uh_KoTk_joZykuqzxy-vEvLrJCjVAtorrKJ51HnLk0tY9Ye3hyv24tOHZgmBcAuCAHA_pOWjQwCtqyieqky27blZZVuGCBRN6gFwIseLRFc3gB8OrGSNUCtNFWxWJU6J-z-7_6FzSUzTFMH9h48QCTJDgyKrwMTk-Td2KMw-bvRYNG66utOU0GP5Xnsp8xfGnzSRHWJXTj6zZ127QzXKiMFddmE2V2OD1r5IkvhOAq780YODfAOAGTP0btAyJq7bUFU9_wVemBXZkPva1UfBuvKuNGUS4hQS2YgGUS1IBmXLkPRk1HiP6JiJ_LKq-d6eO6W8D_BxI6Q3Pk6F7o5YUETLn8tWNhCTkLMGtQOxP9iKMC0PLORq1DfczqnEVJkLdZVPgOSPwrF-NNA29uUwovno7ImyTjP9LgfvOuiZ8H5M4GPX_4_pAehhZPYNAT_ot4gZevM9tAbwtNWzwmSnqR1EJdxX-IWTdy4cgtv1d4APHmmcKvCuKYo9-lMD2-iBymmZxd1r3eKujWZpbVtWh3lm5ScczKju5dn570WoqlQrqd4ecUPEcxmfYDfOaFifQCQ0RNEkEpg",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJva6lsAhLwokR7P6Z0A4cjQg",
+      "plus_code": {
+        "compound_code": "HR4F+6G New York, NY, USA",
+        "global_code": "87G7HR4F+6G"
+      },
+      "reference": "ChIJva6lsAhLwokR7P6Z0A4cjQg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55460000000001,
+          "lng": -74.175789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55594373029151,
+            "lng": -74.17449246970848
+          },
+          "southwest": {
+            "lat": 40.55324576970851,
+            "lng": -74.17719043029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Drumgoole Rd East",
+      "place_id": "ChIJ0QRapwhLwokRugPZ6a786k4",
+      "plus_code": {
+        "compound_code": "HR3F+RM New York, NY, USA",
+        "global_code": "87G7HR3F+RM"
+      },
+      "reference": "ChIJ0QRapwhLwokRugPZ6a786k4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.556644,
+          "lng": -74.17585
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5579766302915,
+            "lng": -74.17445001970849
+          },
+          "southwest": {
+            "lat": 40.5552786697085,
+            "lng": -74.17714798029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Drumgoole Rd West/Annadale Rd",
+      "place_id": "ChIJ95K82whLwokRBgNjDZTEjd8",
+      "plus_code": {
+        "compound_code": "HR4F+MM New York, NY, USA",
+        "global_code": "87G7HR4F+MM"
+      },
+      "reference": "ChIJ95K82whLwokRBgNjDZTEjd8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55758300000001,
+          "lng": -74.176346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5589259802915,
+            "lng": -74.17504766970848
+          },
+          "southwest": {
+            "lat": 40.55622801970851,
+            "lng": -74.1777456302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Crossfield Ave",
+      "place_id": "ChIJ_yz3LglLwokRUq56Dc1Ji80",
+      "plus_code": {
+        "compound_code": "HR5F+2F New York, NY, USA",
+        "global_code": "87G7HR5F+2F"
+      },
+      "rating": 4,
+      "reference": "ChIJ_yz3LglLwokRUq56Dc1Ji80",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55862399999999,
+          "lng": -74.176781
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55997963029149,
+            "lng": -74.1753775697085
+          },
+          "southwest": {
+            "lat": 40.55728166970849,
+            "lng": -74.17807553029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Dorval Pl",
+      "place_id": "ChIJqfokSwlLwokR6KHshBxGGkg",
+      "plus_code": {
+        "compound_code": "HR5F+C7 New York, NY, USA",
+        "global_code": "87G7HR5F+C7"
+      },
+      "reference": "ChIJqfokSwlLwokR6KHshBxGGkg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55217700000001,
+          "lng": -74.185982
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5535271302915,
+            "lng": -74.18463561970849
+          },
+          "southwest": {
+            "lat": 40.5508291697085,
+            "lng": -74.1873335802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Carlton Blvd",
+      "place_id": "ChIJh7sxnxtLwokRsD_SOoWGPEs",
+      "plus_code": {
+        "compound_code": "HR27+VJ New York, NY, USA",
+        "global_code": "87G7HR27+VJ"
+      },
+      "reference": "ChIJh7sxnxtLwokRsD_SOoWGPEs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.552094,
+          "lng": -74.186172
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5534338302915,
+            "lng": -74.1848021197085
+          },
+          "southwest": {
+            "lat": 40.5507358697085,
+            "lng": -74.1875000802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Carlton Blvd",
+      "place_id": "ChIJUwoMmRtLwokR8acauhaMXpY",
+      "plus_code": {
+        "compound_code": "HR27+RG New York, NY, USA",
+        "global_code": "87G7HR27+RG"
+      },
+      "reference": "ChIJUwoMmRtLwokR8acauhaMXpY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.560074,
+          "lng": -74.180466
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5614231302915,
+            "lng": -74.1791151697085
+          },
+          "southwest": {
+            "lat": 40.5587251697085,
+            "lng": -74.1818131302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Oak Ln",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115089011126939764016\">\u041f\u0435\u0442\u0440 \u0417\u0430\u0433\u043d\u0438\u0442\u043a\u043e</a>"
+          ],
+          "photo_reference": "AU_ZVEEv7n3hLgeVG-7ba-tMtJYmSUBzkwMic31RCOBmiEyqClg5U9sqOik9EMh0NAEhAlnKLHkeUQk9tVmhNOgnVmtD8UUDzs3CkQ6B5oSOPEgxCkFX4ZU_tDLYdf5KtORM6KtjTlGiVezCEA7tbZwiAIOef4EgUvve1DS9dND-ZNb_crGrKseIygPhNpIbz8DcVWPFELQE_TRYy2CkNgdTCerLdbwkbDYfmxDL72gLF9Tv_5Bx73EGgFz_rkntegvn5TfaU_deZ0-04Tv_bjpZ7RTeUWVOSJXENeAHrtZ1vgrcNmfqJqPUc2_s_FalMW3sIh2_G8fSaSinCzTGdKNBe9g-395z6M-kxMaGDQFXHQ0pG-PfU2nk3UuYrp5OjA3BJLtm86ua7gcV8FCs7d3n4P1OOJobmceX3XYrKJlOa7kUED5-i2eH_NeAr3Wa_fHcg2GpSxdlQbH55KIk_M7msZym05K1qo_vU-lqA25vgw-hfxqxc2Y968Qv7iSkJklhv3suKHagdbtRB6zQO_QPV4nHDvG2ivsXZK3X6uUmOY6e5tABsJ1-Q74Po9BSwXzxyBQ6CMmnBVYGqy-epzbL758T4jH3DxRrgoyZAW8so5TlvrW73vbr3yiXtEJPVETh40gcn8q6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJyfoveA5LwokRvvEDNdmUfug",
+      "plus_code": {
+        "compound_code": "HR69+2R New York, NY, USA",
+        "global_code": "87G7HR69+2R"
+      },
+      "reference": "ChIJyfoveA5LwokRvvEDNdmUfug",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.560204,
+          "lng": -74.180359
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5615553302915,
+            "lng": -74.17898406970849
+          },
+          "southwest": {
+            "lat": 40.5588573697085,
+            "lng": -74.1816820302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Berry Ave W",
+      "place_id": "ChIJFQ3R1w1LwokRh0jO6PCRxbc",
+      "plus_code": {
+        "compound_code": "HR69+3V New York, NY, USA",
+        "global_code": "87G7HR69+3V"
+      },
+      "reference": "ChIJFQ3R1w1LwokRh0jO6PCRxbc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.559185,
+          "lng": -74.176727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56053188029149,
+            "lng": -74.17539566970848
+          },
+          "southwest": {
+            "lat": 40.55783391970849,
+            "lng": -74.1780936302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Dorval Ave",
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103827110337344252748\">WeiTing Huang</a>"
+          ],
+          "photo_reference": "AU_ZVEGNQWbs-g_-mybB0pJ4chI0v_POzW1tsvVZim4lZkqc83sRToE1FJmFLFmolrU-tSVx4Vezg7Plqn9wN33jnny9itluqFYiyTGzI_G1cq5c7GCqIKFp_oJZ1QRGurXNz9Wuy9efflTqX-GNK-ahmrS1lMZGEEYAEBJAqCDU-T_ppYD5nG-0N8uNvZG-as08nL3HfsIS7KWHylq-gzclzVYrErvbx8ECgVQqXJPTCodLQCotk2QtCrV7eca_4Xm-JEdDKTM3_3kGCbodddH-K-XbuGCFHsAgQXx7HIHT_bP7ierjBu31BFvFyBlM7NJJJx0s30UICu5vsLbNTe82-xhYSAEfp3sI_Cn3jGHsg_8IPze5ijcB4UmhEG3gVODUs7rk3emU-a2RfW-G8QtufjB-Xqob6DWqMQwtaFk3DLkrjR2phVvyd5KuoI31NCThAUEd-gNuKMM2Zq3T8qeRNMi55UfkFtHHF-TsG1QUqsIOzrMxzexUkZPZ79ctYifBxMlUaEBjQa-C-gPK8yGkhNUvMlINxTucOI8d3LwZdwBir54b9lLLHTzBjzSlOYwI-w7zhL_-E-W16ObmN2Du5XkjOvi8rAxqJJPVnm-aKLG_ZHsAA_pkSjAWczDzq2BZbQWq7A",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJWarmUglLwokR-5oXZLu3lyY",
+      "plus_code": {
+        "compound_code": "HR5F+M8 New York, NY, USA",
+        "global_code": "87G7HR5F+M8"
+      },
+      "reference": "ChIJWarmUglLwokR-5oXZLu3lyY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55191,
+          "lng": -74.17527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5532529802915,
+            "lng": -74.1739740697085
+          },
+          "southwest": {
+            "lat": 40.5505550197085,
+            "lng": -74.17667203029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Genesee Ave",
+      "photos": [
+        {
+          "height": 2952,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111908658567991188051\">Jim Kelly</a>"
+          ],
+          "photo_reference": "AU_ZVEGoXkvqUgY_QRKynere9TLaHETToSmeFxosamcnfRm8GBakXmvgq9rMwQbezb7aWb3AggO29cEo0E8TdJqz_Ur7WGEI2sJ3i-F9ICfXkViy9h1iffdsYG6hKdst5WM_rwT_0T5Tu6xsxNqw8NtbiLHxj4bGi9swh7b9i90YtL9Pu9WMiBrcIaCUfBt7ZmmtcPP2HkKM-KUhTBQmo2kXXvmpQL-0w3LWOCGS6cQidaoZPlVw4NZlbixQebowGvMcwf41ZabPxXLbG8qgyiME84brODyrSv3odf997bFjoyZQ_zHMcwsSI97oi8H1btHWoTXFieh0fJOVeXTvTdx4rh6SFWZTwd_e7uTAhnd9zNJymdBrIHR4b0WkGWu8xXVK3_IvUFHpAL_N8vxBGU6U8-HyNBSlxmAwxXgu04h6K_kKr7C9elvgoyTTrVN8DtxUdkUrvIu5pWvMjWY2yc_RhRwefph4oz_ltMDD_BFZpApqwfvgfxsdNwzQ8Zr0b8D4XYnHyN-uOnA0StKeLZ9o8An5lpNfmvy8N4HDqKYBf7N76B2LufyHgKQgd7wDK7hLCZ9ssDgDUQbnVZbdWICgVBYjEfvT7e0lxZtkveYizue6-fbl8a4PaCmpRlbWste9yWpLc064",
+          "width": 5248
+        }
+      ],
+      "place_id": "ChIJ438X9QZLwokRrcffO-1IjCM",
+      "plus_code": {
+        "compound_code": "HR2F+QV New York, NY, USA",
+        "global_code": "87G7HR2F+QV"
+      },
+      "reference": "ChIJ438X9QZLwokRrcffO-1IjCM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.550903,
+          "lng": -74.175293
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5522182302915,
+            "lng": -74.17395021970849
+          },
+          "southwest": {
+            "lat": 40.5495202697085,
+            "lng": -74.17664818029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Notus Ave",
+      "place_id": "ChIJD9jC6gZLwokR8rmb7H94RBE",
+      "plus_code": {
+        "compound_code": "HR2F+9V New York, NY, USA",
+        "global_code": "87G7HR2F+9V"
+      },
+      "reference": "ChIJD9jC6gZLwokR8rmb7H94RBE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.550266,
+          "lng": -74.1876565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5515988302915,
+            "lng": -74.18632211970849
+          },
+          "southwest": {
+            "lat": 40.5489008697085,
+            "lng": -74.18902008029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Av/Woodrow Rd",
+      "place_id": "ChIJqVzgFhxLwokRzdovczxlOzE",
+      "plus_code": {
+        "compound_code": "HR26+4W New York, NY, USA",
+        "global_code": "87G7HR26+4W"
+      },
+      "reference": "ChIJqVzgFhxLwokRzdovczxlOzE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.549683,
+          "lng": -74.186844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5510643802915,
+            "lng": -74.1854660197085
+          },
+          "southwest": {
+            "lat": 40.5483664197085,
+            "lng": -74.1881639802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Crown Ave",
+      "place_id": "ChIJ1XU_QRxLwokRYHpbEPe_sLw",
+      "plus_code": {
+        "compound_code": "GRX7+V7 New York, NY, USA",
+        "global_code": "87G7GRX7+V7"
+      },
+      "reference": "ChIJ1XU_QRxLwokRYHpbEPe_sLw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.550224,
+          "lng": -74.18766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5515866302915,
+            "lng": -74.1862986197085
+          },
+          "southwest": {
+            "lat": 40.5488886697085,
+            "lng": -74.1889965802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Woodrow Rd",
+      "place_id": "ChIJqXW3FRxLwokR13fLQvSwaMs",
+      "plus_code": {
+        "compound_code": "HR26+3W New York, NY, USA",
+        "global_code": "87G7HR26+3W"
+      },
+      "reference": "ChIJqXW3FRxLwokR13fLQvSwaMs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.550411,
+          "lng": -74.187935
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5517441302915,
+            "lng": -74.1866003197085
+          },
+          "southwest": {
+            "lat": 40.5490461697085,
+            "lng": -74.18929828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Woodrow Rd",
+      "place_id": "ChIJjbgYGhxLwokRZg1D4qPppds",
+      "plus_code": {
+        "compound_code": "HR26+5R New York, NY, USA",
+        "global_code": "87G7HR26+5R"
+      },
+      "reference": "ChIJjbgYGhxLwokRZg1D4qPppds",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.561691,
+          "lng": -74.177193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56303378029151,
+            "lng": -74.17589751970849
+          },
+          "southwest": {
+            "lat": 40.56033581970851,
+            "lng": -74.1785954802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Token St",
+      "place_id": "ChIJddmLeQxLwokR_NsXCNXPwio",
+      "plus_code": {
+        "compound_code": "HR6F+M4 New York, NY, USA",
+        "global_code": "87G7HR6F+M4"
+      },
+      "reference": "ChIJddmLeQxLwokR_NsXCNXPwio",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54965599999999,
+          "lng": -74.18808000000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55099063029149,
+            "lng": -74.18670286970848
+          },
+          "southwest": {
+            "lat": 40.54829266970849,
+            "lng": -74.18940083029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Almond St",
+      "place_id": "ChIJBRtOJBxLwokRTCakDj6gNSQ",
+      "plus_code": {
+        "compound_code": "GRX6+VQ New York, NY, USA",
+        "global_code": "87G7GRX6+VQ"
+      },
+      "reference": "ChIJBRtOJBxLwokRTCakDj6gNSQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56255,
+          "lng": -74.17751299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56390213029149,
+            "lng": -74.1761300697085
+          },
+          "southwest": {
+            "lat": 40.5612041697085,
+            "lng": -74.17882803029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Tynan St",
+      "place_id": "ChIJFcsOhgxLwokRwrV8bi0D-ks",
+      "plus_code": {
+        "compound_code": "HR7C+2X New York, NY, USA",
+        "global_code": "87G7HR7C+2X"
+      },
+      "reference": "ChIJFcsOhgxLwokRwrV8bi0D-ks",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.551792,
+          "lng": -74.190514
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5531499802915,
+            "lng": -74.1891507197085
+          },
+          "southwest": {
+            "lat": 40.5504520197085,
+            "lng": -74.19184868029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Rolling Hill Green",
+      "place_id": "ChIJ2b0SMxlLwokRZlshJ4hpVlE",
+      "plus_code": {
+        "compound_code": "HR25+PQ New York, NY, USA",
+        "global_code": "87G7HR25+PQ"
+      },
+      "reference": "ChIJ2b0SMxlLwokRZlshJ4hpVlE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.552353,
+          "lng": -74.190857
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5537023302915,
+            "lng": -74.18950741970849
+          },
+          "southwest": {
+            "lat": 40.5510043697085,
+            "lng": -74.1922053802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Correll Ave",
+      "place_id": "ChIJMzlfJRlLwokROGiDZlwSXt8",
+      "plus_code": {
+        "compound_code": "HR25+WM New York, NY, USA",
+        "global_code": "87G7HR25+WM"
+      },
+      "reference": "ChIJMzlfJRlLwokROGiDZlwSXt8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.546913,
+          "lng": -74.180977
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5482239802915,
+            "lng": -74.1796608197085
+          },
+          "southwest": {
+            "lat": 40.5455260197085,
+            "lng": -74.18235878029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Drumgoole Rd East",
+      "place_id": "ChIJr-Ll6wJLwokRA056nxL6aPY",
+      "plus_code": {
+        "compound_code": "GRW9+QJ New York, NY, USA",
+        "global_code": "87G7GRW9+QJ"
+      },
+      "reference": "ChIJr-Ll6wJLwokRA056nxL6aPY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.546741,
+          "lng": -74.181068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5481279802915,
+            "lng": -74.17968621970849
+          },
+          "southwest": {
+            "lat": 40.5454300197085,
+            "lng": -74.1823841802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Drumgoole Rd West",
+      "place_id": "ChIJf_J2wQJLwokR9HE7MXgLISI",
+      "plus_code": {
+        "compound_code": "GRW9+MH New York, NY, USA",
+        "global_code": "87G7GRW9+MH"
+      },
+      "reference": "ChIJf_J2wQJLwokR9HE7MXgLISI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.547588,
+          "lng": -74.17508699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5489341802915,
+            "lng": -74.1736770197085
+          },
+          "southwest": {
+            "lat": 40.5462362197085,
+            "lng": -74.17637498029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Annadale Rd/Rye Ave",
+      "place_id": "ChIJb_XqDQFLwokRNYjYL6MpGcs",
+      "plus_code": {
+        "compound_code": "GRXF+2X New York, NY, USA",
+        "global_code": "87G7GRXF+2X"
+      },
+      "reference": "ChIJb_XqDQFLwokRNYjYL6MpGcs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.563465,
+          "lng": -74.177193
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5648363302915,
+            "lng": -74.1758225197085
+          },
+          "southwest": {
+            "lat": 40.5621383697085,
+            "lng": -74.17852048029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Annadale Rd",
+      "place_id": "ChIJU_b-oQxLwokR594Rjnnm15w",
+      "plus_code": {
+        "compound_code": "HR7F+94 New York, NY, USA",
+        "global_code": "87G7HR7F+94"
+      },
+      "reference": "ChIJU_b-oQxLwokR594Rjnnm15w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.562935,
+          "lng": -74.17533499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56427873029151,
+            "lng": -74.17398751970849
+          },
+          "southwest": {
+            "lat": 40.56158076970851,
+            "lng": -74.17668548029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Crossfield Av",
+      "place_id": "ChIJnfGwFAtLwokRSi9Y2O2XSKw",
+      "plus_code": {
+        "compound_code": "HR7F+5V New York, NY, USA",
+        "global_code": "87G7HR7F+5V"
+      },
+      "reference": "ChIJnfGwFAtLwokRSi9Y2O2XSKw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.563574,
+          "lng": -74.177292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56491153029149,
+            "lng": -74.1759549197085
+          },
+          "southwest": {
+            "lat": 40.56221356970849,
+            "lng": -74.17865288029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Annadale Rd",
+      "place_id": "ChIJ1fY4ogxLwokRluz6QrgQR1c",
+      "plus_code": {
+        "compound_code": "HR7F+C3 New York, NY, USA",
+        "global_code": "87G7HR7F+C3"
+      },
+      "reference": "ChIJ1fY4ogxLwokRluz6QrgQR1c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.563065,
+          "lng": -74.17566699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5644042302915,
+            "lng": -74.17432071970849
+          },
+          "southwest": {
+            "lat": 40.5617062697085,
+            "lng": -74.1770186802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Crossfield Ave",
+      "place_id": "ChIJYVzJawtLwokRweTrXCv9-1k",
+      "plus_code": {
+        "compound_code": "HR7F+6P New York, NY, USA",
+        "global_code": "87G7HR7F+6P"
+      },
+      "reference": "ChIJYVzJawtLwokRweTrXCv9-1k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56280499999999,
+          "lng": -74.17500299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56418343029149,
+            "lng": -74.17363676970848
+          },
+          "southwest": {
+            "lat": 40.5614854697085,
+            "lng": -74.1763347302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Crossfield Ave",
+      "place_id": "ChIJB8NXEQtLwokRZALHp4FrJs4",
+      "plus_code": {
+        "compound_code": "HR7F+4X New York, NY, USA",
+        "global_code": "87G7HR7F+4X"
+      },
+      "reference": "ChIJB8NXEQtLwokRZALHp4FrJs4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

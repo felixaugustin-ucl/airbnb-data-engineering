@@ -211,7 +211,8 @@ project/data/
 project/data_pipeline/raw/airbnb/
 project/data_pipeline/raw/nyc_open_data/
 project/data_pipeline/raw/weather/
-project/data_pipeline/raw/places/
+# project/data_pipeline/raw/places/ — intentionally tracked (Google Places API
+# is paid; raw data committed so markers can run transformation without API key)
 project/data_pipeline/raw/wikipedia/
 project/data_pipeline/processed/chromadb/
 project/data_pipeline/processed/vectors/

@@ -1,0 +1,1828 @@
+{
+  "neighbourhood": "Rosedale",
+  "centroid": {
+    "lat": 40.641795092391305,
+    "lon": -73.7437380027174
+  },
+  "fetched_at": "2026-04-06T14:47:39.549715+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6353387,
+            "lng": -73.7404188
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6367501302915,
+              "lng": -73.7391141697085
+            },
+            "southwest": {
+              "lat": 40.6340521697085,
+              "lng": -73.7418121302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-978-6689",
+        "name": "IHOP",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1848,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116414405370578675142\">Rosmery Perez</a>"
+            ],
+            "photo_reference": "AU_ZVEFOWMm6JXcmi_b_NEEDclLR2DTVizzP52SCSmiS4rb7Ef9o3ILGF7e4S9xDyAaAcOI_lPFZfOm0hTkxga0lXtfRqSFGrPLDt5mprzT2YPGLSzjAM2Uz90qe3ODqQioJjqexbB10BnBi9dE6IYVIpLOuxDzDZJWD9w3-WWkHbPlmIOStTaXsL65QYmFPBiHXphZcQu89r0c6T1CoCVLAMiSyrtwPNpzwWeBW72uW6gLVeyJ2Al---WbXn4MsSJXjZxGmbirNshpdYBeDdW-jdMWHRR1DTtNzNF50ft_b66Gm4Gnrx96gsTfG7JvU4_pasiJCz_pEpQ8KdWjPo5Mw1l-gseDPhCaN81zt7eswIokKB6SN6Y9uy7LBJmBH1YwrAVm2G4W_KMPoxXsC4gQgEIPXLY2SHTXaHufw0oFZvtJuugnzg_PqDR7PiyvDMDqecXSZHsZdkb8AhLO_eIXzmcLRVEDj6sgt29fwrnBgAg3Uy_0kS6VkjXaQaPtLOTwsex60ZRPnJab-4MEg_PTZHE6Sj03xvE4neVobq08zHQ-jKIXrcPMFs8235qDMfU8A-q1clf80HP1zh-7n6LuE3zw6PBjev2YGLVXz_EoC2uBl3xGb5jhA9F9Dplm_ot0B",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJaXi4aNFlwokR75G6I_eOkPI",
+        "plus_code": {
+          "compound_code": "J7P5+4R Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7P5+4R"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJaXi4aNFlwokR75G6I_eOkPI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 3045,
+        "vicinity": "254-02 Rockaway Boulevard, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6360859,
+            "lng": -73.7392237
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6374563302915,
+              "lng": -73.7380139197085
+            },
+            "southwest": {
+              "lat": 40.63475836970851,
+              "lng": -73.7407118802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 516-792-0100",
+        "name": "Applebee's Grill + Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101753556373253704487\">Moreno Black</a>"
+            ],
+            "photo_reference": "AU_ZVEFR82X8ZQB-u2m7NgcC2-Fr7XIu0YLE5LCuhDSYILaLDCnGk3-cI4WVyhAKyhBY1AFwvSKNR9WlltbiJDILcYcoOrjHYODQfWIW4us6z1xM64a6tAdDKCi6jVSI6xMVuY0RDCCF3beL2H4nVGrz9xAMGf05fdpbqXpbwr_5Qen6lo7KHTGNILjr0BAXd4XEgxG5y9-0mmm4QRZg2d2wXnvYuPVh7Em5Sr5z2FjJn5lThUKe06dVnStY4xG9AruRLI9PuhPt5RSJmrehmxBP-LbOXOg6_e0HqoDyuhnyJw9uZ6iF0McKBsRqmDVtHLD54Fy-sIqXv3vRJF_u40_8SGpor8osTPfkQKS7CfwCVTAm3Mc7QPty2YcOSX5QBeuJEYUmYcR5ldz4H2mW_vz2gkM7Kin4JuxkfG_EaSB0a-jkROkoYBmOxcBy74Np5mdRtodFiSGjh5asA5Um2mVfsxOtiE9xgpfd84BntdMOS0tq9I9Mrqpfynd226A61wIuVrMKjaMRvm9zJH0797xshHkF85A9QxkLKYkyITsH8iTotgdzq6H1zTgdBLdHS9jG3w9z25jdub1n1FlO5nb4pQtKwKKy21YVIVj9Se5691K-8zdqQQufR5PlkI4Z0F7M8Qr2h2fC",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJDzhkftFlwokRQY-6MeWsj78",
+        "plus_code": {
+          "compound_code": "J7P6+C8 Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7P6+C8"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJDzhkftFlwokRQY-6MeWsj78",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bar",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 2100,
+        "vicinity": "253-01 Rockaway Boulevard, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6373624,
+            "lng": -73.7450449
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63872818029149,
+              "lng": -73.7436205697085
+            },
+            "southwest": {
+              "lat": 40.6360302197085,
+              "lng": -73.7463185302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-527-7575",
+        "name": "Bayhouse",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105427971712943368967\">\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0414\u044f\u043a\u0438\u043d\u0430</a>"
+            ],
+            "photo_reference": "AU_ZVEG2ISKmCeH9BqGStEZT2tk67M-74CT64uDDxsYx86ihwdeDmmuEia1EmMWYLeXa9fiYKuuvnzxRpmy79M2UNzqtAK7SSzL8dOlZVgN0gDmPmJjOivENhvlg3nm6bhNovPT9WEIXzS2Pe_rBFbP_CzdTcU4AZV5UGGcSudsCKC2siVn5UJzB2WUET21KEiajd5ifwTHh73l5XazDdWnj-xjIhc1289_nD3tBtS3ZdgY1Zx3d99VDvh_zeUmE1ZtQ5XaynGLYZYryYrx_9Fx4spcemptZ3TLWIQ0Z7NSuP-2Bms_q18sdasR1HXUDSGDLKBrmVj--e7AngSwQKr1hn9XrTe84TQM58C158aXeRX-GQ_SqRiQ7TdH9dXi-ieNqh-nuYv9nIIefXPOsHjHLLhjR4BbPWb-u_ie16qo1it3GRsMKIGdUEE48fkPDkXQL5dk3DRkLrx-Em4vclUY_DGH3JRmuIe6KA1RLJfVGQbBii8Fu1v5-Q8RaqBxCwvEd0biteKCw75h7KtqKfyqxnLoA4Gju23-m8i2WbSVMPM_YP9nVY3p02fq3lNyP-PqmEmlMpATvY0Ut7qmumxEpLlJRR_D_0dUxH-e_zEcGGEvmvYygQavEu-hhOsmvqpjgGWIVmG-xzBXFNqkDvS2-HD6X6h8",
+            "width": 2268
+          }
+        ],
+        "place_id": "ChIJ6Sar1tVlwokRsPZv6QCT_mI",
+        "plus_code": {
+          "compound_code": "J7P3+WX Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7P3+WX"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ6Sar1tVlwokRsPZv6QCT_mI",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1500,
+        "vicinity": "155-57 Bayview Avenue, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6381427,
+            "lng": -73.7407855
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6394077802915,
+              "lng": -73.7393440697085
+            },
+            "southwest": {
+              "lat": 40.6367098197085,
+              "lng": -73.7420420302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-269-7242",
+        "name": "Chick-fil-A",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112638823524739545846\">Chick-fil-A</a>"
+            ],
+            "photo_reference": "AU_ZVEGNzPymAY7XTTSX6XwNh7gVK4xJWlUU-646l9jrcB5wjB4-14_VLdsSrjz3mTzBicBm06mabQAGrmQecTqMJ6KefWAHXrXs7LLEvBw3JvH0Lmx-JDYLGVc8ulUO9mD8A-zPSer_KV3La15bTTynLHCxe3uTbw0WpocD7PVN38fJ5aDVSUNL7LzGBU5p7zNBKWSDE2cHFalA5TqghSAZR91yLrc_xIprws8ZrPGAoKlGwlK76arL-gsbXNTUsejfcCDxKk96McywDlaZ3_qGsk0lkHVTqGtvAOPsbaIw7zIFIlIW-v_jtSz08VlGoYEJv6n4D5IgTsI",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJlUbpdtRlwokRky5s1-r6gjA",
+        "plus_code": {
+          "compound_code": "J7Q5+7M Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7Q5+7M"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJlUbpdtRlwokRky5s1-r6gjA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1351,
+        "vicinity": "24923 Rockaway Boulevard, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6362643,
+            "lng": -73.74080889999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6375840302915,
+              "lng": -73.7392665197085
+            },
+            "southwest": {
+              "lat": 40.6348860697085,
+              "lng": -73.7419644802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-749-5789",
+        "name": "Wingstop",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 496,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104347125951913407054\">Wingstop</a>"
+            ],
+            "photo_reference": "AU_ZVEFGC2EzHb-7YeF9fzCNA5mgGB9LY7VzSyTL3JV2Cgo6PtseOegS3L1lR-6E8QeKJDcOQoOq7KJGpxY6oI26kzp3_YIaqbqi3PvlalPmSx2dPh9KAAnUpkB6UcQfluwXf_zcFZFoPCVW_l5b_s12xRdeUjyQnGJroK-twjLaLWfRZXmDUN8hW314O3iKsTIuhqFfTDesi0eAL-e95dGjuS_UQNGCOISoO9CvPl5KOCDzsPSjC1k16TAOwe9uYPNyLPPeywNkFH5GQ7Bmf_o3dcHTkGY2n5FzQB3_myc4e-sDi5KTZ7eBvB6_nTqfBNHwhlNTscrh30w",
+            "width": 882
+          }
+        ],
+        "place_id": "ChIJRUDI3IllwokR7UsvoJNyBAs",
+        "plus_code": {
+          "compound_code": "J7P5+GM Queens, NY, USA",
+          "global_code": "87G8J7P5+GM"
+        },
+        "price_level": 2,
+        "rating": 3,
+        "reference": "ChIJRUDI3IllwokR7UsvoJNyBAs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 50,
+        "vicinity": "252-18 Rockaway Boulevard, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.635794,
+            "lng": -73.7405709
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6371852802915,
+              "lng": -73.73908391970849
+            },
+            "southwest": {
+              "lat": 40.6344873197085,
+              "lng": -73.7417818802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-405-0215",
+        "name": "12.6 Lounge",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4824,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115634035228657463723\">LeoBK</a>"
+            ],
+            "photo_reference": "AU_ZVEFjtZ5fmDbx_MK_dXd4xSlBptwWncFvA6wIXA5zaYs1v1sJ5oKbnD5utedXaJTs-yYeSfb-Bl5e60w-1COATUJtF2vZc-CI9Vhv1qHfXnaOa3HXy5KHoIqpKtjKRg1lBo9_Yn_T2t8fAAuwHzeKmcr5hZI33VqVoEpb-joGenDggwWZQu_5fy19hNBsCbPgaVi78cCvz1POu5mFEFAN9UhSVvLa6m7e-M2PXFhZLgla6lxf-sHZRNjqrKk3AnntIVmlOCX3bQnhePZ-1-3Yk4cWqaYlEvX6fVEpuK2kW4ri5nrm3MWy7Vgfz78zwPaxv0KvVG8irGJyBDTpnwwPChuOJB38HIAeKY0JE3pRiTSBrraTC3kpMVbkTBMxPjouCKnz7iHVf-sSPSJjl0CJaWy0xXO47UrJ3FuyYyp0Jwd3Yr9W86gRdyzOerYgV0hBF6yCqqX7z31iFEc_GteXwOR-g0M-OLOOPkXK26aXHcmlWWsiBcdvyZSzZpGmaAl8Rm3EFjWE10eV9bsXGa9N2I0FI_vzKzBxGDym_tUJRqgtlOjqL71vd8Oof2rZAiqlF75S9z2qNM69IrSURLAChuNsYg-64GxOnSeVdQjEWGxxl3XC2thDERAdegOhcnAn18rigI_Ubnn3f02p68V_SmDoYSs",
+            "width": 3618
+          }
+        ],
+        "place_id": "ChIJUz48l4BlwokR8shDhwyxETE",
+        "plus_code": {
+          "compound_code": "J7P5+8Q Queens, NY, USA",
+          "global_code": "87G8J7P5+8Q"
+        },
+        "rating": 4.5,
+        "reference": "ChIJUz48l4BlwokR8shDhwyxETE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bar",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 276,
+        "vicinity": "253-06A Rockaway Boulevard, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63533959999999,
+            "lng": -73.7404188
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63675058029149,
+              "lng": -73.7391141697085
+            },
+            "southwest": {
+              "lat": 40.63405261970849,
+              "lng": -73.7418121302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 888-413-5074",
+        "name": "TenderFix by Noah Schnapp",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106770343397655675039\">TenderFix by Noah Schnapp</a>"
+            ],
+            "photo_reference": "AU_ZVEEs2MddI3P-3d8qpwta54a1Lrm5wifY7vHuoaAy8zXiyYhwVc3UDc6rzSTFbA7xSu8_Ia3eZpjgF5uZBB0GAAYA0nRalgKDuYiAGPrTM_GEqdCEDQbeGjJ8ivI9MtxtWaCRo6ev-4jMjmEatCp_VM8AGARb5HYjlHceDtDxAYK05Y0rp0c796szcUWFA01lKFbvTXBOSX8Nq9OmfHBpJD9YHqFopt0TQOxw04_PfqarBsq3TlBC-e7MO60qovrMSwdWmsnXjH_3kgRi-zdamseaSA_npDDA_RWl41fqGh2QPqYKzgQl377PCVlJg7ZGY4uc7XrwPzk",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJFbeO-0ZlwokRXW20D8bQU7E",
+        "plus_code": {
+          "compound_code": "J7P5+4R Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7P5+4R"
+        },
+        "reference": "ChIJFbeO-0ZlwokRXW20D8bQU7E",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "254-02 Rockaway Boulevard, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.633461,
+            "lng": -73.73970229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6347604802915,
+              "lng": -73.73828366970848
+            },
+            "southwest": {
+              "lat": 40.63206251970851,
+              "lng": -73.74098163029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 516-371-2880",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106448670008614628233\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEGQkjRQmgj1ez-DS2KL1XC8rcrCtwvfYCdZVZiesTLcAhosViSMIrT-o7h3C7POyPdgoDICff_NXn9EvzyViZbY-s0y5Ibogme5WkfTjtQce_YsV4IYbk4axKtGkrsS38JRAEcyd2YfP5gihsKLTXHzJIhCSu4Z6SXZqoKRM72yMdR0SauH8G1Q8eixePn9enlN9lNeJjUBHfBDw7TihX-rEvFgPiAFZ_EDw7jMJWfgtpEGMopK5jgJQbq8f_QvDnlrnkNkk1-30iSFkNBCUsVvpq1BT5reNtNvmPeriRrV2qee6ZZjV_thZGVt1ZjvupIs9-dm6Hs",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJdSyWD9FlwokR7VTayBKZ4f4",
+        "plus_code": {
+          "compound_code": "J7M6+94 Lawrence, NY, USA",
+          "global_code": "87G8J7M6+94"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJdSyWD9FlwokR7VTayBKZ4f4",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 714,
+        "vicinity": "679 Rockaway Turnpike, Lawrence"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6360859,
+            "lng": -73.7392237
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6374563302915,
+              "lng": -73.7380139197085
+            },
+            "southwest": {
+              "lat": 40.63475836970851,
+              "lng": -73.7407118802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 516-792-0100",
+        "name": "Applebee's Grill + Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101753556373253704487\">Moreno Black</a>"
+            ],
+            "photo_reference": "AU_ZVEGkz2iHc48WAUEtlYwTe9fBLngMvmdRar_sh3yFz0XgTSB3f6CE-RGbG8I-doxCXRUOgpA0seKaxpscwgquTxvrwoiJl0k-cyKc1hxc4rPxPOIY6iQbqfS7bZTSlFMoHBqubrEIj3rSPHpjVoBNHs3iPjZ9ki3TxBucOZtr3u9EJQwxOteO7_HGWwXL9fgblzKqR1Z5qhk6UH9gxK0CVtv4Nqlk60QoXKbMmqojCd-9z5kB6hQum1QV83G7bWq4fyJnchK9wJW8cQisH6ByKO_drxliYeND4QSiwC7AocFwuKLsVaLn23Vc2QH27JmgOjpSFfLfCluXFgsp4jWsfU8MLBAaYcF8mmWRZsEIoAprzZph5tBIq1xdsfPF6tKVqLZ07kjlKkWaiC8bqoBmskSw7i1psE7GhLSUQ1l4s_49m8Xi4Tz_qbqMI0zjPaa92L-2EfSMrtSqGZdUhtAzo2FnTslwx_yVWbwhuk_XT4dgwqCCNml9iJ2pEILIfe6cZO8qh0NXVZ8t61dVA1I9IE2RaLGnRjr5t-7d5Wx3fxLPEkpZKnZsllKAkjTSKwB5ObgoGMxV7Ji5wbeiG3aauYR-EaHQoVnrCSwsrjNF9LvqmUvot4-Cs52PwJ3Wiwk0yrq0w1Er",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJDzhkftFlwokRQY-6MeWsj78",
+        "plus_code": {
+          "compound_code": "J7P6+C8 Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7P6+C8"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJDzhkftFlwokRQY-6MeWsj78",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bar",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 2100,
+        "vicinity": "253-01 Rockaway Boulevard, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6373624,
+            "lng": -73.7450449
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63872818029149,
+              "lng": -73.7436205697085
+            },
+            "southwest": {
+              "lat": 40.6360302197085,
+              "lng": -73.7463185302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-527-7575",
+        "name": "Bayhouse",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105427971712943368967\">\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0414\u044f\u043a\u0438\u043d\u0430</a>"
+            ],
+            "photo_reference": "AU_ZVEGHhnMVq9nGoe1POOBTll5GFB9VDOs2AGwwYB-zxPbK7lEMiBZE9z5jABO9lYQAM-P0o83_qC4HYHUy-j92hKDrZDASnxpC0YVXsA6y2sW32xjeeRkvUBhzLd4fAz-4QFBZCBI6UoI6GmJgXyLtIFKpookaI7X2sAye--Hc98ETttrhiEfzAwVC16MRVcOKHD6BjZTaqT8h1ilXNzwyJh87KRXRtkBm-4Jx7Rc_u0uHGMANlNTyGm2u5jaUq_QUS_HpyNipVz6fGETq0J4vjCks-basVJjIFa3PjcGk0ZYMahj8MsWBro8uhK78giR-CKd93-_XSpHvUOXywimOK7rK5ZYYoRS9mP_kwWmn7FArpYoQlvXHA2GWLjcqFY8BfIsgYxB_5Pa_4G2DFxtgxti5NiEbLoYU6qMmm9uT0ud4TRlkQL9Dgb2suHHRsS4ZiBlDfcWzY048kXvSIU2OwWeTeIIdDrmNd1UKnIexhVFIl9E2B2G8wDT0Mx2W0SvNXskDL0Nu9jN9BgTruiuhyHRUQ2NRT2gLpvHlv26ifKHBaszyBsrtkkBTwG78pdkJotX5RCdjlx38wjlk4LC0MZmcUMn1dPka9Bm0j-abgnxNJvctHVS0nWnIwwGzsuKgzXU2r_wRg_sqUMbm3RILgCGGOfk",
+            "width": 2268
+          }
+        ],
+        "place_id": "ChIJ6Sar1tVlwokRsPZv6QCT_mI",
+        "plus_code": {
+          "compound_code": "J7P3+WX Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7P3+WX"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ6Sar1tVlwokRsPZv6QCT_mI",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1500,
+        "vicinity": "155-57 Bayview Avenue, Rosedale"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.635794,
+            "lng": -73.7405709
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6371852802915,
+              "lng": -73.73908391970849
+            },
+            "southwest": {
+              "lat": 40.6344873197085,
+              "lng": -73.7417818802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-405-0215",
+        "name": "12.6 Lounge",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4824,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115634035228657463723\">LeoBK</a>"
+            ],
+            "photo_reference": "AU_ZVEEyKDa1Ks77AcW0mx-Nt0SN8J7LT6XnveLHMznnjAmiOrbWq0CVr40Bh6z4Wps6rLpHpWHAIK9dZX-a5Gb2ym82zoHY6RwCYA0WOXeimYLzEfjURgzII8R4GD83wDFUi4tDQSwGlEPE8QCoadDvivy395lNKGiob97sFMA-cHTLdabElamB0R56v9InucVTMTIt_6Sa5UIgGH0-Tqxjblp7GqZvuyQcj6THhBKwPTRJ8iomheihuoPopBYY8rr4DJ14eoQmaMzrX06KjFW0c97XJwfkRrj1W8SZgHsjvSJjJLzj0aAXEZuq3K5l7Vp9qxn6pM9Figtxib9sdVk3X_LF7e9vIsPjR727_p1nNrzD4pjVWVsx5vUG9uxyAyPF2xaZEaWPGhHYZXHYTGvCvQlw4VdJkaGGCY_UUZYc6ry44ORVbHgGcb30dCG7_dVlb8lkJnoXbBCIXTgcNqUzFQ8Pcn1mpzJUx9R_abL_MSAbp56QWzJKNuozH32pyEEXSuTv-uZQNrKJApNqX4-_Q5iLqsOiHzmihy-jdxGcsjqcIFfXxxd72JR2VwnoDyurQOUMWzP9PcUmbq7SmFHThzlpMJGjXlNb3T9A2KciUQGDD8PDv2lhMLzxK70O6qI6mee3pzFixdcVbH2f0no6YK3KT7g",
+            "width": 3618
+          }
+        ],
+        "place_id": "ChIJUz48l4BlwokR8shDhwyxETE",
+        "plus_code": {
+          "compound_code": "J7P5+8Q Queens, NY, USA",
+          "global_code": "87G8J7P5+8Q"
+        },
+        "rating": 4.5,
+        "reference": "ChIJUz48l4BlwokR8shDhwyxETE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bar",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 276,
+        "vicinity": "253-06A Rockaway Boulevard, Queens"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6374664,
+            "lng": -73.742691
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63886788029151,
+              "lng": -73.7413561197085
+            },
+            "southwest": {
+              "lat": 40.63616991970851,
+              "lng": -73.7440540802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Wonderful 4-bedroom house 15 minutes from JFK",
+        "place_id": "ChIJfzrNEdRlwokRvJT-z1onhDs",
+        "reference": "ChIJfzrNEdRlwokRvJT-z1onhDs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.634716,
+            "lng": -73.74335479999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6361112802915,
+              "lng": -73.7419107697085
+            },
+            "southwest": {
+              "lat": 40.6334133197085,
+              "lng": -73.7446087302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Wonderful 4-bedroom house 15 minutes from JFK",
+        "place_id": "ChIJn-mL3dZlwokRMR8gfe4j5xM",
+        "reference": "ChIJn-mL3dZlwokRMR8gfe4j5xM",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6346342,
+            "lng": -73.7393371
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6360279802915,
+              "lng": -73.7379866197085
+            },
+            "southwest": {
+              "lat": 40.6333300197085,
+              "lng": -73.7406845802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-812-2700",
+        "name": "CitySights NY",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115799944749851562330\">CitySights NY</a>"
+            ],
+            "photo_reference": "AU_ZVEFy8pHFstQuu9wqWPwpKTEPn57pWrUIu7sET364xCZXKeRrzoDoLfUbrugiy8NOvqVMN4IXcqPIfQY7NyJ_uYKfYsETcx4DAsaQHsi_TNxab1WG4Hl1RD_quDkGr1TDznB0qNAwtiZOODMDzpbZTyhSJ8TL9SHNlsA7pk5nQncpXLupUpdPPZYveEoQE3JsSF-nf6UR1v8E6ns6KBXcZyTzL3WttistNjN-8Px_00HDdmge4fliIZNbBcV8oUeesG_dseHZR6mWfWC1ESaQNfL9D0R6YxUBTXMxermWfpI_xvPUgDg1isO_l_eI2DbhiFvf75NgLMc",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ8VOfr1RYwokR03qsCp4k0xE",
+        "plus_code": {
+          "compound_code": "J7M6+V7 Lawrence, NY, USA",
+          "global_code": "87G8J7M6+V7"
+        },
+        "rating": 3.6,
+        "reference": "ChIJ8VOfr1RYwokR03qsCp4k0xE",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "travel_agency",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 512,
+        "vicinity": "700 Rockaway Turnpike, Lawrence"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6438665,
+            "lng": -73.7361531
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6447992302915,
+              "lng": -73.73370634999999
+            },
+            "southwest": {
+              "lat": 40.6421012697085,
+              "lng": -73.73699334999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 516-571-7800",
+        "name": "North Woodmere Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114942698128688010449\">Jeff H</a>"
+            ],
+            "photo_reference": "AU_ZVEHloBvSzF8EL-qRClSHDgJOzwSqouG23m84ae4e_pJICBh7JB0NwscRPQNy3OisuLz3dWWi83sHLrNh9AwewxW5uVqiFJDQALyJOlqCwOq-_tDNq8VpX31Jsnwn8jOQaM40zOQvt9OyHC9R0tV7KVNKT140flyti73C1SjwU_XTmHReJNxjHoEOBMTs25aqNkDJTD_dviCbgA8BZCAG3Vn-tY9Rkb2DPhUUHiMhMB7PhqESODBSIzviGt7Zpeq11gleYniw7tKXROG9RY8jhmdRboZpktpGedJIr8yZf3QnhL2Y5lfD5jbJaCiIkv7VwWKgF7Zu0a5xIXUlCc8I0Ync_sMtykb_lnysnSBFJZInjDf3kCyIO1hHbEQgsFgrHLzOcpvcXa6s7r7YxjwVXfKuSjU5PgqkIbsh4x2wV3N3RGAqeSiyb58NmK_Vhn9iDhG5NrFkv7jWnya5XcVoRZzdbTw2WpoRseSR5WpcUcnYqzDB4nEOJB38aQhKr_tDof2TVEGg_qF4cup_CYpb0IyRukRont4uUADEG7vEPIWShX4mGHWHvbr4EPTeXWZ-xeeGyLDtMNyisu-F5yfZF7RfgkCHYkgObHfkXMULVEY5fNPiduDUIDAhmi7jmStkU6zQJw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJaeJUAy1kwokRDbFZz71m7KQ",
+        "plus_code": {
+          "compound_code": "J7V7+GG Valley Stream, NY, USA",
+          "global_code": "87G8J7V7+GG"
+        },
+        "rating": 4.5,
+        "reference": "ChIJaeJUAy1kwokRDbFZz71m7KQ",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1011,
+        "vicinity": "750 Hungry Harbor Road, Valley Stream"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6494142,
+            "lng": -73.7411583
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6513360302915,
+              "lng": -73.73576775000001
+            },
+            "southwest": {
+              "lat": 40.6486380697085,
+              "lng": -73.74295515
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Hook Creek Park",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111430604062857385749\">Fred-Arthur Jacobowitz (FAJ)</a>"
+            ],
+            "photo_reference": "AU_ZVEGZw1epSwPylGGFAv5pxceWtJgSIQ0iBX6jVki09LXSeubqVr11B6ZgKu2g5yqP3fkWX1gUZZ1A61GFB1l9cyAWv2MROgugtGpzsMK-yxqqxerDgVp6JuA4zxrA15lMVMXycpsz8sQ_VtxIsn_-vEeYNGu2CU4weP79nIau_UCYkb5mGn2eiyE2T4Ik-6ZvaUczBRRV8pi4c-ZDh2U4-jPVTL7XhLjFnkQIbUFxNJdOTfWFUqRTyAr0w4Imm2ympXsvksiKgBQCgsivtje6e61YDvRhdrLkOG89SxXC-bnqyXxhx50uIFiqwL5ubn4pXS-5maXWcnqUtCVEbANvlpyq3SFub5LEXDVoyIxatQCUJ-vxclyTABppT_8CjR8GFK3-Mc23bvaFBMgXzKk5cYxG3OEf6LoFpno5g5GmNC6kocYbTJFA4fM6EKI4TgXjQ_dOrgmhpN1cbWRCBvlI3ifbEJDLXMFNvLoADEiJOAeUKS24dpEbjt06BeWDt6BXofaKmIiSQQuQ6EOE--fmNzWL2oFQTIBskB7XxnZzavUFOZQL7hz3Fp8zdfls3kJV3snbK2rOzwuZ1t86tSU2NIyokgL3oHBy01JBCPFFnwj98wnWAnWzaEczikqVflSeqTnaRg",
+            "width": 6000
+          }
+        ],
+        "place_id": "ChIJSZWNtS5kwokRm4umklJajqw",
+        "plus_code": {
+          "compound_code": "J7X5+QG Rosedale, Queens, NY, USA",
+          "global_code": "87G8J7X5+QG"
+        },
+        "rating": 4.3,
+        "reference": "ChIJSZWNtS5kwokRm4umklJajqw",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 87,
+        "vicinity": "Huxley Street, Rosedale"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.639889,
+            "lng": -73.74239299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64119798029149,
+              "lng": -73.7410382697085
+            },
+            "southwest": {
+              "lat": 40.6385000197085,
+              "lng": -73.7437362302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Blvd/Brookville Blvd",
+        "photos": [
+          {
+            "height": 868,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEF76OeZSOu1-zOiLxuFh70zp8idRyDhzVzYW0nP5ZGcasdWwWlANnxqiXe5CbmK1z_NyM7UUl4YYnSgMOT9nY-aLqsmUG3utU9xb4QqIwsxxwRdwtp93LPIDPC9rIeEIspZ8I_aw3D6kmbps39yFgHrIN4tSQ8j2EYvhw0e_ip7JvuJSvgb7tpJhqvqz9eyo93KYyeCuPMEB7bE5PTDWriubP_I6cFNzH3nNK_b2tDU6PwdiqSkBDzGNPN597n3iaBI4E2aEWxlVyGF7yEDsi9WpFvCxPfeT2vgiNfw9nz1Pc0j2GvC4N9KnPYTJ4ptMBdZ3mt_tBAB5QBrZqgPWhYSxVw7re389cxAFdNDG4Jj5tMkk0-TwKl0LHSsC4CydkuJLVCMUk9I7IbUYo-hFasmRYgStR5xB7Sk0XANt_MfEBpWVws3ldRmPvQlW1rzOS_Cr2IeVHsMCvRKN362-usRNmtWF5lm3I2YLl1cKFP36EiCoHVRFqzjgAg5BFzIo3EEJMmh71kLgKPdtYq-9heKfhf9_AiED72F8_096fjtfuL-vmohD8xz55RMn4Lpo9frshzYcYrTSGuj-5HETC1fz2sOkuMzDeyqGuDF2u-yO2lm9hTINiHAjABDAo3r9vFNY98fvLwrlCiSqgsVLg",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ97cJm9RlwokRFQBdu9-uUHg",
+        "plus_code": {
+          "compound_code": "J7Q5+X2 New York, NY, USA",
+          "global_code": "87G8J7Q5+X2"
+        },
+        "reference": "ChIJ97cJm9RlwokRFQBdu9-uUHg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6397239,
+            "lng": -73.74266260000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6410858302915,
+              "lng": -73.7412915697085
+            },
+            "southwest": {
+              "lat": 40.6383878697085,
+              "lng": -73.7439895302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Blvd/Brookville Blvd",
+        "place_id": "ChIJy6UnldRlwokRIczWfzt38GE",
+        "plus_code": {
+          "compound_code": "J7Q4+VW New York, NY, USA",
+          "global_code": "87G8J7Q4+VW"
+        },
+        "reference": "ChIJy6UnldRlwokRIczWfzt38GE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637482,
+            "lng": -73.74065399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6388226302915,
+              "lng": -73.73934136970848
+            },
+            "southwest": {
+              "lat": 40.63612466970851,
+              "lng": -73.74203933029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Tpke/5 Towns Shopping Center",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113651346407313311109\">Nazim Syed</a>"
+            ],
+            "photo_reference": "AU_ZVEGSacfwJV_kV5CpMnoQnC7g6J2E8xiKdN6Mjzs0H6R-v50lMrdDT84PGYmEmxcu_4MCAE9t8Hhii33YeFKZ_c2kkrX9z25I_z7yF_C5D6fGFOqamHz5GYKHj5iIQT9Gzh6CajpIh_zbS5ItbpsnN6dkZeP0WJ_V7H7PnBjl0jiWXeIV8c_ZvaKYpcwX7P07nesIXdJv9DwFpDGLU6r12RQ4JdhK0PwXea-ndemWQxkgZZ08kKCo_QhYSb8kBnu3wbI8uyrswbrQyZvWT55CcPVhFBgnHfKi2rppydVCtXbUx0yoMCNNr21szD9jP2-z3QBt_3Pilxyjdx0G04KyUbdyxWZI5K8xr_CTpjQwt3BDHcyrI3EAvOQaE1R4NatvN_4EfiNvAJVdQiZicvFUZsdeDirKKISGY85mrfHl1H9HrBzIjeHYd2zwfWW1yxzJ5sa7efsU9OUZl_lcsTjRJ4o6GUCRnTms1SDTktqv1Gxmo1AnNyUKSBw8uSuw3R3ugx5NZgOkCQgqiaZrs4I9rQZ1aADlv3YuY_OWo2-_NUaaFYfl5IE6thMmeURbhNlnlpaMdHkLMdKndxs51LE1nTLjRylXd0STRXMKvLdCn2dTv7OPBMuReSQVO4YJOItbldnrtk_Y6Mp5OR22TqEtNmok1h4",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJfZIH69NlwokR4gjyU6edba4",
+        "plus_code": {
+          "compound_code": "J7P5+XP New York, NY, USA",
+          "global_code": "87G8J7P5+XP"
+        },
+        "reference": "ChIJfZIH69NlwokR4gjyU6edba4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63589899999999,
+            "lng": -73.74039499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63720238029149,
+              "lng": -73.73900311970849
+            },
+            "southwest": {
+              "lat": 40.63450441970849,
+              "lng": -73.7417010802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Blvd/Meyer Ave",
+        "place_id": "ChIJ67Z2aNFlwokRid735dT3_T4",
+        "plus_code": {
+          "compound_code": "J7P5+9R New York, NY, USA",
+          "global_code": "87G8J7P5+9R"
+        },
+        "rating": 5,
+        "reference": "ChIJ67Z2aNFlwokRid735dT3_T4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6353387,
+          "lng": -73.7404188
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6367501302915,
+            "lng": -73.7391141697085
+          },
+          "southwest": {
+            "lat": 40.6340521697085,
+            "lng": -73.7418121302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-978-6689",
+      "name": "IHOP",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1848,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116414405370578675142\">Rosmery Perez</a>"
+          ],
+          "photo_reference": "AU_ZVEFOWMm6JXcmi_b_NEEDclLR2DTVizzP52SCSmiS4rb7Ef9o3ILGF7e4S9xDyAaAcOI_lPFZfOm0hTkxga0lXtfRqSFGrPLDt5mprzT2YPGLSzjAM2Uz90qe3ODqQioJjqexbB10BnBi9dE6IYVIpLOuxDzDZJWD9w3-WWkHbPlmIOStTaXsL65QYmFPBiHXphZcQu89r0c6T1CoCVLAMiSyrtwPNpzwWeBW72uW6gLVeyJ2Al---WbXn4MsSJXjZxGmbirNshpdYBeDdW-jdMWHRR1DTtNzNF50ft_b66Gm4Gnrx96gsTfG7JvU4_pasiJCz_pEpQ8KdWjPo5Mw1l-gseDPhCaN81zt7eswIokKB6SN6Y9uy7LBJmBH1YwrAVm2G4W_KMPoxXsC4gQgEIPXLY2SHTXaHufw0oFZvtJuugnzg_PqDR7PiyvDMDqecXSZHsZdkb8AhLO_eIXzmcLRVEDj6sgt29fwrnBgAg3Uy_0kS6VkjXaQaPtLOTwsex60ZRPnJab-4MEg_PTZHE6Sj03xvE4neVobq08zHQ-jKIXrcPMFs8235qDMfU8A-q1clf80HP1zh-7n6LuE3zw6PBjev2YGLVXz_EoC2uBl3xGb5jhA9F9Dplm_ot0B",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJaXi4aNFlwokR75G6I_eOkPI",
+      "plus_code": {
+        "compound_code": "J7P5+4R Rosedale, Queens, NY, USA",
+        "global_code": "87G8J7P5+4R"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJaXi4aNFlwokR75G6I_eOkPI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 3045,
+      "vicinity": "254-02 Rockaway Boulevard, Rosedale"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6360859,
+          "lng": -73.7392237
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6374563302915,
+            "lng": -73.7380139197085
+          },
+          "southwest": {
+            "lat": 40.63475836970851,
+            "lng": -73.7407118802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 516-792-0100",
+      "name": "Applebee's Grill + Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101753556373253704487\">Moreno Black</a>"
+          ],
+          "photo_reference": "AU_ZVEFR82X8ZQB-u2m7NgcC2-Fr7XIu0YLE5LCuhDSYILaLDCnGk3-cI4WVyhAKyhBY1AFwvSKNR9WlltbiJDILcYcoOrjHYODQfWIW4us6z1xM64a6tAdDKCi6jVSI6xMVuY0RDCCF3beL2H4nVGrz9xAMGf05fdpbqXpbwr_5Qen6lo7KHTGNILjr0BAXd4XEgxG5y9-0mmm4QRZg2d2wXnvYuPVh7Em5Sr5z2FjJn5lThUKe06dVnStY4xG9AruRLI9PuhPt5RSJmrehmxBP-LbOXOg6_e0HqoDyuhnyJw9uZ6iF0McKBsRqmDVtHLD54Fy-sIqXv3vRJF_u40_8SGpor8osTPfkQKS7CfwCVTAm3Mc7QPty2YcOSX5QBeuJEYUmYcR5ldz4H2mW_vz2gkM7Kin4JuxkfG_EaSB0a-jkROkoYBmOxcBy74Np5mdRtodFiSGjh5asA5Um2mVfsxOtiE9xgpfd84BntdMOS0tq9I9Mrqpfynd226A61wIuVrMKjaMRvm9zJH0797xshHkF85A9QxkLKYkyITsH8iTotgdzq6H1zTgdBLdHS9jG3w9z25jdub1n1FlO5nb4pQtKwKKy21YVIVj9Se5691K-8zdqQQufR5PlkI4Z0F7M8Qr2h2fC",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJDzhkftFlwokRQY-6MeWsj78",
+      "plus_code": {
+        "compound_code": "J7P6+C8 Rosedale, Queens, NY, USA",
+        "global_code": "87G8J7P6+C8"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJDzhkftFlwokRQY-6MeWsj78",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 2100,
+      "vicinity": "253-01 Rockaway Boulevard, Rosedale"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6373624,
+          "lng": -73.7450449
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63872818029149,
+            "lng": -73.7436205697085
+          },
+          "southwest": {
+            "lat": 40.6360302197085,
+            "lng": -73.7463185302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 718-527-7575",
+      "name": "Bayhouse",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105427971712943368967\">\u0410\u043d\u0430\u0441\u0442\u0430\u0441\u0438\u044f \u0414\u044f\u043a\u0438\u043d\u0430</a>"
+          ],
+          "photo_reference": "AU_ZVEG2ISKmCeH9BqGStEZT2tk67M-74CT64uDDxsYx86ihwdeDmmuEia1EmMWYLeXa9fiYKuuvnzxRpmy79M2UNzqtAK7SSzL8dOlZVgN0gDmPmJjOivENhvlg3nm6bhNovPT9WEIXzS2Pe_rBFbP_CzdTcU4AZV5UGGcSudsCKC2siVn5UJzB2WUET21KEiajd5ifwTHh73l5XazDdWnj-xjIhc1289_nD3tBtS3ZdgY1Zx3d99VDvh_zeUmE1ZtQ5XaynGLYZYryYrx_9Fx4spcemptZ3TLWIQ0Z7NSuP-2Bms_q18sdasR1HXUDSGDLKBrmVj--e7AngSwQKr1hn9XrTe84TQM58C158aXeRX-GQ_SqRiQ7TdH9dXi-ieNqh-nuYv9nIIefXPOsHjHLLhjR4BbPWb-u_ie16qo1it3GRsMKIGdUEE48fkPDkXQL5dk3DRkLrx-Em4vclUY_DGH3JRmuIe6KA1RLJfVGQbBii8Fu1v5-Q8RaqBxCwvEd0biteKCw75h7KtqKfyqxnLoA4Gju23-m8i2WbSVMPM_YP9nVY3p02fq3lNyP-PqmEmlMpATvY0Ut7qmumxEpLlJRR_D_0dUxH-e_zEcGGEvmvYygQavEu-hhOsmvqpjgGWIVmG-xzBXFNqkDvS2-HD6X6h8",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJ6Sar1tVlwokRsPZv6QCT_mI",
+      "plus_code": {
+        "compound_code": "J7P3+WX Rosedale, Queens, NY, USA",
+        "global_code": "87G8J7P3+WX"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ6Sar1tVlwokRsPZv6QCT_mI",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1500,
+      "vicinity": "155-57 Bayview Avenue, Rosedale"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6381427,
+          "lng": -73.7407855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6394077802915,
+            "lng": -73.7393440697085
+          },
+          "southwest": {
+            "lat": 40.6367098197085,
+            "lng": -73.7420420302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-269-7242",
+      "name": "Chick-fil-A",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112638823524739545846\">Chick-fil-A</a>"
+          ],
+          "photo_reference": "AU_ZVEGNzPymAY7XTTSX6XwNh7gVK4xJWlUU-646l9jrcB5wjB4-14_VLdsSrjz3mTzBicBm06mabQAGrmQecTqMJ6KefWAHXrXs7LLEvBw3JvH0Lmx-JDYLGVc8ulUO9mD8A-zPSer_KV3La15bTTynLHCxe3uTbw0WpocD7PVN38fJ5aDVSUNL7LzGBU5p7zNBKWSDE2cHFalA5TqghSAZR91yLrc_xIprws8ZrPGAoKlGwlK76arL-gsbXNTUsejfcCDxKk96McywDlaZ3_qGsk0lkHVTqGtvAOPsbaIw7zIFIlIW-v_jtSz08VlGoYEJv6n4D5IgTsI",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJlUbpdtRlwokRky5s1-r6gjA",
+      "plus_code": {
+        "compound_code": "J7Q5+7M Rosedale, Queens, NY, USA",
+        "global_code": "87G8J7Q5+7M"
+      },
+      "price_level": 1,
+      "rating": 3.3,
+      "reference": "ChIJlUbpdtRlwokRky5s1-r6gjA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1351,
+      "vicinity": "24923 Rockaway Boulevard, Rosedale"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6362643,
+          "lng": -73.74080889999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6375840302915,
+            "lng": -73.7392665197085
+          },
+          "southwest": {
+            "lat": 40.6348860697085,
+            "lng": -73.7419644802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-749-5789",
+      "name": "Wingstop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104347125951913407054\">Wingstop</a>"
+          ],
+          "photo_reference": "AU_ZVEFGC2EzHb-7YeF9fzCNA5mgGB9LY7VzSyTL3JV2Cgo6PtseOegS3L1lR-6E8QeKJDcOQoOq7KJGpxY6oI26kzp3_YIaqbqi3PvlalPmSx2dPh9KAAnUpkB6UcQfluwXf_zcFZFoPCVW_l5b_s12xRdeUjyQnGJroK-twjLaLWfRZXmDUN8hW314O3iKsTIuhqFfTDesi0eAL-e95dGjuS_UQNGCOISoO9CvPl5KOCDzsPSjC1k16TAOwe9uYPNyLPPeywNkFH5GQ7Bmf_o3dcHTkGY2n5FzQB3_myc4e-sDi5KTZ7eBvB6_nTqfBNHwhlNTscrh30w",
+          "width": 882
+        }
+      ],
+      "place_id": "ChIJRUDI3IllwokR7UsvoJNyBAs",
+      "plus_code": {
+        "compound_code": "J7P5+GM Queens, NY, USA",
+        "global_code": "87G8J7P5+GM"
+      },
+      "price_level": 2,
+      "rating": 3,
+      "reference": "ChIJRUDI3IllwokR7UsvoJNyBAs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 50,
+      "vicinity": "252-18 Rockaway Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.635794,
+          "lng": -73.7405709
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6371852802915,
+            "lng": -73.73908391970849
+          },
+          "southwest": {
+            "lat": 40.6344873197085,
+            "lng": -73.7417818802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-405-0215",
+      "name": "12.6 Lounge",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4824,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115634035228657463723\">LeoBK</a>"
+          ],
+          "photo_reference": "AU_ZVEFjtZ5fmDbx_MK_dXd4xSlBptwWncFvA6wIXA5zaYs1v1sJ5oKbnD5utedXaJTs-yYeSfb-Bl5e60w-1COATUJtF2vZc-CI9Vhv1qHfXnaOa3HXy5KHoIqpKtjKRg1lBo9_Yn_T2t8fAAuwHzeKmcr5hZI33VqVoEpb-joGenDggwWZQu_5fy19hNBsCbPgaVi78cCvz1POu5mFEFAN9UhSVvLa6m7e-M2PXFhZLgla6lxf-sHZRNjqrKk3AnntIVmlOCX3bQnhePZ-1-3Yk4cWqaYlEvX6fVEpuK2kW4ri5nrm3MWy7Vgfz78zwPaxv0KvVG8irGJyBDTpnwwPChuOJB38HIAeKY0JE3pRiTSBrraTC3kpMVbkTBMxPjouCKnz7iHVf-sSPSJjl0CJaWy0xXO47UrJ3FuyYyp0Jwd3Yr9W86gRdyzOerYgV0hBF6yCqqX7z31iFEc_GteXwOR-g0M-OLOOPkXK26aXHcmlWWsiBcdvyZSzZpGmaAl8Rm3EFjWE10eV9bsXGa9N2I0FI_vzKzBxGDym_tUJRqgtlOjqL71vd8Oof2rZAiqlF75S9z2qNM69IrSURLAChuNsYg-64GxOnSeVdQjEWGxxl3XC2thDERAdegOhcnAn18rigI_Ubnn3f02p68V_SmDoYSs",
+          "width": 3618
+        }
+      ],
+      "place_id": "ChIJUz48l4BlwokR8shDhwyxETE",
+      "plus_code": {
+        "compound_code": "J7P5+8Q Queens, NY, USA",
+        "global_code": "87G8J7P5+8Q"
+      },
+      "rating": 4.5,
+      "reference": "ChIJUz48l4BlwokR8shDhwyxETE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 276,
+      "vicinity": "253-06A Rockaway Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63533959999999,
+          "lng": -73.7404188
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63675058029149,
+            "lng": -73.7391141697085
+          },
+          "southwest": {
+            "lat": 40.63405261970849,
+            "lng": -73.7418121302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 888-413-5074",
+      "name": "TenderFix by Noah Schnapp",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 540,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106770343397655675039\">TenderFix by Noah Schnapp</a>"
+          ],
+          "photo_reference": "AU_ZVEEs2MddI3P-3d8qpwta54a1Lrm5wifY7vHuoaAy8zXiyYhwVc3UDc6rzSTFbA7xSu8_Ia3eZpjgF5uZBB0GAAYA0nRalgKDuYiAGPrTM_GEqdCEDQbeGjJ8ivI9MtxtWaCRo6ev-4jMjmEatCp_VM8AGARb5HYjlHceDtDxAYK05Y0rp0c796szcUWFA01lKFbvTXBOSX8Nq9OmfHBpJD9YHqFopt0TQOxw04_PfqarBsq3TlBC-e7MO60qovrMSwdWmsnXjH_3kgRi-zdamseaSA_npDDA_RWl41fqGh2QPqYKzgQl377PCVlJg7ZGY4uc7XrwPzk",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJFbeO-0ZlwokRXW20D8bQU7E",
+      "plus_code": {
+        "compound_code": "J7P5+4R Rosedale, Queens, NY, USA",
+        "global_code": "87G8J7P5+4R"
+      },
+      "reference": "ChIJFbeO-0ZlwokRXW20D8bQU7E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "254-02 Rockaway Boulevard, Rosedale"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.633461,
+          "lng": -73.73970229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6347604802915,
+            "lng": -73.73828366970848
+          },
+          "southwest": {
+            "lat": 40.63206251970851,
+            "lng": -73.74098163029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 516-371-2880",
+      "name": "Popeyes Louisiana Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106448670008614628233\">Popeyes Louisiana Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEGQkjRQmgj1ez-DS2KL1XC8rcrCtwvfYCdZVZiesTLcAhosViSMIrT-o7h3C7POyPdgoDICff_NXn9EvzyViZbY-s0y5Ibogme5WkfTjtQce_YsV4IYbk4axKtGkrsS38JRAEcyd2YfP5gihsKLTXHzJIhCSu4Z6SXZqoKRM72yMdR0SauH8G1Q8eixePn9enlN9lNeJjUBHfBDw7TihX-rEvFgPiAFZ_EDw7jMJWfgtpEGMopK5jgJQbq8f_QvDnlrnkNkk1-30iSFkNBCUsVvpq1BT5reNtNvmPeriRrV2qee6ZZjV_thZGVt1ZjvupIs9-dm6Hs",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJdSyWD9FlwokR7VTayBKZ4f4",
+      "plus_code": {
+        "compound_code": "J7M6+94 Lawrence, NY, USA",
+        "global_code": "87G8J7M6+94"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJdSyWD9FlwokR7VTayBKZ4f4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 714,
+      "vicinity": "679 Rockaway Turnpike, Lawrence"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6374664,
+          "lng": -73.742691
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63886788029151,
+            "lng": -73.7413561197085
+          },
+          "southwest": {
+            "lat": 40.63616991970851,
+            "lng": -73.7440540802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Wonderful 4-bedroom house 15 minutes from JFK",
+      "place_id": "ChIJfzrNEdRlwokRvJT-z1onhDs",
+      "reference": "ChIJfzrNEdRlwokRvJT-z1onhDs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.634716,
+          "lng": -73.74335479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6361112802915,
+            "lng": -73.7419107697085
+          },
+          "southwest": {
+            "lat": 40.6334133197085,
+            "lng": -73.7446087302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Wonderful 4-bedroom house 15 minutes from JFK",
+      "place_id": "ChIJn-mL3dZlwokRMR8gfe4j5xM",
+      "reference": "ChIJn-mL3dZlwokRMR8gfe4j5xM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6346342,
+          "lng": -73.7393371
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6360279802915,
+            "lng": -73.7379866197085
+          },
+          "southwest": {
+            "lat": 40.6333300197085,
+            "lng": -73.7406845802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-812-2700",
+      "name": "CitySights NY",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1268,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115799944749851562330\">CitySights NY</a>"
+          ],
+          "photo_reference": "AU_ZVEFy8pHFstQuu9wqWPwpKTEPn57pWrUIu7sET364xCZXKeRrzoDoLfUbrugiy8NOvqVMN4IXcqPIfQY7NyJ_uYKfYsETcx4DAsaQHsi_TNxab1WG4Hl1RD_quDkGr1TDznB0qNAwtiZOODMDzpbZTyhSJ8TL9SHNlsA7pk5nQncpXLupUpdPPZYveEoQE3JsSF-nf6UR1v8E6ns6KBXcZyTzL3WttistNjN-8Px_00HDdmge4fliIZNbBcV8oUeesG_dseHZR6mWfWC1ESaQNfL9D0R6YxUBTXMxermWfpI_xvPUgDg1isO_l_eI2DbhiFvf75NgLMc",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ8VOfr1RYwokR03qsCp4k0xE",
+      "plus_code": {
+        "compound_code": "J7M6+V7 Lawrence, NY, USA",
+        "global_code": "87G8J7M6+V7"
+      },
+      "rating": 3.6,
+      "reference": "ChIJ8VOfr1RYwokR03qsCp4k0xE",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "travel_agency",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 512,
+      "vicinity": "700 Rockaway Turnpike, Lawrence"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6438665,
+          "lng": -73.7361531
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6447992302915,
+            "lng": -73.73370634999999
+          },
+          "southwest": {
+            "lat": 40.6421012697085,
+            "lng": -73.73699334999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 516-571-7800",
+      "name": "North Woodmere Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114942698128688010449\">Jeff H</a>"
+          ],
+          "photo_reference": "AU_ZVEHloBvSzF8EL-qRClSHDgJOzwSqouG23m84ae4e_pJICBh7JB0NwscRPQNy3OisuLz3dWWi83sHLrNh9AwewxW5uVqiFJDQALyJOlqCwOq-_tDNq8VpX31Jsnwn8jOQaM40zOQvt9OyHC9R0tV7KVNKT140flyti73C1SjwU_XTmHReJNxjHoEOBMTs25aqNkDJTD_dviCbgA8BZCAG3Vn-tY9Rkb2DPhUUHiMhMB7PhqESODBSIzviGt7Zpeq11gleYniw7tKXROG9RY8jhmdRboZpktpGedJIr8yZf3QnhL2Y5lfD5jbJaCiIkv7VwWKgF7Zu0a5xIXUlCc8I0Ync_sMtykb_lnysnSBFJZInjDf3kCyIO1hHbEQgsFgrHLzOcpvcXa6s7r7YxjwVXfKuSjU5PgqkIbsh4x2wV3N3RGAqeSiyb58NmK_Vhn9iDhG5NrFkv7jWnya5XcVoRZzdbTw2WpoRseSR5WpcUcnYqzDB4nEOJB38aQhKr_tDof2TVEGg_qF4cup_CYpb0IyRukRont4uUADEG7vEPIWShX4mGHWHvbr4EPTeXWZ-xeeGyLDtMNyisu-F5yfZF7RfgkCHYkgObHfkXMULVEY5fNPiduDUIDAhmi7jmStkU6zQJw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJaeJUAy1kwokRDbFZz71m7KQ",
+      "plus_code": {
+        "compound_code": "J7V7+GG Valley Stream, NY, USA",
+        "global_code": "87G8J7V7+GG"
+      },
+      "rating": 4.5,
+      "reference": "ChIJaeJUAy1kwokRDbFZz71m7KQ",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1011,
+      "vicinity": "750 Hungry Harbor Road, Valley Stream"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6494142,
+          "lng": -73.7411583
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6513360302915,
+            "lng": -73.73576775000001
+          },
+          "southwest": {
+            "lat": 40.6486380697085,
+            "lng": -73.74295515
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Hook Creek Park",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111430604062857385749\">Fred-Arthur Jacobowitz (FAJ)</a>"
+          ],
+          "photo_reference": "AU_ZVEGZw1epSwPylGGFAv5pxceWtJgSIQ0iBX6jVki09LXSeubqVr11B6ZgKu2g5yqP3fkWX1gUZZ1A61GFB1l9cyAWv2MROgugtGpzsMK-yxqqxerDgVp6JuA4zxrA15lMVMXycpsz8sQ_VtxIsn_-vEeYNGu2CU4weP79nIau_UCYkb5mGn2eiyE2T4Ik-6ZvaUczBRRV8pi4c-ZDh2U4-jPVTL7XhLjFnkQIbUFxNJdOTfWFUqRTyAr0w4Imm2ympXsvksiKgBQCgsivtje6e61YDvRhdrLkOG89SxXC-bnqyXxhx50uIFiqwL5ubn4pXS-5maXWcnqUtCVEbANvlpyq3SFub5LEXDVoyIxatQCUJ-vxclyTABppT_8CjR8GFK3-Mc23bvaFBMgXzKk5cYxG3OEf6LoFpno5g5GmNC6kocYbTJFA4fM6EKI4TgXjQ_dOrgmhpN1cbWRCBvlI3ifbEJDLXMFNvLoADEiJOAeUKS24dpEbjt06BeWDt6BXofaKmIiSQQuQ6EOE--fmNzWL2oFQTIBskB7XxnZzavUFOZQL7hz3Fp8zdfls3kJV3snbK2rOzwuZ1t86tSU2NIyokgL3oHBy01JBCPFFnwj98wnWAnWzaEczikqVflSeqTnaRg",
+          "width": 6000
+        }
+      ],
+      "place_id": "ChIJSZWNtS5kwokRm4umklJajqw",
+      "plus_code": {
+        "compound_code": "J7X5+QG Rosedale, Queens, NY, USA",
+        "global_code": "87G8J7X5+QG"
+      },
+      "rating": 4.3,
+      "reference": "ChIJSZWNtS5kwokRm4umklJajqw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 87,
+      "vicinity": "Huxley Street, Rosedale"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.639889,
+          "lng": -73.74239299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64119798029149,
+            "lng": -73.7410382697085
+          },
+          "southwest": {
+            "lat": 40.6385000197085,
+            "lng": -73.7437362302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Blvd/Brookville Blvd",
+      "photos": [
+        {
+          "height": 868,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEF76OeZSOu1-zOiLxuFh70zp8idRyDhzVzYW0nP5ZGcasdWwWlANnxqiXe5CbmK1z_NyM7UUl4YYnSgMOT9nY-aLqsmUG3utU9xb4QqIwsxxwRdwtp93LPIDPC9rIeEIspZ8I_aw3D6kmbps39yFgHrIN4tSQ8j2EYvhw0e_ip7JvuJSvgb7tpJhqvqz9eyo93KYyeCuPMEB7bE5PTDWriubP_I6cFNzH3nNK_b2tDU6PwdiqSkBDzGNPN597n3iaBI4E2aEWxlVyGF7yEDsi9WpFvCxPfeT2vgiNfw9nz1Pc0j2GvC4N9KnPYTJ4ptMBdZ3mt_tBAB5QBrZqgPWhYSxVw7re389cxAFdNDG4Jj5tMkk0-TwKl0LHSsC4CydkuJLVCMUk9I7IbUYo-hFasmRYgStR5xB7Sk0XANt_MfEBpWVws3ldRmPvQlW1rzOS_Cr2IeVHsMCvRKN362-usRNmtWF5lm3I2YLl1cKFP36EiCoHVRFqzjgAg5BFzIo3EEJMmh71kLgKPdtYq-9heKfhf9_AiED72F8_096fjtfuL-vmohD8xz55RMn4Lpo9frshzYcYrTSGuj-5HETC1fz2sOkuMzDeyqGuDF2u-yO2lm9hTINiHAjABDAo3r9vFNY98fvLwrlCiSqgsVLg",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ97cJm9RlwokRFQBdu9-uUHg",
+      "plus_code": {
+        "compound_code": "J7Q5+X2 New York, NY, USA",
+        "global_code": "87G8J7Q5+X2"
+      },
+      "reference": "ChIJ97cJm9RlwokRFQBdu9-uUHg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6397239,
+          "lng": -73.74266260000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6410858302915,
+            "lng": -73.7412915697085
+          },
+          "southwest": {
+            "lat": 40.6383878697085,
+            "lng": -73.7439895302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Blvd/Brookville Blvd",
+      "place_id": "ChIJy6UnldRlwokRIczWfzt38GE",
+      "plus_code": {
+        "compound_code": "J7Q4+VW New York, NY, USA",
+        "global_code": "87G8J7Q4+VW"
+      },
+      "reference": "ChIJy6UnldRlwokRIczWfzt38GE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637482,
+          "lng": -73.74065399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6388226302915,
+            "lng": -73.73934136970848
+          },
+          "southwest": {
+            "lat": 40.63612466970851,
+            "lng": -73.74203933029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Tpke/5 Towns Shopping Center",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113651346407313311109\">Nazim Syed</a>"
+          ],
+          "photo_reference": "AU_ZVEGSacfwJV_kV5CpMnoQnC7g6J2E8xiKdN6Mjzs0H6R-v50lMrdDT84PGYmEmxcu_4MCAE9t8Hhii33YeFKZ_c2kkrX9z25I_z7yF_C5D6fGFOqamHz5GYKHj5iIQT9Gzh6CajpIh_zbS5ItbpsnN6dkZeP0WJ_V7H7PnBjl0jiWXeIV8c_ZvaKYpcwX7P07nesIXdJv9DwFpDGLU6r12RQ4JdhK0PwXea-ndemWQxkgZZ08kKCo_QhYSb8kBnu3wbI8uyrswbrQyZvWT55CcPVhFBgnHfKi2rppydVCtXbUx0yoMCNNr21szD9jP2-z3QBt_3Pilxyjdx0G04KyUbdyxWZI5K8xr_CTpjQwt3BDHcyrI3EAvOQaE1R4NatvN_4EfiNvAJVdQiZicvFUZsdeDirKKISGY85mrfHl1H9HrBzIjeHYd2zwfWW1yxzJ5sa7efsU9OUZl_lcsTjRJ4o6GUCRnTms1SDTktqv1Gxmo1AnNyUKSBw8uSuw3R3ugx5NZgOkCQgqiaZrs4I9rQZ1aADlv3YuY_OWo2-_NUaaFYfl5IE6thMmeURbhNlnlpaMdHkLMdKndxs51LE1nTLjRylXd0STRXMKvLdCn2dTv7OPBMuReSQVO4YJOItbldnrtk_Y6Mp5OR22TqEtNmok1h4",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJfZIH69NlwokR4gjyU6edba4",
+      "plus_code": {
+        "compound_code": "J7P5+XP New York, NY, USA",
+        "global_code": "87G8J7P5+XP"
+      },
+      "reference": "ChIJfZIH69NlwokR4gjyU6edba4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63589899999999,
+          "lng": -73.74039499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63720238029149,
+            "lng": -73.73900311970849
+          },
+          "southwest": {
+            "lat": 40.63450441970849,
+            "lng": -73.7417010802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Blvd/Meyer Ave",
+      "place_id": "ChIJ67Z2aNFlwokRid735dT3_T4",
+      "plus_code": {
+        "compound_code": "J7P5+9R New York, NY, USA",
+        "global_code": "87G8J7P5+9R"
+      },
+      "rating": 5,
+      "reference": "ChIJ67Z2aNFlwokRid735dT3_T4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

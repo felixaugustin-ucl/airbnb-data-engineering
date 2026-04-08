@@ -1,0 +1,2889 @@
+{
+  "neighbourhood": "Riverdale",
+  "centroid": {
+    "lat": 40.8970210625,
+    "lon": -73.911377
+  },
+  "fetched_at": "2026-04-06T14:45:09.753817+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.900133,
+            "lng": -73.9125478
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.90144978029149,
+              "lng": -73.91107691970849
+            },
+            "southwest": {
+              "lat": 40.8987518197085,
+              "lng": -73.9137748802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-796-8538",
+        "name": "The Caf\u00e9 at Wave Hill",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109862523157656262699\">The Caf\u00e9 at Wave Hill</a>"
+            ],
+            "photo_reference": "AU_ZVEEZFHbLHt7NGfFGkdn5qeb5zUJ0lLa-3f0he06fNrEixPnkyJRCFekVExjCFH2adzRZSusB57kkqbBVBnwN9ivfRLh7RPISEcJDaEKxMkmSfNbD41S0N6fEtv5r5arayidDCXI805zLOlkmZ8I8JEqZco-BigB4j_QRUtFyWXZ_2hUqCfqGu7iONPEVKCK4q9OpQrUb-tfG-p9JQbRhYax9zsqIMLY4NLK7HkdFbW_649yv1KKcg2tLxCaZBmwAgfrop4795_bYge9wzYHFEgtzsFozEMDpijxzQB14KbrSK4MkPYuhJReWuUjntW3AQ9dtN8I20Js",
+            "width": 682
+          }
+        ],
+        "place_id": "ChIJHYtLnrXzwokRa0ArphwbPYM",
+        "plus_code": {
+          "compound_code": "W32P+3X The Bronx, NY, USA",
+          "global_code": "87G8W32P+3X"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJHYtLnrXzwokRa0ArphwbPYM",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 241,
+        "vicinity": "675 West 249th Street, The Bronx"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8968048,
+            "lng": -73.90995029999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8981391302915,
+              "lng": -73.9085318197085
+            },
+            "southwest": {
+              "lat": 40.8954411697085,
+              "lng": -73.9112297802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "NYC Hidden Chatteau",
+        "place_id": "ChIJP3puZLbzwokRlLSyEMhBLZE",
+        "plus_code": {
+          "compound_code": "V3WR+P2 New York, NY, USA",
+          "global_code": "87G8V3WR+P2"
+        },
+        "reference": "ChIJP3puZLbzwokRlLSyEMhBLZE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8920975,
+            "lng": -73.9104157
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8934977302915,
+              "lng": -73.9090706697085
+            },
+            "southwest": {
+              "lat": 40.8907997697085,
+              "lng": -73.91176863029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Chic 1300sqf luxury apartment residence private building in Riverdale, pool&gym",
+        "place_id": "ChIJA4nbOrjzwokRSQx_xJFiRmg",
+        "plus_code": {
+          "compound_code": "V3RQ+RR New York, NY, USA",
+          "global_code": "87G8V3RQ+RR"
+        },
+        "reference": "ChIJA4nbOrjzwokRSQx_xJFiRmg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8978516,
+            "lng": -73.91144489999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89921178029149,
+              "lng": -73.91008036970848
+            },
+            "southwest": {
+              "lat": 40.8965138197085,
+              "lng": -73.91277833029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-549-3200",
+        "name": "Wave Hill Public Garden & Cultural Center",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1360,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112895812997090311065\">June Marie</a>"
+            ],
+            "photo_reference": "AU_ZVEG1hOKu3Qkaiq8Y5p1hIZtFie11qfaLwLYH28Ffr0MCvd90lUHeh0hhFQYOoJj4H3JALq9CZs2pHUpETLefMmGphr-wSvSn3HnWklWLY264-so8harAF7CLVYS88DnxFuQGlQpKwbyVjv3itkXmvWC7MH2F7O6n1Ppc7M3g2pIRdUw-V9lglmewQba66OW0sYeySllXaR6Pv6JC8TArdb1_MtJ6G6MimY2FlPwj4RcOiYjUnvtnNuDojtHhykkU_fARpUY8d3e5fo_EtCPEwcLPa8uZHpsYtn7DWWdOz7sP_whlW-udt-UYJT-UbAzqAXeQ5uUEXppjT16ztQEmUq2dID82hq0nl1oSuH0tScFHFtzd3bXzF-jKdoYn9e3UGz3Zhs9nrF5vU_AeUSTiCpyDyB5bJv5_Wk75WZ5DQMPnQ4voJj3QDb8rTKJlxTCKv2gB94Gaugo8DQW5PlJqcygnjuG3Y-OaLeima08ONmnLw6kzNaHBANR8mYZzasKpA9ABCn5SomnwNGPGIU8EAIZ3iUhPfztBXgyiMlfu1V0T3LVh0d8Eg2ReDM50j_KLjKP2zLtpZn_Tkpr0q4Nebj1HiivqVuQ875n8LnB7Svy25vAILGDAztN-djP3svFK",
+            "width": 2040
+          }
+        ],
+        "place_id": "ChIJC21UnrXzwokRn8wMoHqA8tw",
+        "plus_code": {
+          "compound_code": "V3XQ+4C The Bronx, NY, USA",
+          "global_code": "87G8V3XQ+4C"
+        },
+        "rating": 4.8,
+        "reference": "ChIJC21UnrXzwokRn8wMoHqA8tw",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "art_gallery",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2155,
+        "vicinity": "4900 Independence Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.9012833,
+            "lng": -73.9053607
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9028627302915,
+              "lng": -73.9040211197085
+            },
+            "southwest": {
+              "lat": 40.9001647697085,
+              "lng": -73.90671908029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Hackett Park",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112878085917799366956\">Hackett Park</a>"
+            ],
+            "photo_reference": "AU_ZVEEevJNTf68Jw8KFCfyL868lnqq2GEdxT4tZbTOvVGEG9C071XZSOJ8HF6JLfFWLURDYOcFVhkjE6EykGJ6YsvuEJ_2xrpStmwusLEGQgRrfh9qxggyPjTLaVKwIp1D1XPeE2cvhP4pIJvkRd1Znf-_zpUmUejv-4uTto8YNu97Y-g4N-64xslMr9OV95BydmCQff7i0HcajybDWuM_LRotgawDb1Sfa4DKl4STickGu6pAsngfxWBFFd4DHzrlxX6r10BiBuM1GM-KpRhJL6sQ9UPdjBProyvVj3ZDpZMskVXx55xbR17uSTpFWp59KXnL7ynl6k5Q",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJ6RTYTrPzwokRCoVaORq4Yl8",
+        "plus_code": {
+          "compound_code": "W32V+GV The Bronx, NY, USA",
+          "global_code": "87G8W32V+GV"
+        },
+        "rating": 4,
+        "reference": "ChIJ6RTYTrPzwokRCoVaORq4Yl8",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 41,
+        "vicinity": "W. 254th St &, Riverdale Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.89474020000001,
+            "lng": -73.91680319999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89606329999999,
+              "lng": -73.91542246970849
+            },
+            "southwest": {
+              "lat": 40.89099250000001,
+              "lng": -73.9181204302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Riverdale Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1597,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105729244515542327801\">Riverdale Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGS-ntsv61VnKZEG54s7gvFn4v8UUKmZn9aSlbdLCeWwQsFref8N5exdEeF1V5zzxiyvOrfXfe0NdnpwLl0rudLnbPtTkq3UfyKFx7EqwGp2nhUkyDKbn48FHMf1J4USA95ET2l1D0xCcoVF_RmsTjQfPKtIZGTCmROcOeCc_ImgQhsJhoAm3XgNHYuAuy-uUcHxQboDLNEghUVdvPFxUZCm-W5EO_BgnAyKMkZi04FxrJXARpxs3soVlKlitHve3Wcv-ZZv06myFhkZQ85Fawi5PUuSTsiT9ScQbU631AFq_7YTyIyssuWLQ9k8-cz1NafHTO5dh0",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJ5XqulcjzwokRLbErAt6m1cg",
+        "plus_code": {
+          "compound_code": "V3VM+V7 The Bronx, NY, USA",
+          "global_code": "87G8V3VM+V7"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ5XqulcjzwokRLbErAt6m1cg",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 258,
+        "vicinity": "254 Palisade Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.9023267,
+            "lng": -73.9050506
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9035497802915,
+              "lng": -73.9034133697085
+            },
+            "southwest": {
+              "lat": 40.9008518197085,
+              "lng": -73.90611133029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Vinmont Veteran Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112247345152133962290\">Vinmont Veteran Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGMgW3lNo8jgFXUrtDpeFj_rCVOAHIoZk1XBZTOJTnL8gmAhqoD0_aEUwcW5D22KMbgVIv1Mr7bbzFbNFEa-plTwjZuZU7E3gVWD3e2MkCGO5YCdnFNSrK3z5kIiDgmUAsuosM6txNUsnSFXtlstc2NiZCLUndhbgmP61i2w3qmVdgQubFE5mwBU01d4ixXa5wudd6nObjjyn7Q4n1O61ajr8HyFijmjHiog88Ogv4XVQ_TKtBlZ5bAb1X5shqS46o147E_4Mkx4EIV7uhrkr84o2bn1e5NReFmtx1QKm5h4r-AkmYEQVj868YrzjGaLJ3j70Mib9o",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJx4M_yEzywokR8f5VoMz4ydk",
+        "plus_code": {
+          "compound_code": "W32V+WX The Bronx, NY, USA",
+          "global_code": "87G8W32V+WX"
+        },
+        "rating": 4.4,
+        "reference": "ChIJx4M_yEzywokR8f5VoMz4ydk",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 161,
+        "vicinity": "5410 Mosholu Avenue #2408, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8893303,
+            "lng": -73.9083338
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8906258802915,
+              "lng": -73.90692036970849
+            },
+            "southwest": {
+              "lat": 40.8879279197085,
+              "lng": -73.9096183302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Riverdale-Spuyten Duyvil-Kingsbridge Memorial Bell Tower",
+        "photos": [
+          {
+            "height": 3784,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+            ],
+            "photo_reference": "AU_ZVEH2eiqR79P_QeXj30dJ8LcTChi6DYH_EDBTXwPdS0pdypF5clO8EALBn_Si6z6yBP8sI2bNvBUt_1gjTefZ_cMiThLx7OTAWZyHCD8qpGCAgRBSU8gY-3B5JEoipiriKkq5_2tUtZK8NlP0pREhqoAitDgxMndU3nxtRkw_ZpYJ8Vw1pPVehxVV-8gaUWiVmmgMYUquu2auJQBd9fVouvYOthf9T0Qy8A03C7sRqygR09EVItNagpYh7rlR2Kx96MgROjyQOPnzNmvNc7-zn3TQ39J-vH_vSEkqIUlZ7e07e1fA3Mom5dubRMWW2fgJf4Rp_JS91BQFMRGSlPiNak747x6r-lu6c66fGw1aPI__VGIes0OcRaDZWdkgxFcTBCBOgKUxF4uHFvWWPctS2DBE0PlJ48iC_znoldsvZ-s6I2ZtGOJnNM8mMJAj57GnD2WkK-9Mm3rCgy8PQx176HsjAcJ0qEE_sR8Bg0AL_4USGuPuYqO8oBVgbU2lIsqjdlodlt8Lav6sqXgDDBmhZHI3cLI9JBTe34yf8Kap5vtgu9VLm1P2SJCnXRH27rfvZ0ZshsAhhrmzHFuyuml0PxC_NTq8TcUE9QeswJY7xEsqLfGeZAZgdnBQkA5dPCJz-7eEjIj8",
+            "width": 2637
+          }
+        ],
+        "place_id": "ChIJw0A6CujzwokRbMNMfNv7uzs",
+        "plus_code": {
+          "compound_code": "V3QR+PM The Bronx, NY, USA",
+          "global_code": "87G8V3QR+PM"
+        },
+        "rating": 4.7,
+        "reference": "ChIJw0A6CujzwokRbMNMfNv7uzs",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "Riverdale Ave. &, West 239th Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.88920909999999,
+            "lng": -73.9083875
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8905612302915,
+              "lng": -73.9069614197085
+            },
+            "southwest": {
+              "lat": 40.8878632697085,
+              "lng": -73.9096593802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Bell Tower Park",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+            ],
+            "photo_reference": "AU_ZVEHIrlY74oE4rZsjB70ONZiKJeAdCEQ2avrdMhniW-UnoT_G3LJ7acFsc6xqgA4ck-sj_JhAJY0HkNtZpmzb4d5CPQ4y3UfvoO-TogITqe_s1iui1InMt0tHU-KHI_XXp7gpZF5pnVfO3BAB1RT5S6dgL3f7jZpXuzyYyjNK5kUwbPO4t8fbg48xauefg3oVBkC25Sz1ymXAJhcOIALJwnxWcyFb0RTrn1o0XXnHtfvt5V9wo4kouXo35CC-MHltsytllJUiz37jt-F1KQhZoTlYwS8Dlh4UVRdZ3hMY_cazg9mY-l5r0E_l7st4v1nqeboVv3K_wHuJ9hPPPk8FE4oyjOHD_Xi2ZYmsfWau0-aSZL2X0yDxjjlL5iRorbLaN5K8Iy0MMy9nGQqhUOkmmYWxEPcSNI02fU5Ft4SJxOyXkXF4VZ6QrHbcPmj8Os7XXOsEPQzzDdFh6BUqa41R56h1VaDy0V3OPl-fakppBs6npk5n_xzzAgg3ZV1eCUoO8x1Tn_ph2W9uRT6SftTHBMsNaHUAarKjdqHuS8x5lE2fpq6EYIEM8vL028F5y7GcipA2iAttbogpUg0eoc2bLkKMyUoTiqLqq3qByOV-mvQGg7zmcrCKaESAHYax0ddO",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJX3Y-ErnzwokRypketPDHtW8",
+        "plus_code": {
+          "compound_code": "V3QR+MJ The Bronx, NY, USA",
+          "global_code": "87G8V3QR+MJ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJX3Y-ErnzwokRypketPDHtW8",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 56,
+        "vicinity": "W. 239th St. &, Riverdale Avenue, The Bronx"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8937245,
+            "lng": -73.90791349999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89507423029151,
+              "lng": -73.9065952697085
+            },
+            "southwest": {
+              "lat": 40.89237626970851,
+              "lng": -73.90929323029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pky E/w 246 St",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEGOKdWppUc5VPGir5K4s-xW40k2yZXHkbmn7nm9bPFrkCpXhV9WSrvveXLedxPh4plYkrfOLc6_iDpziMmncAgMGW4zYJxmrVJ6yhARFv32U9Ac-w3mBAme9DcXEkiKTANof7-uF7UCuF97fUIfam2W_eXqYt5geSs_b2_cyqAY3pi-zUAjG2HEWJNqSwqLkffAtviuLCqGNLcJzdwxgf4I-PUTulUb4EEO-b3dvIHpuI_eUeEe638N6715Y1c4eka0_0fZbTBRKZDc4E-wBoEIAkVtbVeSTYAtSl7mAw4YW6lv4wFWa5BvP5KzaZsd878drP39mmq8xn02aPxSgo6Hn3QpK2NcxbK0kFL6-CkyI2neEFAvJcf-rc2snbr-DeLdKDpBco87mAqinFLu-DRg42vAy5sq8WN6OCQsDEvjdYNE4rLUdYbU_tHZLZJPrwHmThjS7Gt0tPmMmSJnYyP1CqL6QHL1KBybtG5LEmsAIcaGRfTP_UcwQmMJhzaRA9iDd16exIqRMw45U0y3Z-xjtanNTEUrHIBBenJ-I3bKjCiHpXpSy8UdtK9xVslFTGKQsVcxslhm28lxt-W3u8Z_LNz7YdqnkOHLb3ucs27J-RxruMoccvZtxnps02Ajmp10JkBy",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJZ5eiP7fzwokRk0m3HiKc8z0",
+        "plus_code": {
+          "compound_code": "V3VR+FR New York, NY, USA",
+          "global_code": "87G8V3VR+FR"
+        },
+        "reference": "ChIJZ5eiP7fzwokRk0m3HiKc8z0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.897064,
+            "lng": -73.908295
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8984127302915,
+              "lng": -73.90693556970848
+            },
+            "southwest": {
+              "lat": 40.8957147697085,
+              "lng": -73.9096335302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 249 St",
+        "place_id": "ChIJVwkXmbbzwokRTdA1M21p6v8",
+        "plus_code": {
+          "compound_code": "V3WR+RM New York, NY, USA",
+          "global_code": "87G8V3WR+RM"
+        },
+        "rating": 5,
+        "reference": "ChIJVwkXmbbzwokRTdA1M21p6v8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.897736,
+            "lng": -73.907578
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8990894302915,
+              "lng": -73.90626006970848
+            },
+            "southwest": {
+              "lat": 40.8963914697085,
+              "lng": -73.9089580302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 250 St",
+        "photos": [
+          {
+            "height": 3876,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEHiXujBgrvLCuVnfbZD-PwlyK8PVuZTdT3txE7jKkJng5jyKiq9HCjEMnB6bGzbzR5aiqnMPNGAGNjhd6B-CAptA1wgO5zs6qhSGF88VrEEY1CUI9RoHjaBRUFlsJRFY13CeXEFq9B-Cb9NY_hys89hXd2Dfb6cwDDrGZht95kK2xjleTxtmLX2pl78NJt0S4WePQIwoHTCTX14iv3mP-jerlh8aj5bZ8Ht2LgtpyrLUuA6BF5OT0niv-ZhHyVvz6nR1Ql9OaQ41VSLNJfbh-1ZMe4mDcbD72X3nlZWjM_U0nTyYPkkoajaW0IaF3HB_GGN8CCqRtrWbxz8hOc-9ab7S-rEGKJJZNtOpfK0bHFh7K3zj3OXnpgQr3PjG_K6zQtOLkT-tvPPfww8pWRl4iq9H7_olj5LHIJCYJ2lO36p5IbFGB_IV3eHifgijUgHxbuG1ucqC9msa9agbUz0glIZYgNN83bE6XXa3kEU24zfMaqnOq6APzOnclQmVGRXR-n5weiOX7DoCmlyUNm3NZjSJgRGF-IAUXQM-VYt5Oz-f-vyXJKpykVFHRWSYCQ2ohP1zD2aIDVGqlRCdAUiMRy1l-YlDb5N8thuUExDzAQWUGnW36kXwSHNXwUArpd6RhUWPA",
+            "width": 5168
+          }
+        ],
+        "place_id": "ChIJpec4HLTzwokRYrf3u7AnnfQ",
+        "plus_code": {
+          "compound_code": "V3XR+3X New York, NY, USA",
+          "global_code": "87G8V3XR+3X"
+        },
+        "reference": "ChIJpec4HLTzwokRYrf3u7AnnfQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.899132,
+            "lng": -73.90769999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9004742802915,
+              "lng": -73.90633241970849
+            },
+            "southwest": {
+              "lat": 40.89777631970851,
+              "lng": -73.90903038029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 252 St",
+        "place_id": "ChIJH9-jabTzwokRsylw46-2uOM",
+        "plus_code": {
+          "compound_code": "V3XR+MW New York, NY, USA",
+          "global_code": "87G8V3XR+MW"
+        },
+        "reference": "ChIJH9-jabTzwokRsylw46-2uOM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.89911699999999,
+            "lng": -73.906868
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9004776302915,
+              "lng": -73.90553941970849
+            },
+            "southwest": {
+              "lat": 40.8977796697085,
+              "lng": -73.9082373802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 252 St",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEH1_hpH5R_6vmE6CTQhBAKG0KljVjAvZKelSU-UeEAvXUNYXcInCFHqBAjKtWf3JzAYYqGgpMGfclyl6-PpsdMC5HTT3ppo368i4fVz3GvkfyCkOvOpzxDgvVyXIk7bIzngzCCkjxALWVilgnV8ZZ8CWama7L1uXsKdT8zExh0l_dX0lB85uVsVRsxOMMFfn0jjXGshV2YPOklIyK1WXgvQ6sCKMp2gUgQR1uLTZWEPYtF62bcJ3adn5fG9UwiXYRpSKBCjY997fTbX7pzhxPBoLKdF86BIwex3RDuj92Dk4gRYTWpOYNxzBLDIl-JxjVbZMOfR-n9hlaM8sfOhrfb5ZQtosXB-RSBb41m8waSDAhIUS-y9efqRfHAVctCycanToSwAnWZb7fGKiIFMAy9Ka_0aEHx_fTlFgTdi9PD9YCJZleJimnscwqjHwfgRQ6BVHW0k1KfqRQdxC3eO8TDTsRhPYwWXOt0K5Iw26Lw0Y8-YZTr4RP7Sa4W8My29_c78pLbaq9qSvWpzZPEyLHV0YqXP8ffptJ2vgEcBkpWtzqvIsfNMVgkiv9OUEMu_8vxS3lCXiX4lDU3KqGeYQNyMjv0R7meOwUkFJJ4ZaH9yKChAlZ5U6B5TiUAoB4Rd",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ206VebTzwokRzHZ7hURgl4c",
+        "plus_code": {
+          "compound_code": "V3XV+J7 New York, NY, USA",
+          "global_code": "87G8V3XV+J7"
+        },
+        "reference": "ChIJ206VebTzwokRzHZ7hURgl4c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.893913,
+            "lng": -73.907906
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89526273029149,
+              "lng": -73.9065869697085
+            },
+            "southwest": {
+              "lat": 40.89256476970849,
+              "lng": -73.9092849302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 246 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114357169243993813468\">Alexander Kosmina</a>"
+            ],
+            "photo_reference": "AU_ZVEFhxG4b2z2wVKHNDPPi4b3I0k4wE0w1gSrRTClL3pYLmfo5aZaFRkWIxdEnxVdDN5ghs3ZmNNHM6SxNJE7ifR7newI47E395OgwcXmhCO4U1ZkAZKH0OwnUpwPFk9wgZAgqNt1MR0WRlCxFLKGKLjOCJNfOFTKTE-khXUKX0zB9kRouwt3rngHLwaAfynn1gwqvOMI0gkIjL-E0Ga5Ih2h2s7zHKqa3oQK_65Rk-KrGoxuFbBEF7qB3eAdYvyw1njJ4hX-P7lpEAefj9f6s0sO1vvDy-DkmZbOAkMgpaxGvptscWSqzUbBm7itDU-9FIolkmJ0WczLn03_unQWgjuXIcCFztI7bDrBCOdk_DkL_1S4yANdZ56oAyhcCHOsac0U9_Gby5hpyza9SHQsEED_5VFxw9aPuFhUMocTzMMf8lziLZGevzfDPBDB5612XEHs-lmmEF_pZrC0YCV_LgSnEMMC_bqX-IAv3T8Dfkg8FFL8dz6eTcz39WAFDS2xdDD4yyDQzrNckFGAiMHPMOvjHadVLCsiofEs9OznYRjxm2RAdQaQae-4gdG3pCOaEz6fwv-77X3YkoqMUlhi3cY0zM-xZKdSHJJnlFCVU-SgKow_am-TYNefJjgBtRovE",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJC_rWPbfzwokR1QD8TkxiNfo",
+        "plus_code": {
+          "compound_code": "V3VR+HR New York, NY, USA",
+          "global_code": "87G8V3VR+HR"
+        },
+        "rating": 5,
+        "reference": "ChIJC_rWPbfzwokR1QD8TkxiNfo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.893475,
+            "lng": -73.908592
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89482598029149,
+              "lng": -73.90724656970849
+            },
+            "southwest": {
+              "lat": 40.89212801970849,
+              "lng": -73.90994453029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 246 St",
+        "photos": [
+          {
+            "height": 3876,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEEwwoTAw4f7yJ0g4wJ4wDNqzmmvRS87V-LxoReGDhmuJngq2q1Jv6cCJ7b6vzNAf6cevzpxo3jCPenyLoaLp0W6NG7MLum24kn0tdkNaMzgrmN-KywtaXCtIwwt5vUo5-uUxjakgjzV_hkFPqHjTc97ZqSW5Aik-Ny34Kdndb2VC-PkqkYH8SVqxzSd14Q_gE9IPXBCjVXFHExfYb6omVYpwm1XLe6MscpNDSmvnyasVv9vUBk1OZHvVp9u9ZOhH6M4h_Bnm_ZQdIB2YFQnBfqCykQFxXfaGdYnu5nf1-dUe_DGiWQiiUtlEgClD_g9SgJ5HY4kg1IXSC2FZV91UL0DLOTlD5Q3A7BiB0KMN2-es3RZ919-UYC88qgilkQMjPVeoLQ4EzElHSceM2i2MxmTSdKZ9_mWTY47O56137j5vr8hzyOxMT2qFTyJy4lMcA-2Kpj6J1Eull6VhuFrOiL_ejtx7XUjmq5mTJpg4X0A6R2G2xrev6uB2lwj2pjiEyvxjtqXEI7aXOOq6AMcywt8tOldH4dSmk0enCVCe27AWK4BiwfOXtwibGfxVa1CFJLXpkfmvzwcRYMgfY-1btjkiabc1bKkC-yctNLk8gEDNiZ9WWWPjsJmUlfQlSmiu1OjSp3T",
+            "width": 5168
+          }
+        ],
+        "place_id": "ChIJd13cbLfzwokRM_bHZFhPcno",
+        "plus_code": {
+          "compound_code": "V3VR+9H New York, NY, USA",
+          "global_code": "87G8V3VR+9H"
+        },
+        "reference": "ChIJd13cbLfzwokRM_bHZFhPcno",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.89373,
+            "lng": -73.90789
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89508018029149,
+              "lng": -73.9065888197085
+            },
+            "southwest": {
+              "lat": 40.8923822197085,
+              "lng": -73.90928678029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 246 St",
+        "place_id": "ChIJhw6hP7fzwokR3BUEVW8zwDg",
+        "plus_code": {
+          "compound_code": "V3VR+FR New York, NY, USA",
+          "global_code": "87G8V3VR+FR"
+        },
+        "reference": "ChIJhw6hP7fzwokR3BUEVW8zwDg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.899288,
+            "lng": -73.906662
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.90066003029149,
+              "lng": -73.9053532197085
+            },
+            "southwest": {
+              "lat": 40.89796206970849,
+              "lng": -73.90805118029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 252 St",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEGZIFDHjwaazcbQnIOTTviZUDpeiKZRZqqrZVXp_zO7qRo97OyRqgtmKh1SpVAukva4rW5XjrW39BhYklwAKJdEa-psq0BCNuImqZKFKtWlWfhqGAamQlrjsi9ZLERJcV-K0fhtzsa36fusbiTFOqdqaPiAKT2erczeTfjcuLs0yng4HqKtveS6_ukdaR9qxT3ppY_Y1N2_e-yV7BgkH0VUBiBHblZ3cGU7-3Rp3ZeSRcsDTt7WTfGuZDW3Sc0CWWpBHZGwtYWr6acwuFr1-7QDbsyKy6BCzLM-j4IOYXXnix9tVfNAwIi5TyuOM8GbYIZWp7Y-lrQUlStYQadPBh_Ph5YqSXS3nb6ZZC5SDrNqsLmQytX5I5JjX7tZUcZuQYLPsWRFSH6-R2k4anru2M-w5FQaT5yKO5gkbxr-hYHSSr5N6zADzqufxo9xgemI5Y0z2qFODYvCFbzecBE9PxkO8-5X3f7cisN3e9k2weOp6uU4lltKU7HEtRNCsuhGB4Nh2VcwQO-BVFB7H03YCORGBWzsipt9HPcbm41DsbqEkxHY9dyT4TXg45-P3U6WK6oR7k1-k3Kz-f7mmqnI27GB36AchuPcS9RrE3665s6ptV7BR3T7ewL8jcIFNsNL",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJKYDoebTzwokRyp6uHeUldYU",
+        "plus_code": {
+          "compound_code": "V3XV+P8 New York, NY, USA",
+          "global_code": "87G8V3XV+P8"
+        },
+        "reference": "ChIJKYDoebTzwokRyp6uHeUldYU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.893486,
+            "lng": -73.907921
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8948349802915,
+              "lng": -73.90659556970849
+            },
+            "southwest": {
+              "lat": 40.8921370197085,
+              "lng": -73.9092935302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 246 St",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106740271529447475993\">Anna Kolyadintseva</a>"
+            ],
+            "photo_reference": "AU_ZVEH3ubnlsIr0tUi7teIOO5OosAJns81nwTUs-Or-pw1VJWntPs_ITnJyZ5YjQ4d2gqp5suLmiEE9JRQaG430e2a7flOZ1uDtNxcSJ5IIPAjGRrK8tCHwihSGRcfSoLeG7UZTwROZyrLDWHoJVQMocxRfkgdgyxTwFHOf5J-K9VTFmfu1ULiezmkwIZ467qFl_KyFv2vmetKSXO6Z7oAYq7pZya1Tz_MCcyNRxmzJY_28En1r21mWFxylLbuG5_aq-VsrS1NbLVPybPVNMdEfR1NWKDHv9AVlgpY6Q1scmrOR4i5EAVUcs64uiXu_KkCdORm7Unx9U8ziX2xlOS7fjVWmRxGgKSqCngzarqAfW67U4YwtWlblFkM4khd9_knPBbg-P8nlGQqFCqGbHJUQGSsDpqTH31PcyTrSIC6QSXswSyXt2obhoj3PO-8rwsLgCwZSYhMh1h93FOoyrRbZYC-5viwux_BEsMeluzd6Kn9cRyEXesmBvNqQRo9LGJ3KtIl1MDRSeVo38vti9nz1uulZ5aDvCVtR0TK-KLuxZCRifa0dwd0gsIQxL-THY8cu4G2i_xMqfnjcUl85WUlsaRrxv_kPUqBUBpKKYu1xm11r9zNIBIYtEKXC-F2VSQzWAo30Wg",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJC_rWPbfzwokRrUBfbukTetE",
+        "plus_code": {
+          "compound_code": "V3VR+9R New York, NY, USA",
+          "global_code": "87G8V3VR+9R"
+        },
+        "reference": "ChIJC_rWPbfzwokRrUBfbukTetE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.892857,
+            "lng": -73.908569
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8942060302915,
+              "lng": -73.9072025697085
+            },
+            "southwest": {
+              "lat": 40.8915080697085,
+              "lng": -73.90990053029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 246 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102166650211445795118\">thelmita la guanaquita</a>"
+            ],
+            "photo_reference": "AU_ZVEFlEbgUbIWl--nwZ05KVa_Q9GV0h1Y1r-cWEaJWoBIcgvvznuK904ZOVnNDiInrIwCZrI64YpfsDlJ4bj6kadW8RtRkZCqcsSEiRKQuyuzkP88gs-2uT7-v-N-8nq947GMrxuY9DUBCVtm8S18VJkamVIb3uRErz9qQOg7embsM_LiJbad1AXhIwvj8I0lUxAvI6UAUqPY0wmgOhpDFoteiDno_KldwPvSb3s9cI4P8hGfT4fCqU7hnyCRuSue30-MuZKxZa0VTmrByCQBOQAnOJ2FrlpVShdrzndlPk68o5Te0hMp8WYdj5TZ4UPwErC67Wx2ZCmdXVBPB1TYUuxuR6oBJaugnVlOuquFxXwWNMpCwlRNbYZahnBRMFLz5bY8QAnb2OwRLWfs78MicSJtsoNQ05AEkUDXwSohtzXwEIEatF5rxbN2diYD6UwzkxvckSYB_DnlFdrq20igS3prntroqZiT1HMU2qAI6-iwM9ya6bRXqfXnzUba3QHHHGHe9mnnKSgKKOwcrHwyxOGtdN4l8rSfDV0T7PuuALkK7uyK5zRWXL9ulzcGGNJW2hWcSRn2rY6WiC_-KNQxwcLHPnC8jYb3h5Awk_Y5dJcK8iDoQ5tQRsJqBXmHUwMRg1ScD4g",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJDzCqb7fzwokRofT8rYV-ySA",
+        "plus_code": {
+          "compound_code": "V3VR+4H New York, NY, USA",
+          "global_code": "87G8V3VR+4H"
+        },
+        "rating": 5,
+        "reference": "ChIJDzCqb7fzwokRofT8rYV-ySA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.90193,
+            "lng": -73.905926
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.90327228029151,
+              "lng": -73.90455116970848
+            },
+            "southwest": {
+              "lat": 40.90057431970851,
+              "lng": -73.90724913029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Riverdale Av/w 254 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103702106515698420079\">Merita Gjoka</a>"
+            ],
+            "photo_reference": "AU_ZVEFb6XdG97QPvL64O9RxejLRC8WyGbDXZUIUl-ioC3whk3Vou2TkWSXtYA9uogB4bkC-kWZvIcXBvGo0fPpdo9q8r6tkPTCMOMDEwlN6OayQbsoN88q5UseHUDEl1a4HAxWeOg_ScLxIGi8M7bCI-vnCHMk7b2DX91YrU5oetsXRX2iyx8c8HqeqH0TueDFYohGM_-dUonccpjqJMzrAtHU1db5RRuwMZgT4R4mkdYGqJW-p7eNmiHxjjthnpNstwWv1qNHoErjkH7NMrwewS5F9KmLxaxRxR98m_mmu5mHKCz9BTUjNfmERqRqZrrilCbcQaLmbAaj5D12Sa2iTvp29D7HcAX_NpJzGeEsZWNg303WEEqawgOH4WBDuhptwLWnRgaCvv-GZw7DE9mvgyrnvEe36A43BIZDL30nesInmmW57w053Qxd4kjjGm5e6pTWMAdDtK-V-hApNIyhPh_9Kn47HD7OMzcSxRzQF4-OukDO9ua_AE9tNI4RBB-bBnzcx82FGTJE70jmnXe-xktE9i2IfguRYhcMwK4cK9TX_hty_soAMTwYnL1YCfQ3K-WYKgtqgziJbusAtysUuHwyJ4tLDBoVY1_eTsAZbPScg0MqI6dTh5A1SJDeOoC_TRYpcDJtYa_UU9u7IofvRrSRFgUg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ0Wm5UrPzwokRuVfxj2xmsjI",
+        "plus_code": {
+          "compound_code": "W32V+QJ New York, NY, USA",
+          "global_code": "87G8W32V+QJ"
+        },
+        "rating": 5,
+        "reference": "ChIJ0Wm5UrPzwokRuVfxj2xmsjI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.901821,
+            "lng": -73.906174
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.90311328029149,
+              "lng": -73.9048488197085
+            },
+            "southwest": {
+              "lat": 40.90041531970849,
+              "lng": -73.90754678029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Riverdale Av/W 254 St",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEFgod-ql00ing8ytjtUG23dBZpwXxYepNfXozjwJ3RBFjHXZeyJMZV07N3oefFtsCUUKYZ1LEqW8HD1xGq-ikXgeMXRD5hCKAVhAA4W3VVlp-Q0eOXGaTuIVu8-9qMmzgMCsXVmCQT6U74scBcNjtvsmrlRg8wt_YqqXXsSTJo3n8QT6IGDKnXIZTc4nOATEeohL3afONbJUvRxf4ZAcAQRxK0WRCwbbSeFUqVf6oEYBwVuW0vyy53C4Z8AGxrzzM4Uv4GTAdLwO9MBfqJ5_X4ji5wTfvv8UZnlew8YcfECpf5NRPKqlPfPBeDuHA9nGB_jKgfIjWa7bDlywAC1oIlEbImWrqKyWRzxH5BwfM7ZvFIIE-Xa9ykf0XHNNSMBaCDt1zZKuqRcXSRA0tVoPQQS68PGSrCeJ6dMqer6rxJGamRpIP3-uIZWl2eG_Rex_9yQ_NCXA8bv9Q1Gf1KVg6TeDykX79SK2nHEBfO6pWtinyy6LvfXhlHy4U8TX-Niv6cMJuWTT_x_1WNoC6Qr04IfBAzOG1-IqjJaIKtFP5yU8EcUOwuHBiLpebAUQQGNR1Dwb8wSvFbtrUKzWVkXeypQ7Tpb9wV8LbRHOzycvRTW8N6a_wVVwM9srZhoG-l5leMMOw",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJzRMbU7PzwokRrhDsNv0f6AI",
+        "plus_code": {
+          "compound_code": "W32V+PG New York, NY, USA",
+          "global_code": "87G8W32V+PG"
+        },
+        "reference": "ChIJzRMbU7PzwokRrhDsNv0f6AI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.90201999999999,
+            "lng": -73.90576899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.90338423029149,
+              "lng": -73.90447881970849
+            },
+            "southwest": {
+              "lat": 40.90068626970849,
+              "lng": -73.9071767802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Riverdale Av/W 254 St",
+        "photos": [
+          {
+            "height": 3876,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEG70B8P2bNVYvmUKDcOA2a1BtA7I31TJjoAnRjobUXoRZM9YIbE8aqxWwATUUtpELa_rS4DoXLio20oBu9bx9pszgIH17YC8H-AmUmW6rTUV0qUD05BPYHfvBVedIUpRa-Kcu_P7cSxTbjQT1qiAnX4ERsaKd5zH_zgfo0io47KE1TF8vzxPF8vQ6Ph5HUgkFFCG-BhjSGXGMoxICvJFCxD0nXdgJaetPJHhVnAIT6B_cTEsXKflgZelq0-Zk94eLH-1QSy_uRHwQNtnQ0d9IKTDaq0fHiqwidGsxWJdR5R7Uc4K_83uXo6N9o-Duu8_uSp9dtsQogT_hhZ1e2FjvSPP18lIDkHgsY6RdN-ti_P_O9ufngczH2qJ3oWyxBtJQLDLdRbOwOTxf1tPzFPueZ9B-Ls_hI80KwitG0FlvN9pOE1lI4J7WAM2NSbXyl3L1hdSGv7SHmHn8P4vM2Giw94pUy7YL9tJFoHstaDLo0GNZeeBjLO6EjApWZ5p629yK2zKXqZhvEByWmDgav2nG9L5ndxqDxWj8wrcPDwrbNT6haeClOaDTKKrSopRcbRvlakH13esSLW7PIj0JwgE70REzAosCAEl4mE0-MghMT0rLL42pvKsr5YU6WUoQ4uBmiGkQ",
+            "width": 5168
+          }
+        ],
+        "place_id": "ChIJQTzHskzywokR97ix_rHIWsY",
+        "plus_code": {
+          "compound_code": "W32V+RM New York, NY, USA",
+          "global_code": "87G8W32V+RM"
+        },
+        "rating": 5,
+        "reference": "ChIJQTzHskzywokR97ix_rHIWsY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.889652,
+            "lng": -73.909019
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8909949302915,
+              "lng": -73.9076373697085
+            },
+            "southwest": {
+              "lat": 40.88829696970851,
+              "lng": -73.9103353302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 239 St",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEHr6pBl84Fd8fkX7o9rKiHxW0ST2eigR7Ix6Scs8LNpmGxsxoeBiMxmD88FGNJPW0ZPIE4-UaCRlSPQISo9gL-5ewGO0FMoIZG1gXxmG8N1ABi0lbRMVtk7Pmhm2MbBxiiOkKY_4vwjSr9ySMZCISGzxrfxngkcJBzFkJjnLHo2-g2kAfjUYZ-J7E22txWtPlnsbvq91yEV5iWS4oq22g6OFvb5LfDxI3Ctbk5E3_yzBDB-WexN8KTB1lmQhTNmcAC58w0azL0B0_44DRjSeSRh5lzlejfqTtU58pN_z6lXrdOMf_ikH6EMkZ-M-7Pa2PEbVUg9P_XkWmKNQG1GBYeVgK9fWB05DQWx1yUBGpd1fWqaHsXynFZ5xhkOzN_J_aXWf8xhqSgoLOaNyYNNIFtLCB5Bw_-w99c0M4jfvhtbbdiEAdE4bjP9rnVcGkKioWmNm1FeRoDJ1BbmSs87SnXr7VzUCqy70hssvt1iRe4Soha8EQ5Q0OKNCNHRMUwd_W4im-x-8umIjHeA7k3Pj6DcPXn1WhVVC2VgSPNb2A6Lwr2hD7pMI5bks9lps8Zo9iDQXoMGgleDnxUtBl3RptZVbdAfS2WmyZmp08qGg33KRgsExupi6w2iKL2Zskta",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJLSvlBLnzwokR7b3XNwmN-6o",
+        "plus_code": {
+          "compound_code": "V3QR+V9 New York, NY, USA",
+          "global_code": "87G8V3QR+V9"
+        },
+        "rating": 5,
+        "reference": "ChIJLSvlBLnzwokR7b3XNwmN-6o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.889648,
+            "lng": -73.908051
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.89099683029151,
+              "lng": -73.90673806970848
+            },
+            "southwest": {
+              "lat": 40.88829886970851,
+              "lng": -73.90943603029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 239 St",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEFoBHrVzH18lHnJvz309Je7Yb-u8eaOO-vZJUgTXyyLh3AauBeoWbHcqtGhQTTy4h2L4dmNxf0D_wcy2Tdl3_YP3DZRxKX-PHmTgcMSqL35BpmYcHYIkUui073dkHnwn2Z-6x327HMkXEOAWSgzdIYNcyg3OqrLOeih0KqMuDq1MUYFxyAE2U5QwZFI26C9IBz4e_m6m3eScaaVh5z0LxeGSnJzdxariIU1tMU4KLrmiBg6OCOaiQIpRp3YpkCX0JFvDU5idg-JO1bbdZCS_rA7m6apTmyK_7MrnZRLDFrOePg4vLuBv2brAefJZ1TASci9zmprb_jN8lshK9YbHa2BbOiRCN26-mn55Mbgfls4yOVaqDOoLbQkSUsQ_4H7--rvs2myVFYf3t5TD68OK3Rxn0Wo2uoPTufS2ZhV8WquO9j6v-U3TPG4g20oJeLYvuC1d4FIwvY_eNu2H_yURR5YmtDuVHiI9XIYnb8OFXdzJLSm7-VoUuVLAqXPdKUz7MfUshIldPn2QKAS40PANXjL1tXaVH8bE_I8wWzY11KHypIWmQNiWNWOKBFxRBipmHaCOLbzi9Us0KKHCUJJ5IOtzscIwpdLH5kiXN1g2oXlH37owuGsvzEUBP1k4o5W",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJMSstc7nzwokRrTx7ym_Kca8",
+        "plus_code": {
+          "compound_code": "V3QR+VQ New York, NY, USA",
+          "global_code": "87G8V3QR+VQ"
+        },
+        "rating": 4,
+        "reference": "ChIJMSstc7nzwokRrTx7ym_Kca8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.90463580000001,
+            "lng": -73.91355229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9061126802915,
+              "lng": -73.9120236197085
+            },
+            "southwest": {
+              "lat": 40.9034147197085,
+              "lng": -73.91472158029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Riverdale",
+        "photos": [
+          {
+            "height": 1284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115127736742875860443\">Eastern Hudson Rail Films</a>"
+            ],
+            "photo_reference": "AU_ZVEFoIBoBblz1ulMT6YQuFrIqX2qvgDlgOHJVoyObTboha-sH13DcqzHo7BUm0x65phBG_-ldGkl_Nki-OZ-EIT_rYKYMH_3zau8t61AwdReM9qbTRFISa5Xfu3s0S0CqseIm3FrenfXPzteoEZCyHtfR3CXSsCKid2RV8YaBKcnmPLByU9ui4ToUP_tmFawZib1yL4Ijz-QUmaNH1rQw4jNSYgxsXthfPtUlmGxhL_J1m3ftHeVhJp8PaSFF-16XZlfW8ypTTOV5PRpFe4nugpY2stmugWTxslCHsB2nSro2CS6nqmRdARBJnm4OjlkExfU049XKqD0b44LXUyVAvLehGfC67v6wwS4MoEnIHU5RY9GlOm42-kdEJjK3_mCs8HBdBE8BXzNfvAsw0llgnp_iphxtHPRXgdoJVI3CejLQAlEeyPTcncn-1tIkxQQfIPm4RO-tfIhXAIFzkunIJcJ7SHwrb3jNPTlPdWiLFF6eEKPirp4ZXckq7jlGP6RR55fuNog7HuBH-MUJUtBgIHLyAcMkPCVvKw8NO8xhg3ktFmRPBwICC3qenPq_ZyHOaxtYuIG7rQNN2XirnWYtEwpy4CAlQs2LiV6f9RhnnbkTlpdohemsTAhZyFoQJJPI_cUtvA",
+            "width": 2280
+          }
+        ],
+        "place_id": "ChIJiQoeOTXywokR1d8tAioggOM",
+        "plus_code": {
+          "compound_code": "W33P+VH New York, NY, USA",
+          "global_code": "87G8W33P+VH"
+        },
+        "rating": 4.6,
+        "reference": "ChIJiQoeOTXywokR1d8tAioggOM",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 53,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.889137,
+            "lng": -73.908577
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8905045302915,
+              "lng": -73.9072103697085
+            },
+            "southwest": {
+              "lat": 40.8878065697085,
+              "lng": -73.90990833029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 239 St/Riverdale Av",
+        "photos": [
+          {
+            "height": 2112,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEFvBDhE-JwjsaN5yOg8QQ-WwI0byY_dZ3DFaZliQkEOwAYsIczFP2PE4bg-jWkH6w9eAeFVhwKTcl_cHciR26qAC0GFrjILAB1pntkfVWQ6igJ8fiRV_xHktGxnjJwYuvgkqNhMspjti8xRb8_MrSHr-O_OnV39qYQ7moAgcyzbXwEn2b5xJL99rWAJl41YaQjT3AsHe_sl8iskPp851OQ85FP8_lPwXVgqVDxhQAAUgqicWacBDxWCEGlgn3CeG8CC3DbpJMGEuF9GD-oZGuVSFN7P4cLLJi52O295_gYNm1z1TBujwmajL8UR8sBtUY1TrtGKAUD0x-n4dHDEJzjgFVi18zrXb78wwiAn5x2nYn39rI1QMC0yOJkr2Hg-pEof8ssVHdmrSSxVLtNxIODul12av5jM29s9jtOp5b0U2b6rHfro5oW30duMuaw067dQ-wCw42KLuhK1RfNcSt5d1OiWAWoDE_Hu5e5jXERlTeTFLmgCIYPmOgopoo8iwSpwuC0AR_MAp_ZqnZ-fh5yb-6prXbXElCPjHaUTO1bx_p6NBo6BYFVovNqDyS_fgM4mj6aAqwtJuG6JK3X2keowWcgjGbm4E6F6zJbFTE2QwxkBf3mbhxP-PNeQOGJ_sbgtmw",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJgYQuEbnzwokR93PQxwK7Plg",
+        "plus_code": {
+          "compound_code": "V3QR+MH New York, NY, USA",
+          "global_code": "87G8V3QR+MH"
+        },
+        "rating": 4,
+        "reference": "ChIJgYQuEbnzwokR93PQxwK7Plg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.903896,
+            "lng": -73.905243
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9052312302915,
+              "lng": -73.9038321697085
+            },
+            "southwest": {
+              "lat": 40.9025332697085,
+              "lng": -73.9065301302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Riverdale Av/W 256 St",
+        "photos": [
+          {
+            "height": 3897,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113315106605985970109\">Andrew Kremnev</a>"
+            ],
+            "photo_reference": "AU_ZVEHnHY2B9az6iHbI8zyHwmewX6f8NKAdki5wqH45YHKmyJaTuGbtVxCMfJ99LxDoewtXTzzZLxbvZKZIfAb7NHCfVq7pDtljDfvEPEAfX41AJ1AzAgG5rcpSsUPUF9kBp8CPlBCZ1Oahgzsc1jxuWpAL2MsziNuPdmGbsuw80ovt9D4sprtJdGdka3vY-1SkXaFptc6PIFoH-WMi3rDS3DK1Jjjh3ZBIzY1PWXwiOMDEE877gjS39ch3-ZknWLRrbF8SPVNPq1vNl-FLXSt7pk9sl5amw14kjGaYQzgGs7bXvmi2stNcNosl4z94XugwS_Mf-dziTRok-eci5BlQErKvaM-tTnPHytjC48ilMrFklgJnShJZQcnwm68IBXfKTytH-qABvfmOe1PHiErrrGf2yZI8DyUfxHl7wzSGW6AcWJARbk7am-umDvFYKek7O7Rva2k6p8WCFsfIXumLMjXYwS0va6tTrZxbHgGjmr3mnLgivNNyEr0oTpNUSPBVaoUJzfjuZR-JbTed2-lNWg9Sf3U-CvqYj814Zpt1Jn4X4INK67Cs6rqa530JmcpaeJ8q7pPFrPOWuI_PxGKvGN2120G7jc-eW9BuAoIQc3ljCEwzRdnLDEPm70MLCU5KlgfciCocpSItNJe5k1RdY-Q1H_g",
+            "width": 1846
+          }
+        ],
+        "place_id": "ChIJP0DdjEzywokRkEjACes0x10",
+        "plus_code": {
+          "compound_code": "W33V+HW New York, NY, USA",
+          "global_code": "87G8W33V+HW"
+        },
+        "rating": 5,
+        "reference": "ChIJP0DdjEzywokRkEjACes0x10",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.888565,
+            "lng": -73.909706
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8899137302915,
+              "lng": -73.9083569197085
+            },
+            "southwest": {
+              "lat": 40.8872157697085,
+              "lng": -73.91105488029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 238 St",
+        "place_id": "ChIJj3H82LjzwokR13JbxSR8LOk",
+        "plus_code": {
+          "compound_code": "V3QR+C4 New York, NY, USA",
+          "global_code": "87G8V3QR+C4"
+        },
+        "reference": "ChIJj3H82LjzwokR13JbxSR8LOk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.9041115,
+            "lng": -73.905022
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9054681302915,
+              "lng": -73.90368426970849
+            },
+            "southwest": {
+              "lat": 40.9027701697085,
+              "lng": -73.9063822302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Riverdale Av/w 256 St",
+        "photos": [
+          {
+            "height": 3232,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEEcM2eSpau1YVTslDvh8GaaprmEFeGZDMVESiNT6M858lvTD-vCnjFZn1kR2kJelTRpfHJ_CctHpKzeeozE7ZgH-F1dD_nfNaIHLvu6mDXr9CBoEWHhuzVakmpMru14j1yBkNTIzbUFoPyMk4_vUphVkeOiO2F9YZhkpQZ68s7D706HOnrfWwoZDx_nPS9CGnfxZAydGo3Vvzqlm4B_GBESo_Ts_bH_1CiYI2K7LYG8KuI-QCA54nQCh9eXh-a3Lledn31r6Dl3ELIeWeFqaKTNnG6vVwJYffZaDV6n7YLhgYUn5RN-KZEMcEBR8apwqz3fsosoN2VCsV2Bt9rpPr6HOWJEhD00nHy3dFLUAof6efwScsiy0e4aVfMhmWOGcE9q75_n7XbmTNvUrqpa5tar8iiPEuGwCBcYs4XCSpgb7FjkrZU8fddrIWwveqIPFvFg8yV7SeUA2U2kyBknSNxZBFIQJOKdFNDI05kqsDZ7cQWzjQKVlgIzrGlJK_txrTtJv3Ry1LCBcFZxTzSGp4MieHUKgQrNYsLRqjy-qFy-Wgbi-fGDZLPbvoqnmW5gSG6tQFIjw10eooXF6fDqfFG5IbtD3PSSmI0iIe3g0W81x_itR_PLYnGcAD1i5Pe0-qg",
+            "width": 14092
+          }
+        ],
+        "place_id": "ChIJk8bp9EzywokR9J9_Gy0gHg4",
+        "plus_code": {
+          "compound_code": "W33V+JX New York, NY, USA",
+          "global_code": "87G8W33V+JX"
+        },
+        "rating": 4,
+        "reference": "ChIJk8bp9EzywokR9J9_Gy0gHg4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.904331,
+            "lng": -73.904816
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.9056855802915,
+              "lng": -73.9034957697085
+            },
+            "southwest": {
+              "lat": 40.9029876197085,
+              "lng": -73.9061937302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Riverdale Av/W 256 St",
+        "photos": [
+          {
+            "height": 5168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEGU4yrmYTbqlmfZjkmm42UizJErqR-ojX2MRQqgI-jvoQdXaKdfj1IA_V65EXWn0RRqiIa7kikLW2ejUnNEx5CblHcVUX-DRKkOtgoCJ3W5tYYVtAoYQY400EqyR1Cin40jmALIXDBq1xS-67InJVV0r932Bfzcq0-q7-o3FW3K-rZGfWU0YpHey-PNGFBIFZzxrILRiOCEa_nOqlJ7AVO1PjmCMEqfxySR4pHiyuy8TiTeu89aE7F2CoXdM9hbuXwmt78UhDHx9xJoyzyO3hDqXCx4asByp258FbuNkgXBVFcd6XNx6hFTBFOBiK83dMN_G0r4Ar0H-4R1blF36DP718-DuCBrg3_pz5uVVaVrASIHIaun9ydlEbIMJmmAoLG7Ei6QUNJ5LxymcQTx8Ql3KaZerZwzWU3PSc7hUTkHOmzeao28f4seU1VEG4_E3ZyhumffYyTlhi0R8-VddFouBOJq6MWNQuFhr40_Gdb61cPUcY2eFo2jd1iGnGBcmzXk9rX_CzD7OEi_JLu0lzA6JORiM7y0_KQmTVyfbyowhetJvThjj5wrStY2R2Dbh6AzYyNd48kmJm4jmaJbccP0fzMMo85b0_Bof9dl8iSvyVm_-DkfOSOSdoPSVbrC",
+            "width": 3876
+          }
+        ],
+        "place_id": "ChIJP88rX0zywokRsOkMRPy-0pQ",
+        "plus_code": {
+          "compound_code": "W33W+P3 New York, NY, USA",
+          "global_code": "87G8W33W+P3"
+        },
+        "rating": 4,
+        "reference": "ChIJP88rX0zywokRsOkMRPy-0pQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.900133,
+          "lng": -73.9125478
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.90144978029149,
+            "lng": -73.91107691970849
+          },
+          "southwest": {
+            "lat": 40.8987518197085,
+            "lng": -73.9137748802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-796-8538",
+      "name": "The Caf\u00e9 at Wave Hill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109862523157656262699\">The Caf\u00e9 at Wave Hill</a>"
+          ],
+          "photo_reference": "AU_ZVEEZFHbLHt7NGfFGkdn5qeb5zUJ0lLa-3f0he06fNrEixPnkyJRCFekVExjCFH2adzRZSusB57kkqbBVBnwN9ivfRLh7RPISEcJDaEKxMkmSfNbD41S0N6fEtv5r5arayidDCXI805zLOlkmZ8I8JEqZco-BigB4j_QRUtFyWXZ_2hUqCfqGu7iONPEVKCK4q9OpQrUb-tfG-p9JQbRhYax9zsqIMLY4NLK7HkdFbW_649yv1KKcg2tLxCaZBmwAgfrop4795_bYge9wzYHFEgtzsFozEMDpijxzQB14KbrSK4MkPYuhJReWuUjntW3AQ9dtN8I20Js",
+          "width": 682
+        }
+      ],
+      "place_id": "ChIJHYtLnrXzwokRa0ArphwbPYM",
+      "plus_code": {
+        "compound_code": "W32P+3X The Bronx, NY, USA",
+        "global_code": "87G8W32P+3X"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJHYtLnrXzwokRa0ArphwbPYM",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 241,
+      "vicinity": "675 West 249th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8968048,
+          "lng": -73.90995029999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8981391302915,
+            "lng": -73.9085318197085
+          },
+          "southwest": {
+            "lat": 40.8954411697085,
+            "lng": -73.9112297802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "NYC Hidden Chatteau",
+      "place_id": "ChIJP3puZLbzwokRlLSyEMhBLZE",
+      "plus_code": {
+        "compound_code": "V3WR+P2 New York, NY, USA",
+        "global_code": "87G8V3WR+P2"
+      },
+      "reference": "ChIJP3puZLbzwokRlLSyEMhBLZE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8920975,
+          "lng": -73.9104157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8934977302915,
+            "lng": -73.9090706697085
+          },
+          "southwest": {
+            "lat": 40.8907997697085,
+            "lng": -73.91176863029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Chic 1300sqf luxury apartment residence private building in Riverdale, pool&gym",
+      "place_id": "ChIJA4nbOrjzwokRSQx_xJFiRmg",
+      "plus_code": {
+        "compound_code": "V3RQ+RR New York, NY, USA",
+        "global_code": "87G8V3RQ+RR"
+      },
+      "reference": "ChIJA4nbOrjzwokRSQx_xJFiRmg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8978516,
+          "lng": -73.91144489999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89921178029149,
+            "lng": -73.91008036970848
+          },
+          "southwest": {
+            "lat": 40.8965138197085,
+            "lng": -73.91277833029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-549-3200",
+      "name": "Wave Hill Public Garden & Cultural Center",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1360,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112895812997090311065\">June Marie</a>"
+          ],
+          "photo_reference": "AU_ZVEG1hOKu3Qkaiq8Y5p1hIZtFie11qfaLwLYH28Ffr0MCvd90lUHeh0hhFQYOoJj4H3JALq9CZs2pHUpETLefMmGphr-wSvSn3HnWklWLY264-so8harAF7CLVYS88DnxFuQGlQpKwbyVjv3itkXmvWC7MH2F7O6n1Ppc7M3g2pIRdUw-V9lglmewQba66OW0sYeySllXaR6Pv6JC8TArdb1_MtJ6G6MimY2FlPwj4RcOiYjUnvtnNuDojtHhykkU_fARpUY8d3e5fo_EtCPEwcLPa8uZHpsYtn7DWWdOz7sP_whlW-udt-UYJT-UbAzqAXeQ5uUEXppjT16ztQEmUq2dID82hq0nl1oSuH0tScFHFtzd3bXzF-jKdoYn9e3UGz3Zhs9nrF5vU_AeUSTiCpyDyB5bJv5_Wk75WZ5DQMPnQ4voJj3QDb8rTKJlxTCKv2gB94Gaugo8DQW5PlJqcygnjuG3Y-OaLeima08ONmnLw6kzNaHBANR8mYZzasKpA9ABCn5SomnwNGPGIU8EAIZ3iUhPfztBXgyiMlfu1V0T3LVh0d8Eg2ReDM50j_KLjKP2zLtpZn_Tkpr0q4Nebj1HiivqVuQ875n8LnB7Svy25vAILGDAztN-djP3svFK",
+          "width": 2040
+        }
+      ],
+      "place_id": "ChIJC21UnrXzwokRn8wMoHqA8tw",
+      "plus_code": {
+        "compound_code": "V3XQ+4C The Bronx, NY, USA",
+        "global_code": "87G8V3XQ+4C"
+      },
+      "rating": 4.8,
+      "reference": "ChIJC21UnrXzwokRn8wMoHqA8tw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2155,
+      "vicinity": "4900 Independence Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.9012833,
+          "lng": -73.9053607
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9028627302915,
+            "lng": -73.9040211197085
+          },
+          "southwest": {
+            "lat": 40.9001647697085,
+            "lng": -73.90671908029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Hackett Park",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112878085917799366956\">Hackett Park</a>"
+          ],
+          "photo_reference": "AU_ZVEEevJNTf68Jw8KFCfyL868lnqq2GEdxT4tZbTOvVGEG9C071XZSOJ8HF6JLfFWLURDYOcFVhkjE6EykGJ6YsvuEJ_2xrpStmwusLEGQgRrfh9qxggyPjTLaVKwIp1D1XPeE2cvhP4pIJvkRd1Znf-_zpUmUejv-4uTto8YNu97Y-g4N-64xslMr9OV95BydmCQff7i0HcajybDWuM_LRotgawDb1Sfa4DKl4STickGu6pAsngfxWBFFd4DHzrlxX6r10BiBuM1GM-KpRhJL6sQ9UPdjBProyvVj3ZDpZMskVXx55xbR17uSTpFWp59KXnL7ynl6k5Q",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJ6RTYTrPzwokRCoVaORq4Yl8",
+      "plus_code": {
+        "compound_code": "W32V+GV The Bronx, NY, USA",
+        "global_code": "87G8W32V+GV"
+      },
+      "rating": 4,
+      "reference": "ChIJ6RTYTrPzwokRCoVaORq4Yl8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 41,
+      "vicinity": "W. 254th St &, Riverdale Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.89474020000001,
+          "lng": -73.91680319999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89606329999999,
+            "lng": -73.91542246970849
+          },
+          "southwest": {
+            "lat": 40.89099250000001,
+            "lng": -73.9181204302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Riverdale Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1597,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105729244515542327801\">Riverdale Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGS-ntsv61VnKZEG54s7gvFn4v8UUKmZn9aSlbdLCeWwQsFref8N5exdEeF1V5zzxiyvOrfXfe0NdnpwLl0rudLnbPtTkq3UfyKFx7EqwGp2nhUkyDKbn48FHMf1J4USA95ET2l1D0xCcoVF_RmsTjQfPKtIZGTCmROcOeCc_ImgQhsJhoAm3XgNHYuAuy-uUcHxQboDLNEghUVdvPFxUZCm-W5EO_BgnAyKMkZi04FxrJXARpxs3soVlKlitHve3Wcv-ZZv06myFhkZQ85Fawi5PUuSTsiT9ScQbU631AFq_7YTyIyssuWLQ9k8-cz1NafHTO5dh0",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJ5XqulcjzwokRLbErAt6m1cg",
+      "plus_code": {
+        "compound_code": "V3VM+V7 The Bronx, NY, USA",
+        "global_code": "87G8V3VM+V7"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ5XqulcjzwokRLbErAt6m1cg",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 258,
+      "vicinity": "254 Palisade Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.9023267,
+          "lng": -73.9050506
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9035497802915,
+            "lng": -73.9034133697085
+          },
+          "southwest": {
+            "lat": 40.9008518197085,
+            "lng": -73.90611133029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Vinmont Veteran Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112247345152133962290\">Vinmont Veteran Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGMgW3lNo8jgFXUrtDpeFj_rCVOAHIoZk1XBZTOJTnL8gmAhqoD0_aEUwcW5D22KMbgVIv1Mr7bbzFbNFEa-plTwjZuZU7E3gVWD3e2MkCGO5YCdnFNSrK3z5kIiDgmUAsuosM6txNUsnSFXtlstc2NiZCLUndhbgmP61i2w3qmVdgQubFE5mwBU01d4ixXa5wudd6nObjjyn7Q4n1O61ajr8HyFijmjHiog88Ogv4XVQ_TKtBlZ5bAb1X5shqS46o147E_4Mkx4EIV7uhrkr84o2bn1e5NReFmtx1QKm5h4r-AkmYEQVj868YrzjGaLJ3j70Mib9o",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJx4M_yEzywokR8f5VoMz4ydk",
+      "plus_code": {
+        "compound_code": "W32V+WX The Bronx, NY, USA",
+        "global_code": "87G8W32V+WX"
+      },
+      "rating": 4.4,
+      "reference": "ChIJx4M_yEzywokR8f5VoMz4ydk",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 161,
+      "vicinity": "5410 Mosholu Avenue #2408, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8893303,
+          "lng": -73.9083338
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8906258802915,
+            "lng": -73.90692036970849
+          },
+          "southwest": {
+            "lat": 40.8879279197085,
+            "lng": -73.9096183302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Riverdale-Spuyten Duyvil-Kingsbridge Memorial Bell Tower",
+      "photos": [
+        {
+          "height": 3784,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AU_ZVEH2eiqR79P_QeXj30dJ8LcTChi6DYH_EDBTXwPdS0pdypF5clO8EALBn_Si6z6yBP8sI2bNvBUt_1gjTefZ_cMiThLx7OTAWZyHCD8qpGCAgRBSU8gY-3B5JEoipiriKkq5_2tUtZK8NlP0pREhqoAitDgxMndU3nxtRkw_ZpYJ8Vw1pPVehxVV-8gaUWiVmmgMYUquu2auJQBd9fVouvYOthf9T0Qy8A03C7sRqygR09EVItNagpYh7rlR2Kx96MgROjyQOPnzNmvNc7-zn3TQ39J-vH_vSEkqIUlZ7e07e1fA3Mom5dubRMWW2fgJf4Rp_JS91BQFMRGSlPiNak747x6r-lu6c66fGw1aPI__VGIes0OcRaDZWdkgxFcTBCBOgKUxF4uHFvWWPctS2DBE0PlJ48iC_znoldsvZ-s6I2ZtGOJnNM8mMJAj57GnD2WkK-9Mm3rCgy8PQx176HsjAcJ0qEE_sR8Bg0AL_4USGuPuYqO8oBVgbU2lIsqjdlodlt8Lav6sqXgDDBmhZHI3cLI9JBTe34yf8Kap5vtgu9VLm1P2SJCnXRH27rfvZ0ZshsAhhrmzHFuyuml0PxC_NTq8TcUE9QeswJY7xEsqLfGeZAZgdnBQkA5dPCJz-7eEjIj8",
+          "width": 2637
+        }
+      ],
+      "place_id": "ChIJw0A6CujzwokRbMNMfNv7uzs",
+      "plus_code": {
+        "compound_code": "V3QR+PM The Bronx, NY, USA",
+        "global_code": "87G8V3QR+PM"
+      },
+      "rating": 4.7,
+      "reference": "ChIJw0A6CujzwokRbMNMfNv7uzs",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "Riverdale Ave. &, West 239th Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.88920909999999,
+          "lng": -73.9083875
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8905612302915,
+            "lng": -73.9069614197085
+          },
+          "southwest": {
+            "lat": 40.8878632697085,
+            "lng": -73.9096593802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Bell Tower Park",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+          ],
+          "photo_reference": "AU_ZVEHIrlY74oE4rZsjB70ONZiKJeAdCEQ2avrdMhniW-UnoT_G3LJ7acFsc6xqgA4ck-sj_JhAJY0HkNtZpmzb4d5CPQ4y3UfvoO-TogITqe_s1iui1InMt0tHU-KHI_XXp7gpZF5pnVfO3BAB1RT5S6dgL3f7jZpXuzyYyjNK5kUwbPO4t8fbg48xauefg3oVBkC25Sz1ymXAJhcOIALJwnxWcyFb0RTrn1o0XXnHtfvt5V9wo4kouXo35CC-MHltsytllJUiz37jt-F1KQhZoTlYwS8Dlh4UVRdZ3hMY_cazg9mY-l5r0E_l7st4v1nqeboVv3K_wHuJ9hPPPk8FE4oyjOHD_Xi2ZYmsfWau0-aSZL2X0yDxjjlL5iRorbLaN5K8Iy0MMy9nGQqhUOkmmYWxEPcSNI02fU5Ft4SJxOyXkXF4VZ6QrHbcPmj8Os7XXOsEPQzzDdFh6BUqa41R56h1VaDy0V3OPl-fakppBs6npk5n_xzzAgg3ZV1eCUoO8x1Tn_ph2W9uRT6SftTHBMsNaHUAarKjdqHuS8x5lE2fpq6EYIEM8vL028F5y7GcipA2iAttbogpUg0eoc2bLkKMyUoTiqLqq3qByOV-mvQGg7zmcrCKaESAHYax0ddO",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJX3Y-ErnzwokRypketPDHtW8",
+      "plus_code": {
+        "compound_code": "V3QR+MJ The Bronx, NY, USA",
+        "global_code": "87G8V3QR+MJ"
+      },
+      "rating": 4.5,
+      "reference": "ChIJX3Y-ErnzwokRypketPDHtW8",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 56,
+      "vicinity": "W. 239th St. &, Riverdale Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8937245,
+          "lng": -73.90791349999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89507423029151,
+            "lng": -73.9065952697085
+          },
+          "southwest": {
+            "lat": 40.89237626970851,
+            "lng": -73.90929323029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pky E/w 246 St",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEGOKdWppUc5VPGir5K4s-xW40k2yZXHkbmn7nm9bPFrkCpXhV9WSrvveXLedxPh4plYkrfOLc6_iDpziMmncAgMGW4zYJxmrVJ6yhARFv32U9Ac-w3mBAme9DcXEkiKTANof7-uF7UCuF97fUIfam2W_eXqYt5geSs_b2_cyqAY3pi-zUAjG2HEWJNqSwqLkffAtviuLCqGNLcJzdwxgf4I-PUTulUb4EEO-b3dvIHpuI_eUeEe638N6715Y1c4eka0_0fZbTBRKZDc4E-wBoEIAkVtbVeSTYAtSl7mAw4YW6lv4wFWa5BvP5KzaZsd878drP39mmq8xn02aPxSgo6Hn3QpK2NcxbK0kFL6-CkyI2neEFAvJcf-rc2snbr-DeLdKDpBco87mAqinFLu-DRg42vAy5sq8WN6OCQsDEvjdYNE4rLUdYbU_tHZLZJPrwHmThjS7Gt0tPmMmSJnYyP1CqL6QHL1KBybtG5LEmsAIcaGRfTP_UcwQmMJhzaRA9iDd16exIqRMw45U0y3Z-xjtanNTEUrHIBBenJ-I3bKjCiHpXpSy8UdtK9xVslFTGKQsVcxslhm28lxt-W3u8Z_LNz7YdqnkOHLb3ucs27J-RxruMoccvZtxnps02Ajmp10JkBy",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJZ5eiP7fzwokRk0m3HiKc8z0",
+      "plus_code": {
+        "compound_code": "V3VR+FR New York, NY, USA",
+        "global_code": "87G8V3VR+FR"
+      },
+      "reference": "ChIJZ5eiP7fzwokRk0m3HiKc8z0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.897064,
+          "lng": -73.908295
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8984127302915,
+            "lng": -73.90693556970848
+          },
+          "southwest": {
+            "lat": 40.8957147697085,
+            "lng": -73.9096335302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 249 St",
+      "place_id": "ChIJVwkXmbbzwokRTdA1M21p6v8",
+      "plus_code": {
+        "compound_code": "V3WR+RM New York, NY, USA",
+        "global_code": "87G8V3WR+RM"
+      },
+      "rating": 5,
+      "reference": "ChIJVwkXmbbzwokRTdA1M21p6v8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.897736,
+          "lng": -73.907578
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8990894302915,
+            "lng": -73.90626006970848
+          },
+          "southwest": {
+            "lat": 40.8963914697085,
+            "lng": -73.9089580302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 250 St",
+      "photos": [
+        {
+          "height": 3876,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEHiXujBgrvLCuVnfbZD-PwlyK8PVuZTdT3txE7jKkJng5jyKiq9HCjEMnB6bGzbzR5aiqnMPNGAGNjhd6B-CAptA1wgO5zs6qhSGF88VrEEY1CUI9RoHjaBRUFlsJRFY13CeXEFq9B-Cb9NY_hys89hXd2Dfb6cwDDrGZht95kK2xjleTxtmLX2pl78NJt0S4WePQIwoHTCTX14iv3mP-jerlh8aj5bZ8Ht2LgtpyrLUuA6BF5OT0niv-ZhHyVvz6nR1Ql9OaQ41VSLNJfbh-1ZMe4mDcbD72X3nlZWjM_U0nTyYPkkoajaW0IaF3HB_GGN8CCqRtrWbxz8hOc-9ab7S-rEGKJJZNtOpfK0bHFh7K3zj3OXnpgQr3PjG_K6zQtOLkT-tvPPfww8pWRl4iq9H7_olj5LHIJCYJ2lO36p5IbFGB_IV3eHifgijUgHxbuG1ucqC9msa9agbUz0glIZYgNN83bE6XXa3kEU24zfMaqnOq6APzOnclQmVGRXR-n5weiOX7DoCmlyUNm3NZjSJgRGF-IAUXQM-VYt5Oz-f-vyXJKpykVFHRWSYCQ2ohP1zD2aIDVGqlRCdAUiMRy1l-YlDb5N8thuUExDzAQWUGnW36kXwSHNXwUArpd6RhUWPA",
+          "width": 5168
+        }
+      ],
+      "place_id": "ChIJpec4HLTzwokRYrf3u7AnnfQ",
+      "plus_code": {
+        "compound_code": "V3XR+3X New York, NY, USA",
+        "global_code": "87G8V3XR+3X"
+      },
+      "reference": "ChIJpec4HLTzwokRYrf3u7AnnfQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.899132,
+          "lng": -73.90769999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9004742802915,
+            "lng": -73.90633241970849
+          },
+          "southwest": {
+            "lat": 40.89777631970851,
+            "lng": -73.90903038029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 252 St",
+      "place_id": "ChIJH9-jabTzwokRsylw46-2uOM",
+      "plus_code": {
+        "compound_code": "V3XR+MW New York, NY, USA",
+        "global_code": "87G8V3XR+MW"
+      },
+      "reference": "ChIJH9-jabTzwokRsylw46-2uOM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.89911699999999,
+          "lng": -73.906868
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9004776302915,
+            "lng": -73.90553941970849
+          },
+          "southwest": {
+            "lat": 40.8977796697085,
+            "lng": -73.9082373802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 252 St",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEH1_hpH5R_6vmE6CTQhBAKG0KljVjAvZKelSU-UeEAvXUNYXcInCFHqBAjKtWf3JzAYYqGgpMGfclyl6-PpsdMC5HTT3ppo368i4fVz3GvkfyCkOvOpzxDgvVyXIk7bIzngzCCkjxALWVilgnV8ZZ8CWama7L1uXsKdT8zExh0l_dX0lB85uVsVRsxOMMFfn0jjXGshV2YPOklIyK1WXgvQ6sCKMp2gUgQR1uLTZWEPYtF62bcJ3adn5fG9UwiXYRpSKBCjY997fTbX7pzhxPBoLKdF86BIwex3RDuj92Dk4gRYTWpOYNxzBLDIl-JxjVbZMOfR-n9hlaM8sfOhrfb5ZQtosXB-RSBb41m8waSDAhIUS-y9efqRfHAVctCycanToSwAnWZb7fGKiIFMAy9Ka_0aEHx_fTlFgTdi9PD9YCJZleJimnscwqjHwfgRQ6BVHW0k1KfqRQdxC3eO8TDTsRhPYwWXOt0K5Iw26Lw0Y8-YZTr4RP7Sa4W8My29_c78pLbaq9qSvWpzZPEyLHV0YqXP8ffptJ2vgEcBkpWtzqvIsfNMVgkiv9OUEMu_8vxS3lCXiX4lDU3KqGeYQNyMjv0R7meOwUkFJJ4ZaH9yKChAlZ5U6B5TiUAoB4Rd",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ206VebTzwokRzHZ7hURgl4c",
+      "plus_code": {
+        "compound_code": "V3XV+J7 New York, NY, USA",
+        "global_code": "87G8V3XV+J7"
+      },
+      "reference": "ChIJ206VebTzwokRzHZ7hURgl4c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.893913,
+          "lng": -73.907906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89526273029149,
+            "lng": -73.9065869697085
+          },
+          "southwest": {
+            "lat": 40.89256476970849,
+            "lng": -73.9092849302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 246 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114357169243993813468\">Alexander Kosmina</a>"
+          ],
+          "photo_reference": "AU_ZVEFhxG4b2z2wVKHNDPPi4b3I0k4wE0w1gSrRTClL3pYLmfo5aZaFRkWIxdEnxVdDN5ghs3ZmNNHM6SxNJE7ifR7newI47E395OgwcXmhCO4U1ZkAZKH0OwnUpwPFk9wgZAgqNt1MR0WRlCxFLKGKLjOCJNfOFTKTE-khXUKX0zB9kRouwt3rngHLwaAfynn1gwqvOMI0gkIjL-E0Ga5Ih2h2s7zHKqa3oQK_65Rk-KrGoxuFbBEF7qB3eAdYvyw1njJ4hX-P7lpEAefj9f6s0sO1vvDy-DkmZbOAkMgpaxGvptscWSqzUbBm7itDU-9FIolkmJ0WczLn03_unQWgjuXIcCFztI7bDrBCOdk_DkL_1S4yANdZ56oAyhcCHOsac0U9_Gby5hpyza9SHQsEED_5VFxw9aPuFhUMocTzMMf8lziLZGevzfDPBDB5612XEHs-lmmEF_pZrC0YCV_LgSnEMMC_bqX-IAv3T8Dfkg8FFL8dz6eTcz39WAFDS2xdDD4yyDQzrNckFGAiMHPMOvjHadVLCsiofEs9OznYRjxm2RAdQaQae-4gdG3pCOaEz6fwv-77X3YkoqMUlhi3cY0zM-xZKdSHJJnlFCVU-SgKow_am-TYNefJjgBtRovE",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJC_rWPbfzwokR1QD8TkxiNfo",
+      "plus_code": {
+        "compound_code": "V3VR+HR New York, NY, USA",
+        "global_code": "87G8V3VR+HR"
+      },
+      "rating": 5,
+      "reference": "ChIJC_rWPbfzwokR1QD8TkxiNfo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.893475,
+          "lng": -73.908592
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89482598029149,
+            "lng": -73.90724656970849
+          },
+          "southwest": {
+            "lat": 40.89212801970849,
+            "lng": -73.90994453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 246 St",
+      "photos": [
+        {
+          "height": 3876,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEEwwoTAw4f7yJ0g4wJ4wDNqzmmvRS87V-LxoReGDhmuJngq2q1Jv6cCJ7b6vzNAf6cevzpxo3jCPenyLoaLp0W6NG7MLum24kn0tdkNaMzgrmN-KywtaXCtIwwt5vUo5-uUxjakgjzV_hkFPqHjTc97ZqSW5Aik-Ny34Kdndb2VC-PkqkYH8SVqxzSd14Q_gE9IPXBCjVXFHExfYb6omVYpwm1XLe6MscpNDSmvnyasVv9vUBk1OZHvVp9u9ZOhH6M4h_Bnm_ZQdIB2YFQnBfqCykQFxXfaGdYnu5nf1-dUe_DGiWQiiUtlEgClD_g9SgJ5HY4kg1IXSC2FZV91UL0DLOTlD5Q3A7BiB0KMN2-es3RZ919-UYC88qgilkQMjPVeoLQ4EzElHSceM2i2MxmTSdKZ9_mWTY47O56137j5vr8hzyOxMT2qFTyJy4lMcA-2Kpj6J1Eull6VhuFrOiL_ejtx7XUjmq5mTJpg4X0A6R2G2xrev6uB2lwj2pjiEyvxjtqXEI7aXOOq6AMcywt8tOldH4dSmk0enCVCe27AWK4BiwfOXtwibGfxVa1CFJLXpkfmvzwcRYMgfY-1btjkiabc1bKkC-yctNLk8gEDNiZ9WWWPjsJmUlfQlSmiu1OjSp3T",
+          "width": 5168
+        }
+      ],
+      "place_id": "ChIJd13cbLfzwokRM_bHZFhPcno",
+      "plus_code": {
+        "compound_code": "V3VR+9H New York, NY, USA",
+        "global_code": "87G8V3VR+9H"
+      },
+      "reference": "ChIJd13cbLfzwokRM_bHZFhPcno",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.89373,
+          "lng": -73.90789
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89508018029149,
+            "lng": -73.9065888197085
+          },
+          "southwest": {
+            "lat": 40.8923822197085,
+            "lng": -73.90928678029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 246 St",
+      "place_id": "ChIJhw6hP7fzwokR3BUEVW8zwDg",
+      "plus_code": {
+        "compound_code": "V3VR+FR New York, NY, USA",
+        "global_code": "87G8V3VR+FR"
+      },
+      "reference": "ChIJhw6hP7fzwokR3BUEVW8zwDg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.899288,
+          "lng": -73.906662
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.90066003029149,
+            "lng": -73.9053532197085
+          },
+          "southwest": {
+            "lat": 40.89796206970849,
+            "lng": -73.90805118029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 252 St",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEGZIFDHjwaazcbQnIOTTviZUDpeiKZRZqqrZVXp_zO7qRo97OyRqgtmKh1SpVAukva4rW5XjrW39BhYklwAKJdEa-psq0BCNuImqZKFKtWlWfhqGAamQlrjsi9ZLERJcV-K0fhtzsa36fusbiTFOqdqaPiAKT2erczeTfjcuLs0yng4HqKtveS6_ukdaR9qxT3ppY_Y1N2_e-yV7BgkH0VUBiBHblZ3cGU7-3Rp3ZeSRcsDTt7WTfGuZDW3Sc0CWWpBHZGwtYWr6acwuFr1-7QDbsyKy6BCzLM-j4IOYXXnix9tVfNAwIi5TyuOM8GbYIZWp7Y-lrQUlStYQadPBh_Ph5YqSXS3nb6ZZC5SDrNqsLmQytX5I5JjX7tZUcZuQYLPsWRFSH6-R2k4anru2M-w5FQaT5yKO5gkbxr-hYHSSr5N6zADzqufxo9xgemI5Y0z2qFODYvCFbzecBE9PxkO8-5X3f7cisN3e9k2weOp6uU4lltKU7HEtRNCsuhGB4Nh2VcwQO-BVFB7H03YCORGBWzsipt9HPcbm41DsbqEkxHY9dyT4TXg45-P3U6WK6oR7k1-k3Kz-f7mmqnI27GB36AchuPcS9RrE3665s6ptV7BR3T7ewL8jcIFNsNL",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJKYDoebTzwokRyp6uHeUldYU",
+      "plus_code": {
+        "compound_code": "V3XV+P8 New York, NY, USA",
+        "global_code": "87G8V3XV+P8"
+      },
+      "reference": "ChIJKYDoebTzwokRyp6uHeUldYU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.893486,
+          "lng": -73.907921
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8948349802915,
+            "lng": -73.90659556970849
+          },
+          "southwest": {
+            "lat": 40.8921370197085,
+            "lng": -73.9092935302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 246 St",
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106740271529447475993\">Anna Kolyadintseva</a>"
+          ],
+          "photo_reference": "AU_ZVEH3ubnlsIr0tUi7teIOO5OosAJns81nwTUs-Or-pw1VJWntPs_ITnJyZ5YjQ4d2gqp5suLmiEE9JRQaG430e2a7flOZ1uDtNxcSJ5IIPAjGRrK8tCHwihSGRcfSoLeG7UZTwROZyrLDWHoJVQMocxRfkgdgyxTwFHOf5J-K9VTFmfu1ULiezmkwIZ467qFl_KyFv2vmetKSXO6Z7oAYq7pZya1Tz_MCcyNRxmzJY_28En1r21mWFxylLbuG5_aq-VsrS1NbLVPybPVNMdEfR1NWKDHv9AVlgpY6Q1scmrOR4i5EAVUcs64uiXu_KkCdORm7Unx9U8ziX2xlOS7fjVWmRxGgKSqCngzarqAfW67U4YwtWlblFkM4khd9_knPBbg-P8nlGQqFCqGbHJUQGSsDpqTH31PcyTrSIC6QSXswSyXt2obhoj3PO-8rwsLgCwZSYhMh1h93FOoyrRbZYC-5viwux_BEsMeluzd6Kn9cRyEXesmBvNqQRo9LGJ3KtIl1MDRSeVo38vti9nz1uulZ5aDvCVtR0TK-KLuxZCRifa0dwd0gsIQxL-THY8cu4G2i_xMqfnjcUl85WUlsaRrxv_kPUqBUBpKKYu1xm11r9zNIBIYtEKXC-F2VSQzWAo30Wg",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJC_rWPbfzwokRrUBfbukTetE",
+      "plus_code": {
+        "compound_code": "V3VR+9R New York, NY, USA",
+        "global_code": "87G8V3VR+9R"
+      },
+      "reference": "ChIJC_rWPbfzwokRrUBfbukTetE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.892857,
+          "lng": -73.908569
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8942060302915,
+            "lng": -73.9072025697085
+          },
+          "southwest": {
+            "lat": 40.8915080697085,
+            "lng": -73.90990053029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 246 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102166650211445795118\">thelmita la guanaquita</a>"
+          ],
+          "photo_reference": "AU_ZVEFlEbgUbIWl--nwZ05KVa_Q9GV0h1Y1r-cWEaJWoBIcgvvznuK904ZOVnNDiInrIwCZrI64YpfsDlJ4bj6kadW8RtRkZCqcsSEiRKQuyuzkP88gs-2uT7-v-N-8nq947GMrxuY9DUBCVtm8S18VJkamVIb3uRErz9qQOg7embsM_LiJbad1AXhIwvj8I0lUxAvI6UAUqPY0wmgOhpDFoteiDno_KldwPvSb3s9cI4P8hGfT4fCqU7hnyCRuSue30-MuZKxZa0VTmrByCQBOQAnOJ2FrlpVShdrzndlPk68o5Te0hMp8WYdj5TZ4UPwErC67Wx2ZCmdXVBPB1TYUuxuR6oBJaugnVlOuquFxXwWNMpCwlRNbYZahnBRMFLz5bY8QAnb2OwRLWfs78MicSJtsoNQ05AEkUDXwSohtzXwEIEatF5rxbN2diYD6UwzkxvckSYB_DnlFdrq20igS3prntroqZiT1HMU2qAI6-iwM9ya6bRXqfXnzUba3QHHHGHe9mnnKSgKKOwcrHwyxOGtdN4l8rSfDV0T7PuuALkK7uyK5zRWXL9ulzcGGNJW2hWcSRn2rY6WiC_-KNQxwcLHPnC8jYb3h5Awk_Y5dJcK8iDoQ5tQRsJqBXmHUwMRg1ScD4g",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJDzCqb7fzwokRofT8rYV-ySA",
+      "plus_code": {
+        "compound_code": "V3VR+4H New York, NY, USA",
+        "global_code": "87G8V3VR+4H"
+      },
+      "rating": 5,
+      "reference": "ChIJDzCqb7fzwokRofT8rYV-ySA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.90193,
+          "lng": -73.905926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.90327228029151,
+            "lng": -73.90455116970848
+          },
+          "southwest": {
+            "lat": 40.90057431970851,
+            "lng": -73.90724913029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverdale Av/w 254 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103702106515698420079\">Merita Gjoka</a>"
+          ],
+          "photo_reference": "AU_ZVEFb6XdG97QPvL64O9RxejLRC8WyGbDXZUIUl-ioC3whk3Vou2TkWSXtYA9uogB4bkC-kWZvIcXBvGo0fPpdo9q8r6tkPTCMOMDEwlN6OayQbsoN88q5UseHUDEl1a4HAxWeOg_ScLxIGi8M7bCI-vnCHMk7b2DX91YrU5oetsXRX2iyx8c8HqeqH0TueDFYohGM_-dUonccpjqJMzrAtHU1db5RRuwMZgT4R4mkdYGqJW-p7eNmiHxjjthnpNstwWv1qNHoErjkH7NMrwewS5F9KmLxaxRxR98m_mmu5mHKCz9BTUjNfmERqRqZrrilCbcQaLmbAaj5D12Sa2iTvp29D7HcAX_NpJzGeEsZWNg303WEEqawgOH4WBDuhptwLWnRgaCvv-GZw7DE9mvgyrnvEe36A43BIZDL30nesInmmW57w053Qxd4kjjGm5e6pTWMAdDtK-V-hApNIyhPh_9Kn47HD7OMzcSxRzQF4-OukDO9ua_AE9tNI4RBB-bBnzcx82FGTJE70jmnXe-xktE9i2IfguRYhcMwK4cK9TX_hty_soAMTwYnL1YCfQ3K-WYKgtqgziJbusAtysUuHwyJ4tLDBoVY1_eTsAZbPScg0MqI6dTh5A1SJDeOoC_TRYpcDJtYa_UU9u7IofvRrSRFgUg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ0Wm5UrPzwokRuVfxj2xmsjI",
+      "plus_code": {
+        "compound_code": "W32V+QJ New York, NY, USA",
+        "global_code": "87G8W32V+QJ"
+      },
+      "rating": 5,
+      "reference": "ChIJ0Wm5UrPzwokRuVfxj2xmsjI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.901821,
+          "lng": -73.906174
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.90311328029149,
+            "lng": -73.9048488197085
+          },
+          "southwest": {
+            "lat": 40.90041531970849,
+            "lng": -73.90754678029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverdale Av/W 254 St",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEFgod-ql00ing8ytjtUG23dBZpwXxYepNfXozjwJ3RBFjHXZeyJMZV07N3oefFtsCUUKYZ1LEqW8HD1xGq-ikXgeMXRD5hCKAVhAA4W3VVlp-Q0eOXGaTuIVu8-9qMmzgMCsXVmCQT6U74scBcNjtvsmrlRg8wt_YqqXXsSTJo3n8QT6IGDKnXIZTc4nOATEeohL3afONbJUvRxf4ZAcAQRxK0WRCwbbSeFUqVf6oEYBwVuW0vyy53C4Z8AGxrzzM4Uv4GTAdLwO9MBfqJ5_X4ji5wTfvv8UZnlew8YcfECpf5NRPKqlPfPBeDuHA9nGB_jKgfIjWa7bDlywAC1oIlEbImWrqKyWRzxH5BwfM7ZvFIIE-Xa9ykf0XHNNSMBaCDt1zZKuqRcXSRA0tVoPQQS68PGSrCeJ6dMqer6rxJGamRpIP3-uIZWl2eG_Rex_9yQ_NCXA8bv9Q1Gf1KVg6TeDykX79SK2nHEBfO6pWtinyy6LvfXhlHy4U8TX-Niv6cMJuWTT_x_1WNoC6Qr04IfBAzOG1-IqjJaIKtFP5yU8EcUOwuHBiLpebAUQQGNR1Dwb8wSvFbtrUKzWVkXeypQ7Tpb9wV8LbRHOzycvRTW8N6a_wVVwM9srZhoG-l5leMMOw",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJzRMbU7PzwokRrhDsNv0f6AI",
+      "plus_code": {
+        "compound_code": "W32V+PG New York, NY, USA",
+        "global_code": "87G8W32V+PG"
+      },
+      "reference": "ChIJzRMbU7PzwokRrhDsNv0f6AI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.90201999999999,
+          "lng": -73.90576899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.90338423029149,
+            "lng": -73.90447881970849
+          },
+          "southwest": {
+            "lat": 40.90068626970849,
+            "lng": -73.9071767802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverdale Av/W 254 St",
+      "photos": [
+        {
+          "height": 3876,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEG70B8P2bNVYvmUKDcOA2a1BtA7I31TJjoAnRjobUXoRZM9YIbE8aqxWwATUUtpELa_rS4DoXLio20oBu9bx9pszgIH17YC8H-AmUmW6rTUV0qUD05BPYHfvBVedIUpRa-Kcu_P7cSxTbjQT1qiAnX4ERsaKd5zH_zgfo0io47KE1TF8vzxPF8vQ6Ph5HUgkFFCG-BhjSGXGMoxICvJFCxD0nXdgJaetPJHhVnAIT6B_cTEsXKflgZelq0-Zk94eLH-1QSy_uRHwQNtnQ0d9IKTDaq0fHiqwidGsxWJdR5R7Uc4K_83uXo6N9o-Duu8_uSp9dtsQogT_hhZ1e2FjvSPP18lIDkHgsY6RdN-ti_P_O9ufngczH2qJ3oWyxBtJQLDLdRbOwOTxf1tPzFPueZ9B-Ls_hI80KwitG0FlvN9pOE1lI4J7WAM2NSbXyl3L1hdSGv7SHmHn8P4vM2Giw94pUy7YL9tJFoHstaDLo0GNZeeBjLO6EjApWZ5p629yK2zKXqZhvEByWmDgav2nG9L5ndxqDxWj8wrcPDwrbNT6haeClOaDTKKrSopRcbRvlakH13esSLW7PIj0JwgE70REzAosCAEl4mE0-MghMT0rLL42pvKsr5YU6WUoQ4uBmiGkQ",
+          "width": 5168
+        }
+      ],
+      "place_id": "ChIJQTzHskzywokR97ix_rHIWsY",
+      "plus_code": {
+        "compound_code": "W32V+RM New York, NY, USA",
+        "global_code": "87G8W32V+RM"
+      },
+      "rating": 5,
+      "reference": "ChIJQTzHskzywokR97ix_rHIWsY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.889652,
+          "lng": -73.909019
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8909949302915,
+            "lng": -73.9076373697085
+          },
+          "southwest": {
+            "lat": 40.88829696970851,
+            "lng": -73.9103353302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 239 St",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEHr6pBl84Fd8fkX7o9rKiHxW0ST2eigR7Ix6Scs8LNpmGxsxoeBiMxmD88FGNJPW0ZPIE4-UaCRlSPQISo9gL-5ewGO0FMoIZG1gXxmG8N1ABi0lbRMVtk7Pmhm2MbBxiiOkKY_4vwjSr9ySMZCISGzxrfxngkcJBzFkJjnLHo2-g2kAfjUYZ-J7E22txWtPlnsbvq91yEV5iWS4oq22g6OFvb5LfDxI3Ctbk5E3_yzBDB-WexN8KTB1lmQhTNmcAC58w0azL0B0_44DRjSeSRh5lzlejfqTtU58pN_z6lXrdOMf_ikH6EMkZ-M-7Pa2PEbVUg9P_XkWmKNQG1GBYeVgK9fWB05DQWx1yUBGpd1fWqaHsXynFZ5xhkOzN_J_aXWf8xhqSgoLOaNyYNNIFtLCB5Bw_-w99c0M4jfvhtbbdiEAdE4bjP9rnVcGkKioWmNm1FeRoDJ1BbmSs87SnXr7VzUCqy70hssvt1iRe4Soha8EQ5Q0OKNCNHRMUwd_W4im-x-8umIjHeA7k3Pj6DcPXn1WhVVC2VgSPNb2A6Lwr2hD7pMI5bks9lps8Zo9iDQXoMGgleDnxUtBl3RptZVbdAfS2WmyZmp08qGg33KRgsExupi6w2iKL2Zskta",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJLSvlBLnzwokR7b3XNwmN-6o",
+      "plus_code": {
+        "compound_code": "V3QR+V9 New York, NY, USA",
+        "global_code": "87G8V3QR+V9"
+      },
+      "rating": 5,
+      "reference": "ChIJLSvlBLnzwokR7b3XNwmN-6o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.889648,
+          "lng": -73.908051
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.89099683029151,
+            "lng": -73.90673806970848
+          },
+          "southwest": {
+            "lat": 40.88829886970851,
+            "lng": -73.90943603029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 239 St",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEFoBHrVzH18lHnJvz309Je7Yb-u8eaOO-vZJUgTXyyLh3AauBeoWbHcqtGhQTTy4h2L4dmNxf0D_wcy2Tdl3_YP3DZRxKX-PHmTgcMSqL35BpmYcHYIkUui073dkHnwn2Z-6x327HMkXEOAWSgzdIYNcyg3OqrLOeih0KqMuDq1MUYFxyAE2U5QwZFI26C9IBz4e_m6m3eScaaVh5z0LxeGSnJzdxariIU1tMU4KLrmiBg6OCOaiQIpRp3YpkCX0JFvDU5idg-JO1bbdZCS_rA7m6apTmyK_7MrnZRLDFrOePg4vLuBv2brAefJZ1TASci9zmprb_jN8lshK9YbHa2BbOiRCN26-mn55Mbgfls4yOVaqDOoLbQkSUsQ_4H7--rvs2myVFYf3t5TD68OK3Rxn0Wo2uoPTufS2ZhV8WquO9j6v-U3TPG4g20oJeLYvuC1d4FIwvY_eNu2H_yURR5YmtDuVHiI9XIYnb8OFXdzJLSm7-VoUuVLAqXPdKUz7MfUshIldPn2QKAS40PANXjL1tXaVH8bE_I8wWzY11KHypIWmQNiWNWOKBFxRBipmHaCOLbzi9Us0KKHCUJJ5IOtzscIwpdLH5kiXN1g2oXlH37owuGsvzEUBP1k4o5W",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJMSstc7nzwokRrTx7ym_Kca8",
+      "plus_code": {
+        "compound_code": "V3QR+VQ New York, NY, USA",
+        "global_code": "87G8V3QR+VQ"
+      },
+      "rating": 4,
+      "reference": "ChIJMSstc7nzwokRrTx7ym_Kca8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.90463580000001,
+          "lng": -73.91355229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9061126802915,
+            "lng": -73.9120236197085
+          },
+          "southwest": {
+            "lat": 40.9034147197085,
+            "lng": -73.91472158029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Riverdale",
+      "photos": [
+        {
+          "height": 1284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115127736742875860443\">Eastern Hudson Rail Films</a>"
+          ],
+          "photo_reference": "AU_ZVEFoIBoBblz1ulMT6YQuFrIqX2qvgDlgOHJVoyObTboha-sH13DcqzHo7BUm0x65phBG_-ldGkl_Nki-OZ-EIT_rYKYMH_3zau8t61AwdReM9qbTRFISa5Xfu3s0S0CqseIm3FrenfXPzteoEZCyHtfR3CXSsCKid2RV8YaBKcnmPLByU9ui4ToUP_tmFawZib1yL4Ijz-QUmaNH1rQw4jNSYgxsXthfPtUlmGxhL_J1m3ftHeVhJp8PaSFF-16XZlfW8ypTTOV5PRpFe4nugpY2stmugWTxslCHsB2nSro2CS6nqmRdARBJnm4OjlkExfU049XKqD0b44LXUyVAvLehGfC67v6wwS4MoEnIHU5RY9GlOm42-kdEJjK3_mCs8HBdBE8BXzNfvAsw0llgnp_iphxtHPRXgdoJVI3CejLQAlEeyPTcncn-1tIkxQQfIPm4RO-tfIhXAIFzkunIJcJ7SHwrb3jNPTlPdWiLFF6eEKPirp4ZXckq7jlGP6RR55fuNog7HuBH-MUJUtBgIHLyAcMkPCVvKw8NO8xhg3ktFmRPBwICC3qenPq_ZyHOaxtYuIG7rQNN2XirnWYtEwpy4CAlQs2LiV6f9RhnnbkTlpdohemsTAhZyFoQJJPI_cUtvA",
+          "width": 2280
+        }
+      ],
+      "place_id": "ChIJiQoeOTXywokR1d8tAioggOM",
+      "plus_code": {
+        "compound_code": "W33P+VH New York, NY, USA",
+        "global_code": "87G8W33P+VH"
+      },
+      "rating": 4.6,
+      "reference": "ChIJiQoeOTXywokR1d8tAioggOM",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 53,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.889137,
+          "lng": -73.908577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8905045302915,
+            "lng": -73.9072103697085
+          },
+          "southwest": {
+            "lat": 40.8878065697085,
+            "lng": -73.90990833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 239 St/Riverdale Av",
+      "photos": [
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEFvBDhE-JwjsaN5yOg8QQ-WwI0byY_dZ3DFaZliQkEOwAYsIczFP2PE4bg-jWkH6w9eAeFVhwKTcl_cHciR26qAC0GFrjILAB1pntkfVWQ6igJ8fiRV_xHktGxnjJwYuvgkqNhMspjti8xRb8_MrSHr-O_OnV39qYQ7moAgcyzbXwEn2b5xJL99rWAJl41YaQjT3AsHe_sl8iskPp851OQ85FP8_lPwXVgqVDxhQAAUgqicWacBDxWCEGlgn3CeG8CC3DbpJMGEuF9GD-oZGuVSFN7P4cLLJi52O295_gYNm1z1TBujwmajL8UR8sBtUY1TrtGKAUD0x-n4dHDEJzjgFVi18zrXb78wwiAn5x2nYn39rI1QMC0yOJkr2Hg-pEof8ssVHdmrSSxVLtNxIODul12av5jM29s9jtOp5b0U2b6rHfro5oW30duMuaw067dQ-wCw42KLuhK1RfNcSt5d1OiWAWoDE_Hu5e5jXERlTeTFLmgCIYPmOgopoo8iwSpwuC0AR_MAp_ZqnZ-fh5yb-6prXbXElCPjHaUTO1bx_p6NBo6BYFVovNqDyS_fgM4mj6aAqwtJuG6JK3X2keowWcgjGbm4E6F6zJbFTE2QwxkBf3mbhxP-PNeQOGJ_sbgtmw",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJgYQuEbnzwokR93PQxwK7Plg",
+      "plus_code": {
+        "compound_code": "V3QR+MH New York, NY, USA",
+        "global_code": "87G8V3QR+MH"
+      },
+      "rating": 4,
+      "reference": "ChIJgYQuEbnzwokR93PQxwK7Plg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.903896,
+          "lng": -73.905243
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9052312302915,
+            "lng": -73.9038321697085
+          },
+          "southwest": {
+            "lat": 40.9025332697085,
+            "lng": -73.9065301302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverdale Av/W 256 St",
+      "photos": [
+        {
+          "height": 3897,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113315106605985970109\">Andrew Kremnev</a>"
+          ],
+          "photo_reference": "AU_ZVEHnHY2B9az6iHbI8zyHwmewX6f8NKAdki5wqH45YHKmyJaTuGbtVxCMfJ99LxDoewtXTzzZLxbvZKZIfAb7NHCfVq7pDtljDfvEPEAfX41AJ1AzAgG5rcpSsUPUF9kBp8CPlBCZ1Oahgzsc1jxuWpAL2MsziNuPdmGbsuw80ovt9D4sprtJdGdka3vY-1SkXaFptc6PIFoH-WMi3rDS3DK1Jjjh3ZBIzY1PWXwiOMDEE877gjS39ch3-ZknWLRrbF8SPVNPq1vNl-FLXSt7pk9sl5amw14kjGaYQzgGs7bXvmi2stNcNosl4z94XugwS_Mf-dziTRok-eci5BlQErKvaM-tTnPHytjC48ilMrFklgJnShJZQcnwm68IBXfKTytH-qABvfmOe1PHiErrrGf2yZI8DyUfxHl7wzSGW6AcWJARbk7am-umDvFYKek7O7Rva2k6p8WCFsfIXumLMjXYwS0va6tTrZxbHgGjmr3mnLgivNNyEr0oTpNUSPBVaoUJzfjuZR-JbTed2-lNWg9Sf3U-CvqYj814Zpt1Jn4X4INK67Cs6rqa530JmcpaeJ8q7pPFrPOWuI_PxGKvGN2120G7jc-eW9BuAoIQc3ljCEwzRdnLDEPm70MLCU5KlgfciCocpSItNJe5k1RdY-Q1H_g",
+          "width": 1846
+        }
+      ],
+      "place_id": "ChIJP0DdjEzywokRkEjACes0x10",
+      "plus_code": {
+        "compound_code": "W33V+HW New York, NY, USA",
+        "global_code": "87G8W33V+HW"
+      },
+      "rating": 5,
+      "reference": "ChIJP0DdjEzywokRkEjACes0x10",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.888565,
+          "lng": -73.909706
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8899137302915,
+            "lng": -73.9083569197085
+          },
+          "southwest": {
+            "lat": 40.8872157697085,
+            "lng": -73.91105488029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 238 St",
+      "place_id": "ChIJj3H82LjzwokR13JbxSR8LOk",
+      "plus_code": {
+        "compound_code": "V3QR+C4 New York, NY, USA",
+        "global_code": "87G8V3QR+C4"
+      },
+      "reference": "ChIJj3H82LjzwokR13JbxSR8LOk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.9041115,
+          "lng": -73.905022
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9054681302915,
+            "lng": -73.90368426970849
+          },
+          "southwest": {
+            "lat": 40.9027701697085,
+            "lng": -73.9063822302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverdale Av/w 256 St",
+      "photos": [
+        {
+          "height": 3232,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEEcM2eSpau1YVTslDvh8GaaprmEFeGZDMVESiNT6M858lvTD-vCnjFZn1kR2kJelTRpfHJ_CctHpKzeeozE7ZgH-F1dD_nfNaIHLvu6mDXr9CBoEWHhuzVakmpMru14j1yBkNTIzbUFoPyMk4_vUphVkeOiO2F9YZhkpQZ68s7D706HOnrfWwoZDx_nPS9CGnfxZAydGo3Vvzqlm4B_GBESo_Ts_bH_1CiYI2K7LYG8KuI-QCA54nQCh9eXh-a3Lledn31r6Dl3ELIeWeFqaKTNnG6vVwJYffZaDV6n7YLhgYUn5RN-KZEMcEBR8apwqz3fsosoN2VCsV2Bt9rpPr6HOWJEhD00nHy3dFLUAof6efwScsiy0e4aVfMhmWOGcE9q75_n7XbmTNvUrqpa5tar8iiPEuGwCBcYs4XCSpgb7FjkrZU8fddrIWwveqIPFvFg8yV7SeUA2U2kyBknSNxZBFIQJOKdFNDI05kqsDZ7cQWzjQKVlgIzrGlJK_txrTtJv3Ry1LCBcFZxTzSGp4MieHUKgQrNYsLRqjy-qFy-Wgbi-fGDZLPbvoqnmW5gSG6tQFIjw10eooXF6fDqfFG5IbtD3PSSmI0iIe3g0W81x_itR_PLYnGcAD1i5Pe0-qg",
+          "width": 14092
+        }
+      ],
+      "place_id": "ChIJk8bp9EzywokR9J9_Gy0gHg4",
+      "plus_code": {
+        "compound_code": "W33V+JX New York, NY, USA",
+        "global_code": "87G8W33V+JX"
+      },
+      "rating": 4,
+      "reference": "ChIJk8bp9EzywokR9J9_Gy0gHg4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.904331,
+          "lng": -73.904816
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.9056855802915,
+            "lng": -73.9034957697085
+          },
+          "southwest": {
+            "lat": 40.9029876197085,
+            "lng": -73.9061937302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Riverdale Av/W 256 St",
+      "photos": [
+        {
+          "height": 5168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEGU4yrmYTbqlmfZjkmm42UizJErqR-ojX2MRQqgI-jvoQdXaKdfj1IA_V65EXWn0RRqiIa7kikLW2ejUnNEx5CblHcVUX-DRKkOtgoCJ3W5tYYVtAoYQY400EqyR1Cin40jmALIXDBq1xS-67InJVV0r932Bfzcq0-q7-o3FW3K-rZGfWU0YpHey-PNGFBIFZzxrILRiOCEa_nOqlJ7AVO1PjmCMEqfxySR4pHiyuy8TiTeu89aE7F2CoXdM9hbuXwmt78UhDHx9xJoyzyO3hDqXCx4asByp258FbuNkgXBVFcd6XNx6hFTBFOBiK83dMN_G0r4Ar0H-4R1blF36DP718-DuCBrg3_pz5uVVaVrASIHIaun9ydlEbIMJmmAoLG7Ei6QUNJ5LxymcQTx8Ql3KaZerZwzWU3PSc7hUTkHOmzeao28f4seU1VEG4_E3ZyhumffYyTlhi0R8-VddFouBOJq6MWNQuFhr40_Gdb61cPUcY2eFo2jd1iGnGBcmzXk9rX_CzD7OEi_JLu0lzA6JORiM7y0_KQmTVyfbyowhetJvThjj5wrStY2R2Dbh6AzYyNd48kmJm4jmaJbccP0fzMMo85b0_Bof9dl8iSvyVm_-DkfOSOSdoPSVbrC",
+          "width": 3876
+        }
+      ],
+      "place_id": "ChIJP88rX0zywokRsOkMRPy-0pQ",
+      "plus_code": {
+        "compound_code": "W33W+P3 New York, NY, USA",
+        "global_code": "87G8W33W+P3"
+      },
+      "rating": 4,
+      "reference": "ChIJP88rX0zywokRsOkMRPy-0pQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

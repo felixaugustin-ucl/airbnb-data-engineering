@@ -1,0 +1,3252 @@
+{
+  "neighbourhood": "Lighthouse Hill",
+  "centroid": {
+    "lat": 40.575117666666664,
+    "lon": -74.13717276470588
+  },
+  "fetched_at": "2026-04-06T14:36:27.590382+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5732187,
+            "lng": -74.1365732
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5745341302915,
+              "lng": -74.13521821970849
+            },
+            "southwest": {
+              "lat": 40.5718361697085,
+              "lng": -74.13791618029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-983-8344",
+        "name": "Casa Verde Restaurant",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2770,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103351381600041576098\">Tony&#39;s Lists</a>"
+            ],
+            "photo_reference": "AU_ZVEF85bKfoh4nyPQecI0isgeyK-0JdFk2KcRxnv4xOn92RrBFsQqiF4GmthBp3VwZ5kBs76uvtd7q5GRF4H-JrrIOrqrVlr5Abt-MtlM6Kz3ojPAdVkYixrmV0dqxNpNWakA-OxBHgGIbG39BNRKwywRfzhmNY82_npMFzOOKOzXUdWfjg4q-JdysVSTASICxS_Bb8zLAwWrYmn2QHmNHSUHBumja3SbBeB3-Q-sGnMMQBRsBX4g6mmjPgXNIAcnxd490iJwToYCgp7jXekybRRKPJjMbbvwCAyGn2sj-RItzoGpHJ8kWQhAQLx_pKNJdRuvS-bxJvl8FY_TTnhY5wT_De2PDmLk0MD3pASQP7lAmziopwKt248y9jtxnGuLJDOuQG6wskHppAqsz7dV7qX4gL61Nj2jKHLa93c7qQrgA-KmNoE9_1ML7anSH-Ui0Ag3mdT7JINL-C6iz3XLnDtA0b7xcljMibATG97xCdsqWyiK0hja6ePfnzqhc2kbRyxtvvsfa1u5OfQU5-cf9b9nxv4xefHdBAXwsRrdqj9chkx1suKnFMSpYOZzh7NC_-N1Pco6XxiuYYGpBmpC_cxQO15KZA21feTWWRz-DN4fj5nMPIvcGzsEOIGmGdLneAYTG8HrD",
+            "width": 3694
+          }
+        ],
+        "place_id": "ChIJ1-OrIoJLwokR_i4HunJOIpE",
+        "plus_code": {
+          "compound_code": "HVF7+79 Staten Island, NY, USA",
+          "global_code": "87G7HVF7+79"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJ1-OrIoJLwokR_i4HunJOIpE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 364,
+        "vicinity": "3471 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5754621,
+            "lng": -74.1279354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57683473029149,
+              "lng": -74.12648266970848
+            },
+            "southwest": {
+              "lat": 40.5741367697085,
+              "lng": -74.1291806302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-980-0502",
+        "name": "Gourmet Chef",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 627,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115654266945014340121\">Gourmet Chef</a>"
+            ],
+            "photo_reference": "AU_ZVEEW8fJGksNR15v-bgkDLIS-F57519WwhNuhR2pjl1hx4AobKJ_ptuhF7v0LBGohXukSlUr1PkfWY7G9Iw1nqNsKgHLueaQCcsxem6GAs6RY2CGottFMtOnJp7vg-Pw5suU6sZGt6UaMgX2Q1UWWuvzG8eTo-Tdorb0eZ-0wWlk-wNkI9PPeWTcbV1jgHGIyZ55et_h_vXghGjEblFOaAT7F_sRS771Mf5wy4qyk9MR6Z72GwDokntd8uuubpP-coXbMiFGZ9AgAkmSyS8dErVjHc8lriojzplF9y_0CiHEFVyjoFYw16qjSbWyMDyfQEFLHAcRoRHI",
+            "width": 1000
+          }
+        ],
+        "place_id": "ChIJKe2uHP9LwokR15jjvIHCVb0",
+        "plus_code": {
+          "compound_code": "HVGC+5R Staten Island, NY, USA",
+          "global_code": "87G7HVGC+5R"
+        },
+        "rating": 4,
+        "reference": "ChIJKe2uHP9LwokR15jjvIHCVb0",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 49,
+        "vicinity": "3201 Richmond Road # A, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5754907,
+            "lng": -74.1278914
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57683473029149,
+              "lng": -74.1264606697085
+            },
+            "southwest": {
+              "lat": 40.5741367697085,
+              "lng": -74.1291586302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-987-2500",
+        "name": "Pizza Mia",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104720662866089387673\">Cassidy Simon</a>"
+            ],
+            "photo_reference": "AU_ZVEGTLN_ngDGv9oWDkCJzjhRd7hSwUCdJzHfVPtiHa6FmpNNLhT-h88q17Ln6PlJy-GijBWKnzmmKtpl_StFjYYL9OVPQwUoC0YdzNfTtiBMCU7GcR81i8pp5av5dJZQDSyK0-QX-1Tcpa1qGjueNd1XnT1ZvFl2BLGLOpwNRk6b0bzJe1DcnDnTYFy_GNiDg2-dza4dhQIg3yTbK4DhyhCkXKF42EdxIOEPHhKhzuADeUHxEuX6cybCLrYHMTr-t2h8nySxYNlpuHSpNHvpvXnmP2l9WntiwfqOJ2Dh0gHPYiCPtvxKa0uKCZsbU2OELH8NSguCbhWXCPJU5FuAMNbMwxQXh8heaMoHI3w9WfIyAeS6stpM-Dv8tkzR-KLXMInU_d0g0xtgaurm-afncoVUjPG6oDpV1jT56d-NxDy07QF30Y0Q9PSyyBlje0WMuA0bknJsIU9r6vCkmcCiF0i_F9ximnVslHwkxkkzWcHun5gRa8mIvuBKa9yaC_WHPiUQAkiD4xR5yQ_zLFFpJoQsrc_aRwILR_9tLk_j5cJrMVEzfOIAfJ5dLcac5vutenly3LTmV1KWMSjUqjyXCC_NOYBaCChm5tW0yFQ3WvaKj65HA5IHwgi0KVHe8cjxjUGcvxA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJhRCyuW5LwokRed1PS8JlkMs",
+        "plus_code": {
+          "compound_code": "HVGC+5R Staten Island, NY, USA",
+          "global_code": "87G7HVGC+5R"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJhRCyuW5LwokRed1PS8JlkMs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 65,
+        "vicinity": "3201 Richmond Road Ste B, Staten Island"
+      }
+    ],
+    "bar": [],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57092050000001,
+            "lng": -74.1456038
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5721680802915,
+              "lng": -74.14424731970848
+            },
+            "southwest": {
+              "lat": 40.56947011970851,
+              "lng": -74.14694528029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "international_phone_number": "+1 718-351-1611",
+        "name": "Historic Richmond Town",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112379621681844926710\">Kelly C</a>"
+            ],
+            "photo_reference": "AU_ZVEGLoWdw95_C_5Qn5k2Yuszm_vU9eoq72EPkZi1OtMfsAs9lQYHHz9q7Qp0emworKqVrVLIWPZWbPQoRPAk5Nk2jo1TTfT1x5UsHLhFCio_7Rb5nr3AUCgicFZeGbIuzBzzI5tMKucQ4FQnsbqeNlXQySNeO5jeG--P4SWzp54pO9SbW3iQP6OCjfOciGmxTEDYkT6HQe6Sap_JG3v8uV7a2BjNGOnSnIL9U3cZShbshMWGL-r2qf5OtNseZ0cd0g8BD1AzZuZl3kL9TedPFhyDhDxifbtc_OjuDygjFcTGw1vJ_kU96l6vzm22RYGuLDgK93-toLECpwJ-vP68K713OjY2KcHgh0VsZ7FikwkcAkJlEkLBkydMHmx3Inr2SO-L6UofztResbX50VUynsJcPcvucBNnyaNEPBJtnCkBQpH5V0njanEGw9-jrZcappCuPjEVIvnbsUAuFfvEQ3S8Slf-apT2MxKFQshVwqCXjeI39ODzfDqvGo6UfMYmafOBWn1dcicOmM9QbY5Jjzd5pH8mbTY6w9_Cbumst98WDgmZD6cFfxrO4MVZ9QicUinTjoh-dMvrMc_kPAybQrQaC3TY1nVITUBUaz5nxr08KQWbwq4Vk2gEKSkLPxFaGbUxGJg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJjc2Kfu1LwokRlnmTgFg-Jjc",
+        "plus_code": {
+          "compound_code": "HVC3+9Q Staten Island, NY, USA",
+          "global_code": "87G7HVC3+9Q"
+        },
+        "rating": 4.5,
+        "reference": "ChIJjc2Kfu1LwokRlnmTgFg-Jjc",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 970,
+        "vicinity": "441 Clarke Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.576316,
+            "lng": -74.13814599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5777074302915,
+              "lng": -74.1369178697085
+            },
+            "southwest": {
+              "lat": 40.5750094697085,
+              "lng": -74.1396158302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+        "international_phone_number": "+1 718-987-3500",
+        "name": "The Jacques Marchais Museum of Tibetan Art",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114679351429024903504\">The Jacques Marchais Museum of Tibetan Art</a>"
+            ],
+            "photo_reference": "AU_ZVEHKy9BipSK2AwgpoZDeJkoAsn3s0C6CByRP3mM91qujeGDRNKZsRb50mpweSUslz2SDozUUBkBpA6gkmMnZ06S6DeXvYUC9VNGw3EobD7597oigeRqwTlE3Qe_Gp3xzeeqae9e7l4hS1L6VnzwvIzZzYoVr2Vefh8E5VvyStTwmS7Ccnqb04oNDsFvW9UL5E1KJbPJYi_FbKcnVZM0Ft_9UKa4ypue_FQ8N06V4vSmw4zLXn3ofF_Ssb_VAyr7dKKBD7seg0s_PfP5OLTI5BMQvw1m2h22Ba0li1z9YAI_4Dk_fPCIBTNFAD6An6ykclZCYZgiQqQU",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJrzxHAfdLwokR0CqIJmr-3ZM",
+        "plus_code": {
+          "compound_code": "HVG6+GP Staten Island, NY, USA",
+          "global_code": "87G7HVG6+GP"
+        },
+        "rating": 4.5,
+        "reference": "ChIJrzxHAfdLwokR0CqIJmr-3ZM",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "art_gallery",
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 105,
+        "vicinity": "338 Lighthouse Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5708333,
+            "lng": -74.1436111
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5721539802915,
+              "lng": -74.14242581970849
+            },
+            "southwest": {
+              "lat": 40.5694560197085,
+              "lng": -74.14512378029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+        "international_phone_number": "+1 718-979-4227",
+        "name": "St. Patrick's Church",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3586,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103351381600041576098\">Tony&#39;s Lists</a>"
+            ],
+            "photo_reference": "AU_ZVEG9Yrx4bdxuQ_RlQOwbEhcFrxcevK0E7nNcZO69NoJMBcIq1N4t_pWyj8kMEYnYciraJn9mXEJa4GTt1d18G8eRj-Gu_ZnoWuEajkY8tMVM86o61Tq2fLSKWSBgXRL_3B43EAwWpMrzKg7b5GzMUD6G__FvKUZUGcQOppcJvnl4dPdvd8jvcE_mcWCxiA7v1c00u4czMmyUQkLu_Fq0llHi9GbFS21dAEL43F19uTrf3dR9TdA4tVxgPGu5WvfgegsBVqkPSOqvZziQL5UdJHl-VeaEXcWnZtVkaCZwycwOreihkYSWacubGjwEThEdYr8QMSSC1tlFRdjNGHfz8mZO2CNJ5wSSxpUdMivswFIgPnsmAaL1-YhObyee9Zzzf8MBlBSeLFdvjU8oimzkq4apjzqNTICvM6H9xzr2B6i8ziwgduVxRfJe-gpZM9bfJnaKnIHAFr8q-JZ035G5yJFQhSBBmB0XdbdJnfhiuztidloN-XNaohdz95snU7nsBRnvqaCSGBOJeOJ0VgH-_TBk3ALIR5dGmweutjeJ0m2oBKVtf05ahN01DLNXZ9eB2EdCnORIPpvwBBiR9Id-Oi6BctlYrw24-42SsIpI9KeoESbqwTJea03cERcnGGlN",
+            "width": 2690
+          }
+        ],
+        "place_id": "ChIJXae5cfJLwokR6uli_sHpdJA",
+        "plus_code": {
+          "compound_code": "HVC4+8H Staten Island, NY, USA",
+          "global_code": "87G7HVC4+8H"
+        },
+        "rating": 4.8,
+        "reference": "ChIJXae5cfJLwokR6uli_sHpdJA",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "church",
+          "place_of_worship",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 117,
+        "vicinity": "53 Saint Patricks Place, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58270819999999,
+            "lng": -74.1417053
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5906984,
+              "lng": -74.13958815000001
+            },
+            "southwest": {
+              "lat": 40.57972240000001,
+              "lng": -74.14805674999998
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Latourette Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103640750109921949972\">Latourette Park</a>"
+            ],
+            "photo_reference": "AU_ZVEFerpeyIIlCH-cLMRRT33JMUhhDF_az79IFOnNdLe8EM8pTUwnst-UOHKQwntk3_Trr4La-C828wSmxnV6mQLvA13AA9kf_2tZqBUcs5VLG655yB_UIQNyjUDOxglMPoYw3-aZQtEsEpvrz6ZeWpG1asaHWQzxSOi18mVijbnCWYQmBdgMl3HTxzxYqeo2vPVyQwwCsSTCCkRm00C7QSj7b_ya5ctMxGgQ-QAWAYDw6xOtzTLYr8k5EiR70MCwY5SblHUDcEaM79UdhQhYHkIRhjplPq6C0Ma1EeuVCbl07FW0z9A2ILoBM9wpjiyElTyeVaTBsShQ",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJ0SNFyYdLwokRHrw1PK2KDJE",
+        "plus_code": {
+          "compound_code": "HVM5+38 Staten Island, NY, USA",
+          "global_code": "87G7HVM5+38"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ0SNFyYdLwokRHrw1PK2KDJE",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 808,
+        "vicinity": "Rockland Ave. &, Forest Hill Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5694492,
+            "lng": -74.1299487
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5708580302915,
+              "lng": -74.12850966970849
+            },
+            "southwest": {
+              "lat": 40.5681600697085,
+              "lng": -74.1312076302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Lights for joy",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108832321245153204406\">NotUrAvgDad</a>"
+            ],
+            "photo_reference": "AU_ZVEF0skJ48o1aamytjnHZ7T0X9NI9wWNb6NBd0196Ie1XxgjGhzrmeH4wWg2iGa9yPbRK0jMmWlwKiWjwTN3lf02nUoAryOhUTourF17NeGKCgnZleQarKuVUCzXg5s3aN7mshksFp875-72ucWVPrN_J2vLloEr0hZbKCmhYO3l37PqtB-9Y6v3dSO1INIYQfDR6nxqEbcnKipt8zpFYNPGMOa8ucaz2MQyqQFw_C3i5I6PolaA_uMPfwHnOg2qyJIydJbLE7ei_CndIpMbGgNntop0h-6UrMBTkTaREydr8kSutdfcal-c1JUH1b35djN5LgvuxXMM9luvLTml2cxUXzJdAr0E3Nt_2gaCnWVZGr9o6eFEfdWVUh-jQVuPwO2wNv2BqFe-SNkfJdsv1xJPK6gAhtNi4fgucy8ZFmp5NHxkh0ep4NX_SyCYLaBar9Ss4m5zyRWqrGnZP-cV453LJUhdGT6TabBCJ9iX_N3hOznAJS-_ZWal2jqdkwIMGFhLh6mtk8v9ZKXlVKTgBBaiPRjh3_x_CE8OJeIiCl6dIzXk6CazYpvStqiPgU8nKA2RTFrEP8Buh8QcA9YUY97SoJy3MEkTDkQKyU61FRhWXp-J8mNRftAJxZqbOW4QnjdpQHHR9De1NUOBD4fgI9rS_o48",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJl57OCQBLwokRV-uzvt-R2bg",
+        "plus_code": {
+          "compound_code": "HV9C+Q2 Staten Island, NY, USA",
+          "global_code": "87G7HV9C+Q2"
+        },
+        "rating": 5,
+        "reference": "ChIJl57OCQBLwokRV-uzvt-R2bg",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "98 East Broadway, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5729615,
+            "lng": -74.134632
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57431148029151,
+              "lng": -74.13327296970849
+            },
+            "southwest": {
+              "lat": 40.57161351970851,
+              "lng": -74.13597093029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Wilder Av/Richmond Rd",
+        "place_id": "ChIJsWVTF_pLwokRlJEGTU7JO1w",
+        "plus_code": {
+          "compound_code": "HVF8+54 New York, NY, USA",
+          "global_code": "87G7HVF8+54"
+        },
+        "reference": "ChIJsWVTF_pLwokRlJEGTU7JO1w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.570272,
+            "lng": -74.1341625
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5716170802915,
+              "lng": -74.13285706970849
+            },
+            "southwest": {
+              "lat": 40.5689191197085,
+              "lng": -74.1355550302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Wilder Av/Pinewood Av",
+        "place_id": "ChIJ83Ph7PpLwokRfggu8OGlk2I",
+        "plus_code": {
+          "compound_code": "HVC8+48 New York, NY, USA",
+          "global_code": "87G7HVC8+48"
+        },
+        "reference": "ChIJ83Ph7PpLwokRfggu8OGlk2I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573059,
+            "lng": -74.136749
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5744445802915,
+              "lng": -74.13540616970849
+            },
+            "southwest": {
+              "lat": 40.5717466197085,
+              "lng": -74.1381041302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Aultman Ave",
+        "place_id": "ChIJ-22Mu_BLwokR48LoVCnctwQ",
+        "plus_code": {
+          "compound_code": "HVF7+68 New York, NY, USA",
+          "global_code": "87G7HVF7+68"
+        },
+        "reference": "ChIJ-22Mu_BLwokR48LoVCnctwQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572926,
+            "lng": -74.136482
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57430643029149,
+              "lng": -74.13513946970849
+            },
+            "southwest": {
+              "lat": 40.57160846970849,
+              "lng": -74.13783743029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Andrews Ave",
+        "place_id": "ChIJKe-qvPBLwokR9W-NFI5fptY",
+        "plus_code": {
+          "compound_code": "HVF7+5C New York, NY, USA",
+          "global_code": "87G7HVF7+5C"
+        },
+        "rating": 4.5,
+        "reference": "ChIJKe-qvPBLwokR9W-NFI5fptY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57283,
+            "lng": -74.138458
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5741394302915,
+              "lng": -74.1371003197085
+            },
+            "southwest": {
+              "lat": 40.5714414697085,
+              "lng": -74.1397982802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Spruce St",
+        "place_id": "ChIJ1RyN4PBLwokR35tjSMPh8zg",
+        "plus_code": {
+          "compound_code": "HVF6+4J New York, NY, USA",
+          "global_code": "87G7HVF6+4J"
+        },
+        "rating": 5,
+        "reference": "ChIJ1RyN4PBLwokR35tjSMPh8zg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573238,
+            "lng": -74.134995
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5745788802915,
+              "lng": -74.13368411970849
+            },
+            "southwest": {
+              "lat": 40.57188091970851,
+              "lng": -74.1363820802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Wilder Av",
+        "place_id": "ChIJizEqG_pLwokRKpt4l9r6c2Y",
+        "plus_code": {
+          "compound_code": "HVF8+72 New York, NY, USA",
+          "global_code": "87G7HVF8+72"
+        },
+        "reference": "ChIJizEqG_pLwokRKpt4l9r6c2Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573193,
+            "lng": -74.134277
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57457118029149,
+              "lng": -74.13293406970848
+            },
+            "southwest": {
+              "lat": 40.5718732197085,
+              "lng": -74.1356320302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Wilder Av",
+        "place_id": "ChIJ5XOnGPpLwokRpi2c3pmBeK4",
+        "plus_code": {
+          "compound_code": "HVF8+77 New York, NY, USA",
+          "global_code": "87G7HVF8+77"
+        },
+        "reference": "ChIJ5XOnGPpLwokRpi2c3pmBeK4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57254,
+            "lng": -74.139748
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57391088029149,
+              "lng": -74.13840356970849
+            },
+            "southwest": {
+              "lat": 40.57121291970849,
+              "lng": -74.1411015302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/McKinley Ave",
+        "place_id": "ChIJwcuMEfFLwokRsfcH01DoniI",
+        "plus_code": {
+          "compound_code": "HVF6+24 New York, NY, USA",
+          "global_code": "87G7HVF6+24"
+        },
+        "rating": 1,
+        "reference": "ChIJwcuMEfFLwokRsfcH01DoniI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572456,
+            "lng": -74.141228
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5737997302915,
+              "lng": -74.1398779697085
+            },
+            "southwest": {
+              "lat": 40.57110176970851,
+              "lng": -74.1425759302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Lighthouse Ave",
+        "place_id": "ChIJGWbze_FLwokRUmDl7v2AOOk",
+        "plus_code": {
+          "compound_code": "HVC5+XG New York, NY, USA",
+          "global_code": "87G7HVC5+XG"
+        },
+        "reference": "ChIJGWbze_FLwokRUmDl7v2AOOk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57366899999999,
+            "lng": -74.13198899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57504643029149,
+              "lng": -74.13065826970849
+            },
+            "southwest": {
+              "lat": 40.57234846970849,
+              "lng": -74.13335623029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Altoona Av",
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+            ],
+            "photo_reference": "AU_ZVEGpNcb1VoQ5N4caSPUjik-IVcGiWmv0TM5xdJ1x4vYT2YBWvBMqiF84Soud7o6Iv3sis1m2Pzh1a1f1fjJvIQ293TvGVexn8uULqEvmDFv5XA448Cpjrz91Tcpqwlgh25Ifoj-DXRKOyDeuE3g5TJECQZb62jlW_M1ssxzK_ky3WCVbeqIrZlvsZWovOtUaL6e2KtzrHaep6RfUpuLz33McSYk00s8Nrm3kg3my3sIB0oJrLrxJxrhs2sQx-lCGQxdkAGUZJ4Mo75XK2n6PBv2Q5yEpJMJZrlloB4QQr6AUaGh5SMOULIaxr5lKJpgUtEbGojQJLalbiNhQWr-ivhYJPiavvPpiCqkIoUaSbVcYNAPKCI01BtiToHuzpO9DFI5_D12CfX25aHt3yQezw1L4eyYMgaFGoQnt7F7M6Ii1YqExJf9dbN_8JPh5a_m6W0DAU8wz1flQhI5VOL_BLkdks3zNPDpgkCrEHgeF3rQpI4M-M5i70imVBQqxbyhSWluLJL4XOBRxnABimvBVkLoyrnWvZGSf6EyXWhDroBlbK7egWjDjmkLzk0yYLoQ6lLCcrbuusinfRDqhDiZtmDl4Xx-KQ8F6zd_YC04L3bL2Ee1UISDL87h3eH3ALH5eXTFdMQ",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJza3dZPlLwokRYt2loLegEKs",
+        "plus_code": {
+          "compound_code": "HVF9+F6 New York, NY, USA",
+          "global_code": "87G7HVF9+F6"
+        },
+        "rating": 5,
+        "reference": "ChIJza3dZPlLwokRYt2loLegEKs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572487,
+            "lng": -74.14155600000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5737823802915,
+              "lng": -74.14019561970849
+            },
+            "southwest": {
+              "lat": 40.57108441970851,
+              "lng": -74.14289358029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Lighthouse Ave",
+        "place_id": "ChIJY2fhffFLwokReVeK5EQ9KQ4",
+        "plus_code": {
+          "compound_code": "HVC5+X9 New York, NY, USA",
+          "global_code": "87G7HVC5+X9"
+        },
+        "reference": "ChIJY2fhffFLwokReVeK5EQ9KQ4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574081,
+            "lng": -74.131317
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5753859802915,
+              "lng": -74.1299411697085
+            },
+            "southwest": {
+              "lat": 40.5726880197085,
+              "lng": -74.13263913029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Hitchcock Av",
+        "place_id": "ChIJCfcPQvlLwokRpvbAYfo18L0",
+        "plus_code": {
+          "compound_code": "HVF9+JF New York, NY, USA",
+          "global_code": "87G7HVF9+JF"
+        },
+        "reference": "ChIJCfcPQvlLwokRpvbAYfo18L0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.570602,
+            "lng": -74.134338
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5719562802915,
+              "lng": -74.1329302197085
+            },
+            "southwest": {
+              "lat": 40.5692583197085,
+              "lng": -74.1356281802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Wilder Ave/Pinewood Ave",
+        "place_id": "ChIJm7kmjfpLwokRuhP7kVTE7vU",
+        "plus_code": {
+          "compound_code": "HVC8+67 New York, NY, USA",
+          "global_code": "87G7HVC8+67"
+        },
+        "rating": 5,
+        "reference": "ChIJm7kmjfpLwokRuhP7kVTE7vU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.569942,
+            "lng": -74.13398699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5712862802915,
+              "lng": -74.1326995197085
+            },
+            "southwest": {
+              "lat": 40.5685883197085,
+              "lng": -74.1353974802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Wilder Ave/Pinewood Ave",
+        "place_id": "ChIJaRw16vpLwokRLcwyYyXew18",
+        "plus_code": {
+          "compound_code": "HV98+XC New York, NY, USA",
+          "global_code": "87G7HV98+XC"
+        },
+        "reference": "ChIJaRw16vpLwokRLcwyYyXew18",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57468399999999,
+            "lng": -74.12957
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57599428029149,
+              "lng": -74.1281976197085
+            },
+            "southwest": {
+              "lat": 40.57329631970849,
+              "lng": -74.13089558029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Mc Cully Ave",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+            ],
+            "photo_reference": "AU_ZVEHYonQbA6ZNT5ZkOCM7SoH9QnPn7n5_6J53zxH9FpcrKZEb33820lqsk3eFp8zMUQ1HKctT6eQqUnDRyIirITeHVDt1SWtAfLY_DQ8e-p2wxT4e6OE86zfde9NxthgnidjHOEFeVCaPcIVlKSF8G7WQq69b441-P3YDofotgRHNlAZpwSbIKVFEWJP5FTm91ugHuC0GSqF4tTfkISlkCnMON04ZIlV0cX0qz8F3rpJ3CsY4WEOyYQ-JMfThpTQ3Boaz0hTUklAWM-qZB3ihSpTv1j6AvlayfqhSNj4RceInbN7rcaH3iLloGcSQ1zTIc8p-0OG_9HkEO8XVKdl0q2bFF6sEtxAqlmL0KPzXSFeWC91zJGfhOR6rQhl8pjnsGSQUhFkx0nFDBa_NxQ10GRt78toCQrQWuy8gV8dwbpO4uYBSCRVrobOt6JLY1zCDoV_a6u-ZFqV9GTC39sgwKc8jy20SExBVZXLHERIeiLvlRQDomq3kRtOph6lVF9cix6rZcCvY6ipbLR4d8itALW5IONHCV2kh8K7eB3epYyb7kjpd0YJBbAaLqmTiW6gRyb714JZlvoQErCkferqsalSG4P3Ou_8TUjSztS-jHblRyPIGXTa5c86ZzvGPG_uXiGfwLQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJEX7pzf5LwokRxfCC9_aYya0",
+        "plus_code": {
+          "compound_code": "HVFC+V5 New York, NY, USA",
+          "global_code": "87G7HVFC+V5"
+        },
+        "reference": "ChIJEX7pzf5LwokRxfCC9_aYya0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57203699999999,
+            "lng": -74.14380600000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57341538029149,
+              "lng": -74.14246326970849
+            },
+            "southwest": {
+              "lat": 40.57071741970849,
+              "lng": -74.14516123029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/St Patricks Pl",
+        "place_id": "ChIJS1seTvJLwokRAuSqPjqzAqQ",
+        "plus_code": {
+          "compound_code": "HVC4+RF New York, NY, USA",
+          "global_code": "87G7HVC4+RF"
+        },
+        "reference": "ChIJS1seTvJLwokRAuSqPjqzAqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572094,
+            "lng": -74.144348
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5734140802915,
+              "lng": -74.1429930197085
+            },
+            "southwest": {
+              "lat": 40.5707161197085,
+              "lng": -74.1456909802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/St Patricks Pl",
+        "photos": [
+          {
+            "height": 2933,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117325752822198671426\">Anuar T</a>"
+            ],
+            "photo_reference": "AU_ZVEHgEGuTpV19kTxJrOJfZSCmCUOdFa24IFSdNcQ1e4j0-mqVHXgGfXGdH8offUoze7NQ75Kd8mMmlOtcGNQRlzaiUI-bmoIFoaq10WrcR8th1yNcfA88WaEYgC1gXJ-X1nW7soWdZv78phWAbQFpEbjM2BRSFgxx2qBKsh561yjU-GAQs64HYVIX1AnV9ftMEPwU0ovzfXjzgZzt9kzPyhQ09eH6MUYcN0r629p7a3cJ9lzKTtn4lnK-arOM4vxDxLQfAQ88-UB-c17za42lNNebE10JiB0FvtgBsJ9SgUTxu4QRZs2aKp1-opPXhslIxtoFX7MFzpkAISDyzBCEYyTmXH8JrWvjcHw9msA4BJ80_-GZ8RbRatlgQaBtCVGJwisvq_sVGzbyvIS4435Gsm4wX2ZLWJUXTgK5E6Tra8lyg6zlszx-r1SpivY4jtJ0ADHPQIVrM8PwK84-19HNQMmRt9iNYMfdZaVlVafjACWmh_QVEFAA0-NbEEXcAu5zHTCZZAxRta8VMQeOAWP0D6H30gWOVQ36t1srWQoReXM0zItkRg0zA59EsSPFGqPYRAS2yRU5dO9eG5yBznORMIaGbvdTG7qoqnD-AL4k5XyWgWh2u1PRwKFu_LNt6MZb88Bp6A",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJVev0VvJLwokRLx7XyySiRuw",
+        "plus_code": {
+          "compound_code": "HVC4+R7 New York, NY, USA",
+          "global_code": "87G7HVC4+R7"
+        },
+        "reference": "ChIJVev0VvJLwokRLx7XyySiRuw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574757,
+            "lng": -74.128693
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5761554802915,
+              "lng": -74.1273739697085
+            },
+            "southwest": {
+              "lat": 40.5734575197085,
+              "lng": -74.13007193029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Bishop St",
+        "place_id": "ChIJJROM3P5LwokRUgBNIxg-Z6s",
+        "plus_code": {
+          "compound_code": "HVFC+WG New York, NY, USA",
+          "global_code": "87G7HVFC+WG"
+        },
+        "reference": "ChIJJROM3P5LwokRUgBNIxg-Z6s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572037,
+            "lng": -74.146706
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57335748029149,
+              "lng": -74.14536611970848
+            },
+            "southwest": {
+              "lat": 40.57065951970849,
+              "lng": -74.14806408029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/St Patricks Pl",
+        "photos": [
+          {
+            "height": 2721,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109699676182291066808\">Louis Rainer</a>"
+            ],
+            "photo_reference": "AU_ZVEGmsw-hBj5k9zy-q2Qh4wyMtGbw0yeow9LxpgkGFg2O4BTtJE6hDsrhyM67JlBCR_pRKtG_qb7PTpf5hVKxrNP1pPWfuRclxIZQnPq4sgJPQ1kY5tanfXfsoiJR-68hKM6DmSHgLxHzZPcTefEPeSOYGd_AdKfnv1R_bIOn6LkPe6FnoCmoAsaBvzEleX5F2UBPIDptsCTLSiws3ck_Ei88qpr6ctQ0mAL05n6io2Gbb-lRTvBa06tkW5xhFOVqFHZ93r87eObigZRzUDFCK8yoE9uwplsTrAFp4ja-DyX2ijY6fiY_S07Ifg5_QwBnEXftRwTshALkNOETHqHB8X-3iSaDC5BS21dNvPk9xRvFojz7cnmjDAE0NyVolvrfogYsaNuf7Otaecb3U9QWcUbKoGQ-uqDfb96V6dLEwKkqqhEEVbHLhihWkZL6eJyPhXiBLyE1qOFvi0nCuhn8iryUax9HbBSJYkMR2iXuto3-gwbmEYgF5tunqIOsEaMJMjVieuVHiiYcoOkZXvYvERC8InhyDEYCCUO__u3wL-e8exVVVuZ2A_l0z-L2xNoBwtyjBb34xCX9c-3xwnedTFR1_lPQwNHDTSLOgk9b5Y1482RQuGSA-IXPjokySkzcc6SHPg",
+            "width": 4081
+          }
+        ],
+        "place_id": "ChIJL8yCxfJLwokRz5CFIkUK42w",
+        "plus_code": {
+          "compound_code": "HVC3+R8 New York, NY, USA",
+          "global_code": "87G7HVC3+R8"
+        },
+        "reference": "ChIJL8yCxfJLwokRz5CFIkUK42w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5775815,
+            "lng": -74.1272125
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5789176802915,
+              "lng": -74.12588686970851
+            },
+            "southwest": {
+              "lat": 40.5762197197085,
+              "lng": -74.12858483029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Av/St George Rd",
+        "place_id": "ChIJAWvqgQBMwokRdKfs7hJ45zY",
+        "plus_code": {
+          "compound_code": "HVHF+24 New York, NY, USA",
+          "global_code": "87G7HVHF+24"
+        },
+        "reference": "ChIJAWvqgQBMwokRdKfs7hJ45zY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57772800000001,
+            "lng": -74.127327
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5789947802915,
+              "lng": -74.12595361970848
+            },
+            "southwest": {
+              "lat": 40.5762968197085,
+              "lng": -74.12865158029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Ave/St George Rd",
+        "place_id": "ChIJdXl5gQBMwokRVTsehuu0cbM",
+        "plus_code": {
+          "compound_code": "HVHF+33 New York, NY, USA",
+          "global_code": "87G7HVHF+33"
+        },
+        "reference": "ChIJdXl5gQBMwokRVTsehuu0cbM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.577469,
+            "lng": -74.12715899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5788190302915,
+              "lng": -74.1258731197085
+            },
+            "southwest": {
+              "lat": 40.5761210697085,
+              "lng": -74.12857108029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Ave/St George Rd",
+        "place_id": "ChIJMXAwfv9LwokRrx0ZeZ-XxAA",
+        "plus_code": {
+          "compound_code": "HVGF+X4 New York, NY, USA",
+          "global_code": "87G7HVGF+X4"
+        },
+        "reference": "ChIJMXAwfv9LwokRrx0ZeZ-XxAA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57181499999999,
+            "lng": -74.147224
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57314763029149,
+              "lng": -74.1458143697085
+            },
+            "southwest": {
+              "lat": 40.5704496697085,
+              "lng": -74.14851233029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Center St",
+        "place_id": "ChIJR_e0y_JLwokRNJ97d0A53D0",
+        "plus_code": {
+          "compound_code": "HVC3+P4 New York, NY, USA",
+          "global_code": "87G7HVC3+P4"
+        },
+        "reference": "ChIJR_e0y_JLwokRNJ97d0A53D0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5716055,
+            "lng": -74.1472165
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5729575302915,
+              "lng": -74.1458789197085
+            },
+            "southwest": {
+              "lat": 40.5702595697085,
+              "lng": -74.1485768802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Center St",
+        "place_id": "ChIJVemStfJLwokRL5CF5aortnQ",
+        "plus_code": {
+          "compound_code": "HVC3+J4 New York, NY, USA",
+          "global_code": "87G7HVC3+J4"
+        },
+        "reference": "ChIJVemStfJLwokRL5CF5aortnQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57563799999999,
+            "lng": -74.126144
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57697458029149,
+              "lng": -74.12478656970849
+            },
+            "southwest": {
+              "lat": 40.57427661970849,
+              "lng": -74.1274845302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Morley Ave/Ebony St",
+        "place_id": "ChIJl0Xauv9LwokRoc0rJ_6Fe6A",
+        "plus_code": {
+          "compound_code": "HVGF+7G New York, NY, USA",
+          "global_code": "87G7HVGF+7G"
+        },
+        "reference": "ChIJl0Xauv9LwokRoc0rJ_6Fe6A",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.571396,
+            "lng": -74.147209
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5727687302915,
+              "lng": -74.14586801970849
+            },
+            "southwest": {
+              "lat": 40.5700707697085,
+              "lng": -74.1485659802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Center St",
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108745938453133021961\">Alex Varela</a>"
+            ],
+            "photo_reference": "AU_ZVEGCjvlOz1mi34EA_bRCuZ-9rAOdyxSmP2t-GQGCDiwTQxRTbXHQAD-QklbUvR1M6m2fZd4X0_R-c6sYvl0D3aQ2TLmNPpEGgGz8Qqbj-JmchBFfgIw4yJGiYIH71cI6Je9lDSyeiKAuLL2vDKQKQlQsQRbgHnHdIqsw3-7NjecLNzb-ZnAlD18HaQhIWD571CHpsQPugHBjWaDPQjswfMJxJhgBQHbvsDcR4pj9-vs4mM_EvfxOrYaGc3RdJzXQ9RiVPFefDFPrLvJvBCs8osTalNCaaDT6vyiNLcIMun-Tz78meFLmszLwZq4Lq6AvuyrFoGst-QHBNh-62xlj1vPxVhtsGupvZrgWd7ksjPa3WEUa0ZddLfCkX7H8ldsnWHaDVJQR2zSzr_dD9hczGwWxzC6lJTeqKVV6ItfdCN-IpErw0TQG_6bwT1RwPbS_1muQ5Nn8AFWHBKaNCC9J3yKE3YVhwuG3ZC2kQ2Vdrk8nZzRbhuibDzKwzdvgjo0JQfv8cb1lyeR3Zxf5NrqzxkoVWKQvrrtRX6PSih3n2nnxlIPec6Uesg8pYksEMdRLomHJxWsay2gqJHRXoirRKuMxysn8a1hc-aXsgNsOdLxnz680ehlUFXzpcN-c9kiE",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJQVMTtPJLwokRCuEOIL3wpZ4",
+        "plus_code": {
+          "compound_code": "HVC3+H4 New York, NY, USA",
+          "global_code": "87G7HVC3+H4"
+        },
+        "reference": "ChIJQVMTtPJLwokRCuEOIL3wpZ4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57620199999999,
+            "lng": -74.12606
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57750968029149,
+              "lng": -74.1247318697085
+            },
+            "southwest": {
+              "lat": 40.57481171970849,
+              "lng": -74.1274298302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Enfield Pl",
+        "place_id": "ChIJpYe3l_9LwokRsw5A9XwX4ho",
+        "plus_code": {
+          "compound_code": "HVGF+FH New York, NY, USA",
+          "global_code": "87G7HVGF+FH"
+        },
+        "reference": "ChIJpYe3l_9LwokRsw5A9XwX4ho",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.579636,
+            "lng": -74.12752499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5809849802915,
+              "lng": -74.12617601970848
+            },
+            "southwest": {
+              "lat": 40.5782870197085,
+              "lng": -74.1288739802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Ave/Nevada Ave",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101703225319793704977\">Marc</a>"
+            ],
+            "photo_reference": "AU_ZVEF2a8qdunGjycIkzXrUwcczTCnGcRy-4VvepTDu12UmkTMBcSwmMkcIl0mlPx6wH_-lndWOulX04MgiLhn30L2fiQokI33YQpLuQqoEQzz0Nbkcbc4mg3OaGA4uBA8AQQTPveD5vyvSL3yueinop7KpFzEqM28QvAH_2KyJvG-wA52lnOSe3GJXHs-dMUAGDpjZQQfyonU0eVKQQ36JLSHztumtj2KCd27JYAlifAXAGwY28c4wMaBbb7wY78dDJfsXegIOs3mSnljB4vvlgCe4X1t_2ZMRtiu-rhKC9qHUk6C4v57bPwRXd_dNKCjo_OR9gnBdNy4rh_u3Liouks8XvmNzwfhD6nPN7lcGvgtLfMLJXV5P_U36XqjLNafr1FaUofLm5CMjGNeEShJCxw-PwE8G_c_37cGfw14F1hJnwUSum6DHXr6TgA0_PY8BmJOQ89mCmV1kf_ggjWWCy-afDyQK7BafD_TPVHsOnAqwwBTORtMQz3xFgeZp57LRnfY8xyCCRH23CEvhHFBjBnpkquyIcXW4CqMXDE0GJf4vXxj0pdeNx93WxGz3r5o-imJDjJxCLkGerO6rqGvj95Svs9yKzSKZvGZGyesqF2aRC2rQzviuaTyWYxYt6Hyvehd-ag",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJn-UN-wBMwokRgjJlbLmlPKg",
+        "plus_code": {
+          "compound_code": "HVHC+VX New York, NY, USA",
+          "global_code": "87G7HVHC+VX"
+        },
+        "rating": 5,
+        "reference": "ChIJn-UN-wBMwokRgjJlbLmlPKg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57967199999999,
+            "lng": -74.1274565
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5810149802915,
+              "lng": -74.12612406970848
+            },
+            "southwest": {
+              "lat": 40.57831701970851,
+              "lng": -74.12882203029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Av/Nevada Av",
+        "place_id": "ChIJ45yb-wBMwokRPeSbGXfWWcw",
+        "plus_code": {
+          "compound_code": "HVHF+V2 New York, NY, USA",
+          "global_code": "87G7HVHF+V2"
+        },
+        "reference": "ChIJ45yb-wBMwokRPeSbGXfWWcw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.579708,
+            "lng": -74.127388
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5810511802915,
+              "lng": -74.12605496970849
+            },
+            "southwest": {
+              "lat": 40.5783532197085,
+              "lng": -74.1287529302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Ave/Nevada Ave",
+        "place_id": "ChIJ8UX1-wBMwokRRQuXxkTrSI4",
+        "plus_code": {
+          "compound_code": "HVHF+V2 New York, NY, USA",
+          "global_code": "87G7HVHF+V2"
+        },
+        "reference": "ChIJ8UX1-wBMwokRRQuXxkTrSI4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.581074,
+            "lng": -74.128456
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5824138802915,
+              "lng": -74.12712321970848
+            },
+            "southwest": {
+              "lat": 40.5797159197085,
+              "lng": -74.1298211802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockland Ave/Florida Terrace",
+        "place_id": "ChIJD_rkPQFMwokRn8HUOzpE7qs",
+        "plus_code": {
+          "compound_code": "HVJC+CJ New York, NY, USA",
+          "global_code": "87G7HVJC+CJ"
+        },
+        "reference": "ChIJD_rkPQFMwokRn8HUOzpE7qs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5732187,
+          "lng": -74.1365732
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5745341302915,
+            "lng": -74.13521821970849
+          },
+          "southwest": {
+            "lat": 40.5718361697085,
+            "lng": -74.13791618029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-983-8344",
+      "name": "Casa Verde Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2770,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103351381600041576098\">Tony&#39;s Lists</a>"
+          ],
+          "photo_reference": "AU_ZVEF85bKfoh4nyPQecI0isgeyK-0JdFk2KcRxnv4xOn92RrBFsQqiF4GmthBp3VwZ5kBs76uvtd7q5GRF4H-JrrIOrqrVlr5Abt-MtlM6Kz3ojPAdVkYixrmV0dqxNpNWakA-OxBHgGIbG39BNRKwywRfzhmNY82_npMFzOOKOzXUdWfjg4q-JdysVSTASICxS_Bb8zLAwWrYmn2QHmNHSUHBumja3SbBeB3-Q-sGnMMQBRsBX4g6mmjPgXNIAcnxd490iJwToYCgp7jXekybRRKPJjMbbvwCAyGn2sj-RItzoGpHJ8kWQhAQLx_pKNJdRuvS-bxJvl8FY_TTnhY5wT_De2PDmLk0MD3pASQP7lAmziopwKt248y9jtxnGuLJDOuQG6wskHppAqsz7dV7qX4gL61Nj2jKHLa93c7qQrgA-KmNoE9_1ML7anSH-Ui0Ag3mdT7JINL-C6iz3XLnDtA0b7xcljMibATG97xCdsqWyiK0hja6ePfnzqhc2kbRyxtvvsfa1u5OfQU5-cf9b9nxv4xefHdBAXwsRrdqj9chkx1suKnFMSpYOZzh7NC_-N1Pco6XxiuYYGpBmpC_cxQO15KZA21feTWWRz-DN4fj5nMPIvcGzsEOIGmGdLneAYTG8HrD",
+          "width": 3694
+        }
+      ],
+      "place_id": "ChIJ1-OrIoJLwokR_i4HunJOIpE",
+      "plus_code": {
+        "compound_code": "HVF7+79 Staten Island, NY, USA",
+        "global_code": "87G7HVF7+79"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJ1-OrIoJLwokR_i4HunJOIpE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 364,
+      "vicinity": "3471 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5754621,
+          "lng": -74.1279354
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57683473029149,
+            "lng": -74.12648266970848
+          },
+          "southwest": {
+            "lat": 40.5741367697085,
+            "lng": -74.1291806302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-980-0502",
+      "name": "Gourmet Chef",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 627,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115654266945014340121\">Gourmet Chef</a>"
+          ],
+          "photo_reference": "AU_ZVEEW8fJGksNR15v-bgkDLIS-F57519WwhNuhR2pjl1hx4AobKJ_ptuhF7v0LBGohXukSlUr1PkfWY7G9Iw1nqNsKgHLueaQCcsxem6GAs6RY2CGottFMtOnJp7vg-Pw5suU6sZGt6UaMgX2Q1UWWuvzG8eTo-Tdorb0eZ-0wWlk-wNkI9PPeWTcbV1jgHGIyZ55et_h_vXghGjEblFOaAT7F_sRS771Mf5wy4qyk9MR6Z72GwDokntd8uuubpP-coXbMiFGZ9AgAkmSyS8dErVjHc8lriojzplF9y_0CiHEFVyjoFYw16qjSbWyMDyfQEFLHAcRoRHI",
+          "width": 1000
+        }
+      ],
+      "place_id": "ChIJKe2uHP9LwokR15jjvIHCVb0",
+      "plus_code": {
+        "compound_code": "HVGC+5R Staten Island, NY, USA",
+        "global_code": "87G7HVGC+5R"
+      },
+      "rating": 4,
+      "reference": "ChIJKe2uHP9LwokR15jjvIHCVb0",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 49,
+      "vicinity": "3201 Richmond Road # A, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5754907,
+          "lng": -74.1278914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57683473029149,
+            "lng": -74.1264606697085
+          },
+          "southwest": {
+            "lat": 40.5741367697085,
+            "lng": -74.1291586302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-987-2500",
+      "name": "Pizza Mia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104720662866089387673\">Cassidy Simon</a>"
+          ],
+          "photo_reference": "AU_ZVEGTLN_ngDGv9oWDkCJzjhRd7hSwUCdJzHfVPtiHa6FmpNNLhT-h88q17Ln6PlJy-GijBWKnzmmKtpl_StFjYYL9OVPQwUoC0YdzNfTtiBMCU7GcR81i8pp5av5dJZQDSyK0-QX-1Tcpa1qGjueNd1XnT1ZvFl2BLGLOpwNRk6b0bzJe1DcnDnTYFy_GNiDg2-dza4dhQIg3yTbK4DhyhCkXKF42EdxIOEPHhKhzuADeUHxEuX6cybCLrYHMTr-t2h8nySxYNlpuHSpNHvpvXnmP2l9WntiwfqOJ2Dh0gHPYiCPtvxKa0uKCZsbU2OELH8NSguCbhWXCPJU5FuAMNbMwxQXh8heaMoHI3w9WfIyAeS6stpM-Dv8tkzR-KLXMInU_d0g0xtgaurm-afncoVUjPG6oDpV1jT56d-NxDy07QF30Y0Q9PSyyBlje0WMuA0bknJsIU9r6vCkmcCiF0i_F9ximnVslHwkxkkzWcHun5gRa8mIvuBKa9yaC_WHPiUQAkiD4xR5yQ_zLFFpJoQsrc_aRwILR_9tLk_j5cJrMVEzfOIAfJ5dLcac5vutenly3LTmV1KWMSjUqjyXCC_NOYBaCChm5tW0yFQ3WvaKj65HA5IHwgi0KVHe8cjxjUGcvxA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJhRCyuW5LwokRed1PS8JlkMs",
+      "plus_code": {
+        "compound_code": "HVGC+5R Staten Island, NY, USA",
+        "global_code": "87G7HVGC+5R"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJhRCyuW5LwokRed1PS8JlkMs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 65,
+      "vicinity": "3201 Richmond Road Ste B, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57092050000001,
+          "lng": -74.1456038
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5721680802915,
+            "lng": -74.14424731970848
+          },
+          "southwest": {
+            "lat": 40.56947011970851,
+            "lng": -74.14694528029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+      "international_phone_number": "+1 718-351-1611",
+      "name": "Historic Richmond Town",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112379621681844926710\">Kelly C</a>"
+          ],
+          "photo_reference": "AU_ZVEGLoWdw95_C_5Qn5k2Yuszm_vU9eoq72EPkZi1OtMfsAs9lQYHHz9q7Qp0emworKqVrVLIWPZWbPQoRPAk5Nk2jo1TTfT1x5UsHLhFCio_7Rb5nr3AUCgicFZeGbIuzBzzI5tMKucQ4FQnsbqeNlXQySNeO5jeG--P4SWzp54pO9SbW3iQP6OCjfOciGmxTEDYkT6HQe6Sap_JG3v8uV7a2BjNGOnSnIL9U3cZShbshMWGL-r2qf5OtNseZ0cd0g8BD1AzZuZl3kL9TedPFhyDhDxifbtc_OjuDygjFcTGw1vJ_kU96l6vzm22RYGuLDgK93-toLECpwJ-vP68K713OjY2KcHgh0VsZ7FikwkcAkJlEkLBkydMHmx3Inr2SO-L6UofztResbX50VUynsJcPcvucBNnyaNEPBJtnCkBQpH5V0njanEGw9-jrZcappCuPjEVIvnbsUAuFfvEQ3S8Slf-apT2MxKFQshVwqCXjeI39ODzfDqvGo6UfMYmafOBWn1dcicOmM9QbY5Jjzd5pH8mbTY6w9_Cbumst98WDgmZD6cFfxrO4MVZ9QicUinTjoh-dMvrMc_kPAybQrQaC3TY1nVITUBUaz5nxr08KQWbwq4Vk2gEKSkLPxFaGbUxGJg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjc2Kfu1LwokRlnmTgFg-Jjc",
+      "plus_code": {
+        "compound_code": "HVC3+9Q Staten Island, NY, USA",
+        "global_code": "87G7HVC3+9Q"
+      },
+      "rating": 4.5,
+      "reference": "ChIJjc2Kfu1LwokRlnmTgFg-Jjc",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 970,
+      "vicinity": "441 Clarke Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.576316,
+          "lng": -74.13814599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5777074302915,
+            "lng": -74.1369178697085
+          },
+          "southwest": {
+            "lat": 40.5750094697085,
+            "lng": -74.1396158302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+      "international_phone_number": "+1 718-987-3500",
+      "name": "The Jacques Marchais Museum of Tibetan Art",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114679351429024903504\">The Jacques Marchais Museum of Tibetan Art</a>"
+          ],
+          "photo_reference": "AU_ZVEHKy9BipSK2AwgpoZDeJkoAsn3s0C6CByRP3mM91qujeGDRNKZsRb50mpweSUslz2SDozUUBkBpA6gkmMnZ06S6DeXvYUC9VNGw3EobD7597oigeRqwTlE3Qe_Gp3xzeeqae9e7l4hS1L6VnzwvIzZzYoVr2Vefh8E5VvyStTwmS7Ccnqb04oNDsFvW9UL5E1KJbPJYi_FbKcnVZM0Ft_9UKa4ypue_FQ8N06V4vSmw4zLXn3ofF_Ssb_VAyr7dKKBD7seg0s_PfP5OLTI5BMQvw1m2h22Ba0li1z9YAI_4Dk_fPCIBTNFAD6An6ykclZCYZgiQqQU",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJrzxHAfdLwokR0CqIJmr-3ZM",
+      "plus_code": {
+        "compound_code": "HVG6+GP Staten Island, NY, USA",
+        "global_code": "87G7HVG6+GP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJrzxHAfdLwokR0CqIJmr-3ZM",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "art_gallery",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 105,
+      "vicinity": "338 Lighthouse Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5708333,
+          "lng": -74.1436111
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5721539802915,
+            "lng": -74.14242581970849
+          },
+          "southwest": {
+            "lat": 40.5694560197085,
+            "lng": -74.14512378029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+      "international_phone_number": "+1 718-979-4227",
+      "name": "St. Patrick's Church",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3586,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103351381600041576098\">Tony&#39;s Lists</a>"
+          ],
+          "photo_reference": "AU_ZVEG9Yrx4bdxuQ_RlQOwbEhcFrxcevK0E7nNcZO69NoJMBcIq1N4t_pWyj8kMEYnYciraJn9mXEJa4GTt1d18G8eRj-Gu_ZnoWuEajkY8tMVM86o61Tq2fLSKWSBgXRL_3B43EAwWpMrzKg7b5GzMUD6G__FvKUZUGcQOppcJvnl4dPdvd8jvcE_mcWCxiA7v1c00u4czMmyUQkLu_Fq0llHi9GbFS21dAEL43F19uTrf3dR9TdA4tVxgPGu5WvfgegsBVqkPSOqvZziQL5UdJHl-VeaEXcWnZtVkaCZwycwOreihkYSWacubGjwEThEdYr8QMSSC1tlFRdjNGHfz8mZO2CNJ5wSSxpUdMivswFIgPnsmAaL1-YhObyee9Zzzf8MBlBSeLFdvjU8oimzkq4apjzqNTICvM6H9xzr2B6i8ziwgduVxRfJe-gpZM9bfJnaKnIHAFr8q-JZ035G5yJFQhSBBmB0XdbdJnfhiuztidloN-XNaohdz95snU7nsBRnvqaCSGBOJeOJ0VgH-_TBk3ALIR5dGmweutjeJ0m2oBKVtf05ahN01DLNXZ9eB2EdCnORIPpvwBBiR9Id-Oi6BctlYrw24-42SsIpI9KeoESbqwTJea03cERcnGGlN",
+          "width": 2690
+        }
+      ],
+      "place_id": "ChIJXae5cfJLwokR6uli_sHpdJA",
+      "plus_code": {
+        "compound_code": "HVC4+8H Staten Island, NY, USA",
+        "global_code": "87G7HVC4+8H"
+      },
+      "rating": 4.8,
+      "reference": "ChIJXae5cfJLwokR6uli_sHpdJA",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 117,
+      "vicinity": "53 Saint Patricks Place, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58270819999999,
+          "lng": -74.1417053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5906984,
+            "lng": -74.13958815000001
+          },
+          "southwest": {
+            "lat": 40.57972240000001,
+            "lng": -74.14805674999998
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Latourette Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103640750109921949972\">Latourette Park</a>"
+          ],
+          "photo_reference": "AU_ZVEFerpeyIIlCH-cLMRRT33JMUhhDF_az79IFOnNdLe8EM8pTUwnst-UOHKQwntk3_Trr4La-C828wSmxnV6mQLvA13AA9kf_2tZqBUcs5VLG655yB_UIQNyjUDOxglMPoYw3-aZQtEsEpvrz6ZeWpG1asaHWQzxSOi18mVijbnCWYQmBdgMl3HTxzxYqeo2vPVyQwwCsSTCCkRm00C7QSj7b_ya5ctMxGgQ-QAWAYDw6xOtzTLYr8k5EiR70MCwY5SblHUDcEaM79UdhQhYHkIRhjplPq6C0Ma1EeuVCbl07FW0z9A2ILoBM9wpjiyElTyeVaTBsShQ",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJ0SNFyYdLwokRHrw1PK2KDJE",
+      "plus_code": {
+        "compound_code": "HVM5+38 Staten Island, NY, USA",
+        "global_code": "87G7HVM5+38"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ0SNFyYdLwokRHrw1PK2KDJE",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 808,
+      "vicinity": "Rockland Ave. &, Forest Hill Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5694492,
+          "lng": -74.1299487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5708580302915,
+            "lng": -74.12850966970849
+          },
+          "southwest": {
+            "lat": 40.5681600697085,
+            "lng": -74.1312076302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lights for joy",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108832321245153204406\">NotUrAvgDad</a>"
+          ],
+          "photo_reference": "AU_ZVEF0skJ48o1aamytjnHZ7T0X9NI9wWNb6NBd0196Ie1XxgjGhzrmeH4wWg2iGa9yPbRK0jMmWlwKiWjwTN3lf02nUoAryOhUTourF17NeGKCgnZleQarKuVUCzXg5s3aN7mshksFp875-72ucWVPrN_J2vLloEr0hZbKCmhYO3l37PqtB-9Y6v3dSO1INIYQfDR6nxqEbcnKipt8zpFYNPGMOa8ucaz2MQyqQFw_C3i5I6PolaA_uMPfwHnOg2qyJIydJbLE7ei_CndIpMbGgNntop0h-6UrMBTkTaREydr8kSutdfcal-c1JUH1b35djN5LgvuxXMM9luvLTml2cxUXzJdAr0E3Nt_2gaCnWVZGr9o6eFEfdWVUh-jQVuPwO2wNv2BqFe-SNkfJdsv1xJPK6gAhtNi4fgucy8ZFmp5NHxkh0ep4NX_SyCYLaBar9Ss4m5zyRWqrGnZP-cV453LJUhdGT6TabBCJ9iX_N3hOznAJS-_ZWal2jqdkwIMGFhLh6mtk8v9ZKXlVKTgBBaiPRjh3_x_CE8OJeIiCl6dIzXk6CazYpvStqiPgU8nKA2RTFrEP8Buh8QcA9YUY97SoJy3MEkTDkQKyU61FRhWXp-J8mNRftAJxZqbOW4QnjdpQHHR9De1NUOBD4fgI9rS_o48",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJl57OCQBLwokRV-uzvt-R2bg",
+      "plus_code": {
+        "compound_code": "HV9C+Q2 Staten Island, NY, USA",
+        "global_code": "87G7HV9C+Q2"
+      },
+      "rating": 5,
+      "reference": "ChIJl57OCQBLwokRV-uzvt-R2bg",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "98 East Broadway, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5729615,
+          "lng": -74.134632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57431148029151,
+            "lng": -74.13327296970849
+          },
+          "southwest": {
+            "lat": 40.57161351970851,
+            "lng": -74.13597093029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wilder Av/Richmond Rd",
+      "place_id": "ChIJsWVTF_pLwokRlJEGTU7JO1w",
+      "plus_code": {
+        "compound_code": "HVF8+54 New York, NY, USA",
+        "global_code": "87G7HVF8+54"
+      },
+      "reference": "ChIJsWVTF_pLwokRlJEGTU7JO1w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.570272,
+          "lng": -74.1341625
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5716170802915,
+            "lng": -74.13285706970849
+          },
+          "southwest": {
+            "lat": 40.5689191197085,
+            "lng": -74.1355550302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wilder Av/Pinewood Av",
+      "place_id": "ChIJ83Ph7PpLwokRfggu8OGlk2I",
+      "plus_code": {
+        "compound_code": "HVC8+48 New York, NY, USA",
+        "global_code": "87G7HVC8+48"
+      },
+      "reference": "ChIJ83Ph7PpLwokRfggu8OGlk2I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573059,
+          "lng": -74.136749
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5744445802915,
+            "lng": -74.13540616970849
+          },
+          "southwest": {
+            "lat": 40.5717466197085,
+            "lng": -74.1381041302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Aultman Ave",
+      "place_id": "ChIJ-22Mu_BLwokR48LoVCnctwQ",
+      "plus_code": {
+        "compound_code": "HVF7+68 New York, NY, USA",
+        "global_code": "87G7HVF7+68"
+      },
+      "reference": "ChIJ-22Mu_BLwokR48LoVCnctwQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572926,
+          "lng": -74.136482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57430643029149,
+            "lng": -74.13513946970849
+          },
+          "southwest": {
+            "lat": 40.57160846970849,
+            "lng": -74.13783743029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Andrews Ave",
+      "place_id": "ChIJKe-qvPBLwokR9W-NFI5fptY",
+      "plus_code": {
+        "compound_code": "HVF7+5C New York, NY, USA",
+        "global_code": "87G7HVF7+5C"
+      },
+      "rating": 4.5,
+      "reference": "ChIJKe-qvPBLwokR9W-NFI5fptY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57283,
+          "lng": -74.138458
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5741394302915,
+            "lng": -74.1371003197085
+          },
+          "southwest": {
+            "lat": 40.5714414697085,
+            "lng": -74.1397982802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Spruce St",
+      "place_id": "ChIJ1RyN4PBLwokR35tjSMPh8zg",
+      "plus_code": {
+        "compound_code": "HVF6+4J New York, NY, USA",
+        "global_code": "87G7HVF6+4J"
+      },
+      "rating": 5,
+      "reference": "ChIJ1RyN4PBLwokR35tjSMPh8zg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573238,
+          "lng": -74.134995
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5745788802915,
+            "lng": -74.13368411970849
+          },
+          "southwest": {
+            "lat": 40.57188091970851,
+            "lng": -74.1363820802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Wilder Av",
+      "place_id": "ChIJizEqG_pLwokRKpt4l9r6c2Y",
+      "plus_code": {
+        "compound_code": "HVF8+72 New York, NY, USA",
+        "global_code": "87G7HVF8+72"
+      },
+      "reference": "ChIJizEqG_pLwokRKpt4l9r6c2Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573193,
+          "lng": -74.134277
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57457118029149,
+            "lng": -74.13293406970848
+          },
+          "southwest": {
+            "lat": 40.5718732197085,
+            "lng": -74.1356320302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Wilder Av",
+      "place_id": "ChIJ5XOnGPpLwokRpi2c3pmBeK4",
+      "plus_code": {
+        "compound_code": "HVF8+77 New York, NY, USA",
+        "global_code": "87G7HVF8+77"
+      },
+      "reference": "ChIJ5XOnGPpLwokRpi2c3pmBeK4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57254,
+          "lng": -74.139748
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57391088029149,
+            "lng": -74.13840356970849
+          },
+          "southwest": {
+            "lat": 40.57121291970849,
+            "lng": -74.1411015302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/McKinley Ave",
+      "place_id": "ChIJwcuMEfFLwokRsfcH01DoniI",
+      "plus_code": {
+        "compound_code": "HVF6+24 New York, NY, USA",
+        "global_code": "87G7HVF6+24"
+      },
+      "rating": 1,
+      "reference": "ChIJwcuMEfFLwokRsfcH01DoniI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572456,
+          "lng": -74.141228
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5737997302915,
+            "lng": -74.1398779697085
+          },
+          "southwest": {
+            "lat": 40.57110176970851,
+            "lng": -74.1425759302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Lighthouse Ave",
+      "place_id": "ChIJGWbze_FLwokRUmDl7v2AOOk",
+      "plus_code": {
+        "compound_code": "HVC5+XG New York, NY, USA",
+        "global_code": "87G7HVC5+XG"
+      },
+      "reference": "ChIJGWbze_FLwokRUmDl7v2AOOk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57366899999999,
+          "lng": -74.13198899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57504643029149,
+            "lng": -74.13065826970849
+          },
+          "southwest": {
+            "lat": 40.57234846970849,
+            "lng": -74.13335623029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Altoona Av",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+          ],
+          "photo_reference": "AU_ZVEGpNcb1VoQ5N4caSPUjik-IVcGiWmv0TM5xdJ1x4vYT2YBWvBMqiF84Soud7o6Iv3sis1m2Pzh1a1f1fjJvIQ293TvGVexn8uULqEvmDFv5XA448Cpjrz91Tcpqwlgh25Ifoj-DXRKOyDeuE3g5TJECQZb62jlW_M1ssxzK_ky3WCVbeqIrZlvsZWovOtUaL6e2KtzrHaep6RfUpuLz33McSYk00s8Nrm3kg3my3sIB0oJrLrxJxrhs2sQx-lCGQxdkAGUZJ4Mo75XK2n6PBv2Q5yEpJMJZrlloB4QQr6AUaGh5SMOULIaxr5lKJpgUtEbGojQJLalbiNhQWr-ivhYJPiavvPpiCqkIoUaSbVcYNAPKCI01BtiToHuzpO9DFI5_D12CfX25aHt3yQezw1L4eyYMgaFGoQnt7F7M6Ii1YqExJf9dbN_8JPh5a_m6W0DAU8wz1flQhI5VOL_BLkdks3zNPDpgkCrEHgeF3rQpI4M-M5i70imVBQqxbyhSWluLJL4XOBRxnABimvBVkLoyrnWvZGSf6EyXWhDroBlbK7egWjDjmkLzk0yYLoQ6lLCcrbuusinfRDqhDiZtmDl4Xx-KQ8F6zd_YC04L3bL2Ee1UISDL87h3eH3ALH5eXTFdMQ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJza3dZPlLwokRYt2loLegEKs",
+      "plus_code": {
+        "compound_code": "HVF9+F6 New York, NY, USA",
+        "global_code": "87G7HVF9+F6"
+      },
+      "rating": 5,
+      "reference": "ChIJza3dZPlLwokRYt2loLegEKs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572487,
+          "lng": -74.14155600000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5737823802915,
+            "lng": -74.14019561970849
+          },
+          "southwest": {
+            "lat": 40.57108441970851,
+            "lng": -74.14289358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Lighthouse Ave",
+      "place_id": "ChIJY2fhffFLwokReVeK5EQ9KQ4",
+      "plus_code": {
+        "compound_code": "HVC5+X9 New York, NY, USA",
+        "global_code": "87G7HVC5+X9"
+      },
+      "reference": "ChIJY2fhffFLwokReVeK5EQ9KQ4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574081,
+          "lng": -74.131317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5753859802915,
+            "lng": -74.1299411697085
+          },
+          "southwest": {
+            "lat": 40.5726880197085,
+            "lng": -74.13263913029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Hitchcock Av",
+      "place_id": "ChIJCfcPQvlLwokRpvbAYfo18L0",
+      "plus_code": {
+        "compound_code": "HVF9+JF New York, NY, USA",
+        "global_code": "87G7HVF9+JF"
+      },
+      "reference": "ChIJCfcPQvlLwokRpvbAYfo18L0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.570602,
+          "lng": -74.134338
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5719562802915,
+            "lng": -74.1329302197085
+          },
+          "southwest": {
+            "lat": 40.5692583197085,
+            "lng": -74.1356281802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wilder Ave/Pinewood Ave",
+      "place_id": "ChIJm7kmjfpLwokRuhP7kVTE7vU",
+      "plus_code": {
+        "compound_code": "HVC8+67 New York, NY, USA",
+        "global_code": "87G7HVC8+67"
+      },
+      "rating": 5,
+      "reference": "ChIJm7kmjfpLwokRuhP7kVTE7vU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.569942,
+          "lng": -74.13398699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5712862802915,
+            "lng": -74.1326995197085
+          },
+          "southwest": {
+            "lat": 40.5685883197085,
+            "lng": -74.1353974802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Wilder Ave/Pinewood Ave",
+      "place_id": "ChIJaRw16vpLwokRLcwyYyXew18",
+      "plus_code": {
+        "compound_code": "HV98+XC New York, NY, USA",
+        "global_code": "87G7HV98+XC"
+      },
+      "reference": "ChIJaRw16vpLwokRLcwyYyXew18",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57468399999999,
+          "lng": -74.12957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57599428029149,
+            "lng": -74.1281976197085
+          },
+          "southwest": {
+            "lat": 40.57329631970849,
+            "lng": -74.13089558029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Mc Cully Ave",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+          ],
+          "photo_reference": "AU_ZVEHYonQbA6ZNT5ZkOCM7SoH9QnPn7n5_6J53zxH9FpcrKZEb33820lqsk3eFp8zMUQ1HKctT6eQqUnDRyIirITeHVDt1SWtAfLY_DQ8e-p2wxT4e6OE86zfde9NxthgnidjHOEFeVCaPcIVlKSF8G7WQq69b441-P3YDofotgRHNlAZpwSbIKVFEWJP5FTm91ugHuC0GSqF4tTfkISlkCnMON04ZIlV0cX0qz8F3rpJ3CsY4WEOyYQ-JMfThpTQ3Boaz0hTUklAWM-qZB3ihSpTv1j6AvlayfqhSNj4RceInbN7rcaH3iLloGcSQ1zTIc8p-0OG_9HkEO8XVKdl0q2bFF6sEtxAqlmL0KPzXSFeWC91zJGfhOR6rQhl8pjnsGSQUhFkx0nFDBa_NxQ10GRt78toCQrQWuy8gV8dwbpO4uYBSCRVrobOt6JLY1zCDoV_a6u-ZFqV9GTC39sgwKc8jy20SExBVZXLHERIeiLvlRQDomq3kRtOph6lVF9cix6rZcCvY6ipbLR4d8itALW5IONHCV2kh8K7eB3epYyb7kjpd0YJBbAaLqmTiW6gRyb714JZlvoQErCkferqsalSG4P3Ou_8TUjSztS-jHblRyPIGXTa5c86ZzvGPG_uXiGfwLQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJEX7pzf5LwokRxfCC9_aYya0",
+      "plus_code": {
+        "compound_code": "HVFC+V5 New York, NY, USA",
+        "global_code": "87G7HVFC+V5"
+      },
+      "reference": "ChIJEX7pzf5LwokRxfCC9_aYya0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57203699999999,
+          "lng": -74.14380600000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57341538029149,
+            "lng": -74.14246326970849
+          },
+          "southwest": {
+            "lat": 40.57071741970849,
+            "lng": -74.14516123029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/St Patricks Pl",
+      "place_id": "ChIJS1seTvJLwokRAuSqPjqzAqQ",
+      "plus_code": {
+        "compound_code": "HVC4+RF New York, NY, USA",
+        "global_code": "87G7HVC4+RF"
+      },
+      "reference": "ChIJS1seTvJLwokRAuSqPjqzAqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572094,
+          "lng": -74.144348
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5734140802915,
+            "lng": -74.1429930197085
+          },
+          "southwest": {
+            "lat": 40.5707161197085,
+            "lng": -74.1456909802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/St Patricks Pl",
+      "photos": [
+        {
+          "height": 2933,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117325752822198671426\">Anuar T</a>"
+          ],
+          "photo_reference": "AU_ZVEHgEGuTpV19kTxJrOJfZSCmCUOdFa24IFSdNcQ1e4j0-mqVHXgGfXGdH8offUoze7NQ75Kd8mMmlOtcGNQRlzaiUI-bmoIFoaq10WrcR8th1yNcfA88WaEYgC1gXJ-X1nW7soWdZv78phWAbQFpEbjM2BRSFgxx2qBKsh561yjU-GAQs64HYVIX1AnV9ftMEPwU0ovzfXjzgZzt9kzPyhQ09eH6MUYcN0r629p7a3cJ9lzKTtn4lnK-arOM4vxDxLQfAQ88-UB-c17za42lNNebE10JiB0FvtgBsJ9SgUTxu4QRZs2aKp1-opPXhslIxtoFX7MFzpkAISDyzBCEYyTmXH8JrWvjcHw9msA4BJ80_-GZ8RbRatlgQaBtCVGJwisvq_sVGzbyvIS4435Gsm4wX2ZLWJUXTgK5E6Tra8lyg6zlszx-r1SpivY4jtJ0ADHPQIVrM8PwK84-19HNQMmRt9iNYMfdZaVlVafjACWmh_QVEFAA0-NbEEXcAu5zHTCZZAxRta8VMQeOAWP0D6H30gWOVQ36t1srWQoReXM0zItkRg0zA59EsSPFGqPYRAS2yRU5dO9eG5yBznORMIaGbvdTG7qoqnD-AL4k5XyWgWh2u1PRwKFu_LNt6MZb88Bp6A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJVev0VvJLwokRLx7XyySiRuw",
+      "plus_code": {
+        "compound_code": "HVC4+R7 New York, NY, USA",
+        "global_code": "87G7HVC4+R7"
+      },
+      "reference": "ChIJVev0VvJLwokRLx7XyySiRuw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574757,
+          "lng": -74.128693
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5761554802915,
+            "lng": -74.1273739697085
+          },
+          "southwest": {
+            "lat": 40.5734575197085,
+            "lng": -74.13007193029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Bishop St",
+      "place_id": "ChIJJROM3P5LwokRUgBNIxg-Z6s",
+      "plus_code": {
+        "compound_code": "HVFC+WG New York, NY, USA",
+        "global_code": "87G7HVFC+WG"
+      },
+      "reference": "ChIJJROM3P5LwokRUgBNIxg-Z6s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572037,
+          "lng": -74.146706
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57335748029149,
+            "lng": -74.14536611970848
+          },
+          "southwest": {
+            "lat": 40.57065951970849,
+            "lng": -74.14806408029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/St Patricks Pl",
+      "photos": [
+        {
+          "height": 2721,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109699676182291066808\">Louis Rainer</a>"
+          ],
+          "photo_reference": "AU_ZVEGmsw-hBj5k9zy-q2Qh4wyMtGbw0yeow9LxpgkGFg2O4BTtJE6hDsrhyM67JlBCR_pRKtG_qb7PTpf5hVKxrNP1pPWfuRclxIZQnPq4sgJPQ1kY5tanfXfsoiJR-68hKM6DmSHgLxHzZPcTefEPeSOYGd_AdKfnv1R_bIOn6LkPe6FnoCmoAsaBvzEleX5F2UBPIDptsCTLSiws3ck_Ei88qpr6ctQ0mAL05n6io2Gbb-lRTvBa06tkW5xhFOVqFHZ93r87eObigZRzUDFCK8yoE9uwplsTrAFp4ja-DyX2ijY6fiY_S07Ifg5_QwBnEXftRwTshALkNOETHqHB8X-3iSaDC5BS21dNvPk9xRvFojz7cnmjDAE0NyVolvrfogYsaNuf7Otaecb3U9QWcUbKoGQ-uqDfb96V6dLEwKkqqhEEVbHLhihWkZL6eJyPhXiBLyE1qOFvi0nCuhn8iryUax9HbBSJYkMR2iXuto3-gwbmEYgF5tunqIOsEaMJMjVieuVHiiYcoOkZXvYvERC8InhyDEYCCUO__u3wL-e8exVVVuZ2A_l0z-L2xNoBwtyjBb34xCX9c-3xwnedTFR1_lPQwNHDTSLOgk9b5Y1482RQuGSA-IXPjokySkzcc6SHPg",
+          "width": 4081
+        }
+      ],
+      "place_id": "ChIJL8yCxfJLwokRz5CFIkUK42w",
+      "plus_code": {
+        "compound_code": "HVC3+R8 New York, NY, USA",
+        "global_code": "87G7HVC3+R8"
+      },
+      "reference": "ChIJL8yCxfJLwokRz5CFIkUK42w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5775815,
+          "lng": -74.1272125
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5789176802915,
+            "lng": -74.12588686970851
+          },
+          "southwest": {
+            "lat": 40.5762197197085,
+            "lng": -74.12858483029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Av/St George Rd",
+      "place_id": "ChIJAWvqgQBMwokRdKfs7hJ45zY",
+      "plus_code": {
+        "compound_code": "HVHF+24 New York, NY, USA",
+        "global_code": "87G7HVHF+24"
+      },
+      "reference": "ChIJAWvqgQBMwokRdKfs7hJ45zY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57772800000001,
+          "lng": -74.127327
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5789947802915,
+            "lng": -74.12595361970848
+          },
+          "southwest": {
+            "lat": 40.5762968197085,
+            "lng": -74.12865158029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Ave/St George Rd",
+      "place_id": "ChIJdXl5gQBMwokRVTsehuu0cbM",
+      "plus_code": {
+        "compound_code": "HVHF+33 New York, NY, USA",
+        "global_code": "87G7HVHF+33"
+      },
+      "reference": "ChIJdXl5gQBMwokRVTsehuu0cbM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.577469,
+          "lng": -74.12715899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5788190302915,
+            "lng": -74.1258731197085
+          },
+          "southwest": {
+            "lat": 40.5761210697085,
+            "lng": -74.12857108029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Ave/St George Rd",
+      "place_id": "ChIJMXAwfv9LwokRrx0ZeZ-XxAA",
+      "plus_code": {
+        "compound_code": "HVGF+X4 New York, NY, USA",
+        "global_code": "87G7HVGF+X4"
+      },
+      "reference": "ChIJMXAwfv9LwokRrx0ZeZ-XxAA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57181499999999,
+          "lng": -74.147224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57314763029149,
+            "lng": -74.1458143697085
+          },
+          "southwest": {
+            "lat": 40.5704496697085,
+            "lng": -74.14851233029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Center St",
+      "place_id": "ChIJR_e0y_JLwokRNJ97d0A53D0",
+      "plus_code": {
+        "compound_code": "HVC3+P4 New York, NY, USA",
+        "global_code": "87G7HVC3+P4"
+      },
+      "reference": "ChIJR_e0y_JLwokRNJ97d0A53D0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5716055,
+          "lng": -74.1472165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5729575302915,
+            "lng": -74.1458789197085
+          },
+          "southwest": {
+            "lat": 40.5702595697085,
+            "lng": -74.1485768802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Center St",
+      "place_id": "ChIJVemStfJLwokRL5CF5aortnQ",
+      "plus_code": {
+        "compound_code": "HVC3+J4 New York, NY, USA",
+        "global_code": "87G7HVC3+J4"
+      },
+      "reference": "ChIJVemStfJLwokRL5CF5aortnQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57563799999999,
+          "lng": -74.126144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57697458029149,
+            "lng": -74.12478656970849
+          },
+          "southwest": {
+            "lat": 40.57427661970849,
+            "lng": -74.1274845302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Morley Ave/Ebony St",
+      "place_id": "ChIJl0Xauv9LwokRoc0rJ_6Fe6A",
+      "plus_code": {
+        "compound_code": "HVGF+7G New York, NY, USA",
+        "global_code": "87G7HVGF+7G"
+      },
+      "reference": "ChIJl0Xauv9LwokRoc0rJ_6Fe6A",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.571396,
+          "lng": -74.147209
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5727687302915,
+            "lng": -74.14586801970849
+          },
+          "southwest": {
+            "lat": 40.5700707697085,
+            "lng": -74.1485659802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Center St",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108745938453133021961\">Alex Varela</a>"
+          ],
+          "photo_reference": "AU_ZVEGCjvlOz1mi34EA_bRCuZ-9rAOdyxSmP2t-GQGCDiwTQxRTbXHQAD-QklbUvR1M6m2fZd4X0_R-c6sYvl0D3aQ2TLmNPpEGgGz8Qqbj-JmchBFfgIw4yJGiYIH71cI6Je9lDSyeiKAuLL2vDKQKQlQsQRbgHnHdIqsw3-7NjecLNzb-ZnAlD18HaQhIWD571CHpsQPugHBjWaDPQjswfMJxJhgBQHbvsDcR4pj9-vs4mM_EvfxOrYaGc3RdJzXQ9RiVPFefDFPrLvJvBCs8osTalNCaaDT6vyiNLcIMun-Tz78meFLmszLwZq4Lq6AvuyrFoGst-QHBNh-62xlj1vPxVhtsGupvZrgWd7ksjPa3WEUa0ZddLfCkX7H8ldsnWHaDVJQR2zSzr_dD9hczGwWxzC6lJTeqKVV6ItfdCN-IpErw0TQG_6bwT1RwPbS_1muQ5Nn8AFWHBKaNCC9J3yKE3YVhwuG3ZC2kQ2Vdrk8nZzRbhuibDzKwzdvgjo0JQfv8cb1lyeR3Zxf5NrqzxkoVWKQvrrtRX6PSih3n2nnxlIPec6Uesg8pYksEMdRLomHJxWsay2gqJHRXoirRKuMxysn8a1hc-aXsgNsOdLxnz680ehlUFXzpcN-c9kiE",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJQVMTtPJLwokRCuEOIL3wpZ4",
+      "plus_code": {
+        "compound_code": "HVC3+H4 New York, NY, USA",
+        "global_code": "87G7HVC3+H4"
+      },
+      "reference": "ChIJQVMTtPJLwokRCuEOIL3wpZ4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57620199999999,
+          "lng": -74.12606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57750968029149,
+            "lng": -74.1247318697085
+          },
+          "southwest": {
+            "lat": 40.57481171970849,
+            "lng": -74.1274298302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Enfield Pl",
+      "place_id": "ChIJpYe3l_9LwokRsw5A9XwX4ho",
+      "plus_code": {
+        "compound_code": "HVGF+FH New York, NY, USA",
+        "global_code": "87G7HVGF+FH"
+      },
+      "reference": "ChIJpYe3l_9LwokRsw5A9XwX4ho",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.579636,
+          "lng": -74.12752499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5809849802915,
+            "lng": -74.12617601970848
+          },
+          "southwest": {
+            "lat": 40.5782870197085,
+            "lng": -74.1288739802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Ave/Nevada Ave",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101703225319793704977\">Marc</a>"
+          ],
+          "photo_reference": "AU_ZVEF2a8qdunGjycIkzXrUwcczTCnGcRy-4VvepTDu12UmkTMBcSwmMkcIl0mlPx6wH_-lndWOulX04MgiLhn30L2fiQokI33YQpLuQqoEQzz0Nbkcbc4mg3OaGA4uBA8AQQTPveD5vyvSL3yueinop7KpFzEqM28QvAH_2KyJvG-wA52lnOSe3GJXHs-dMUAGDpjZQQfyonU0eVKQQ36JLSHztumtj2KCd27JYAlifAXAGwY28c4wMaBbb7wY78dDJfsXegIOs3mSnljB4vvlgCe4X1t_2ZMRtiu-rhKC9qHUk6C4v57bPwRXd_dNKCjo_OR9gnBdNy4rh_u3Liouks8XvmNzwfhD6nPN7lcGvgtLfMLJXV5P_U36XqjLNafr1FaUofLm5CMjGNeEShJCxw-PwE8G_c_37cGfw14F1hJnwUSum6DHXr6TgA0_PY8BmJOQ89mCmV1kf_ggjWWCy-afDyQK7BafD_TPVHsOnAqwwBTORtMQz3xFgeZp57LRnfY8xyCCRH23CEvhHFBjBnpkquyIcXW4CqMXDE0GJf4vXxj0pdeNx93WxGz3r5o-imJDjJxCLkGerO6rqGvj95Svs9yKzSKZvGZGyesqF2aRC2rQzviuaTyWYxYt6Hyvehd-ag",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJn-UN-wBMwokRgjJlbLmlPKg",
+      "plus_code": {
+        "compound_code": "HVHC+VX New York, NY, USA",
+        "global_code": "87G7HVHC+VX"
+      },
+      "rating": 5,
+      "reference": "ChIJn-UN-wBMwokRgjJlbLmlPKg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57967199999999,
+          "lng": -74.1274565
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5810149802915,
+            "lng": -74.12612406970848
+          },
+          "southwest": {
+            "lat": 40.57831701970851,
+            "lng": -74.12882203029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Av/Nevada Av",
+      "place_id": "ChIJ45yb-wBMwokRPeSbGXfWWcw",
+      "plus_code": {
+        "compound_code": "HVHF+V2 New York, NY, USA",
+        "global_code": "87G7HVHF+V2"
+      },
+      "reference": "ChIJ45yb-wBMwokRPeSbGXfWWcw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.579708,
+          "lng": -74.127388
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5810511802915,
+            "lng": -74.12605496970849
+          },
+          "southwest": {
+            "lat": 40.5783532197085,
+            "lng": -74.1287529302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Ave/Nevada Ave",
+      "place_id": "ChIJ8UX1-wBMwokRRQuXxkTrSI4",
+      "plus_code": {
+        "compound_code": "HVHF+V2 New York, NY, USA",
+        "global_code": "87G7HVHF+V2"
+      },
+      "reference": "ChIJ8UX1-wBMwokRRQuXxkTrSI4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.581074,
+          "lng": -74.128456
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5824138802915,
+            "lng": -74.12712321970848
+          },
+          "southwest": {
+            "lat": 40.5797159197085,
+            "lng": -74.1298211802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockland Ave/Florida Terrace",
+      "place_id": "ChIJD_rkPQFMwokRn8HUOzpE7qs",
+      "plus_code": {
+        "compound_code": "HVJC+CJ New York, NY, USA",
+        "global_code": "87G7HVJC+CJ"
+      },
+      "reference": "ChIJD_rkPQFMwokRn8HUOzpE7qs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

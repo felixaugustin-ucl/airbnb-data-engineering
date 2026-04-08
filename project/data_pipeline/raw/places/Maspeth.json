@@ -1,0 +1,4080 @@
+{
+  "neighbourhood": "Maspeth",
+  "centroid": {
+    "lat": 40.72479119018405,
+    "lon": -73.91898179141104
+  },
+  "fetched_at": "2026-04-06T14:40:32.639689+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73012099999999,
+            "lng": -73.91924159999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73150283029149,
+              "lng": -73.91779281970848
+            },
+            "southwest": {
+              "lat": 40.7288048697085,
+              "lng": -73.9204907802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-937-7168",
+        "name": "Rudy's deli",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110361687932065208236\">Rudy&#39;s deli</a>"
+            ],
+            "photo_reference": "AU_ZVEGcOh4imnlSUKj-Ib08-5llMZgCXc0NJE0I1g5rRuuEBO29ehP0xwqerN9khegNPYJhKD-ZYzVXuWg8tuHynOg8WuWJwWygKLs-xRHQhZmVpdr1zhygjvMWCGwYJb2eTb9aepbVv-cxPTSgo8H99NTHc6P1G4_3g1e2XImqXUSupwNE6Rn8pHbhennYBOC2ShyF_Mr4DiaY_yEtdDoF68yRUvGVlpoZpSM4Jq01O0ADg_-ZIQHtAcggQZ4Jl11WVSxZxq1__mT05FmoEG0XJNApNJVGH8i6snZulp09aK_KXiG6lUDsEaQ8f8Es5F_1Q7-b9AJ94eA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJvXpnucZewokRcbtx6V1xyGc",
+        "plus_code": {
+          "compound_code": "P3JJ+28 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3JJ+28"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJvXpnucZewokRcbtx6V1xyGc",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 138,
+        "vicinity": "54-30 48th Street, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7302509,
+            "lng": -73.9193109
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7316606302915,
+              "lng": -73.9178762197085
+            },
+            "southwest": {
+              "lat": 40.7289626697085,
+              "lng": -73.92057418029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-361-8266",
+        "name": "Eataliano Pies",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106459321456636671490\">Jose Otero</a>"
+            ],
+            "photo_reference": "AU_ZVEHXDgE4ygafgfvWwzednk-RJ6I_Aw_x6fB1rlnXiKnJr8L2PZMSyxdBF9Thf_rMfoNXamWCBJIZjLXUdOiqcEHF94WmJ24hVpY3SAj6vS_4pvR7_acCfH2cBdMdm5iee1GFxpMt1yU6IJyRIGa8WREy5vz7OQ4hUG6XaI0m9p6p6uZ0vz4m9oasNTaRXn9WuWl4448n6tWamkyJlZm0nntsUDHHgpRd6gkwo3OAglzJluqsQoWMmtcqUV28vhy38tPsMyGaapq9-iaFI74QSHkQ0_tDom5gGLpR4Pa_hv2pjcp_OvcjQP4qaIAnzCjLRUeXNNjBa-QuILcg21AX82jjW9z2v4HfU4InxKnCXm2BDBOCZwJKGOxLyi3YY2-0LL1LgSqr3GGosH-GZYuCHYG3QuYe_hHYTVTFhSLY3xx4LZJpcsjsTH1GkTWN_7MtDk-VxJi1_PyRl6vC9DfVwmz92XgstZYCYwBW0IcrB7nkpnXtc6E0m8q0-YLYZJFV1SfHMztlkBpibm5CgAp8E2IKCd3sPWia27zfhxti4WI2AmcO9DuMxcmsNUNAVmo-aTeiy26yIhr6Ezk54cO3kSPEQFe6gQQTZJyRFuka-ojnHGqf8pFHkyMdoclgW_kC2GkRqQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJPxN1ucZewokR9OX2nKfk0vk",
+        "plus_code": {
+          "compound_code": "P3JJ+47 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3JJ+47"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJPxN1ucZewokR9OX2nKfk0vk",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 138,
+        "vicinity": "54-30 48th Street, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7174565,
+            "lng": -73.9180104
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7189212802915,
+              "lng": -73.9168362197085
+            },
+            "southwest": {
+              "lat": 40.7162233197085,
+              "lng": -73.9195341802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 718-386-4423",
+        "name": "Angelo's",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115649799007990885346\">Angelo&#39;s</a>"
+            ],
+            "photo_reference": "AU_ZVEHBZoIu3vIm0SMe7ynWKmSYC1gOGOy1PwDFl28APdOn6KRW8_fKEoHuO-mpewsuF0vQpyG578elTecb44SrI2zKFneWxnuQwvhgOyroR0dgdbFBQ2wktpmaPtIUIVhuC6LCGL8D92ILmGSqjLZEpy5Sg2tT4stkzOL10w1wPZ_oJlbRk7kXcQlgiQ1vCTfNxbhpfVZvYnXpkmbVUedEtcNDmEYq3SITQjrYXoM9ZvwBRN0AvzylZtu-Ib1l-b9beyY-NMe5NthDlcLqqnVv6hMyTcd6IPMtGD4aaShhK-JMWif_20LSpD2x6AH2nhuPSN0Z1z3tJec",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJR1mRpbxewokRJjNJbMifxWE",
+        "plus_code": {
+          "compound_code": "P38J+XQ Maspeth, Queens, NY, USA",
+          "global_code": "87G8P38J+XQ"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJR1mRpbxewokRJjNJbMifxWE",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 75,
+        "vicinity": "50-00 Grand Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7290887,
+            "lng": -73.91958170000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73042303029149,
+              "lng": -73.91816411970849
+            },
+            "southwest": {
+              "lat": 40.72772506970849,
+              "lng": -73.9208620802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-472-0808",
+        "name": "48 Street Cafe",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100451810636582217157\">Levan Franco</a>"
+            ],
+            "photo_reference": "AU_ZVEFKI3ScqJ3oewsEM3kA6bIe_Xz7I27lR-Fzs0OsYZrRX3aeebueLxcSuhmAMQRFhctx4jS_16SbV_oeiqsFuX35UU98R8SyE9pZlkw034KDzj2jTc5GIO1FZgm0BSMC1tSnS0IWUVOtOVaUuQMBxCMXrCS1KeoDRgHUo_4f63ideSWpw3rqJFsR2ZScYLbZylE6xKFT-hUWO-sBar5XcLqzzwNeF_Tu7P_AiaH4L_GCOWNsRnBlGOEiLB4CSOoRpPF3bdX3GWGBIlyqHpvJxOtTEFH0BjDXrMspuiUBpiBDDqjSUCGfn-oKHHU6ajrvIqh57KzjEUdMnpvwFclLeRWMOMoxqGS3qycXfN18Q0_cUZWwXXGevWxAyRldcS20Jx7vOyY-JDQxiqAK5PVaQtLSseKEYgmrHB_Qxeibg4tF8wYvVWBFnD3P0orND457WR0SAW7TD_WnwaWeYG02UKMu8g_pHbgxZsyO2IkxLFUo4PeSCzeh39hLoNRWuW-fdbPuP1pHgQWUwEncOBcB9tzJcR4Z1csz1RIm1hPi7e0KQWWF_8z_EiVWkwdqRlzyPxoU7tFXh-H7PwRiwQ-GPaWXSLpA0GVOWW-_NFUOdirhMx0GXZgKiQe5hiBJ0t2vPtrtL4ig",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJoyHW3cZewokR7SEaiXBZKCo",
+        "plus_code": {
+          "compound_code": "P3HJ+J5 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3HJ+J5"
+        },
+        "rating": 4.4,
+        "reference": "ChIJoyHW3cZewokR7SEaiXBZKCo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 25,
+        "vicinity": "55-02 48th Street, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72017460000001,
+            "lng": -73.91945059999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7213911302915,
+              "lng": -73.91832131970848
+            },
+            "southwest": {
+              "lat": 40.7186931697085,
+              "lng": -73.9210192802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-669-7838",
+        "name": "Asian Bowl Restaurant",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107811964677778870920\">Asian Bowl Restaurant</a>"
+            ],
+            "photo_reference": "AU_ZVEFilZ85qvgIEBRrjNn1ToPMCHaWqILFAI_o2h73lXIDIsBXl6zy-nkSkUT7tv-36PEeWnfsA-i5_Juz_q7bewCCzRoxVaM3c-GCTA6vyTPvKaUlCX_m1HPhh55rKAEjBxro3NC4C3isavlz6abWVQPltoK_4wwMmyYUvR38XrqyiVwCvqutUADp6ljD5ozrUKKRdsqH9MD_4hfF7360UpyB9pjn1eQ71JfNFTbgaiNWdPR-pekBtCnRL9F1qqGK3C9vrQnKHoZ69pd4lfjH5O2oWoWkwlac778H_5nN2vgMPgo99mbDu4WgqtXJPjZvLljNrveEhZs",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJlxMWYHtfwokRLXYiX2C_WrI",
+        "plus_code": {
+          "compound_code": "P3CJ+36 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3CJ+36"
+        },
+        "reference": "ChIJlxMWYHtfwokRLXYiX2C_WrI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "57-11 49th Place, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72584670000001,
+            "lng": -73.9119893
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7271219802915,
+              "lng": -73.91069351970849
+            },
+            "southwest": {
+              "lat": 40.7244240197085,
+              "lng": -73.9133914802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-738-4237",
+        "name": "Casa Melania",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101216283747000554700\">Casa Melania</a>"
+            ],
+            "photo_reference": "AU_ZVEGotNlQCacp5RHLmGLrTKR4xA-Fkj7uxiAvK0lTn6o8FWjfHpg4_Hgvivbd10V_URSyyWKkwi_cJzmI_fEhSwotquZPTn64CEYiOfuHmqSzaz8kDlb-bIUsSwNb07zZ2tfq8ZRGnhYUsBnqnAttW88M9HO3dcV4nyMUZbxSgNFqfxAlFA2DvSuu4nHxZNV_L-mCs02LAE-cPinyWI9gUMNSd2Rk_KnNNe7YgVhTmFmDawmyiboWfb9gE5ObY42uZ0O4MV2BJK6Gh-oC4yWizCN5oWTrg1pyVvI9WgyyMEYoBFRyx29g6CJaRr2o1UXvZ-BbMGkoNXY",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJd9UfUoBfwokRHtoYww0yIx8",
+        "plus_code": {
+          "compound_code": "P3GQ+86 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GQ+86"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJd9UfUoBfwokRHtoYww0yIx8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 71,
+        "vicinity": "55-61 58th Street, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7230047,
+            "lng": -73.9122148
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7244254302915,
+              "lng": -73.91085486970849
+            },
+            "southwest": {
+              "lat": 40.7217274697085,
+              "lng": -73.91355283029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-326-5757",
+        "name": "Tio Bolo\u2019s Pizza",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117005509483566377942\">Tio Bolo\u2019s Pizza</a>"
+            ],
+            "photo_reference": "AU_ZVEGW_ZJElexBFmDOa8OK_qFqOzO2ogmNeO0uNEGo8wzI8rXCT3fTGmEOhWicIbfGhMemqqpXUrCQHYVx4q8_LiBRYn9yFmqs38JuPI7w7B-iCmgp0vgzU5mo-a5GC7hUKTwnDKzPMU_fw06mhZt0_GdvNH7JN13ArQz9tBizGbj4hi_9rGM5FigaKGuEUY25q2uEDw_JAWWLUW_NaFG8Ik-XH98U-r4Ojwkn1IM47SySW3GOkjxeqFwe0Uf6JiLytyoOrcVXQqQ0iImBXTLX5cSLshZ9rcSYuWXDB4YGiXgl9njXgX4Pri78W4jPbaJ67en-AtbH",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJo4lul_xfwokRs_jKK7Sct7Y",
+        "plus_code": {
+          "compound_code": "P3FQ+64 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3FQ+64"
+        },
+        "rating": 4.8,
+        "reference": "ChIJo4lul_xfwokRs_jKK7Sct7Y",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 16,
+        "vicinity": "57-64 Maspeth Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72630789999999,
+            "lng": -73.9090717
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72772833029149,
+              "lng": -73.9077402197085
+            },
+            "southwest": {
+              "lat": 40.72503036970849,
+              "lng": -73.91043818029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 845-422-9747",
+        "name": "Jersey Mike's Subs",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4667,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106065271335223353973\">Jersey Mike&#39;s Subs</a>"
+            ],
+            "photo_reference": "AU_ZVEGRS64oNY-dJwVUB3cYd0iV_ohRPSFViX9awo8Jvf46m53hJYaBygQM0nIMqRG5bBpPk1Al4bnvjfwSue6IYGQpGrXKlclbX4TdDSWU7dXqOo56derPz-PehLmx3wzRCf_B5FQe2AEH4JRNJKmurHdfNfXcy1odJxmGyrovqaSKQv-GrMJ0RNfBhy-fDz8doO-wdfqshX6tFHK_u2T0HYkwSJaZ6rBn76XDsDPAIQ07MQKOOyl1qMPG1Z1Wyj6xHdqI1P8w6PbAh9gER35zTRhUiDpDVk-o8ZLNtGDNZhGzHbMTIkXl8zEnWNGit3oOFM3mzYfdjrM",
+            "width": 7000
+          }
+        ],
+        "place_id": "ChIJpyZm0ylfwokRA64B4EuDFnw",
+        "plus_code": {
+          "compound_code": "P3GR+G9 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GR+G9"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJpyZm0ylfwokRA64B4EuDFnw",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 591,
+        "vicinity": "59-03 Maurice Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72628629999999,
+            "lng": -73.9090559
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72771753029149,
+              "lng": -73.90774341970851
+            },
+            "southwest": {
+              "lat": 40.72501956970849,
+              "lng": -73.91044138029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-578-4019",
+        "name": "Chipotle Mexican Grill",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116009746776888020036\">Charles Lau</a>"
+            ],
+            "photo_reference": "AU_ZVEF14LL3lVa_9A-388iCsJIa-QzGvalKoFcM4T35C3u96BG8P2pYnBRFbXfItboOGJVARHbQc-8lj31QlbsWgqK7isvTaNF8qPTA3Qi858_DlLe85SNswDz79sHGBIzQdaS0G60Zv98qY9Ahw21XyNu6bL3Xw2qVUwpGo3KTSIWd627_EFK7cUC7BLFhGSHjDJ7Vhs9QDAOGGhEwZQkvij7y9DrG_diHC5ELCBOwNcVEHUWufdA5FyItalzBarMSUX8TMs8nkwk2kZtbVseYzPn70YtVqmysgzE4tHRR8uiTeMAjcDOj1oclGCmIzOyXNxoTtlB0fIin4JiMu_D1moiKyfFKteqdWBTeNRSyUCndL3S3Hh1xQDSARBMUUa83zAtzA7AnI9P7qdehhvYsNvEhBRZuXykH-zbdtgzxtBNOPvv_wtJ0ddG2f-5U_ai9dgBiZ22aq6_DQgvvkDxPwsozgmLZJSJqw1gxLxUxvZVaRx5DRWAGBZDuJKonSfHtQochaPb64w7kCFWXGB4wYhj0AhPzUPA--NKV6T1imaLejzFM-GUJi0KcEtrJfHD9vSF2eTehuGDCmW3_RgxxpotqxhRLtdDxMbMN1kfd-73aPQhcspD2vMDmYeSmk2YOJpqnTpzi",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ22Zba5hfwokRyT7y8R_WRKk",
+        "plus_code": {
+          "compound_code": "P3GR+G9 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GR+G9"
+        },
+        "price_level": 1,
+        "rating": 2.9,
+        "reference": "ChIJ22Zba5hfwokRyT7y8R_WRKk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 253,
+        "vicinity": "59-01 Maurice Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7263544,
+            "lng": -73.90903689999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7277515802915,
+              "lng": -73.9077162697085
+            },
+            "southwest": {
+              "lat": 40.7250536197085,
+              "lng": -73.91041423029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 917-688-3038",
+        "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1276,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110803263085223760320\">Jennifer Zhang</a>"
+            ],
+            "photo_reference": "AU_ZVEE-CJg1Cr5LKEETd6vn2Jz3Zj2QMFwRtIUARRSLT2VNvYPSk2B1U_epOT0yYeAol0RVVzyjaUPZUic_bf_GfPPCC-FbyF3AUDBehfrIhZ8JwYd50EDNn36nBgRu8oLDLLrl5Q-9gAHCFClLCWcIA_uUMnzG0pTRaUL0rfHfP0cEs4hYyRmmnwydkUdHmRPZYgfcPfm5UlnzVuR1k8Kujx_8239POZa_aUw2K0IH2XUlcx2I_sy3sx_J5w3Rb-a0n2XgjwU8PVCArgDwKzUVOnpDVChr1GfWlYVIHBoBTdN-5Aw5RRJuRMA00rIDg2YpmnB4bkUvI30LxC8IXzbkDYTMfIyF_043xUDrvMIqKrzEt4PRMWPFfbJK1TMyn_maBfNGfYuiE-A725dUHJnB-DW8cJMoPn3oM9hLGCpPS7kG7kp9IEL0KK5gm_GE2QWq3k4zqlVlLXCGI2VXIZh6zd9vptZGX6rUy1quQ5f4v3nUKmnYVKtd1ebRMvsUoLaZ96Cjl17EoLqEkiz2FomBbg7orkORs173HF4uBcvgVdCZi3VnqpcfgPsUgQKvB_H6EiKT3Hh2a9Ca4IajIqWD0430N79jxyGe0PD4YnTf1cun4RoFBPSbeGdUKLTLOXJAM5piqQ",
+            "width": 1702
+          }
+        ],
+        "place_id": "ChIJOXRBgH9fwokRLLW_y_ymUio",
+        "plus_code": {
+          "compound_code": "P3GR+G9 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GR+G9"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJOXRBgH9fwokRLLW_y_ymUio",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 479,
+        "vicinity": "59-05 Maurice Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7265086,
+            "lng": -73.9086987
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72792133029149,
+              "lng": -73.90742831970849
+            },
+            "southwest": {
+              "lat": 40.7252233697085,
+              "lng": -73.9101262802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-690-7900",
+        "name": "Smashburger",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 720,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106487877130651819439\">Smashburger</a>"
+            ],
+            "photo_reference": "AU_ZVEGKO6oMdUOeGEzPPQOuPpOTL0jE6uSK8iOLk2a8o-1vyPZMuAAtGKO9okzUDo18fU5qy9U3XxY7SDwAtksbfKKklehQniH7NnF44MrOCiXLeeBwnSovvqWLD2ie__0UuW7_ywBhNG2Ff-UdUZckgmaAQ_o52fOW3ZP50WhSxqz2fUbKmjb_84-Bfljyfx4Tz3Eust3q6Q0-6Kjq1pYbb18An827lJDzAclswfpHcJHayDc4hjhEbZy2uAteVkDPN3CJNw6_SvrF9QWpTpoyR-aYgRfhXNEVAKbxXfe5C5nut1uPcUg0Fwxk6XBFc8ZKZA9oGv9YaEs",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJRQzXxlpfwokRSGfP3TfJsfI",
+        "plus_code": {
+          "compound_code": "P3GR+JG Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GR+JG"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJRQzXxlpfwokRSGfP3TfJsfI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 465,
+        "vicinity": "59-11 Maurice Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72520069999999,
+            "lng": -73.90816079999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7266237802915,
+              "lng": -73.90677396970848
+            },
+            "southwest": {
+              "lat": 40.72392581970851,
+              "lng": -73.9094719302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Culinary Bliss",
+        "place_id": "ChIJRz0lUwBfwokRkchG39crGAo",
+        "plus_code": {
+          "compound_code": "P3GR+3P Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GR+3P"
+        },
+        "reference": "ChIJRz0lUwBfwokRkchG39crGAo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "59-20 56th Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.726601,
+            "lng": -73.90768400000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7279695802915,
+              "lng": -73.90635546970849
+            },
+            "southwest": {
+              "lat": 40.7252716197085,
+              "lng": -73.9090534302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Mc Donalds",
+        "place_id": "ChIJ2b6P1XJfwokRgtCC4yxpsrI",
+        "plus_code": {
+          "compound_code": "P3GR+JW Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GR+JW"
+        },
+        "rating": 1.5,
+        "reference": "ChIJ2b6P1XJfwokRgtCC4yxpsrI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "59-24 Maurice Avenue, Maspeth"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72669980000001,
+            "lng": -73.9123001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72807408029151,
+              "lng": -73.91088046970849
+            },
+            "southwest": {
+              "lat": 40.72537611970851,
+              "lng": -73.9135784302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "\u8fea\u62dc\u4e4b\u591c",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105345264282270980600\">jazz guo</a>"
+            ],
+            "photo_reference": "AU_ZVEEFJSXBlxqmlJY2iLPAnZAnvIIZKACkq_reFkimXgxxdF4yF32ZQm2T3st_TYzx4Dt7ZQm5iTEKKBmtlaPkZqpswGU5OxqfLv1gkCn4rotZlnhg4VQEwgtDNCKJ_cj--Dc2fABi-NSfOL_3YJKohZPAAIuEIZqLOCOxZlrcZ1yVRKDWNcR0wjzcg_awhWV5AOctFDBrtdgDlDgyy2XUs5ky-DttlsoJN356HDblh7JTRDt5n7LsY1eGUq2oegiw2VzQ0AGK7PkoQrextNPjN4_OjQswQc4qEG0n_5NPO8goHu5HMDNrUkpUW1x8mGHNwWq8QhoQifT1F9j4FCqqeK_p-Dn2qxzxPQ6vTHnJifnEDQkynbkUEyJIFaFm_gumwhzd3SoCZRYNZR3iFIIl2hGEeeHZb57lIW0lCP3eSKoGoY_6oriB0YWnlqO1N5YElJSutKYJ6cHXNKEl-L4WfuYbG1LWlnUTTHECTwqkB84pJQXAi9mFW8D5tuILKd0CiE0Ae9dTG7bMY4HaONz0oKifn6Ob1dEZFWdzJu7Yc9BB_OdDMFgeMSF3tTUHwVQnD5dQdbFfQACcCnRNVlTxYlRnq8xO--d5h3h0NKLW4u8GsaueCu3_N7oP-u8CpwS3_tu2ww",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJY30nI8BewokRI63lNCzKITg",
+        "plus_code": {
+          "compound_code": "P3GQ+M3 Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GQ+M3"
+        },
+        "rating": 4.3,
+        "reference": "ChIJY30nI8BewokRI63lNCzKITg",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 22,
+        "vicinity": "55-30 58th Street, Maspeth"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72640850000001,
+            "lng": -73.9234527
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72788158029151,
+              "lng": -73.9222355697085
+            },
+            "southwest": {
+              "lat": 40.72518361970851,
+              "lng": -73.92493353029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "fairyfina",
+        "place_id": "ChIJQ71QpPlfwokR_uUk98wAJHs",
+        "plus_code": {
+          "compound_code": "P3GG+HJ Maspeth, Queens, NY, USA",
+          "global_code": "87G8P3GG+HJ"
+        },
+        "reference": "ChIJQ71QpPlfwokR_uUk98wAJHs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "0-00 57th Avenue, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.732029,
+            "lng": -73.921318
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73341033029151,
+              "lng": -73.92012481970849
+            },
+            "southwest": {
+              "lat": 40.73071236970851,
+              "lng": -73.92282278029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "3br 3br Home in Sunnyside NYC 7 min Subway\\n\\n",
+        "place_id": "ChIJnRnJ0sVewokRptYx7EY8RCU",
+        "plus_code": {
+          "compound_code": "P3JH+RF New York, NY, USA",
+          "global_code": "87G8P3JH+RF"
+        },
+        "reference": "ChIJnRnJ0sVewokRptYx7EY8RCU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7320366,
+            "lng": -73.9213257
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7334169302915,
+              "lng": -73.9201276197085
+            },
+            "southwest": {
+              "lat": 40.73071896970851,
+              "lng": -73.92282558029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "3br 3br Home in Sunnyside NYC 7 min Subway",
+        "place_id": "ChIJvULI0sVewokR1TMsJs48HRQ",
+        "plus_code": {
+          "compound_code": "P3JH+RF New York, NY, USA",
+          "global_code": "87G8P3JH+RF"
+        },
+        "reference": "ChIJvULI0sVewokR1TMsJs48HRQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72974010000001,
+            "lng": -73.9114914
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73104728029151,
+              "lng": -73.91016301970849
+            },
+            "southwest": {
+              "lat": 40.72834931970851,
+              "lng": -73.9128609802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "We\u2019ve thought of almost everything to help protect you !",
+        "place_id": "ChIJIR6RG-pewokRkget0mPDuOI",
+        "plus_code": {
+          "compound_code": "P3HQ+VC New York, NY, USA",
+          "global_code": "87G8P3HQ+VC"
+        },
+        "reference": "ChIJIR6RG-pewokRkget0mPDuOI",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7174351,
+            "lng": -73.9226214
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7188200302915,
+              "lng": -73.9211573697085
+            },
+            "southwest": {
+              "lat": 40.7161220697085,
+              "lng": -73.9238553302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Newtown Creek East Branch",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115388115842785255968\">Deirdre Nolan</a>"
+            ],
+            "photo_reference": "AU_ZVEGoYojNhJw2SE9UmqUmCC_cUQzK_t1Oh9XfAisSJA-YsdZ5MB2CzY9-MEMJvY0rf1RrxDzlWO8E5mjB1lSVe3flllS6OluMOicAzZSq-09eCWVhKePy3rzLDN_iC3v3PbhqRoFC4IHIF_HZTHUQte3jKfVjAqxJLl9wecc0FaxzqCoHPd5FD2IfmlTkV6JQrMiXiITIdvbwgqAP2vYGT1loD6ZUg55S3EnXVNtZ1Ym71dlFoCNV5UH0AQ5B_b34V-S0Er9bBOPddOCpTpR-aM-i7Ed3rFk0TRNrlqnIA5QiKUz4ViST1Jt5nraIRsc1c5FAZ5PFA4ZTqW1rvmnELvY8bUy3i5KMbdsKHKbFLcP_52DuoGNm6MrnXjSlv5nJQ5boejEijGm3Cs_ixmbfgONS3iMOBBAXp1HxghT70R0KzGB84-fexBxbX79M3L1CBAC6ayqRFmFivYI3uKEi9GrGRbPbgG0TVF1Z6wG5M0oWbWShiKRhWveQP9OsRMJ-NNTRo6cjSjL9D7O30cXEJn1F9wSKNUUWOs7vNCTTP1Ya2hUEjnDWjD4Hlbs7bxEIJNoTTma6l5Zp8auMK2FUX6D7zaa4BVCGEA_7Q8NxraNwVpUwEYqNiDxGt_w_DEt0u9yk8w",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ6Wt2zpRfwokRDLBc8pvLupk",
+        "plus_code": {
+          "compound_code": "P38G+XX Maspeth, Queens, NY, USA",
+          "global_code": "87G8P38G+XX"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ6Wt2zpRfwokRDLBc8pvLupk",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "58-38 47th Street, Maspeth"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.728222,
+            "lng": -73.9286438
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7296088302915,
+              "lng": -73.9273487197085
+            },
+            "southwest": {
+              "lat": 40.7269108697085,
+              "lng": -73.93004668029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kosciuszko Bridge",
+        "photos": [
+          {
+            "height": 2250,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105158372928402375212\">Jesus GJ Chuza</a>"
+            ],
+            "photo_reference": "AU_ZVEEMfUjTgKnZvSboABjrVvdCpW_0LH-duGc9riaOLjFw6p2GG-LPbOPsg4BBqqLlKJWWcYr74M0NK9xn4lUUbfG5rXxWJPzrMwlybIji57p870RgzhNOxv3fyBhtVxWs5E4tvCsbj938hNBRBUd1TTgtTMqDuY3YWlsq9qaEcc5eWdpdg4bPGwi7hZhyrqVk44C14FGuOm9EjNGQZSwdKj5DJBbSGxrcMiABiMhQzLL7CQpY105KkU2KeD73Wl29eV-_PZIX_7wUWXLObrw11AOSeaQ-KxympY1S-jdHq4TB3GcGzg4L7Jp10UUJ9yY5UDEJHVx2U4-B5Ojn8SJ25Q0nCF9YvVHYc0lgpSW72RQhbM9E8rHrYUj-zH6SeElibj2Ubp29Mk5gCvR6vVc6hTrMl9n0SemwoOP7K_I2PesjiydZK5djAN_HiHP-oC2YSNmwjH0jZZ0o-PB34Og3okqg_hhRPhq80FW1G-_IpqWqkh4D75PfAP3YhblArb_5Mps71XCNH1rVBqZY-SRh5l0GR0zKpUnBDprLgnFkiZNAHX-3YSyqduJsm2XpqUYtpGwTW-kmYGFsAI0ot7zkGMhHLtAkiB5nfJzWazHtHCAcCoK7oEZm-Bl5X2lIVaG6p9Ut636h",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJQahc5SVZwokRd-PrOxSFYxo",
+        "plus_code": {
+          "compound_code": "P3HC+7G Brooklyn, NY, USA",
+          "global_code": "87G8P3HC+7G"
+        },
+        "rating": 4.6,
+        "reference": "ChIJQahc5SVZwokRd-PrOxSFYxo",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 435,
+        "vicinity": "Brooklyn-Queens Expressway, Brooklyn"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72234429999999,
+            "lng": -73.92981309999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72370338029149,
+              "lng": -73.92842476970849
+            },
+            "southwest": {
+              "lat": 40.72100541970849,
+              "lng": -73.9311227302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Twin Tanks",
+        "place_id": "ChIJaWi3SABfwokRYS0dQHJ9nfg",
+        "plus_code": {
+          "compound_code": "P3CC+W3 Brooklyn, NY, USA",
+          "global_code": "87G8P3CC+W3"
+        },
+        "reference": "ChIJaWi3SABfwokRYS0dQHJ9nfg",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "East Williamsburg, Brooklyn"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73166359999999,
+            "lng": -73.92082649999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7329196802915,
+              "lng": -73.91950836970848
+            },
+            "southwest": {
+              "lat": 40.7302217197085,
+              "lng": -73.9222063302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-361-8547",
+        "name": "New York Whitehall Transportation",
+        "place_id": "ChIJWwhAQz1ZwokRKmN9b5JKPio",
+        "plus_code": {
+          "compound_code": "P3JH+MM Flushing, Queens, NY, USA",
+          "global_code": "87G8P3JH+MM"
+        },
+        "rating": 3,
+        "reference": "ChIJWwhAQz1ZwokRKmN9b5JKPio",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "46-25 54th Avenue, Flushing"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7288555,
+            "lng": -73.919326
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7301796802915,
+              "lng": -73.9179863697085
+            },
+            "southwest": {
+              "lat": 40.7274817197085,
+              "lng": -73.92068433029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "48 St/55 Av",
+        "place_id": "ChIJqxvv2MZewokRVMBMctZkGqQ",
+        "plus_code": {
+          "compound_code": "P3HJ+G7 New York, NY, USA",
+          "global_code": "87G8P3HJ+G7"
+        },
+        "reference": "ChIJqxvv2MZewokRVMBMctZkGqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.726366,
+            "lng": -73.912206
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7277154802915,
+              "lng": -73.91087021970849
+            },
+            "southwest": {
+              "lat": 40.7250175197085,
+              "lng": -73.91356818029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "58 St/55 Dr",
+        "place_id": "ChIJvcijoepewokRmWHgspLET14",
+        "plus_code": {
+          "compound_code": "P3GQ+G4 New York, NY, USA",
+          "global_code": "87G8P3GQ+G4"
+        },
+        "reference": "ChIJvcijoepewokRmWHgspLET14",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.728676,
+            "lng": -73.919235
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7299855802915,
+              "lng": -73.91790136970849
+            },
+            "southwest": {
+              "lat": 40.72728761970851,
+              "lng": -73.92059933029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "55 Av/48 St",
+        "place_id": "ChIJm4FbJ8dewokRuwJuD1CGCe4",
+        "plus_code": {
+          "compound_code": "P3HJ+F8 New York, NY, USA",
+          "global_code": "87G8P3HJ+F8"
+        },
+        "rating": 5,
+        "reference": "ChIJm4FbJ8dewokRuwJuD1CGCe4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72914099999999,
+            "lng": -73.919304
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73050088029149,
+              "lng": -73.9180060197085
+            },
+            "southwest": {
+              "lat": 40.72780291970849,
+              "lng": -73.9207039802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "48 St/55 Av",
+        "place_id": "ChIJh7l12cZewokRgBG8cU8zakQ",
+        "plus_code": {
+          "compound_code": "P3HJ+M7 New York, NY, USA",
+          "global_code": "87G8P3HJ+M7"
+        },
+        "rating": 5,
+        "reference": "ChIJh7l12cZewokRgBG8cU8zakQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.726254,
+            "lng": -73.912262
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72760048029151,
+              "lng": -73.91088546970849
+            },
+            "southwest": {
+              "lat": 40.72490251970851,
+              "lng": -73.9135834302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "58 St/55 Dr",
+        "place_id": "ChIJ_zXDoOpewokRWPrYpmSQFcc",
+        "plus_code": {
+          "compound_code": "P3GQ+G3 New York, NY, USA",
+          "global_code": "87G8P3GQ+G3"
+        },
+        "reference": "ChIJ_zXDoOpewokRWPrYpmSQFcc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7234702,
+            "lng": -73.91215129999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7248475802915,
+              "lng": -73.91083661970849
+            },
+            "southwest": {
+              "lat": 40.7221496197085,
+              "lng": -73.9135345802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Maurice Ave/Maspeth Av",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111964327068626268949\">Daniel Petit-Frere</a>"
+            ],
+            "photo_reference": "AU_ZVEGiu8nkqRvZv5PkDcf5kHMa0SDX1ZzKv7NQyQ1F3jVzDAFBqkrk8ouhD6LmFbsaHMCj5fjWxcxPoGIDeYR-6Xeg8d7IOolQxIvTnG1m1zIqHwikSQElccIZNFgqYvVt2nkBv7QNPgFeOIG_i4CqfphX5T29slw0uGWEIuv0JbbZV2Wm6tPM6Jo5U-3rKjjY1D_F6AYZCzY7Lmhjd0hY4ej4IqfvF7Pnbv3161cbNnAgu9AteGpeWCIcm2kkNOJcUVIPc_xg4Ul6S6f6F7H7bFUlj1tqWcGV_hekQtsEbbk_hKJCjFqDt0aZjp44nozoHT3TkK7P9K-RvAEBsjNV5CQ94BKt1NXI2iT3G6sS0k0Kn8Zb9eZZWG-PIIPVgf1R2kmpd0DmhGvQ75KSWDulXko9EbwN5YdgzVz8jVkMtnb7tcrtSe7xN9MJ2vsghi-FrwZugIbdS_6Xq1x63MD2XxsMawK-apbfCR4gqTaadeDPFuR6HzeiKju6jnebLRPbxnHPPtfXM0LRRPULJBrr_HO6YyAD9W9Kp7_wzDW4pcq8GBxCfWmG96916HasC8yWmXbvz1ogv59fOi_2izhU6kjQAfbTIlBUSjRFuWYvxs2-leNmvHuSFRmcJ1S0XrznoT7_6g",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJkyEuY5VewokRQmoPw5uCghM",
+        "plus_code": {
+          "compound_code": "P3FQ+94 New York, NY, USA",
+          "global_code": "87G8P3FQ+94"
+        },
+        "rating": 4.7,
+        "reference": "ChIJkyEuY5VewokRQmoPw5uCghM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.726662,
+            "lng": -73.912033
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72801288029149,
+              "lng": -73.9107489697085
+            },
+            "southwest": {
+              "lat": 40.7253149197085,
+              "lng": -73.9134469302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "58 St/55 Dr",
+        "place_id": "ChIJsTUBoupewokRkrWyjunIebo",
+        "plus_code": {
+          "compound_code": "P3GQ+M5 New York, NY, USA",
+          "global_code": "87G8P3GQ+M5"
+        },
+        "reference": "ChIJsTUBoupewokRkrWyjunIebo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72130999999999,
+            "lng": -73.91288800000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72267788029149,
+              "lng": -73.9114958697085
+            },
+            "southwest": {
+              "lat": 40.71997991970849,
+              "lng": -73.91419383029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rust St/57 Dr",
+        "place_id": "ChIJn2zlG75ewokRJhV9JNU90CY",
+        "plus_code": {
+          "compound_code": "P3CP+GR New York, NY, USA",
+          "global_code": "87G8P3CP+GR"
+        },
+        "reference": "ChIJn2zlG75ewokRJhV9JNU90CY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.72901179999999,
+            "lng": -73.9120315
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7303629802915,
+              "lng": -73.91072581970849
+            },
+            "southwest": {
+              "lat": 40.7276650197085,
+              "lng": -73.91342378029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "58 St/Borden Av",
+        "place_id": "ChIJc9a9DOpewokRufG4Ap9kNvc",
+        "plus_code": {
+          "compound_code": "P3HQ+J5 New York, NY, USA",
+          "global_code": "87G8P3HQ+J5"
+        },
+        "reference": "ChIJc9a9DOpewokRufG4Ap9kNvc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.71854949999999,
+            "lng": -73.915207
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7199280302915,
+              "lng": -73.91387236970849
+            },
+            "southwest": {
+              "lat": 40.7172300697085,
+              "lng": -73.9165703302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/54 St",
+        "place_id": "ChIJFzeDq71ewokRRW3UbEPX3oA",
+        "plus_code": {
+          "compound_code": "P39M+CW New York, NY, USA",
+          "global_code": "87G8P39M+CW"
+        },
+        "rating": 5,
+        "reference": "ChIJFzeDq71ewokRRW3UbEPX3oA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.731514,
+            "lng": -73.919373
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73287998029149,
+              "lng": -73.91800331970849
+            },
+            "southwest": {
+              "lat": 40.73018201970849,
+              "lng": -73.9207012802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Queens Midtown Expy/48 St",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112622165581387252958\">Seth Snyder</a>"
+            ],
+            "photo_reference": "AU_ZVEGGHTrObdmH63KZOTpX2HErnOTJVu-fy60gBCzx5-jZGM7EqlG2ZrfH7lW51paqFwUvN9TrW_Iw3laxdBI77diFkCiNic0ADbhuurAa-15iw3W57-dXhu2JiMUsjPwohS0ztT_e0qAn5h7QyK4Xc472TVZItuu8rLAz7TeCnanaqPS58m3beU3jdhl9qxAG-2zWVEK8uwPStEKS8G81waz_397L7i2bAKpGolc-TeXBG7Ebq5hSVtHv12wZYuAObBxDUvnKQVpkN4lAuJOiGVApWrwRShmb4OIm4v3I-0joVImAGFPlfSJxwnKpzyVQ7KFH842ba59u6CpdK9eUGbVLbFoCXmK6FDBcs8cCBAoA4BAhdgeCXuaU12SrhfAw9NC5byv2kic_mL6IDJ6tc0AMwBFIVsKnSA64hYB8vFvlWOT3cqZMBnFtq0tqwFVtuU9UWIxUB5qx-Gf05-rlIkXWTpq1auQsdQzoTS3RxsDfNeA9fiXLfpYCT_rhtlsxftyC2Dx6_N2Gaso_PhyFFECt18oZwg0Qhky4ifUssGg0J22wY_qVLCsWL12ceHby8SQm6XTrG9OpdeEn9cqgLNlwKtTwjMHjUbX5JnCk40nS3t_1hWJ4aSB6Ox70UdH1o8-VGQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJv3UMHMRewokRRqj1J1FB2bg",
+        "plus_code": {
+          "compound_code": "P3JJ+J7 New York, NY, USA",
+          "global_code": "87G8P3JJ+J7"
+        },
+        "rating": 5,
+        "reference": "ChIJv3UMHMRewokRRqj1J1FB2bg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.718616,
+            "lng": -73.915115
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7199583802915,
+              "lng": -73.9137629197085
+            },
+            "southwest": {
+              "lat": 40.71726041970851,
+              "lng": -73.91646088029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/54 St",
+        "place_id": "ChIJ3zQVrL1ewokRRmKgToPB3rI",
+        "plus_code": {
+          "compound_code": "P39M+CX New York, NY, USA",
+          "global_code": "87G8P39M+CX"
+        },
+        "rating": 2,
+        "reference": "ChIJ3zQVrL1ewokRRmKgToPB3rI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.717684,
+            "lng": -73.918339
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.71900848029149,
+              "lng": -73.9169773197085
+            },
+            "southwest": {
+              "lat": 40.71631051970849,
+              "lng": -73.9196752802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/Page Pl",
+        "place_id": "ChIJl8QnnrxewokRBZlCLTyv72E",
+        "plus_code": {
+          "compound_code": "P39J+3M New York, NY, USA",
+          "global_code": "87G8P39J+3M"
+        },
+        "reference": "ChIJl8QnnrxewokRBZlCLTyv72E",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.718452,
+            "lng": -73.915283
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.71983458029149,
+              "lng": -73.91395031970849
+            },
+            "southwest": {
+              "lat": 40.7171366197085,
+              "lng": -73.91664828029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/54 St",
+        "place_id": "ChIJMa0dq71ewokRXzRjdld61QA",
+        "plus_code": {
+          "compound_code": "P39M+9V New York, NY, USA",
+          "global_code": "87G8P39M+9V"
+        },
+        "rating": 1,
+        "reference": "ChIJMa0dq71ewokRXzRjdld61QA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.71767,
+            "lng": -73.91851799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7190249302915,
+              "lng": -73.9171718697085
+            },
+            "southwest": {
+              "lat": 40.7163269697085,
+              "lng": -73.9198698302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/Page Pl",
+        "place_id": "ChIJcbUHYbtewokRADIOPRCi10s",
+        "plus_code": {
+          "compound_code": "P39J+3H New York, NY, USA",
+          "global_code": "87G8P39J+3H"
+        },
+        "reference": "ChIJcbUHYbtewokRADIOPRCi10s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.71767800000001,
+            "lng": -73.918144
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.71905828029151,
+              "lng": -73.91680996970848
+            },
+            "southwest": {
+              "lat": 40.71636031970851,
+              "lng": -73.9195079302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/Page Pl",
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103686320667806432867\">Angel Vivianco</a>"
+            ],
+            "photo_reference": "AU_ZVEFxyaJJ-VNYp27AoqC0wZ2P-RkNLY7ltjwslSYj9kIeEBBZ3zvOxEIKOo0XqWjXNAJ92CZVVqftKpi_8No3KaOUqIiT2oSeUduZu_7PneZqz-5cxQtHLHu_fFC2qbDlx-UKTGfF4qCvZDwX_Zu9X34EUEvVANOo2wdX2PasSCBjmW-1NpLgqdOIlH5DxU1Q1aoZAnEgp3kP5E_fNu64ZM7ogu0QbVz1ORsPX8uJCzOi-43u40L58RJgQqF7gmhCyeSN8WDJOITxpOqFksy9FTX9T1HZEAqrSi4qsc4ZuFDMbmCrIM4VPonVdzSUU8UFAYP90S9YNmEen7sa91lrLaNwd-mIPsXC2b1vpb87ixV0LWxQ-vIBmT1uOKrPQ33hbikU0Dc7RgWqzD5CIcIACsEEjZRxWZ444bXZRbE6wBSsSxH3JMIThqLBZ5JeBdhrBIUjpZ0ChTfQc9alXmP96a9J7nfpOfObLqCBSKkbr8gXWxiQU_9aC6ns7ZchjYiNpazKbrJ1wyRrXeYxwBZwlRPwSNGYMN1W9Qoqfubw83FqwLLj4qJ0QUG_HLJpoGvENjoddwU4jTVuVGjuNiToec78fMHaYg7pPZbpFHL4go3uYqc7SW5ycQ6wlenzByvEZSqpXkYX",
+            "width": 3060
+          }
+        ],
+        "place_id": "ChIJvSjxnrxewokR6J5qH_5CzZ8",
+        "plus_code": {
+          "compound_code": "P39J+3P New York, NY, USA",
+          "global_code": "87G8P39J+3P"
+        },
+        "reference": "ChIJvSjxnrxewokR6J5qH_5CzZ8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.720161,
+            "lng": -73.911743
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72149788029149,
+              "lng": -73.91041761970848
+            },
+            "southwest": {
+              "lat": 40.7187999197085,
+              "lng": -73.9131155802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rust St/58 Rd",
+        "place_id": "ChIJY5QHCJZewokRVvFSArYr7mY",
+        "plus_code": {
+          "compound_code": "P3CQ+38 New York, NY, USA",
+          "global_code": "87G8P3CQ+38"
+        },
+        "reference": "ChIJY5QHCJZewokRVvFSArYr7mY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.729664,
+            "lng": -73.91179699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73101608029151,
+              "lng": -73.9104611697085
+            },
+            "southwest": {
+              "lat": 40.72831811970851,
+              "lng": -73.9131591302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "58 St/Borden Ave",
+        "place_id": "ChIJg6MmBepewokRZ2p0doDzduw",
+        "plus_code": {
+          "compound_code": "P3HQ+V7 New York, NY, USA",
+          "global_code": "87G8P3HQ+V7"
+        },
+        "reference": "ChIJg6MmBepewokRZ2p0doDzduw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7297754,
+            "lng": -73.9119256
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7311181802915,
+              "lng": -73.9106574197085
+            },
+            "southwest": {
+              "lat": 40.7284202197085,
+              "lng": -73.9133553802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "58 St/Borden Av",
+        "photos": [
+          {
+            "height": 2304,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112905539774353677325\">Diego Landeta</a>"
+            ],
+            "photo_reference": "AU_ZVEF8bAs2dW-KkFzGgoFqdDcN3j72Tmjwc3hDGj5Wu4UaAUidVFQxCq5rz73zZggoAfK-XsLyjivn1VZqM3Vv4kZt4H252xjtSeeq8vk2nFdhGiQ5AIK5CMV1XDzSq1s9PiQ6LGe0g_lwT5pyzvmvKvcb2n_SNsc8dfP_mKpO3CFZ-N2Hbp14AAiE9SYnbtiBLyK3tqxO0o7A8AyPbtC8nuOuLqaPnu1-WtdXyr1_VQo3VQHNyJTKERiNUlxeZwF2WzHT5S_U-v0WS-0VYXQFNBeIiJjFbAujZzMkBwQFhTHI71YB1OSwZPjEI9iLZEnHauBnQAz8ViG6_eELwBSd7jL0kB7M-Kz8ywlD1KtMc0bDMTLx8UZoPd7EA-0KFvmE2b19yhwdctVebp0EGC0M8Px9KmD1QdiYBd6KAqyYeP36lRVw0mueUwzdDSij_J5-BYG187i1KnVxryuWa1BT3juXxc0sGnKtTWT4-cEE72XROwFqKri1Bv0cChQD6q-Ia29wGqRpLiJnXwx0EQ8SMSbykttNCiQq4unhvl497Y0IZrs7BKLfoS_tJ2YlNU0S9rogSADZVJAInFbJbc0btNHP3-yK1hgHiOF1q9t8zhbuC949x8YFLHI1u5jAmYgmGg17Lg",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJFa91BupewokRs8LsUTANSJs",
+        "plus_code": {
+          "compound_code": "P3HQ+W6 New York, NY, USA",
+          "global_code": "87G8P3HQ+W6"
+        },
+        "rating": 1,
+        "reference": "ChIJFa91BupewokRs8LsUTANSJs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7197,
+            "lng": -73.91122399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7210509802915,
+              "lng": -73.9098760697085
+            },
+            "southwest": {
+              "lat": 40.7183530197085,
+              "lng": -73.91257403029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/Rust St",
+        "place_id": "ChIJ67pMDJZewokRer7jRHEUYAo",
+        "plus_code": {
+          "compound_code": "P39Q+VG New York, NY, USA",
+          "global_code": "87G8P39Q+VG"
+        },
+        "rating": 5,
+        "reference": "ChIJ67pMDJZewokRer7jRHEUYAo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.71969250000001,
+            "lng": -73.911068
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72103268029149,
+              "lng": -73.90971426970849
+            },
+            "southwest": {
+              "lat": 40.71833471970849,
+              "lng": -73.9124122302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/Rust St",
+        "place_id": "ChIJCa4gDZZewokRgY5yOLL3L_k",
+        "plus_code": {
+          "compound_code": "P39Q+VH New York, NY, USA",
+          "global_code": "87G8P39Q+VH"
+        },
+        "reference": "ChIJCa4gDZZewokRgY5yOLL3L_k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73274600000001,
+            "lng": -73.91883899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7340949802915,
+              "lng": -73.9174900197085
+            },
+            "southwest": {
+              "lat": 40.7313970197085,
+              "lng": -73.9201879802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "48 St/47 St",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105790452300122794195\">G A (TheFamous)</a>"
+            ],
+            "photo_reference": "AU_ZVEGrOhuv957EoObQDrsJNwP47h1XYev9vNkLDgXsNOkKWbUKgLdy3AfkP4Ks3fkykY1Zqj3EGOzVcO8wkl3-1IRx7Aw96jJko50qytexb-oGUc-V3TMNVnvLJctuwTZKeadZ-R-5y_jFwXWH-F7RRIoyyjdQ9RgT6JUM34g4USa4_cYeIgbfde9eHhtBXRVrk_KQJOdarvdrKUU0YY8goR5cBEUlMTUJJXXxGg9bKHebwoyJeukp2pUMveCdK9t0Pf1ed0H65uFfuny4YKFZAUDUg0h_R1w0rb353T3lcod6kO05cIuMJ2YEsESP133bWkXF_GFHJDvrqDC6LQxH32iv3CENQC8M9Ny9nyxVbj_8FWHgfnj6oKUJV05vTe2GVNr3TdMD351TT_MTY15zUOXA61Th1zhtDanrfTf68bG744hjoHyrc-2_9Pp2RWLtQ446eXhIAMygw_GxNlCrBPBQnj1tynBciiW3MRyMgaihuw7rK2FT3prO7GhigUW7ydS4yGWnyLnlOofQyLLb5Sxx7L77W2BaOb2Avu5hX0kdXumgLOpzKzSUlOxVJNV_wcRFuuJLWsr274aRcKMohqtPmgfoBxhfcqJp2nZAU3BXqop3GorWPwcjbb_ctGavxNh4DA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJi79EccRewokRe2kzXusXXvs",
+        "plus_code": {
+          "compound_code": "P3MJ+3F New York, NY, USA",
+          "global_code": "87G8P3MJ+3F"
+        },
+        "rating": 2.3,
+        "reference": "ChIJi79EccRewokRe2kzXusXXvs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.719662,
+            "lng": -73.910889
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7210579302915,
+              "lng": -73.90956516970849
+            },
+            "southwest": {
+              "lat": 40.7183599697085,
+              "lng": -73.91226313029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/Rust St",
+        "place_id": "ChIJNb3hcpZewokR4RJ7CyR1CUA",
+        "plus_code": {
+          "compound_code": "P39Q+VJ New York, NY, USA",
+          "global_code": "87G8P39Q+VJ"
+        },
+        "rating": 5,
+        "reference": "ChIJNb3hcpZewokR4RJ7CyR1CUA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.732265,
+            "lng": -73.924667
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7336043802915,
+              "lng": -73.9233214197085
+            },
+            "southwest": {
+              "lat": 40.7309064197085,
+              "lng": -73.9260193802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "54 Ave/43 St",
+        "photos": [
+          {
+            "height": 8160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113902592668499555877\">wmsbrg_nomad</a>"
+            ],
+            "photo_reference": "AU_ZVEGYej2ByOD3zmKKIAMtluRHcmcp3cOailet9l6xcAjNOJXRPpwjONQ36GZ2a3DnFR07kRsMxhb06_5jdIg3fMsKaCu0UqTI3KOuQx49a739Xn5rkraj7RWGuCqArpNDu3irVrxabY5msXc-sKDrXXdU17g5BYxbaJBYOy7PKsJS-joEU8YTV8SdjD6mBHfdNXB8WMoeHMuzlavbvTAws9kD-2CKbsbw5S0SPEphiBkfnRNlUJSWHA9IQT9DjdbZdHSGxJeCzOrcPQAxrLI5XBNKh7HuVjvIeqkulv96nEyGQE2YcyEOwZJPrLBgC1VWvhGNVLuZMabO_7AamYIflw5b7myZ-42wf4K0mAW8UnhkEhAeNthX8DsJ196aeUzUJ3mDVz2Yx3f98fmvnbomBhpckJuxow6yv8Z8ycrW6O1PhAIbsgE6Dru33mqG533BLY5deYbQE6_gRj33J095fFr1gqKpWNB_lwFMGopkcWegIb7VxQ5FiQeMOflXJDxnpkUQEoKKBANcewZlIMNmKtLnjxQHgZzddg3G6xDdrvnzsaMKVBAyD17cS4Gk81TNeS6RbFnMmj-monxDmPe3YIlXHQL938pwvK2I7c65YwX59imu1A9vem0kfiiPQRnyzYS1Fi9_i752K6GjwB9blA3AXfM",
+            "width": 6144
+          }
+        ],
+        "place_id": "ChIJhR_mU89ewokRaAe9EgrdED0",
+        "plus_code": {
+          "compound_code": "P3JG+W4 New York, NY, USA",
+          "global_code": "87G8P3JG+W4"
+        },
+        "rating": 5,
+        "reference": "ChIJhR_mU89ewokRaAe9EgrdED0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.720409,
+            "lng": -73.908615
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.72176343029149,
+              "lng": -73.9072685197085
+            },
+            "southwest": {
+              "lat": 40.71906546970849,
+              "lng": -73.9099664802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grand Av/59 St",
+        "place_id": "ChIJ_ajWOpRewokRdw8cyKp7sNc",
+        "plus_code": {
+          "compound_code": "P3CR+5H New York, NY, USA",
+          "global_code": "87G8P3CR+5H"
+        },
+        "rating": 2,
+        "reference": "ChIJ_ajWOpRewokRdw8cyKp7sNc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73012099999999,
+          "lng": -73.91924159999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73150283029149,
+            "lng": -73.91779281970848
+          },
+          "southwest": {
+            "lat": 40.7288048697085,
+            "lng": -73.9204907802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-937-7168",
+      "name": "Rudy's deli",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110361687932065208236\">Rudy&#39;s deli</a>"
+          ],
+          "photo_reference": "AU_ZVEGcOh4imnlSUKj-Ib08-5llMZgCXc0NJE0I1g5rRuuEBO29ehP0xwqerN9khegNPYJhKD-ZYzVXuWg8tuHynOg8WuWJwWygKLs-xRHQhZmVpdr1zhygjvMWCGwYJb2eTb9aepbVv-cxPTSgo8H99NTHc6P1G4_3g1e2XImqXUSupwNE6Rn8pHbhennYBOC2ShyF_Mr4DiaY_yEtdDoF68yRUvGVlpoZpSM4Jq01O0ADg_-ZIQHtAcggQZ4Jl11WVSxZxq1__mT05FmoEG0XJNApNJVGH8i6snZulp09aK_KXiG6lUDsEaQ8f8Es5F_1Q7-b9AJ94eA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJvXpnucZewokRcbtx6V1xyGc",
+      "plus_code": {
+        "compound_code": "P3JJ+28 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3JJ+28"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJvXpnucZewokRcbtx6V1xyGc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 138,
+      "vicinity": "54-30 48th Street, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7302509,
+          "lng": -73.9193109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7316606302915,
+            "lng": -73.9178762197085
+          },
+          "southwest": {
+            "lat": 40.7289626697085,
+            "lng": -73.92057418029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-361-8266",
+      "name": "Eataliano Pies",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106459321456636671490\">Jose Otero</a>"
+          ],
+          "photo_reference": "AU_ZVEHXDgE4ygafgfvWwzednk-RJ6I_Aw_x6fB1rlnXiKnJr8L2PZMSyxdBF9Thf_rMfoNXamWCBJIZjLXUdOiqcEHF94WmJ24hVpY3SAj6vS_4pvR7_acCfH2cBdMdm5iee1GFxpMt1yU6IJyRIGa8WREy5vz7OQ4hUG6XaI0m9p6p6uZ0vz4m9oasNTaRXn9WuWl4448n6tWamkyJlZm0nntsUDHHgpRd6gkwo3OAglzJluqsQoWMmtcqUV28vhy38tPsMyGaapq9-iaFI74QSHkQ0_tDom5gGLpR4Pa_hv2pjcp_OvcjQP4qaIAnzCjLRUeXNNjBa-QuILcg21AX82jjW9z2v4HfU4InxKnCXm2BDBOCZwJKGOxLyi3YY2-0LL1LgSqr3GGosH-GZYuCHYG3QuYe_hHYTVTFhSLY3xx4LZJpcsjsTH1GkTWN_7MtDk-VxJi1_PyRl6vC9DfVwmz92XgstZYCYwBW0IcrB7nkpnXtc6E0m8q0-YLYZJFV1SfHMztlkBpibm5CgAp8E2IKCd3sPWia27zfhxti4WI2AmcO9DuMxcmsNUNAVmo-aTeiy26yIhr6Ezk54cO3kSPEQFe6gQQTZJyRFuka-ojnHGqf8pFHkyMdoclgW_kC2GkRqQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJPxN1ucZewokR9OX2nKfk0vk",
+      "plus_code": {
+        "compound_code": "P3JJ+47 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3JJ+47"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJPxN1ucZewokR9OX2nKfk0vk",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 138,
+      "vicinity": "54-30 48th Street, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7174565,
+          "lng": -73.9180104
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7189212802915,
+            "lng": -73.9168362197085
+          },
+          "southwest": {
+            "lat": 40.7162233197085,
+            "lng": -73.9195341802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 718-386-4423",
+      "name": "Angelo's",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115649799007990885346\">Angelo&#39;s</a>"
+          ],
+          "photo_reference": "AU_ZVEHBZoIu3vIm0SMe7ynWKmSYC1gOGOy1PwDFl28APdOn6KRW8_fKEoHuO-mpewsuF0vQpyG578elTecb44SrI2zKFneWxnuQwvhgOyroR0dgdbFBQ2wktpmaPtIUIVhuC6LCGL8D92ILmGSqjLZEpy5Sg2tT4stkzOL10w1wPZ_oJlbRk7kXcQlgiQ1vCTfNxbhpfVZvYnXpkmbVUedEtcNDmEYq3SITQjrYXoM9ZvwBRN0AvzylZtu-Ib1l-b9beyY-NMe5NthDlcLqqnVv6hMyTcd6IPMtGD4aaShhK-JMWif_20LSpD2x6AH2nhuPSN0Z1z3tJec",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJR1mRpbxewokRJjNJbMifxWE",
+      "plus_code": {
+        "compound_code": "P38J+XQ Maspeth, Queens, NY, USA",
+        "global_code": "87G8P38J+XQ"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJR1mRpbxewokRJjNJbMifxWE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 75,
+      "vicinity": "50-00 Grand Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7290887,
+          "lng": -73.91958170000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73042303029149,
+            "lng": -73.91816411970849
+          },
+          "southwest": {
+            "lat": 40.72772506970849,
+            "lng": -73.9208620802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-472-0808",
+      "name": "48 Street Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100451810636582217157\">Levan Franco</a>"
+          ],
+          "photo_reference": "AU_ZVEFKI3ScqJ3oewsEM3kA6bIe_Xz7I27lR-Fzs0OsYZrRX3aeebueLxcSuhmAMQRFhctx4jS_16SbV_oeiqsFuX35UU98R8SyE9pZlkw034KDzj2jTc5GIO1FZgm0BSMC1tSnS0IWUVOtOVaUuQMBxCMXrCS1KeoDRgHUo_4f63ideSWpw3rqJFsR2ZScYLbZylE6xKFT-hUWO-sBar5XcLqzzwNeF_Tu7P_AiaH4L_GCOWNsRnBlGOEiLB4CSOoRpPF3bdX3GWGBIlyqHpvJxOtTEFH0BjDXrMspuiUBpiBDDqjSUCGfn-oKHHU6ajrvIqh57KzjEUdMnpvwFclLeRWMOMoxqGS3qycXfN18Q0_cUZWwXXGevWxAyRldcS20Jx7vOyY-JDQxiqAK5PVaQtLSseKEYgmrHB_Qxeibg4tF8wYvVWBFnD3P0orND457WR0SAW7TD_WnwaWeYG02UKMu8g_pHbgxZsyO2IkxLFUo4PeSCzeh39hLoNRWuW-fdbPuP1pHgQWUwEncOBcB9tzJcR4Z1csz1RIm1hPi7e0KQWWF_8z_EiVWkwdqRlzyPxoU7tFXh-H7PwRiwQ-GPaWXSLpA0GVOWW-_NFUOdirhMx0GXZgKiQe5hiBJ0t2vPtrtL4ig",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJoyHW3cZewokR7SEaiXBZKCo",
+      "plus_code": {
+        "compound_code": "P3HJ+J5 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3HJ+J5"
+      },
+      "rating": 4.4,
+      "reference": "ChIJoyHW3cZewokR7SEaiXBZKCo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "55-02 48th Street, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72017460000001,
+          "lng": -73.91945059999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7213911302915,
+            "lng": -73.91832131970848
+          },
+          "southwest": {
+            "lat": 40.7186931697085,
+            "lng": -73.9210192802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-669-7838",
+      "name": "Asian Bowl Restaurant",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107811964677778870920\">Asian Bowl Restaurant</a>"
+          ],
+          "photo_reference": "AU_ZVEFilZ85qvgIEBRrjNn1ToPMCHaWqILFAI_o2h73lXIDIsBXl6zy-nkSkUT7tv-36PEeWnfsA-i5_Juz_q7bewCCzRoxVaM3c-GCTA6vyTPvKaUlCX_m1HPhh55rKAEjBxro3NC4C3isavlz6abWVQPltoK_4wwMmyYUvR38XrqyiVwCvqutUADp6ljD5ozrUKKRdsqH9MD_4hfF7360UpyB9pjn1eQ71JfNFTbgaiNWdPR-pekBtCnRL9F1qqGK3C9vrQnKHoZ69pd4lfjH5O2oWoWkwlac778H_5nN2vgMPgo99mbDu4WgqtXJPjZvLljNrveEhZs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJlxMWYHtfwokRLXYiX2C_WrI",
+      "plus_code": {
+        "compound_code": "P3CJ+36 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3CJ+36"
+      },
+      "reference": "ChIJlxMWYHtfwokRLXYiX2C_WrI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "57-11 49th Place, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72584670000001,
+          "lng": -73.9119893
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7271219802915,
+            "lng": -73.91069351970849
+          },
+          "southwest": {
+            "lat": 40.7244240197085,
+            "lng": -73.9133914802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-738-4237",
+      "name": "Casa Melania",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101216283747000554700\">Casa Melania</a>"
+          ],
+          "photo_reference": "AU_ZVEGotNlQCacp5RHLmGLrTKR4xA-Fkj7uxiAvK0lTn6o8FWjfHpg4_Hgvivbd10V_URSyyWKkwi_cJzmI_fEhSwotquZPTn64CEYiOfuHmqSzaz8kDlb-bIUsSwNb07zZ2tfq8ZRGnhYUsBnqnAttW88M9HO3dcV4nyMUZbxSgNFqfxAlFA2DvSuu4nHxZNV_L-mCs02LAE-cPinyWI9gUMNSd2Rk_KnNNe7YgVhTmFmDawmyiboWfb9gE5ObY42uZ0O4MV2BJK6Gh-oC4yWizCN5oWTrg1pyVvI9WgyyMEYoBFRyx29g6CJaRr2o1UXvZ-BbMGkoNXY",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJd9UfUoBfwokRHtoYww0yIx8",
+      "plus_code": {
+        "compound_code": "P3GQ+86 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GQ+86"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJd9UfUoBfwokRHtoYww0yIx8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "55-61 58th Street, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7230047,
+          "lng": -73.9122148
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7244254302915,
+            "lng": -73.91085486970849
+          },
+          "southwest": {
+            "lat": 40.7217274697085,
+            "lng": -73.91355283029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-326-5757",
+      "name": "Tio Bolo\u2019s Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117005509483566377942\">Tio Bolo\u2019s Pizza</a>"
+          ],
+          "photo_reference": "AU_ZVEGW_ZJElexBFmDOa8OK_qFqOzO2ogmNeO0uNEGo8wzI8rXCT3fTGmEOhWicIbfGhMemqqpXUrCQHYVx4q8_LiBRYn9yFmqs38JuPI7w7B-iCmgp0vgzU5mo-a5GC7hUKTwnDKzPMU_fw06mhZt0_GdvNH7JN13ArQz9tBizGbj4hi_9rGM5FigaKGuEUY25q2uEDw_JAWWLUW_NaFG8Ik-XH98U-r4Ojwkn1IM47SySW3GOkjxeqFwe0Uf6JiLytyoOrcVXQqQ0iImBXTLX5cSLshZ9rcSYuWXDB4YGiXgl9njXgX4Pri78W4jPbaJ67en-AtbH",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJo4lul_xfwokRs_jKK7Sct7Y",
+      "plus_code": {
+        "compound_code": "P3FQ+64 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3FQ+64"
+      },
+      "rating": 4.8,
+      "reference": "ChIJo4lul_xfwokRs_jKK7Sct7Y",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "57-64 Maspeth Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72630789999999,
+          "lng": -73.9090717
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72772833029149,
+            "lng": -73.9077402197085
+          },
+          "southwest": {
+            "lat": 40.72503036970849,
+            "lng": -73.91043818029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 845-422-9747",
+      "name": "Jersey Mike's Subs",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4667,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106065271335223353973\">Jersey Mike&#39;s Subs</a>"
+          ],
+          "photo_reference": "AU_ZVEGRS64oNY-dJwVUB3cYd0iV_ohRPSFViX9awo8Jvf46m53hJYaBygQM0nIMqRG5bBpPk1Al4bnvjfwSue6IYGQpGrXKlclbX4TdDSWU7dXqOo56derPz-PehLmx3wzRCf_B5FQe2AEH4JRNJKmurHdfNfXcy1odJxmGyrovqaSKQv-GrMJ0RNfBhy-fDz8doO-wdfqshX6tFHK_u2T0HYkwSJaZ6rBn76XDsDPAIQ07MQKOOyl1qMPG1Z1Wyj6xHdqI1P8w6PbAh9gER35zTRhUiDpDVk-o8ZLNtGDNZhGzHbMTIkXl8zEnWNGit3oOFM3mzYfdjrM",
+          "width": 7000
+        }
+      ],
+      "place_id": "ChIJpyZm0ylfwokRA64B4EuDFnw",
+      "plus_code": {
+        "compound_code": "P3GR+G9 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GR+G9"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJpyZm0ylfwokRA64B4EuDFnw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 591,
+      "vicinity": "59-03 Maurice Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72628629999999,
+          "lng": -73.9090559
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72771753029149,
+            "lng": -73.90774341970851
+          },
+          "southwest": {
+            "lat": 40.72501956970849,
+            "lng": -73.91044138029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-578-4019",
+      "name": "Chipotle Mexican Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116009746776888020036\">Charles Lau</a>"
+          ],
+          "photo_reference": "AU_ZVEF14LL3lVa_9A-388iCsJIa-QzGvalKoFcM4T35C3u96BG8P2pYnBRFbXfItboOGJVARHbQc-8lj31QlbsWgqK7isvTaNF8qPTA3Qi858_DlLe85SNswDz79sHGBIzQdaS0G60Zv98qY9Ahw21XyNu6bL3Xw2qVUwpGo3KTSIWd627_EFK7cUC7BLFhGSHjDJ7Vhs9QDAOGGhEwZQkvij7y9DrG_diHC5ELCBOwNcVEHUWufdA5FyItalzBarMSUX8TMs8nkwk2kZtbVseYzPn70YtVqmysgzE4tHRR8uiTeMAjcDOj1oclGCmIzOyXNxoTtlB0fIin4JiMu_D1moiKyfFKteqdWBTeNRSyUCndL3S3Hh1xQDSARBMUUa83zAtzA7AnI9P7qdehhvYsNvEhBRZuXykH-zbdtgzxtBNOPvv_wtJ0ddG2f-5U_ai9dgBiZ22aq6_DQgvvkDxPwsozgmLZJSJqw1gxLxUxvZVaRx5DRWAGBZDuJKonSfHtQochaPb64w7kCFWXGB4wYhj0AhPzUPA--NKV6T1imaLejzFM-GUJi0KcEtrJfHD9vSF2eTehuGDCmW3_RgxxpotqxhRLtdDxMbMN1kfd-73aPQhcspD2vMDmYeSmk2YOJpqnTpzi",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ22Zba5hfwokRyT7y8R_WRKk",
+      "plus_code": {
+        "compound_code": "P3GR+G9 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GR+G9"
+      },
+      "price_level": 1,
+      "rating": 2.9,
+      "reference": "ChIJ22Zba5hfwokRyT7y8R_WRKk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 253,
+      "vicinity": "59-01 Maurice Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7263544,
+          "lng": -73.90903689999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7277515802915,
+            "lng": -73.9077162697085
+          },
+          "southwest": {
+            "lat": 40.7250536197085,
+            "lng": -73.91041423029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 917-688-3038",
+      "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1276,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110803263085223760320\">Jennifer Zhang</a>"
+          ],
+          "photo_reference": "AU_ZVEE-CJg1Cr5LKEETd6vn2Jz3Zj2QMFwRtIUARRSLT2VNvYPSk2B1U_epOT0yYeAol0RVVzyjaUPZUic_bf_GfPPCC-FbyF3AUDBehfrIhZ8JwYd50EDNn36nBgRu8oLDLLrl5Q-9gAHCFClLCWcIA_uUMnzG0pTRaUL0rfHfP0cEs4hYyRmmnwydkUdHmRPZYgfcPfm5UlnzVuR1k8Kujx_8239POZa_aUw2K0IH2XUlcx2I_sy3sx_J5w3Rb-a0n2XgjwU8PVCArgDwKzUVOnpDVChr1GfWlYVIHBoBTdN-5Aw5RRJuRMA00rIDg2YpmnB4bkUvI30LxC8IXzbkDYTMfIyF_043xUDrvMIqKrzEt4PRMWPFfbJK1TMyn_maBfNGfYuiE-A725dUHJnB-DW8cJMoPn3oM9hLGCpPS7kG7kp9IEL0KK5gm_GE2QWq3k4zqlVlLXCGI2VXIZh6zd9vptZGX6rUy1quQ5f4v3nUKmnYVKtd1ebRMvsUoLaZ96Cjl17EoLqEkiz2FomBbg7orkORs173HF4uBcvgVdCZi3VnqpcfgPsUgQKvB_H6EiKT3Hh2a9Ca4IajIqWD0430N79jxyGe0PD4YnTf1cun4RoFBPSbeGdUKLTLOXJAM5piqQ",
+          "width": 1702
+        }
+      ],
+      "place_id": "ChIJOXRBgH9fwokRLLW_y_ymUio",
+      "plus_code": {
+        "compound_code": "P3GR+G9 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GR+G9"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJOXRBgH9fwokRLLW_y_ymUio",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 479,
+      "vicinity": "59-05 Maurice Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7265086,
+          "lng": -73.9086987
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72792133029149,
+            "lng": -73.90742831970849
+          },
+          "southwest": {
+            "lat": 40.7252233697085,
+            "lng": -73.9101262802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-690-7900",
+      "name": "Smashburger",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 720,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106487877130651819439\">Smashburger</a>"
+          ],
+          "photo_reference": "AU_ZVEGKO6oMdUOeGEzPPQOuPpOTL0jE6uSK8iOLk2a8o-1vyPZMuAAtGKO9okzUDo18fU5qy9U3XxY7SDwAtksbfKKklehQniH7NnF44MrOCiXLeeBwnSovvqWLD2ie__0UuW7_ywBhNG2Ff-UdUZckgmaAQ_o52fOW3ZP50WhSxqz2fUbKmjb_84-Bfljyfx4Tz3Eust3q6Q0-6Kjq1pYbb18An827lJDzAclswfpHcJHayDc4hjhEbZy2uAteVkDPN3CJNw6_SvrF9QWpTpoyR-aYgRfhXNEVAKbxXfe5C5nut1uPcUg0Fwxk6XBFc8ZKZA9oGv9YaEs",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJRQzXxlpfwokRSGfP3TfJsfI",
+      "plus_code": {
+        "compound_code": "P3GR+JG Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GR+JG"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJRQzXxlpfwokRSGfP3TfJsfI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 465,
+      "vicinity": "59-11 Maurice Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72520069999999,
+          "lng": -73.90816079999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7266237802915,
+            "lng": -73.90677396970848
+          },
+          "southwest": {
+            "lat": 40.72392581970851,
+            "lng": -73.9094719302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Culinary Bliss",
+      "place_id": "ChIJRz0lUwBfwokRkchG39crGAo",
+      "plus_code": {
+        "compound_code": "P3GR+3P Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GR+3P"
+      },
+      "reference": "ChIJRz0lUwBfwokRkchG39crGAo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "59-20 56th Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.726601,
+          "lng": -73.90768400000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7279695802915,
+            "lng": -73.90635546970849
+          },
+          "southwest": {
+            "lat": 40.7252716197085,
+            "lng": -73.9090534302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Mc Donalds",
+      "place_id": "ChIJ2b6P1XJfwokRgtCC4yxpsrI",
+      "plus_code": {
+        "compound_code": "P3GR+JW Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GR+JW"
+      },
+      "rating": 1.5,
+      "reference": "ChIJ2b6P1XJfwokRgtCC4yxpsrI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "59-24 Maurice Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72669980000001,
+          "lng": -73.9123001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72807408029151,
+            "lng": -73.91088046970849
+          },
+          "southwest": {
+            "lat": 40.72537611970851,
+            "lng": -73.9135784302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "\u8fea\u62dc\u4e4b\u591c",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105345264282270980600\">jazz guo</a>"
+          ],
+          "photo_reference": "AU_ZVEEFJSXBlxqmlJY2iLPAnZAnvIIZKACkq_reFkimXgxxdF4yF32ZQm2T3st_TYzx4Dt7ZQm5iTEKKBmtlaPkZqpswGU5OxqfLv1gkCn4rotZlnhg4VQEwgtDNCKJ_cj--Dc2fABi-NSfOL_3YJKohZPAAIuEIZqLOCOxZlrcZ1yVRKDWNcR0wjzcg_awhWV5AOctFDBrtdgDlDgyy2XUs5ky-DttlsoJN356HDblh7JTRDt5n7LsY1eGUq2oegiw2VzQ0AGK7PkoQrextNPjN4_OjQswQc4qEG0n_5NPO8goHu5HMDNrUkpUW1x8mGHNwWq8QhoQifT1F9j4FCqqeK_p-Dn2qxzxPQ6vTHnJifnEDQkynbkUEyJIFaFm_gumwhzd3SoCZRYNZR3iFIIl2hGEeeHZb57lIW0lCP3eSKoGoY_6oriB0YWnlqO1N5YElJSutKYJ6cHXNKEl-L4WfuYbG1LWlnUTTHECTwqkB84pJQXAi9mFW8D5tuILKd0CiE0Ae9dTG7bMY4HaONz0oKifn6Ob1dEZFWdzJu7Yc9BB_OdDMFgeMSF3tTUHwVQnD5dQdbFfQACcCnRNVlTxYlRnq8xO--d5h3h0NKLW4u8GsaueCu3_N7oP-u8CpwS3_tu2ww",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJY30nI8BewokRI63lNCzKITg",
+      "plus_code": {
+        "compound_code": "P3GQ+M3 Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GQ+M3"
+      },
+      "rating": 4.3,
+      "reference": "ChIJY30nI8BewokRI63lNCzKITg",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 22,
+      "vicinity": "55-30 58th Street, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72640850000001,
+          "lng": -73.9234527
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72788158029151,
+            "lng": -73.9222355697085
+          },
+          "southwest": {
+            "lat": 40.72518361970851,
+            "lng": -73.92493353029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "fairyfina",
+      "place_id": "ChIJQ71QpPlfwokR_uUk98wAJHs",
+      "plus_code": {
+        "compound_code": "P3GG+HJ Maspeth, Queens, NY, USA",
+        "global_code": "87G8P3GG+HJ"
+      },
+      "reference": "ChIJQ71QpPlfwokR_uUk98wAJHs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "0-00 57th Avenue, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.732029,
+          "lng": -73.921318
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73341033029151,
+            "lng": -73.92012481970849
+          },
+          "southwest": {
+            "lat": 40.73071236970851,
+            "lng": -73.92282278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "3br 3br Home in Sunnyside NYC 7 min Subway\\n\\n",
+      "place_id": "ChIJnRnJ0sVewokRptYx7EY8RCU",
+      "plus_code": {
+        "compound_code": "P3JH+RF New York, NY, USA",
+        "global_code": "87G8P3JH+RF"
+      },
+      "reference": "ChIJnRnJ0sVewokRptYx7EY8RCU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7320366,
+          "lng": -73.9213257
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7334169302915,
+            "lng": -73.9201276197085
+          },
+          "southwest": {
+            "lat": 40.73071896970851,
+            "lng": -73.92282558029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "3br 3br Home in Sunnyside NYC 7 min Subway",
+      "place_id": "ChIJvULI0sVewokR1TMsJs48HRQ",
+      "plus_code": {
+        "compound_code": "P3JH+RF New York, NY, USA",
+        "global_code": "87G8P3JH+RF"
+      },
+      "reference": "ChIJvULI0sVewokR1TMsJs48HRQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72974010000001,
+          "lng": -73.9114914
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73104728029151,
+            "lng": -73.91016301970849
+          },
+          "southwest": {
+            "lat": 40.72834931970851,
+            "lng": -73.9128609802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "We\u2019ve thought of almost everything to help protect you !",
+      "place_id": "ChIJIR6RG-pewokRkget0mPDuOI",
+      "plus_code": {
+        "compound_code": "P3HQ+VC New York, NY, USA",
+        "global_code": "87G8P3HQ+VC"
+      },
+      "reference": "ChIJIR6RG-pewokRkget0mPDuOI",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7174351,
+          "lng": -73.9226214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7188200302915,
+            "lng": -73.9211573697085
+          },
+          "southwest": {
+            "lat": 40.7161220697085,
+            "lng": -73.9238553302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Newtown Creek East Branch",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115388115842785255968\">Deirdre Nolan</a>"
+          ],
+          "photo_reference": "AU_ZVEGoYojNhJw2SE9UmqUmCC_cUQzK_t1Oh9XfAisSJA-YsdZ5MB2CzY9-MEMJvY0rf1RrxDzlWO8E5mjB1lSVe3flllS6OluMOicAzZSq-09eCWVhKePy3rzLDN_iC3v3PbhqRoFC4IHIF_HZTHUQte3jKfVjAqxJLl9wecc0FaxzqCoHPd5FD2IfmlTkV6JQrMiXiITIdvbwgqAP2vYGT1loD6ZUg55S3EnXVNtZ1Ym71dlFoCNV5UH0AQ5B_b34V-S0Er9bBOPddOCpTpR-aM-i7Ed3rFk0TRNrlqnIA5QiKUz4ViST1Jt5nraIRsc1c5FAZ5PFA4ZTqW1rvmnELvY8bUy3i5KMbdsKHKbFLcP_52DuoGNm6MrnXjSlv5nJQ5boejEijGm3Cs_ixmbfgONS3iMOBBAXp1HxghT70R0KzGB84-fexBxbX79M3L1CBAC6ayqRFmFivYI3uKEi9GrGRbPbgG0TVF1Z6wG5M0oWbWShiKRhWveQP9OsRMJ-NNTRo6cjSjL9D7O30cXEJn1F9wSKNUUWOs7vNCTTP1Ya2hUEjnDWjD4Hlbs7bxEIJNoTTma6l5Zp8auMK2FUX6D7zaa4BVCGEA_7Q8NxraNwVpUwEYqNiDxGt_w_DEt0u9yk8w",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ6Wt2zpRfwokRDLBc8pvLupk",
+      "plus_code": {
+        "compound_code": "P38G+XX Maspeth, Queens, NY, USA",
+        "global_code": "87G8P38G+XX"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ6Wt2zpRfwokRDLBc8pvLupk",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "58-38 47th Street, Maspeth"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.728222,
+          "lng": -73.9286438
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7296088302915,
+            "lng": -73.9273487197085
+          },
+          "southwest": {
+            "lat": 40.7269108697085,
+            "lng": -73.93004668029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kosciuszko Bridge",
+      "photos": [
+        {
+          "height": 2250,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105158372928402375212\">Jesus GJ Chuza</a>"
+          ],
+          "photo_reference": "AU_ZVEEMfUjTgKnZvSboABjrVvdCpW_0LH-duGc9riaOLjFw6p2GG-LPbOPsg4BBqqLlKJWWcYr74M0NK9xn4lUUbfG5rXxWJPzrMwlybIji57p870RgzhNOxv3fyBhtVxWs5E4tvCsbj938hNBRBUd1TTgtTMqDuY3YWlsq9qaEcc5eWdpdg4bPGwi7hZhyrqVk44C14FGuOm9EjNGQZSwdKj5DJBbSGxrcMiABiMhQzLL7CQpY105KkU2KeD73Wl29eV-_PZIX_7wUWXLObrw11AOSeaQ-KxympY1S-jdHq4TB3GcGzg4L7Jp10UUJ9yY5UDEJHVx2U4-B5Ojn8SJ25Q0nCF9YvVHYc0lgpSW72RQhbM9E8rHrYUj-zH6SeElibj2Ubp29Mk5gCvR6vVc6hTrMl9n0SemwoOP7K_I2PesjiydZK5djAN_HiHP-oC2YSNmwjH0jZZ0o-PB34Og3okqg_hhRPhq80FW1G-_IpqWqkh4D75PfAP3YhblArb_5Mps71XCNH1rVBqZY-SRh5l0GR0zKpUnBDprLgnFkiZNAHX-3YSyqduJsm2XpqUYtpGwTW-kmYGFsAI0ot7zkGMhHLtAkiB5nfJzWazHtHCAcCoK7oEZm-Bl5X2lIVaG6p9Ut636h",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJQahc5SVZwokRd-PrOxSFYxo",
+      "plus_code": {
+        "compound_code": "P3HC+7G Brooklyn, NY, USA",
+        "global_code": "87G8P3HC+7G"
+      },
+      "rating": 4.6,
+      "reference": "ChIJQahc5SVZwokRd-PrOxSFYxo",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 435,
+      "vicinity": "Brooklyn-Queens Expressway, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72234429999999,
+          "lng": -73.92981309999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72370338029149,
+            "lng": -73.92842476970849
+          },
+          "southwest": {
+            "lat": 40.72100541970849,
+            "lng": -73.9311227302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Twin Tanks",
+      "place_id": "ChIJaWi3SABfwokRYS0dQHJ9nfg",
+      "plus_code": {
+        "compound_code": "P3CC+W3 Brooklyn, NY, USA",
+        "global_code": "87G8P3CC+W3"
+      },
+      "reference": "ChIJaWi3SABfwokRYS0dQHJ9nfg",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "East Williamsburg, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73166359999999,
+          "lng": -73.92082649999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7329196802915,
+            "lng": -73.91950836970848
+          },
+          "southwest": {
+            "lat": 40.7302217197085,
+            "lng": -73.9222063302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-361-8547",
+      "name": "New York Whitehall Transportation",
+      "place_id": "ChIJWwhAQz1ZwokRKmN9b5JKPio",
+      "plus_code": {
+        "compound_code": "P3JH+MM Flushing, Queens, NY, USA",
+        "global_code": "87G8P3JH+MM"
+      },
+      "rating": 3,
+      "reference": "ChIJWwhAQz1ZwokRKmN9b5JKPio",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "46-25 54th Avenue, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7288555,
+          "lng": -73.919326
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7301796802915,
+            "lng": -73.9179863697085
+          },
+          "southwest": {
+            "lat": 40.7274817197085,
+            "lng": -73.92068433029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "48 St/55 Av",
+      "place_id": "ChIJqxvv2MZewokRVMBMctZkGqQ",
+      "plus_code": {
+        "compound_code": "P3HJ+G7 New York, NY, USA",
+        "global_code": "87G8P3HJ+G7"
+      },
+      "reference": "ChIJqxvv2MZewokRVMBMctZkGqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.726366,
+          "lng": -73.912206
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7277154802915,
+            "lng": -73.91087021970849
+          },
+          "southwest": {
+            "lat": 40.7250175197085,
+            "lng": -73.91356818029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "58 St/55 Dr",
+      "place_id": "ChIJvcijoepewokRmWHgspLET14",
+      "plus_code": {
+        "compound_code": "P3GQ+G4 New York, NY, USA",
+        "global_code": "87G8P3GQ+G4"
+      },
+      "reference": "ChIJvcijoepewokRmWHgspLET14",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.728676,
+          "lng": -73.919235
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7299855802915,
+            "lng": -73.91790136970849
+          },
+          "southwest": {
+            "lat": 40.72728761970851,
+            "lng": -73.92059933029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "55 Av/48 St",
+      "place_id": "ChIJm4FbJ8dewokRuwJuD1CGCe4",
+      "plus_code": {
+        "compound_code": "P3HJ+F8 New York, NY, USA",
+        "global_code": "87G8P3HJ+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJm4FbJ8dewokRuwJuD1CGCe4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72914099999999,
+          "lng": -73.919304
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73050088029149,
+            "lng": -73.9180060197085
+          },
+          "southwest": {
+            "lat": 40.72780291970849,
+            "lng": -73.9207039802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "48 St/55 Av",
+      "place_id": "ChIJh7l12cZewokRgBG8cU8zakQ",
+      "plus_code": {
+        "compound_code": "P3HJ+M7 New York, NY, USA",
+        "global_code": "87G8P3HJ+M7"
+      },
+      "rating": 5,
+      "reference": "ChIJh7l12cZewokRgBG8cU8zakQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.726254,
+          "lng": -73.912262
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72760048029151,
+            "lng": -73.91088546970849
+          },
+          "southwest": {
+            "lat": 40.72490251970851,
+            "lng": -73.9135834302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "58 St/55 Dr",
+      "place_id": "ChIJ_zXDoOpewokRWPrYpmSQFcc",
+      "plus_code": {
+        "compound_code": "P3GQ+G3 New York, NY, USA",
+        "global_code": "87G8P3GQ+G3"
+      },
+      "reference": "ChIJ_zXDoOpewokRWPrYpmSQFcc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7234702,
+          "lng": -73.91215129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7248475802915,
+            "lng": -73.91083661970849
+          },
+          "southwest": {
+            "lat": 40.7221496197085,
+            "lng": -73.9135345802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Maurice Ave/Maspeth Av",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111964327068626268949\">Daniel Petit-Frere</a>"
+          ],
+          "photo_reference": "AU_ZVEGiu8nkqRvZv5PkDcf5kHMa0SDX1ZzKv7NQyQ1F3jVzDAFBqkrk8ouhD6LmFbsaHMCj5fjWxcxPoGIDeYR-6Xeg8d7IOolQxIvTnG1m1zIqHwikSQElccIZNFgqYvVt2nkBv7QNPgFeOIG_i4CqfphX5T29slw0uGWEIuv0JbbZV2Wm6tPM6Jo5U-3rKjjY1D_F6AYZCzY7Lmhjd0hY4ej4IqfvF7Pnbv3161cbNnAgu9AteGpeWCIcm2kkNOJcUVIPc_xg4Ul6S6f6F7H7bFUlj1tqWcGV_hekQtsEbbk_hKJCjFqDt0aZjp44nozoHT3TkK7P9K-RvAEBsjNV5CQ94BKt1NXI2iT3G6sS0k0Kn8Zb9eZZWG-PIIPVgf1R2kmpd0DmhGvQ75KSWDulXko9EbwN5YdgzVz8jVkMtnb7tcrtSe7xN9MJ2vsghi-FrwZugIbdS_6Xq1x63MD2XxsMawK-apbfCR4gqTaadeDPFuR6HzeiKju6jnebLRPbxnHPPtfXM0LRRPULJBrr_HO6YyAD9W9Kp7_wzDW4pcq8GBxCfWmG96916HasC8yWmXbvz1ogv59fOi_2izhU6kjQAfbTIlBUSjRFuWYvxs2-leNmvHuSFRmcJ1S0XrznoT7_6g",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJkyEuY5VewokRQmoPw5uCghM",
+      "plus_code": {
+        "compound_code": "P3FQ+94 New York, NY, USA",
+        "global_code": "87G8P3FQ+94"
+      },
+      "rating": 4.7,
+      "reference": "ChIJkyEuY5VewokRQmoPw5uCghM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.726662,
+          "lng": -73.912033
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72801288029149,
+            "lng": -73.9107489697085
+          },
+          "southwest": {
+            "lat": 40.7253149197085,
+            "lng": -73.9134469302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "58 St/55 Dr",
+      "place_id": "ChIJsTUBoupewokRkrWyjunIebo",
+      "plus_code": {
+        "compound_code": "P3GQ+M5 New York, NY, USA",
+        "global_code": "87G8P3GQ+M5"
+      },
+      "reference": "ChIJsTUBoupewokRkrWyjunIebo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72130999999999,
+          "lng": -73.91288800000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72267788029149,
+            "lng": -73.9114958697085
+          },
+          "southwest": {
+            "lat": 40.71997991970849,
+            "lng": -73.91419383029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rust St/57 Dr",
+      "place_id": "ChIJn2zlG75ewokRJhV9JNU90CY",
+      "plus_code": {
+        "compound_code": "P3CP+GR New York, NY, USA",
+        "global_code": "87G8P3CP+GR"
+      },
+      "reference": "ChIJn2zlG75ewokRJhV9JNU90CY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.72901179999999,
+          "lng": -73.9120315
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7303629802915,
+            "lng": -73.91072581970849
+          },
+          "southwest": {
+            "lat": 40.7276650197085,
+            "lng": -73.91342378029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "58 St/Borden Av",
+      "place_id": "ChIJc9a9DOpewokRufG4Ap9kNvc",
+      "plus_code": {
+        "compound_code": "P3HQ+J5 New York, NY, USA",
+        "global_code": "87G8P3HQ+J5"
+      },
+      "reference": "ChIJc9a9DOpewokRufG4Ap9kNvc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71854949999999,
+          "lng": -73.915207
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7199280302915,
+            "lng": -73.91387236970849
+          },
+          "southwest": {
+            "lat": 40.7172300697085,
+            "lng": -73.9165703302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/54 St",
+      "place_id": "ChIJFzeDq71ewokRRW3UbEPX3oA",
+      "plus_code": {
+        "compound_code": "P39M+CW New York, NY, USA",
+        "global_code": "87G8P39M+CW"
+      },
+      "rating": 5,
+      "reference": "ChIJFzeDq71ewokRRW3UbEPX3oA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.731514,
+          "lng": -73.919373
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73287998029149,
+            "lng": -73.91800331970849
+          },
+          "southwest": {
+            "lat": 40.73018201970849,
+            "lng": -73.9207012802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Queens Midtown Expy/48 St",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112622165581387252958\">Seth Snyder</a>"
+          ],
+          "photo_reference": "AU_ZVEGGHTrObdmH63KZOTpX2HErnOTJVu-fy60gBCzx5-jZGM7EqlG2ZrfH7lW51paqFwUvN9TrW_Iw3laxdBI77diFkCiNic0ADbhuurAa-15iw3W57-dXhu2JiMUsjPwohS0ztT_e0qAn5h7QyK4Xc472TVZItuu8rLAz7TeCnanaqPS58m3beU3jdhl9qxAG-2zWVEK8uwPStEKS8G81waz_397L7i2bAKpGolc-TeXBG7Ebq5hSVtHv12wZYuAObBxDUvnKQVpkN4lAuJOiGVApWrwRShmb4OIm4v3I-0joVImAGFPlfSJxwnKpzyVQ7KFH842ba59u6CpdK9eUGbVLbFoCXmK6FDBcs8cCBAoA4BAhdgeCXuaU12SrhfAw9NC5byv2kic_mL6IDJ6tc0AMwBFIVsKnSA64hYB8vFvlWOT3cqZMBnFtq0tqwFVtuU9UWIxUB5qx-Gf05-rlIkXWTpq1auQsdQzoTS3RxsDfNeA9fiXLfpYCT_rhtlsxftyC2Dx6_N2Gaso_PhyFFECt18oZwg0Qhky4ifUssGg0J22wY_qVLCsWL12ceHby8SQm6XTrG9OpdeEn9cqgLNlwKtTwjMHjUbX5JnCk40nS3t_1hWJ4aSB6Ox70UdH1o8-VGQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJv3UMHMRewokRRqj1J1FB2bg",
+      "plus_code": {
+        "compound_code": "P3JJ+J7 New York, NY, USA",
+        "global_code": "87G8P3JJ+J7"
+      },
+      "rating": 5,
+      "reference": "ChIJv3UMHMRewokRRqj1J1FB2bg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.718616,
+          "lng": -73.915115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7199583802915,
+            "lng": -73.9137629197085
+          },
+          "southwest": {
+            "lat": 40.71726041970851,
+            "lng": -73.91646088029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/54 St",
+      "place_id": "ChIJ3zQVrL1ewokRRmKgToPB3rI",
+      "plus_code": {
+        "compound_code": "P39M+CX New York, NY, USA",
+        "global_code": "87G8P39M+CX"
+      },
+      "rating": 2,
+      "reference": "ChIJ3zQVrL1ewokRRmKgToPB3rI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.717684,
+          "lng": -73.918339
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71900848029149,
+            "lng": -73.9169773197085
+          },
+          "southwest": {
+            "lat": 40.71631051970849,
+            "lng": -73.9196752802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/Page Pl",
+      "place_id": "ChIJl8QnnrxewokRBZlCLTyv72E",
+      "plus_code": {
+        "compound_code": "P39J+3M New York, NY, USA",
+        "global_code": "87G8P39J+3M"
+      },
+      "reference": "ChIJl8QnnrxewokRBZlCLTyv72E",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.718452,
+          "lng": -73.915283
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71983458029149,
+            "lng": -73.91395031970849
+          },
+          "southwest": {
+            "lat": 40.7171366197085,
+            "lng": -73.91664828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/54 St",
+      "place_id": "ChIJMa0dq71ewokRXzRjdld61QA",
+      "plus_code": {
+        "compound_code": "P39M+9V New York, NY, USA",
+        "global_code": "87G8P39M+9V"
+      },
+      "rating": 1,
+      "reference": "ChIJMa0dq71ewokRXzRjdld61QA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71767,
+          "lng": -73.91851799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7190249302915,
+            "lng": -73.9171718697085
+          },
+          "southwest": {
+            "lat": 40.7163269697085,
+            "lng": -73.9198698302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/Page Pl",
+      "place_id": "ChIJcbUHYbtewokRADIOPRCi10s",
+      "plus_code": {
+        "compound_code": "P39J+3H New York, NY, USA",
+        "global_code": "87G8P39J+3H"
+      },
+      "reference": "ChIJcbUHYbtewokRADIOPRCi10s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71767800000001,
+          "lng": -73.918144
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.71905828029151,
+            "lng": -73.91680996970848
+          },
+          "southwest": {
+            "lat": 40.71636031970851,
+            "lng": -73.9195079302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/Page Pl",
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103686320667806432867\">Angel Vivianco</a>"
+          ],
+          "photo_reference": "AU_ZVEFxyaJJ-VNYp27AoqC0wZ2P-RkNLY7ltjwslSYj9kIeEBBZ3zvOxEIKOo0XqWjXNAJ92CZVVqftKpi_8No3KaOUqIiT2oSeUduZu_7PneZqz-5cxQtHLHu_fFC2qbDlx-UKTGfF4qCvZDwX_Zu9X34EUEvVANOo2wdX2PasSCBjmW-1NpLgqdOIlH5DxU1Q1aoZAnEgp3kP5E_fNu64ZM7ogu0QbVz1ORsPX8uJCzOi-43u40L58RJgQqF7gmhCyeSN8WDJOITxpOqFksy9FTX9T1HZEAqrSi4qsc4ZuFDMbmCrIM4VPonVdzSUU8UFAYP90S9YNmEen7sa91lrLaNwd-mIPsXC2b1vpb87ixV0LWxQ-vIBmT1uOKrPQ33hbikU0Dc7RgWqzD5CIcIACsEEjZRxWZ444bXZRbE6wBSsSxH3JMIThqLBZ5JeBdhrBIUjpZ0ChTfQc9alXmP96a9J7nfpOfObLqCBSKkbr8gXWxiQU_9aC6ns7ZchjYiNpazKbrJ1wyRrXeYxwBZwlRPwSNGYMN1W9Qoqfubw83FqwLLj4qJ0QUG_HLJpoGvENjoddwU4jTVuVGjuNiToec78fMHaYg7pPZbpFHL4go3uYqc7SW5ycQ6wlenzByvEZSqpXkYX",
+          "width": 3060
+        }
+      ],
+      "place_id": "ChIJvSjxnrxewokR6J5qH_5CzZ8",
+      "plus_code": {
+        "compound_code": "P39J+3P New York, NY, USA",
+        "global_code": "87G8P39J+3P"
+      },
+      "reference": "ChIJvSjxnrxewokR6J5qH_5CzZ8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.720161,
+          "lng": -73.911743
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72149788029149,
+            "lng": -73.91041761970848
+          },
+          "southwest": {
+            "lat": 40.7187999197085,
+            "lng": -73.9131155802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rust St/58 Rd",
+      "place_id": "ChIJY5QHCJZewokRVvFSArYr7mY",
+      "plus_code": {
+        "compound_code": "P3CQ+38 New York, NY, USA",
+        "global_code": "87G8P3CQ+38"
+      },
+      "reference": "ChIJY5QHCJZewokRVvFSArYr7mY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.729664,
+          "lng": -73.91179699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73101608029151,
+            "lng": -73.9104611697085
+          },
+          "southwest": {
+            "lat": 40.72831811970851,
+            "lng": -73.9131591302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "58 St/Borden Ave",
+      "place_id": "ChIJg6MmBepewokRZ2p0doDzduw",
+      "plus_code": {
+        "compound_code": "P3HQ+V7 New York, NY, USA",
+        "global_code": "87G8P3HQ+V7"
+      },
+      "reference": "ChIJg6MmBepewokRZ2p0doDzduw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7297754,
+          "lng": -73.9119256
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7311181802915,
+            "lng": -73.9106574197085
+          },
+          "southwest": {
+            "lat": 40.7284202197085,
+            "lng": -73.9133553802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "58 St/Borden Av",
+      "photos": [
+        {
+          "height": 2304,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112905539774353677325\">Diego Landeta</a>"
+          ],
+          "photo_reference": "AU_ZVEF8bAs2dW-KkFzGgoFqdDcN3j72Tmjwc3hDGj5Wu4UaAUidVFQxCq5rz73zZggoAfK-XsLyjivn1VZqM3Vv4kZt4H252xjtSeeq8vk2nFdhGiQ5AIK5CMV1XDzSq1s9PiQ6LGe0g_lwT5pyzvmvKvcb2n_SNsc8dfP_mKpO3CFZ-N2Hbp14AAiE9SYnbtiBLyK3tqxO0o7A8AyPbtC8nuOuLqaPnu1-WtdXyr1_VQo3VQHNyJTKERiNUlxeZwF2WzHT5S_U-v0WS-0VYXQFNBeIiJjFbAujZzMkBwQFhTHI71YB1OSwZPjEI9iLZEnHauBnQAz8ViG6_eELwBSd7jL0kB7M-Kz8ywlD1KtMc0bDMTLx8UZoPd7EA-0KFvmE2b19yhwdctVebp0EGC0M8Px9KmD1QdiYBd6KAqyYeP36lRVw0mueUwzdDSij_J5-BYG187i1KnVxryuWa1BT3juXxc0sGnKtTWT4-cEE72XROwFqKri1Bv0cChQD6q-Ia29wGqRpLiJnXwx0EQ8SMSbykttNCiQq4unhvl497Y0IZrs7BKLfoS_tJ2YlNU0S9rogSADZVJAInFbJbc0btNHP3-yK1hgHiOF1q9t8zhbuC949x8YFLHI1u5jAmYgmGg17Lg",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJFa91BupewokRs8LsUTANSJs",
+      "plus_code": {
+        "compound_code": "P3HQ+W6 New York, NY, USA",
+        "global_code": "87G8P3HQ+W6"
+      },
+      "rating": 1,
+      "reference": "ChIJFa91BupewokRs8LsUTANSJs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7197,
+          "lng": -73.91122399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7210509802915,
+            "lng": -73.9098760697085
+          },
+          "southwest": {
+            "lat": 40.7183530197085,
+            "lng": -73.91257403029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/Rust St",
+      "place_id": "ChIJ67pMDJZewokRer7jRHEUYAo",
+      "plus_code": {
+        "compound_code": "P39Q+VG New York, NY, USA",
+        "global_code": "87G8P39Q+VG"
+      },
+      "rating": 5,
+      "reference": "ChIJ67pMDJZewokRer7jRHEUYAo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.71969250000001,
+          "lng": -73.911068
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72103268029149,
+            "lng": -73.90971426970849
+          },
+          "southwest": {
+            "lat": 40.71833471970849,
+            "lng": -73.9124122302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/Rust St",
+      "place_id": "ChIJCa4gDZZewokRgY5yOLL3L_k",
+      "plus_code": {
+        "compound_code": "P39Q+VH New York, NY, USA",
+        "global_code": "87G8P39Q+VH"
+      },
+      "reference": "ChIJCa4gDZZewokRgY5yOLL3L_k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73274600000001,
+          "lng": -73.91883899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7340949802915,
+            "lng": -73.9174900197085
+          },
+          "southwest": {
+            "lat": 40.7313970197085,
+            "lng": -73.9201879802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "48 St/47 St",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105790452300122794195\">G A (TheFamous)</a>"
+          ],
+          "photo_reference": "AU_ZVEGrOhuv957EoObQDrsJNwP47h1XYev9vNkLDgXsNOkKWbUKgLdy3AfkP4Ks3fkykY1Zqj3EGOzVcO8wkl3-1IRx7Aw96jJko50qytexb-oGUc-V3TMNVnvLJctuwTZKeadZ-R-5y_jFwXWH-F7RRIoyyjdQ9RgT6JUM34g4USa4_cYeIgbfde9eHhtBXRVrk_KQJOdarvdrKUU0YY8goR5cBEUlMTUJJXXxGg9bKHebwoyJeukp2pUMveCdK9t0Pf1ed0H65uFfuny4YKFZAUDUg0h_R1w0rb353T3lcod6kO05cIuMJ2YEsESP133bWkXF_GFHJDvrqDC6LQxH32iv3CENQC8M9Ny9nyxVbj_8FWHgfnj6oKUJV05vTe2GVNr3TdMD351TT_MTY15zUOXA61Th1zhtDanrfTf68bG744hjoHyrc-2_9Pp2RWLtQ446eXhIAMygw_GxNlCrBPBQnj1tynBciiW3MRyMgaihuw7rK2FT3prO7GhigUW7ydS4yGWnyLnlOofQyLLb5Sxx7L77W2BaOb2Avu5hX0kdXumgLOpzKzSUlOxVJNV_wcRFuuJLWsr274aRcKMohqtPmgfoBxhfcqJp2nZAU3BXqop3GorWPwcjbb_ctGavxNh4DA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJi79EccRewokRe2kzXusXXvs",
+      "plus_code": {
+        "compound_code": "P3MJ+3F New York, NY, USA",
+        "global_code": "87G8P3MJ+3F"
+      },
+      "rating": 2.3,
+      "reference": "ChIJi79EccRewokRe2kzXusXXvs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.719662,
+          "lng": -73.910889
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7210579302915,
+            "lng": -73.90956516970849
+          },
+          "southwest": {
+            "lat": 40.7183599697085,
+            "lng": -73.91226313029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/Rust St",
+      "place_id": "ChIJNb3hcpZewokR4RJ7CyR1CUA",
+      "plus_code": {
+        "compound_code": "P39Q+VJ New York, NY, USA",
+        "global_code": "87G8P39Q+VJ"
+      },
+      "rating": 5,
+      "reference": "ChIJNb3hcpZewokR4RJ7CyR1CUA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.732265,
+          "lng": -73.924667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7336043802915,
+            "lng": -73.9233214197085
+          },
+          "southwest": {
+            "lat": 40.7309064197085,
+            "lng": -73.9260193802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "54 Ave/43 St",
+      "photos": [
+        {
+          "height": 8160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113902592668499555877\">wmsbrg_nomad</a>"
+          ],
+          "photo_reference": "AU_ZVEGYej2ByOD3zmKKIAMtluRHcmcp3cOailet9l6xcAjNOJXRPpwjONQ36GZ2a3DnFR07kRsMxhb06_5jdIg3fMsKaCu0UqTI3KOuQx49a739Xn5rkraj7RWGuCqArpNDu3irVrxabY5msXc-sKDrXXdU17g5BYxbaJBYOy7PKsJS-joEU8YTV8SdjD6mBHfdNXB8WMoeHMuzlavbvTAws9kD-2CKbsbw5S0SPEphiBkfnRNlUJSWHA9IQT9DjdbZdHSGxJeCzOrcPQAxrLI5XBNKh7HuVjvIeqkulv96nEyGQE2YcyEOwZJPrLBgC1VWvhGNVLuZMabO_7AamYIflw5b7myZ-42wf4K0mAW8UnhkEhAeNthX8DsJ196aeUzUJ3mDVz2Yx3f98fmvnbomBhpckJuxow6yv8Z8ycrW6O1PhAIbsgE6Dru33mqG533BLY5deYbQE6_gRj33J095fFr1gqKpWNB_lwFMGopkcWegIb7VxQ5FiQeMOflXJDxnpkUQEoKKBANcewZlIMNmKtLnjxQHgZzddg3G6xDdrvnzsaMKVBAyD17cS4Gk81TNeS6RbFnMmj-monxDmPe3YIlXHQL938pwvK2I7c65YwX59imu1A9vem0kfiiPQRnyzYS1Fi9_i752K6GjwB9blA3AXfM",
+          "width": 6144
+        }
+      ],
+      "place_id": "ChIJhR_mU89ewokRaAe9EgrdED0",
+      "plus_code": {
+        "compound_code": "P3JG+W4 New York, NY, USA",
+        "global_code": "87G8P3JG+W4"
+      },
+      "rating": 5,
+      "reference": "ChIJhR_mU89ewokRaAe9EgrdED0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.720409,
+          "lng": -73.908615
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.72176343029149,
+            "lng": -73.9072685197085
+          },
+          "southwest": {
+            "lat": 40.71906546970849,
+            "lng": -73.9099664802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grand Av/59 St",
+      "place_id": "ChIJ_ajWOpRewokRdw8cyKp7sNc",
+      "plus_code": {
+        "compound_code": "P3CR+5H New York, NY, USA",
+        "global_code": "87G8P3CR+5H"
+      },
+      "rating": 2,
+      "reference": "ChIJ_ajWOpRewokRdw8cyKp7sNc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

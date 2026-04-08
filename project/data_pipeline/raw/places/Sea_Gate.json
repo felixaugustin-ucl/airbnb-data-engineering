@@ -1,0 +1,3403 @@
+{
+  "neighbourhood": "Sea Gate",
+  "centroid": {
+    "lat": 40.57696794871795,
+    "lon": -74.00772907692307
+  },
+  "fetched_at": "2026-04-06T14:46:58.756009+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.577194,
+            "lng": -73.998521
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5786524302915,
+              "lng": -73.99719126970851
+            },
+            "southwest": {
+              "lat": 40.5759544697085,
+              "lng": -73.99988923029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 917-217-9797",
+        "name": "\u201cLos Ceviches Del Decano\u201d",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112303014030067373404\">Antonio</a>"
+            ],
+            "photo_reference": "AU_ZVEEdoOVH9uf8ip8EzHaa2h2y-fZmzYR_yHxh2B7qMupqkOxsparbxb8XuxvIQP7ngw72ubZaIMa68EYe6X7yA56UxaJOX9QOEf5QKm6zsopvgRkwQ2PNgzRzaAh7Fp6A2Jy83wdCDImH-uFpMfDHRod5E6EQV-cAwVa1vs1eMn-pEJ2OCy4wR9pc9flix_AF6uEaJhwZtYXl0LN3eOZgwBPa67HIEXIArX8vG3S7Zf0po7YORMM1hrEv0JcVyDED1NjU3DtZ-T6R7BHNsdfQV7hR1Nh3NkEhUnuT8Eh0o1MNHlpXF9xfMUYDaP2_UVTUYxu1O1lpXZ6LXy7uKs2Zf_DWDPGK8jIbHGZUeXItWUF8n_jNHrehlqxuSUBPMFbGtsX20e4ZsQSZ_QUvTSeruqI8C9a2iMAeCoPzSoq6uPF8-HbHRAWEegpwJdCgQ2BJFYSI9Vi1xf-PO4fbPb2njpvvIYzxInlrYXaAP7do8NyOTma-8oTsb7aBevm65Xph-jOCFS4qhZ2BHQ5qac4OirVrD9JuEOzlBk5270DD_dwQkxHw6_jjaecExnPAxyW2NOaxdYEQ2kIifZlW-Mh-u12qykrHS_42c5obYJHuO7dIlDW8K5yAyjHV0_iaBLrBwY9ygQxDBm1kT3926PX7tk0t1m4",
+            "width": 800
+          }
+        ],
+        "place_id": "ChIJlb4TDgBFwokRZAjxc3yn5Ks",
+        "plus_code": {
+          "compound_code": "H2G2+VH Brooklyn, NY, USA",
+          "global_code": "87G8H2G2+VH"
+        },
+        "rating": 5,
+        "reference": "ChIJlb4TDgBFwokRZAjxc3yn5Ks",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "3126 Neptune Avenue, Brooklyn"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5773793,
+            "lng": -73.9977719
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5787932802915,
+              "lng": -73.9964099197085
+            },
+            "southwest": {
+              "lat": 40.5760953197085,
+              "lng": -73.9991078802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Ali Baba",
+        "place_id": "ChIJPTDLCcdFwokRsE4vIfbHt9E",
+        "plus_code": {
+          "compound_code": "H2G2+XV Brooklyn, NY, USA",
+          "global_code": "87G8H2G2+XV"
+        },
+        "reference": "ChIJPTDLCcdFwokRsE4vIfbHt9E",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "West 30th Street, Brooklyn"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.575,
+            "lng": -73.99694439999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57647598029149,
+              "lng": -73.9956214197085
+            },
+            "southwest": {
+              "lat": 40.5737780197085,
+              "lng": -73.9983193802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-265-1540",
+        "name": "Oriental Palace Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106395326134041796379\">Artur St</a>"
+            ],
+            "photo_reference": "AU_ZVEFnQ7LTQYMaCM8uXn7oIpLT5xqLtGhNqHLoZZguSeXOlVK7XoDwVM8cO0iT7eMiSZTYNWqOdQDg8kWJl8kn--O6rZV77QB07zSRDdoVQti5MJgTNigTZwUjkkf4Gall7ogUeXzc2gFhulTmpDeG5VeCENWmjZajMnYlKJ5em98OYwEYtFPFKpPLFDSy6Y21v2LCQCXxZDdl2bz6Hoq51PKaaLaJM0em0TZ6FR8c_QdtzP9ZxFetI9MWOuW7gDbut3rC8e6r0HMukVsAVLYT9l6tqr-e5-TuO6WRzxx6PMC42oNNdtFhrNnp-SmEUn9YaD8SGGlgPV079QXOlV6b_b8s-npCjWx2E7mOUvotyL26qIP5z9yps29Vvr3OX_hZUVzNbOj2goGJPmfxd1xSDofWYr9wzq1kXBhkxK4kYSIjwDgCUNNYTTyk_rbtRPQ0yoSqmeFrQBKWEhOjgjZjuPgMaie4KV152JqYFznbVF5yuQ--JAxes5DpAvYfGLoWVcJFVOAYmKGGw-GR21ZSTrmJLKKT9mcYQ-RyfvNmXExql-5Tp1rBzugB6o7UIIuIDCUbWxiK55l1mVSq9sVzwF_GFYsDSDm2jkFDV6c-Fde1u8Y4oeoEBo7AXLdfGBItVTKaXQ",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJobyFZ8ZFwokRWZih62KN73M",
+        "plus_code": {
+          "compound_code": "H2F3+X6 Brooklyn, NY, USA",
+          "global_code": "87G8H2F3+X6"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJobyFZ8ZFwokRWZih62KN73M",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 466,
+        "vicinity": "3018 Mermaid Avenue, Brooklyn"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.575633,
+            "lng": -73.99729789999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57689043029149,
+              "lng": -73.9959190197085
+            },
+            "southwest": {
+              "lat": 40.57419246970849,
+              "lng": -73.9986169802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-872-5772",
+        "name": "Popeyes Louisiana Kitchen",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108948834908330026463\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEGegwzcGcQsW15nhxI6RDC-7Mrr_EBZP98yCamODK3-rIEmXP_MlQ0gWLccM38GZDCf7grUvC344vgFTxtXr8qcN5igR8qy2gFsaWuIywlzKycvilRxayInYgMFC8bztCCFmN3j0rM3a0-6ZE8rT328_kakhzZkNDfN1Zmg5QCwimpu5xWNCkTjZDZcYLZJtOXOe4ww7XW5S020nj8-ovM-DtohJJaRKY-02UWzcItkXuleLAJLTUlOX9VzJ9vYeTNeimDWdsGK9HtRmPYT3ft4bdm7EM7oqrYSkSkLFKtVqePvhoJNLOJR4E37niF-4WRtEaRj208",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJmTj8XFhFwokRPhwXvmsajBE",
+        "plus_code": {
+          "compound_code": "H2G3+73 Brooklyn, NY, USA",
+          "global_code": "87G8H2G3+73"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJmTj8XFhFwokRPhwXvmsajBE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 354,
+        "vicinity": "3019 Mermaid Avenue, Brooklyn"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5757033,
+            "lng": -73.99717179999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5769370802915,
+              "lng": -73.99581461970848
+            },
+            "southwest": {
+              "lat": 40.5742391197085,
+              "lng": -73.9985125802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-372-3198",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100860474516441576822\">Paul Wright</a>"
+            ],
+            "photo_reference": "AU_ZVEFZmhhA6PTr9BnxrihrTtFxmd_frPaezzbiuV-hfG3xxGSQJ5YqduVZm7tFk-k-SEzP4lqAe_pBNWDwRGVbHlYK4mgUnzHuTXvY9P2coWLwIpod8TdePJJyHOIv_WAfxaw-WXT5pFLV4YaOn1BKouuem9gwsoshLezgY_Er9GYv63403nKLPrbuTI9fdKXcZ9Ku1SHs2RYRi2ejO2QVjMMMxcK6Ust0Ay2Z45J5ErN7e0bA0ASs1Wiz9jUxnJuhkF1tfXLxfgKwiEo090fvXtlq9Fy2vyhTG5jAN-ByYT-vkzccAqQzmpeNrmyH8xDXQslQMGB9KZ4Zdr3_DzEL2uLqUgN7uM0w8XgSB7b5MXnm46NeeeOHsBkMakiqauHNQhfo3YcvrHpo4ofZSQyr9JimMhPS1U5tVj6bS7DBbG8WzuEiXeH2ED6p-OI2UrIohdoEueXDA4FUJYKLBXEd-1GWF0JWFqI3w0EN7jc0A653Bk8WSGXczRcZK3j5oRXbhJFxvLLdVBPJlf_6_hUBVCyqDz_2bQSLLD9BRUgS_5JGzsRNCsBVdOnnaRzr6U9dJA8dx00L5pppFQoh1mrl-3mK4-nh8aVkpBhVZC8Ok-WPUbOawEkxVtQdtK2C28Kx6MPURKrY",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ4fBmXMZFwokR0lfECIpTAss",
+        "plus_code": {
+          "compound_code": "H2G3+74 Brooklyn, NY, USA",
+          "global_code": "87G8H2G3+74"
+        },
+        "price_level": 1,
+        "rating": 3.6,
+        "reference": "ChIJ4fBmXMZFwokR0lfECIpTAss",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 241,
+        "vicinity": "3015 Mermaid Avenue, Brooklyn"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5765496,
+            "lng": -74.0069733
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5778678302915,
+              "lng": -74.00561846970851
+            },
+            "southwest": {
+              "lat": 40.5751698697085,
+              "lng": -74.00831643029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cozy Seagate apartment with AC near the beach and transit.",
+        "place_id": "ChIJV6LyDOpFwokRA6ojH_lFGOU",
+        "reference": "ChIJV6LyDOpFwokRA6ojH_lFGOU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57746119999999,
+            "lng": -74.0064926
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57870468029149,
+              "lng": -74.0051238697085
+            },
+            "southwest": {
+              "lat": 40.5760067197085,
+              "lng": -74.0078218302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Sunny Spacious - 2 bedroom, 2nd Floor Apartment",
+        "place_id": "ChIJs-Ee1sFFwokRIQqfe-1E-G4",
+        "plus_code": {
+          "compound_code": "HXGV+XC New York, NY, USA",
+          "global_code": "87G7HXGV+XC"
+        },
+        "reference": "ChIJs-Ee1sFFwokRIQqfe-1E-G4",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5760689,
+            "lng": -74.00860589999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57753368029149,
+              "lng": -74.00727941970848
+            },
+            "southwest": {
+              "lat": 40.5748357197085,
+              "lng": -74.00997738029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Brooklyn 15 bedroom 18 bath oasis",
+        "place_id": "ChIJxTq8JepFwokROQBuE_MsuIU",
+        "plus_code": {
+          "compound_code": "HXGR+CH New York, NY, USA",
+          "global_code": "87G7HXGR+CH"
+        },
+        "reference": "ChIJxTq8JepFwokROQBuE_MsuIU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5760612,
+            "lng": -74.0085983
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5775301802915,
+              "lng": -74.00727261970849
+            },
+            "southwest": {
+              "lat": 40.5748322197085,
+              "lng": -74.0099705802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Brooklyn 15 bedroom 18 bath oasis",
+        "place_id": "ChIJ7bS-JepFwokRqaLENeJ0xhc",
+        "plus_code": {
+          "compound_code": "HXGR+CH New York, NY, USA",
+          "global_code": "87G7HXGR+CH"
+        },
+        "reference": "ChIJ7bS-JepFwokRqaLENeJ0xhc",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5787239,
+            "lng": -74.0040284
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5801614802915,
+              "lng": -74.0026962697085
+            },
+            "southwest": {
+              "lat": 40.5774635197085,
+              "lng": -74.0053942302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cozy Seagate apartment with AC near the beach and transit.",
+        "place_id": "ChIJeUn1XcBFwokRPTF-V22xkSY",
+        "reference": "ChIJeUn1XcBFwokRPTF-V22xkSY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57970809999999,
+            "lng": -74.00298310000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58107118029149,
+              "lng": -74.00148871970849
+            },
+            "southwest": {
+              "lat": 40.5783732197085,
+              "lng": -74.0041866802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Beautiful Spacious - 2 bedroom, Main Floor Apartment, Backyard and Free Parking",
+        "place_id": "ChIJH13wgsBFwokRpTHR7ljcCCk",
+        "plus_code": {
+          "compound_code": "HXHW+VR New York, NY, USA",
+          "global_code": "87G7HXHW+VR"
+        },
+        "reference": "ChIJH13wgsBFwokRpTHR7ljcCCk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5775553,
+            "lng": -74.0013939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5790842802915,
+              "lng": -73.99978901970849
+            },
+            "southwest": {
+              "lat": 40.5763863197085,
+              "lng": -74.00248698029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 917-200-4514",
+        "name": "Sunshine Enterprises Royalty",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1575,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110654558662255657812\">CAROLINE SINCLAIR</a>"
+            ],
+            "photo_reference": "AU_ZVEGMjSiF_G_iYIgs5weVSGv8931a3enT8vK0Ig1chY4bwUOBQtOmXN6iuivIB0DjylkEtPs-NPcsh6iIukfCm7ETKZQBRXpUy2c5H1B2_PyfZ-ssw87lB_0DX-H1NORYHZe6Ft-LAfF1Et8YCH3_bGnAbNAByYNytfh4lAJdVGs2JzRZfAXXAlTvTfYo9qAKoBx-b8389-MinC-NXHRuSscB0u31lhYErMA8cPmkaex52xobpmiqtMfL7ycVhk3xfYYZQ7i_8h0x8DKnLvAK8v3mlekrwuRzKSV-m4te8vh6zgyAlz-bil8qijMqAPyeHxcFMLU_YQG9qFMoTEwi5OZ5sx6YyGAFMq7VYK21dNGQwvecIKoPr3uNb1bx1KHXQVDZ_8az36Sio_h8uxk22cH5YNC0ZZDZw-a_06eVODLufDSm7SnzVHshqR-3YgCjdJAMO4H_uLrd5zwPIsCvMeQlJ1BqmjctMkrFRWgYxRgxLbBUJcGEKwfu9Q4n3mx8hedk1mMx-zr3my4zNLKxk5Ui0sekJya7HcaKgF3nRu83IruwuioHOm0pJePbEkaGWBAZqQ-oG5oRRnrhVgim1ARiEq4h64sdqHlrN7-wgsr3UEPnsH-1fZt1F0B1ec43zlhvMA",
+            "width": 1109
+          }
+        ],
+        "place_id": "ChIJMZDYYUFFwokR-qXVfHr-XgU",
+        "plus_code": {
+          "compound_code": "HXHX+2C Brooklyn, NY, USA",
+          "global_code": "87G7HXHX+2C"
+        },
+        "reference": "ChIJMZDYYUFFwokR-qXVfHr-XgU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2770 West 33rd Street, Brooklyn"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5817871,
+            "lng": -74.001358
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5828036302915,
+              "lng": -73.9999695697085
+            },
+            "southwest": {
+              "lat": 40.5801056697085,
+              "lng": -74.0026675302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Beautiful 4Br. Townhouse near Coney Island Beach and Amusement Park",
+        "place_id": "ChIJoVGoKL9FwokRsp5o9kr-Xfg",
+        "plus_code": {
+          "compound_code": "HXJX+PF New York, NY, USA",
+          "global_code": "87G7HXJX+PF"
+        },
+        "reference": "ChIJoVGoKL9FwokRsp5o9kr-Xfg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5746269,
+            "lng": -73.9962998
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57597123029149,
+              "lng": -73.99499326970849
+            },
+            "southwest": {
+              "lat": 40.57327326970849,
+              "lng": -73.99769123029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Sunny Modern 3-Bedroom Duplex w/ Outdoor Garden 2 Blocks From Coney Island Beach",
+        "place_id": "ChIJ9cE-bcZFwokRz_D2-S8SCPs",
+        "plus_code": {
+          "compound_code": "H2F3+VF New York, NY, USA",
+          "global_code": "87G8H2F3+VF"
+        },
+        "reference": "ChIJ9cE-bcZFwokRz_D2-S8SCPs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57073449999999,
+            "lng": -74.00219729999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57346225000001,
+              "lng": -74.0004076197085
+            },
+            "southwest": {
+              "lat": 40.56982524999999,
+              "lng": -74.0031055802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Reigelman Rocky Pier",
+        "place_id": "ChIJdWN-GQBFwokRNfAqOZfOr6o",
+        "rating": 5,
+        "reference": "ChIJdWN-GQBFwokRNfAqOZfOr6o",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "HXCX+74"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573829,
+            "lng": -74.00623399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5752849302915,
+              "lng": -74.0048223197085
+            },
+            "southwest": {
+              "lat": 40.5725869697085,
+              "lng": -74.0075202802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+        "international_phone_number": "+1 347-595-4319",
+        "name": "NY Bus Rides",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJDfU9dMJFwokRJrcaAYLP7J8",
+        "plus_code": {
+          "compound_code": "HXFV+GG Brooklyn, NY, USA",
+          "global_code": "87G7HXFV+GG"
+        },
+        "reference": "ChIJDfU9dMJFwokRJrcaAYLP7J8",
+        "scope": "GOOGLE",
+        "types": [
+          "bus_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "3848 Atlantic Avenue, Brooklyn"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57360449999999,
+            "lng": -74.002495
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5749477802915,
+              "lng": -74.00119751970848
+            },
+            "southwest": {
+              "lat": 40.5722498197085,
+              "lng": -74.0038954802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/w 37 St",
+        "place_id": "ChIJgYhOx8NFwokRLEcxABqlXFI",
+        "plus_code": {
+          "compound_code": "HXFX+C2 New York, NY, USA",
+          "global_code": "87G7HXFX+C2"
+        },
+        "reference": "ChIJgYhOx8NFwokRLEcxABqlXFI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57713700000001,
+            "lng": -74.00318899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5784958302915,
+              "lng": -74.00178981970848
+            },
+            "southwest": {
+              "lat": 40.5757978697085,
+              "lng": -74.0044877802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 37 St/Neptune Av",
+        "photos": [
+          {
+            "height": 2048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114051508347467032612\">JR WOODWORKS</a>"
+            ],
+            "photo_reference": "AU_ZVEGf0mGK1yytEHrPV778g4gxWsvfe9XFOTab9L7dXDWahN4RcUDl_IEh13g_LqJ6XbnyRmij0GxYmpYDl-onC6spa-dVy9ebyWnb83ZxbAqfewPfoyUvFsToR4zT7QOMLRDD0a5vKxe86mhvciWVVUTN_h-t52LbSWbQUEXJKhCYikWnmCyC0TZGPfJUafCZiG9DqGIsPUQDav89_Hcm38NxJsWj_IBqdtOF4F8Z4ALS0BnOV9zT3eioxmi8d5SfNzkvrmnZxOZXGosNRwES0hlJWq-PvWqMAgLKDFoeh2dXpXX2lUa2-BLc8Rz5NOVjWeFAC7BdtqUG5tRCgzfIbBmQG6o7BIbOhYEW6rpF_bHTayvoVUr8Xv00Kh-mzBqzsTFw7hgwggewNta3WPgNTrdRlYRUjtQRFjropKf1srjZYAl7iy0EgnIOZ_FdLKn5nfIRLzqpKxcWt7axgF00bgup03bbnBJiB-4yxnVWcALhEKb_mlcNZDPh-obrYuKRdLTN_nQVIcsL5_5n3FAGnpep6G7ag026lX5_ieWKQ6zWpygLlTqOBPxPeLTrgdiOv5EAtHQYR0M3LOvZHgAf2j189_64GYUNFXC0jVF6Q7tKWoQj82_Nibc6ZOhnaNgAxxKpYoHH",
+            "width": 1152
+          }
+        ],
+        "place_id": "ChIJDX17AcFFwokR5_NERQGZH30",
+        "plus_code": {
+          "compound_code": "HXGW+VP New York, NY, USA",
+          "global_code": "87G7HXGW+VP"
+        },
+        "rating": 4.6,
+        "reference": "ChIJDX17AcFFwokR5_NERQGZH30",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.576859,
+            "lng": -74.002678
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5782516302915,
+              "lng": -74.00133751970851
+            },
+            "southwest": {
+              "lat": 40.5755536697085,
+              "lng": -74.00403548029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Neptune Av/W 37 St",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107670944065877739688\">Kirill Dolganoff</a>"
+            ],
+            "photo_reference": "AU_ZVEHbvT7BIgJhVi3t6e4SAhsw-v7s0Tv62Hgo75VVtwv25juxVrbaBb_OF-eCeyE7EsKPZx7_k3bnhq-fv20aBg8vBbD26hisUjlO85yMRezYWNUKTAklSuMsH4FQ-vI1hJ18eZZkv6Y1zGK2G9FBMoNVyrMXzpriJlVNHOhVLmQvGZlYlc21hc-bqYMWsgSeBKyAZYytx7WTwA7EV9MTPUpXOPrP6uwiBC4h30Dxu2xfyUxCtf7fnnTK9VJvgakSKOQZSV9ONS1BQk6aWvTNrRMt6oXJFOnjEX0eBzmfNIk6R-2SbVJm2enHbxUTX5WUiutnIJs01KYpLgLcw8PebUEUswq5l7NxSf9D9rw9C4zJciY3DGS_-jB52LvdwLGW5L0rL32cSl9Dz0167A_MbmOhUl-GmkAQR1spNHD0xiLm78q4DHpHptodAJSE4rBbM3zkJl4okgvGvRuZyAgYwvAEnB1Rg15SjsOZ-lqdtGXWnN4gKaZfxsvJ457NyFd5dibeE4ogpXF6jFH04ZXEEtKEo5nGM0YpQuI-pKMtIq6LOas1Hr8uS1C3-ZcF5_fMM-Sn1-uX3VZd4IbfBEU7G6OYhw2jzXvurxzAE8_gQATMcQayRvdt9S-ONjgDJgceHDAmXg",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJhSQEG8FFwokRnK4O2MLr9Fc",
+        "plus_code": {
+          "compound_code": "HXGW+PW New York, NY, USA",
+          "global_code": "87G7HXGW+PW"
+        },
+        "rating": 5,
+        "reference": "ChIJhSQEG8FFwokRnK4O2MLr9Fc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.579235,
+            "lng": -74.003601
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5805806302915,
+              "lng": -74.0022828697085
+            },
+            "southwest": {
+              "lat": 40.5778826697085,
+              "lng": -74.00498083029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 37 St/Canal Av",
+        "place_id": "ChIJq0akYsBFwokR73ttzWNTZfQ",
+        "plus_code": {
+          "compound_code": "HXHW+MH New York, NY, USA",
+          "global_code": "87G7HXHW+MH"
+        },
+        "reference": "ChIJq0akYsBFwokR73ttzWNTZfQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574966,
+            "lng": -74.002808
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5763141302915,
+              "lng": -74.0014672697085
+            },
+            "southwest": {
+              "lat": 40.5736161697085,
+              "lng": -74.0041652302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 37 St/Mermaid Av",
+        "place_id": "ChIJQXPRYsFFwokR1atPAXqzMzA",
+        "plus_code": {
+          "compound_code": "HXFW+XV New York, NY, USA",
+          "global_code": "87G7HXFW+XV"
+        },
+        "reference": "ChIJQXPRYsFFwokR1atPAXqzMzA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.580723,
+            "lng": -74.00387599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5820689302915,
+              "lng": -74.0025575197085
+            },
+            "southwest": {
+              "lat": 40.5793709697085,
+              "lng": -74.00525548029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 37 St/Bayview Ave",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113724127204755758845\">Mei Huang</a>"
+            ],
+            "photo_reference": "AU_ZVEEmlH9G_JcDvbl4T_S5nqmxcWFlXXSuqzwH2w7HrK233Y1C4ug6uHCTYeoKcx4SUpR7kVvmXfoUF9Dwasr43fsuut-P_ejwL-U0VEsysxdO2VkaCPwiaIuYYGr2KYhdBlAEjUZwxRYO-3X9daK-dEgxfpbs4r4wX-Ye62hUI7NYqAToaxleeKenkOrYjPxpaUoiXInFJ2SxeY3SVbhv_Jfao4pr0HLv_utsbwKY80jd5vKUtF4BFgNj3yC_bGkWdKRudAWJUCUtHno7l0fX7jVyS4XPRNaW58bTe82p_v9U-HmPtHJgnTG3JecKGxLH7u9E5oF08ofTfwedcZb0tYOkcRsdumaVybn_udObB5s9QvPAP0ven-a6jpfQLscWn9YSep8X859cIGroWixWx-pnbobJ8NJmiCXSBv-8_tO-Q9L_ac8KK0K49qBG-9Yq9dw0DYFPGKCqUDIkXPjWLV9cxKt8VF_ghVXg6FZL_D1ik9KXBwmwBuovpBo-aXfaWGfsCI4VzkiFyAYrSSWOpmwiONPxZUvkjU_VfazCTcYn-60LNIuT-TceyZfwEbti4WGLJe4PHOJPJM-as0QopuM9tFVG5csLFX5BmWuUz-CxuJ5PRtYbsBBS5pEX7Bsl9IE1ng",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJb2xinL9FwokRUjiykHbupPI",
+        "plus_code": {
+          "compound_code": "HXJW+7C New York, NY, USA",
+          "global_code": "87G7HXJW+7C"
+        },
+        "rating": 1,
+        "reference": "ChIJb2xinL9FwokRUjiykHbupPI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.574856,
+            "lng": -74.001587
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5761656802915,
+              "lng": -74.00022986970849
+            },
+            "southwest": {
+              "lat": 40.5734677197085,
+              "lng": -74.00292783029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mermaid Av/W 36 St",
+        "place_id": "ChIJndEfWcFFwokR3R8AHNS_9ds",
+        "plus_code": {
+          "compound_code": "HXFX+W9 New York, NY, USA",
+          "global_code": "87G7HXFX+W9"
+        },
+        "reference": "ChIJndEfWcFFwokR3R8AHNS_9ds",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57992950000001,
+            "lng": -74.00062199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5812816302915,
+              "lng": -73.99924416970849
+            },
+            "southwest": {
+              "lat": 40.5785836697085,
+              "lng": -74.0019421302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Bay View Av",
+        "place_id": "ChIJ03_TrLhFwokRpPjRxiP_Fd4",
+        "plus_code": {
+          "compound_code": "HXHX+XQ New York, NY, USA",
+          "global_code": "87G7HXHX+XQ"
+        },
+        "rating": 5,
+        "reference": "ChIJ03_TrLhFwokRpPjRxiP_Fd4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57333800000001,
+            "lng": -74.00219
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57470308029151,
+              "lng": -74.0008361197085
+            },
+            "southwest": {
+              "lat": 40.57200511970851,
+              "lng": -74.0035340802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/W 37 St",
+        "place_id": "ChIJlQs2vsNFwokR44w5Kj8Vf4k",
+        "plus_code": {
+          "compound_code": "HXFX+84 New York, NY, USA",
+          "global_code": "87G7HXFX+84"
+        },
+        "reference": "ChIJlQs2vsNFwokR44w5Kj8Vf4k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58093299999999,
+            "lng": -74.00254799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5823037802915,
+              "lng": -74.00120296970849
+            },
+            "southwest": {
+              "lat": 40.5796058197085,
+              "lng": -74.0039009302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bayview Av/W 36 St",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102705731168367164661\">Reaz Ahmed</a>"
+            ],
+            "photo_reference": "AU_ZVEFpafD66u6ak9-AkkLG2bDw2kZhcxXU5HdPLRKQFfDC0hFtJaAnD7taG9ys4SfhASyX_MK9TY7TnGKCW7uu9rvQXMf-2VWhwypUp3lqzcFMhP9Lijqr520cxGzJjVzvAj1PLoCckHSgXh9I5EF9G_H7_ePYMwbnq_5HR9kWaTecp2ckq4bZQyiwimfoiRDswMWRXC_ZBoNlB8vLvHJOgC4WMJi6vIs963SVYYNQh6El0vy1MQB0v4NLHb6HZBV6ZbU45usTujaQVZSolrPcMzqz66E8zUXvpCp5SE9TaB8ssQBCFuyhWM4_PeuxabdLkK8OE1xxTJ307EA8_puXvDzEP5lRfGq1yijD-Ghx9BliAPv9iK9qtMmCapBP2ErkNuLkzU2TitNpDp9pN54dt4OxlOiG-U2WNbzmu3PlusZd634_oAtYSsoHR2wzfhK5rrlXPXVEIgotuHDU4laPdncqiI_ibOOMGZ3aZ5tS2s9hUnYCyzqZUCEOhs_4zXvzydF-qvvQy3s5ueDeaVr6k_aj_L8GYSLMp2WCMqhXfiYerAjBqBsWE320xQq2_dNhvWzr2eL1sfbTekw54uPjOgMqdEJxVmvx7TNXIjPPi0GO5JaX3uGQirVOgWdm9WFO1c1EIg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJCRCkbL9FwokRwQOw8Oqopkg",
+        "plus_code": {
+          "compound_code": "HXJW+9X New York, NY, USA",
+          "global_code": "87G7HXJW+9X"
+        },
+        "rating": 5,
+        "reference": "ChIJCRCkbL9FwokRwQOw8Oqopkg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.577621,
+            "lng": -74.000275
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5789788302915,
+              "lng": -73.9988483697085
+            },
+            "southwest": {
+              "lat": 40.5762808697085,
+              "lng": -74.0015463302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Neptune Av",
+        "place_id": "ChIJjRYdMsdFwokRHYKBj3yGH4o",
+        "plus_code": {
+          "compound_code": "HXHX+2V New York, NY, USA",
+          "global_code": "87G7HXHX+2V"
+        },
+        "reference": "ChIJjRYdMsdFwokRHYKBj3yGH4o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573238,
+            "lng": -74.002022
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5746056802915,
+              "lng": -74.0006663197085
+            },
+            "southwest": {
+              "lat": 40.5719077197085,
+              "lng": -74.0033642802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/W 37 St",
+        "place_id": "ChIJDTyalcNFwokRvLp3VpAv5Yk",
+        "plus_code": {
+          "compound_code": "HXFX+75 New York, NY, USA",
+          "global_code": "87G7HXFX+75"
+        },
+        "rating": 4.5,
+        "reference": "ChIJDTyalcNFwokRvLp3VpAv5Yk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.577396,
+            "lng": -74.000153
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57874933029151,
+              "lng": -73.9987656197085
+            },
+            "southwest": {
+              "lat": 40.57605136970851,
+              "lng": -74.0014635802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Neptune Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113142997094133459447\">efren pinillo moran</a>"
+            ],
+            "photo_reference": "AU_ZVEHdsrUD_AcJ5Ng44jJkAkoADWtz6Z4UQcrtcRg2vbBII7cDhCRiMB1OjtKIyoOUGGOeBKPE07PlqgkayPIJ7SPViioF2fibvBh-waM7GM29EYEnGCW-zvpBWTpHnZW2TKPNMSAKGM7zGwewjQIia9wBHmPExYEKR1LIUPELYm5UQreAiqanRQSgEMNNzqm5pl2lSI4f5pnkBToMp2zHYfJdw_xKzRjcNOR5QRWGu4Gky3gZdg-yn6hGFz7R7NijhBictUpdpIQbN5O0hMVfuFm0KVM-JpHqbkPgZiCHAdCQCtmdnXcT2k-UaxQl5laRR_wTR6pJ1gL33GMSvD54wHbXuzIpLF_KLSbwrNKiFKOBm-hQQYdbq7vJwyHJegKD0KfYJ5DdJ6IoffkjaDW6fm5eysD1TBKS11r1oZDu4aBqaxm7rU0wL8dobPAUy_ZP2OLNw4b6DqzMvATZLugyCegkHgtxgEvVClDRq2l44ha4k1Zz0xBupAwkRzVqPiAPX8mf3IgZme1GLl2Qs4Wt-I-fHu5g5vCqQJNKDkpdjfW9egEhVU-I8QrkpjrNIpngKVBYX0h3G-zJvh1tJmwm5-a_bF3KczOxKz6mXGqcWEd8vFna43Rlx2YLocIquFf2Fl-G0g",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJdT-CLsdFwokRJC_8PG50geg",
+        "plus_code": {
+          "compound_code": "HXGX+XW New York, NY, USA",
+          "global_code": "87G7HXGX+XW"
+        },
+        "rating": 4.8,
+        "reference": "ChIJdT-CLsdFwokRJC_8PG50geg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57917399999999,
+            "lng": -74.000481
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5805263802915,
+              "lng": -73.9991016697085
+            },
+            "southwest": {
+              "lat": 40.5778284197085,
+              "lng": -74.0017996302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Bayview Ave",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103150593497365172411\">Rene Prince</a>"
+            ],
+            "photo_reference": "AU_ZVEEUXWY6xSiMivEw4JZ0oA38Ud2hmmnnr_ZxKQAjUpCJux8FMMHSUPeY0ai15BrBJDC-arC-0EqVfJKEA0kosWj7_88AMlyvgnzUkodWipc7IWNyTMC7dI4urh8dMiRwMurWhm4A24u28azU5qSwNM2ZIR4DRRjYh8HHZXBjphGfsFEBjmw_yBwVx3ZCPEAXW_6BDHh6exblByHvoehL5X1qDxFrOgTIUVSZvidZfpu3hB5myFESH3XzrMpNCwJQ5Y5afhmXwW_Vwo_F-rFORuA8_Le3ylxSgAwpA3oQi_X3ykp2nlN4GVWGKMFnBWJBEZPKf1ucg0sa1hL--bi-9v7_NLlko41IA9pPKveGDGkVOXj0oniecOK6GBKgcRrHbegoO_8vDl4bh8hr5sMv9UJb5Tt02tOu4Zaih9QlelR9ATA3jNfzXkpGXuv8DdPTBTB8FaWSy5kdJK6tGFZoA4HPqql4Zu5X8PDxiPpiyp1i9mYn4MZgW1yQecJg5k5BqrXfh___JPB-ecXbTFt9M82fZyjkKLSH9R5CbqBvhna2wGxwiyGLuZliDAPY2QUSV0_ZNcUpFT7P60HLUM_z_mdFxaGftQzqdCyYZy1_M34jLFP6OnzCPOqVfXRereuPLkm6smylcKzqnoPv_Wc_lw",
+            "width": 1848
+          }
+        ],
+        "place_id": "ChIJ84eDVMdFwokRv6D8L6z3L8A",
+        "plus_code": {
+          "compound_code": "HXHX+MR New York, NY, USA",
+          "global_code": "87G7HXHX+MR"
+        },
+        "rating": 5,
+        "reference": "ChIJ84eDVMdFwokRv6D8L6z3L8A",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.575092,
+            "lng": -73.999702
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5764438802915,
+              "lng": -73.9983260697085
+            },
+            "southwest": {
+              "lat": 40.57374591970851,
+              "lng": -74.0010240302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Mermaid Av",
+        "place_id": "ChIJaX4fu8ZFwokRTQNeZJCFk-4",
+        "plus_code": {
+          "compound_code": "H2G2+24 New York, NY, USA",
+          "global_code": "87G8H2G2+24"
+        },
+        "rating": 5,
+        "reference": "ChIJaX4fu8ZFwokRTQNeZJCFk-4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.580685,
+            "lng": -74.00076299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5820370302915,
+              "lng": -73.9993855697085
+            },
+            "southwest": {
+              "lat": 40.5793390697085,
+              "lng": -74.00208353029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Bayview Ave",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115034317907569632101\">Slava</a>"
+            ],
+            "photo_reference": "AU_ZVEH6Gm2dClmni1BVi-O4KCXbngqDE8UsWd3V_H0TjBVQnrwFM7t_uMPAYq2UGA9N8X7kGdRvBzUtpJFZNB4bvOESbxSLDAUMtNG5pPQGMmrx7VEEgKhVjQUhGIYCQVxlt6MdHIlQo5WvHJFSVC1jMQhvIdujGp5P3uOoN1R3C-ReWldIKycH5Krrw4i4EhKj1PlgL1QkVp8fdTHPoQrbUnsIWJXHxFpJXtqNZ_uqMMk4l6XbsBni6TxYbP-VgX7u-6KChziDi1wXTzAqSZPxV1FvTyrv4TeQiriNm3QYYyIgT6jXfscyFoQIfz4NqKdElverf9cN2iftxZKLFOzsDQVuZa4Oc1940Yfe_rmTVd2uQxsWyU40bvyX7I1CDZiE1v-DNxxvxAvmd_FzkjpXwnjOm2Zuy8h0XizBrrNhxjxhAMjGqS3842Lfd5xflLSBBkUGloSUPuy-63TVsELodXEdhoOlSrg4-q_oPBHxoHIdd1II43jE8Gvfj8b_Pr6x7oKfFEQl-kEeCiTaymKBLrgkpz6yv-qpUqhBaVS_vB_X87vAOEB9_Bpu0PrAG-Qr3nPn8GjKwb2g9mUjyM7XIkPLeM4sM1G7-5evV_HQpH1kIUkCwADlgVcVa9BJk3NT1wnHvgyx",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJXSeSSr9FwokRb4tSb_0KgNc",
+        "plus_code": {
+          "compound_code": "HXJX+7M New York, NY, USA",
+          "global_code": "87G7HXJX+7M"
+        },
+        "rating": 5,
+        "reference": "ChIJXSeSSr9FwokRb4tSb_0KgNc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.573116,
+            "lng": -74.000717
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57443778029149,
+              "lng": -73.99937316970849
+            },
+            "southwest": {
+              "lat": 40.5717398197085,
+              "lng": -74.0020711302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/W 35 St",
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102925512637507990331\">yunluo@rocketmail.com</a>"
+            ],
+            "photo_reference": "AU_ZVEEVqd9bptIboZBSa-tva8Adv63VZJGyV5ee_M76Pn42v8XOEKCX3P2xoRskuHIFj33TbTgPATqdMX03ZeA3x93BR5VYjiV9VrjVXSlXPRpWG0LaOVyoFcchJjKTePmOhgZdtkbPJnydSouyqGCiULMWtb6E24ggRr16tWIiNcHvKwjHk7tCbbcDP1W3NHVkwCuAC7LRevIPfRZj-bmL7w7JQcnBZXEox3KaHmwOv-op7poxm81HQr82vviDDPVB_IOStmTYv7wCRQlGAwxR9RbPtS9G9Skpo9EtJU6OwXKOE_KjN01lqUnh4JTXYRUAoiMQs_uYYPIZoYIzfU3Ypx-9CdCqOkvi0OjaegA-E9p0CRDDSvMiPOPHS9DOn8SV4UQQPnInKduTvgUovJl4AYHGv-bPXBENuO3RkZv59VPa3xWbhwNLcKtdyJij6YTzhILMMQNagZcmH1xfT02ivsOoeT4sUXn5Q2ab85MbCg7B2dUxF9QNvVHRUV3hSgS5Shj-11XYe9TYFddOUUV45Fpw9qO1d_7CkdknOcPx_66p2PxmZBSBV2Bo802u6Wjuj_xH9-xfBZne4WLFi5oGHA3HRmUqGgEpxOF8G_3JIP-See2waNiPrs_vCYglXtmzoYfNOw",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJvyZEisNFwokRRerY6EkpXRs",
+        "plus_code": {
+          "compound_code": "HXFX+6P New York, NY, USA",
+          "global_code": "87G7HXFX+6P"
+        },
+        "reference": "ChIJvyZEisNFwokRRerY6EkpXRs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5751467,
+            "lng": -73.9989224
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5764853302915,
+              "lng": -73.9975112697085
+            },
+            "southwest": {
+              "lat": 40.5737873697085,
+              "lng": -74.00020923029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mermaid Av/W 32 St",
+        "place_id": "ChIJITHxlsZFwokRBi7LxnoaQlU",
+        "plus_code": {
+          "compound_code": "H2G2+3C New York, NY, USA",
+          "global_code": "87G8H2G2+3C"
+        },
+        "rating": 5,
+        "reference": "ChIJITHxlsZFwokRBi7LxnoaQlU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572983,
+            "lng": -73.999619
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57430858029149,
+              "lng": -73.9982743697085
+            },
+            "southwest": {
+              "lat": 40.5716106197085,
+              "lng": -74.00097233029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/W 33 St",
+        "place_id": "ChIJIbZcbMRFwokRLB5YDn0gzoY",
+        "plus_code": {
+          "compound_code": "H2F2+55 New York, NY, USA",
+          "global_code": "87G8H2F2+55"
+        },
+        "reference": "ChIJIbZcbMRFwokRLB5YDn0gzoY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57302500000001,
+            "lng": -73.99932100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57437738029149,
+              "lng": -73.9979393197085
+            },
+            "southwest": {
+              "lat": 40.5716794197085,
+              "lng": -74.0006372802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "W 33 St/Surf Av",
+        "photos": [
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100609398171025045848\">Andrew</a>"
+            ],
+            "photo_reference": "AU_ZVEHEDgDkYMkkjyEZ1ArlXGcTao0W_NxGGyVV10o44MGeAfZoYjj7fV2uiuy6MQvStVkjmmYFUTqxdFVN8q2xP0FtTN-Fx58bPPcD18hrUAbzzyKfPFNLOvLi1Qa5cXOUHFQJ-5FZxtstCOEAS2FR2LJzBEqWVTQaHOz2ZewTFuFRPE7bSqx9nLajO7qcifKvP1jX-ovqmQCjTcFwCywlzyM7K1uJhuU5KLK5ghod7cfuxGOlYcUtUgdUjBZH7A_Yll8MnYxpLw9DIvWGN80FE-GRYgyyYzH32pi3T_FmUy6YXqwSO7hRrraETRlIdIB8uTuJpDrKUjsMM7JZ1gqGeJyvIp01pMyo0etbrqMJMJb1D_Vwuk2PcSUx3dtaSdRlaQv-UA1LITCdDhih509IJCAutayluJeVR1w9xRcpRSOtEIaXIUvW5mDGjzxiCjVXwqWD-y6GAvUKOk2VH3aoRMDV1m2nPjaQ3lc53lYoQSX06NyVhcR5SfHyEpd_cJSAUrtXKx6WMkKEgRyVsi2NiODLF2Q31Q9PCfOZNUaYmEgM0-gJkXmUcL-aFtGsZPesJBY1KcXDoVRl7WcoSt7jD4ZVqwFcdo0a0hgBRaqjr1NYIYNar67UmEq34RFsm0UG0me-84Eb",
+            "width": 3840
+          }
+        ],
+        "place_id": "ChIJe-7vasRFwokRMzI0BFfEeDI",
+        "plus_code": {
+          "compound_code": "H2F2+67 New York, NY, USA",
+          "global_code": "87G8H2F2+67"
+        },
+        "rating": 4.5,
+        "reference": "ChIJe-7vasRFwokRMzI0BFfEeDI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57291,
+            "lng": -73.99855
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57422618029151,
+              "lng": -73.9972036697085
+            },
+            "southwest": {
+              "lat": 40.57152821970851,
+              "lng": -73.9999016302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/W 32 St",
+        "place_id": "ChIJwdnFR8RFwokRcw1MIbsnmMs",
+        "plus_code": {
+          "compound_code": "H2F2+5H New York, NY, USA",
+          "global_code": "87G8H2F2+5H"
+        },
+        "rating": 3,
+        "reference": "ChIJwdnFR8RFwokRcw1MIbsnmMs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.575191,
+            "lng": -73.997124
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57655423029151,
+              "lng": -73.9957779197085
+            },
+            "southwest": {
+              "lat": 40.57385626970851,
+              "lng": -73.99847588029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mermaid Av/W 31 St",
+        "place_id": "ChIJwe2hZ8ZFwokRdZridhPS1q4",
+        "plus_code": {
+          "compound_code": "H2G3+35 New York, NY, USA",
+          "global_code": "87G8H2G3+35"
+        },
+        "reference": "ChIJwe2hZ8ZFwokRdZridhPS1q4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.57275800000001,
+            "lng": -73.99805049999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.57410873029151,
+              "lng": -73.99669581970849
+            },
+            "southwest": {
+              "lat": 40.57141076970851,
+              "lng": -73.9993937802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/w 32 St",
+        "place_id": "ChIJN7PVS8RFwokRN662WsIFBAo",
+        "plus_code": {
+          "compound_code": "H2F2+4Q New York, NY, USA",
+          "global_code": "87G8H2F2+4Q"
+        },
+        "reference": "ChIJN7PVS8RFwokRN662WsIFBAo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.575356,
+            "lng": -73.996841
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5767203802915,
+              "lng": -73.9954948697085
+            },
+            "southwest": {
+              "lat": 40.57402241970851,
+              "lng": -73.9981928302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Mermaid Av/W 30 St",
+        "place_id": "ChIJ9TPkQsZFwokRNkaJRb1cx84",
+        "plus_code": {
+          "compound_code": "H2G3+47 New York, NY, USA",
+          "global_code": "87G8H2G3+47"
+        },
+        "reference": "ChIJ9TPkQsZFwokRNkaJRb1cx84",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.572636,
+            "lng": -73.99767299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5740178302915,
+              "lng": -73.9963235697085
+            },
+            "southwest": {
+              "lat": 40.5713198697085,
+              "lng": -73.9990215302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Surf Av/W 32 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117372194755102609516\">Ivan</a>"
+            ],
+            "photo_reference": "AU_ZVEFnaRDDGMYceIh-Nen01s3g1UoK-qQwMl57VS8qyxS1QsyqF0SsZ-gP0JJnrAMnp5KHW3xTf66x8jiyipMY2thcfacvA-OLGIXHpkuaB8YECU-d0bz_Qq0Uh46MtT_zeIHQmOM7x1OOz5f5B9vbtY0cFXQQwGSDRWehxcxapA6yUVMWFQ8PTKPrL-6fGrA0_BsdC_46SqF40lKUWcLPjV0uKHolHISilsEmeryoFeOuIQVLeMkhnCd9DAMbNYlaNZyPwHTzuR_xPaIWEEy29PzMLJm9XmguDXejeQl3glQeuzBdi7bX5GOxBjRP8Q3CM66LUOYaw1rAc__tTfa5PP9bL4EqoZHME-_X9aNi4zNjGn_t1EEcG4IsAF91eMKOkkgEpHDtlRS-R5Zf0ZMm_pr1yMSpAyWgJ8D9_hx1VepSBf_1Mm_kEkrJOdqXPmqkNNacyO06Lrh35xX4SO94G2EJqLexMxhLJqH6gFkC5EHVPuEKrFrW3iEUbHbxccqW6w4P9AkIMyYFrMxcFYHzoZJXCnZnpVIdE6DF4R2JBRhWGk3-ew6WERRnGtRMKmwOzUqpL5XNUoXeUoQL2AAXwOKQo7uyseF_J5sHse0PRZ-4psq9JJuUGQE2FDW1tL8PjN7wW2bU",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJaSHAtMVFwokRs5OG82b0Za4",
+        "plus_code": {
+          "compound_code": "H2F2+3W New York, NY, USA",
+          "global_code": "87G8H2F2+3W"
+        },
+        "rating": 5,
+        "reference": "ChIJaSHAtMVFwokRs5OG82b0Za4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.577194,
+          "lng": -73.998521
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5786524302915,
+            "lng": -73.99719126970851
+          },
+          "southwest": {
+            "lat": 40.5759544697085,
+            "lng": -73.99988923029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 917-217-9797",
+      "name": "\u201cLos Ceviches Del Decano\u201d",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112303014030067373404\">Antonio</a>"
+          ],
+          "photo_reference": "AU_ZVEEdoOVH9uf8ip8EzHaa2h2y-fZmzYR_yHxh2B7qMupqkOxsparbxb8XuxvIQP7ngw72ubZaIMa68EYe6X7yA56UxaJOX9QOEf5QKm6zsopvgRkwQ2PNgzRzaAh7Fp6A2Jy83wdCDImH-uFpMfDHRod5E6EQV-cAwVa1vs1eMn-pEJ2OCy4wR9pc9flix_AF6uEaJhwZtYXl0LN3eOZgwBPa67HIEXIArX8vG3S7Zf0po7YORMM1hrEv0JcVyDED1NjU3DtZ-T6R7BHNsdfQV7hR1Nh3NkEhUnuT8Eh0o1MNHlpXF9xfMUYDaP2_UVTUYxu1O1lpXZ6LXy7uKs2Zf_DWDPGK8jIbHGZUeXItWUF8n_jNHrehlqxuSUBPMFbGtsX20e4ZsQSZ_QUvTSeruqI8C9a2iMAeCoPzSoq6uPF8-HbHRAWEegpwJdCgQ2BJFYSI9Vi1xf-PO4fbPb2njpvvIYzxInlrYXaAP7do8NyOTma-8oTsb7aBevm65Xph-jOCFS4qhZ2BHQ5qac4OirVrD9JuEOzlBk5270DD_dwQkxHw6_jjaecExnPAxyW2NOaxdYEQ2kIifZlW-Mh-u12qykrHS_42c5obYJHuO7dIlDW8K5yAyjHV0_iaBLrBwY9ygQxDBm1kT3926PX7tk0t1m4",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJlb4TDgBFwokRZAjxc3yn5Ks",
+      "plus_code": {
+        "compound_code": "H2G2+VH Brooklyn, NY, USA",
+        "global_code": "87G8H2G2+VH"
+      },
+      "rating": 5,
+      "reference": "ChIJlb4TDgBFwokRZAjxc3yn5Ks",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "3126 Neptune Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5773793,
+          "lng": -73.9977719
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5787932802915,
+            "lng": -73.9964099197085
+          },
+          "southwest": {
+            "lat": 40.5760953197085,
+            "lng": -73.9991078802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Ali Baba",
+      "place_id": "ChIJPTDLCcdFwokRsE4vIfbHt9E",
+      "plus_code": {
+        "compound_code": "H2G2+XV Brooklyn, NY, USA",
+        "global_code": "87G8H2G2+XV"
+      },
+      "reference": "ChIJPTDLCcdFwokRsE4vIfbHt9E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "West 30th Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.575,
+          "lng": -73.99694439999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57647598029149,
+            "lng": -73.9956214197085
+          },
+          "southwest": {
+            "lat": 40.5737780197085,
+            "lng": -73.9983193802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-265-1540",
+      "name": "Oriental Palace Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106395326134041796379\">Artur St</a>"
+          ],
+          "photo_reference": "AU_ZVEFnQ7LTQYMaCM8uXn7oIpLT5xqLtGhNqHLoZZguSeXOlVK7XoDwVM8cO0iT7eMiSZTYNWqOdQDg8kWJl8kn--O6rZV77QB07zSRDdoVQti5MJgTNigTZwUjkkf4Gall7ogUeXzc2gFhulTmpDeG5VeCENWmjZajMnYlKJ5em98OYwEYtFPFKpPLFDSy6Y21v2LCQCXxZDdl2bz6Hoq51PKaaLaJM0em0TZ6FR8c_QdtzP9ZxFetI9MWOuW7gDbut3rC8e6r0HMukVsAVLYT9l6tqr-e5-TuO6WRzxx6PMC42oNNdtFhrNnp-SmEUn9YaD8SGGlgPV079QXOlV6b_b8s-npCjWx2E7mOUvotyL26qIP5z9yps29Vvr3OX_hZUVzNbOj2goGJPmfxd1xSDofWYr9wzq1kXBhkxK4kYSIjwDgCUNNYTTyk_rbtRPQ0yoSqmeFrQBKWEhOjgjZjuPgMaie4KV152JqYFznbVF5yuQ--JAxes5DpAvYfGLoWVcJFVOAYmKGGw-GR21ZSTrmJLKKT9mcYQ-RyfvNmXExql-5Tp1rBzugB6o7UIIuIDCUbWxiK55l1mVSq9sVzwF_GFYsDSDm2jkFDV6c-Fde1u8Y4oeoEBo7AXLdfGBItVTKaXQ",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJobyFZ8ZFwokRWZih62KN73M",
+      "plus_code": {
+        "compound_code": "H2F3+X6 Brooklyn, NY, USA",
+        "global_code": "87G8H2F3+X6"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJobyFZ8ZFwokRWZih62KN73M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 466,
+      "vicinity": "3018 Mermaid Avenue, Brooklyn"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.575633,
+          "lng": -73.99729789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57689043029149,
+            "lng": -73.9959190197085
+          },
+          "southwest": {
+            "lat": 40.57419246970849,
+            "lng": -73.9986169802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-872-5772",
+      "name": "Popeyes Louisiana Kitchen",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108948834908330026463\">Popeyes Louisiana Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEGegwzcGcQsW15nhxI6RDC-7Mrr_EBZP98yCamODK3-rIEmXP_MlQ0gWLccM38GZDCf7grUvC344vgFTxtXr8qcN5igR8qy2gFsaWuIywlzKycvilRxayInYgMFC8bztCCFmN3j0rM3a0-6ZE8rT328_kakhzZkNDfN1Zmg5QCwimpu5xWNCkTjZDZcYLZJtOXOe4ww7XW5S020nj8-ovM-DtohJJaRKY-02UWzcItkXuleLAJLTUlOX9VzJ9vYeTNeimDWdsGK9HtRmPYT3ft4bdm7EM7oqrYSkSkLFKtVqePvhoJNLOJR4E37niF-4WRtEaRj208",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJmTj8XFhFwokRPhwXvmsajBE",
+      "plus_code": {
+        "compound_code": "H2G3+73 Brooklyn, NY, USA",
+        "global_code": "87G8H2G3+73"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJmTj8XFhFwokRPhwXvmsajBE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 354,
+      "vicinity": "3019 Mermaid Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5757033,
+          "lng": -73.99717179999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5769370802915,
+            "lng": -73.99581461970848
+          },
+          "southwest": {
+            "lat": 40.5742391197085,
+            "lng": -73.9985125802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-372-3198",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100860474516441576822\">Paul Wright</a>"
+          ],
+          "photo_reference": "AU_ZVEFZmhhA6PTr9BnxrihrTtFxmd_frPaezzbiuV-hfG3xxGSQJ5YqduVZm7tFk-k-SEzP4lqAe_pBNWDwRGVbHlYK4mgUnzHuTXvY9P2coWLwIpod8TdePJJyHOIv_WAfxaw-WXT5pFLV4YaOn1BKouuem9gwsoshLezgY_Er9GYv63403nKLPrbuTI9fdKXcZ9Ku1SHs2RYRi2ejO2QVjMMMxcK6Ust0Ay2Z45J5ErN7e0bA0ASs1Wiz9jUxnJuhkF1tfXLxfgKwiEo090fvXtlq9Fy2vyhTG5jAN-ByYT-vkzccAqQzmpeNrmyH8xDXQslQMGB9KZ4Zdr3_DzEL2uLqUgN7uM0w8XgSB7b5MXnm46NeeeOHsBkMakiqauHNQhfo3YcvrHpo4ofZSQyr9JimMhPS1U5tVj6bS7DBbG8WzuEiXeH2ED6p-OI2UrIohdoEueXDA4FUJYKLBXEd-1GWF0JWFqI3w0EN7jc0A653Bk8WSGXczRcZK3j5oRXbhJFxvLLdVBPJlf_6_hUBVCyqDz_2bQSLLD9BRUgS_5JGzsRNCsBVdOnnaRzr6U9dJA8dx00L5pppFQoh1mrl-3mK4-nh8aVkpBhVZC8Ok-WPUbOawEkxVtQdtK2C28Kx6MPURKrY",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4fBmXMZFwokR0lfECIpTAss",
+      "plus_code": {
+        "compound_code": "H2G3+74 Brooklyn, NY, USA",
+        "global_code": "87G8H2G3+74"
+      },
+      "price_level": 1,
+      "rating": 3.6,
+      "reference": "ChIJ4fBmXMZFwokR0lfECIpTAss",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 241,
+      "vicinity": "3015 Mermaid Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5765496,
+          "lng": -74.0069733
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5778678302915,
+            "lng": -74.00561846970851
+          },
+          "southwest": {
+            "lat": 40.5751698697085,
+            "lng": -74.00831643029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cozy Seagate apartment with AC near the beach and transit.",
+      "place_id": "ChIJV6LyDOpFwokRA6ojH_lFGOU",
+      "reference": "ChIJV6LyDOpFwokRA6ojH_lFGOU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57746119999999,
+          "lng": -74.0064926
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57870468029149,
+            "lng": -74.0051238697085
+          },
+          "southwest": {
+            "lat": 40.5760067197085,
+            "lng": -74.0078218302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Sunny Spacious - 2 bedroom, 2nd Floor Apartment",
+      "place_id": "ChIJs-Ee1sFFwokRIQqfe-1E-G4",
+      "plus_code": {
+        "compound_code": "HXGV+XC New York, NY, USA",
+        "global_code": "87G7HXGV+XC"
+      },
+      "reference": "ChIJs-Ee1sFFwokRIQqfe-1E-G4",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5760689,
+          "lng": -74.00860589999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57753368029149,
+            "lng": -74.00727941970848
+          },
+          "southwest": {
+            "lat": 40.5748357197085,
+            "lng": -74.00997738029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Brooklyn 15 bedroom 18 bath oasis",
+      "place_id": "ChIJxTq8JepFwokROQBuE_MsuIU",
+      "plus_code": {
+        "compound_code": "HXGR+CH New York, NY, USA",
+        "global_code": "87G7HXGR+CH"
+      },
+      "reference": "ChIJxTq8JepFwokROQBuE_MsuIU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5760612,
+          "lng": -74.0085983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5775301802915,
+            "lng": -74.00727261970849
+          },
+          "southwest": {
+            "lat": 40.5748322197085,
+            "lng": -74.0099705802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Brooklyn 15 bedroom 18 bath oasis",
+      "place_id": "ChIJ7bS-JepFwokRqaLENeJ0xhc",
+      "plus_code": {
+        "compound_code": "HXGR+CH New York, NY, USA",
+        "global_code": "87G7HXGR+CH"
+      },
+      "reference": "ChIJ7bS-JepFwokRqaLENeJ0xhc",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5787239,
+          "lng": -74.0040284
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5801614802915,
+            "lng": -74.0026962697085
+          },
+          "southwest": {
+            "lat": 40.5774635197085,
+            "lng": -74.0053942302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cozy Seagate apartment with AC near the beach and transit.",
+      "place_id": "ChIJeUn1XcBFwokRPTF-V22xkSY",
+      "reference": "ChIJeUn1XcBFwokRPTF-V22xkSY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57970809999999,
+          "lng": -74.00298310000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58107118029149,
+            "lng": -74.00148871970849
+          },
+          "southwest": {
+            "lat": 40.5783732197085,
+            "lng": -74.0041866802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beautiful Spacious - 2 bedroom, Main Floor Apartment, Backyard and Free Parking",
+      "place_id": "ChIJH13wgsBFwokRpTHR7ljcCCk",
+      "plus_code": {
+        "compound_code": "HXHW+VR New York, NY, USA",
+        "global_code": "87G7HXHW+VR"
+      },
+      "reference": "ChIJH13wgsBFwokRpTHR7ljcCCk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5775553,
+          "lng": -74.0013939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5790842802915,
+            "lng": -73.99978901970849
+          },
+          "southwest": {
+            "lat": 40.5763863197085,
+            "lng": -74.00248698029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 917-200-4514",
+      "name": "Sunshine Enterprises Royalty",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1575,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110654558662255657812\">CAROLINE SINCLAIR</a>"
+          ],
+          "photo_reference": "AU_ZVEGMjSiF_G_iYIgs5weVSGv8931a3enT8vK0Ig1chY4bwUOBQtOmXN6iuivIB0DjylkEtPs-NPcsh6iIukfCm7ETKZQBRXpUy2c5H1B2_PyfZ-ssw87lB_0DX-H1NORYHZe6Ft-LAfF1Et8YCH3_bGnAbNAByYNytfh4lAJdVGs2JzRZfAXXAlTvTfYo9qAKoBx-b8389-MinC-NXHRuSscB0u31lhYErMA8cPmkaex52xobpmiqtMfL7ycVhk3xfYYZQ7i_8h0x8DKnLvAK8v3mlekrwuRzKSV-m4te8vh6zgyAlz-bil8qijMqAPyeHxcFMLU_YQG9qFMoTEwi5OZ5sx6YyGAFMq7VYK21dNGQwvecIKoPr3uNb1bx1KHXQVDZ_8az36Sio_h8uxk22cH5YNC0ZZDZw-a_06eVODLufDSm7SnzVHshqR-3YgCjdJAMO4H_uLrd5zwPIsCvMeQlJ1BqmjctMkrFRWgYxRgxLbBUJcGEKwfu9Q4n3mx8hedk1mMx-zr3my4zNLKxk5Ui0sekJya7HcaKgF3nRu83IruwuioHOm0pJePbEkaGWBAZqQ-oG5oRRnrhVgim1ARiEq4h64sdqHlrN7-wgsr3UEPnsH-1fZt1F0B1ec43zlhvMA",
+          "width": 1109
+        }
+      ],
+      "place_id": "ChIJMZDYYUFFwokR-qXVfHr-XgU",
+      "plus_code": {
+        "compound_code": "HXHX+2C Brooklyn, NY, USA",
+        "global_code": "87G7HXHX+2C"
+      },
+      "reference": "ChIJMZDYYUFFwokR-qXVfHr-XgU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2770 West 33rd Street, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5817871,
+          "lng": -74.001358
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5828036302915,
+            "lng": -73.9999695697085
+          },
+          "southwest": {
+            "lat": 40.5801056697085,
+            "lng": -74.0026675302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beautiful 4Br. Townhouse near Coney Island Beach and Amusement Park",
+      "place_id": "ChIJoVGoKL9FwokRsp5o9kr-Xfg",
+      "plus_code": {
+        "compound_code": "HXJX+PF New York, NY, USA",
+        "global_code": "87G7HXJX+PF"
+      },
+      "reference": "ChIJoVGoKL9FwokRsp5o9kr-Xfg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5746269,
+          "lng": -73.9962998
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57597123029149,
+            "lng": -73.99499326970849
+          },
+          "southwest": {
+            "lat": 40.57327326970849,
+            "lng": -73.99769123029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Sunny Modern 3-Bedroom Duplex w/ Outdoor Garden 2 Blocks From Coney Island Beach",
+      "place_id": "ChIJ9cE-bcZFwokRz_D2-S8SCPs",
+      "plus_code": {
+        "compound_code": "H2F3+VF New York, NY, USA",
+        "global_code": "87G8H2F3+VF"
+      },
+      "reference": "ChIJ9cE-bcZFwokRz_D2-S8SCPs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57073449999999,
+          "lng": -74.00219729999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57346225000001,
+            "lng": -74.0004076197085
+          },
+          "southwest": {
+            "lat": 40.56982524999999,
+            "lng": -74.0031055802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Reigelman Rocky Pier",
+      "place_id": "ChIJdWN-GQBFwokRNfAqOZfOr6o",
+      "rating": 5,
+      "reference": "ChIJdWN-GQBFwokRNfAqOZfOr6o",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "HXCX+74"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573829,
+          "lng": -74.00623399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5752849302915,
+            "lng": -74.0048223197085
+          },
+          "southwest": {
+            "lat": 40.5725869697085,
+            "lng": -74.0075202802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "international_phone_number": "+1 347-595-4319",
+      "name": "NY Bus Rides",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJDfU9dMJFwokRJrcaAYLP7J8",
+      "plus_code": {
+        "compound_code": "HXFV+GG Brooklyn, NY, USA",
+        "global_code": "87G7HXFV+GG"
+      },
+      "reference": "ChIJDfU9dMJFwokRJrcaAYLP7J8",
+      "scope": "GOOGLE",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3848 Atlantic Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57360449999999,
+          "lng": -74.002495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5749477802915,
+            "lng": -74.00119751970848
+          },
+          "southwest": {
+            "lat": 40.5722498197085,
+            "lng": -74.0038954802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/w 37 St",
+      "place_id": "ChIJgYhOx8NFwokRLEcxABqlXFI",
+      "plus_code": {
+        "compound_code": "HXFX+C2 New York, NY, USA",
+        "global_code": "87G7HXFX+C2"
+      },
+      "reference": "ChIJgYhOx8NFwokRLEcxABqlXFI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57713700000001,
+          "lng": -74.00318899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5784958302915,
+            "lng": -74.00178981970848
+          },
+          "southwest": {
+            "lat": 40.5757978697085,
+            "lng": -74.0044877802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 37 St/Neptune Av",
+      "photos": [
+        {
+          "height": 2048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114051508347467032612\">JR WOODWORKS</a>"
+          ],
+          "photo_reference": "AU_ZVEGf0mGK1yytEHrPV778g4gxWsvfe9XFOTab9L7dXDWahN4RcUDl_IEh13g_LqJ6XbnyRmij0GxYmpYDl-onC6spa-dVy9ebyWnb83ZxbAqfewPfoyUvFsToR4zT7QOMLRDD0a5vKxe86mhvciWVVUTN_h-t52LbSWbQUEXJKhCYikWnmCyC0TZGPfJUafCZiG9DqGIsPUQDav89_Hcm38NxJsWj_IBqdtOF4F8Z4ALS0BnOV9zT3eioxmi8d5SfNzkvrmnZxOZXGosNRwES0hlJWq-PvWqMAgLKDFoeh2dXpXX2lUa2-BLc8Rz5NOVjWeFAC7BdtqUG5tRCgzfIbBmQG6o7BIbOhYEW6rpF_bHTayvoVUr8Xv00Kh-mzBqzsTFw7hgwggewNta3WPgNTrdRlYRUjtQRFjropKf1srjZYAl7iy0EgnIOZ_FdLKn5nfIRLzqpKxcWt7axgF00bgup03bbnBJiB-4yxnVWcALhEKb_mlcNZDPh-obrYuKRdLTN_nQVIcsL5_5n3FAGnpep6G7ag026lX5_ieWKQ6zWpygLlTqOBPxPeLTrgdiOv5EAtHQYR0M3LOvZHgAf2j189_64GYUNFXC0jVF6Q7tKWoQj82_Nibc6ZOhnaNgAxxKpYoHH",
+          "width": 1152
+        }
+      ],
+      "place_id": "ChIJDX17AcFFwokR5_NERQGZH30",
+      "plus_code": {
+        "compound_code": "HXGW+VP New York, NY, USA",
+        "global_code": "87G7HXGW+VP"
+      },
+      "rating": 4.6,
+      "reference": "ChIJDX17AcFFwokR5_NERQGZH30",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.576859,
+          "lng": -74.002678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5782516302915,
+            "lng": -74.00133751970851
+          },
+          "southwest": {
+            "lat": 40.5755536697085,
+            "lng": -74.00403548029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Neptune Av/W 37 St",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107670944065877739688\">Kirill Dolganoff</a>"
+          ],
+          "photo_reference": "AU_ZVEHbvT7BIgJhVi3t6e4SAhsw-v7s0Tv62Hgo75VVtwv25juxVrbaBb_OF-eCeyE7EsKPZx7_k3bnhq-fv20aBg8vBbD26hisUjlO85yMRezYWNUKTAklSuMsH4FQ-vI1hJ18eZZkv6Y1zGK2G9FBMoNVyrMXzpriJlVNHOhVLmQvGZlYlc21hc-bqYMWsgSeBKyAZYytx7WTwA7EV9MTPUpXOPrP6uwiBC4h30Dxu2xfyUxCtf7fnnTK9VJvgakSKOQZSV9ONS1BQk6aWvTNrRMt6oXJFOnjEX0eBzmfNIk6R-2SbVJm2enHbxUTX5WUiutnIJs01KYpLgLcw8PebUEUswq5l7NxSf9D9rw9C4zJciY3DGS_-jB52LvdwLGW5L0rL32cSl9Dz0167A_MbmOhUl-GmkAQR1spNHD0xiLm78q4DHpHptodAJSE4rBbM3zkJl4okgvGvRuZyAgYwvAEnB1Rg15SjsOZ-lqdtGXWnN4gKaZfxsvJ457NyFd5dibeE4ogpXF6jFH04ZXEEtKEo5nGM0YpQuI-pKMtIq6LOas1Hr8uS1C3-ZcF5_fMM-Sn1-uX3VZd4IbfBEU7G6OYhw2jzXvurxzAE8_gQATMcQayRvdt9S-ONjgDJgceHDAmXg",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJhSQEG8FFwokRnK4O2MLr9Fc",
+      "plus_code": {
+        "compound_code": "HXGW+PW New York, NY, USA",
+        "global_code": "87G7HXGW+PW"
+      },
+      "rating": 5,
+      "reference": "ChIJhSQEG8FFwokRnK4O2MLr9Fc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.579235,
+          "lng": -74.003601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5805806302915,
+            "lng": -74.0022828697085
+          },
+          "southwest": {
+            "lat": 40.5778826697085,
+            "lng": -74.00498083029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 37 St/Canal Av",
+      "place_id": "ChIJq0akYsBFwokR73ttzWNTZfQ",
+      "plus_code": {
+        "compound_code": "HXHW+MH New York, NY, USA",
+        "global_code": "87G7HXHW+MH"
+      },
+      "reference": "ChIJq0akYsBFwokR73ttzWNTZfQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574966,
+          "lng": -74.002808
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5763141302915,
+            "lng": -74.0014672697085
+          },
+          "southwest": {
+            "lat": 40.5736161697085,
+            "lng": -74.0041652302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 37 St/Mermaid Av",
+      "place_id": "ChIJQXPRYsFFwokR1atPAXqzMzA",
+      "plus_code": {
+        "compound_code": "HXFW+XV New York, NY, USA",
+        "global_code": "87G7HXFW+XV"
+      },
+      "reference": "ChIJQXPRYsFFwokR1atPAXqzMzA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.580723,
+          "lng": -74.00387599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5820689302915,
+            "lng": -74.0025575197085
+          },
+          "southwest": {
+            "lat": 40.5793709697085,
+            "lng": -74.00525548029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 37 St/Bayview Ave",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113724127204755758845\">Mei Huang</a>"
+          ],
+          "photo_reference": "AU_ZVEEmlH9G_JcDvbl4T_S5nqmxcWFlXXSuqzwH2w7HrK233Y1C4ug6uHCTYeoKcx4SUpR7kVvmXfoUF9Dwasr43fsuut-P_ejwL-U0VEsysxdO2VkaCPwiaIuYYGr2KYhdBlAEjUZwxRYO-3X9daK-dEgxfpbs4r4wX-Ye62hUI7NYqAToaxleeKenkOrYjPxpaUoiXInFJ2SxeY3SVbhv_Jfao4pr0HLv_utsbwKY80jd5vKUtF4BFgNj3yC_bGkWdKRudAWJUCUtHno7l0fX7jVyS4XPRNaW58bTe82p_v9U-HmPtHJgnTG3JecKGxLH7u9E5oF08ofTfwedcZb0tYOkcRsdumaVybn_udObB5s9QvPAP0ven-a6jpfQLscWn9YSep8X859cIGroWixWx-pnbobJ8NJmiCXSBv-8_tO-Q9L_ac8KK0K49qBG-9Yq9dw0DYFPGKCqUDIkXPjWLV9cxKt8VF_ghVXg6FZL_D1ik9KXBwmwBuovpBo-aXfaWGfsCI4VzkiFyAYrSSWOpmwiONPxZUvkjU_VfazCTcYn-60LNIuT-TceyZfwEbti4WGLJe4PHOJPJM-as0QopuM9tFVG5csLFX5BmWuUz-CxuJ5PRtYbsBBS5pEX7Bsl9IE1ng",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJb2xinL9FwokRUjiykHbupPI",
+      "plus_code": {
+        "compound_code": "HXJW+7C New York, NY, USA",
+        "global_code": "87G7HXJW+7C"
+      },
+      "rating": 1,
+      "reference": "ChIJb2xinL9FwokRUjiykHbupPI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.574856,
+          "lng": -74.001587
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5761656802915,
+            "lng": -74.00022986970849
+          },
+          "southwest": {
+            "lat": 40.5734677197085,
+            "lng": -74.00292783029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mermaid Av/W 36 St",
+      "place_id": "ChIJndEfWcFFwokR3R8AHNS_9ds",
+      "plus_code": {
+        "compound_code": "HXFX+W9 New York, NY, USA",
+        "global_code": "87G7HXFX+W9"
+      },
+      "reference": "ChIJndEfWcFFwokR3R8AHNS_9ds",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57992950000001,
+          "lng": -74.00062199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5812816302915,
+            "lng": -73.99924416970849
+          },
+          "southwest": {
+            "lat": 40.5785836697085,
+            "lng": -74.0019421302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Bay View Av",
+      "place_id": "ChIJ03_TrLhFwokRpPjRxiP_Fd4",
+      "plus_code": {
+        "compound_code": "HXHX+XQ New York, NY, USA",
+        "global_code": "87G7HXHX+XQ"
+      },
+      "rating": 5,
+      "reference": "ChIJ03_TrLhFwokRpPjRxiP_Fd4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57333800000001,
+          "lng": -74.00219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57470308029151,
+            "lng": -74.0008361197085
+          },
+          "southwest": {
+            "lat": 40.57200511970851,
+            "lng": -74.0035340802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/W 37 St",
+      "place_id": "ChIJlQs2vsNFwokR44w5Kj8Vf4k",
+      "plus_code": {
+        "compound_code": "HXFX+84 New York, NY, USA",
+        "global_code": "87G7HXFX+84"
+      },
+      "reference": "ChIJlQs2vsNFwokR44w5Kj8Vf4k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58093299999999,
+          "lng": -74.00254799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5823037802915,
+            "lng": -74.00120296970849
+          },
+          "southwest": {
+            "lat": 40.5796058197085,
+            "lng": -74.0039009302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bayview Av/W 36 St",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102705731168367164661\">Reaz Ahmed</a>"
+          ],
+          "photo_reference": "AU_ZVEFpafD66u6ak9-AkkLG2bDw2kZhcxXU5HdPLRKQFfDC0hFtJaAnD7taG9ys4SfhASyX_MK9TY7TnGKCW7uu9rvQXMf-2VWhwypUp3lqzcFMhP9Lijqr520cxGzJjVzvAj1PLoCckHSgXh9I5EF9G_H7_ePYMwbnq_5HR9kWaTecp2ckq4bZQyiwimfoiRDswMWRXC_ZBoNlB8vLvHJOgC4WMJi6vIs963SVYYNQh6El0vy1MQB0v4NLHb6HZBV6ZbU45usTujaQVZSolrPcMzqz66E8zUXvpCp5SE9TaB8ssQBCFuyhWM4_PeuxabdLkK8OE1xxTJ307EA8_puXvDzEP5lRfGq1yijD-Ghx9BliAPv9iK9qtMmCapBP2ErkNuLkzU2TitNpDp9pN54dt4OxlOiG-U2WNbzmu3PlusZd634_oAtYSsoHR2wzfhK5rrlXPXVEIgotuHDU4laPdncqiI_ibOOMGZ3aZ5tS2s9hUnYCyzqZUCEOhs_4zXvzydF-qvvQy3s5ueDeaVr6k_aj_L8GYSLMp2WCMqhXfiYerAjBqBsWE320xQq2_dNhvWzr2eL1sfbTekw54uPjOgMqdEJxVmvx7TNXIjPPi0GO5JaX3uGQirVOgWdm9WFO1c1EIg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJCRCkbL9FwokRwQOw8Oqopkg",
+      "plus_code": {
+        "compound_code": "HXJW+9X New York, NY, USA",
+        "global_code": "87G7HXJW+9X"
+      },
+      "rating": 5,
+      "reference": "ChIJCRCkbL9FwokRwQOw8Oqopkg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.577621,
+          "lng": -74.000275
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5789788302915,
+            "lng": -73.9988483697085
+          },
+          "southwest": {
+            "lat": 40.5762808697085,
+            "lng": -74.0015463302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Neptune Av",
+      "place_id": "ChIJjRYdMsdFwokRHYKBj3yGH4o",
+      "plus_code": {
+        "compound_code": "HXHX+2V New York, NY, USA",
+        "global_code": "87G7HXHX+2V"
+      },
+      "reference": "ChIJjRYdMsdFwokRHYKBj3yGH4o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573238,
+          "lng": -74.002022
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5746056802915,
+            "lng": -74.0006663197085
+          },
+          "southwest": {
+            "lat": 40.5719077197085,
+            "lng": -74.0033642802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/W 37 St",
+      "place_id": "ChIJDTyalcNFwokRvLp3VpAv5Yk",
+      "plus_code": {
+        "compound_code": "HXFX+75 New York, NY, USA",
+        "global_code": "87G7HXFX+75"
+      },
+      "rating": 4.5,
+      "reference": "ChIJDTyalcNFwokRvLp3VpAv5Yk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.577396,
+          "lng": -74.000153
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57874933029151,
+            "lng": -73.9987656197085
+          },
+          "southwest": {
+            "lat": 40.57605136970851,
+            "lng": -74.0014635802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Neptune Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113142997094133459447\">efren pinillo moran</a>"
+          ],
+          "photo_reference": "AU_ZVEHdsrUD_AcJ5Ng44jJkAkoADWtz6Z4UQcrtcRg2vbBII7cDhCRiMB1OjtKIyoOUGGOeBKPE07PlqgkayPIJ7SPViioF2fibvBh-waM7GM29EYEnGCW-zvpBWTpHnZW2TKPNMSAKGM7zGwewjQIia9wBHmPExYEKR1LIUPELYm5UQreAiqanRQSgEMNNzqm5pl2lSI4f5pnkBToMp2zHYfJdw_xKzRjcNOR5QRWGu4Gky3gZdg-yn6hGFz7R7NijhBictUpdpIQbN5O0hMVfuFm0KVM-JpHqbkPgZiCHAdCQCtmdnXcT2k-UaxQl5laRR_wTR6pJ1gL33GMSvD54wHbXuzIpLF_KLSbwrNKiFKOBm-hQQYdbq7vJwyHJegKD0KfYJ5DdJ6IoffkjaDW6fm5eysD1TBKS11r1oZDu4aBqaxm7rU0wL8dobPAUy_ZP2OLNw4b6DqzMvATZLugyCegkHgtxgEvVClDRq2l44ha4k1Zz0xBupAwkRzVqPiAPX8mf3IgZme1GLl2Qs4Wt-I-fHu5g5vCqQJNKDkpdjfW9egEhVU-I8QrkpjrNIpngKVBYX0h3G-zJvh1tJmwm5-a_bF3KczOxKz6mXGqcWEd8vFna43Rlx2YLocIquFf2Fl-G0g",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJdT-CLsdFwokRJC_8PG50geg",
+      "plus_code": {
+        "compound_code": "HXGX+XW New York, NY, USA",
+        "global_code": "87G7HXGX+XW"
+      },
+      "rating": 4.8,
+      "reference": "ChIJdT-CLsdFwokRJC_8PG50geg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57917399999999,
+          "lng": -74.000481
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5805263802915,
+            "lng": -73.9991016697085
+          },
+          "southwest": {
+            "lat": 40.5778284197085,
+            "lng": -74.0017996302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Bayview Ave",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103150593497365172411\">Rene Prince</a>"
+          ],
+          "photo_reference": "AU_ZVEEUXWY6xSiMivEw4JZ0oA38Ud2hmmnnr_ZxKQAjUpCJux8FMMHSUPeY0ai15BrBJDC-arC-0EqVfJKEA0kosWj7_88AMlyvgnzUkodWipc7IWNyTMC7dI4urh8dMiRwMurWhm4A24u28azU5qSwNM2ZIR4DRRjYh8HHZXBjphGfsFEBjmw_yBwVx3ZCPEAXW_6BDHh6exblByHvoehL5X1qDxFrOgTIUVSZvidZfpu3hB5myFESH3XzrMpNCwJQ5Y5afhmXwW_Vwo_F-rFORuA8_Le3ylxSgAwpA3oQi_X3ykp2nlN4GVWGKMFnBWJBEZPKf1ucg0sa1hL--bi-9v7_NLlko41IA9pPKveGDGkVOXj0oniecOK6GBKgcRrHbegoO_8vDl4bh8hr5sMv9UJb5Tt02tOu4Zaih9QlelR9ATA3jNfzXkpGXuv8DdPTBTB8FaWSy5kdJK6tGFZoA4HPqql4Zu5X8PDxiPpiyp1i9mYn4MZgW1yQecJg5k5BqrXfh___JPB-ecXbTFt9M82fZyjkKLSH9R5CbqBvhna2wGxwiyGLuZliDAPY2QUSV0_ZNcUpFT7P60HLUM_z_mdFxaGftQzqdCyYZy1_M34jLFP6OnzCPOqVfXRereuPLkm6smylcKzqnoPv_Wc_lw",
+          "width": 1848
+        }
+      ],
+      "place_id": "ChIJ84eDVMdFwokRv6D8L6z3L8A",
+      "plus_code": {
+        "compound_code": "HXHX+MR New York, NY, USA",
+        "global_code": "87G7HXHX+MR"
+      },
+      "rating": 5,
+      "reference": "ChIJ84eDVMdFwokRv6D8L6z3L8A",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.575092,
+          "lng": -73.999702
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5764438802915,
+            "lng": -73.9983260697085
+          },
+          "southwest": {
+            "lat": 40.57374591970851,
+            "lng": -74.0010240302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Mermaid Av",
+      "place_id": "ChIJaX4fu8ZFwokRTQNeZJCFk-4",
+      "plus_code": {
+        "compound_code": "H2G2+24 New York, NY, USA",
+        "global_code": "87G8H2G2+24"
+      },
+      "rating": 5,
+      "reference": "ChIJaX4fu8ZFwokRTQNeZJCFk-4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.580685,
+          "lng": -74.00076299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5820370302915,
+            "lng": -73.9993855697085
+          },
+          "southwest": {
+            "lat": 40.5793390697085,
+            "lng": -74.00208353029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Bayview Ave",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115034317907569632101\">Slava</a>"
+          ],
+          "photo_reference": "AU_ZVEH6Gm2dClmni1BVi-O4KCXbngqDE8UsWd3V_H0TjBVQnrwFM7t_uMPAYq2UGA9N8X7kGdRvBzUtpJFZNB4bvOESbxSLDAUMtNG5pPQGMmrx7VEEgKhVjQUhGIYCQVxlt6MdHIlQo5WvHJFSVC1jMQhvIdujGp5P3uOoN1R3C-ReWldIKycH5Krrw4i4EhKj1PlgL1QkVp8fdTHPoQrbUnsIWJXHxFpJXtqNZ_uqMMk4l6XbsBni6TxYbP-VgX7u-6KChziDi1wXTzAqSZPxV1FvTyrv4TeQiriNm3QYYyIgT6jXfscyFoQIfz4NqKdElverf9cN2iftxZKLFOzsDQVuZa4Oc1940Yfe_rmTVd2uQxsWyU40bvyX7I1CDZiE1v-DNxxvxAvmd_FzkjpXwnjOm2Zuy8h0XizBrrNhxjxhAMjGqS3842Lfd5xflLSBBkUGloSUPuy-63TVsELodXEdhoOlSrg4-q_oPBHxoHIdd1II43jE8Gvfj8b_Pr6x7oKfFEQl-kEeCiTaymKBLrgkpz6yv-qpUqhBaVS_vB_X87vAOEB9_Bpu0PrAG-Qr3nPn8GjKwb2g9mUjyM7XIkPLeM4sM1G7-5evV_HQpH1kIUkCwADlgVcVa9BJk3NT1wnHvgyx",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJXSeSSr9FwokRb4tSb_0KgNc",
+      "plus_code": {
+        "compound_code": "HXJX+7M New York, NY, USA",
+        "global_code": "87G7HXJX+7M"
+      },
+      "rating": 5,
+      "reference": "ChIJXSeSSr9FwokRb4tSb_0KgNc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.573116,
+          "lng": -74.000717
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57443778029149,
+            "lng": -73.99937316970849
+          },
+          "southwest": {
+            "lat": 40.5717398197085,
+            "lng": -74.0020711302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/W 35 St",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102925512637507990331\">yunluo@rocketmail.com</a>"
+          ],
+          "photo_reference": "AU_ZVEEVqd9bptIboZBSa-tva8Adv63VZJGyV5ee_M76Pn42v8XOEKCX3P2xoRskuHIFj33TbTgPATqdMX03ZeA3x93BR5VYjiV9VrjVXSlXPRpWG0LaOVyoFcchJjKTePmOhgZdtkbPJnydSouyqGCiULMWtb6E24ggRr16tWIiNcHvKwjHk7tCbbcDP1W3NHVkwCuAC7LRevIPfRZj-bmL7w7JQcnBZXEox3KaHmwOv-op7poxm81HQr82vviDDPVB_IOStmTYv7wCRQlGAwxR9RbPtS9G9Skpo9EtJU6OwXKOE_KjN01lqUnh4JTXYRUAoiMQs_uYYPIZoYIzfU3Ypx-9CdCqOkvi0OjaegA-E9p0CRDDSvMiPOPHS9DOn8SV4UQQPnInKduTvgUovJl4AYHGv-bPXBENuO3RkZv59VPa3xWbhwNLcKtdyJij6YTzhILMMQNagZcmH1xfT02ivsOoeT4sUXn5Q2ab85MbCg7B2dUxF9QNvVHRUV3hSgS5Shj-11XYe9TYFddOUUV45Fpw9qO1d_7CkdknOcPx_66p2PxmZBSBV2Bo802u6Wjuj_xH9-xfBZne4WLFi5oGHA3HRmUqGgEpxOF8G_3JIP-See2waNiPrs_vCYglXtmzoYfNOw",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJvyZEisNFwokRRerY6EkpXRs",
+      "plus_code": {
+        "compound_code": "HXFX+6P New York, NY, USA",
+        "global_code": "87G7HXFX+6P"
+      },
+      "reference": "ChIJvyZEisNFwokRRerY6EkpXRs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5751467,
+          "lng": -73.9989224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5764853302915,
+            "lng": -73.9975112697085
+          },
+          "southwest": {
+            "lat": 40.5737873697085,
+            "lng": -74.00020923029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mermaid Av/W 32 St",
+      "place_id": "ChIJITHxlsZFwokRBi7LxnoaQlU",
+      "plus_code": {
+        "compound_code": "H2G2+3C New York, NY, USA",
+        "global_code": "87G8H2G2+3C"
+      },
+      "rating": 5,
+      "reference": "ChIJITHxlsZFwokRBi7LxnoaQlU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572983,
+          "lng": -73.999619
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57430858029149,
+            "lng": -73.9982743697085
+          },
+          "southwest": {
+            "lat": 40.5716106197085,
+            "lng": -74.00097233029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/W 33 St",
+      "place_id": "ChIJIbZcbMRFwokRLB5YDn0gzoY",
+      "plus_code": {
+        "compound_code": "H2F2+55 New York, NY, USA",
+        "global_code": "87G8H2F2+55"
+      },
+      "reference": "ChIJIbZcbMRFwokRLB5YDn0gzoY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57302500000001,
+          "lng": -73.99932100000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57437738029149,
+            "lng": -73.9979393197085
+          },
+          "southwest": {
+            "lat": 40.5716794197085,
+            "lng": -74.0006372802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "W 33 St/Surf Av",
+      "photos": [
+        {
+          "height": 2160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100609398171025045848\">Andrew</a>"
+          ],
+          "photo_reference": "AU_ZVEHEDgDkYMkkjyEZ1ArlXGcTao0W_NxGGyVV10o44MGeAfZoYjj7fV2uiuy6MQvStVkjmmYFUTqxdFVN8q2xP0FtTN-Fx58bPPcD18hrUAbzzyKfPFNLOvLi1Qa5cXOUHFQJ-5FZxtstCOEAS2FR2LJzBEqWVTQaHOz2ZewTFuFRPE7bSqx9nLajO7qcifKvP1jX-ovqmQCjTcFwCywlzyM7K1uJhuU5KLK5ghod7cfuxGOlYcUtUgdUjBZH7A_Yll8MnYxpLw9DIvWGN80FE-GRYgyyYzH32pi3T_FmUy6YXqwSO7hRrraETRlIdIB8uTuJpDrKUjsMM7JZ1gqGeJyvIp01pMyo0etbrqMJMJb1D_Vwuk2PcSUx3dtaSdRlaQv-UA1LITCdDhih509IJCAutayluJeVR1w9xRcpRSOtEIaXIUvW5mDGjzxiCjVXwqWD-y6GAvUKOk2VH3aoRMDV1m2nPjaQ3lc53lYoQSX06NyVhcR5SfHyEpd_cJSAUrtXKx6WMkKEgRyVsi2NiODLF2Q31Q9PCfOZNUaYmEgM0-gJkXmUcL-aFtGsZPesJBY1KcXDoVRl7WcoSt7jD4ZVqwFcdo0a0hgBRaqjr1NYIYNar67UmEq34RFsm0UG0me-84Eb",
+          "width": 3840
+        }
+      ],
+      "place_id": "ChIJe-7vasRFwokRMzI0BFfEeDI",
+      "plus_code": {
+        "compound_code": "H2F2+67 New York, NY, USA",
+        "global_code": "87G8H2F2+67"
+      },
+      "rating": 4.5,
+      "reference": "ChIJe-7vasRFwokRMzI0BFfEeDI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57291,
+          "lng": -73.99855
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57422618029151,
+            "lng": -73.9972036697085
+          },
+          "southwest": {
+            "lat": 40.57152821970851,
+            "lng": -73.9999016302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/W 32 St",
+      "place_id": "ChIJwdnFR8RFwokRcw1MIbsnmMs",
+      "plus_code": {
+        "compound_code": "H2F2+5H New York, NY, USA",
+        "global_code": "87G8H2F2+5H"
+      },
+      "rating": 3,
+      "reference": "ChIJwdnFR8RFwokRcw1MIbsnmMs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.575191,
+          "lng": -73.997124
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57655423029151,
+            "lng": -73.9957779197085
+          },
+          "southwest": {
+            "lat": 40.57385626970851,
+            "lng": -73.99847588029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mermaid Av/W 31 St",
+      "place_id": "ChIJwe2hZ8ZFwokRdZridhPS1q4",
+      "plus_code": {
+        "compound_code": "H2G3+35 New York, NY, USA",
+        "global_code": "87G8H2G3+35"
+      },
+      "reference": "ChIJwe2hZ8ZFwokRdZridhPS1q4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.57275800000001,
+          "lng": -73.99805049999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.57410873029151,
+            "lng": -73.99669581970849
+          },
+          "southwest": {
+            "lat": 40.57141076970851,
+            "lng": -73.9993937802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/w 32 St",
+      "place_id": "ChIJN7PVS8RFwokRN662WsIFBAo",
+      "plus_code": {
+        "compound_code": "H2F2+4Q New York, NY, USA",
+        "global_code": "87G8H2F2+4Q"
+      },
+      "reference": "ChIJN7PVS8RFwokRN662WsIFBAo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.575356,
+          "lng": -73.996841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5767203802915,
+            "lng": -73.9954948697085
+          },
+          "southwest": {
+            "lat": 40.57402241970851,
+            "lng": -73.9981928302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Mermaid Av/W 30 St",
+      "place_id": "ChIJ9TPkQsZFwokRNkaJRb1cx84",
+      "plus_code": {
+        "compound_code": "H2G3+47 New York, NY, USA",
+        "global_code": "87G8H2G3+47"
+      },
+      "reference": "ChIJ9TPkQsZFwokRNkaJRb1cx84",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.572636,
+          "lng": -73.99767299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5740178302915,
+            "lng": -73.9963235697085
+          },
+          "southwest": {
+            "lat": 40.5713198697085,
+            "lng": -73.9990215302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Surf Av/W 32 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117372194755102609516\">Ivan</a>"
+          ],
+          "photo_reference": "AU_ZVEFnaRDDGMYceIh-Nen01s3g1UoK-qQwMl57VS8qyxS1QsyqF0SsZ-gP0JJnrAMnp5KHW3xTf66x8jiyipMY2thcfacvA-OLGIXHpkuaB8YECU-d0bz_Qq0Uh46MtT_zeIHQmOM7x1OOz5f5B9vbtY0cFXQQwGSDRWehxcxapA6yUVMWFQ8PTKPrL-6fGrA0_BsdC_46SqF40lKUWcLPjV0uKHolHISilsEmeryoFeOuIQVLeMkhnCd9DAMbNYlaNZyPwHTzuR_xPaIWEEy29PzMLJm9XmguDXejeQl3glQeuzBdi7bX5GOxBjRP8Q3CM66LUOYaw1rAc__tTfa5PP9bL4EqoZHME-_X9aNi4zNjGn_t1EEcG4IsAF91eMKOkkgEpHDtlRS-R5Zf0ZMm_pr1yMSpAyWgJ8D9_hx1VepSBf_1Mm_kEkrJOdqXPmqkNNacyO06Lrh35xX4SO94G2EJqLexMxhLJqH6gFkC5EHVPuEKrFrW3iEUbHbxccqW6w4P9AkIMyYFrMxcFYHzoZJXCnZnpVIdE6DF4R2JBRhWGk3-ew6WERRnGtRMKmwOzUqpL5XNUoXeUoQL2AAXwOKQo7uyseF_J5sHse0PRZ-4psq9JJuUGQE2FDW1tL8PjN7wW2bU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJaSHAtMVFwokRs5OG82b0Za4",
+      "plus_code": {
+        "compound_code": "H2F2+3W New York, NY, USA",
+        "global_code": "87G8H2F2+3W"
+      },
+      "rating": 5,
+      "reference": "ChIJaSHAtMVFwokRs5OG82b0Za4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    }
+  ]
+}

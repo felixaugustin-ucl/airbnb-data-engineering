@@ -1,63 +1,61 @@
 """
 agent.py
 --------
-LangChain + Ollama agent that answers natural-language questions about the
-NYC Airbnb Hospitality Lakehouse by orchestrating the four MCP tools in
-mcp_server/server.py.
+Multi-agent LangGraph pipeline for the NYC Airbnb Hospitality Lakehouse.
 
-Framework: LangGraph ReAct agent (langgraph.prebuilt.create_react_agent)
-LLM:       Ollama (local, no API key required) — default model: llama3.2
-           Override: set OLLAMA_MODEL env variable (e.g. llama3.1, qwen2.5)
-           Requires: ollama pull llama3.2  (or your chosen model)
+Architecture — Planner → Executor(s) → Synthesizer:
 
-MCP tools (loaded automatically from server.py at startup):
-  query_warehouse          — SELECT queries against PostgreSQL star schema
-  query_geodata            — MongoDB geospatial / document queries
-  search_reviews           — semantic search over 56k guest reviews (ChromaDB)
-  get_neighbourhood_context — semantic search over Wikipedia paragraphs (ChromaDB)
+  1. Planner Node
+       ChatOllama(format="json") classifies the question into a routing plan.
+       Structured output eliminates the free-text JSON tool-call problem that
+       affects single-agent ReAct with small models (llama3.2).
 
-Transparency:
-  Every reasoning step, tool call, tool input, and tool output is printed to
-  stdout as it occurs. This makes the agent's decision trace fully auditable
-  without reading framework internals.
+  2. Executor Nodes  (each handles exactly one tool)
+       Warehouse  — generates SQL and calls query_warehouse (PostgreSQL)
+       Geo        — generates MongoDB filter and calls query_geodata
+       Semantic   — calls search_reviews + get_neighbourhood_context (ChromaDB)
 
-  Output format per step:
-    [STEP N] <message type>
-    Tool call:   <tool_name>(<args>)
-    Tool result: <truncated result>
-    Final:       <answer text>
+  3. Synthesizer Node
+       Composes a plain-language answer from all accumulated tool results.
+
+Routes:
+  warehouse → Warehouse  → Synthesizer
+  geodata   → Geo        → Synthesizer
+  semantic  → Semantic   → Synthesizer
+  multi     → Warehouse  → Semantic → Synthesizer
+
+Rationale:
+  The single-agent ReAct loop (feature/mcp) required llama3.2 to simultaneously
+  choose between 4 tools, generate complex parameters, and write a final answer.
+  Separating these into dedicated nodes with narrow responsibilities improves
+  reliability significantly — each node solves an easier sub-problem.
+  See project/versions.txt for benchmark notes.
+
+  Pattern reference: LangGraph supervisor / planner-executor architecture.
+  ReAct paper (Yao et al., 2022) informs the thought–act–observe loop at the
+  node level; the supervisor pattern extends this to multi-agent coordination.
+
+LLM: Ollama (local, no API key) — default: llama3.2
+     Override: OLLAMA_MODEL env variable (e.g. qwen2.5, llama3.3)
 
 Usage:
-  # Interactive REPL
-  python3 agent/agent.py
-
-  # Single question
-  python3 agent/agent.py -q "Which borough has the most Airbnb listings?"
-
-  # Use a different Ollama model
-  OLLAMA_MODEL=qwen2.5 python3 agent/agent.py -q "..."
-
-Environment variables (from .env):
-  OLLAMA_MODEL   — Ollama model name (default: llama3.1)
-  OLLAMA_HOST    — Ollama server URL (default: http://localhost:11434)
-  All store credentials for server.py (POSTGRES_*, MONGO_*, CHROMA_PATH)
-
-Version justification:
-  See project/versions.txt — documents dry-run conflict testing, import
-  compatibility tests, and the AgentExecutor→create_react_agent migration
-  finding that determined the final pinned versions.
+  python3 agent/agent.py            # interactive REPL
+  python3 agent/agent.py -q "..."   # single question
 """
 
 import argparse
 import asyncio
 import json
+import logging
+import operator
 import os
+import re
 import sys
 import threading
 import time
+from functools import partial
 from pathlib import Path
-
-import logging
+from typing import Annotated, TypedDict
 
 from dotenv import load_dotenv
 from rich.console import Console
@@ -66,9 +64,9 @@ from rich.text import Text
 from rich import box
 
 console = Console(highlight=False)
-log = logging.getLogger(__name__)
+log     = logging.getLogger(__name__)
 
-# ── Paths ──────────────────────────────────────────────────────────────────────
+# ── Paths ───────────────────────────────────────────────────────────────────────
 
 AGENT_DIR   = Path(__file__).resolve().parent
 PROJECT_DIR = AGENT_DIR.parent
@@ -77,7 +75,7 @@ SERVER_PATH = PROJECT_DIR / "mcp_server" / "server.py"
 
 load_dotenv(REPO_ROOT / ".env")
 
-# ── Schema introspection ───────────────────────────────────────────────────────
+# ── Live schema introspection ───────────────────────────────────────────────────
 
 _WAREHOUSE_TABLES = [
     "dim_neighbourhood", "dim_listing", "dim_host", "dim_date",
@@ -87,11 +85,9 @@ _WAREHOUSE_TABLES = [
 
 def _fetch_pg_schema() -> str:
     """
-    Query information_schema at startup to get the live column list for every
-    warehouse table. Returns a formatted string ready for the system prompt.
-
-    Falls back to an empty string if the database is unreachable — the agent
-    can still run; it just won't have schema context.
+    Query information_schema at startup to get live column names for every
+    warehouse table. Used to build the SQL-generation prompt in warehouse_node.
+    Falls back gracefully if the database is unreachable.
     """
     try:
         from sqlalchemy import create_engine, text
@@ -104,9 +100,9 @@ def _fetch_pg_schema() -> str:
         pw   = os.getenv("POSTGRES_PASSWORD", "postgres")
         url  = f"postgresql+psycopg2://{user}:{pw}@{host}:{port}/{db}"
 
-        engine = create_engine(url, pool_pre_ping=True)
+        engine     = create_engine(url, pool_pre_ping=True)
         table_list = ", ".join(f"'{t}'" for t in _WAREHOUSE_TABLES)
-        sql = text(f"""
+        sql        = text(f"""
             SELECT table_name, column_name
             FROM information_schema.columns
             WHERE table_schema = 'public'
@@ -124,77 +120,50 @@ def _fetch_pg_schema() -> str:
         return "\n".join(lines)
 
     except Exception as exc:
-        log.warning(f"Could not fetch live schema from PostgreSQL: {exc}")
+        log.warning(f"Could not fetch live schema: {exc}")
         return "   (schema unavailable — database unreachable at startup)"
 
 
-# ── System prompt ──────────────────────────────────────────────────────────────
-
-_SYSTEM_PROMPT_TEMPLATE = """You are a data analyst with access to the NYC Airbnb Hospitality Lakehouse.
-You have four tools to answer questions:
-
-1. query_warehouse — SQL SELECT against PostgreSQL. Live schema (columns fetched from the database):
-
-{schema}
-
-   IMPORTANT rules:
-   - Use ONLY the column names listed above. Never invent columns.
-   - dim_listing has NO borough or neighbourhood name columns — only neighbourhood_id.
-     To get borough or neighbourhood name: JOIN dim_listing ON neighbourhood_id to dim_neighbourhood.
-   - Example: SELECT n.borough, COUNT(*) FROM dim_listing l JOIN dim_neighbourhood n ON l.neighbourhood_id = n.neighbourhood_id GROUP BY n.borough
-   - If a query returns an error, call the tool again with corrected SQL. NEVER write tool calls as JSON in your text response — always use the actual tool call mechanism.
-
-2. query_geodata — MongoDB. Collections: neighbourhoods, places (POIs).
-
-3. search_reviews — Semantic search over 56,132 guest reviews.
-
-4. get_neighbourhood_context — Semantic search over 598 Wikipedia paragraphs.
-
-Tool selection rules (follow strictly):
-- "What restaurants/bars/hotels/places are near X?" → query_geodata on collection "places" with filter {{"neighbourhood": "X", "types": "restaurant"}}
-- "What do guests say / reviews mention" → search_reviews
-- Counts, averages, rankings, occupancy, scores → query_warehouse
-- Neighbourhood history, character, demographics → get_neighbourhood_context
-- Noise levels → query_warehouse on noise_borough_month
-- "Closest to subway/transit" → query_warehouse: SELECT n.neighbourhood, n.poi_transit_station FROM dim_neighbourhood n ORDER BY n.poi_transit_station DESC LIMIT 10
-- Multi-part questions: use multiple tools in sequence
-
-CRITICAL: You MUST invoke tools using the function-call interface — never write {{"name": "tool_name", "parameters": {{...}}}} as plain text. Plain-text JSON will NOT execute and will produce no answer. Call the tool directly.
-
-Always explain findings in plain language with specific numbers. Be concise."""
-
-
 # ══════════════════════════════════════════════════════════════════════════════
-# DISPLAY — spinner, tool call formatting, result tables
+# DISPLAY — spinner, tool headers, result tables
 # ══════════════════════════════════════════════════════════════════════════════
 
-# Human-readable tool labels
 _TOOL_LABEL = {
-    "query_warehouse":          "Query Warehouse",
-    "query_geodata":            "Query Geodata",
-    "search_reviews":           "Search Reviews",
-    "get_neighbourhood_context": "Get Neighbourhood Context",
+    "query_warehouse":            "Query Warehouse",
+    "query_geodata":              "Query Geodata",
+    "search_reviews":             "Search Reviews",
+    "get_neighbourhood_context":  "Get Neighbourhood Context",
 }
 
-# Spinner state
-_spinner_stop  = threading.Event()
+# Place types actually stored in MongoDB places collection.
+# Derived from Google Places API types returned for NYC POIs — used for
+# routing correction so the signal is data-driven, not hand-picked keywords.
+_GEO_PLACE_TYPES = frozenset({
+    "restaurant", "bar", "lodging", "tourist_attraction", "transit_station",
+    "cafe", "food", "night_club", "park", "museum", "bakery",
+    "subway_station", "meal_takeaway", "meal_delivery", "bowling_alley",
+})
+
+_spinner_stop    = threading.Event()
 _spinner_thread: threading.Thread | None = None
+_spinner_message = "Thinking..."
 
 
 def _spinner_loop():
     frames = ["⠋", "⠙", "⠹", "⠸", "⠼", "⠴", "⠦", "⠧", "⠇", "⠏"]
     i = 0
     while not _spinner_stop.is_set():
-        sys.stdout.write(f"\r\033[32m{frames[i % len(frames)]} Thinking...\033[0m")
+        sys.stdout.write(f"\r\033[32m{frames[i % len(frames)]} {_spinner_message}\033[0m")
         sys.stdout.flush()
         i += 1
         time.sleep(0.09)
-    sys.stdout.write("\r\033[K")   # clear line
+    sys.stdout.write("\r\033[K")
     sys.stdout.flush()
 
 
-def _start_spinner():
-    global _spinner_thread
+def _start_spinner(message: str = "Thinking..."):
+    global _spinner_thread, _spinner_message
+    _spinner_message = message
     _spinner_stop.clear()
     _spinner_thread = threading.Thread(target=_spinner_loop, daemon=True)
     _spinner_thread.start()
@@ -207,29 +176,40 @@ def _stop_spinner():
 
 
 def _print_tool_call(tool_name: str, args: dict):
+    """Print a tool invocation header with the query in violet."""
     label = _TOOL_LABEL.get(tool_name, tool_name)
     console.print(f"\n[bold]→ {label}[/bold]")
     if tool_name == "query_warehouse" and "sql" in args:
-        console.print(Text(args["sql"], style="color(93)"))   # violet
+        console.print(Text(args["sql"], style="color(93)"))
     elif tool_name == "query_geodata":
-        filt = args.get("filter", {})
-        console.print(Text(json.dumps(filt, ensure_ascii=False), style="color(93)"))
+        console.print(Text(json.dumps(args.get("filter", {}), ensure_ascii=False), style="color(93)"))
     elif tool_name in ("search_reviews", "get_neighbourhood_context"):
         console.print(Text(args.get("query", ""), style="color(93)"))
 
 
-def _print_tool_result(tool_name: str, raw: str):
-    """Render tool results as clean tables where possible."""
-    # raw is a list of content blocks from MCP: [{"type":"text","text":"..."}]
+def _extract_result_data(raw: str) -> tuple[dict | None, str]:
+    """
+    Parse the raw tool result string into a Python dict.
+    MCP tools return either a JSON string or a list of content blocks.
+    Returns (parsed_dict, raw_str) — parsed_dict is None on failure.
+    """
     try:
         blocks = json.loads(raw) if isinstance(raw, str) else raw
         if isinstance(blocks, list) and blocks and "text" in blocks[0]:
             data_str = blocks[0]["text"]
         else:
-            data_str = raw
-        data = json.loads(data_str)
+            data_str = raw if isinstance(raw, str) else json.dumps(raw)
+        return json.loads(data_str), data_str
     except Exception:
-        console.print(f"  [dim]{str(raw)[:300]}[/dim]")
+        return None, str(raw)
+
+
+def _print_tool_result(tool_name: str, raw: str):
+    """Render a tool result as a rich table where possible."""
+    data, data_str = _extract_result_data(raw)
+
+    if data is None:
+        console.print(f"  [dim]{data_str[:300]}[/dim]")
         return
 
     if "error" in data:
@@ -254,16 +234,31 @@ def _print_tool_result(tool_name: str, raw: str):
             console.print("  [dim](no documents found)[/dim]")
             return
         table = Table(box=box.SIMPLE, show_header=True, header_style="bold cyan")
-        for col in ["name", "rating", "vicinity", "neighbourhood"]:
-            table.add_column(col)
-        for doc in docs[:10]:
-            types = doc.get("types", [])
-            table.add_row(
-                str(doc.get("name", "")),
-                str(doc.get("rating", "")),
-                str(doc.get("vicinity", ""))[:50],
-                str(doc.get("neighbourhood", "")),
-            )
+        # Aggregation results have dynamic computed keys; find mode has known fields.
+        # Detect by checking whether standard place fields are present.
+        is_aggregation = "name" not in docs[0] and "_id" in docs[0]
+        if is_aggregation:
+            # Rename _id → group_by for readability, show all computed fields
+            cols = list(docs[0].keys())
+            display_cols = ["group_by" if c == "_id" else c for c in cols]
+            for c in display_cols:
+                table.add_column(str(c))
+            for doc in docs[:20]:
+                row = []
+                for c in cols:
+                    v = doc.get(c, "")
+                    row.append(f"{v:.2f}" if isinstance(v, float) else str(v))
+                table.add_row(*row)
+        else:
+            for col in ["name", "rating", "vicinity", "neighbourhood"]:
+                table.add_column(col)
+            for doc in docs[:10]:
+                table.add_row(
+                    str(doc.get("name", "")),
+                    str(doc.get("rating", "")),
+                    str(doc.get("vicinity", ""))[:50],
+                    str(doc.get("neighbourhood", "")),
+                )
         console.print(table)
 
     elif tool_name == "search_reviews" and "results" in data:
@@ -272,9 +267,9 @@ def _print_tool_result(tool_name: str, raw: str):
             console.print("  [dim](no reviews found)[/dim]")
             return
         table = Table(box=box.SIMPLE, show_header=True, header_style="bold cyan")
-        table.add_column("Review", max_width=70)
+        table.add_column("Review",        max_width=70)
         table.add_column("Neighbourhood", max_width=20)
-        table.add_column("Date", max_width=12)
+        table.add_column("Date",          max_width=12)
         for r in results[:5]:
             table.add_row(
                 r.get("document", "")[:120],
@@ -289,7 +284,7 @@ def _print_tool_result(tool_name: str, raw: str):
             console.print("  [dim](no context found)[/dim]")
             return
         table = Table(box=box.SIMPLE, show_header=True, header_style="bold cyan")
-        table.add_column("Paragraph", max_width=80)
+        table.add_column("Paragraph",     max_width=80)
         table.add_column("Neighbourhood", max_width=20)
         for r in results[:3]:
             table.add_row(
@@ -302,198 +297,607 @@ def _print_tool_result(tool_name: str, raw: str):
         console.print(f"  [dim]{data_str[:400]}[/dim]")
 
 
-def print_step(step_num: int, chunk: dict):
+def _summarise_for_synthesizer(tool_name: str, raw: str) -> str:
     """
-    Print one LangGraph stream chunk — stops spinner first, prints, restarts spinner.
+    Extract a concise, text-readable summary of a tool result for the
+    synthesizer prompt. Full rows/docs for warehouse/geo; document text for
+    semantic results.
     """
-    from langchain_core.messages import AIMessage, ToolMessage
-
-    for node, node_update in chunk.items():
-        if node == "__end__":
-            continue
-        if isinstance(node_update, dict) and "messages" in node_update:
-            msgs = node_update["messages"]
-        elif isinstance(node_update, list):
-            msgs = node_update
-        else:
-            msgs = [node_update]
-
-        for msg in msgs:
-            if isinstance(msg, AIMessage) and msg.tool_calls:
-                _stop_spinner()
-                for tc in msg.tool_calls:
-                    _print_tool_call(tc["name"], tc["args"])
-                _start_spinner()   # tool is running — show progress again
-            elif isinstance(msg, ToolMessage):
-                _stop_spinner()
-                _print_tool_result(msg.name, msg.content)
-                _start_spinner()   # model is processing result
+    data, data_str = _extract_result_data(raw)
+    if data is None:
+        return data_str[:600]
+    if "error" in data:
+        return f"Error: {data['error']}"
+    if tool_name == "query_warehouse" and "rows" in data:
+        return json.dumps(data["rows"][:15], indent=2)
+    if tool_name == "query_geodata" and "documents" in data:
+        return json.dumps(
+            [{k: v for k, v in d.items() if k not in ("geometry", "centroid")}
+             for d in data["documents"][:8]],
+            indent=2,
+        )
+    if tool_name in ("search_reviews", "get_neighbourhood_context") and "results" in data:
+        return "\n\n".join(r.get("document", "")[:300] for r in data["results"][:5])
+    return data_str[:600]
 
 
 # ══════════════════════════════════════════════════════════════════════════════
-# AGENT
+# LANGGRAPH STATE
+# ══════════════════════════════════════════════════════════════════════════════
+
+class LakehouseState(TypedDict):
+    question:     str
+    route:        str
+    intents:      dict
+    # Annotated with operator.add so each node appends to the list rather than
+    # replacing it — results from Warehouse + Semantic both land in tool_results.
+    tool_results: Annotated[list, operator.add]
+    answer:       str
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# NODE 1 — Planner
+# ══════════════════════════════════════════════════════════════════════════════
+
+async def planner_node(state: LakehouseState, llm) -> dict:
+    """
+    Classifies the question into a routing plan using structured JSON output
+    (ChatOllama format='json'). Constrained generation prevents the free-text
+    JSON problem that affected the single-agent ReAct architecture.
+
+    Returns: route + per-store intent descriptions consumed by executor nodes.
+    """
+    prompt = (
+        "You are a routing agent for the NYC Airbnb data warehouse.\n"
+        "Classify the question below and output ONLY valid JSON — no other text.\n\n"
+        f"Question: {state['question']}\n\n"
+        "DATA SOURCES:\n"
+        "  warehouse  — SQL database: Airbnb listing counts, occupancy rates, review\n"
+        "               scores, host stats, noise complaints, seasonal trends\n"
+        "  geodata    — MongoDB: places with types=['restaurant','bar','lodging',\n"
+        "               'tourist_attraction','transit_station','cafe','park','museum',...]\n"
+        "               Fields: name, rating (1-5), user_ratings_total, neighbourhood, borough\n"
+        "  semantic   — Vector search: guest review text, Wikipedia neighbourhood descriptions\n\n"
+        "ROUTING EXAMPLES (follow these exactly):\n"
+        '  "best rated restaurants by borough"          → {"route": "geodata", "geo_intent": "average restaurant rating per borough"}\n'
+        '  "top bars in Brooklyn"                       → {"route": "geodata", "geo_intent": "bars in Brooklyn sorted by rating"}\n'
+        '  "which borough has most listings"            → {"route": "warehouse", "warehouse_intent": "listing count by borough"}\n'
+        '  "what do guests say about noise"             → {"route": "semantic", "semantic_intent": "noise complaints in reviews"}\n'
+        '  "restaurant quality and occupancy by borough"→ {"route": "geodata+warehouse", "geo_intent": "avg restaurant rating per borough", "warehouse_intent": "avg occupancy per borough"}\n'
+        '  "listing stats and guest impressions"        → {"route": "warehouse+semantic", "warehouse_intent": "listing stats", "semantic_intent": "guest experience"}\n\n'
+        'Output this JSON structure:\n'
+        '{"route": "warehouse|geodata|semantic|geodata+warehouse|warehouse+semantic",\n'
+        ' "warehouse_intent": "SQL task description or null",\n'
+        ' "geo_intent": "place/location query description or null",\n'
+        ' "semantic_intent": "review/context search description or null"}'
+    )
+
+    _start_spinner("Planning...")
+
+    response = await llm.ainvoke(prompt)
+    _stop_spinner()
+
+    _VALID_ROUTES = ("warehouse", "geodata", "semantic", "geodata+warehouse", "warehouse+semantic")
+    try:
+        plan  = json.loads(response.content)
+        route = plan.get("route", "warehouse")
+        if route not in _VALID_ROUTES:
+            route = "warehouse"
+    except Exception:
+        plan  = {}
+        route = "warehouse"
+
+    # Routing correction — data-driven safety net.
+    # Uses _GEO_PLACE_TYPES (derived from actual MongoDB types field values)
+    # rather than hand-picked keywords, so it covers the full category set.
+    # Also catches generic place phrases ("places near", "best rated venues").
+    q = state["question"].lower()
+    _WAREHOUSE_SIGNALS = frozenset({
+        "occupancy", "listing", "price", "host", "review score",
+        "noise", "complaint", "season", "how many", "average rating",
+    })
+    _GEO_PHRASES = ("places near", "near me", "best rated", "top rated",
+                    "highest rated", "where to eat", "where to drink",
+                    "venues in", "spots in")
+
+    has_geo = (
+        any(pt in q for pt in _GEO_PLACE_TYPES)
+        or any(ph in q for ph in _GEO_PHRASES)
+    )
+    has_warehouse = any(sig in q for sig in _WAREHOUSE_SIGNALS)
+
+    if has_geo and not has_warehouse and route not in ("geodata", "geodata+warehouse"):
+        route = "geodata"
+        if not plan.get("geo_intent"):
+            plan["geo_intent"] = state["question"]
+    elif has_geo and has_warehouse and route not in ("geodata+warehouse",):
+        route = "geodata+warehouse"
+        if not plan.get("geo_intent"):
+            plan["geo_intent"] = state["question"]
+
+    route_display = {
+        "warehouse":          "warehouse",
+        "geodata":            "geodata",
+        "semantic":           "semantic",
+        "geodata+warehouse":  "geodata + warehouse",
+        "warehouse+semantic": "warehouse + semantic",
+    }.get(route, route)
+    console.print(f"\n[dim]Route →[/dim] [bold green]{route_display}[/bold green]")
+    _start_spinner()
+    return {"route": route, "intents": plan, "tool_results": []}
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# NODE 2 — Warehouse executor
+# ══════════════════════════════════════════════════════════════════════════════
+
+async def warehouse_node(state: LakehouseState, llm, tool, schema: str) -> dict:
+    """
+    Generates a SQL SELECT query from the warehouse intent and executes it
+    via the query_warehouse MCP tool. Retries once on SQL error with the
+    error message included in the prompt.
+
+    Separation from the planner means the LLM only needs to solve SQL
+    generation — it already knows which tool to use.
+    """
+    intent = (state["intents"].get("warehouse_intent") or state["question"]).strip()
+
+    sql_prompt = (
+        "Write a single complete SQL SELECT query for PostgreSQL.\n\n"
+        f"Task: {intent}\n\n"
+        "Schema (live columns — use ONLY these):\n"
+        f"{schema}\n\n"
+        "STRICT RULES — violating any of these causes an error:\n"
+        "  1. Every alias (l, n, h, d) MUST be defined in a FROM or JOIN clause\n"
+        "     before it is used. Never reference an alias that has no FROM/JOIN.\n"
+        "  2. dim_listing has NO borough/neighbourhood name — only neighbourhood_id.\n"
+        "     Always JOIN dim_neighbourhood n ON l.neighbourhood_id = n.neighbourhood_id\n"
+        "     to get n.borough or n.neighbourhood.\n"
+        "  3. Use only columns that appear in the schema above. Never invent columns.\n"
+        "  4. Structure: SELECT ... FROM <table> [alias] [JOIN ...] [WHERE ...] "
+        "[GROUP BY ...] [ORDER BY ...] [LIMIT N]\n\n"
+        "Correct example:\n"
+        "  SELECT n.borough, COUNT(*) AS listings,\n"
+        "         AVG(l.estimated_occupancy_l365d) AS avg_occupancy\n"
+        "  FROM dim_listing l\n"
+        "  JOIN dim_neighbourhood n ON l.neighbourhood_id = n.neighbourhood_id\n"
+        "  GROUP BY n.borough ORDER BY listings DESC\n\n"
+        "Return ONLY the SQL query — no markdown fences, no explanation."
+    )
+
+    _stop_spinner()
+    response = await llm.ainvoke(sql_prompt)
+    sql = response.content.strip().strip("```sql").strip("```").strip()
+
+    _print_tool_call("query_warehouse", {"sql": sql})
+    _start_spinner("Querying Warehouse...")
+
+    result = await tool.ainvoke({"sql": sql})
+    _stop_spinner()
+
+    # Retry once if the SQL produced an error
+    data, _ = _extract_result_data(result)
+    if data and "error" in data:
+        console.print(f"  [yellow]SQL error — retrying:[/yellow] {data['error'][:120]}")
+        retry_prompt = (
+            sql_prompt
+            + f"\n\nPrevious attempt failed with: {data['error']}\n"
+            "Fix the SQL and return only the corrected query."
+        )
+        _start_spinner("Querying Warehouse...")
+        response2 = await llm.ainvoke(retry_prompt)
+        sql = response2.content.strip().strip("```sql").strip("```").strip()
+        _stop_spinner()
+        _print_tool_call("query_warehouse", {"sql": sql})
+        _start_spinner("Querying Warehouse...")
+        result = await tool.ainvoke({"sql": sql})
+        _stop_spinner()
+
+    _print_tool_result("query_warehouse", result)
+    _start_spinner()
+
+    return {"tool_results": [{"tool": "query_warehouse", "query": sql, "result": result}]}
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# NODE 3 — Geo executor
+# ══════════════════════════════════════════════════════════════════════════════
+
+async def geo_node(state: LakehouseState, llm, tool) -> dict:
+    """
+    Generates a MongoDB filter from the geo intent and executes query_geodata.
+    The LLM outputs JSON which is parsed and sanitised before the tool call —
+    this isolates parameter-generation errors from execution errors.
+    """
+    intent = (state["intents"].get("geo_intent") or state["question"]).strip()
+
+    # Detect whether the intent requires aggregation (grouping/averaging across
+    # documents) or a simple document lookup.
+    _AGG_KEYWORDS = ("average", "avg", "best rated", "top rated", "highest rating",
+                     "by borough", "per borough", "by neighbourhood", "group",
+                     "count by", "ranking", "compare")
+    needs_aggregation = any(kw in intent.lower() for kw in _AGG_KEYWORDS)
+
+    # Build the types string for the prompt from the canonical set
+    types_list = ", ".join(sorted(_GEO_PLACE_TYPES - {"food", "establishment", "point_of_interest"}))
+
+    if needs_aggregation:
+        geo_prompt = (
+            "Generate a MongoDB aggregation pipeline for the 'places' collection.\n\n"
+            f"Task: {intent}\n\n"
+            "IMPORTANT — document structure:\n"
+            f"  types  : ARRAY of strings, e.g. ['restaurant','food','point_of_interest']\n"
+            f"           Known values: {types_list}\n"
+            "  rating : float (1.0-5.0), may be missing — always filter with $exists\n"
+            "  borough: string — 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
+            "  neighbourhood: string\n\n"
+            "IMPORTANT — MongoDB array matching:\n"
+            "  To match documents where types array contains 'restaurant':\n"
+            '  {"$match": {"types": "restaurant"}}  ← MongoDB checks if array contains value\n\n'
+            "Output ONLY valid JSON:\n"
+            '{"pipeline": [stage1, stage2, ...]}\n\n'
+            "Example — average restaurant rating per borough:\n"
+            '{"pipeline": [\n'
+            '  {"$match": {"types": "restaurant", "rating": {"$exists": true, "$gt": 0}}},\n'
+            '  {"$group": {"_id": "$borough",\n'
+            '              "avg_rating": {"$avg": "$rating"},\n'
+            '              "place_count": {"$sum": 1}}},\n'
+            '  {"$sort": {"avg_rating": -1}}\n'
+            "]}\n\n"
+            "Rules: $match first, then $group (use _id for the group-by field with $ prefix),\n"
+            "then $sort. Use $avg/$sum/$max operators inside $group."
+        )
+    else:
+        geo_prompt = (
+            "Generate a MongoDB find query for the 'places' collection.\n\n"
+            f"Task: {intent}\n\n"
+            "IMPORTANT — document structure:\n"
+            f"  types  : ARRAY of strings, e.g. ['restaurant','food','point_of_interest']\n"
+            f"           Known values: {types_list}\n"
+            "  rating : float (1.0-5.0)\n"
+            "  borough: string — 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
+            "  neighbourhood: string, name, vicinity, price_level (0-4)\n\n"
+            "To filter by type: {\"types\": \"restaurant\"} matches any doc where the array\n"
+            "contains 'restaurant'.\n\n"
+            "Output ONLY valid JSON:\n"
+            '{"filter": {"types": "restaurant", "neighbourhood": "..."}, '
+            '"limit": 10, "sort": [["rating", -1]]}\n\n'
+            "Only include filter fields relevant to the task."
+        )
+
+    _stop_spinner()
+    response = await llm.ainvoke(geo_prompt)
+    _start_spinner()
+
+    params: dict = {"collection": "places"}
+
+    try:
+        text   = re.sub(r"```json\s*|\s*```", "", response.content).strip()
+        parsed = json.loads(text)
+
+        if needs_aggregation and "pipeline" in parsed:
+            params["pipeline"] = parsed["pipeline"]
+        else:
+            # Find mode — sanitise filter/sort/limit
+            params["filter"] = parsed.get("filter", {})
+            params["limit"]  = min(int(parsed.get("limit", 10)), 50)
+            raw_sort = parsed.get("sort")
+            if raw_sort:
+                clean = [
+                    [item[0], item[1] if isinstance(item[1], int) else -1]
+                    for item in raw_sort
+                    if isinstance(item, list) and len(item) == 2
+                ]
+                if clean:
+                    params["sort"] = clean
+    except Exception:
+        params["filter"] = {}
+        params["limit"]  = 10
+
+    _stop_spinner()
+    _print_tool_call("query_geodata", params)
+    _start_spinner("Querying Geodata...")
+
+    result = await tool.ainvoke(params)
+    _stop_spinner()
+
+    # Retry once if aggregation pipeline failed
+    data, _ = _extract_result_data(result)
+    if data and "error" in data and needs_aggregation:
+        console.print(f"  [yellow]Pipeline error — retrying:[/yellow] {data['error'][:120]}")
+        retry_prompt = (
+            geo_prompt
+            + f"\n\nPrevious attempt failed: {data['error']}\n"
+            "Fix the pipeline and return only the corrected JSON."
+        )
+        _start_spinner("Querying Geodata...")
+        response2 = await llm.ainvoke(retry_prompt)
+        _stop_spinner()
+        try:
+            text2   = re.sub(r"```json\s*|\s*```", "", response2.content).strip()
+            parsed2 = json.loads(text2)
+            if "pipeline" in parsed2:
+                params["pipeline"] = parsed2["pipeline"]
+                params.pop("filter", None)
+                params.pop("limit", None)
+                params.pop("sort", None)
+        except Exception:
+            pass
+        _print_tool_call("query_geodata", params)
+        _start_spinner("Querying Geodata...")
+        result = await tool.ainvoke(params)
+        _stop_spinner()
+
+    _print_tool_result("query_geodata", result)
+    _start_spinner()
+
+    query_desc = json.dumps(params.get("pipeline", params.get("filter", {})))
+    return {"tool_results": [{"tool": "query_geodata",
+                               "query": query_desc,
+                               "result": result}]}
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# NODE 4 — Semantic executor
+# ══════════════════════════════════════════════════════════════════════════════
+
+async def semantic_node(
+    state: LakehouseState,
+    review_tool,
+    context_tool,
+) -> dict:
+    """
+    Runs search_reviews and get_neighbourhood_context using the semantic intent
+    as the query string. No LLM call needed — the planner already distilled
+    what to search for, so the intent maps directly to a vector query.
+    """
+    intent  = (state["intents"].get("semantic_intent") or state["question"]).strip()
+    results = []
+
+    # ── search_reviews ──────────────────────────────────────────────────────
+    _stop_spinner()
+    _print_tool_call("search_reviews", {"query": intent})
+    _start_spinner("Searching Reviews...")
+    reviews = await review_tool.ainvoke({"query": intent, "n_results": 5})
+    _stop_spinner()
+    _print_tool_result("search_reviews", reviews)
+    results.append({"tool": "search_reviews", "query": intent, "result": reviews})
+
+    # ── get_neighbourhood_context ───────────────────────────────────────────
+    _print_tool_call("get_neighbourhood_context", {"query": intent})
+    _start_spinner("Searching Context...")
+    context = await context_tool.ainvoke({"query": intent, "n_results": 3})
+    _stop_spinner()
+    _print_tool_result("get_neighbourhood_context", context)
+    results.append({"tool": "get_neighbourhood_context", "query": intent, "result": context})
+
+    _start_spinner()
+    return {"tool_results": results}
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# NODE 5 — Synthesizer
+# ══════════════════════════════════════════════════════════════════════════════
+
+async def synthesizer_node(state: LakehouseState, llm) -> dict:
+    """
+    Composes the final answer from all accumulated tool results.
+    Receives clean summaries (not raw JSON blobs) so the LLM can focus on
+    writing a coherent, data-driven response.
+    """
+    sections = []
+    for tr in state.get("tool_results", []):
+        data, _ = _extract_result_data(tr["result"])
+        if data and "error" in data:
+            continue   # skip failed tool calls — don't feed errors to synthesizer
+        summary = _summarise_for_synthesizer(tr["tool"], tr["result"])
+        sections.append(f"[{tr['tool']}]\n{summary}")
+
+    # Guard: if every tool call failed, return an honest message instead of
+    # letting the LLM hallucinate data it doesn't have.
+    if not sections:
+        return {"answer": (
+            "I was unable to retrieve data for this question — all tool calls "
+            "returned errors. Please try rephrasing, or check that the databases "
+            "are running."
+        )}
+
+    synth_prompt = (
+        f"Answer this question about NYC Airbnb data.\n\n"
+        f"Question: {state['question']}\n\n"
+        "Data retrieved from the lakehouse:\n\n"
+        + "\n\n---\n\n".join(sections)
+        + "\n\nWrite a clear, data-driven answer using ONLY the data above. "
+        "Include specific numbers. Do not add information not present in the data."
+    )
+
+    _start_spinner("Composing answer...")
+    response = await llm.ainvoke(synth_prompt)
+    _stop_spinner()
+
+    return {"answer": response.content}
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# ROUTING FUNCTIONS
+# ══════════════════════════════════════════════════════════════════════════════
+
+def _route_from_planner(state: LakehouseState) -> str:
+    """First node to visit based on planner route."""
+    route = state.get("route", "warehouse")
+    if route in ("geodata", "geodata+warehouse"):
+        return "geodata"
+    if route == "semantic":
+        return "semantic"
+    return "warehouse"   # warehouse, warehouse+semantic
+
+
+def _route_after_warehouse(state: LakehouseState) -> str:
+    """After warehouse: continue to semantic for warehouse+semantic, else synthesize."""
+    return "semantic" if state.get("route") == "warehouse+semantic" else "synthesizer"
+
+
+def _route_after_geodata(state: LakehouseState) -> str:
+    """After geodata: continue to warehouse for geodata+warehouse, else synthesize."""
+    return "warehouse" if state.get("route") == "geodata+warehouse" else "synthesizer"
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# GRAPH BUILDER
+# ══════════════════════════════════════════════════════════════════════════════
+
+def _build_graph(llm, planner_llm, tools_by_name: dict, schema: str):
+    """
+    Assemble the LangGraph StateGraph.
+
+    Graph topology:
+      planner ──(conditional)──► warehouse ──(conditional)──► synthesizer
+                              │                            └──► semantic ──► synthesizer
+                              ├──► geodata ──(conditional)──► synthesizer
+                              │                            └──► warehouse ──► synthesizer
+                              └──► semantic ─────────────────────────────► synthesizer
+
+    Routes:
+      warehouse         → warehouse → synthesizer
+      geodata           → geodata   → synthesizer
+      semantic          → semantic  → synthesizer
+      warehouse+semantic→ warehouse → semantic → synthesizer
+      geodata+warehouse → geodata   → warehouse → synthesizer
+    """
+    from langgraph.graph import StateGraph, END
+
+    graph = StateGraph(LakehouseState)
+
+    graph.add_node("planner",     partial(planner_node, llm=planner_llm))
+    graph.add_node("warehouse",   partial(
+        warehouse_node,
+        llm=llm,
+        tool=tools_by_name["query_warehouse"],
+        schema=schema,
+    ))
+    graph.add_node("geodata",     partial(
+        geo_node,
+        llm=llm,
+        tool=tools_by_name["query_geodata"],
+    ))
+    graph.add_node("semantic",    partial(
+        semantic_node,
+        review_tool=tools_by_name["search_reviews"],
+        context_tool=tools_by_name["get_neighbourhood_context"],
+    ))
+    graph.add_node("synthesizer", partial(synthesizer_node, llm=llm))
+
+    graph.set_entry_point("planner")
+
+    graph.add_conditional_edges("planner", _route_from_planner, {
+        "warehouse": "warehouse",
+        "geodata":   "geodata",
+        "semantic":  "semantic",
+    })
+    graph.add_conditional_edges("warehouse", _route_after_warehouse, {
+        "semantic":    "semantic",
+        "synthesizer": "synthesizer",
+    })
+    graph.add_conditional_edges("geodata", _route_after_geodata, {
+        "warehouse":   "warehouse",
+        "synthesizer": "synthesizer",
+    })
+    graph.add_edge("semantic",    "synthesizer")
+    graph.add_edge("synthesizer", END)
+
+    return graph.compile()
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# ENTRY POINT
 # ══════════════════════════════════════════════════════════════════════════════
 
 async def run_agent(question: str) -> str:
     """
-    Run the LangGraph ReAct agent against the question.
+    Build and run the multi-agent graph for one question.
 
     Flow:
-      1. Fetch live schema from PostgreSQL (information_schema)
-      2. Build system prompt with real column names
-      3. Launch server.py as a stdio subprocess via MultiServerMCPClient
-      4. Load MCP tools as LangChain tools (load_mcp_tools)
-      5. Build a LangGraph ReAct agent (create_react_agent)
-      6. Stream execution — print each step as it occurs
-      7. Return the final answer text
+      1. Connect to Groq (preferred) or Ollama (fallback) LLMs
+      2. Load MCP tools from server.py subprocess via MultiServerMCPClient
+      3. Fetch live schema from PostgreSQL information_schema
+      4. Build LangGraph StateGraph
+      5. ainvoke — nodes print their own output as they execute
+      6. Return synthesizer's final answer
 
-    Returns the final answer string.
+    LLM selection:
+      - If GROQ_API_KEY is set, uses ChatGroq (llama-3.3-70b-versatile by default)
+      - Otherwise falls back to local ChatOllama
     """
-    from langchain_ollama import ChatOllama
     from langchain_mcp_adapters.client import MultiServerMCPClient
-    from langchain.agents import create_agent
 
-    # Build system prompt from the live database schema so the model always
-    # has accurate column names regardless of schema evolution.
-    schema_text = _fetch_pg_schema()
-    system_prompt = _SYSTEM_PROMPT_TEMPLATE.format(schema=schema_text)
+    if os.getenv("GROQ_API_KEY"):
+        from langchain_groq import ChatGroq
+        groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        # Main LLM — SQL generation, geo filter generation, synthesis
+        llm = ChatGroq(model=groq_model, temperature=0)
+        # Planner LLM — JSON mode constrains routing output to valid JSON
+        planner_llm = ChatGroq(
+            model=groq_model, temperature=0,
+            model_kwargs={"response_format": {"type": "json_object"}},
+        )
+    else:
+        from langchain_ollama import ChatOllama
+        model_name  = os.getenv("OLLAMA_MODEL", "llama3.2")
+        ollama_host = os.getenv("OLLAMA_HOST",  "http://localhost:11434")
+        # Main LLM — SQL generation, geo filter generation, synthesis
+        llm = ChatOllama(
+            model=model_name, base_url=ollama_host,
+            temperature=0, num_predict=1024,
+        )
+        # Planner LLM — format="json" constrains output to valid JSON
+        planner_llm = ChatOllama(
+            model=model_name, base_url=ollama_host,
+            temperature=0, num_predict=300, format="json",
+        )
 
-    model_name = os.getenv("OLLAMA_MODEL", "llama3.2")
-    ollama_host = os.getenv("OLLAMA_HOST", "http://localhost:11434")
-
-    llm = ChatOllama(
-        model=model_name,
-        base_url=ollama_host,
-        temperature=0,          # deterministic — important for reproducibility
-        num_predict=2048,        # max tokens per response
-    )
-
-    # MultiServerMCPClient spawns server.py as a subprocess and translates
-    # MCP tool schemas into LangChain BaseTool objects automatically.
-    # Note: async context manager removed in langchain-mcp-adapters>=0.1.0
-    # (see project/versions.txt, Test 4). Use await client.get_tools() instead.
-    client = MultiServerMCPClient(
-        {
-            "nyc-airbnb-lakehouse": {
-                "command": sys.executable,
-                "args": [str(SERVER_PATH)],
-                "transport": "stdio",
-                "env": dict(os.environ),
-            }
+    # Load MCP tools — server.py spawned as stdio subprocess
+    client = MultiServerMCPClient({
+        "nyc-airbnb-lakehouse": {
+            "command":   sys.executable,
+            "args":      [str(SERVER_PATH)],
+            "transport": "stdio",
+            "env":       dict(os.environ),
         }
-    )
-    tools = await client.get_tools()
-
-    # Green tick list — one tool per line
-    console.print()
-    for t in tools:
-        label = _TOOL_LABEL.get(t.name, t.name)
-        console.print(f"[green]✓[/green] {label}")
-    console.print()
+    })
+    tools         = await client.get_tools()
+    tools_by_name = {t.name: t for t in tools}
+    schema        = _fetch_pg_schema()
+    graph         = _build_graph(llm, planner_llm, tools_by_name, schema)
 
     _start_spinner()
+    try:
+        final_state = await graph.ainvoke({
+            "question":     question,
+            "route":        "",
+            "intents":      {},
+            "tool_results": [],
+            "answer":       "",
+        })
+    finally:
+        _stop_spinner()
 
-    # create_react_agent moved to langchain.agents.create_agent in langchain 1.x
-    # (see project/versions.txt, Test 5). Parameter renamed prompt → system_prompt.
-    agent = create_agent(
-        model=llm,
-        tools=tools,
-        system_prompt=system_prompt,
-    )
+    return final_state.get("answer") or "(no answer produced)"
 
-    # astream with "updates" yields one dict per node — each dict shows what
-    # changed in that step (tool calls, tool results, model responses).
-    # We print each step for auditability and capture the last AI text as answer.
-    from langchain_core.messages import AIMessage, ToolMessage
-    final_answer = ""
-    step_num = 0
-
-    async for chunk in agent.astream(
-        {"messages": [{"role": "user", "content": question}]},
-        stream_mode="updates",
-    ):
-        step_num += 1
-        print_step(step_num, chunk)
-
-        # Capture last AIMessage with text content (no tool calls) as final answer
-        for node_update in chunk.values():
-            if isinstance(node_update, dict) and "messages" in node_update:
-                msgs = node_update["messages"]
-            elif isinstance(node_update, list):
-                msgs = node_update
-            else:
-                msgs = [node_update]
-            for msg in msgs:
-                if isinstance(msg, AIMessage) and not msg.tool_calls:
-                    text = msg.content if isinstance(msg.content, str) else \
-                           " ".join(b.get("text", "") for b in msg.content if isinstance(b, dict))
-                    if text.strip():
-                        final_answer = text
-
-    # Safety net: llama3.2 sometimes writes a tool call as JSON text instead of
-    # using the actual tool mechanism. Detect any embedded JSON tool call and
-    # execute it by importing the server functions directly.
-    _TOOL_NAMES = (
-        "query_warehouse", "query_geodata",
-        "search_reviews", "get_neighbourhood_context",
-    )
-    if final_answer:
-        import re
-        import importlib
-        detected_tool = next(
-            (t for t in _TOOL_NAMES if f'"name": "{t}"' in final_answer), None
-        )
-        if detected_tool:
-            match = re.search(r'\{.*?"name".*?\}', final_answer, re.DOTALL)
-            if match:
-                try:
-                    embedded  = json.loads(match.group())
-                    params    = embedded.get("parameters", {})
-
-                    # Sanitise common llama3.2 parameter bugs
-                    if "projection" in params and isinstance(params["projection"], str):
-                        params["projection"] = {}
-                    if "sort" in params and isinstance(params["sort"], list):
-                        clean = []
-                        for item in params["sort"]:
-                            if isinstance(item, list) and len(item) == 2:
-                                field, direction = item
-                                direction = direction if isinstance(direction, int) else -1
-                                clean.append([field, direction])
-                        params["sort"] = clean or None
-                    if "limit" in params and not isinstance(params["limit"], int):
-                        try:
-                            params["limit"] = int(params["limit"])
-                        except (ValueError, TypeError):
-                            params["limit"] = 20
-
-                    console.print(f"\n[dim]→ recovering {detected_tool} call[/dim]")
-                    sys.path.insert(0, str(PROJECT_DIR / "mcp_server"))
-                    server_mod = importlib.import_module("server")
-                    fn         = getattr(server_mod, detected_tool)
-                    result     = fn(**params)
-                    _print_tool_result(detected_tool, result)
-                    final_answer = "(see result above)"
-                except Exception as e:
-                    log.warning(f"Recovery failed: {e}")
-
-    _stop_spinner()
-    return final_answer or "(Agent completed — check step output above)"
-
-
-# ══════════════════════════════════════════════════════════════════════════════
-# CLI
-# ══════════════════════════════════════════════════════════════════════════════
 
 def main():
     parser = argparse.ArgumentParser(
-        description="NYC Airbnb Lakehouse Agent — LangChain + Ollama + MCP"
+        description="NYC Airbnb Lakehouse Agent — multi-agent LangGraph + Ollama"
     )
     parser.add_argument("-q", "--question", help="Single question (non-interactive)")
     args = parser.parse_args()
 
-    model = os.getenv("OLLAMA_MODEL", "llama3.2")
-    print(f"Agent initialising — model: {model} | server: {SERVER_PATH.name}")
+    if os.getenv("GROQ_API_KEY"):
+        model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        backend = "groq"
+    else:
+        model = os.getenv("OLLAMA_MODEL", "llama3.2")
+        backend = "ollama"
+    console.print(f"Agent initialising — model: [bold]{model}[/bold] ({backend}) | server: {SERVER_PATH.name}")
 
     if args.question:
         console.print(f"\n[dim]Question:[/dim] {args.question}")
@@ -508,9 +912,9 @@ def main():
     first = True
     while True:
         try:
-            prompt = "Ask anything about NYC Airbnb → " if first else "Next question → "
+            prompt   = "Ask anything about NYC Airbnb → " if first else "Next question → "
             question = input(prompt).strip()
-            first = False
+            first    = False
         except (KeyboardInterrupt, EOFError):
             console.print("\nBye.")
             break

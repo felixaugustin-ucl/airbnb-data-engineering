@@ -1,0 +1,223 @@
+{
+  "neighbourhood": "Howland Hook",
+  "centroid": {
+    "lat": 40.63610948717949,
+    "lon": -74.18402171794872
+  },
+  "fetched_at": "2026-04-06T14:34:20.664044+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [],
+    "bar": [],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63716,
+            "lng": -74.174965
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64265794999998,
+              "lng": -74.17302051970849
+            },
+            "southwest": {
+              "lat": 40.63532735000002,
+              "lng": -74.1757184802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Mariner's Marsh Park",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110422816017252782212\">Christopher Buss</a>"
+            ],
+            "photo_reference": "AU_ZVEGyNa0Ah7Vy6TjThQm1PfiVuJkFjT8iYne66rsaLtgoL9WfjiNRD44-p5CedLteW-0_kyGfsAGgT7fhHbexLZdwKFvmL56aqH-0Al8Few80zwWUwzXYOzCmj9wXlVtB2bnMWsYLAUrWeRSXCCbP2xI0j5FNDRHzkf7twWWyrGeS6KNQamzLj82bBsKRJXnmbUCdloXQrOAqX4gqOApfkVl2q0cecIPy5QOk3Xgx1D53aF1A5_KtTG90qbIZsfuntXEYdiAz7teuWKhthhNTJyIzF-PNYVjAMjiWRou7T3yRdIo-p8qTYM9Xxym4_pQ6n_kwHVFdL9zuNnavRhQzcCkuVOnLM4D6w0MQyRqbkmaYfPL4lSq4Iqm8g5iZIFWG8BpmodP6Nx6WmazcOMElj7XuOtR9sF_kQBAFsPyZbwRqqn57ztpVexP2WYqQlJHKYTPNCbdFaebiTL5pwkZj34kRfPijjA6B71hyQ08KhP-kvJaQ6xcGjSMiAcH74HaSP8mG_upsgp5YfqncbYrPDoFDUmpkPeGvKm7K3W5vK-rGbXI_z5F0gN0IErzFTbqXPtXbFnQNRFs_q6t0uslTW9yGDuurZ6oJEmJzUU8nm9dbI68d13eKg2WdoQ9pKaLc6TV1dLmC",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJW72HEglNwokR9zuqHhaaSdI",
+        "plus_code": {
+          "compound_code": "JRPG+V2 Staten Island, NY, USA",
+          "global_code": "87G7JRPG+V2"
+        },
+        "rating": 3.8,
+        "reference": "ChIJW72HEglNwokR9zuqHhaaSdI",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 43,
+        "vicinity": "3418 Richmond Terrace, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6285279,
+            "lng": -74.182267
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6298534802915,
+              "lng": -74.1809420697085
+            },
+            "southwest": {
+              "lat": 40.6271555197085,
+              "lng": -74.18364003029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Goethals Rd North/Mobile Home Park Row A",
+        "photos": [
+          {
+            "height": 2088,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117888853951251129735\">Joey C</a>"
+            ],
+            "photo_reference": "AU_ZVEEo7tT0rnPQDUV9MWoVlA27LIT2vDOLpDnTWbUkR3xNo0MOrB2sGYGxXFobD5ds3Y4fRCVd3QK3_bF0EIH3M8FjSURg9ajCYWNm-qG4Afy1qZfdXoOieSos_mj7_Y9wY1heB48nR-07XhLdlBLXuM3N3xcg-MnY6ztnCz5bLDnnZoIxzDR9unSHonNlTcZ5gHC3zSBCx3W1ElVTIWu-uhC-FcRuwHopJ2-Rlm-zJG9zMCbkSIwLBEnrx5-BOApPlThEUXEWaICMMUDFUpcQv6Zw4_Fykwn6Jha6xPY326p2Nn-Hg0j_zoSDVGzKYW17boWD5Xn_TjT8ye2ksyOKPI_kaXeZ5qoVwGEeBcSgFB1w8PBGtutufDwjPFAF3kxWsyekkdxgqXANkPBKGjrvS_B8P-1_zzw4FhLkVMFE8Xs94LXMUG0fjWDtu3xieklRNViH_bF2eN_T5MOTDYCNAw8I3GLGdNvgSJ9hjVUf5jFXH_G4m40xQuAbn_k6qBa5eYwkYX_9IULl6jTmV5jM4NFpqmdl09HZPWnQbhDykUqp7SJkk48ajnwKe3_3nDYyWxPGVaeOrquQFV71yL1ulRdgISD45pTVEKFrQIN8A49UXVlifQIslDdcIvWP8xPY3e5y9A",
+            "width": 4640
+          }
+        ],
+        "place_id": "ChIJ_4BVuhxNwokRiCtmCfAPaAQ",
+        "plus_code": {
+          "compound_code": "JRH9+C3 New York, NY, USA",
+          "global_code": "87G7JRH9+C3"
+        },
+        "rating": 5,
+        "reference": "ChIJ_4BVuhxNwokRiCtmCfAPaAQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63716,
+          "lng": -74.174965
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64265794999998,
+            "lng": -74.17302051970849
+          },
+          "southwest": {
+            "lat": 40.63532735000002,
+            "lng": -74.1757184802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Mariner's Marsh Park",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110422816017252782212\">Christopher Buss</a>"
+          ],
+          "photo_reference": "AU_ZVEGyNa0Ah7Vy6TjThQm1PfiVuJkFjT8iYne66rsaLtgoL9WfjiNRD44-p5CedLteW-0_kyGfsAGgT7fhHbexLZdwKFvmL56aqH-0Al8Few80zwWUwzXYOzCmj9wXlVtB2bnMWsYLAUrWeRSXCCbP2xI0j5FNDRHzkf7twWWyrGeS6KNQamzLj82bBsKRJXnmbUCdloXQrOAqX4gqOApfkVl2q0cecIPy5QOk3Xgx1D53aF1A5_KtTG90qbIZsfuntXEYdiAz7teuWKhthhNTJyIzF-PNYVjAMjiWRou7T3yRdIo-p8qTYM9Xxym4_pQ6n_kwHVFdL9zuNnavRhQzcCkuVOnLM4D6w0MQyRqbkmaYfPL4lSq4Iqm8g5iZIFWG8BpmodP6Nx6WmazcOMElj7XuOtR9sF_kQBAFsPyZbwRqqn57ztpVexP2WYqQlJHKYTPNCbdFaebiTL5pwkZj34kRfPijjA6B71hyQ08KhP-kvJaQ6xcGjSMiAcH74HaSP8mG_upsgp5YfqncbYrPDoFDUmpkPeGvKm7K3W5vK-rGbXI_z5F0gN0IErzFTbqXPtXbFnQNRFs_q6t0uslTW9yGDuurZ6oJEmJzUU8nm9dbI68d13eKg2WdoQ9pKaLc6TV1dLmC",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJW72HEglNwokR9zuqHhaaSdI",
+      "plus_code": {
+        "compound_code": "JRPG+V2 Staten Island, NY, USA",
+        "global_code": "87G7JRPG+V2"
+      },
+      "rating": 3.8,
+      "reference": "ChIJW72HEglNwokR9zuqHhaaSdI",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 43,
+      "vicinity": "3418 Richmond Terrace, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6285279,
+          "lng": -74.182267
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6298534802915,
+            "lng": -74.1809420697085
+          },
+          "southwest": {
+            "lat": 40.6271555197085,
+            "lng": -74.18364003029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Goethals Rd North/Mobile Home Park Row A",
+      "photos": [
+        {
+          "height": 2088,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117888853951251129735\">Joey C</a>"
+          ],
+          "photo_reference": "AU_ZVEEo7tT0rnPQDUV9MWoVlA27LIT2vDOLpDnTWbUkR3xNo0MOrB2sGYGxXFobD5ds3Y4fRCVd3QK3_bF0EIH3M8FjSURg9ajCYWNm-qG4Afy1qZfdXoOieSos_mj7_Y9wY1heB48nR-07XhLdlBLXuM3N3xcg-MnY6ztnCz5bLDnnZoIxzDR9unSHonNlTcZ5gHC3zSBCx3W1ElVTIWu-uhC-FcRuwHopJ2-Rlm-zJG9zMCbkSIwLBEnrx5-BOApPlThEUXEWaICMMUDFUpcQv6Zw4_Fykwn6Jha6xPY326p2Nn-Hg0j_zoSDVGzKYW17boWD5Xn_TjT8ye2ksyOKPI_kaXeZ5qoVwGEeBcSgFB1w8PBGtutufDwjPFAF3kxWsyekkdxgqXANkPBKGjrvS_B8P-1_zzw4FhLkVMFE8Xs94LXMUG0fjWDtu3xieklRNViH_bF2eN_T5MOTDYCNAw8I3GLGdNvgSJ9hjVUf5jFXH_G4m40xQuAbn_k6qBa5eYwkYX_9IULl6jTmV5jM4NFpqmdl09HZPWnQbhDykUqp7SJkk48ajnwKe3_3nDYyWxPGVaeOrquQFV71yL1ulRdgISD45pTVEKFrQIN8A49UXVlifQIslDdcIvWP8xPY3e5y9A",
+          "width": 4640
+        }
+      ],
+      "place_id": "ChIJ_4BVuhxNwokRiCtmCfAPaAQ",
+      "plus_code": {
+        "compound_code": "JRH9+C3 New York, NY, USA",
+        "global_code": "87G7JRH9+C3"
+      },
+      "rating": 5,
+      "reference": "ChIJ_4BVuhxNwokRiCtmCfAPaAQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

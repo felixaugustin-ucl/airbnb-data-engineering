@@ -1,0 +1,2833 @@
+{
+  "neighbourhood": "Bay Terrace, Staten Island",
+  "centroid": {
+    "lat": 40.5577725,
+    "lon": -74.13968923529411
+  },
+  "fetched_at": "2026-04-06T14:10:24.218610+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56101,
+            "lng": -74.135381
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5624356302915,
+              "lng": -74.13425371970848
+            },
+            "southwest": {
+              "lat": 40.5597376697085,
+              "lng": -74.1369516802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-351-2100",
+        "name": "Domenico's Pizzeria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117781757167136016730\">Domenico&#39;s Pizzeria</a>"
+            ],
+            "photo_reference": "AU_ZVEG-0gk5jU5uoCmGEd6Wwj4pBgXVJ24IUx50W91wJVSlh0eVyFVBc3qFFGjnD-5JoDjaDvDeVs-bnt8UDAFIFL7R6UqKySeJxwopns0hjad1EdmrIO8RmtbB7ZBfGg1Lr3xYH8-40bvbv_mk5tp1IyE0muEovV0dCb305Tp7I0zQ8HYIVyWQ6HRmhRgGr9FhONMF0RgIBcgRcT7lc0Y4B48dDovLf9g-D1ClrMEWQVq6Z-jygaDkeLVf08XZvr_DtQ-E3BcIGenDbAjUzy517W7bjwvetryIAbkQarOlBs9LnXvSM4g0PbPrDUtNHN-jKjzQvwni3Us",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJtXfle-hLwokRdZpOw4scVqo",
+        "plus_code": {
+          "compound_code": "HV67+CR Staten Island, NY, USA",
+          "global_code": "87G7HV67+CR"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJtXfle-hLwokRdZpOw4scVqo",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 189,
+        "vicinity": "3295 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5538195,
+            "lng": -74.1427483
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5550645302915,
+              "lng": -74.14133071970849
+            },
+            "southwest": {
+              "lat": 40.5523665697085,
+              "lng": -74.1440286802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-966-1155",
+        "name": "Genki Sushi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108605778596958236375\">Igor O.</a>"
+            ],
+            "photo_reference": "AU_ZVEHOzlBig6l88HKp2oPxGqNMcgh_h2BaVElzYN1SzazIDtCArWfukDLW9_I6-MxR4t4DFPdLGjh40P-VRKQ6dkE8Gpbsw_KHvgzC1u3p6xm4CvVvHuZoY8OMw2u5ipe2csoL9-8syE2QEGZuRlHmMdqg1Nu6xqySiJ82YykJCQ59PTk7HbfAJ-AUuuLY5s6xAnPBI1269K6tYoqk5Ry2gdu86c8QY0AOJHiJbUisrwRW0_s6DRWsS7NVlprID1bkaxTGtyOJz1vsJ3_p-PhAOXMEkxjYtbvpfvWwenUYkm0iTjEkWKtwnwi7KcyH9up8eguSfFnPthiDjIV67GjRnvPwT80tqlGkQp_XglHpNalCRzjilvSv2j7DUzbho2H7OVRcXkQ9kf0TJNLl9p4v-GB9ARyo8vXJC1e_0OJtR2Ek4c5D_2SDb1e9RkIT2-hwfR53RvCrtIrzITyGcX0TGdIshC7hpx7B8iCmynuAKpGrAYr2_--GS2Mf6Q3w4i2F7hpMay4kL0EK2bQ3FYoCmwCnzdL0yY10e8sl7lYu6-pVl-deEDUPUnOmKtlfWLnnpwSM2xuyNRjERLaBJ_TlGV4AGyb5gQ0HIIzb_coctaD4UtZmQUc-eH5713266w7LCG7qQSlU",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJ7wnmuMZLwokRQC790GkAuFo",
+        "plus_code": {
+          "compound_code": "HV34+GW Staten Island, NY, USA",
+          "global_code": "87G7HV34+GW"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ7wnmuMZLwokRQC790GkAuFo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 389,
+        "vicinity": "150 Greaves Lane, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5640547,
+            "lng": -74.13292489999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5654729302915,
+              "lng": -74.1316101697085
+            },
+            "southwest": {
+              "lat": 40.5627749697085,
+              "lng": -74.1343081302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-668-1570",
+        "name": "Oakwood Diner",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112599131615393699956\">Paul Dunn</a>"
+            ],
+            "photo_reference": "AU_ZVEFR4pLAYvROGzDFsxRW-yMDpMAeKa5Jd_LfFAvzKp6SJq5-WNHOCr5Vdrb43-wT7mcAo_W0LRFcP4vdv3om7LH-3lTlcJ4ahs8CFjsnS35LTw8UE8_GAnra22TyeTFrpuMRm_LKfwJ96oYPXFR7ykv_U0wDtrIKGE4WnkCZTDKC-aXqTvISGmpHRD3uCnA0jZcjK47YSdmTL6gZcZmrN00OcnQMxpLaC27DG8_CG6CKKnJEh1cczsv-nCwEDyZVbdNtwUyqhlQETJMX81yS0T3grzYHXYFBiLytL62jvpTNmQNvPyV5SXNtrigSBKdm7w07i4XpZtAgDD4nW9-Z0_nyA8k2I7hPu9h95OyO8EFyUn5f_9tYAUIBAIcBc3y818WiHxp4ekrPz_Ilgz_LvJimB8zHkMcUKIpOZ9kKMgiPPqCB2g6P3i3y2svaXskOIKzz0dMNuetJ3gG38-xGFOkLnIP7f7qdwuUzGMb5TysNkKiai_lNh4-sypzXqIy_x7ZKN2-BHFCBiXujq_MEpVtb5bKUtCenGtMeqspVKn2plFc_DhQdIFYf2Ol4O15zwnQF_H-Py5xnW2F9BpQvv8OTD80G_FMA30WzFCK8BXSvQK7Pbynih5F5DOe1nMEH6GLhWFWl",
+            "width": 2268
+          }
+        ],
+        "place_id": "ChIJO5H_KuRLwokRAafLsH4FqRg",
+        "plus_code": {
+          "compound_code": "HV78+JR Staten Island, NY, USA",
+          "global_code": "87G7HV78+JR"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJO5H_KuRLwokRAafLsH4FqRg",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 630,
+        "vicinity": "3161 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5599083,
+            "lng": -74.1349406
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5612802302915,
+              "lng": -74.13369011970849
+            },
+            "southwest": {
+              "lat": 40.5585822697085,
+              "lng": -74.1363880802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-668-2050",
+        "name": "Supreme Memorials",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 496,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102412798659799257769\">Supreme Memorials</a>"
+            ],
+            "photo_reference": "AU_ZVEHbFVGPuzdY69SJQ0QRIaxDacT5UiWGVF2I8cpOhvboxKounQKjrnpP2qFxCcD9aGyGsuaVaMngifdFtVYlNFrXUJRcCLEjsEPAmHzrTet-ixHi4nmtdV_LGmRM4dr5TVNi_CYJd6a4NaX5X9CtcfLzI9Zhd4pTdjpdgtAHoS_oXhx5F8BE5Gs8L1UK_JzpwMOuZAeCnkDepU1k8xUwYM2sMmJvEUAkrQ3hd5Ml78qQGITOWikwH4BerxVfY3_N8l9RqWs0eMuQExvBHmwIOIkYWrVt3sdKnHFtn_kE2JHey3I9JyKlz9YRdSv6Lt7W6o9ZJznlnR0",
+            "width": 415
+          }
+        ],
+        "place_id": "ChIJsxRr6OdLwokRekeuAdJ5mpE",
+        "plus_code": {
+          "compound_code": "HV58+X2 Staten Island, NY, USA",
+          "global_code": "87G7HV58+X2"
+        },
+        "rating": 3.7,
+        "reference": "ChIJsxRr6OdLwokRekeuAdJ5mpE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "3316 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5534203,
+            "lng": -74.1435742
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5548266802915,
+              "lng": -74.1421519197085
+            },
+            "southwest": {
+              "lat": 40.5521287197085,
+              "lng": -74.1448498802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-227-2405",
+        "name": "Villa Paradiso Ristorante Italiano",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1836,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108548695432456825099\">Bolivar Buestan</a>"
+            ],
+            "photo_reference": "AU_ZVEFn9TTVbBXoyPfbW-4wvL_ST1NixH6hsxKB-nTiD4FZQb8CASHPRZuDVDM7yqwmo16x8HH-5TAsrHf-IU548ExaNhdB0M8TguPZ06z7cZydNTfCVdRicnachdYGlWFrz0gXghCi_rD2SWefA5hTUCPwyPF6IZocJQviJv6QCcYYv6cAB1sBfeVegVQqLSeEVWg7wR41_nwsLpRK_RM16RsXwtC_rat307zvMoovRLjkE8ARNHROUkPlL0l1A9r5MhWmZvIUWwFDNfgTilEpRksW9pGWOd3wNvJqAJETrG6yyzBidnx4_HYJAXoDQYG8EnmFY8-YQUeq9Saxa1UtOa9-6XdToIVG-Gy2uXUOcN9Yb8qs6hdZ_9pBgouPOrOLfC0NePRKFmv9NbM6XFDPDP389Ib75UShCwy2UC5YezEI3Wpc7s7sn2UrKzJct23BAxIjEE3dP7oiu3YsGzN6uh0KwqlXGb0SXE6PRzoh34I-8K0wC_GNfB3rUZzrlMoJ33aVPrAIy00VPcybcn1Q1enGAaXMHG8zK8X_XdaoR-fK0KIE9tEdgr_2za8Qtn8fyo48tKrf3mGlS3WCk8_D2kaxKrhx8G_xjUeNwG1agYvmUVoCmHQtEoRdnCGES3CYEjtBdA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJb_L0pMZLwokRt8kbZIH-v5o",
+        "plus_code": {
+          "compound_code": "HV34+9H Staten Island, NY, USA",
+          "global_code": "87G7HV34+9H"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJb_L0pMZLwokRt8kbZIH-v5o",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 557,
+        "vicinity": "145 Greaves Lane, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56089,
+            "lng": -74.1351178
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5621904802915,
+              "lng": -74.1336861197085
+            },
+            "southwest": {
+              "lat": 40.5594925197085,
+              "lng": -74.1363840802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 917-538-4402",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108605778596958236375\">Igor O.</a>"
+            ],
+            "photo_reference": "AU_ZVEGLVLQVIsMuGBr28qB-GNlh3yidOgLtN0IDw_A8ag7OUVfRxWrfiQ3utd0oxvvQJI0qMrjG7WvsELHTE3YGrXHdhwpvVBf1IlgtJXL9WiM593U5bysMoJGp391-Y8gcolJkrpViRgxODypDYZLf34nw9xAKPCyDvq1vGWzuVBDHvxI8kB8ZRds51La6vW3Lo6YNO2fbpLhD3zH9NUyjJgMio_zHwOMrHlPRhHTRnFxw4qjTgbZvK3nARJhwDZXJAfSa775RjadYtnDmPTfjxFD8RF6SPP2aK9HnoBDf446B8coi6w2EJ8v4JUyvesS7DJV3MQxjgswGglcJEjbalWgX8LnmONoNIikbXVwgr8vzYBXnVM3RK5vVzk-XgXcRGuGbjWk5yHWHPE8acBwAbWTKC971q91W6GRBEynX4DFW7tvT4Dq-i3N-t6JTb-dAEHoYylTYx5zUax-nxrMQGIRtss0HU9wlRkhiU4WMaZgGS3bnRfTqCC5deB04MscwXaFYDg4vZ2G3wowFoq8i1xlNawJ4bxHL-XkRHxi8QEa2I8sbrAfy4KLzDg6uEVu_I5syITJyJ5Lqsn9xdnQWzYB_Qb99J39eS_eCosOhaF1kXxi2Q7BEjQgRvceTJ9EEvv-3OA",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJkalQpONLwokR4I9wNibU8NA",
+        "plus_code": {
+          "compound_code": "HV67+9X Staten Island, NY, USA",
+          "global_code": "87G7HV67+9X"
+        },
+        "price_level": 1,
+        "rating": 3.2,
+        "reference": "ChIJkalQpONLwokR4I9wNibU8NA",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 287,
+        "vicinity": "Riviera Plaza, 3291 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55427009999999,
+            "lng": -74.1431985
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5555904302915,
+              "lng": -74.1419685697085
+            },
+            "southwest": {
+              "lat": 40.5528924697085,
+              "lng": -74.14466653029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-966-7111",
+        "name": "Dunkin'",
+        "photos": [
+          {
+            "height": 1440,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105446066942932387126\">Mohamed Sorogy</a>"
+            ],
+            "photo_reference": "AU_ZVEGWcapbsJiVVIM3MR2N8rK1VYgfJX_klYa5uErAPZEE0iyxncc1VyEimDrvghpCb7mZi9GuNk096YfqKA8iV7XbJFoevdi-gU7RUAlVqIpzdQ3Ym39mFCt3lTXMPvfLj8xCgxwaM5l8GPLP3ndJODfeNTtT37XKr-MD4cKaQn1VqZ50GF1_6zB9543tOQEKpJbbsG6ZCxXOK7S2h5xw7SMPPA_Y4EV_cmqFkRT2gGAD1vm2AnrfpsSTq54JrZQq1yVsF5Dx4H1i6TJYO8pWoaTnz7PU2RgzDiNRSVSlV4KSXr6qxQEia3L7DG4U5mBlgmhUqRx_THylYaQJzmBl9GTMmzdHPf6jxsj-5Uio8jlrIhChMb3QHp2hBvDRRwnDWSQt2nTOo7ZIG_MNH-d9ViBlht-rfwHX7268oNYtWjB_H89Tll3FO2QCUmBzzSCtviZRF7JR59Hu9PtgT4Fs6R2QK5NvqM9MVm2KNl8QxIalLRExCxhK9IyKmdUyZqap6vviX-WUTHm7OPmcLgRrnmIBybMG_1HXZ9gyuEXvG6jUU4k7nevlNSMX64MXZazgckzeU6fVXHqnQOixJgfX7A4S5w3NzGGlwNig7vlSnuQ7oFJ9F1bGT3cxDoGxW-bwBWHFZw",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJ3TET9sNLwokRT34QGct-JSg",
+        "plus_code": {
+          "compound_code": "HV34+PP Staten Island, NY, USA",
+          "global_code": "87G7HV34+PP"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJ3TET9sNLwokRT34QGct-JSg",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 165,
+        "vicinity": "Evergreen Plaza, 150-B Greaves Lane, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5611624,
+            "lng": -74.1356948
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5624949302915,
+              "lng": -74.13444651970849
+            },
+            "southwest": {
+              "lat": 40.5597969697085,
+              "lng": -74.1371444802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-374-5690",
+        "name": "Alfonso's Cantina",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105192094505021045619\">Javier Flores</a>"
+            ],
+            "photo_reference": "AU_ZVEEQSb-EA4BsgHVdduswmqB4mHza4Db0BhATUIWhUJamtnTPoPjbtgbqd66rxF3oRjo3tWcdGZhtxBvne1_uVGIsGzEgVlHE21BOrWtjAG8q6nWe3iTTIzs2E3ZQudzuhIWFZQVTzM1JXG_YiI22Tq8aDhzY3pI3b2HN_jUVNGtP5ZHHZq6F8zukv3EYkDhYNUJGfi1Hc1hikbOh1pzWKWvsmcMepeLDkBaK5b75pPeX3QDM1Chjf571TH6vvAta4u6aa-WCa3bEGEPwrwPLr5HSrXmSyiq6QWBONesfVIrdWF8M3zGqJBXWqC6kt6Xkj2Sf7Q5-XlMwK-OQH6F0IGgl-EDGrw8gHqYmjgb_5WSNVuY_fMl2hAmG_XtFq2qWEIeK8AcdxQtUzvWNL1gz-z68yje1BTYpAVpYKYQmC5HfWBQ54FL4SFUO6HbQqEquXa4lg3gUuWKaVI6U-3OEkM8suW7Agv3oAtBIbGLO95sjUzlrp1s4Cg8rmfWKg2cXsRZJdNg0L7oDRShFX-xmsJOKYDg7nRGHvacbLwyz3cHXmUSX3UdK1mO-k26S_1ztfTskTAHZJ1RnyRuG3xldr7TadJsPGlH47jVin0ZqEPWKiE-hzeCwNysFu0y2KPW-t62WcA",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJpYOnMq1LwokRPm_Dy6Vhydc",
+        "plus_code": {
+          "compound_code": "HV67+FP Staten Island, NY, USA",
+          "global_code": "87G7HV67+FP"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJpYOnMq1LwokRPm_Dy6Vhydc",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 92,
+        "vicinity": "3295 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56421710000001,
+            "lng": -74.1334468
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5656727302915,
+              "lng": -74.1321382197085
+            },
+            "southwest": {
+              "lat": 40.5629747697085,
+              "lng": -74.1348361802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-987-8800",
+        "name": "Ambrosino's",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107357849587435762076\">Ambrosino&#39;s</a>"
+            ],
+            "photo_reference": "AU_ZVEHBOeifWGtULJV8VOPbYlNugcVEFVzexAIQzm9wS2EonA4XjUZ_T6YepFjmJkTZ-KnIzLqCMUQWqgxS_ew-gRinf4MeVCWue8llCD4ZNMnYsDbQvwe9Lcpjf9NrXNkAcFswM3hyskgbC3IPdjwNrQPu-ZGBJXo9WXijQ-toUg4B4ua4E2TI1fGT77lHdqjSyjQ3UeYgenoYUxgwN_PosseQoi2gal-zXVZvDh-h08zf3rJEcJ2L2SyOZ5IJK4TCrNY20uQEBgxB68La4RLJ9qjZgU_i8Eec27B8an19K6lXKd349qQPOvWmft4892fqYwMhl7OK_M0",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJxYBSi-NLwokRNFXCqZYazS4",
+        "plus_code": {
+          "compound_code": "HV78+MJ Staten Island, NY, USA",
+          "global_code": "87G7HV78+MJ"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJxYBSi-NLwokRNFXCqZYazS4",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 96,
+        "vicinity": "3161 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5639306,
+            "lng": -74.1326704
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5653433302915,
+              "lng": -74.1312243197085
+            },
+            "southwest": {
+              "lat": 40.5626453697085,
+              "lng": -74.1339222802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 929-491-1225",
+        "name": "Starbucks Coffee Company",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111916669380806915192\">Dylan murphy</a>"
+            ],
+            "photo_reference": "AU_ZVEGj0QafT58vWXPIJaQzaGRuuciIkb-nk91DmMro4qYxpceb78YmSLYHRsTct6qHEEtaIlzVQXoO9wN8oc5Lzs2cMVC5DePcdpFA2bvRRYb9BqOdnnBl0QH532wpOlDNjv-QgalcC3QsSSpz-zg_QIxMgsnwk1vlwj0dn5ksQhWVqOoiyfIKcTBtVQ-X38vXzUhYjCg2MbGOMqnVGl4BKBfJzxZzw3bXvERGvJPcJk2FNTUu2bWHVV2PYdlklqyBQTo7CbefYytCPluNw810Qusa3M5Ah6C2GA0vGsC83NwrXIboFeXwxhi8PyOIDdTq4IlWb1rYgo2333MwNuQt2lwEVTPDcr6nD3udxNuifHiVk6uJQi2PmsNx-RuUsCaQLQanMshHCUUZo1p1c4wyIoVBU4kmPciVQHyeAJMV43QM6x18V5keNTWexSlB72x0NxbGZ4BJjsXJgQ6zYWcSpT35DwpWFVfat6p1UaLswtoUkRLGMoc0hE9FaFNBmjMlmDui9pUVsRM7GARDXTbR5v6WX5iz7bG_yOVPQaCFQanh-LwsHIC7cEfTV0Rx_NTuZme0kG9Yiah_xjzUwHzB1_lXDUOXyzbFkc8xFXO41KvkbaXaG3oTKFxqT6PmF8-Sr5NNsQAeLpPNmY72XBR7uA",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJ6ThH2URLwokRySd--BzpLlc",
+        "plus_code": {
+          "compound_code": "HV78+HW Staten Island, NY, USA",
+          "global_code": "87G7HV78+HW"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ6ThH2URLwokRySd--BzpLlc",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 42,
+        "vicinity": "3155 Amboy Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55046129999999,
+            "lng": -74.14599369999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5518043302915,
+              "lng": -74.14477571970849
+            },
+            "southwest": {
+              "lat": 40.5491063697085,
+              "lng": -74.1474736802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Greek foos",
+        "place_id": "ChIJD5ezbgBLwokR4EA9SRTli1k",
+        "plus_code": {
+          "compound_code": "HV23+5J Staten Island, NY, USA",
+          "global_code": "87G7HV23+5J"
+        },
+        "reference": "ChIJD5ezbgBLwokR4EA9SRTli1k",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "33 Midland Road, Staten Island"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5559252,
+            "lng": -74.1301514
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5572120802915,
+              "lng": -74.12869761970849
+            },
+            "southwest": {
+              "lat": 40.5545141197085,
+              "lng": -74.13139558029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Celestial height",
+        "place_id": "ChIJP9q4cgBLwokRvNUdSle7RwA",
+        "plus_code": {
+          "compound_code": "HV49+9W Staten Island, NY, USA",
+          "global_code": "87G7HV49+9W"
+        },
+        "reference": "ChIJP9q4cgBLwokRvNUdSle7RwA",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "21 Block Street, Staten Island"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55603850000001,
+            "lng": -74.14418169999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55696218029151,
+              "lng": -74.14232331970848
+            },
+            "southwest": {
+              "lat": 40.55426421970851,
+              "lng": -74.1450212802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Siedenburg Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105970766460633251443\">Siedenburg Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGxLuOvFYDHatp0dG6HtbuELCNRgoZZQxH7sF1HP7nwR9mAZForB2DQvm7FuW2TMvlQQ6DuyGl71Asv26ckCstrU6Hd25lYOkok6X2fC1jh0WVhnWj40eV9lMa1_u-zE2_C5OFC1XyQRXSi4feM5v4sumHM1rAcb22HW2FsWy5xLjk-HWN2DlKs2oONn_Jwzg323aNtCxJI-7sB0u7VKW_Wd8E5KJULkrxVU5Wdexje-fDeQyjDmvomj1__SC4EATJT3z_9ziDb3G46JSHfsZKN6ia5e3gi3xF83uyQXgLxPzzIcuIssEEL_4ftGyAGmRZKQ0H2t5A",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJRU2OJMFLwokRUJLVarmUEZ8",
+        "plus_code": {
+          "compound_code": "HV44+C8 Staten Island, NY, USA",
+          "global_code": "87G7HV44+C8"
+        },
+        "rating": 4.1,
+        "reference": "ChIJRU2OJMFLwokRUJLVarmUEZ8",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "190 Timber Ridge Drive, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.55166819999999,
+            "lng": -74.1363073
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5529828302915,
+              "lng": -74.13488431970849
+            },
+            "southwest": {
+              "lat": 40.55028486970851,
+              "lng": -74.1375822802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Greencroft Playground",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118116215656217214121\">Concetta Spinella</a>"
+            ],
+            "photo_reference": "AU_ZVEH7weDAf3JCKsaUX6TWyreViZeUX5526FkE8lIMzc6VnOz7lwnzAeXVDgR5agEwtQJIRFFV56W0O5sZlroJQIaqEH2cpfMGrRZkZdaWAcidrA6Uo3p6gU1kVbwjp7-6VWhEBVPRjJflPRWf2Msr1UwmTXSufkMedT0udQrklqcPRGnIG3M57-2K5moeo3OAyiOkm2Hu5KIC8zCqLSKWQmsXMEefCdvre33YmJQCLCZ3zTvk6swMQChuKvl-oCr1ZKSFMGIezWlijxcUbvoal-pm18LEZCHCNf89hMYXUdxQE2qFCWmlYokranEU5mWs0NsYLnEBwPv26r_S5M_s9bPjDoPuIPs_xiFN9-sjq70GjTECrsS6TEUPkOFcV7PEQDhYutvQ7j8eiAAPIzrJdVehnv99oeGr9Ke_4-x56jb4Zl0wpmCLsVeBawf27unAD5eQA36fuISD4GRQB-VHrpWgBs2dnVL2kaslbC83jCPIOo4WhGaMf4t_gL4hX6xGpD7TDteVIWasb4lpudyGscC-yAOOAnt8WLnHx3H9W6XNKAuSWQk7NhYYnOoyip4DZhNOjC0fmeCcXCqyX_QUdPsBuFE1aP8SieCOpKP6ZFTLLNoqBL4yB-pzNwlaPbs1",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJD9kS18RLwokRzJO2rgidgVU",
+        "plus_code": {
+          "compound_code": "HV27+MF Staten Island, NY, USA",
+          "global_code": "87G7HV27+MF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJD9kS18RLwokRzJO2rgidgVU",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 73,
+        "vicinity": "78 Greencroft Avenue #3038, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5564764,
+            "lng": -74.1368335
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5577751302915,
+              "lng": -74.1354413197085
+            },
+            "southwest": {
+              "lat": 40.5550771697085,
+              "lng": -74.13813928029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Bay Terrace",
+        "photos": [
+          {
+            "height": 900,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108605778596958236375\">Igor O.</a>"
+            ],
+            "photo_reference": "AU_ZVEFdMEloXaqD5iEoxDIl0xbxMfS_9OZzuZQi7jy76X759omslpBX_A4gij54wgYJZCTeJxtjZAkOvg-5qtIaxVdeOIy51C-UV48RTlXwGCD4X2K7EUeyx5dXaNFEAjgmFdjD9JCOlvMzSymRw9Zmv4vMnO4PBE_W7RpQnajj7ZZ305RYr2HOHYDFIbmoxtsjlYrxhCjiXCmYedMT4xB8VgcNUdR3Gy2mq7FgaLZK-oMOxwp6Bj3Xm6OuAqI2ypv1h8nuZXsjWR1bC6Ufn0Db7OcpCt82FQRMcB_H0twJoHafMO88-hh707SmoIHQEeSrP87QPLyTq9JNXoUgPj_bnusBgLR8PyEtJR8Pam9pmx7MGANrcbxqdYy6l9XScMzLBx7BaHOfUR_eAoolBMfTw6XdOMW2NiQwhCbc6CrFaq6KT4MWiPFqRfa8i_b_dnlWmSlDZbDSCriiH33NHCZ9hody5SDim-cC2Tt9JF_xDn08Y1fb9O7vgddAvSrKxFvzqHt6dO7YCAtR8wVQrhfz79mbdGOkwugSowEoXWLLUc9dgIxqLAWAXKvcU36xtHkPZRmDa3a5qhjQQFNm-o_Uh9R9DzC2OJ2tFRgTo-s-4JUZeWTNyOYTYLAboQPewy4gyQ1UV896",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJJcUmIcNLwokRXxNS6eCh1Cw",
+        "plus_code": {
+          "compound_code": "HV47+H7 New York, NY, USA",
+          "global_code": "87G7HV47+H7"
+        },
+        "rating": 3.7,
+        "reference": "ChIJJcUmIcNLwokRXxNS6eCh1Cw",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 23,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.552181,
+            "lng": -74.133575
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5535250802915,
+              "lng": -74.13221896970849
+            },
+            "southwest": {
+              "lat": 40.5508271197085,
+              "lng": -74.1349169302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Bay Terrace",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114301439061431969507\">Ruhshona Murodova</a>"
+            ],
+            "photo_reference": "AU_ZVEGT8TxWG4tokw3mn9aFfwz4P0dEqCI1ToMvFkakM9Xy7v7tRHN8E5oi-8zF_FcFX0N5sBGDwSdpXjQY8ObhZwygx1W4kedfp-TkFakox-YZh9tOU_Lpfq4XhyqJwWGt09cdtFEaUVKm33SgIPCA40DZXl3PYhNYymfIhamKqgU8F8Cpd3xOa_sfJKIcf1LKODWWMEsQVu0rAcMqftvKPxi9lLDVV5UPLNQ8-2VZ9cDziebPNjkfrQJlGiYr5OZHztkObUqf3wjIyI9vNNlEN-sHyTor5sN902nt4AkF6GDrT8HCzOp3OyUiuOpgZC1wOZ0q_8-mtdXU3iKMhsaa4rnL4ou54lqeY6ZqdqbXsRZY52b1KU_d6ImCZYSjbB5RVPZiszx8kbRx6-QRVxuhbcklh-VCR_tZLLmWAchyy1QGmuEjphLl7Xq2LnYk468JdU3Q_Q9mY3DxBKv9m_nWOFpfEemMYGanLK69QuWnxu1qxPO7JAk9CIqOeNHxAqpwZ22-CqiVCumrIu4UnoUJZ7YlzYED6LwEkjJGs5cBh0iGhsRXcHezSRy8-g1rcqLbS6S0kCNpnPoLPigNMvVC0g6Xj9-UVfdxk3P9lBYYB-Tr_wsIJzMKXyxmkqxIPqUhLniKxQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJtXxnDdtLwokR4_SNN6dy1p4",
+        "plus_code": {
+          "compound_code": "HV28+VH New York, NY, USA",
+          "global_code": "87G7HV28+VH"
+        },
+        "rating": 4,
+        "reference": "ChIJtXxnDdtLwokR4_SNN6dy1p4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.553467,
+            "lng": -74.13197300000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55481838029149,
+              "lng": -74.1306273197085
+            },
+            "southwest": {
+              "lat": 40.55212041970849,
+              "lng": -74.1333252802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Justin Ave",
+        "place_id": "ChIJf0DAd9xLwokRY1qYnmCmYfM",
+        "plus_code": {
+          "compound_code": "HV39+96 New York, NY, USA",
+          "global_code": "87G7HV39+96"
+        },
+        "reference": "ChIJf0DAd9xLwokRY1qYnmCmYfM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.552494,
+            "lng": -74.13280499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5538639802915,
+              "lng": -74.13148601970849
+            },
+            "southwest": {
+              "lat": 40.5511660197085,
+              "lng": -74.1341839802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Bay Terrace",
+        "place_id": "ChIJuwmGc9tLwokRzbkSq6frKlQ",
+        "plus_code": {
+          "compound_code": "HV28+XV New York, NY, USA",
+          "global_code": "87G7HV28+XV"
+        },
+        "reference": "ChIJuwmGc9tLwokRzbkSq6frKlQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55127349999999,
+            "lng": -74.1345825
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55253203029149,
+              "lng": -74.13342241970851
+            },
+            "southwest": {
+              "lat": 40.5498340697085,
+              "lng": -74.13612038029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Redgrave Av",
+        "place_id": "ChIJO1ZY39pLwokRkTStisluHYo",
+        "plus_code": {
+          "compound_code": "HV28+G5 New York, NY, USA",
+          "global_code": "87G7HV28+G5"
+        },
+        "reference": "ChIJO1ZY39pLwokRkTStisluHYo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.551178,
+            "lng": -74.134979
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5525253802915,
+              "lng": -74.13362846970848
+            },
+            "southwest": {
+              "lat": 40.5498274197085,
+              "lng": -74.1363264302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Redgrave Av",
+        "place_id": "ChIJoUHT2dpLwokRwo66UjDPPjw",
+        "plus_code": {
+          "compound_code": "HV28+F2 New York, NY, USA",
+          "global_code": "87G7HV28+F2"
+        },
+        "reference": "ChIJoUHT2dpLwokRwo66UjDPPjw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.553497,
+            "lng": -74.131546
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5548071802915,
+              "lng": -74.13030001970849
+            },
+            "southwest": {
+              "lat": 40.5521092197085,
+              "lng": -74.13299798029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Justin Av",
+        "place_id": "ChIJW5tTdNxLwokRYF7z_BNGbX4",
+        "plus_code": {
+          "compound_code": "HV39+99 New York, NY, USA",
+          "global_code": "87G7HV39+99"
+        },
+        "rating": 5,
+        "reference": "ChIJW5tTdNxLwokRYF7z_BNGbX4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.551369,
+            "lng": -74.13418600000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5527322302915,
+              "lng": -74.13285376970849
+            },
+            "southwest": {
+              "lat": 40.5500342697085,
+              "lng": -74.1355517302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Redgrave Av",
+        "place_id": "ChIJj3KfH9tLwokRgy2eisgl484",
+        "plus_code": {
+          "compound_code": "HV28+G8 New York, NY, USA",
+          "global_code": "87G7HV28+G8"
+        },
+        "reference": "ChIJj3KfH9tLwokRgy2eisgl484",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55515700000001,
+            "lng": -74.12979899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5565039802915,
+              "lng": -74.12844686970848
+            },
+            "southwest": {
+              "lat": 40.5538060197085,
+              "lng": -74.1311448302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Spratt Ave",
+        "place_id": "ChIJ_TRpgt5LwokRwm3PrZQZIZY",
+        "plus_code": {
+          "compound_code": "HV4C+33 New York, NY, USA",
+          "global_code": "87G7HV4C+33"
+        },
+        "rating": 5,
+        "reference": "ChIJ_TRpgt5LwokRwm3PrZQZIZY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.55514549999999,
+            "lng": -74.1296385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55649458029149,
+              "lng": -74.1282896197085
+            },
+            "southwest": {
+              "lat": 40.55379661970849,
+              "lng": -74.1309875802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Spratt Av",
+        "place_id": "ChIJD9-5g95LwokRcazPTr7tn1s",
+        "plus_code": {
+          "compound_code": "HV4C+34 New York, NY, USA",
+          "global_code": "87G7HV4C+34"
+        },
+        "reference": "ChIJD9-5g95LwokRcazPTr7tn1s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.555134,
+            "lng": -74.12947799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5564829802915,
+              "lng": -74.12812901970848
+            },
+            "southwest": {
+              "lat": 40.5537850197085,
+              "lng": -74.1308269802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Spratt Ave",
+        "place_id": "ChIJR1hzhN5LwokRdPC4HJ4zivA",
+        "plus_code": {
+          "compound_code": "HV4C+36 New York, NY, USA",
+          "global_code": "87G7HV4C+36"
+        },
+        "reference": "ChIJR1hzhN5LwokRdPC4HJ4zivA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.549747,
+            "lng": -74.13690199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5511156302915,
+              "lng": -74.1355760697085
+            },
+            "southwest": {
+              "lat": 40.5484176697085,
+              "lng": -74.13827403029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Keegans Ln",
+        "place_id": "ChIJmTKzXMVLwokRSs-tT-dvkMc",
+        "plus_code": {
+          "compound_code": "GVX7+V6 New York, NY, USA",
+          "global_code": "87G7GVX7+V6"
+        },
+        "reference": "ChIJmTKzXMVLwokRSs-tT-dvkMc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.549591,
+            "lng": -74.13735199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55095093029151,
+              "lng": -74.1359879697085
+            },
+            "southwest": {
+              "lat": 40.54825296970851,
+              "lng": -74.1386859302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Keegans La",
+        "place_id": "ChIJX8cZZ8VLwokRjAQW8uAtzoI",
+        "plus_code": {
+          "compound_code": "GVX7+R3 New York, NY, USA",
+          "global_code": "87G7GVX7+R3"
+        },
+        "reference": "ChIJX8cZZ8VLwokRjAQW8uAtzoI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.549435,
+            "lng": -74.137802
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.55077683029151,
+              "lng": -74.1364435197085
+            },
+            "southwest": {
+              "lat": 40.54807886970851,
+              "lng": -74.1391414802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Keegans Ln",
+        "place_id": "ChIJQ8UEY8VLwokRkzysHN2oZLQ",
+        "plus_code": {
+          "compound_code": "GVX6+QV New York, NY, USA",
+          "global_code": "87G7GVX6+QV"
+        },
+        "rating": 5,
+        "reference": "ChIJQ8UEY8VLwokRkzysHN2oZLQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56537050000001,
+            "lng": -74.134487
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56673173029149,
+              "lng": -74.1331579197085
+            },
+            "southwest": {
+              "lat": 40.56403376970849,
+              "lng": -74.1358558802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Clarke Av/Wilder Av",
+        "place_id": "ChIJ03cCl-VLwokRVaa7PfLcH-s",
+        "plus_code": {
+          "compound_code": "HV88+46 New York, NY, USA",
+          "global_code": "87G7HV88+46"
+        },
+        "reference": "ChIJ03cCl-VLwokRVaa7PfLcH-s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5653,
+            "lng": -74.13439900000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5666142802915,
+              "lng": -74.1330642197085
+            },
+            "southwest": {
+              "lat": 40.5639163197085,
+              "lng": -74.13576218029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Clarke Ave/Wilder Ave",
+        "place_id": "ChIJG4BEluVLwokRzAdpu4r99lk",
+        "plus_code": {
+          "compound_code": "HV88+46 New York, NY, USA",
+          "global_code": "87G7HV88+46"
+        },
+        "reference": "ChIJG4BEluVLwokRzAdpu4r99lk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.565441,
+            "lng": -74.13457500000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5667814802915,
+              "lng": -74.1332117697085
+            },
+            "southwest": {
+              "lat": 40.5640835197085,
+              "lng": -74.13590973029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Clarke Ave/Wilder Ave",
+        "place_id": "ChIJsVg5l-VLwokR4LaJSlqEnoo",
+        "plus_code": {
+          "compound_code": "HV88+55 New York, NY, USA",
+          "global_code": "87G7HV88+55"
+        },
+        "reference": "ChIJsVg5l-VLwokR4LaJSlqEnoo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.556396,
+            "lng": -74.12847099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5577403302915,
+              "lng": -74.1271145197085
+            },
+            "southwest": {
+              "lat": 40.5550423697085,
+              "lng": -74.1298124802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Buffalo St",
+        "place_id": "ChIJmWZrat5LwokRLWv9xjZcBOM",
+        "plus_code": {
+          "compound_code": "HV4C+HJ New York, NY, USA",
+          "global_code": "87G7HV4C+HJ"
+        },
+        "reference": "ChIJmWZrat5LwokRLWv9xjZcBOM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56101,
+          "lng": -74.135381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5624356302915,
+            "lng": -74.13425371970848
+          },
+          "southwest": {
+            "lat": 40.5597376697085,
+            "lng": -74.1369516802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-351-2100",
+      "name": "Domenico's Pizzeria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117781757167136016730\">Domenico&#39;s Pizzeria</a>"
+          ],
+          "photo_reference": "AU_ZVEG-0gk5jU5uoCmGEd6Wwj4pBgXVJ24IUx50W91wJVSlh0eVyFVBc3qFFGjnD-5JoDjaDvDeVs-bnt8UDAFIFL7R6UqKySeJxwopns0hjad1EdmrIO8RmtbB7ZBfGg1Lr3xYH8-40bvbv_mk5tp1IyE0muEovV0dCb305Tp7I0zQ8HYIVyWQ6HRmhRgGr9FhONMF0RgIBcgRcT7lc0Y4B48dDovLf9g-D1ClrMEWQVq6Z-jygaDkeLVf08XZvr_DtQ-E3BcIGenDbAjUzy517W7bjwvetryIAbkQarOlBs9LnXvSM4g0PbPrDUtNHN-jKjzQvwni3Us",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJtXfle-hLwokRdZpOw4scVqo",
+      "plus_code": {
+        "compound_code": "HV67+CR Staten Island, NY, USA",
+        "global_code": "87G7HV67+CR"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJtXfle-hLwokRdZpOw4scVqo",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 189,
+      "vicinity": "3295 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5538195,
+          "lng": -74.1427483
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5550645302915,
+            "lng": -74.14133071970849
+          },
+          "southwest": {
+            "lat": 40.5523665697085,
+            "lng": -74.1440286802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-966-1155",
+      "name": "Genki Sushi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108605778596958236375\">Igor O.</a>"
+          ],
+          "photo_reference": "AU_ZVEHOzlBig6l88HKp2oPxGqNMcgh_h2BaVElzYN1SzazIDtCArWfukDLW9_I6-MxR4t4DFPdLGjh40P-VRKQ6dkE8Gpbsw_KHvgzC1u3p6xm4CvVvHuZoY8OMw2u5ipe2csoL9-8syE2QEGZuRlHmMdqg1Nu6xqySiJ82YykJCQ59PTk7HbfAJ-AUuuLY5s6xAnPBI1269K6tYoqk5Ry2gdu86c8QY0AOJHiJbUisrwRW0_s6DRWsS7NVlprID1bkaxTGtyOJz1vsJ3_p-PhAOXMEkxjYtbvpfvWwenUYkm0iTjEkWKtwnwi7KcyH9up8eguSfFnPthiDjIV67GjRnvPwT80tqlGkQp_XglHpNalCRzjilvSv2j7DUzbho2H7OVRcXkQ9kf0TJNLl9p4v-GB9ARyo8vXJC1e_0OJtR2Ek4c5D_2SDb1e9RkIT2-hwfR53RvCrtIrzITyGcX0TGdIshC7hpx7B8iCmynuAKpGrAYr2_--GS2Mf6Q3w4i2F7hpMay4kL0EK2bQ3FYoCmwCnzdL0yY10e8sl7lYu6-pVl-deEDUPUnOmKtlfWLnnpwSM2xuyNRjERLaBJ_TlGV4AGyb5gQ0HIIzb_coctaD4UtZmQUc-eH5713266w7LCG7qQSlU",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ7wnmuMZLwokRQC790GkAuFo",
+      "plus_code": {
+        "compound_code": "HV34+GW Staten Island, NY, USA",
+        "global_code": "87G7HV34+GW"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ7wnmuMZLwokRQC790GkAuFo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 389,
+      "vicinity": "150 Greaves Lane, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5640547,
+          "lng": -74.13292489999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5654729302915,
+            "lng": -74.1316101697085
+          },
+          "southwest": {
+            "lat": 40.5627749697085,
+            "lng": -74.1343081302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-668-1570",
+      "name": "Oakwood Diner",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112599131615393699956\">Paul Dunn</a>"
+          ],
+          "photo_reference": "AU_ZVEFR4pLAYvROGzDFsxRW-yMDpMAeKa5Jd_LfFAvzKp6SJq5-WNHOCr5Vdrb43-wT7mcAo_W0LRFcP4vdv3om7LH-3lTlcJ4ahs8CFjsnS35LTw8UE8_GAnra22TyeTFrpuMRm_LKfwJ96oYPXFR7ykv_U0wDtrIKGE4WnkCZTDKC-aXqTvISGmpHRD3uCnA0jZcjK47YSdmTL6gZcZmrN00OcnQMxpLaC27DG8_CG6CKKnJEh1cczsv-nCwEDyZVbdNtwUyqhlQETJMX81yS0T3grzYHXYFBiLytL62jvpTNmQNvPyV5SXNtrigSBKdm7w07i4XpZtAgDD4nW9-Z0_nyA8k2I7hPu9h95OyO8EFyUn5f_9tYAUIBAIcBc3y818WiHxp4ekrPz_Ilgz_LvJimB8zHkMcUKIpOZ9kKMgiPPqCB2g6P3i3y2svaXskOIKzz0dMNuetJ3gG38-xGFOkLnIP7f7qdwuUzGMb5TysNkKiai_lNh4-sypzXqIy_x7ZKN2-BHFCBiXujq_MEpVtb5bKUtCenGtMeqspVKn2plFc_DhQdIFYf2Ol4O15zwnQF_H-Py5xnW2F9BpQvv8OTD80G_FMA30WzFCK8BXSvQK7Pbynih5F5DOe1nMEH6GLhWFWl",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJO5H_KuRLwokRAafLsH4FqRg",
+      "plus_code": {
+        "compound_code": "HV78+JR Staten Island, NY, USA",
+        "global_code": "87G7HV78+JR"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJO5H_KuRLwokRAafLsH4FqRg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 630,
+      "vicinity": "3161 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5599083,
+          "lng": -74.1349406
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5612802302915,
+            "lng": -74.13369011970849
+          },
+          "southwest": {
+            "lat": 40.5585822697085,
+            "lng": -74.1363880802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-668-2050",
+      "name": "Supreme Memorials",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 496,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102412798659799257769\">Supreme Memorials</a>"
+          ],
+          "photo_reference": "AU_ZVEHbFVGPuzdY69SJQ0QRIaxDacT5UiWGVF2I8cpOhvboxKounQKjrnpP2qFxCcD9aGyGsuaVaMngifdFtVYlNFrXUJRcCLEjsEPAmHzrTet-ixHi4nmtdV_LGmRM4dr5TVNi_CYJd6a4NaX5X9CtcfLzI9Zhd4pTdjpdgtAHoS_oXhx5F8BE5Gs8L1UK_JzpwMOuZAeCnkDepU1k8xUwYM2sMmJvEUAkrQ3hd5Ml78qQGITOWikwH4BerxVfY3_N8l9RqWs0eMuQExvBHmwIOIkYWrVt3sdKnHFtn_kE2JHey3I9JyKlz9YRdSv6Lt7W6o9ZJznlnR0",
+          "width": 415
+        }
+      ],
+      "place_id": "ChIJsxRr6OdLwokRekeuAdJ5mpE",
+      "plus_code": {
+        "compound_code": "HV58+X2 Staten Island, NY, USA",
+        "global_code": "87G7HV58+X2"
+      },
+      "rating": 3.7,
+      "reference": "ChIJsxRr6OdLwokRekeuAdJ5mpE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "3316 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5534203,
+          "lng": -74.1435742
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5548266802915,
+            "lng": -74.1421519197085
+          },
+          "southwest": {
+            "lat": 40.5521287197085,
+            "lng": -74.1448498802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-227-2405",
+      "name": "Villa Paradiso Ristorante Italiano",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108548695432456825099\">Bolivar Buestan</a>"
+          ],
+          "photo_reference": "AU_ZVEFn9TTVbBXoyPfbW-4wvL_ST1NixH6hsxKB-nTiD4FZQb8CASHPRZuDVDM7yqwmo16x8HH-5TAsrHf-IU548ExaNhdB0M8TguPZ06z7cZydNTfCVdRicnachdYGlWFrz0gXghCi_rD2SWefA5hTUCPwyPF6IZocJQviJv6QCcYYv6cAB1sBfeVegVQqLSeEVWg7wR41_nwsLpRK_RM16RsXwtC_rat307zvMoovRLjkE8ARNHROUkPlL0l1A9r5MhWmZvIUWwFDNfgTilEpRksW9pGWOd3wNvJqAJETrG6yyzBidnx4_HYJAXoDQYG8EnmFY8-YQUeq9Saxa1UtOa9-6XdToIVG-Gy2uXUOcN9Yb8qs6hdZ_9pBgouPOrOLfC0NePRKFmv9NbM6XFDPDP389Ib75UShCwy2UC5YezEI3Wpc7s7sn2UrKzJct23BAxIjEE3dP7oiu3YsGzN6uh0KwqlXGb0SXE6PRzoh34I-8K0wC_GNfB3rUZzrlMoJ33aVPrAIy00VPcybcn1Q1enGAaXMHG8zK8X_XdaoR-fK0KIE9tEdgr_2za8Qtn8fyo48tKrf3mGlS3WCk8_D2kaxKrhx8G_xjUeNwG1agYvmUVoCmHQtEoRdnCGES3CYEjtBdA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJb_L0pMZLwokRt8kbZIH-v5o",
+      "plus_code": {
+        "compound_code": "HV34+9H Staten Island, NY, USA",
+        "global_code": "87G7HV34+9H"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJb_L0pMZLwokRt8kbZIH-v5o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 557,
+      "vicinity": "145 Greaves Lane, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56089,
+          "lng": -74.1351178
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5621904802915,
+            "lng": -74.1336861197085
+          },
+          "southwest": {
+            "lat": 40.5594925197085,
+            "lng": -74.1363840802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 917-538-4402",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108605778596958236375\">Igor O.</a>"
+          ],
+          "photo_reference": "AU_ZVEGLVLQVIsMuGBr28qB-GNlh3yidOgLtN0IDw_A8ag7OUVfRxWrfiQ3utd0oxvvQJI0qMrjG7WvsELHTE3YGrXHdhwpvVBf1IlgtJXL9WiM593U5bysMoJGp391-Y8gcolJkrpViRgxODypDYZLf34nw9xAKPCyDvq1vGWzuVBDHvxI8kB8ZRds51La6vW3Lo6YNO2fbpLhD3zH9NUyjJgMio_zHwOMrHlPRhHTRnFxw4qjTgbZvK3nARJhwDZXJAfSa775RjadYtnDmPTfjxFD8RF6SPP2aK9HnoBDf446B8coi6w2EJ8v4JUyvesS7DJV3MQxjgswGglcJEjbalWgX8LnmONoNIikbXVwgr8vzYBXnVM3RK5vVzk-XgXcRGuGbjWk5yHWHPE8acBwAbWTKC971q91W6GRBEynX4DFW7tvT4Dq-i3N-t6JTb-dAEHoYylTYx5zUax-nxrMQGIRtss0HU9wlRkhiU4WMaZgGS3bnRfTqCC5deB04MscwXaFYDg4vZ2G3wowFoq8i1xlNawJ4bxHL-XkRHxi8QEa2I8sbrAfy4KLzDg6uEVu_I5syITJyJ5Lqsn9xdnQWzYB_Qb99J39eS_eCosOhaF1kXxi2Q7BEjQgRvceTJ9EEvv-3OA",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJkalQpONLwokR4I9wNibU8NA",
+      "plus_code": {
+        "compound_code": "HV67+9X Staten Island, NY, USA",
+        "global_code": "87G7HV67+9X"
+      },
+      "price_level": 1,
+      "rating": 3.2,
+      "reference": "ChIJkalQpONLwokR4I9wNibU8NA",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 287,
+      "vicinity": "Riviera Plaza, 3291 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55427009999999,
+          "lng": -74.1431985
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5555904302915,
+            "lng": -74.1419685697085
+          },
+          "southwest": {
+            "lat": 40.5528924697085,
+            "lng": -74.14466653029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-966-7111",
+      "name": "Dunkin'",
+      "photos": [
+        {
+          "height": 1440,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105446066942932387126\">Mohamed Sorogy</a>"
+          ],
+          "photo_reference": "AU_ZVEGWcapbsJiVVIM3MR2N8rK1VYgfJX_klYa5uErAPZEE0iyxncc1VyEimDrvghpCb7mZi9GuNk096YfqKA8iV7XbJFoevdi-gU7RUAlVqIpzdQ3Ym39mFCt3lTXMPvfLj8xCgxwaM5l8GPLP3ndJODfeNTtT37XKr-MD4cKaQn1VqZ50GF1_6zB9543tOQEKpJbbsG6ZCxXOK7S2h5xw7SMPPA_Y4EV_cmqFkRT2gGAD1vm2AnrfpsSTq54JrZQq1yVsF5Dx4H1i6TJYO8pWoaTnz7PU2RgzDiNRSVSlV4KSXr6qxQEia3L7DG4U5mBlgmhUqRx_THylYaQJzmBl9GTMmzdHPf6jxsj-5Uio8jlrIhChMb3QHp2hBvDRRwnDWSQt2nTOo7ZIG_MNH-d9ViBlht-rfwHX7268oNYtWjB_H89Tll3FO2QCUmBzzSCtviZRF7JR59Hu9PtgT4Fs6R2QK5NvqM9MVm2KNl8QxIalLRExCxhK9IyKmdUyZqap6vviX-WUTHm7OPmcLgRrnmIBybMG_1HXZ9gyuEXvG6jUU4k7nevlNSMX64MXZazgckzeU6fVXHqnQOixJgfX7A4S5w3NzGGlwNig7vlSnuQ7oFJ9F1bGT3cxDoGxW-bwBWHFZw",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJ3TET9sNLwokRT34QGct-JSg",
+      "plus_code": {
+        "compound_code": "HV34+PP Staten Island, NY, USA",
+        "global_code": "87G7HV34+PP"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJ3TET9sNLwokRT34QGct-JSg",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 165,
+      "vicinity": "Evergreen Plaza, 150-B Greaves Lane, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5611624,
+          "lng": -74.1356948
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5624949302915,
+            "lng": -74.13444651970849
+          },
+          "southwest": {
+            "lat": 40.5597969697085,
+            "lng": -74.1371444802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-374-5690",
+      "name": "Alfonso's Cantina",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105192094505021045619\">Javier Flores</a>"
+          ],
+          "photo_reference": "AU_ZVEEQSb-EA4BsgHVdduswmqB4mHza4Db0BhATUIWhUJamtnTPoPjbtgbqd66rxF3oRjo3tWcdGZhtxBvne1_uVGIsGzEgVlHE21BOrWtjAG8q6nWe3iTTIzs2E3ZQudzuhIWFZQVTzM1JXG_YiI22Tq8aDhzY3pI3b2HN_jUVNGtP5ZHHZq6F8zukv3EYkDhYNUJGfi1Hc1hikbOh1pzWKWvsmcMepeLDkBaK5b75pPeX3QDM1Chjf571TH6vvAta4u6aa-WCa3bEGEPwrwPLr5HSrXmSyiq6QWBONesfVIrdWF8M3zGqJBXWqC6kt6Xkj2Sf7Q5-XlMwK-OQH6F0IGgl-EDGrw8gHqYmjgb_5WSNVuY_fMl2hAmG_XtFq2qWEIeK8AcdxQtUzvWNL1gz-z68yje1BTYpAVpYKYQmC5HfWBQ54FL4SFUO6HbQqEquXa4lg3gUuWKaVI6U-3OEkM8suW7Agv3oAtBIbGLO95sjUzlrp1s4Cg8rmfWKg2cXsRZJdNg0L7oDRShFX-xmsJOKYDg7nRGHvacbLwyz3cHXmUSX3UdK1mO-k26S_1ztfTskTAHZJ1RnyRuG3xldr7TadJsPGlH47jVin0ZqEPWKiE-hzeCwNysFu0y2KPW-t62WcA",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJpYOnMq1LwokRPm_Dy6Vhydc",
+      "plus_code": {
+        "compound_code": "HV67+FP Staten Island, NY, USA",
+        "global_code": "87G7HV67+FP"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJpYOnMq1LwokRPm_Dy6Vhydc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 92,
+      "vicinity": "3295 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56421710000001,
+          "lng": -74.1334468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5656727302915,
+            "lng": -74.1321382197085
+          },
+          "southwest": {
+            "lat": 40.5629747697085,
+            "lng": -74.1348361802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-987-8800",
+      "name": "Ambrosino's",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107357849587435762076\">Ambrosino&#39;s</a>"
+          ],
+          "photo_reference": "AU_ZVEHBOeifWGtULJV8VOPbYlNugcVEFVzexAIQzm9wS2EonA4XjUZ_T6YepFjmJkTZ-KnIzLqCMUQWqgxS_ew-gRinf4MeVCWue8llCD4ZNMnYsDbQvwe9Lcpjf9NrXNkAcFswM3hyskgbC3IPdjwNrQPu-ZGBJXo9WXijQ-toUg4B4ua4E2TI1fGT77lHdqjSyjQ3UeYgenoYUxgwN_PosseQoi2gal-zXVZvDh-h08zf3rJEcJ2L2SyOZ5IJK4TCrNY20uQEBgxB68La4RLJ9qjZgU_i8Eec27B8an19K6lXKd349qQPOvWmft4892fqYwMhl7OK_M0",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJxYBSi-NLwokRNFXCqZYazS4",
+      "plus_code": {
+        "compound_code": "HV78+MJ Staten Island, NY, USA",
+        "global_code": "87G7HV78+MJ"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJxYBSi-NLwokRNFXCqZYazS4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 96,
+      "vicinity": "3161 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5639306,
+          "lng": -74.1326704
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5653433302915,
+            "lng": -74.1312243197085
+          },
+          "southwest": {
+            "lat": 40.5626453697085,
+            "lng": -74.1339222802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 929-491-1225",
+      "name": "Starbucks Coffee Company",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111916669380806915192\">Dylan murphy</a>"
+          ],
+          "photo_reference": "AU_ZVEGj0QafT58vWXPIJaQzaGRuuciIkb-nk91DmMro4qYxpceb78YmSLYHRsTct6qHEEtaIlzVQXoO9wN8oc5Lzs2cMVC5DePcdpFA2bvRRYb9BqOdnnBl0QH532wpOlDNjv-QgalcC3QsSSpz-zg_QIxMgsnwk1vlwj0dn5ksQhWVqOoiyfIKcTBtVQ-X38vXzUhYjCg2MbGOMqnVGl4BKBfJzxZzw3bXvERGvJPcJk2FNTUu2bWHVV2PYdlklqyBQTo7CbefYytCPluNw810Qusa3M5Ah6C2GA0vGsC83NwrXIboFeXwxhi8PyOIDdTq4IlWb1rYgo2333MwNuQt2lwEVTPDcr6nD3udxNuifHiVk6uJQi2PmsNx-RuUsCaQLQanMshHCUUZo1p1c4wyIoVBU4kmPciVQHyeAJMV43QM6x18V5keNTWexSlB72x0NxbGZ4BJjsXJgQ6zYWcSpT35DwpWFVfat6p1UaLswtoUkRLGMoc0hE9FaFNBmjMlmDui9pUVsRM7GARDXTbR5v6WX5iz7bG_yOVPQaCFQanh-LwsHIC7cEfTV0Rx_NTuZme0kG9Yiah_xjzUwHzB1_lXDUOXyzbFkc8xFXO41KvkbaXaG3oTKFxqT6PmF8-Sr5NNsQAeLpPNmY72XBR7uA",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJ6ThH2URLwokRySd--BzpLlc",
+      "plus_code": {
+        "compound_code": "HV78+HW Staten Island, NY, USA",
+        "global_code": "87G7HV78+HW"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ6ThH2URLwokRySd--BzpLlc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 42,
+      "vicinity": "3155 Amboy Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55046129999999,
+          "lng": -74.14599369999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5518043302915,
+            "lng": -74.14477571970849
+          },
+          "southwest": {
+            "lat": 40.5491063697085,
+            "lng": -74.1474736802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Greek foos",
+      "place_id": "ChIJD5ezbgBLwokR4EA9SRTli1k",
+      "plus_code": {
+        "compound_code": "HV23+5J Staten Island, NY, USA",
+        "global_code": "87G7HV23+5J"
+      },
+      "reference": "ChIJD5ezbgBLwokR4EA9SRTli1k",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "33 Midland Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5559252,
+          "lng": -74.1301514
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5572120802915,
+            "lng": -74.12869761970849
+          },
+          "southwest": {
+            "lat": 40.5545141197085,
+            "lng": -74.13139558029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Celestial height",
+      "place_id": "ChIJP9q4cgBLwokRvNUdSle7RwA",
+      "plus_code": {
+        "compound_code": "HV49+9W Staten Island, NY, USA",
+        "global_code": "87G7HV49+9W"
+      },
+      "reference": "ChIJP9q4cgBLwokRvNUdSle7RwA",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "21 Block Street, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55603850000001,
+          "lng": -74.14418169999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55696218029151,
+            "lng": -74.14232331970848
+          },
+          "southwest": {
+            "lat": 40.55426421970851,
+            "lng": -74.1450212802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Siedenburg Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105970766460633251443\">Siedenburg Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGxLuOvFYDHatp0dG6HtbuELCNRgoZZQxH7sF1HP7nwR9mAZForB2DQvm7FuW2TMvlQQ6DuyGl71Asv26ckCstrU6Hd25lYOkok6X2fC1jh0WVhnWj40eV9lMa1_u-zE2_C5OFC1XyQRXSi4feM5v4sumHM1rAcb22HW2FsWy5xLjk-HWN2DlKs2oONn_Jwzg323aNtCxJI-7sB0u7VKW_Wd8E5KJULkrxVU5Wdexje-fDeQyjDmvomj1__SC4EATJT3z_9ziDb3G46JSHfsZKN6ia5e3gi3xF83uyQXgLxPzzIcuIssEEL_4ftGyAGmRZKQ0H2t5A",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJRU2OJMFLwokRUJLVarmUEZ8",
+      "plus_code": {
+        "compound_code": "HV44+C8 Staten Island, NY, USA",
+        "global_code": "87G7HV44+C8"
+      },
+      "rating": 4.1,
+      "reference": "ChIJRU2OJMFLwokRUJLVarmUEZ8",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "190 Timber Ridge Drive, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.55166819999999,
+          "lng": -74.1363073
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5529828302915,
+            "lng": -74.13488431970849
+          },
+          "southwest": {
+            "lat": 40.55028486970851,
+            "lng": -74.1375822802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Greencroft Playground",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118116215656217214121\">Concetta Spinella</a>"
+          ],
+          "photo_reference": "AU_ZVEH7weDAf3JCKsaUX6TWyreViZeUX5526FkE8lIMzc6VnOz7lwnzAeXVDgR5agEwtQJIRFFV56W0O5sZlroJQIaqEH2cpfMGrRZkZdaWAcidrA6Uo3p6gU1kVbwjp7-6VWhEBVPRjJflPRWf2Msr1UwmTXSufkMedT0udQrklqcPRGnIG3M57-2K5moeo3OAyiOkm2Hu5KIC8zCqLSKWQmsXMEefCdvre33YmJQCLCZ3zTvk6swMQChuKvl-oCr1ZKSFMGIezWlijxcUbvoal-pm18LEZCHCNf89hMYXUdxQE2qFCWmlYokranEU5mWs0NsYLnEBwPv26r_S5M_s9bPjDoPuIPs_xiFN9-sjq70GjTECrsS6TEUPkOFcV7PEQDhYutvQ7j8eiAAPIzrJdVehnv99oeGr9Ke_4-x56jb4Zl0wpmCLsVeBawf27unAD5eQA36fuISD4GRQB-VHrpWgBs2dnVL2kaslbC83jCPIOo4WhGaMf4t_gL4hX6xGpD7TDteVIWasb4lpudyGscC-yAOOAnt8WLnHx3H9W6XNKAuSWQk7NhYYnOoyip4DZhNOjC0fmeCcXCqyX_QUdPsBuFE1aP8SieCOpKP6ZFTLLNoqBL4yB-pzNwlaPbs1",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJD9kS18RLwokRzJO2rgidgVU",
+      "plus_code": {
+        "compound_code": "HV27+MF Staten Island, NY, USA",
+        "global_code": "87G7HV27+MF"
+      },
+      "rating": 4.1,
+      "reference": "ChIJD9kS18RLwokRzJO2rgidgVU",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 73,
+      "vicinity": "78 Greencroft Avenue #3038, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5564764,
+          "lng": -74.1368335
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5577751302915,
+            "lng": -74.1354413197085
+          },
+          "southwest": {
+            "lat": 40.5550771697085,
+            "lng": -74.13813928029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Bay Terrace",
+      "photos": [
+        {
+          "height": 900,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108605778596958236375\">Igor O.</a>"
+          ],
+          "photo_reference": "AU_ZVEFdMEloXaqD5iEoxDIl0xbxMfS_9OZzuZQi7jy76X759omslpBX_A4gij54wgYJZCTeJxtjZAkOvg-5qtIaxVdeOIy51C-UV48RTlXwGCD4X2K7EUeyx5dXaNFEAjgmFdjD9JCOlvMzSymRw9Zmv4vMnO4PBE_W7RpQnajj7ZZ305RYr2HOHYDFIbmoxtsjlYrxhCjiXCmYedMT4xB8VgcNUdR3Gy2mq7FgaLZK-oMOxwp6Bj3Xm6OuAqI2ypv1h8nuZXsjWR1bC6Ufn0Db7OcpCt82FQRMcB_H0twJoHafMO88-hh707SmoIHQEeSrP87QPLyTq9JNXoUgPj_bnusBgLR8PyEtJR8Pam9pmx7MGANrcbxqdYy6l9XScMzLBx7BaHOfUR_eAoolBMfTw6XdOMW2NiQwhCbc6CrFaq6KT4MWiPFqRfa8i_b_dnlWmSlDZbDSCriiH33NHCZ9hody5SDim-cC2Tt9JF_xDn08Y1fb9O7vgddAvSrKxFvzqHt6dO7YCAtR8wVQrhfz79mbdGOkwugSowEoXWLLUc9dgIxqLAWAXKvcU36xtHkPZRmDa3a5qhjQQFNm-o_Uh9R9DzC2OJ2tFRgTo-s-4JUZeWTNyOYTYLAboQPewy4gyQ1UV896",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJJcUmIcNLwokRXxNS6eCh1Cw",
+      "plus_code": {
+        "compound_code": "HV47+H7 New York, NY, USA",
+        "global_code": "87G7HV47+H7"
+      },
+      "rating": 3.7,
+      "reference": "ChIJJcUmIcNLwokRXxNS6eCh1Cw",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.552181,
+          "lng": -74.133575
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5535250802915,
+            "lng": -74.13221896970849
+          },
+          "southwest": {
+            "lat": 40.5508271197085,
+            "lng": -74.1349169302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Bay Terrace",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114301439061431969507\">Ruhshona Murodova</a>"
+          ],
+          "photo_reference": "AU_ZVEGT8TxWG4tokw3mn9aFfwz4P0dEqCI1ToMvFkakM9Xy7v7tRHN8E5oi-8zF_FcFX0N5sBGDwSdpXjQY8ObhZwygx1W4kedfp-TkFakox-YZh9tOU_Lpfq4XhyqJwWGt09cdtFEaUVKm33SgIPCA40DZXl3PYhNYymfIhamKqgU8F8Cpd3xOa_sfJKIcf1LKODWWMEsQVu0rAcMqftvKPxi9lLDVV5UPLNQ8-2VZ9cDziebPNjkfrQJlGiYr5OZHztkObUqf3wjIyI9vNNlEN-sHyTor5sN902nt4AkF6GDrT8HCzOp3OyUiuOpgZC1wOZ0q_8-mtdXU3iKMhsaa4rnL4ou54lqeY6ZqdqbXsRZY52b1KU_d6ImCZYSjbB5RVPZiszx8kbRx6-QRVxuhbcklh-VCR_tZLLmWAchyy1QGmuEjphLl7Xq2LnYk468JdU3Q_Q9mY3DxBKv9m_nWOFpfEemMYGanLK69QuWnxu1qxPO7JAk9CIqOeNHxAqpwZ22-CqiVCumrIu4UnoUJZ7YlzYED6LwEkjJGs5cBh0iGhsRXcHezSRy8-g1rcqLbS6S0kCNpnPoLPigNMvVC0g6Xj9-UVfdxk3P9lBYYB-Tr_wsIJzMKXyxmkqxIPqUhLniKxQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJtXxnDdtLwokR4_SNN6dy1p4",
+      "plus_code": {
+        "compound_code": "HV28+VH New York, NY, USA",
+        "global_code": "87G7HV28+VH"
+      },
+      "rating": 4,
+      "reference": "ChIJtXxnDdtLwokR4_SNN6dy1p4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.553467,
+          "lng": -74.13197300000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55481838029149,
+            "lng": -74.1306273197085
+          },
+          "southwest": {
+            "lat": 40.55212041970849,
+            "lng": -74.1333252802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Justin Ave",
+      "place_id": "ChIJf0DAd9xLwokRY1qYnmCmYfM",
+      "plus_code": {
+        "compound_code": "HV39+96 New York, NY, USA",
+        "global_code": "87G7HV39+96"
+      },
+      "reference": "ChIJf0DAd9xLwokRY1qYnmCmYfM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.552494,
+          "lng": -74.13280499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5538639802915,
+            "lng": -74.13148601970849
+          },
+          "southwest": {
+            "lat": 40.5511660197085,
+            "lng": -74.1341839802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Bay Terrace",
+      "place_id": "ChIJuwmGc9tLwokRzbkSq6frKlQ",
+      "plus_code": {
+        "compound_code": "HV28+XV New York, NY, USA",
+        "global_code": "87G7HV28+XV"
+      },
+      "reference": "ChIJuwmGc9tLwokRzbkSq6frKlQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55127349999999,
+          "lng": -74.1345825
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55253203029149,
+            "lng": -74.13342241970851
+          },
+          "southwest": {
+            "lat": 40.5498340697085,
+            "lng": -74.13612038029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Redgrave Av",
+      "place_id": "ChIJO1ZY39pLwokRkTStisluHYo",
+      "plus_code": {
+        "compound_code": "HV28+G5 New York, NY, USA",
+        "global_code": "87G7HV28+G5"
+      },
+      "reference": "ChIJO1ZY39pLwokRkTStisluHYo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.551178,
+          "lng": -74.134979
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5525253802915,
+            "lng": -74.13362846970848
+          },
+          "southwest": {
+            "lat": 40.5498274197085,
+            "lng": -74.1363264302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Redgrave Av",
+      "place_id": "ChIJoUHT2dpLwokRwo66UjDPPjw",
+      "plus_code": {
+        "compound_code": "HV28+F2 New York, NY, USA",
+        "global_code": "87G7HV28+F2"
+      },
+      "reference": "ChIJoUHT2dpLwokRwo66UjDPPjw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.553497,
+          "lng": -74.131546
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5548071802915,
+            "lng": -74.13030001970849
+          },
+          "southwest": {
+            "lat": 40.5521092197085,
+            "lng": -74.13299798029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Justin Av",
+      "place_id": "ChIJW5tTdNxLwokRYF7z_BNGbX4",
+      "plus_code": {
+        "compound_code": "HV39+99 New York, NY, USA",
+        "global_code": "87G7HV39+99"
+      },
+      "rating": 5,
+      "reference": "ChIJW5tTdNxLwokRYF7z_BNGbX4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.551369,
+          "lng": -74.13418600000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5527322302915,
+            "lng": -74.13285376970849
+          },
+          "southwest": {
+            "lat": 40.5500342697085,
+            "lng": -74.1355517302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Redgrave Av",
+      "place_id": "ChIJj3KfH9tLwokRgy2eisgl484",
+      "plus_code": {
+        "compound_code": "HV28+G8 New York, NY, USA",
+        "global_code": "87G7HV28+G8"
+      },
+      "reference": "ChIJj3KfH9tLwokRgy2eisgl484",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55515700000001,
+          "lng": -74.12979899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5565039802915,
+            "lng": -74.12844686970848
+          },
+          "southwest": {
+            "lat": 40.5538060197085,
+            "lng": -74.1311448302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Spratt Ave",
+      "place_id": "ChIJ_TRpgt5LwokRwm3PrZQZIZY",
+      "plus_code": {
+        "compound_code": "HV4C+33 New York, NY, USA",
+        "global_code": "87G7HV4C+33"
+      },
+      "rating": 5,
+      "reference": "ChIJ_TRpgt5LwokRwm3PrZQZIZY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.55514549999999,
+          "lng": -74.1296385
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55649458029149,
+            "lng": -74.1282896197085
+          },
+          "southwest": {
+            "lat": 40.55379661970849,
+            "lng": -74.1309875802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Spratt Av",
+      "place_id": "ChIJD9-5g95LwokRcazPTr7tn1s",
+      "plus_code": {
+        "compound_code": "HV4C+34 New York, NY, USA",
+        "global_code": "87G7HV4C+34"
+      },
+      "reference": "ChIJD9-5g95LwokRcazPTr7tn1s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.555134,
+          "lng": -74.12947799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5564829802915,
+            "lng": -74.12812901970848
+          },
+          "southwest": {
+            "lat": 40.5537850197085,
+            "lng": -74.1308269802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Spratt Ave",
+      "place_id": "ChIJR1hzhN5LwokRdPC4HJ4zivA",
+      "plus_code": {
+        "compound_code": "HV4C+36 New York, NY, USA",
+        "global_code": "87G7HV4C+36"
+      },
+      "reference": "ChIJR1hzhN5LwokRdPC4HJ4zivA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.549747,
+          "lng": -74.13690199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5511156302915,
+            "lng": -74.1355760697085
+          },
+          "southwest": {
+            "lat": 40.5484176697085,
+            "lng": -74.13827403029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Keegans Ln",
+      "place_id": "ChIJmTKzXMVLwokRSs-tT-dvkMc",
+      "plus_code": {
+        "compound_code": "GVX7+V6 New York, NY, USA",
+        "global_code": "87G7GVX7+V6"
+      },
+      "reference": "ChIJmTKzXMVLwokRSs-tT-dvkMc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.549591,
+          "lng": -74.13735199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55095093029151,
+            "lng": -74.1359879697085
+          },
+          "southwest": {
+            "lat": 40.54825296970851,
+            "lng": -74.1386859302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Keegans La",
+      "place_id": "ChIJX8cZZ8VLwokRjAQW8uAtzoI",
+      "plus_code": {
+        "compound_code": "GVX7+R3 New York, NY, USA",
+        "global_code": "87G7GVX7+R3"
+      },
+      "reference": "ChIJX8cZZ8VLwokRjAQW8uAtzoI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.549435,
+          "lng": -74.137802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.55077683029151,
+            "lng": -74.1364435197085
+          },
+          "southwest": {
+            "lat": 40.54807886970851,
+            "lng": -74.1391414802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Keegans Ln",
+      "place_id": "ChIJQ8UEY8VLwokRkzysHN2oZLQ",
+      "plus_code": {
+        "compound_code": "GVX6+QV New York, NY, USA",
+        "global_code": "87G7GVX6+QV"
+      },
+      "rating": 5,
+      "reference": "ChIJQ8UEY8VLwokRkzysHN2oZLQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56537050000001,
+          "lng": -74.134487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56673173029149,
+            "lng": -74.1331579197085
+          },
+          "southwest": {
+            "lat": 40.56403376970849,
+            "lng": -74.1358558802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Clarke Av/Wilder Av",
+      "place_id": "ChIJ03cCl-VLwokRVaa7PfLcH-s",
+      "plus_code": {
+        "compound_code": "HV88+46 New York, NY, USA",
+        "global_code": "87G7HV88+46"
+      },
+      "reference": "ChIJ03cCl-VLwokRVaa7PfLcH-s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5653,
+          "lng": -74.13439900000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5666142802915,
+            "lng": -74.1330642197085
+          },
+          "southwest": {
+            "lat": 40.5639163197085,
+            "lng": -74.13576218029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Clarke Ave/Wilder Ave",
+      "place_id": "ChIJG4BEluVLwokRzAdpu4r99lk",
+      "plus_code": {
+        "compound_code": "HV88+46 New York, NY, USA",
+        "global_code": "87G7HV88+46"
+      },
+      "reference": "ChIJG4BEluVLwokRzAdpu4r99lk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.565441,
+          "lng": -74.13457500000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5667814802915,
+            "lng": -74.1332117697085
+          },
+          "southwest": {
+            "lat": 40.5640835197085,
+            "lng": -74.13590973029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Clarke Ave/Wilder Ave",
+      "place_id": "ChIJsVg5l-VLwokR4LaJSlqEnoo",
+      "plus_code": {
+        "compound_code": "HV88+55 New York, NY, USA",
+        "global_code": "87G7HV88+55"
+      },
+      "reference": "ChIJsVg5l-VLwokR4LaJSlqEnoo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.556396,
+          "lng": -74.12847099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5577403302915,
+            "lng": -74.1271145197085
+          },
+          "southwest": {
+            "lat": 40.5550423697085,
+            "lng": -74.1298124802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Buffalo St",
+      "place_id": "ChIJmWZrat5LwokRLWv9xjZcBOM",
+      "plus_code": {
+        "compound_code": "HV4C+HJ New York, NY, USA",
+        "global_code": "87G7HV4C+HJ"
+      },
+      "reference": "ChIJmWZrat5LwokRLWv9xjZcBOM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

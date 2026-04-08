@@ -1,0 +1,3493 @@
+{
+  "neighbourhood": "Douglaston",
+  "centroid": {
+    "lat": 40.76772581304348,
+    "lon": -73.75105129130434
+  },
+  "fetched_at": "2026-04-06T14:22:26.650244+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76368069999999,
+            "lng": -73.7490595
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7650683802915,
+              "lng": -73.7476256697085
+            },
+            "southwest": {
+              "lat": 40.7623704197085,
+              "lng": -73.7503236302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-229-8686",
+        "name": "Mizumi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118171112872114583921\">George Beno</a>"
+            ],
+            "photo_reference": "AU_ZVEGyCMGHvuoWtkGPOL3HIjWQwO59q0aUIrOsG7609rRYsNNjVLg3RcYorhgfMUly4ndDlTyW660bz1qy3WkMNy5jWN1LEDrufjLI49WTnAjGBmClR--iNgGNKwjSP0W3DXYddZ2oZXM405_3JmaHQ6VUz1QT8UVucP5hZGvdlxjEBewNal2_ZwK_SYCYZfFCKySQJaKJBJ6QkDNNoHvO7AoMMVNOO_uSHe1qfyxut_r1NLeexScmQOMGgUIpVRSUoBEzF3ODnMgt3hyLSiUYJ6EZuSVPI9cR4OOC4WUNZYWgaoXDzxlypXECBpkRGc5A9dyAr8cNqv0YBPSJPiAhJSDe_MxTFiyxUw8oSWikUcu5SIm0MWPGZIqw3lGBuaj-6_5alu5Sbcqiwqy3b30GnxLpSp_UJcq7-SntFAUJs7x471Mpn36gHWkm_UzJrrXXhyNX6smiTDQ8WD2IflYvotWexWRvcIUByzBT4YaZxnmnfSo6ujdfozXlIfmU0vUrIeKjFnO6wZHl5GAUE0oJg6G9QwJzbZeW8TeU1coXXP_x57hCKAqFkegPIq8mosoIAxQB1-Dgyq1RqIm0usnsARXM5esJDIgApFMFPze1L_xWSk2gBMaLSBzgSOLX_qHLswPEMoruQ0Y3sFz2AqaU1w5BZx0",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJKT4LNQCKwokR7jxdJEQgymg",
+        "plus_code": {
+          "compound_code": "Q772+F9 Flushing, Queens, NY, USA",
+          "global_code": "87G8Q772+F9"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJKT4LNQCKwokR7jxdJEQgymg",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4170,
+        "vicinity": "231-10 Northern Boulevard, Flushing"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7684042,
+            "lng": -73.7484837
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7697184302915,
+              "lng": -73.74723181970849
+            },
+            "southwest": {
+              "lat": 40.76702046970851,
+              "lng": -73.7499297802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-631-0300",
+        "name": "Il Toscano",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1331,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105215772648260606306\">Il Toscano</a>"
+            ],
+            "photo_reference": "AU_ZVEFOnwRak-E3IWrKZx8fI8yKcSXh_2iaDrzvdm6_btASzTB8OzqL_iWfJr5qmsn2W3DhqpdfiTCtkqwvQ0skM71ZCsQCDRRIKXdKR1_cB58fD7IRw7p-DrCOXFAqWwyDE3kKv2MNx4ydpcV7KG-MU1a-bbzaKs5ld1KR2uQs6WGhUN6TSpK2GToqkR8fREl01xdmoto88qyxsS7wmGA_XTy8SG5kyjTVDht3ri_-uULJegO76N21s_Jvz4d-FRfPpFj0_0FnYzP3OL7QjcwAXroyw06wmQC50tfILjKEryj1h4rRiOuRKJxzpiqWMkJi5rdkTyGyoqM",
+            "width": 1775
+          }
+        ],
+        "place_id": "ChIJ0TU6fQKKwokR3fMksF0h2kI",
+        "plus_code": {
+          "compound_code": "Q792+9J Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q792+9J"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJ0TU6fQKKwokR3fMksF0h2kI",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 463,
+        "vicinity": "42-05 235th Street, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7655865,
+            "lng": -73.74409159999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7668562302915,
+              "lng": -73.74274241970849
+            },
+            "southwest": {
+              "lat": 40.7641582697085,
+              "lng": -73.7454403802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-423-4329",
+        "name": "Aegea West Mediterranean Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110034206329512369259\">William Patrick</a>"
+            ],
+            "photo_reference": "AU_ZVEHL8LNXjChfQb7qSLYyxlFIwv2PIvvxVzzoUH4pQCcOxeA1JWP2zU9Y9cqXZmFuB8kv6gHmFes-qH9M5Ze303cxEkAAgGW2A726gyBnQ0kjRap6pq_x2tHAoiQdlvvH_D74H-Il3S8MSCscjQF2rfLw8fL_gzmx67PAiwLOtM0RISrzJsKSMUgJp2BJyC0sdPA2WhU1p-owdWBkQcfuILhASyCChefAgbQX5cBzy9V87ia5bibUJef57hUhIFHdG-hoK6MmMJHJ6qb8775PP6Z3DLRhQycOIEby1_7YHFcP4abHyfScjX1uLekg36ehYwdvU6mfiA2DhcKxxN2rTsvnLKerLC_zo32l4c0LkjY8LhdLbbK3gYC6jHbX2NFJfZ-lL483mUeziiFN0mLaYneXiDHTX4He7WcU46vkX_0Mz2IlZTYWZyTl6NxSXHarhaUUEDutsdC0FuDAa117FkKqHPDb1O2mHVY4zzp5kk4KpObrMe0gV9CufpcemTbbCL_Gk4sGeBJ-fkYeyTAUIIWyzRdvvf-HTHZophZgXm9_1Jw6XZCUzXKA250biZGtJuNQaDsB4DZPUARK_1JuE9NkhId-jTQuXhhBRgUSf-IXq9pvzU4un24NhOdXJfMVV7yzMVKZ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJEwR6y--JwokRApthkiuqT7Y",
+        "plus_code": {
+          "compound_code": "Q784+69 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q784+69"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJEwR6y--JwokRApthkiuqT7Y",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 150,
+        "vicinity": "242-05 Northern Boulevard, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7656857,
+            "lng": -73.7444879
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7670042302915,
+              "lng": -73.74319476970848
+            },
+            "southwest": {
+              "lat": 40.7643062697085,
+              "lng": -73.7458927302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-631-1888",
+        "name": "Best Garden",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108355018410652883108\">Edward Yoo</a>"
+            ],
+            "photo_reference": "AU_ZVEEMXsTwC64JBQhJDg7TtUZKNQmUK5jyivOQ5Vza9oqR0YPtCTxJ4Cy7TYboWxL4N74rgOmoym-qY3u-Ko_k9mJMHtrdT109b21EA4hRffl6nSEBjBqQ6hwkndhhyrfxtPR44ozoZRIih2N-D4FHoeVNHDeyHXN-xVZ4sGJ0hEWEduajr9OYbUMtmMIc8nFZBcJlogGkL1FfxxFGQ_3YS87ldIJmaRNkCWpIYV8rsJMCupRBERZVQeKsoealGwa6ulYdP26cqmXKOgWi2EjA0-6JvkkuIFIPXk0JD1RRG7aMRYjSSzaOZMEmvcHvJ_rrWY-Xd-0CjYT2PoiUsJpT0wJ9xk2VWpyeu7uzLocFjIsw-l8i0CdKgheO9agQDChboU9tWmgpCPo4U6SIMtvmQ4zSdA05Td9Gw8b0HRM9fdt_BylRXZ6KG-sYcGj21Y1w0Jo0T8zrMsbQX7Fws4XdI08_CY1CYVztZec_pNCiKUZKGTIKYJATFC_1EKikEIeCBjed5hnoU_4-3RGe66UQNd6qwYc-S8KHvWVz9W1Ng3B5ddSK7KREJ9qPnhQCBoYI0HqW7GENp-FyPLmDa5fuUc63Mt6zIZjsn9Fs2RSYoB2jD92440Zjuoed1ZXEPvq9dL-DpAxwh8-MpEGqkr2gqV_a-Xs",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJXwsDLPmJwokR1gifetHBJDw",
+        "plus_code": {
+          "compound_code": "Q784+76 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q784+76"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJXwsDLPmJwokR1gifetHBJDw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 109,
+        "vicinity": "44-35 Douglaston Parkway, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76881139999999,
+            "lng": -73.7488449
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77020563029149,
+              "lng": -73.74760981970849
+            },
+            "southwest": {
+              "lat": 40.76750766970849,
+              "lng": -73.7503077802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-225-2209",
+        "name": "El Paso Mexican Restaurant",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 916,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107109490232070137413\">El PASO MEXICAN RESTAURANT and coffee shop</a>"
+            ],
+            "photo_reference": "AU_ZVEGjiijTJ0zAclkP5NxO50v1tYlZHUqY0Ix2ISn8GG_yhZvvSCh8lIlbUclidRAGHSoi05hsIournhY_AugVxnC2uyHrF-1IEueJPA5KMdVmBCSXPztJ7qemdGSzc3dBtutbHQuyV0D4NPDG4RiqqoGrk5X-Wl0dBn7swjBWX_7Kri5IhmhPudvIDBeGrMTwy2ppfPyqjaOqnX0UgNB64PCNxmig0ZgM2FDPJqzPMzgIAf3EjS2NqAbJl95njTqINEdEJ5unnT3MRdjFY614ElMWitmGkAYHZGx8wd8bLoyGeSGfdJDBT0cMz9lVVhFTy6DiseGioLo",
+            "width": 736
+          }
+        ],
+        "place_id": "ChIJT_2MBNWLwokRBL4GHKblts0",
+        "plus_code": {
+          "compound_code": "Q792+GF Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q792+GF"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJT_2MBNWLwokRBL4GHKblts0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 25,
+        "vicinity": "40-45 235th Street, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7675898,
+            "lng": -73.7481657
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7690083802915,
+              "lng": -73.74672536970849
+            },
+            "southwest": {
+              "lat": 40.7663104197085,
+              "lng": -73.74942333029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-233-8213",
+        "name": "Picciotto",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108938319787215224977\">Picciotto</a>"
+            ],
+            "photo_reference": "AU_ZVEHDtVuxtx9AJhd6Bx1VITqTAguFcPGwugW6s9jhROCHnaZRB_eaLTSrVd2t7VuUPTl2Zn2aPoLxdh_52rOwYDWPCfZ3SROaLP7DWwrt3oX5n2Np8T7xR-CY0D9fHFRhuQCDk6XkcgGIvSR6RrIsndeYnZ1nORLSDITx77rhXYZNpNUR5LYCS3qjkBvDkiB5Km1t9KYHYYn4X0R6E8buVhaMZMPlHdOMfJ68KuFdV4POyC8GXTJE9ikeCqECezmX0XNAV0aqr25uFmveyGWzW-BKm4zExUuzdMnZ8_f9A1jkLjyj9xMFxpAuURLVk6u2rSWcnoY9ZOM",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJR0eiLrWLwokRLukvCHO1h-I",
+        "plus_code": {
+          "compound_code": "Q792+2P Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q792+2P"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJR0eiLrWLwokRLukvCHO1h-I",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 215,
+        "vicinity": "42-34 235th Street, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7680719,
+            "lng": -73.748167
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76937648029149,
+              "lng": -73.74689841970849
+            },
+            "southwest": {
+              "lat": 40.7666785197085,
+              "lng": -73.7495963802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "235 Street Restaurant",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJIVH8ewKKwokRp20OM8KTJIk",
+        "plus_code": {
+          "compound_code": "Q792+6P Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q792+6P"
+        },
+        "reference": "ChIJIVH8ewKKwokRp20OM8KTJIk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "42-15 235th Street, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7661118,
+            "lng": -73.7448782
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76740798029149,
+              "lng": -73.7436191197085
+            },
+            "southwest": {
+              "lat": 40.7647100197085,
+              "lng": -73.7463170802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-224-8009",
+        "name": "Il Sapore Restaurant & Pizzeria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1389,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114948621784323837366\">Il Sapore Restaurant &amp; Pizzeria</a>"
+            ],
+            "photo_reference": "AU_ZVEEJPifcDm9Ep7kxysda5JNHxP5bkUffHqYa4N_EavXpws-9aAErR97Y3CTHTKkW--ZC3sepiogecz39JYS4SpkfDzzphz1P57aI6TkQwLNMjdEH4Jsz6HebNiDDSpm9RtIYbyHFsam1W2MD7uF0TX5ljBlQi1BoVjGwGbfBDVnAP9hcyJ4tQkx7zXHX4K-vTcBENK0z2gfbsr8R7rNxObbVP-ixvaywXNlAyQBjMunzxQJna6BTRjjOJsY6S3CHEVyBianU9oJ3n26RNmi1DpY2FI_shoY4k7jneWPHMn5EatzD790tl2nHJ_07z2N6JifNf8k0cVw",
+            "width": 926
+          }
+        ],
+        "place_id": "ChIJ-2GoTACJwokReow0XOKySc8",
+        "plus_code": {
+          "compound_code": "Q784+C2 Queens, NY, USA",
+          "global_code": "87G8Q784+C2"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ-2GoTACJwokReow0XOKySc8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "meal_delivery",
+          "meal_takeaway",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 148,
+        "vicinity": "44-17 Douglaston Parkway, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7659858,
+            "lng": -73.74467489999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76727998029151,
+              "lng": -73.74344041970849
+            },
+            "southwest": {
+              "lat": 40.76458201970851,
+              "lng": -73.74613838029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 718-631-3353",
+        "name": "Douglaston Deli",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 716,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100046481087200668157\">Douglaston Deli</a>"
+            ],
+            "photo_reference": "AU_ZVEGO3D-WNNJcben8iSCXJl2T72zosL-UCUVyRW1stas0hUdH2gotVJu6PAhKHVArrrfj3Djh5_6cmqs_Y4x9MkmefBujBafRZVb7Qm2DCthvPaL5GmaeSLNj0ijxpLgXG2grnvSxZPyO_GzRx-0CZGs5XjKyfjHUTpPD8Fs3-QGxg-hk2hBt3i7KAqStKOVbJZHXJHx-ENK6zPgRr2ZOW3ZzpqTR-UVdr70_dBLFf1haum4HALzgOXHEjV7rAEdf7-lGG66tVyc-8-kVn6DiG-Fc57jR0tMBip2Jlstle0DiNk-vZQu1mPvbSpm2KSR1Z1Xs3cW9om4",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ87XvKPmJwokRXF734sOEYoc",
+        "plus_code": {
+          "compound_code": "Q784+94 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q784+94"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ87XvKPmJwokRXF734sOEYoc",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "grocery_or_supermarket",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 103,
+        "vicinity": "44-23 Douglaston Parkway, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76591810000001,
+            "lng": -73.7446219
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76721763029151,
+              "lng": -73.7433797697085
+            },
+            "southwest": {
+              "lat": 40.76451966970851,
+              "lng": -73.74607773029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-229-1484",
+        "name": "Simple Noodle\u89c1\u9762",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1280,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111217115947614987017\">Simple Noodle\u89c1\u9762</a>"
+            ],
+            "photo_reference": "AU_ZVEE772y8pbKOCG6SUoQwJKfBxbJvWsmKCdqYNxEQuPrqTTv4saSb4EGPTWmWf9JbOKsmSfFZzbpYQKhBIcwM8yMTImUqdyZWi7BFV28GGH2B1QOLIcS-UsCiyThVgRONNzJq0Aip8v-HIE8L52XiD5dPKGxCXtVDDn5GKHwoSz3Fxenf960tLAanTYIEO9NO7ADnzTUPJ8XpmOuEaFoC-9KW-goGsai4q0aGnzT0PNRFYfkf5aI4UXV5hwuZMMTeyLcv9qW_53viU03rGc846TzX2g_0AF7m0S3trnCxJJA-18DfVllswdv3DAtPLY6_lDpvpz8Ny8Q",
+            "width": 960
+          }
+        ],
+        "place_id": "ChIJ3c0GIxSJwokRbUWEhgHcwTE",
+        "plus_code": {
+          "compound_code": "Q784+95 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q784+95"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ3c0GIxSJwokRbUWEhgHcwTE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 40,
+        "vicinity": "44-25 Douglaston Parkway, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76572049999999,
+            "lng": -73.744333
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7670070302915,
+              "lng": -73.7431029697085
+            },
+            "southwest": {
+              "lat": 40.7643090697085,
+              "lng": -73.74580093029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-428-2001",
+        "name": "K Kimchi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114712040225449127114\">Post Road</a>"
+            ],
+            "photo_reference": "AU_ZVEHKDfnVhx4lbVFEu7iguaeuCC9TdP8NsOYYU9qKP1epwu6Fptx53-sxJ5IjfvA136ZWHtOXQQ7oJ2oD8DjTHVxfjR_8C_a4UdB1n2Zu7hQcUFyRuyucsnEa9VOgmn_qY7Xir5lXiVCB71bKUNLcaykWLcIZ93fz4lCGQlwOYPeJFO2mPxfU87f81DvX4uq0mYd6nKRHXCF88ATRIcQfTjYlefrWSFPmfWPvClRpY2tAJp45sj13vpYbSpnBEnfqKsD7ldjPHI5_jMi9UIJQP11FjPW1_UTpFX7rIi-g5b9cj8GjhFsmT3Qcjfs9JXS_AsmaF6DLqUZJN56aIDQ_fVrujqEcdWo28VyThMzJ0Wu-BlN-PvP4I6Xhugg-BHbqyHiApmNzCZrKu8oGj00UOSrYDwoFEfdFNiUUTEe-u635AFjGEpb_bs9radqvi0vZ_dAB5Myvqz6JmwX_6VVVHTVfNGJ9g06gP6YkIPMqO1DihtmUPY1O3CdGkgt3wJM5B4mb3w7fM_nFg29Jz0G-e7cMuLOx09MoAcoDaVQZiERvdVqli_XJ963RTxn1yYEHQCCygKkRLRj2u5foXZ_A2wlqWm9VTvXwz3zdTDWFubd5X6zvVD3qVOulospYgLzBoIQFNw",
+            "width": 2252
+          }
+        ],
+        "place_id": "ChIJneXqLPmJwokRR_yswIOt3NY",
+        "plus_code": {
+          "compound_code": "Q784+77 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q784+77"
+        },
+        "rating": 4.5,
+        "reference": "ChIJneXqLPmJwokRR_yswIOt3NY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 40,
+        "vicinity": "44-37 Douglaston Parkway, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76564469999999,
+            "lng": -73.7442461
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76692383029149,
+              "lng": -73.74300631970848
+            },
+            "southwest": {
+              "lat": 40.76422586970849,
+              "lng": -73.7457042802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-428-9387",
+        "name": "Zeus Flamed Burgers",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1386,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111835638713674184271\">Zeus Flamed Burgers</a>"
+            ],
+            "photo_reference": "AU_ZVEFj7jFuCUyf3spCNix89VDYdsJ5JqjelUYr515JbhdiQr-XVdHe1nzJ-gH7uRq5lJvegHFaFNMZgSVw2oYt5FKFL6HDJHYOWIsyCpZ_Td30zn_2mYYCqlBbZ4iMFWpo-wC0uURYcSMU_txATLDBs6Nxe38c4wzG1C5cTA9bc3kt0TuHblbFkoE6e8KcN2kHIFlq8nLnmomCIGF_jeec8EfhfEKGijoxehZlOJDNMt2F_RYjaz5BbrtzMMuFMo0W4-y4Dynj_-Wxq40-siIsN4E4cwrCePt3lhvi32B17pUPX9i79fTvax9jxDh3K-_tFXBaoCD9xQU",
+            "width": 780
+          }
+        ],
+        "place_id": "ChIJn_yoPpeJwokR6NEFWuPcZ2M",
+        "plus_code": {
+          "compound_code": "Q784+78 Little Neck, Queens, NY, USA",
+          "global_code": "87G8Q784+78"
+        },
+        "rating": 5,
+        "reference": "ChIJn_yoPpeJwokR6NEFWuPcZ2M",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "242-05 Northern Boulevard, Little Neck"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.765561,
+            "lng": -73.7441
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7668434802915,
+              "lng": -73.7427433197085
+            },
+            "southwest": {
+              "lat": 40.7641455197085,
+              "lng": -73.7454412802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-928-0001",
+        "name": "Nami Sushi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1266,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108431805625084161059\">Nami Sushi</a>"
+            ],
+            "photo_reference": "AU_ZVEGgoLs2qgUbkc9Ax4IYnhKQq84VC4h3jNP2UXARB8zsVx-nlc0g91COfxrjTj90cUW5z_jmL6sJkaTHhQovOsB9vHd_8gb9xgaf1vV1UxxfLRudiOq8Y9wOZGWJv9xl5W9AKpxYiAwTlCsPTqxlyx3ETCH2On2cuQPHFwSr_tc-xynMCgkoxPXc8H3P_TgMyza5C8dThw2W68P_hrFvDDLO9Y8shMW6bhtEHo0QiRtry0RmPMH540Wg4pxO5fKctHwt594kFiBA-d_qxSkdXRRZ3uRJOy4YezcLHw2hGx7UvO2IK5jPg08WMBzSLzn8pKqPJ7O2LZE",
+            "width": 953
+          }
+        ],
+        "place_id": "ChIJfY13MvmJwokR9tYxz8qI8ys",
+        "plus_code": {
+          "compound_code": "Q784+69 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q784+69"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJfY13MvmJwokR9tYxz8qI8ys",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 227,
+        "vicinity": "242-03 Northern Boulevard, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76641709999999,
+            "lng": -73.7406034
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7677866302915,
+              "lng": -73.7391246197085
+            },
+            "southwest": {
+              "lat": 40.7650886697085,
+              "lng": -73.74182258029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+        "international_phone_number": "+1 718-310-8555",
+        "name": "7-Eleven",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103449063089728356149\">Carlos Cortes</a>"
+            ],
+            "photo_reference": "AU_ZVEFsiWto2pU3laFaUV6OZKJeXeKtlGevxtmm58oE2bCtrMH-7ARtJhj3tDNKJp7ywgZRz1Ph_k0YLNCZ8jqIq7rRrLCwc0Pp6A8Rtoot3xUi4rybW8qEkHVwV83Yg4olTtfydI2wpqUFvh8xsLGmiiLLtEeV9gfJtVp5EAtvzfO2MgWTqSzOVDBzFP6J5IgKQ4jOxtOX6wBci5u-GE2Q1BuVTrw5ASzmMiSF3z0ivL6ESEvD-S8NPxC7jJWpQBaWHphsi9BuK-JWZA72Th9xVi11-K5GmzlarqjlF-MJgu56W7KiBtT5v4S4Nx7BGR__0IhBnLki3bo7Ux5Ra0CNiw0BcOwyDcDTd8iiuVLNpWX9VTGrNRZqy-4U1DHGRcksvSVrRg26B_SumW9I4Y1V_s9MKqXjbNko3Wz8swQ_Cf2BU4abXNXXMKFuZSNJ20_ffS9sll5iticiAAmf_JIAEayTe86gcCfE_Rp8cn9K1FBw32mvcrMbvI9zhZc2EsSOptJjgnxOcukaRI8LjtqFwxJ04sLNpdbKyJq1wPxWn6QBtyXOMUy4QhpdkyGcxJ4yHCAvjehagW7xLuFgE0Ic0YclDlBIl1ZbvNq_YUz3VYng81GAc_auyOJ640yvp0oE6Bwv4HxD6ghVBkHpDkMTT02XhRY",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJf_8a7_uJwokRztKfLHbqMkc",
+        "plus_code": {
+          "compound_code": "Q785+HQ Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q785+HQ"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJf_8a7_uJwokRztKfLHbqMkc",
+        "scope": "GOOGLE",
+        "types": [
+          "convenience_store",
+          "cafe",
+          "liquor_store",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 89,
+        "vicinity": "246-15 Northern Boulevard, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76156290000001,
+            "lng": -73.7593661
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76302523029151,
+              "lng": -73.75805746970848
+            },
+            "southwest": {
+              "lat": 40.76032726970851,
+              "lng": -73.7607554302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-344-5520",
+        "name": "Burger King",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114302945262750064776\">Burger King</a>"
+            ],
+            "photo_reference": "AU_ZVEEnCu6MMAk661-kzXl4rxtMdORUT1xo62KRRL-Zo2T8aqIxFhOYqRUhhmR0LEvkGnFxz5JryX_G7Xc7emTgnzIWrMyjnlxxrDzomsz_ZEG2LryV-VnpfbwgvjHDzWfvckCmVk123yEXQ8j4eyX5DX4IlBEbH8Z0og4-EWEVPKlv9EVE0lycQlYDw38RF1opiZcyxFP2BPJEwhqQrO7WMHwFv31rGpReYJLIAllBgQm9Xtx1bUfd6xCC3d3e34TwM2C9knutaXkKq1XpmojAe_F59b5YKJ6w8-h5_H8uPBuGiQGTkMTiioGsfFOcEoR7_mfoDiCAhV0",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJQT_ES_1hwokRXmM8dTJHBa8",
+        "plus_code": {
+          "compound_code": "Q66R+J7 Bayside, Queens, NY, USA",
+          "global_code": "87G8Q66R+J7"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJQT_ES_1hwokRXmM8dTJHBa8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1893,
+        "vicinity": "222-10 Northern Boulevard, Bayside"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7615686,
+            "lng": -73.7594051
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7630286802915,
+              "lng": -73.75805841970849
+            },
+            "southwest": {
+              "lat": 40.7603307197085,
+              "lng": -73.7607563802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-255-4948",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104369674753600065288\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEFZ0mzXEQcKGNc2EcS6JZML_SRTBxrYwhExLNgpxwWn85k3cHCXh35ShPfUD5hgAfY8FElb0FfAJHR6-2GBtZqyEI41VvoWyxPmIVN4MxZNtmUKv73ZRzwUC-mMCuPU_36ABlKFuQadcwrh81r_V2GjzIX_TUgA_mPFCC2EHo4QgKkJt0fwbIiMYTOCu6b-oDHQXJR1Khs5S1CF_LV40m5Aw77ae-w3AjiyEQv7x4VOEpetigtDbnL6la8NTZsKkD9Z5WqzvAHe50B1FGb76k5xcbMlNbn19FVmBaAZ7uKmr3cSqvpVg_Dv0MVlR2o3IlmGaMBgowo",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJt0cBZABhwokRf7xADgrMiMM",
+        "plus_code": {
+          "compound_code": "Q66R+J6 Bayside, Queens, NY, USA",
+          "global_code": "87G8Q66R+J6"
+        },
+        "price_level": 2,
+        "rating": 3,
+        "reference": "ChIJt0cBZABhwokRf7xADgrMiMM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 243,
+        "vicinity": "222-10 Northern Boulevard, Bayside"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7684042,
+            "lng": -73.7484837
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7697184302915,
+              "lng": -73.74723181970849
+            },
+            "southwest": {
+              "lat": 40.76702046970851,
+              "lng": -73.7499297802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-631-0300",
+        "name": "Il Toscano",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1331,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105215772648260606306\">Il Toscano</a>"
+            ],
+            "photo_reference": "AU_ZVEH4UEjgIMpK5P95ITNvFXifO7ATd9qpExXQUMMeN_dhkf4MjpJOstkRmv8w4T891GboRNcXSeNrp9vAqXxvbv21ubQmhENAUmQTitEfHXluRcFTWCLo-78Ixs7C9xmYORN4UWCSVNr20iX6kpBjsfMoQeZW96lwagSXbcWhlwEVjOcCDLNF5nUuOdAjVrQgVTIdtD4fHBhZQeVuDWazvKbkLozc7TamcAA8F4rcIuC6IkSbdso5pg5CUl3hN5mBZdZzWTjCr1PlsQ-qO_eaZkhgI7FJCdrLyPvbdIvZOj3Mgt4uzsaP-u_5XIVWV8dnCPr3x1FYOVM",
+            "width": 1775
+          }
+        ],
+        "place_id": "ChIJ0TU6fQKKwokR3fMksF0h2kI",
+        "plus_code": {
+          "compound_code": "Q792+9J Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q792+9J"
+        },
+        "price_level": 3,
+        "rating": 4.6,
+        "reference": "ChIJ0TU6fQKKwokR3fMksF0h2kI",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 463,
+        "vicinity": "42-05 235th Street, Douglaston"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.76432459999999,
+            "lng": -73.7488046
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76558678029149,
+              "lng": -73.7475949697085
+            },
+            "southwest": {
+              "lat": 40.7628888197085,
+              "lng": -73.75029293029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-225-9187",
+        "name": "Alley Pond Golf Center",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111502915536680573747\">Alley Pond Golf Center</a>"
+            ],
+            "photo_reference": "AU_ZVEHrRNJGQFSd2GF8Nj7Q2tnU7k-5Oo4jyFXZOcAiaXrT6zaZZJcMxgDoLSN8VwvxJIa5f75QY3M1MYZ7BTZuRikA6Vi1WihWEFvneRU8q7usMQwRJdZItZYxxOy1xbLG5t305Qud-dnHnAsGSnOSAdZBETVxWK-ub8APXooOR9KAphWYA3cjiKC8-YE2LAbU6McZuneftVEnE2tKcvdt8tFrqFBmwBALKaS0SrrRQ8f3dPGwhkk9c71Ow3hCHxOJgzywyjuZJ5HCKUa3Rt7xEDT1x6UgsYupa-SRN8BUgWEUge-peiT1MreGqeldxZABUTItgR1CvJ4",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJ5_LRHfCJwokR1L4VA62FDfs",
+        "plus_code": {
+          "compound_code": "Q772+PF Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q772+PF"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ5_LRHfCJwokR1L4VA62FDfs",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 841,
+        "vicinity": "232-01 Northern Boulevard, Douglaston"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7619866,
+            "lng": -73.7599127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7632840302915,
+              "lng": -73.7586287697085
+            },
+            "southwest": {
+              "lat": 40.7605860697085,
+              "lng": -73.7613267302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 718-631-5900",
+        "name": "Adria Hotel & Conference Center",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115745954199702306226\">Adria Hotel &amp; Conference Center</a>"
+            ],
+            "photo_reference": "AU_ZVEHcw4DmtIfQqkpLpImljJ2S_gSM9oV32D4C3RxMvT6H0ao1L3x5Fwi0mXAfZj8Yi6ol5DVEh9fwZlx-ctCneqWBO3zjsadzuUx5B-xZLU6DgaKS_yfRyhIHk2HA0U71zFrn_C_a3zWVe-1hVNKOiWiEeKrCQvA2A5uSh-M7aShRno2_6RrwS61wFGGPMswUaUrXmbbSO-wQMXYdm47Ku7K8tIHtjBLLMR2wZD3rchHKpj8MXVcczlWbeeWJswjg47yfA1YmYw3nXHbF4s9vAlc5o3fNqOymdrOYpIQtC4JkfENVXq-AOc8sriZ3AYkWsXmm-JzcpAA",
+            "width": 5184
+          }
+        ],
+        "place_id": "ChIJP3gesuJhwokRjvRGHCe6yn4",
+        "plus_code": {
+          "compound_code": "Q66R+Q2 Queens, NY, USA",
+          "global_code": "87G8Q66R+Q2"
+        },
+        "rating": 4,
+        "reference": "ChIJP3gesuJhwokRjvRGHCe6yn4",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 955,
+        "vicinity": "221-17 Northern Boulevard, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7734566,
+            "lng": -73.7421265
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7748362302915,
+              "lng": -73.74071966970851
+            },
+            "southwest": {
+              "lat": 40.7721382697085,
+              "lng": -73.74341763029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Guest Room - 30 mins to Manhattan",
+        "place_id": "ChIJV_KZy_aJwokR6xFBxPx1rqk",
+        "plus_code": {
+          "compound_code": "Q7F5+94 New York, NY, USA",
+          "global_code": "87G8Q7F5+94"
+        },
+        "reference": "ChIJV_KZy_aJwokR6xFBxPx1rqk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7629104,
+            "lng": -73.75311769999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76421353029151,
+              "lng": -73.75184626970848
+            },
+            "southwest": {
+              "lat": 40.76151556970851,
+              "lng": -73.75454423029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 718-229-4000",
+        "name": "Alley Pond Environmental Center",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2992,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110516941702442102408\">Sammy Rodriguez</a>"
+            ],
+            "photo_reference": "AU_ZVEGaIG12ec3IoY0-yCNwlQh9SQzsTgbS57xh9JVp7-AAFOX79_ggJUpAKQa31POBu3kDV6Hm8PvqXTcdETKQEztO5R2bgvBeuBZPy_pkWzcUsIC3uEGupj-MztGmiv37XpCcnIi-fizwcBHISancsXYlmqY2GvENa5hPXEAWurmINbriaM-zmFK41TMTJIr_1skUBX-4Zoze7fMObho0c7Ebrs10FUDZLTWwHqAtN68-3R_bPr25G87rOEli16BvyzvvYBAUlIDkUDCdQmel413Ah_o8XbBd1-Kh5L6WtMDxSK42X10cukOJ9i9S_ZsCUXQOR9AActxkMkWwpIw3ym1Bjc5NRiuaJphYE5uahNPPMu1kQWL_juv28n1dTQ2WZ5PdUjbuhoMTtFPw0E7mITbDt6q_6E_ML8jmimqKyEm4lr8LrWSTBvUMsyE3N06q0SwuMe6SQsON07eOdUsUxgYYtfVRnZT-DwRJC4aXMBXZT_vEFfNeqjs1BfZJZJHgdhSSYhxFTyWQUqST1O_0JDmVBKKF44ybFOE7ThKjMHW6Yl57JMqNs9MzGn5R-NAd1vjnBsmqGjtiEGOxeSMfkjJng5SvEZ4CGec03XxkmgDRO0B0LtdXcO5Vq9CXC7CJQ4AoXmgJk_7y33XNDVpgQw",
+            "width": 2992
+          }
+        ],
+        "place_id": "ChIJASpHqwCKwokRBHoUxXcpArg",
+        "plus_code": {
+          "compound_code": "Q67W+5Q Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q67W+5Q"
+        },
+        "rating": 4.7,
+        "reference": "ChIJASpHqwCKwokRBHoUxXcpArg",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 515,
+        "vicinity": "229-10 Northern Boulevard, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76842749999999,
+            "lng": -73.74723410000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7697320802915,
+              "lng": -73.74600526970849
+            },
+            "southwest": {
+              "lat": 40.76703411970851,
+              "lng": -73.7487032302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Catharine Turner Richardson Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113414555809962186543\">Catharine Turner Richardson Park</a>"
+            ],
+            "photo_reference": "AU_ZVEHUpsfMbYoUFaAsKjyQ_de_FqEQkZqaAI3Umdb9yNxEZvO2ca_iLIHAcRMyK-hYJzQ4Y4shNCwOXdDJTwsjS9oQJIbYxmH_VWfTd_lpzbXQburlV1A-9omq-4vAH9SnBH0n-YoPtYBrdro_FqN66w-4zEbZzliR7HPuDyPSAmBZFQ58f90SfGIm3mbZFqewK6a4Lz9x08_YpFPDP66JAfbw1Z5WsxNwyjfZFB1tOAzWefCRsxL2vTaXR_rcn20jhMsd4bLVLdCvcCsYL5KQGDUZuXz-1A3zbCDMwR93yBD06urRsVxLQtB-OHPKuJXBK2HEorWLuY4",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJW5eUhviJwokR9RdCNc_EUgk",
+        "plus_code": {
+          "compound_code": "Q793+94 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q793+94"
+        },
+        "rating": 4.7,
+        "reference": "ChIJW5eUhviJwokR9RdCNc_EUgk",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "40-60 Douglaston Parkway, Douglaston"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.772838,
+            "lng": -73.7446212
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7743409802915,
+              "lng": -73.74319241970849
+            },
+            "southwest": {
+              "lat": 40.7716430197085,
+              "lng": -73.74589038029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Udall's Cove Park Preserve",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 916,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100065149197794688902\">Udall&#39;s Cove Park Preserve</a>"
+            ],
+            "photo_reference": "AU_ZVEG4jLnlc7V5PwGkSrKD5An1rjW-kfpXfvkYIi_pf0kn13zNHk8Ff-m5kvuLiZaQ5or5gaeDGo5f1vCP54_wLA9pf7UYrYXgA5jFs1HADNXv5NpFLtl8oqArTgi4myO91Jfq2BdmkA11W_05f7SwraS6L_8uPvZfIi0gTlnjR4M_uuMsBukyROLbtih87-YSo40B05LOC1WURF6MkDd3lhS3hiaSdIflGNiFzG9UJuUs9M-8hQ5S6_fzjBQlqXERJsFtG1UtkXB8CLi23igEVlqi_Z5qFZhNLEXhn9AXrntfjPB0VZE-A2YNDwc3MQALNvsmBjMzSak",
+            "width": 1221
+          }
+        ],
+        "place_id": "ChIJ_RLBUPSJwokRejL8VuHWna4",
+        "plus_code": {
+          "compound_code": "Q7F4+45 Douglaston, Queens, NY, USA",
+          "global_code": "87G8Q7F4+45"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ_RLBUPSJwokRejL8VuHWna4",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 122,
+        "vicinity": "Little Neck Pkwy. &, 34th Avenue, Douglaston"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7644805,
+            "lng": -73.747051
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7658349802915,
+              "lng": -73.74568761970849
+            },
+            "southwest": {
+              "lat": 40.76313701970851,
+              "lng": -73.74838558029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Bl/232 St",
+        "place_id": "ChIJ09nhZ_-JwokRHcIbCBtZC5Q",
+        "plus_code": {
+          "compound_code": "Q773+Q5 New York, NY, USA",
+          "global_code": "87G8Q773+Q5"
+        },
+        "reference": "ChIJ09nhZ_-JwokRHcIbCBtZC5Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76835320000001,
+            "lng": -73.7492567
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7698286802915,
+              "lng": -73.7476529197085
+            },
+            "southwest": {
+              "lat": 40.7671307197085,
+              "lng": -73.7503508802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Douglaston",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100331485103857257382\">H Kim</a>"
+            ],
+            "photo_reference": "AU_ZVEFlf-boFS-21ZnKdLb-j0yzc1XZ-IEMQKMzEFm7WseIfACAx4bHzTVhqZBZ06IzQXFsN1PS7V_ZyuJ2F8bjN7qBPc-Ic-hZh7v_BDxQ3oRBWJWR4tEe1kTuj3zFJlKmtcSAFLsgFzhmLr7M5JQr7_s1c0uUw6JLqj4QNMuy0Bq71DBdWi0wqsFgqOvUaJBwM8bTOC68ixgLMArb90QWP6JXnmkI-a63AVfpPhLZlhzq_Fce9OxN_GT9nD-GknppRkKuMQXRjATtgJZVvJ1sAjUmhfeUh4sUELAL8p4jW8GyJ9_VRaYnoOR4_d5yEkf7FLNin0Twz49nRYHecoAkB4EI_w7F8c0mIweLBlkFom1sauJJrHbUt4MFv3IPCXnTnHPqsQvDue_2zpvfaI1eVSXhJWIgRidh4qKFZuSCaIrNLoDXG7WUfEV9VaB_78R8oNvJQRhyPEg8oxc6Ar2ziSMmbzKlH4oYpSLqXDcsm2BteLuSvLIi8VhFFCeaqadyYzAhkJP1dYQ_uHiM40Vo2f1f7zYeLzCn2wpRMmbvPrIVXYrtnILq6VQH-FqrA3NOtleQ6qZhe5TJ5_ERUGlgqrRBsMNuw9qO9hUNlQhuAuz-kg9-eRCd7ZMDMgDk-kNhG6JFAQ",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJFxEZXQKKwokRovEYjb3Ioms",
+        "plus_code": {
+          "compound_code": "Q792+87 New York, NY, USA",
+          "global_code": "87G8Q792+87"
+        },
+        "rating": 4.6,
+        "reference": "ChIJFxEZXQKKwokRovEYjb3Ioms",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 18,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.764205,
+            "lng": -73.7486401
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7656031302915,
+              "lng": -73.7473142197085
+            },
+            "southwest": {
+              "lat": 40.7629051697085,
+              "lng": -73.7500121802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "232 St / Northern",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEE--Lfs6dc3InCXuGBlRtB2z-luxhYnTsMRgFP4J9MRDKxfXNGOP-s_eZawEH6GlIEXgZlelKwpnkT9GfI1kW5xPEYhLd3kXQvV7ofSKxHjJLbxyiXxJ181Teqsrpk-LH1BTps02uBWChKWPqEQOHxY2EiyLbxCtKnvPuoMuz2J0eM1gll0iURx8vNZ7Y9E5Yg6S3M4ogrpIYjDQ2aqibAHUo3H9YQKx0hlizgcWycfLx0L8Dk_tuHqCqHu1Mfb1_tiZSN0p3oS9tGrEo4QPlfvWRK0739RHmDiTvE0i2t0Reo9kNpq5PBktidxOb6SuGhd0edQXzyMrVvfzse1M57ZJb8pUoiG9fT5Msc4q6eCuGIJp_IVEH4LolcN6-UHI7yGSBl1LIos_1jssGR65_uyEaed_mdQWFE30QYKBailZoDwp4huhAASGQlGrkAVzf0aNgTmhNdtOjunWC4HI341keaUfvhKRLNcf00YBEziO73ewq7-WShAADaJ2qM6dqdS6KRt5uc5d8qP4DJx_7VVsNZ096WEmNIp_agc8lqEcj-PhuOjyMLNPmBNByRi60fsfUYF5UWIwUAv-QGh532uWyXw5u0Im5Jq5Yr837NWDpVN05WgGnNLbLSxEKdpVd-YAib5",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJ4b_U2wGKwokRJIIEuSYU-pA",
+        "plus_code": {
+          "compound_code": "Q772+MG New York, NY, USA",
+          "global_code": "87G8Q772+MG"
+        },
+        "rating": 1,
+        "reference": "ChIJ4b_U2wGKwokRJIIEuSYU-pA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76389409999999,
+            "lng": -73.74914799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7652575302915,
+              "lng": -73.74775706970848
+            },
+            "southwest": {
+              "lat": 40.7625595697085,
+              "lng": -73.7504550302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "232 St / Northern",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116715481385546865053\">Wayne Mitchell</a>"
+            ],
+            "photo_reference": "AU_ZVEGU2Ut8QwQneH8J2yEUJ_PaBgke6pQzqOhVvdme-P4gKZrlrjw5bM5_cCTXb9JNGEKZ8gZXGQGWhH7lMUtpunkrChkHJmYEFIdwgTlXgnicAnxNTZS4eR2dMPdVdOxS0fHCAFLEg3D7b8nX9Wd0Zfis9FZSBmnNoOL5P9iWK8-RPUbk76ynCF5yClBZ0TRE9jB11Uu0gVD7693xYzHH1lIDFc82-7W4Nyz4MeT0_bAZ2AMX-sLL0jFOa7pEno3POVYbgmtRQfw_Ce3OcypbKZIALfH6HFJQl8ERLqdmbCCqZt4TnOOXA6mv0ttXijeypcH7wk12fz_L6yiqnBTdnhzW93JR-xcVDFoXr2IV364o_no1490xfD8CPNY4dMgXsYHYMDVkCE9o1FJvStJ67iBvK4IqbWExp9bBFgQ8Vi3ijxBp4zWpILneDBrEoCvaAKg9CZcI7yknRQb0pKvJvfuLmJr6IU_guKZCkC9VyR17a9USfark36bNvDHZD1B-FNgG3DKBHhcuSuM1FOgXNfCjOWIXvjfkzvze8GGwAx05bbhSUjula5-KNYQ52glg8Y3imzfRDc4QXlmeDapJ2cDkO1rSm9h709kIgICtCZVz2WvbpAjflE90d--cA8MxIKPEZQ",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJSwxGzgGKwokRTuZ0T3kDzaw",
+        "plus_code": {
+          "compound_code": "Q772+H8 New York, NY, USA",
+          "global_code": "87G8Q772+H8"
+        },
+        "reference": "ChIJSwxGzgGKwokRTuZ0T3kDzaw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.764606,
+            "lng": -73.746872
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7659655302915,
+              "lng": -73.74552941970849
+            },
+            "southwest": {
+              "lat": 40.7632675697085,
+              "lng": -73.7482273802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/232 St",
+        "place_id": "ChIJu4b6Qv-JwokRRRglSvgGH3k",
+        "plus_code": {
+          "compound_code": "Q773+R7 New York, NY, USA",
+          "global_code": "87G8Q773+R7"
+        },
+        "rating": 5,
+        "reference": "ChIJu4b6Qv-JwokRRRglSvgGH3k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.764343,
+            "lng": -73.74722299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7656936802915,
+              "lng": -73.74587481970849
+            },
+            "southwest": {
+              "lat": 40.7629957197085,
+              "lng": -73.74857278029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/232 St",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEH1e6q1YiKA135u3si5n6EYNWS8NlgbcZCtHZpREm84OkWy5nO0iT_P1_UzaTHsjIotwhnv1iXSW0H-N66Kf5f9WkDBM9Q7tIkvQtm0MUnDsuRzaZ7rcIqXtuS8WloZnhV37M5IUG47brFtiirOCvBW28yLobmcIY78pdVvAQn3BJdgp6WCqbjV48MTyL8iGWwxLt1dh2ZDKiXAMQzQQWkgE1Qp1gu3kQ2MZ1OzxmheyFik-Ki7VCsNi6WrjSlUNSLPjKgJoLMjKiuTF_ogBGWyNMLr63l934GXCeWrUaza5ZqZ88GkXBNmk8qW2nGzsev9vePpe2Hb8e3D1LEAWpSocEsEGq3AWtvzyPls3nDzx2nmQylnomvXDwdWax7BYCT_1o3qY70j7hVA3ZWWTtuHxJzqBtUTswQJPiQxgiBAcH-RUtQE2btztzDCrkyEALFEnIHEg8YpTSiJ1VROtljXXCSGnYbs6nuUu8N6q6VeEJgB78pMfHFfM9N-_I6uBYePh3QByZY5bO939zCsb7PeTgA78dQ-rG3c9_9-8lYb1gj9o0oAXL-N0bEdVdENxZvmMDBJNuQ8NHYEknIz3-G7SRIMGKg-2AOj1xguZvM7oUlM5ZU8h4vW0op7IWeO_pXXSg",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJCeKLZv-JwokRRgzaF2D1FsI",
+        "plus_code": {
+          "compound_code": "Q773+P4 New York, NY, USA",
+          "global_code": "87G8Q773+P4"
+        },
+        "reference": "ChIJCeKLZv-JwokRRgzaF2D1FsI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.763123,
+            "lng": -73.75276199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76444748029149,
+              "lng": -73.75151586970848
+            },
+            "southwest": {
+              "lat": 40.76174951970849,
+              "lng": -73.75421383029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/Alley Pond Enviromental Center",
+        "place_id": "ChIJPVVexgCKwokRqk8EWAsfg1Y",
+        "plus_code": {
+          "compound_code": "Q67W+6V New York, NY, USA",
+          "global_code": "87G8Q67W+6V"
+        },
+        "reference": "ChIJPVVexgCKwokRqk8EWAsfg1Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76318699999999,
+            "lng": -73.75318899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7645038302915,
+              "lng": -73.7518703197085
+            },
+            "southwest": {
+              "lat": 40.7618058697085,
+              "lng": -73.75456828029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/227 St",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEGXA_wJPYC6z2tsM0oqxSkJlUPgB8scGS6auzuyUMorNyvlzbStDUUd-RJ-JnQIMiZysZcfEG9de_gj8aHU2IPhdSTgCjJlOTnmFts1EzF2KFI-Jajf71Kc9vffQ6c3QAnk0UnzOlWG88vh4fEKOy9NjduZfIvxk6Pq-xEic0wBFWFtfDChprS6884cWVo_fxDUVRnMu8LaOaUzObqfEmJIgav_PQSu7ckXBW6qn5oqy98uTrpT27kr6sBk1vCSpjapg89LqlwJz6tyvnGTSpiAn9PIe4xceoIqZ8xV61dGfgLNB0aM5EQsQ35HMEzdU9HoAYWAtHYbtCGpkbcY4rSSmRlWzMlGxovMbeoA3Z_Ca7ax2nScxvfwuLxkZukbqmm5CnXyJRCUIT3sMhP_nL_ne42Wp19UXNcrjqf1lvBH-0-TcdkmoyRBTAwS-6AtV__ejiroLmSkNiSg4FJGZ2WRZWHIDe1Rmxd2sVKRjPSIbGUYgpWPXkR3k-a2-Ohw2jH77Qp338wSyml1ofCk8wyYa6mk1UJW0AjhjsLtwdjDTjflKVO_KukFSovh0mmSSxcqZeBtR7UtUP17F6cO8jADC_yU5LS_sVZbFv-lwQn2KwKGRHTTkLlGvwyx7_pZjNfOQs75",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJWdoVyQCKwokRLoPK44TYuI8",
+        "plus_code": {
+          "compound_code": "Q67W+7P New York, NY, USA",
+          "global_code": "87G8Q67W+7P"
+        },
+        "rating": 5,
+        "reference": "ChIJWdoVyQCKwokRLoPK44TYuI8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.765457,
+            "lng": -73.744202
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7667978802915,
+              "lng": -73.74285066970849
+            },
+            "southwest": {
+              "lat": 40.7640999197085,
+              "lng": -73.7455486302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/Douglaston Pkwy",
+        "place_id": "ChIJ9XEBLfmJwokR1WDZFW7tDjA",
+        "plus_code": {
+          "compound_code": "Q784+58 New York, NY, USA",
+          "global_code": "87G8Q784+58"
+        },
+        "reference": "ChIJ9XEBLfmJwokR1WDZFW7tDjA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7654889,
+            "lng": -73.74413919999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7668048802915,
+              "lng": -73.7427830197085
+            },
+            "southwest": {
+              "lat": 40.7641069197085,
+              "lng": -73.7454809802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Douglaston Pw / Northern",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEFdyNaZa73JmfzF8jSd7DHZE8xbyTzi4Ro0HLSnzH4FJ-aeoHCo47BUPcWoLT7_hfpJzq0cS8f0dTeaAQlNhkywS4sazX7BjeijMM6e1NM4lBa2NSjDkhHhfeVp90oWqeQSo6m4BjZsLm4j4LqmIowriXSfdaPtr2tIDaCcr8CRHsaqCzTDwU6nDzyjwCktWavSg1nenvttkfX7YXSLN0JTfrEL3S-rsS9j9eSfYNn33CZp3pHRpPT8OyEdIAxLl8E-mgiKvyXSjIw95YgtkMXlqijMiS9pOSufP9D93GS4akIQ2s3fYY5D26Do_SqlHEf_zAYwVXoz_EGCbyFqJclvquEybNobIoDoHxzh8X_SXRYyI4LAaqMIDE9LObS5PPuhIPYUJRqZ8IALC7XZPIiNn28250KLuxHFt3WkatppvbiXhKV2Tjdiz0cqFpuNmwxvWFwUwcXogG-sdSQtUUAFEEwmIDwnaCnqCPd7ROA0HEGeYcWAP3wcVGGEnL1tXePSKfDefl68kLO-O55rb7uVCNe38brzvWa9ICiDX2LFctQlosBBiyGLB2wLMZGhnTJUAp6YsU0LrBSY0_aJmLPLnyirLbzo8bjQTZAcJ3bHBphVZaCoe6oNbAMCRw-O5WiUnQ",
+            "width": 4096
+          }
+        ],
+        "place_id": "ChIJDw4TLfmJwokRq-lUNAusKjo",
+        "plus_code": {
+          "compound_code": "Q784+58 New York, NY, USA",
+          "global_code": "87G8Q784+58"
+        },
+        "reference": "ChIJDw4TLfmJwokRq-lUNAusKjo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7653447,
+            "lng": -73.7435157
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7667047802915,
+              "lng": -73.74221091970848
+            },
+            "southwest": {
+              "lat": 40.76400681970851,
+              "lng": -73.74490888029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "243 St / Northern",
+        "place_id": "ChIJ_aIiNfmJwokRHqbrAlk0yBE",
+        "plus_code": {
+          "compound_code": "Q784+4H New York, NY, USA",
+          "global_code": "87G8Q784+4H"
+        },
+        "reference": "ChIJ_aIiNfmJwokRHqbrAlk0yBE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.76532700000001,
+            "lng": -73.7435
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7666685802915,
+              "lng": -73.7422017197085
+            },
+            "southwest": {
+              "lat": 40.7639706197085,
+              "lng": -73.74489968029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/243 St",
+        "place_id": "ChIJN_Q2NfmJwokRjH0FLhBA6RU",
+        "plus_code": {
+          "compound_code": "Q784+4J New York, NY, USA",
+          "global_code": "87G8Q784+4J"
+        },
+        "rating": 5,
+        "reference": "ChIJN_Q2NfmJwokRjH0FLhBA6RU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.761868,
+            "lng": -73.758606
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76324433029149,
+              "lng": -73.7572650697085
+            },
+            "southwest": {
+              "lat": 40.76054636970849,
+              "lng": -73.75996303029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northern Blvd/223 St",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104502192413828322987\">Fizza Saeed</a>"
+            ],
+            "photo_reference": "AU_ZVEF6jAECqRb2d8l3McpGhn6Rct_6lXQV4lhXPSTWV23am8ZOKlu9ZLPRAG2AiG0zaiAemRgy6uFL0IZ8O3l4Ygv0Jl_c36XQC-3TFxi9xNDymUuGRuyQdbMsvoPHt9h5E60hZO4LhL-aUqYJD6ro1a8edKuAbXeazwBcNQgO6AFJNApWp3BxgK4jbR2Qwx9raZ3b7d3x3aSOSLWqUoiZDqeTwuH9ckldYHOlcUpZt6WBPA7oioz3KVzXzTJ5nzUq_AuWWqfQ-S9KbiHqklzePBKK3c_He5Uf4-irX-rNXbX1T0JC4xWjrLW0iTXsaz1e7YS550xSFKs8YyNPBkPLObx9FX_52pKtJJ6nm6aF9qVQb8Xnk3qbY3eEksL1AfGvbRnD4q35W6LAwCpgW_-iTT4P-Uw_oML_2OiPuvWceZCghVLVPOZEEKKudzECYjfgSt5-PGPVgsONLguNKfYabBtaFVdBtTkfwDj_IcT_CEe6TL997tkLgq-4HlmcEEr79p4KAwvbefysuphYAdwvh-WcmUODAEaPv5qS9LPrGJ38BAnqsIHMM72hlDkBi_we_LXkT8AK1l4LYRgJqS4MtiSpNY3dZScSfCpUEr8db_OuN6ix6ZTk9CIvM2XhiiHh1If6tQ",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJg0DRRP1hwokR9kBXmm0Z0Qs",
+        "plus_code": {
+          "compound_code": "Q66R+PH New York, NY, USA",
+          "global_code": "87G8Q66R+PH"
+        },
+        "reference": "ChIJg0DRRP1hwokR9kBXmm0Z0Qs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76368069999999,
+          "lng": -73.7490595
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7650683802915,
+            "lng": -73.7476256697085
+          },
+          "southwest": {
+            "lat": 40.7623704197085,
+            "lng": -73.7503236302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-229-8686",
+      "name": "Mizumi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118171112872114583921\">George Beno</a>"
+          ],
+          "photo_reference": "AU_ZVEGyCMGHvuoWtkGPOL3HIjWQwO59q0aUIrOsG7609rRYsNNjVLg3RcYorhgfMUly4ndDlTyW660bz1qy3WkMNy5jWN1LEDrufjLI49WTnAjGBmClR--iNgGNKwjSP0W3DXYddZ2oZXM405_3JmaHQ6VUz1QT8UVucP5hZGvdlxjEBewNal2_ZwK_SYCYZfFCKySQJaKJBJ6QkDNNoHvO7AoMMVNOO_uSHe1qfyxut_r1NLeexScmQOMGgUIpVRSUoBEzF3ODnMgt3hyLSiUYJ6EZuSVPI9cR4OOC4WUNZYWgaoXDzxlypXECBpkRGc5A9dyAr8cNqv0YBPSJPiAhJSDe_MxTFiyxUw8oSWikUcu5SIm0MWPGZIqw3lGBuaj-6_5alu5Sbcqiwqy3b30GnxLpSp_UJcq7-SntFAUJs7x471Mpn36gHWkm_UzJrrXXhyNX6smiTDQ8WD2IflYvotWexWRvcIUByzBT4YaZxnmnfSo6ujdfozXlIfmU0vUrIeKjFnO6wZHl5GAUE0oJg6G9QwJzbZeW8TeU1coXXP_x57hCKAqFkegPIq8mosoIAxQB1-Dgyq1RqIm0usnsARXM5esJDIgApFMFPze1L_xWSk2gBMaLSBzgSOLX_qHLswPEMoruQ0Y3sFz2AqaU1w5BZx0",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJKT4LNQCKwokR7jxdJEQgymg",
+      "plus_code": {
+        "compound_code": "Q772+F9 Flushing, Queens, NY, USA",
+        "global_code": "87G8Q772+F9"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJKT4LNQCKwokR7jxdJEQgymg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4170,
+      "vicinity": "231-10 Northern Boulevard, Flushing"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7684042,
+          "lng": -73.7484837
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7697184302915,
+            "lng": -73.74723181970849
+          },
+          "southwest": {
+            "lat": 40.76702046970851,
+            "lng": -73.7499297802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-631-0300",
+      "name": "Il Toscano",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1331,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105215772648260606306\">Il Toscano</a>"
+          ],
+          "photo_reference": "AU_ZVEFOnwRak-E3IWrKZx8fI8yKcSXh_2iaDrzvdm6_btASzTB8OzqL_iWfJr5qmsn2W3DhqpdfiTCtkqwvQ0skM71ZCsQCDRRIKXdKR1_cB58fD7IRw7p-DrCOXFAqWwyDE3kKv2MNx4ydpcV7KG-MU1a-bbzaKs5ld1KR2uQs6WGhUN6TSpK2GToqkR8fREl01xdmoto88qyxsS7wmGA_XTy8SG5kyjTVDht3ri_-uULJegO76N21s_Jvz4d-FRfPpFj0_0FnYzP3OL7QjcwAXroyw06wmQC50tfILjKEryj1h4rRiOuRKJxzpiqWMkJi5rdkTyGyoqM",
+          "width": 1775
+        }
+      ],
+      "place_id": "ChIJ0TU6fQKKwokR3fMksF0h2kI",
+      "plus_code": {
+        "compound_code": "Q792+9J Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q792+9J"
+      },
+      "price_level": 3,
+      "rating": 4.6,
+      "reference": "ChIJ0TU6fQKKwokR3fMksF0h2kI",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 463,
+      "vicinity": "42-05 235th Street, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7655865,
+          "lng": -73.74409159999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7668562302915,
+            "lng": -73.74274241970849
+          },
+          "southwest": {
+            "lat": 40.7641582697085,
+            "lng": -73.7454403802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-423-4329",
+      "name": "Aegea West Mediterranean Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110034206329512369259\">William Patrick</a>"
+          ],
+          "photo_reference": "AU_ZVEHL8LNXjChfQb7qSLYyxlFIwv2PIvvxVzzoUH4pQCcOxeA1JWP2zU9Y9cqXZmFuB8kv6gHmFes-qH9M5Ze303cxEkAAgGW2A726gyBnQ0kjRap6pq_x2tHAoiQdlvvH_D74H-Il3S8MSCscjQF2rfLw8fL_gzmx67PAiwLOtM0RISrzJsKSMUgJp2BJyC0sdPA2WhU1p-owdWBkQcfuILhASyCChefAgbQX5cBzy9V87ia5bibUJef57hUhIFHdG-hoK6MmMJHJ6qb8775PP6Z3DLRhQycOIEby1_7YHFcP4abHyfScjX1uLekg36ehYwdvU6mfiA2DhcKxxN2rTsvnLKerLC_zo32l4c0LkjY8LhdLbbK3gYC6jHbX2NFJfZ-lL483mUeziiFN0mLaYneXiDHTX4He7WcU46vkX_0Mz2IlZTYWZyTl6NxSXHarhaUUEDutsdC0FuDAa117FkKqHPDb1O2mHVY4zzp5kk4KpObrMe0gV9CufpcemTbbCL_Gk4sGeBJ-fkYeyTAUIIWyzRdvvf-HTHZophZgXm9_1Jw6XZCUzXKA250biZGtJuNQaDsB4DZPUARK_1JuE9NkhId-jTQuXhhBRgUSf-IXq9pvzU4un24NhOdXJfMVV7yzMVKZ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJEwR6y--JwokRApthkiuqT7Y",
+      "plus_code": {
+        "compound_code": "Q784+69 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q784+69"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJEwR6y--JwokRApthkiuqT7Y",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 150,
+      "vicinity": "242-05 Northern Boulevard, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7656857,
+          "lng": -73.7444879
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7670042302915,
+            "lng": -73.74319476970848
+          },
+          "southwest": {
+            "lat": 40.7643062697085,
+            "lng": -73.7458927302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-631-1888",
+      "name": "Best Garden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2252,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108355018410652883108\">Edward Yoo</a>"
+          ],
+          "photo_reference": "AU_ZVEEMXsTwC64JBQhJDg7TtUZKNQmUK5jyivOQ5Vza9oqR0YPtCTxJ4Cy7TYboWxL4N74rgOmoym-qY3u-Ko_k9mJMHtrdT109b21EA4hRffl6nSEBjBqQ6hwkndhhyrfxtPR44ozoZRIih2N-D4FHoeVNHDeyHXN-xVZ4sGJ0hEWEduajr9OYbUMtmMIc8nFZBcJlogGkL1FfxxFGQ_3YS87ldIJmaRNkCWpIYV8rsJMCupRBERZVQeKsoealGwa6ulYdP26cqmXKOgWi2EjA0-6JvkkuIFIPXk0JD1RRG7aMRYjSSzaOZMEmvcHvJ_rrWY-Xd-0CjYT2PoiUsJpT0wJ9xk2VWpyeu7uzLocFjIsw-l8i0CdKgheO9agQDChboU9tWmgpCPo4U6SIMtvmQ4zSdA05Td9Gw8b0HRM9fdt_BylRXZ6KG-sYcGj21Y1w0Jo0T8zrMsbQX7Fws4XdI08_CY1CYVztZec_pNCiKUZKGTIKYJATFC_1EKikEIeCBjed5hnoU_4-3RGe66UQNd6qwYc-S8KHvWVz9W1Ng3B5ddSK7KREJ9qPnhQCBoYI0HqW7GENp-FyPLmDa5fuUc63Mt6zIZjsn9Fs2RSYoB2jD92440Zjuoed1ZXEPvq9dL-DpAxwh8-MpEGqkr2gqV_a-Xs",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJXwsDLPmJwokR1gifetHBJDw",
+      "plus_code": {
+        "compound_code": "Q784+76 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q784+76"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJXwsDLPmJwokR1gifetHBJDw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 109,
+      "vicinity": "44-35 Douglaston Parkway, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76881139999999,
+          "lng": -73.7488449
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77020563029149,
+            "lng": -73.74760981970849
+          },
+          "southwest": {
+            "lat": 40.76750766970849,
+            "lng": -73.7503077802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-225-2209",
+      "name": "El Paso Mexican Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 916,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107109490232070137413\">El PASO MEXICAN RESTAURANT and coffee shop</a>"
+          ],
+          "photo_reference": "AU_ZVEGjiijTJ0zAclkP5NxO50v1tYlZHUqY0Ix2ISn8GG_yhZvvSCh8lIlbUclidRAGHSoi05hsIournhY_AugVxnC2uyHrF-1IEueJPA5KMdVmBCSXPztJ7qemdGSzc3dBtutbHQuyV0D4NPDG4RiqqoGrk5X-Wl0dBn7swjBWX_7Kri5IhmhPudvIDBeGrMTwy2ppfPyqjaOqnX0UgNB64PCNxmig0ZgM2FDPJqzPMzgIAf3EjS2NqAbJl95njTqINEdEJ5unnT3MRdjFY614ElMWitmGkAYHZGx8wd8bLoyGeSGfdJDBT0cMz9lVVhFTy6DiseGioLo",
+          "width": 736
+        }
+      ],
+      "place_id": "ChIJT_2MBNWLwokRBL4GHKblts0",
+      "plus_code": {
+        "compound_code": "Q792+GF Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q792+GF"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJT_2MBNWLwokRBL4GHKblts0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 25,
+      "vicinity": "40-45 235th Street, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7675898,
+          "lng": -73.7481657
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7690083802915,
+            "lng": -73.74672536970849
+          },
+          "southwest": {
+            "lat": 40.7663104197085,
+            "lng": -73.74942333029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-233-8213",
+      "name": "Picciotto",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108938319787215224977\">Picciotto</a>"
+          ],
+          "photo_reference": "AU_ZVEHDtVuxtx9AJhd6Bx1VITqTAguFcPGwugW6s9jhROCHnaZRB_eaLTSrVd2t7VuUPTl2Zn2aPoLxdh_52rOwYDWPCfZ3SROaLP7DWwrt3oX5n2Np8T7xR-CY0D9fHFRhuQCDk6XkcgGIvSR6RrIsndeYnZ1nORLSDITx77rhXYZNpNUR5LYCS3qjkBvDkiB5Km1t9KYHYYn4X0R6E8buVhaMZMPlHdOMfJ68KuFdV4POyC8GXTJE9ikeCqECezmX0XNAV0aqr25uFmveyGWzW-BKm4zExUuzdMnZ8_f9A1jkLjyj9xMFxpAuURLVk6u2rSWcnoY9ZOM",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJR0eiLrWLwokRLukvCHO1h-I",
+      "plus_code": {
+        "compound_code": "Q792+2P Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q792+2P"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJR0eiLrWLwokRLukvCHO1h-I",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 215,
+      "vicinity": "42-34 235th Street, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7680719,
+          "lng": -73.748167
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76937648029149,
+            "lng": -73.74689841970849
+          },
+          "southwest": {
+            "lat": 40.7666785197085,
+            "lng": -73.7495963802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "235 Street Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJIVH8ewKKwokRp20OM8KTJIk",
+      "plus_code": {
+        "compound_code": "Q792+6P Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q792+6P"
+      },
+      "reference": "ChIJIVH8ewKKwokRp20OM8KTJIk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "42-15 235th Street, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7661118,
+          "lng": -73.7448782
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76740798029149,
+            "lng": -73.7436191197085
+          },
+          "southwest": {
+            "lat": 40.7647100197085,
+            "lng": -73.7463170802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-224-8009",
+      "name": "Il Sapore Restaurant & Pizzeria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1389,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114948621784323837366\">Il Sapore Restaurant &amp; Pizzeria</a>"
+          ],
+          "photo_reference": "AU_ZVEEJPifcDm9Ep7kxysda5JNHxP5bkUffHqYa4N_EavXpws-9aAErR97Y3CTHTKkW--ZC3sepiogecz39JYS4SpkfDzzphz1P57aI6TkQwLNMjdEH4Jsz6HebNiDDSpm9RtIYbyHFsam1W2MD7uF0TX5ljBlQi1BoVjGwGbfBDVnAP9hcyJ4tQkx7zXHX4K-vTcBENK0z2gfbsr8R7rNxObbVP-ixvaywXNlAyQBjMunzxQJna6BTRjjOJsY6S3CHEVyBianU9oJ3n26RNmi1DpY2FI_shoY4k7jneWPHMn5EatzD790tl2nHJ_07z2N6JifNf8k0cVw",
+          "width": 926
+        }
+      ],
+      "place_id": "ChIJ-2GoTACJwokReow0XOKySc8",
+      "plus_code": {
+        "compound_code": "Q784+C2 Queens, NY, USA",
+        "global_code": "87G8Q784+C2"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ-2GoTACJwokReow0XOKySc8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "meal_delivery",
+        "meal_takeaway",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 148,
+      "vicinity": "44-17 Douglaston Parkway, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7659858,
+          "lng": -73.74467489999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76727998029151,
+            "lng": -73.74344041970849
+          },
+          "southwest": {
+            "lat": 40.76458201970851,
+            "lng": -73.74613838029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 718-631-3353",
+      "name": "Douglaston Deli",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 716,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100046481087200668157\">Douglaston Deli</a>"
+          ],
+          "photo_reference": "AU_ZVEGO3D-WNNJcben8iSCXJl2T72zosL-UCUVyRW1stas0hUdH2gotVJu6PAhKHVArrrfj3Djh5_6cmqs_Y4x9MkmefBujBafRZVb7Qm2DCthvPaL5GmaeSLNj0ijxpLgXG2grnvSxZPyO_GzRx-0CZGs5XjKyfjHUTpPD8Fs3-QGxg-hk2hBt3i7KAqStKOVbJZHXJHx-ENK6zPgRr2ZOW3ZzpqTR-UVdr70_dBLFf1haum4HALzgOXHEjV7rAEdf7-lGG66tVyc-8-kVn6DiG-Fc57jR0tMBip2Jlstle0DiNk-vZQu1mPvbSpm2KSR1Z1Xs3cW9om4",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ87XvKPmJwokRXF734sOEYoc",
+      "plus_code": {
+        "compound_code": "Q784+94 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q784+94"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJ87XvKPmJwokRXF734sOEYoc",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "grocery_or_supermarket",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 103,
+      "vicinity": "44-23 Douglaston Parkway, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76591810000001,
+          "lng": -73.7446219
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76721763029151,
+            "lng": -73.7433797697085
+          },
+          "southwest": {
+            "lat": 40.76451966970851,
+            "lng": -73.74607773029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-229-1484",
+      "name": "Simple Noodle\u89c1\u9762",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1280,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111217115947614987017\">Simple Noodle\u89c1\u9762</a>"
+          ],
+          "photo_reference": "AU_ZVEE772y8pbKOCG6SUoQwJKfBxbJvWsmKCdqYNxEQuPrqTTv4saSb4EGPTWmWf9JbOKsmSfFZzbpYQKhBIcwM8yMTImUqdyZWi7BFV28GGH2B1QOLIcS-UsCiyThVgRONNzJq0Aip8v-HIE8L52XiD5dPKGxCXtVDDn5GKHwoSz3Fxenf960tLAanTYIEO9NO7ADnzTUPJ8XpmOuEaFoC-9KW-goGsai4q0aGnzT0PNRFYfkf5aI4UXV5hwuZMMTeyLcv9qW_53viU03rGc846TzX2g_0AF7m0S3trnCxJJA-18DfVllswdv3DAtPLY6_lDpvpz8Ny8Q",
+          "width": 960
+        }
+      ],
+      "place_id": "ChIJ3c0GIxSJwokRbUWEhgHcwTE",
+      "plus_code": {
+        "compound_code": "Q784+95 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q784+95"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ3c0GIxSJwokRbUWEhgHcwTE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "44-25 Douglaston Parkway, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76572049999999,
+          "lng": -73.744333
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7670070302915,
+            "lng": -73.7431029697085
+          },
+          "southwest": {
+            "lat": 40.7643090697085,
+            "lng": -73.74580093029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-428-2001",
+      "name": "K Kimchi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114712040225449127114\">Post Road</a>"
+          ],
+          "photo_reference": "AU_ZVEHKDfnVhx4lbVFEu7iguaeuCC9TdP8NsOYYU9qKP1epwu6Fptx53-sxJ5IjfvA136ZWHtOXQQ7oJ2oD8DjTHVxfjR_8C_a4UdB1n2Zu7hQcUFyRuyucsnEa9VOgmn_qY7Xir5lXiVCB71bKUNLcaykWLcIZ93fz4lCGQlwOYPeJFO2mPxfU87f81DvX4uq0mYd6nKRHXCF88ATRIcQfTjYlefrWSFPmfWPvClRpY2tAJp45sj13vpYbSpnBEnfqKsD7ldjPHI5_jMi9UIJQP11FjPW1_UTpFX7rIi-g5b9cj8GjhFsmT3Qcjfs9JXS_AsmaF6DLqUZJN56aIDQ_fVrujqEcdWo28VyThMzJ0Wu-BlN-PvP4I6Xhugg-BHbqyHiApmNzCZrKu8oGj00UOSrYDwoFEfdFNiUUTEe-u635AFjGEpb_bs9radqvi0vZ_dAB5Myvqz6JmwX_6VVVHTVfNGJ9g06gP6YkIPMqO1DihtmUPY1O3CdGkgt3wJM5B4mb3w7fM_nFg29Jz0G-e7cMuLOx09MoAcoDaVQZiERvdVqli_XJ963RTxn1yYEHQCCygKkRLRj2u5foXZ_A2wlqWm9VTvXwz3zdTDWFubd5X6zvVD3qVOulospYgLzBoIQFNw",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJneXqLPmJwokRR_yswIOt3NY",
+      "plus_code": {
+        "compound_code": "Q784+77 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q784+77"
+      },
+      "rating": 4.5,
+      "reference": "ChIJneXqLPmJwokRR_yswIOt3NY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "44-37 Douglaston Parkway, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76564469999999,
+          "lng": -73.7442461
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76692383029149,
+            "lng": -73.74300631970848
+          },
+          "southwest": {
+            "lat": 40.76422586970849,
+            "lng": -73.7457042802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-428-9387",
+      "name": "Zeus Flamed Burgers",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1386,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111835638713674184271\">Zeus Flamed Burgers</a>"
+          ],
+          "photo_reference": "AU_ZVEFj7jFuCUyf3spCNix89VDYdsJ5JqjelUYr515JbhdiQr-XVdHe1nzJ-gH7uRq5lJvegHFaFNMZgSVw2oYt5FKFL6HDJHYOWIsyCpZ_Td30zn_2mYYCqlBbZ4iMFWpo-wC0uURYcSMU_txATLDBs6Nxe38c4wzG1C5cTA9bc3kt0TuHblbFkoE6e8KcN2kHIFlq8nLnmomCIGF_jeec8EfhfEKGijoxehZlOJDNMt2F_RYjaz5BbrtzMMuFMo0W4-y4Dynj_-Wxq40-siIsN4E4cwrCePt3lhvi32B17pUPX9i79fTvax9jxDh3K-_tFXBaoCD9xQU",
+          "width": 780
+        }
+      ],
+      "place_id": "ChIJn_yoPpeJwokR6NEFWuPcZ2M",
+      "plus_code": {
+        "compound_code": "Q784+78 Little Neck, Queens, NY, USA",
+        "global_code": "87G8Q784+78"
+      },
+      "rating": 5,
+      "reference": "ChIJn_yoPpeJwokR6NEFWuPcZ2M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "242-05 Northern Boulevard, Little Neck"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.765561,
+          "lng": -73.7441
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7668434802915,
+            "lng": -73.7427433197085
+          },
+          "southwest": {
+            "lat": 40.7641455197085,
+            "lng": -73.7454412802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-928-0001",
+      "name": "Nami Sushi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1266,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108431805625084161059\">Nami Sushi</a>"
+          ],
+          "photo_reference": "AU_ZVEGgoLs2qgUbkc9Ax4IYnhKQq84VC4h3jNP2UXARB8zsVx-nlc0g91COfxrjTj90cUW5z_jmL6sJkaTHhQovOsB9vHd_8gb9xgaf1vV1UxxfLRudiOq8Y9wOZGWJv9xl5W9AKpxYiAwTlCsPTqxlyx3ETCH2On2cuQPHFwSr_tc-xynMCgkoxPXc8H3P_TgMyza5C8dThw2W68P_hrFvDDLO9Y8shMW6bhtEHo0QiRtry0RmPMH540Wg4pxO5fKctHwt594kFiBA-d_qxSkdXRRZ3uRJOy4YezcLHw2hGx7UvO2IK5jPg08WMBzSLzn8pKqPJ7O2LZE",
+          "width": 953
+        }
+      ],
+      "place_id": "ChIJfY13MvmJwokR9tYxz8qI8ys",
+      "plus_code": {
+        "compound_code": "Q784+69 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q784+69"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJfY13MvmJwokR9tYxz8qI8ys",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 227,
+      "vicinity": "242-03 Northern Boulevard, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76641709999999,
+          "lng": -73.7406034
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7677866302915,
+            "lng": -73.7391246197085
+          },
+          "southwest": {
+            "lat": 40.7650886697085,
+            "lng": -73.74182258029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/convenience_pinlet",
+      "international_phone_number": "+1 718-310-8555",
+      "name": "7-Eleven",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103449063089728356149\">Carlos Cortes</a>"
+          ],
+          "photo_reference": "AU_ZVEFsiWto2pU3laFaUV6OZKJeXeKtlGevxtmm58oE2bCtrMH-7ARtJhj3tDNKJp7ywgZRz1Ph_k0YLNCZ8jqIq7rRrLCwc0Pp6A8Rtoot3xUi4rybW8qEkHVwV83Yg4olTtfydI2wpqUFvh8xsLGmiiLLtEeV9gfJtVp5EAtvzfO2MgWTqSzOVDBzFP6J5IgKQ4jOxtOX6wBci5u-GE2Q1BuVTrw5ASzmMiSF3z0ivL6ESEvD-S8NPxC7jJWpQBaWHphsi9BuK-JWZA72Th9xVi11-K5GmzlarqjlF-MJgu56W7KiBtT5v4S4Nx7BGR__0IhBnLki3bo7Ux5Ra0CNiw0BcOwyDcDTd8iiuVLNpWX9VTGrNRZqy-4U1DHGRcksvSVrRg26B_SumW9I4Y1V_s9MKqXjbNko3Wz8swQ_Cf2BU4abXNXXMKFuZSNJ20_ffS9sll5iticiAAmf_JIAEayTe86gcCfE_Rp8cn9K1FBw32mvcrMbvI9zhZc2EsSOptJjgnxOcukaRI8LjtqFwxJ04sLNpdbKyJq1wPxWn6QBtyXOMUy4QhpdkyGcxJ4yHCAvjehagW7xLuFgE0Ic0YclDlBIl1ZbvNq_YUz3VYng81GAc_auyOJ640yvp0oE6Bwv4HxD6ghVBkHpDkMTT02XhRY",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJf_8a7_uJwokRztKfLHbqMkc",
+      "plus_code": {
+        "compound_code": "Q785+HQ Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q785+HQ"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJf_8a7_uJwokRztKfLHbqMkc",
+      "scope": "GOOGLE",
+      "types": [
+        "convenience_store",
+        "cafe",
+        "liquor_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 89,
+      "vicinity": "246-15 Northern Boulevard, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76156290000001,
+          "lng": -73.7593661
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76302523029151,
+            "lng": -73.75805746970848
+          },
+          "southwest": {
+            "lat": 40.76032726970851,
+            "lng": -73.7607554302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-344-5520",
+      "name": "Burger King",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114302945262750064776\">Burger King</a>"
+          ],
+          "photo_reference": "AU_ZVEEnCu6MMAk661-kzXl4rxtMdORUT1xo62KRRL-Zo2T8aqIxFhOYqRUhhmR0LEvkGnFxz5JryX_G7Xc7emTgnzIWrMyjnlxxrDzomsz_ZEG2LryV-VnpfbwgvjHDzWfvckCmVk123yEXQ8j4eyX5DX4IlBEbH8Z0og4-EWEVPKlv9EVE0lycQlYDw38RF1opiZcyxFP2BPJEwhqQrO7WMHwFv31rGpReYJLIAllBgQm9Xtx1bUfd6xCC3d3e34TwM2C9knutaXkKq1XpmojAe_F59b5YKJ6w8-h5_H8uPBuGiQGTkMTiioGsfFOcEoR7_mfoDiCAhV0",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJQT_ES_1hwokRXmM8dTJHBa8",
+      "plus_code": {
+        "compound_code": "Q66R+J7 Bayside, Queens, NY, USA",
+        "global_code": "87G8Q66R+J7"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJQT_ES_1hwokRXmM8dTJHBa8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1893,
+      "vicinity": "222-10 Northern Boulevard, Bayside"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7615686,
+          "lng": -73.7594051
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7630286802915,
+            "lng": -73.75805841970849
+          },
+          "southwest": {
+            "lat": 40.7603307197085,
+            "lng": -73.7607563802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-255-4948",
+      "name": "Popeyes Louisiana Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104369674753600065288\">Popeyes Louisiana Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEFZ0mzXEQcKGNc2EcS6JZML_SRTBxrYwhExLNgpxwWn85k3cHCXh35ShPfUD5hgAfY8FElb0FfAJHR6-2GBtZqyEI41VvoWyxPmIVN4MxZNtmUKv73ZRzwUC-mMCuPU_36ABlKFuQadcwrh81r_V2GjzIX_TUgA_mPFCC2EHo4QgKkJt0fwbIiMYTOCu6b-oDHQXJR1Khs5S1CF_LV40m5Aw77ae-w3AjiyEQv7x4VOEpetigtDbnL6la8NTZsKkD9Z5WqzvAHe50B1FGb76k5xcbMlNbn19FVmBaAZ7uKmr3cSqvpVg_Dv0MVlR2o3IlmGaMBgowo",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJt0cBZABhwokRf7xADgrMiMM",
+      "plus_code": {
+        "compound_code": "Q66R+J6 Bayside, Queens, NY, USA",
+        "global_code": "87G8Q66R+J6"
+      },
+      "price_level": 2,
+      "rating": 3,
+      "reference": "ChIJt0cBZABhwokRf7xADgrMiMM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 243,
+      "vicinity": "222-10 Northern Boulevard, Bayside"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.76432459999999,
+          "lng": -73.7488046
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76558678029149,
+            "lng": -73.7475949697085
+          },
+          "southwest": {
+            "lat": 40.7628888197085,
+            "lng": -73.75029293029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-225-9187",
+      "name": "Alley Pond Golf Center",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111502915536680573747\">Alley Pond Golf Center</a>"
+          ],
+          "photo_reference": "AU_ZVEHrRNJGQFSd2GF8Nj7Q2tnU7k-5Oo4jyFXZOcAiaXrT6zaZZJcMxgDoLSN8VwvxJIa5f75QY3M1MYZ7BTZuRikA6Vi1WihWEFvneRU8q7usMQwRJdZItZYxxOy1xbLG5t305Qud-dnHnAsGSnOSAdZBETVxWK-ub8APXooOR9KAphWYA3cjiKC8-YE2LAbU6McZuneftVEnE2tKcvdt8tFrqFBmwBALKaS0SrrRQ8f3dPGwhkk9c71Ow3hCHxOJgzywyjuZJ5HCKUa3Rt7xEDT1x6UgsYupa-SRN8BUgWEUge-peiT1MreGqeldxZABUTItgR1CvJ4",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJ5_LRHfCJwokR1L4VA62FDfs",
+      "plus_code": {
+        "compound_code": "Q772+PF Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q772+PF"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ5_LRHfCJwokR1L4VA62FDfs",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 841,
+      "vicinity": "232-01 Northern Boulevard, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7619866,
+          "lng": -73.7599127
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7632840302915,
+            "lng": -73.7586287697085
+          },
+          "southwest": {
+            "lat": 40.7605860697085,
+            "lng": -73.7613267302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 718-631-5900",
+      "name": "Adria Hotel & Conference Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3456,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115745954199702306226\">Adria Hotel &amp; Conference Center</a>"
+          ],
+          "photo_reference": "AU_ZVEHcw4DmtIfQqkpLpImljJ2S_gSM9oV32D4C3RxMvT6H0ao1L3x5Fwi0mXAfZj8Yi6ol5DVEh9fwZlx-ctCneqWBO3zjsadzuUx5B-xZLU6DgaKS_yfRyhIHk2HA0U71zFrn_C_a3zWVe-1hVNKOiWiEeKrCQvA2A5uSh-M7aShRno2_6RrwS61wFGGPMswUaUrXmbbSO-wQMXYdm47Ku7K8tIHtjBLLMR2wZD3rchHKpj8MXVcczlWbeeWJswjg47yfA1YmYw3nXHbF4s9vAlc5o3fNqOymdrOYpIQtC4JkfENVXq-AOc8sriZ3AYkWsXmm-JzcpAA",
+          "width": 5184
+        }
+      ],
+      "place_id": "ChIJP3gesuJhwokRjvRGHCe6yn4",
+      "plus_code": {
+        "compound_code": "Q66R+Q2 Queens, NY, USA",
+        "global_code": "87G8Q66R+Q2"
+      },
+      "rating": 4,
+      "reference": "ChIJP3gesuJhwokRjvRGHCe6yn4",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 955,
+      "vicinity": "221-17 Northern Boulevard, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7734566,
+          "lng": -73.7421265
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7748362302915,
+            "lng": -73.74071966970851
+          },
+          "southwest": {
+            "lat": 40.7721382697085,
+            "lng": -73.74341763029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Guest Room - 30 mins to Manhattan",
+      "place_id": "ChIJV_KZy_aJwokR6xFBxPx1rqk",
+      "plus_code": {
+        "compound_code": "Q7F5+94 New York, NY, USA",
+        "global_code": "87G8Q7F5+94"
+      },
+      "reference": "ChIJV_KZy_aJwokR6xFBxPx1rqk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7629104,
+          "lng": -73.75311769999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76421353029151,
+            "lng": -73.75184626970848
+          },
+          "southwest": {
+            "lat": 40.76151556970851,
+            "lng": -73.75454423029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 718-229-4000",
+      "name": "Alley Pond Environmental Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2992,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110516941702442102408\">Sammy Rodriguez</a>"
+          ],
+          "photo_reference": "AU_ZVEGaIG12ec3IoY0-yCNwlQh9SQzsTgbS57xh9JVp7-AAFOX79_ggJUpAKQa31POBu3kDV6Hm8PvqXTcdETKQEztO5R2bgvBeuBZPy_pkWzcUsIC3uEGupj-MztGmiv37XpCcnIi-fizwcBHISancsXYlmqY2GvENa5hPXEAWurmINbriaM-zmFK41TMTJIr_1skUBX-4Zoze7fMObho0c7Ebrs10FUDZLTWwHqAtN68-3R_bPr25G87rOEli16BvyzvvYBAUlIDkUDCdQmel413Ah_o8XbBd1-Kh5L6WtMDxSK42X10cukOJ9i9S_ZsCUXQOR9AActxkMkWwpIw3ym1Bjc5NRiuaJphYE5uahNPPMu1kQWL_juv28n1dTQ2WZ5PdUjbuhoMTtFPw0E7mITbDt6q_6E_ML8jmimqKyEm4lr8LrWSTBvUMsyE3N06q0SwuMe6SQsON07eOdUsUxgYYtfVRnZT-DwRJC4aXMBXZT_vEFfNeqjs1BfZJZJHgdhSSYhxFTyWQUqST1O_0JDmVBKKF44ybFOE7ThKjMHW6Yl57JMqNs9MzGn5R-NAd1vjnBsmqGjtiEGOxeSMfkjJng5SvEZ4CGec03XxkmgDRO0B0LtdXcO5Vq9CXC7CJQ4AoXmgJk_7y33XNDVpgQw",
+          "width": 2992
+        }
+      ],
+      "place_id": "ChIJASpHqwCKwokRBHoUxXcpArg",
+      "plus_code": {
+        "compound_code": "Q67W+5Q Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q67W+5Q"
+      },
+      "rating": 4.7,
+      "reference": "ChIJASpHqwCKwokRBHoUxXcpArg",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 515,
+      "vicinity": "229-10 Northern Boulevard, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76842749999999,
+          "lng": -73.74723410000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7697320802915,
+            "lng": -73.74600526970849
+          },
+          "southwest": {
+            "lat": 40.76703411970851,
+            "lng": -73.7487032302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Catharine Turner Richardson Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113414555809962186543\">Catharine Turner Richardson Park</a>"
+          ],
+          "photo_reference": "AU_ZVEHUpsfMbYoUFaAsKjyQ_de_FqEQkZqaAI3Umdb9yNxEZvO2ca_iLIHAcRMyK-hYJzQ4Y4shNCwOXdDJTwsjS9oQJIbYxmH_VWfTd_lpzbXQburlV1A-9omq-4vAH9SnBH0n-YoPtYBrdro_FqN66w-4zEbZzliR7HPuDyPSAmBZFQ58f90SfGIm3mbZFqewK6a4Lz9x08_YpFPDP66JAfbw1Z5WsxNwyjfZFB1tOAzWefCRsxL2vTaXR_rcn20jhMsd4bLVLdCvcCsYL5KQGDUZuXz-1A3zbCDMwR93yBD06urRsVxLQtB-OHPKuJXBK2HEorWLuY4",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJW5eUhviJwokR9RdCNc_EUgk",
+      "plus_code": {
+        "compound_code": "Q793+94 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q793+94"
+      },
+      "rating": 4.7,
+      "reference": "ChIJW5eUhviJwokR9RdCNc_EUgk",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "40-60 Douglaston Parkway, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.772838,
+          "lng": -73.7446212
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7743409802915,
+            "lng": -73.74319241970849
+          },
+          "southwest": {
+            "lat": 40.7716430197085,
+            "lng": -73.74589038029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Udall's Cove Park Preserve",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 916,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100065149197794688902\">Udall&#39;s Cove Park Preserve</a>"
+          ],
+          "photo_reference": "AU_ZVEG4jLnlc7V5PwGkSrKD5An1rjW-kfpXfvkYIi_pf0kn13zNHk8Ff-m5kvuLiZaQ5or5gaeDGo5f1vCP54_wLA9pf7UYrYXgA5jFs1HADNXv5NpFLtl8oqArTgi4myO91Jfq2BdmkA11W_05f7SwraS6L_8uPvZfIi0gTlnjR4M_uuMsBukyROLbtih87-YSo40B05LOC1WURF6MkDd3lhS3hiaSdIflGNiFzG9UJuUs9M-8hQ5S6_fzjBQlqXERJsFtG1UtkXB8CLi23igEVlqi_Z5qFZhNLEXhn9AXrntfjPB0VZE-A2YNDwc3MQALNvsmBjMzSak",
+          "width": 1221
+        }
+      ],
+      "place_id": "ChIJ_RLBUPSJwokRejL8VuHWna4",
+      "plus_code": {
+        "compound_code": "Q7F4+45 Douglaston, Queens, NY, USA",
+        "global_code": "87G8Q7F4+45"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ_RLBUPSJwokRejL8VuHWna4",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 122,
+      "vicinity": "Little Neck Pkwy. &, 34th Avenue, Douglaston"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7644805,
+          "lng": -73.747051
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7658349802915,
+            "lng": -73.74568761970849
+          },
+          "southwest": {
+            "lat": 40.76313701970851,
+            "lng": -73.74838558029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Bl/232 St",
+      "place_id": "ChIJ09nhZ_-JwokRHcIbCBtZC5Q",
+      "plus_code": {
+        "compound_code": "Q773+Q5 New York, NY, USA",
+        "global_code": "87G8Q773+Q5"
+      },
+      "reference": "ChIJ09nhZ_-JwokRHcIbCBtZC5Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76835320000001,
+          "lng": -73.7492567
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7698286802915,
+            "lng": -73.7476529197085
+          },
+          "southwest": {
+            "lat": 40.7671307197085,
+            "lng": -73.7503508802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Douglaston",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100331485103857257382\">H Kim</a>"
+          ],
+          "photo_reference": "AU_ZVEFlf-boFS-21ZnKdLb-j0yzc1XZ-IEMQKMzEFm7WseIfACAx4bHzTVhqZBZ06IzQXFsN1PS7V_ZyuJ2F8bjN7qBPc-Ic-hZh7v_BDxQ3oRBWJWR4tEe1kTuj3zFJlKmtcSAFLsgFzhmLr7M5JQr7_s1c0uUw6JLqj4QNMuy0Bq71DBdWi0wqsFgqOvUaJBwM8bTOC68ixgLMArb90QWP6JXnmkI-a63AVfpPhLZlhzq_Fce9OxN_GT9nD-GknppRkKuMQXRjATtgJZVvJ1sAjUmhfeUh4sUELAL8p4jW8GyJ9_VRaYnoOR4_d5yEkf7FLNin0Twz49nRYHecoAkB4EI_w7F8c0mIweLBlkFom1sauJJrHbUt4MFv3IPCXnTnHPqsQvDue_2zpvfaI1eVSXhJWIgRidh4qKFZuSCaIrNLoDXG7WUfEV9VaB_78R8oNvJQRhyPEg8oxc6Ar2ziSMmbzKlH4oYpSLqXDcsm2BteLuSvLIi8VhFFCeaqadyYzAhkJP1dYQ_uHiM40Vo2f1f7zYeLzCn2wpRMmbvPrIVXYrtnILq6VQH-FqrA3NOtleQ6qZhe5TJ5_ERUGlgqrRBsMNuw9qO9hUNlQhuAuz-kg9-eRCd7ZMDMgDk-kNhG6JFAQ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJFxEZXQKKwokRovEYjb3Ioms",
+      "plus_code": {
+        "compound_code": "Q792+87 New York, NY, USA",
+        "global_code": "87G8Q792+87"
+      },
+      "rating": 4.6,
+      "reference": "ChIJFxEZXQKKwokRovEYjb3Ioms",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.764205,
+          "lng": -73.7486401
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7656031302915,
+            "lng": -73.7473142197085
+          },
+          "southwest": {
+            "lat": 40.7629051697085,
+            "lng": -73.7500121802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "232 St / Northern",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEE--Lfs6dc3InCXuGBlRtB2z-luxhYnTsMRgFP4J9MRDKxfXNGOP-s_eZawEH6GlIEXgZlelKwpnkT9GfI1kW5xPEYhLd3kXQvV7ofSKxHjJLbxyiXxJ181Teqsrpk-LH1BTps02uBWChKWPqEQOHxY2EiyLbxCtKnvPuoMuz2J0eM1gll0iURx8vNZ7Y9E5Yg6S3M4ogrpIYjDQ2aqibAHUo3H9YQKx0hlizgcWycfLx0L8Dk_tuHqCqHu1Mfb1_tiZSN0p3oS9tGrEo4QPlfvWRK0739RHmDiTvE0i2t0Reo9kNpq5PBktidxOb6SuGhd0edQXzyMrVvfzse1M57ZJb8pUoiG9fT5Msc4q6eCuGIJp_IVEH4LolcN6-UHI7yGSBl1LIos_1jssGR65_uyEaed_mdQWFE30QYKBailZoDwp4huhAASGQlGrkAVzf0aNgTmhNdtOjunWC4HI341keaUfvhKRLNcf00YBEziO73ewq7-WShAADaJ2qM6dqdS6KRt5uc5d8qP4DJx_7VVsNZ096WEmNIp_agc8lqEcj-PhuOjyMLNPmBNByRi60fsfUYF5UWIwUAv-QGh532uWyXw5u0Im5Jq5Yr837NWDpVN05WgGnNLbLSxEKdpVd-YAib5",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJ4b_U2wGKwokRJIIEuSYU-pA",
+      "plus_code": {
+        "compound_code": "Q772+MG New York, NY, USA",
+        "global_code": "87G8Q772+MG"
+      },
+      "rating": 1,
+      "reference": "ChIJ4b_U2wGKwokRJIIEuSYU-pA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76389409999999,
+          "lng": -73.74914799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7652575302915,
+            "lng": -73.74775706970848
+          },
+          "southwest": {
+            "lat": 40.7625595697085,
+            "lng": -73.7504550302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "232 St / Northern",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116715481385546865053\">Wayne Mitchell</a>"
+          ],
+          "photo_reference": "AU_ZVEGU2Ut8QwQneH8J2yEUJ_PaBgke6pQzqOhVvdme-P4gKZrlrjw5bM5_cCTXb9JNGEKZ8gZXGQGWhH7lMUtpunkrChkHJmYEFIdwgTlXgnicAnxNTZS4eR2dMPdVdOxS0fHCAFLEg3D7b8nX9Wd0Zfis9FZSBmnNoOL5P9iWK8-RPUbk76ynCF5yClBZ0TRE9jB11Uu0gVD7693xYzHH1lIDFc82-7W4Nyz4MeT0_bAZ2AMX-sLL0jFOa7pEno3POVYbgmtRQfw_Ce3OcypbKZIALfH6HFJQl8ERLqdmbCCqZt4TnOOXA6mv0ttXijeypcH7wk12fz_L6yiqnBTdnhzW93JR-xcVDFoXr2IV364o_no1490xfD8CPNY4dMgXsYHYMDVkCE9o1FJvStJ67iBvK4IqbWExp9bBFgQ8Vi3ijxBp4zWpILneDBrEoCvaAKg9CZcI7yknRQb0pKvJvfuLmJr6IU_guKZCkC9VyR17a9USfark36bNvDHZD1B-FNgG3DKBHhcuSuM1FOgXNfCjOWIXvjfkzvze8GGwAx05bbhSUjula5-KNYQ52glg8Y3imzfRDc4QXlmeDapJ2cDkO1rSm9h709kIgICtCZVz2WvbpAjflE90d--cA8MxIKPEZQ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJSwxGzgGKwokRTuZ0T3kDzaw",
+      "plus_code": {
+        "compound_code": "Q772+H8 New York, NY, USA",
+        "global_code": "87G8Q772+H8"
+      },
+      "reference": "ChIJSwxGzgGKwokRTuZ0T3kDzaw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.764606,
+          "lng": -73.746872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7659655302915,
+            "lng": -73.74552941970849
+          },
+          "southwest": {
+            "lat": 40.7632675697085,
+            "lng": -73.7482273802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/232 St",
+      "place_id": "ChIJu4b6Qv-JwokRRRglSvgGH3k",
+      "plus_code": {
+        "compound_code": "Q773+R7 New York, NY, USA",
+        "global_code": "87G8Q773+R7"
+      },
+      "rating": 5,
+      "reference": "ChIJu4b6Qv-JwokRRRglSvgGH3k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.764343,
+          "lng": -73.74722299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7656936802915,
+            "lng": -73.74587481970849
+          },
+          "southwest": {
+            "lat": 40.7629957197085,
+            "lng": -73.74857278029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/232 St",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEH1e6q1YiKA135u3si5n6EYNWS8NlgbcZCtHZpREm84OkWy5nO0iT_P1_UzaTHsjIotwhnv1iXSW0H-N66Kf5f9WkDBM9Q7tIkvQtm0MUnDsuRzaZ7rcIqXtuS8WloZnhV37M5IUG47brFtiirOCvBW28yLobmcIY78pdVvAQn3BJdgp6WCqbjV48MTyL8iGWwxLt1dh2ZDKiXAMQzQQWkgE1Qp1gu3kQ2MZ1OzxmheyFik-Ki7VCsNi6WrjSlUNSLPjKgJoLMjKiuTF_ogBGWyNMLr63l934GXCeWrUaza5ZqZ88GkXBNmk8qW2nGzsev9vePpe2Hb8e3D1LEAWpSocEsEGq3AWtvzyPls3nDzx2nmQylnomvXDwdWax7BYCT_1o3qY70j7hVA3ZWWTtuHxJzqBtUTswQJPiQxgiBAcH-RUtQE2btztzDCrkyEALFEnIHEg8YpTSiJ1VROtljXXCSGnYbs6nuUu8N6q6VeEJgB78pMfHFfM9N-_I6uBYePh3QByZY5bO939zCsb7PeTgA78dQ-rG3c9_9-8lYb1gj9o0oAXL-N0bEdVdENxZvmMDBJNuQ8NHYEknIz3-G7SRIMGKg-2AOj1xguZvM7oUlM5ZU8h4vW0op7IWeO_pXXSg",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJCeKLZv-JwokRRgzaF2D1FsI",
+      "plus_code": {
+        "compound_code": "Q773+P4 New York, NY, USA",
+        "global_code": "87G8Q773+P4"
+      },
+      "reference": "ChIJCeKLZv-JwokRRgzaF2D1FsI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.763123,
+          "lng": -73.75276199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76444748029149,
+            "lng": -73.75151586970848
+          },
+          "southwest": {
+            "lat": 40.76174951970849,
+            "lng": -73.75421383029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/Alley Pond Enviromental Center",
+      "place_id": "ChIJPVVexgCKwokRqk8EWAsfg1Y",
+      "plus_code": {
+        "compound_code": "Q67W+6V New York, NY, USA",
+        "global_code": "87G8Q67W+6V"
+      },
+      "reference": "ChIJPVVexgCKwokRqk8EWAsfg1Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76318699999999,
+          "lng": -73.75318899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7645038302915,
+            "lng": -73.7518703197085
+          },
+          "southwest": {
+            "lat": 40.7618058697085,
+            "lng": -73.75456828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/227 St",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEGXA_wJPYC6z2tsM0oqxSkJlUPgB8scGS6auzuyUMorNyvlzbStDUUd-RJ-JnQIMiZysZcfEG9de_gj8aHU2IPhdSTgCjJlOTnmFts1EzF2KFI-Jajf71Kc9vffQ6c3QAnk0UnzOlWG88vh4fEKOy9NjduZfIvxk6Pq-xEic0wBFWFtfDChprS6884cWVo_fxDUVRnMu8LaOaUzObqfEmJIgav_PQSu7ckXBW6qn5oqy98uTrpT27kr6sBk1vCSpjapg89LqlwJz6tyvnGTSpiAn9PIe4xceoIqZ8xV61dGfgLNB0aM5EQsQ35HMEzdU9HoAYWAtHYbtCGpkbcY4rSSmRlWzMlGxovMbeoA3Z_Ca7ax2nScxvfwuLxkZukbqmm5CnXyJRCUIT3sMhP_nL_ne42Wp19UXNcrjqf1lvBH-0-TcdkmoyRBTAwS-6AtV__ejiroLmSkNiSg4FJGZ2WRZWHIDe1Rmxd2sVKRjPSIbGUYgpWPXkR3k-a2-Ohw2jH77Qp338wSyml1ofCk8wyYa6mk1UJW0AjhjsLtwdjDTjflKVO_KukFSovh0mmSSxcqZeBtR7UtUP17F6cO8jADC_yU5LS_sVZbFv-lwQn2KwKGRHTTkLlGvwyx7_pZjNfOQs75",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJWdoVyQCKwokRLoPK44TYuI8",
+      "plus_code": {
+        "compound_code": "Q67W+7P New York, NY, USA",
+        "global_code": "87G8Q67W+7P"
+      },
+      "rating": 5,
+      "reference": "ChIJWdoVyQCKwokRLoPK44TYuI8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.765457,
+          "lng": -73.744202
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7667978802915,
+            "lng": -73.74285066970849
+          },
+          "southwest": {
+            "lat": 40.7640999197085,
+            "lng": -73.7455486302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/Douglaston Pkwy",
+      "place_id": "ChIJ9XEBLfmJwokR1WDZFW7tDjA",
+      "plus_code": {
+        "compound_code": "Q784+58 New York, NY, USA",
+        "global_code": "87G8Q784+58"
+      },
+      "reference": "ChIJ9XEBLfmJwokR1WDZFW7tDjA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7654889,
+          "lng": -73.74413919999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7668048802915,
+            "lng": -73.7427830197085
+          },
+          "southwest": {
+            "lat": 40.7641069197085,
+            "lng": -73.7454809802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Douglaston Pw / Northern",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEFdyNaZa73JmfzF8jSd7DHZE8xbyTzi4Ro0HLSnzH4FJ-aeoHCo47BUPcWoLT7_hfpJzq0cS8f0dTeaAQlNhkywS4sazX7BjeijMM6e1NM4lBa2NSjDkhHhfeVp90oWqeQSo6m4BjZsLm4j4LqmIowriXSfdaPtr2tIDaCcr8CRHsaqCzTDwU6nDzyjwCktWavSg1nenvttkfX7YXSLN0JTfrEL3S-rsS9j9eSfYNn33CZp3pHRpPT8OyEdIAxLl8E-mgiKvyXSjIw95YgtkMXlqijMiS9pOSufP9D93GS4akIQ2s3fYY5D26Do_SqlHEf_zAYwVXoz_EGCbyFqJclvquEybNobIoDoHxzh8X_SXRYyI4LAaqMIDE9LObS5PPuhIPYUJRqZ8IALC7XZPIiNn28250KLuxHFt3WkatppvbiXhKV2Tjdiz0cqFpuNmwxvWFwUwcXogG-sdSQtUUAFEEwmIDwnaCnqCPd7ROA0HEGeYcWAP3wcVGGEnL1tXePSKfDefl68kLO-O55rb7uVCNe38brzvWa9ICiDX2LFctQlosBBiyGLB2wLMZGhnTJUAp6YsU0LrBSY0_aJmLPLnyirLbzo8bjQTZAcJ3bHBphVZaCoe6oNbAMCRw-O5WiUnQ",
+          "width": 4096
+        }
+      ],
+      "place_id": "ChIJDw4TLfmJwokRq-lUNAusKjo",
+      "plus_code": {
+        "compound_code": "Q784+58 New York, NY, USA",
+        "global_code": "87G8Q784+58"
+      },
+      "reference": "ChIJDw4TLfmJwokRq-lUNAusKjo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7653447,
+          "lng": -73.7435157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7667047802915,
+            "lng": -73.74221091970848
+          },
+          "southwest": {
+            "lat": 40.76400681970851,
+            "lng": -73.74490888029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "243 St / Northern",
+      "place_id": "ChIJ_aIiNfmJwokRHqbrAlk0yBE",
+      "plus_code": {
+        "compound_code": "Q784+4H New York, NY, USA",
+        "global_code": "87G8Q784+4H"
+      },
+      "reference": "ChIJ_aIiNfmJwokRHqbrAlk0yBE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.76532700000001,
+          "lng": -73.7435
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7666685802915,
+            "lng": -73.7422017197085
+          },
+          "southwest": {
+            "lat": 40.7639706197085,
+            "lng": -73.74489968029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/243 St",
+      "place_id": "ChIJN_Q2NfmJwokRjH0FLhBA6RU",
+      "plus_code": {
+        "compound_code": "Q784+4J New York, NY, USA",
+        "global_code": "87G8Q784+4J"
+      },
+      "rating": 5,
+      "reference": "ChIJN_Q2NfmJwokRjH0FLhBA6RU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.761868,
+          "lng": -73.758606
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76324433029149,
+            "lng": -73.7572650697085
+          },
+          "southwest": {
+            "lat": 40.76054636970849,
+            "lng": -73.75996303029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northern Blvd/223 St",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104502192413828322987\">Fizza Saeed</a>"
+          ],
+          "photo_reference": "AU_ZVEF6jAECqRb2d8l3McpGhn6Rct_6lXQV4lhXPSTWV23am8ZOKlu9ZLPRAG2AiG0zaiAemRgy6uFL0IZ8O3l4Ygv0Jl_c36XQC-3TFxi9xNDymUuGRuyQdbMsvoPHt9h5E60hZO4LhL-aUqYJD6ro1a8edKuAbXeazwBcNQgO6AFJNApWp3BxgK4jbR2Qwx9raZ3b7d3x3aSOSLWqUoiZDqeTwuH9ckldYHOlcUpZt6WBPA7oioz3KVzXzTJ5nzUq_AuWWqfQ-S9KbiHqklzePBKK3c_He5Uf4-irX-rNXbX1T0JC4xWjrLW0iTXsaz1e7YS550xSFKs8YyNPBkPLObx9FX_52pKtJJ6nm6aF9qVQb8Xnk3qbY3eEksL1AfGvbRnD4q35W6LAwCpgW_-iTT4P-Uw_oML_2OiPuvWceZCghVLVPOZEEKKudzECYjfgSt5-PGPVgsONLguNKfYabBtaFVdBtTkfwDj_IcT_CEe6TL997tkLgq-4HlmcEEr79p4KAwvbefysuphYAdwvh-WcmUODAEaPv5qS9LPrGJ38BAnqsIHMM72hlDkBi_we_LXkT8AK1l4LYRgJqS4MtiSpNY3dZScSfCpUEr8db_OuN6ix6ZTk9CIvM2XhiiHh1If6tQ",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJg0DRRP1hwokR9kBXmm0Z0Qs",
+      "plus_code": {
+        "compound_code": "Q66R+PH New York, NY, USA",
+        "global_code": "87G8Q66R+PH"
+      },
+      "reference": "ChIJg0DRRP1hwokR9kBXmm0Z0Qs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}
