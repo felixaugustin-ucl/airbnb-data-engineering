@@ -1,0 +1,4667 @@
+{
+  "neighbourhood": "Woodrow",
+  "centroid": {
+    "lat": 40.53967662903226,
+    "lon": -74.19831574193547
+  },
+  "fetched_at": "2026-04-06T14:45:50.251849+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54208999999999,
+            "lng": -74.20693
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5434115802915,
+              "lng": -74.20555156970849
+            },
+            "southwest": {
+              "lat": 40.54071361970851,
+              "lng": -74.2082495302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 929-321-0457",
+        "name": "Starbucks Coffee Company",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100714672408799092290\">Meriam. KCK Family Finds</a>"
+            ],
+            "photo_reference": "AU_ZVEFCYglr9XdvkhriUU6aim7GV8yT7zHHLEOziwnkQAx0va7EIqok0PpbIxlle97mzMnugie4oOuLX5eqI30SROJeeLhagDkzJqHsG0do-GgByZDgeEx0TIuWWGSyrAmbyTrrUXfXN9zrPmsqI6-gulSdXOzic2wUAgGCwHDR8Fi4YsBmx-IP-qLnEciICbcRO7tI_5IUvrnGCy_rQ7wWCd_Q_Si8s5jg3MZ-aUSFNGXDWBw_ehHcEGUhnA585UYL8upKpvYpYbWsfo1YLEicFYWPmEghDhqvb5nH-YRmySDqDefDJCViWpuOlZeuFjoGgqBc873MOh6EtK3xka200NOZAwZJSq1Cl0vv-OfALgmdO9NcPh9k0yZj_euOPrqmI0wtPSEmlFuXZFyHuE8BATblsfc5G547WkVF9HHPeUVhoHsdIk5J_HdXeBp5Sxb8KyDOeMxIa1TbKXW7m9s4keig8lRqo1p8j5SU1m3F5AnNufeO5_3pEcKH7_9To6P7F4khOAiH7eHy1pijZ0YcxX8KmoEnyTg8_-ownwhJfCKOD5y__FMNtpa9_cxyEUS6nIsYB-W7gLWsGyaGsky1bzBpjC2StIIU6-h6G3oj1w7aAH546k5NFdm7e9qp1bOG",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJofWYhdBKwokRuH3uPHoNJeo",
+        "plus_code": {
+          "compound_code": "GQRV+R6 Staten Island, NY, USA",
+          "global_code": "87G7GQRV+R6"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJofWYhdBKwokRuH3uPHoNJeo",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 366,
+        "vicinity": "1243 Woodrow Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5419437,
+            "lng": -74.20765229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5433344802915,
+              "lng": -74.20601286970849
+            },
+            "southwest": {
+              "lat": 40.5406365197085,
+              "lng": -74.2087108302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-966-1353",
+        "name": "QDOBA Mexican Eats",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102726486171787821232\">nancy Casuccio</a>"
+            ],
+            "photo_reference": "AU_ZVEFXxW-j9-khn0lCnAY24-tdS0K_ifC5KI8_ldMHfNneoudPEDOhLij2983bS4ek9udi3U7sBpOo1kt0DiD24juraf8yIkfioNJoJLGD6gM-U8L9Qgp8tEHsJ28ubU-htL4A9CAz7bNODOoUavPSJ6B8kIz2C6vtTLxCuf0iOVNGqGgwFEjoHMy3nISBrpxQZn7-sbT8-EIb_metl3nh7mlojcktrwWYEIKToUOSmCmhfZHalHb8VR4Zcdc_laz0nJtbE1qC9nwDef9Zhr7szs2F04Gp9otnYL33gu3X7s-vU756wBrg710d3-rZWWcTsqHzZd5W2jrzbsc5CyxKeq2v2ub4qLd-o7K4u4vrwP_xAKRzX-k1GPZQAqbCUZFLpAWHNHREUemHK76KywmZCz_w7m8JZECVMSaJ5BoZPIEcKmbBfej7QUjZ5btT7Y7CtSKR85p6sacYZ5vKTcyC8s0phUGY6uPAC-B_2CSrJDbkTG5Obts_ZKU-EshuSUQpzVuUJJdpghmVUVPVsh4ISnAnxpRzqTe8COJWLkSXCsUw_TFKF0UjsHY22zie9hVVyRCJALJRk6EELfWrcFuskW2fYKlTVY8DZFK7Zeu7Md11aJQmOp9ejrd3GcxVvwpKVxM_8Q",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ7wFzidBKwokRW1Nu424O304",
+        "plus_code": {
+          "compound_code": "GQRR+QW Staten Island, NY, USA",
+          "global_code": "87G7GQRR+QW"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ7wFzidBKwokRW1Nu424O304",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 406,
+        "vicinity": "1275 Woodrow Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54295809999999,
+            "lng": -74.2070311
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5441857802915,
+              "lng": -74.20568556970849
+            },
+            "southwest": {
+              "lat": 40.5414878197085,
+              "lng": -74.2083835302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-984-2451",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 5344,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114339123323154895565\">Elvis Jimenez</a>"
+            ],
+            "photo_reference": "AU_ZVEELYHYgRWaPHN0fO78z9Rx3zsuGfm-NYypGIxLO7AoIlYLCyhdBeiTADoN5MxnJoIOMLWWwFotajCbM1CYRrCSFzTJpnV9th5d-uqLnzWDRO-fKPMvafY-qZzgbKp5nOghlh2sBIQa0iNOoT78Fs3FsXNNF082EK-W9IQw5GiNJ-Ud178slwEMRt8oRv29xUtIWyIWsKLHzvvXHU-oj2Sq5Sj7reVJ3v1_Q96Ec0L1xvV50rFRpDQlitXYyUOfJooH2iDuDw8oB7bkc2AKDIJX69i8fXqvoS-Ga2-Cb2qT_AlXn4gKnkY-clxbrzU4KOLvao_NDcwjdzB55aYBcfVcZT3h3u3NX9tjcF5ZosnVh7FRfOjDz4f13mELV2_omB1ZnXljeVQcxZgQQCyBx4sGwoH2xXhoCJe4B6h17PJ2BlQWodmFX6zOT1sVGnuhhvZ6dvDQEnW0d-A4rlVj52FtJfs36JX1vpviE0mNda7lY1fEmKgw93233zx-XJSq8hBHPO0tL9XBcQGp77_cKWx5p2O4pz_OdTmZ--Wlpj_dRn_uKEmEECH4d5QSJTrhHPx-lXbzB3aNGn1nEpRQLJs3gk-ojUYQuI2Yc0s6FG16hGct5F0caKXxRx4p67nrtrB5_YA",
+            "width": 4008
+          }
+        ],
+        "place_id": "ChIJ6WzuodBKwokRJ8CQbY1Qkcs",
+        "plus_code": {
+          "compound_code": "GQVV+55 Staten Island, NY, USA",
+          "global_code": "87G7GQVV+55"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJ6WzuodBKwokRJ8CQbY1Qkcs",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 118,
+        "vicinity": "655 Rossville Ave Woodrow Plaza Mall, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54277,
+            "lng": -74.20781199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54406313029149,
+              "lng": -74.20638266970849
+            },
+            "southwest": {
+              "lat": 40.54136516970849,
+              "lng": -74.20908063029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-356-5918",
+        "name": "Sunset Pizza",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104102110325944728291\">Sunset Pizza</a>"
+            ],
+            "photo_reference": "AU_ZVEFqxnZ-4qQk9YMJe2iTobGvC9zMWWlPGrZA7bbbhB6uPoa6goubnO3kV6YsI-WV9k79uV936KfHQCAOpWitVGHM5tdIPN2ZoZ7qaXDij1AzgID21afFhzqjciqdTwJLAUqJHSxBMghZOAr4P5t4ZpRoXd1E2gb2MEj-82n-AHSQaGj52iU_5IliMP-FSEP8j1AKQjjAdL1nxSBTyzljHAa4YA6WZjsC1fUHGci6y2jEYzeTcZzHskLmLn0s-85cFmXLbzC6ZUgqI6AQ5JJPnmTgKMez4iQQyS9v5GUmddBnb9T95VkrIfHF_qfsLfmRi-DaRiqt-yU",
+            "width": 5250
+          }
+        ],
+        "place_id": "ChIJS8RulQZLwokRjHFUMEU_ZQ8",
+        "plus_code": {
+          "compound_code": "GQVR+4V Staten Island, NY, USA",
+          "global_code": "87G7GQVR+4V"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJS8RulQZLwokRjHFUMEU_ZQ8",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 152,
+        "vicinity": "645 Rossville Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542817,
+            "lng": -74.20779809999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54411338029149,
+              "lng": -74.20625396970848
+            },
+            "southwest": {
+              "lat": 40.5414154197085,
+              "lng": -74.20895193029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-966-8882",
+        "name": "Misaki Sushi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101411549454056173230\">Misaki Sushi</a>"
+            ],
+            "photo_reference": "AU_ZVEENWaHmLcCoyalZPv37zqEiRwln1MagJk8MbZ9aJ7C-6XsB5P01gVmZBsORBwc-DvArMcPKOwJp1cZfibV0KObRJ5wyaezgTzryS3g2a-K9EsldHTI9qog9oQGE47_haoXdIrBUhNDwKzDW_76UIlOZToCWFG8wOscHfBvJvG5lsb25flbrF9CANR3WF_NP_Dsvkg2jT_NP21Vl_doyDz2cSUCj9hqVPsZgJ8s5rC6RsCsVsQaB1h2eOhG11oTtelyrvckDe6HjnuFsQJG-fjVdu01D9PUq-vuRoh3sk0gjycLNjV18WF40oOjjoqDzFdkpbq_qscY",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJdfkC69BKwokRsjart24mzGY",
+        "plus_code": {
+          "compound_code": "GQVR+4V Staten Island, NY, USA",
+          "global_code": "87G7GQVR+4V"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJdfkC69BKwokRsjart24mzGY",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 198,
+        "vicinity": "645, 108 Rossville Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5325893,
+            "lng": -74.19193229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5339790302915,
+              "lng": -74.19065281970848
+            },
+            "southwest": {
+              "lat": 40.5312810697085,
+              "lng": -74.1933507802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-227-2700",
+        "name": "Kuzina",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102939777592201956223\">Moamen Daif</a>"
+            ],
+            "photo_reference": "AU_ZVEFbTZ7Kx-0rNHnHWrV-6Ldhoe6nJhkJGetI8II2-iJmc8wGErCBXmx5lCqUxKhM6ibcXETFVZIZdLskt31F-dAihOEo6_wrKG-IaKrHCTa32AWAAp3JpVlJQJjLcz8MBONBT5jU2HSk4Hk-EmPsNmnZrFjC8YXLOuRLhZa-iqhUvZbL-R0TAGKJuaFBdOrjvKsrxmXDg2vb0wzSVGUR_Oiy-uhkYatyWuT5FE2c45A2GmwEauBcrQGnVdJwco3YznoyEL8cHGPAVRro7IyKbEfQNHXfWdyzlJGR4I83waUN4hPRjwcjGmnea4uQoj1J2qiiF-m4kjRazXbzi7uxqHs6c_03eXWfQCUZLqoHix5BHsor1R35nYQGBKj7otZ8raA1e1RugJ7dlE8RJSC3gKRyebjt8o5VVnTenRfVUrj9kvRPuoNCDvwhsJh2k6TuFgKqyJdNmGUmTV3vTagbkzCGVoWXg-Zn1mR4wP3P1vr_1RFKF4nt27hFpxam0IQajptZDSLvXVnwqetjWpFRyYmDmo3-4CuLKEtf-VIqwGPRD5RIcrqVQoSrAPFhfQDbIwmX71Y_XUPUfBoxL7_UmwNlro3vk_XCNQn7jE_qgU2RMwseRcMiClkiRGeBb64OcJWY_aJr",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJtyuqnOlKwokRQB2Sq0G-xZc",
+        "plus_code": {
+          "compound_code": "GRM5+26 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+26"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJtyuqnOlKwokRQB2Sq0G-xZc",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 162,
+        "vicinity": "895 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.533306,
+            "lng": -74.1927722
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5347769302915,
+              "lng": -74.1914017197085
+            },
+            "southwest": {
+              "lat": 40.5320789697085,
+              "lng": -74.1940996802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-605-0620",
+        "name": "Ciro Pizza Cafe",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 478,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117648004033629713265\">Ciro Pizza Cafe</a>"
+            ],
+            "photo_reference": "AU_ZVEHTfhdf_LzQk8a8XsLJVwbSC2KlIUN8ULcNEE-rTirnkOJaPOGOLLasSl9jJahNgaxHmWM8v2206p5rlC81dXpVrQcjvFQkTtzMsZ5azA4H1H0O_AQ7ay-eP41YwZW19kBh8mpBkn1PZV7RcWEUprNhRA2zpsIXvaSYE3s_poMGMrQ6Oqp6h74zsFJfBGo04-xWLp621d0pqCc3zZz5NhBVNKwOi6Vdvuyrz1oQzAe1-AyERJjF0IMgdCiander4-ArvyweCfgZ6_jgBSu6YJ65lHmY0ANvK6WoD-TALmWEj5sdes5aQBMsEw8VNdYIKXJKSmDiZD4",
+            "width": 720
+          }
+        ],
+        "place_id": "ChIJtYIQlelKwokRKVK_qO2XY04",
+        "plus_code": {
+          "compound_code": "GRM4+8V Staten Island, NY, USA",
+          "global_code": "87G7GRM4+8V"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJtYIQlelKwokRKVK_qO2XY04",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 577,
+        "vicinity": "862 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542817,
+            "lng": -74.20779809999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54408908029149,
+              "lng": -74.2063703197085
+            },
+            "southwest": {
+              "lat": 40.5413911197085,
+              "lng": -74.2090682802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-967-4160",
+        "name": "Islander Taste Chinese Restaurant",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102189384309628195738\">jess L</a>"
+            ],
+            "photo_reference": "AU_ZVEHFs9SsLM5CT7lynlvSP1BxVkJjuSqoIrz5TKzdivSa0PfwWUVfNidUX2Y4SjbUDqclf4RehQz9K2ECZYdX-dx4yYc5EMRpZWqV8i1OC0CSuHhJY6t_TQ8a498NZdj-ljp_ZX3JTkS589CfdER9OeG6Flsa1VYSAodDd-I6tIsTSqOzeoVqfDuMYeDrGmVKvfDtL7CBiWftQMtTl77XqtvPGrNaHKPyv3ztD_oOKskgkjvdCnIAfLBG0qfqmkshA_cdJxd8BoftE39ej7c9h4r9zddYkl5GQ3Z0Q4_JGDbZGO2StN7TmjnqlP8E3ZN4k8AgttuoNL00iVIkY0GaN54JpWsIta_Fd_8aGlZSCf0vRg7R4UI15jlp2A4KF0r2EAfAmLb4u_neGplj6u8yE6s7Qhne7jyNGed05dXrk59W00JUXi5Nldm-sqhqjlAdfK8ya6qgEaGj9_ID7pzRPZHFY-xeALFllAZMPvxG1eFH-pdvMmv00Au-Xbe0PtClP3H8HgwW4RS_Sq_EZgaPAvuu3ERXlOQ4tK54rfA2KD-HT1ohDIDkqjcEOvcC5mOxrmuxmB5ivQJlF6rfZCcS1lpQqkiAcpXUMeUtSX5CKnZVw8AatmmWeQPIUmkLacFD",
+            "width": 2726
+          }
+        ],
+        "place_id": "ChIJ-5JB69BKwokRpZuLSvmT_7Q",
+        "plus_code": {
+          "compound_code": "GQVR+4V Staten Island, NY, USA",
+          "global_code": "87G7GQVR+4V"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ-5JB69BKwokRpZuLSvmT_7Q",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 138,
+        "vicinity": "645 Rossville Avenue store 104, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5325893,
+            "lng": -74.19193229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5340098302915,
+              "lng": -74.1905442697085
+            },
+            "southwest": {
+              "lat": 40.5313118697085,
+              "lng": -74.1932422302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-605-4230",
+        "name": "Chopsticks House",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118362835128375792622\">James C</a>"
+            ],
+            "photo_reference": "AU_ZVEG9Scb-m8eh1R2zeTx5fiMsTaGcoYUNYwRvVSet9w4JrrEnIGWuk3LZW5nYJGznreCW1-uF31hlYR1GKBEum4iNQe0eTCpsWucHJ6H_VUudiERo2TAl_kxLqNf7woIoE2xOwEIC9yuJoFT_ZKQKhMf8D-aWN1wxKcbqLctA1mkgIcMV2N5isLVlESwFYldg-0Hq1O7Rn6lsWttSMsinX8ceL1wi1J6W8v-UeKt5tCoXl69qQykdibvehfEI8r5tKAnESlpVEr0V7I7QwlkWTG3YvdoajfeFSdNF15n7kRewwWtKFy6v5_ThiOg118wYai64etwDCy27G2NQnk5H7B3k_pXLsJ9pE1NpAlfjyVbOH1qIMw0VJt7dArOmmjMNt3PqZ9WS-DhchuenkZRBp3ianKqtNZF3bmCuZttj89Xk-sOBzSBMmcEGlPwGGMmJKWuwc_h0dwYWbpxVHT6447TSbh4L-0mYnIZ1ANdZQt-yRfCfMj4xPwndVjArcJZbK8iACNp0VFpvXJtIHvwzs4GUnKX_5A1XmZdF5rXoWfslqM_bpPeLNweku861WYJRXpRtYMPksP3WJxog2BP4VGOs58NC_WFTVcx0pEk1yxXmJB_Am8EG2LqMVrhpv7UyVdiROLG6",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJx_l-m-lKwokRXWbFoqCvVXY",
+        "plus_code": {
+          "compound_code": "GRM5+26 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+26"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJx_l-m-lKwokRXWbFoqCvVXY",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 71,
+        "vicinity": "895 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5427994,
+            "lng": -74.20628479999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54410178029151,
+              "lng": -74.2052718197085
+            },
+            "southwest": {
+              "lat": 40.54140381970851,
+              "lng": -74.2079697802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-400-9464",
+        "name": "Wingstop",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 270,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105214024938813601542\">Wingstop</a>"
+            ],
+            "photo_reference": "AU_ZVEEHb9TuqPLy4hq1bqxC9E4cuSU-DBykY_gFcyPTENyY4y35Dy0Qo--ygOnoHlKULw29qhulSFOOtS2ShC_a5jKljIkZkE0EOn3EyYZRBM6NVzB5n6maDfGAzMAAEKr_y-RSCPVoBpAKZLnAlWMCx-Z3Wm_msWpT9IO2lrqsEAPXuomh_sLOCdIBXeRym3bLSzUyVDOzQDXOqnwmaDojSPola_D8W6cf6PC-tiyqfhXtYEaHorMPT9B3CC-R9tU5NM74xkr77ujbIZxuNTW-XxiKFqGx3HcDQm6EX1xhB9UNuGjxHlkx3Ktaoy4SHc05PNRaorabGac",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJ9bfHnKRLwokR_r-ojGbMks0",
+        "plus_code": {
+          "compound_code": "GQVV+4F Staten Island, NY, USA",
+          "global_code": "87G7GQVV+4F"
+        },
+        "price_level": 2,
+        "rating": 2.7,
+        "reference": "ChIJ9bfHnKRLwokR_r-ojGbMks0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "655 Rossville Avenue Unit 203, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5428974,
+            "lng": -74.2067591
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5441670802915,
+              "lng": -74.20533546970849
+            },
+            "southwest": {
+              "lat": 40.5414691197085,
+              "lng": -74.20803343029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-984-7373",
+        "name": "Woodrow Diner",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116656280719909772859\">Woodrow Diner</a>"
+            ],
+            "photo_reference": "AU_ZVEEDV0dez1Q3Hn0SQXF1Ut9GJi3iEbZu6D10UlIFJsOX1RWt70wQGns-d9hets2IIIXT-Qys3nQzjJ0mp0SXEfU3BHSiJzfIw3hh8swz4dJ0HWjA6Fy8kw7IXi5CuNOw7cOG_EaHhrKNdFraWj6iwF-1ITYJWsYcXZ_UbIv2H534-_rGtPdhWLvXCQpWORFPyGNjGMOWSKK1ggBlxGkIbnMrCn7zny3bwwDg2OHGL9DAFtCvdS9h5AmmUMQprT4AG-H7NJ6pxItCDJX-5VQlr7ftezW5Bg4-4WmQgXN-jPS9bbc6uC_ghzKaC0Wlrj7Pkqxb8depcTY",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJmwHuhzdLwokRJgk3PxMZBcY",
+        "plus_code": {
+          "compound_code": "GQVV+57 New York, NY, USA",
+          "global_code": "87G7GQVV+57"
+        },
+        "rating": 3.9,
+        "reference": "ChIJmwHuhzdLwokRJgk3PxMZBcY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 164,
+        "vicinity": "655 Rossville Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5421456,
+            "lng": -74.2074313
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5434157302915,
+              "lng": -74.2060324697085
+            },
+            "southwest": {
+              "lat": 40.5407177697085,
+              "lng": -74.20873043029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-608-9090",
+        "name": "Playa Bowls",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1329,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111538677383919230117\">Playa Bowls</a>"
+            ],
+            "photo_reference": "AU_ZVEFrU46aLwqRBl86jcr9LH5oYHGTCYvmQKBWTLBzBq3ZOpVKvaRBt_nIlkZWNqtgdPJ-4EseBShpuel2wSPHHzGALUom2lExSZiz_zQRqex2rBRatp4vJyJuv2Lncqkrcmy8svjpd_rvfUhNSwZxOnqFZgiug_Iv3KuAc9FNF6hDO7oEoy9eMi9BaYTYu8PZoyhw_yXkGmo4brrBCcsqVCkwToFSmXQvfaaooKbhZ-HnYjMLIhVSqdBtBF7jYnDy6drdVUY8Wxm_j5b4zmWd51aBDdMkFsdbQq1jwfl8utRWmW70zTxSR8Sq5jJS1J5CjxxFcPrlKNw",
+            "width": 1900
+          }
+        ],
+        "place_id": "ChIJ9Vrc-iVLwokRxruZkezTnH8",
+        "plus_code": {
+          "compound_code": "GQRV+V2 Staten Island, NY, USA",
+          "global_code": "87G7GQRV+V2"
+        },
+        "price_level": 2,
+        "rating": 4.8,
+        "reference": "ChIJ9Vrc-iVLwokRxruZkezTnH8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 198,
+        "vicinity": "1275 Woodrow Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5429849,
+            "lng": -74.20719989999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5441936802915,
+              "lng": -74.20586071970848
+            },
+            "southwest": {
+              "lat": 40.5414957197085,
+              "lng": -74.2085586802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-966-4186",
+        "name": "EatItalian NYC",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1365,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105293830377639411492\">EatItalian NYC</a>"
+            ],
+            "photo_reference": "AU_ZVEFkd96eyxidgvvGDowsaDZPrmMH-h8M_CzLVVWWxh0BTs5wWysKnlT6tEBWQqmphDj8Ub482y3IBUavFIEc64H6GHjidrRo2FXRc0NQqdn2mmow5mzajoML2HVa32St3pRHVIJwN1wkAsRxji5msaLVfhCEp0zy-hLwClmY-XSb-KaODZLf929cJGHmxYc0Xl0ZjTvA4qwaxfbABNi5NrNiJClmd33cmHFtmuSYhbMs8PMQwGXnnLAEUPGvtOupVrrINLoZg7_AqyCKU0YnnxQJAP55OIwbi5XMfMPQy1kXcmUN-p3ltdY89WbexA9dYdYh6Cf25Xk",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJARQkEkZLwokRMcNtYc0S9mo",
+        "plus_code": {
+          "compound_code": "GQVV+54 Staten Island, NY, USA",
+          "global_code": "87G7GQVV+54"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJARQkEkZLwokRMcNtYc0S9mo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 444,
+        "vicinity": "655 Rossville Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5330013,
+            "lng": -74.1922246
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5343370302915,
+              "lng": -74.1909309197085
+            },
+            "southwest": {
+              "lat": 40.5316390697085,
+              "lng": -74.19362888029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-984-1900",
+        "name": "Better Gourmet Health Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103392081407209014768\">Better Gourmet Health Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEEHdn3xsAImVyhH4guh-2T6koUJr-SBz5AFk0Z1NhZug2KmuZwNFPjrBq1ag6ffE71TOpNT4jrd5llVSYY1B8qFTk6y4bSTK-kmtLgbcEi4pZkRpRubPNxnr6-da6OsLK9KhDvOfQePiuwYgxw_8VYCR5KcLfYAqLW0Oy4x2KOzapUfTL7uruo5hHtnviKZszXIoSgPpzh9xIS2Gs5gTOzOD92o_ZSrMdwjNn3dXUbGlJfZ6jGBzj2SjhGJgq2R9HSW1Eobrsz40JDwkbXBSFeUgsJL5t6UFIrmIQsRxQ74Nw1nN0rSZCNXzOjWrfnqAOMUGRrZA7w",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJUcDwmelKwokRBaul5amwsD0",
+        "plus_code": {
+          "compound_code": "GRM5+64 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+64"
+        },
+        "rating": 4.5,
+        "reference": "ChIJUcDwmelKwokRBaul5amwsD0",
+        "scope": "GOOGLE",
+        "types": [
+          "health",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 149,
+        "vicinity": "877 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.532565,
+            "lng": -74.1922744
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5338763802915,
+              "lng": -74.1908768697085
+            },
+            "southwest": {
+              "lat": 40.5311784197085,
+              "lng": -74.19357483029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-554-4439",
+        "name": "Pizza Mia",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 942,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113828845799030842519\">Pizza Mia</a>"
+            ],
+            "photo_reference": "AU_ZVEH8VAYCR-v3HPSziIF5MFPjh0KcrGALzfaw4ytHUFYttc6MAIXjfOv4Im7fcoDoE3HY3IRrphxFIH7hwi4mOXvigzy4kvcZWUqWMmijz0dwP2690yHXufT_F3MZV9RzRSrNRRAkI-AaO_hAqJ0SGkkQWRevBimt7qvsLPlC866uEiQtcLj6ahjg3QWX6GGOexHShSEiyDw4z3fc4QKs9d3Q-mD7zO7_C9vuMi1Fk_N905Y_E51szMbZ3mzNizqZYNJQmgEqsfAWSVVwm2tkxgXAcshhbnx7mvSxURCDa_RWgvijOJWBORGI9Tu577ngYB_m1UhyQg8",
+            "width": 741
+          }
+        ],
+        "place_id": "ChIJtUwglKhLwokRQX5HW667aac",
+        "plus_code": {
+          "compound_code": "GRM5+23 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+23"
+        },
+        "rating": 4.6,
+        "reference": "ChIJtUwglKhLwokRQX5HW667aac",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "896 Huguenot Avenue Suite 1, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5325562,
+            "lng": -74.1917115
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5338584802915,
+              "lng": -74.19048081970848
+            },
+            "southwest": {
+              "lat": 40.53116051970851,
+              "lng": -74.1931787802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 347-838-6426",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100151423499269758462\">Your trusted source</a>"
+            ],
+            "photo_reference": "AU_ZVEEMQq2WFcEwbPD9kMm8q6IQCm7awOz5eWmRxPn8e-VmnpOrbQgSmkEycKGRkbOUxV7_Fu9jlBv-P9v1xEs86z2F5lqMRUjg54XLhHfFYO9tuRoJbleoCw0WVfEAl-wmWnM2EealvOJNoYlTPoy8ECkysTWT2Oi5SSYjOykt_liUXN8nmdJqKoX3chyeF6GVrgfqaXwxuS0wXyk7qh6hSzbNUgQYdMV0KbDhiY3txdlB4QmUpm2KjUyl26q8y4wFvA4iadpoMplsRCquW2BH6Ay8UpChHaXxSPYbBdsxsG6JPsAlFPhnhTkj7mUVYBKZHj2xPLPXoB7l1uw3tyWPR0FxAR_j9pdlCWzfxr4s3eUNJhzT8s5uXRi2kSjGRMc0Uv2VC0TQxH0uYq2E0drUzfUjyf43MnUtUuoMsx4kSp7YMyzkiR7QBbBMuotLD2B7740nJeg_RgX3VcBBYgJAHelKdHPGCnAvNv30BmGB0E8lsMmHWSUfbgcQj0anjzk7JaRgTVUWK3jWnn6ttR2qd8Es0B6lCk5m8jLsvaUMewZN8bb5p4Aiwdj4x9ENV1InYguRPJE824a8ed7FEEBFwSDJXJaggxhTGrjkw1RYGLRpaanaKp6XVgyW_wB23EOM9UXL-qIj9VG_qI27iU7zF9j_5T0",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJlfYHg-lKwokRo6At24Za7iA",
+        "plus_code": {
+          "compound_code": "GRM5+28 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+28"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJlfYHg-lKwokRo6At24Za7iA",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 213,
+        "vicinity": "901 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5327181,
+            "lng": -74.19174129999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5341371802915,
+              "lng": -74.19046966970849
+            },
+            "southwest": {
+              "lat": 40.53143921970851,
+              "lng": -74.19316763029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-605-6464",
+        "name": "Panino Rustico of Huguenot Express",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1680,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104707224532364618076\">Panino Rustico of Huguenot Express</a>"
+            ],
+            "photo_reference": "AU_ZVEEkHGTeS2bJeFX3ozMsT1LOfLry74uJfg8n473J7CoTa_CvoqTqRIbELhxFWvfd5v7l_tBwV_3f8Vy4S0dnSrwY3spb_4DNfVoM3ObUS0wj_stzk-bUEzcEp9ogqbtALIXTQvUVoFbuk-djXKvaGffDiIxZgluVDd1WxuPcOc_edKBOzy9GPN5B-_qEqzyEM5gGMmv3eieDL_AE89W6eVSqlajpns73AtTL6vfCM8dkKcQ9VkwtWEJp2vev42kddZdUmdURLNNSuVJCT_dCxgQK86nbcMyyUug2kneHUIxPZEqqHWO6_wFZo6omAlxd1RX8s6Gm9iM",
+            "width": 1680
+          }
+        ],
+        "place_id": "ChIJ5dT3p-BLwokRy1iXaE6-9rI",
+        "plus_code": {
+          "compound_code": "GRM5+38 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+38"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ5dT3p-BLwokRy1iXaE6-9rI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 48,
+        "vicinity": "895 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5325912,
+            "lng": -74.1919075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5339964302915,
+              "lng": -74.1905913197085
+            },
+            "southwest": {
+              "lat": 40.5312984697085,
+              "lng": -74.19328928029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-908-2227",
+        "name": "Tejanos Taqueria",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108531485270970835863\">Suzy Masoud</a>"
+            ],
+            "photo_reference": "AU_ZVEG7D4e3Lu6DNUKZM7K5TDTax1EEnaFz1fC58xVqW3m4qqFGdBLIVMuprbPElEyyjsTaTWhUk0rHK_xhr8HsV1Ap3X8rHUVGygk3AbHrDkYUEIrtzl1bKzcDWMH0W17E1Y0NLlMNjG71w9a53IdpGl4_pTyUSSvzyipAgjd0OA5ws3NN_xmYzFdbES6kzZ-Q9lnsul-55pZpQWA9ZsBUcv_SzOFxnzXDZndpLeqgmW4naI_3bp8bUPdRz3liVyyH1BERPxHpbqT9KMa3nZbyQbsZeZfNRz2iIw5QWGrJvjUfMniFtI1H8iN0Sq_lv7EDhlW5F8EVhRsDriCZZdLzHtMBhKLmzoj6ZArCjVcm_ykcvaN5IDhhIPPHNGT5NE3gOjy8mQhrjviIc1o98uLRUxJEHV-a3nLaBolGJgiTi4OPBVx4E5LsiAeid6v3i7AItfTbSccIygNn94LJxfXjQ1FPbk1UFZjK64uoY4wf5JE2SxdTnT-vfDgs5QwSz4vqUm2hnqsEKUkjUyjNmcbr35Ic3FIqD6Kri8Gi-FMI4ecmEdA9DYx2DQcgeOaJa5pnQOhMvoKc-A3T4IZW34KE_qr4QpJ_udZXR-nkKZUOdEngaQ0zGyF9wmfZFjDZWflzKdXv1rP2j_vThUnuv0QMO6vcvTk",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJESPt02dLwokR4HCfaC9RxAI",
+        "plus_code": {
+          "compound_code": "GRM5+26 Staten Island, NY, USA",
+          "global_code": "87G7GRM5+26"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJESPt02dLwokR4HCfaC9RxAI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 77,
+        "vicinity": "895 Huguenot Avenue, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5419437,
+            "lng": -74.20765229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5433344802915,
+              "lng": -74.20601286970849
+            },
+            "southwest": {
+              "lat": 40.5406365197085,
+              "lng": -74.2087108302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-966-1353",
+        "name": "QDOBA Mexican Eats",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102726486171787821232\">nancy Casuccio</a>"
+            ],
+            "photo_reference": "AU_ZVEHn_5BDUVX3yO2HgCuOkIIhVR4hH4E4zSbk9YKTT7tJR8qbwq2-8-RQRHkJKQQ1SDkaHDG9RrPSAHTVX4lcCn5w0KNUwOjgI7DAV6J0p0MiENc-cMaxO7p_E795cGEC9j1QFPD1yWj6-vbuQ8dfXQK-mccgbYgylN5CXzOC_iSMI7cvCVqYyMh134BDU9Hw1hqKMgi2SxZ7cEkZbcom26R2gdyKUEK84a6Xe138FGaSyvzHvoNOUwSTftAzZWJyoagfwOCUbWbG90IG5LsE5WuCB1Mx2lczMcH1bK8PSu5ke9prsMY_fxKB2LXk75YGjHs2ZWuApQYomclnnOXh3d_z9BIczw6Y8YY0Qzz3mbtgjfGcx4FJcn_caj76D1dOT6AKAbr1PnNOcsSvPmCBLuZECGx0Lzme7VRI2o_hyRBRNp1I1p-I88hiWwLYXN9pFVvbKWg-A8_pGjTJaWer_AC-1Jajbdc7bd-r-C2QqmzGMT1neZta9EdiVe2r6_p11hCxEPtiWLJouNjevP28ziZXJhUrEoZEq7CQHbCotVtc8o8nkQbdrm9-47V5vUeqTFkjK0eA6TBKTaTRh9OZXm5JaTFC2JZ0qrX-oGLVbRtvtTmpmzq0wRt5xyKrDXbGBormQQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ7wFzidBKwokRW1Nu424O304",
+        "plus_code": {
+          "compound_code": "GQRR+QW Staten Island, NY, USA",
+          "global_code": "87G7GQRR+QW"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ7wFzidBKwokRW1Nu424O304",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 406,
+        "vicinity": "1275 Woodrow Road, Staten Island"
+      }
+    ],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5384576,
+            "lng": -74.18693139999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5398151302915,
+              "lng": -74.18537956970849
+            },
+            "southwest": {
+              "lat": 40.5371171697085,
+              "lng": -74.1880775302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Ida Court Playground",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3003,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102815648643811875846\">Ida Court Playground</a>"
+            ],
+            "photo_reference": "AU_ZVEGewIosR7kr0QFWuWvAZyZCz-lt49nbe5ipipkE2Z2FIey80SdknG5qlvr1zJEDaysWBg3IIN_fypVuv6ckRoMtBNYaQSXTvKVoC89vQpaCOv50PS-sYwdyuJG0k4_Sr6mW8Bwee2nO34ogEVonK6z52JYggz5bPjXnMo6kq2DxDcw4K3uuydGGvjnzuR3nLVspNU9mK-FDZeziIuN516aMs8WcODUNdDizW7XwkUypDtruLGLLTzZn9vADBntCflh5rPIlTzJtqXp-K4DifB70hejvgXX75lBpBqfj3-VwrVgiGc5HTm50CgdNUO5a8jvmGGCUu0k",
+            "width": 4512
+          }
+        ],
+        "place_id": "ChIJYVujyeVKwokRcAAiOJWgB_I",
+        "plus_code": {
+          "compound_code": "GRQ7+96 Staten Island, NY, USA",
+          "global_code": "87G7GRQ7+96"
+        },
+        "rating": 4.4,
+        "reference": "ChIJYVujyeVKwokRcAAiOJWgB_I",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 92,
+        "vicinity": "212 North Railroad Street, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5458501,
+            "lng": -74.1989931
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54724513029151,
+              "lng": -74.19754366970851
+            },
+            "southwest": {
+              "lat": 40.54454716970851,
+              "lng": -74.20024163029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Night Factory/Huguenot Holiday Have",
+        "place_id": "ChIJL7alSgBLwokRnK3SssWG-RE",
+        "plus_code": {
+          "compound_code": "GRW2+8C Staten Island, NY, USA",
+          "global_code": "87G7GRW2+8C"
+        },
+        "reference": "ChIJL7alSgBLwokRnK3SssWG-RE",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "374 Huguenot Avenue, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5435525,
+            "lng": -74.1969715
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5449259802915,
+              "lng": -74.19565516970849
+            },
+            "southwest": {
+              "lat": 40.5422280197085,
+              "lng": -74.19835313029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Vineland Av",
+        "place_id": "ChIJD6caZN5KwokRVoGRXlm5kPg",
+        "plus_code": {
+          "compound_code": "GRV3+C6 New York, NY, USA",
+          "global_code": "87G7GRV3+C6"
+        },
+        "reference": "ChIJD6caZN5KwokRVoGRXlm5kPg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.539894,
+            "lng": -74.19583899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5412401802915,
+              "lng": -74.1945004197085
+            },
+            "southwest": {
+              "lat": 40.5385422197085,
+              "lng": -74.19719838029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Ave/Rathbun Ave",
+        "place_id": "ChIJmS_VCt1KwokRsB5sjM23NTI",
+        "plus_code": {
+          "compound_code": "GRQ3+XM New York, NY, USA",
+          "global_code": "87G7GRQ3+XM"
+        },
+        "rating": 5,
+        "reference": "ChIJmS_VCt1KwokRsB5sjM23NTI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53939099999999,
+            "lng": -74.195465
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5407287802915,
+              "lng": -74.1941576697085
+            },
+            "southwest": {
+              "lat": 40.5380308197085,
+              "lng": -74.19685563029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Ave/Ramona Ave",
+        "place_id": "ChIJkxDocd1KwokRk5ej1CZvLIQ",
+        "plus_code": {
+          "compound_code": "GRQ3+QR New York, NY, USA",
+          "global_code": "87G7GRQ3+QR"
+        },
+        "reference": "ChIJkxDocd1KwokRk5ej1CZvLIQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.543144,
+            "lng": -74.19731100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54449453029149,
+              "lng": -74.19595481970848
+            },
+            "southwest": {
+              "lat": 40.5417965697085,
+              "lng": -74.19865278029148
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Ave/Woodrow Rd",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105897073341529498194\">Emily</a>"
+            ],
+            "photo_reference": "AU_ZVEFDtJ6mmR70oLR9TpEqmtb2MQu8lsWUII9LV5xWZ-g-dKKpi66icNw26-o01P1DA2nuOm3M8SqLy2awTAdVVAbgeSYGhxfuOfYMgkSsBN8ozdMz9MQXY28PeqKdWcYts1TvVRu89IIBqkh90HjRbGNey2puKIzWM58mjjoLK0fAcKRvQCK3TUb9AO4qalwsWCZdDTS_cbvF8L5HpNMLBFRpw0WS9qgTZ17wfN3hjFw4k6BmHYYO50MeYPdA1UBKI2MiLR3vGyvUDG8e1fx1bqF5NFbCkilDY_-pACfij6xxQvoEQ2BweZVnTcVpzZf5Vgmyr9_5WNGMDMm6gY4cySh1Nt7dymzGwJi0AhBRr_1aAsGynJiT53f4nWrSh-lqwmdA1CD3SvqjyirvX9XlvIdvO5fs2rtx62Cvtm0vNCgt9WVeunwUK-tH4UqWLzm-vx0JJPBkQDavKvNXD8JYBhoyOzFhdIzAYbdpkiiklKyx3gKcwENtTx-sOGHbHkMD9AjO31zhcOsXfqqAGHd8Tb8JaOHVTvOr4N3ZghBCsa3w86zISh7fCZvkYMRk8WTNK478_mt9C5Mcm5W2MTzfjbIJZDG3b1M_n5BmuzhEvWwRtNVdMKLnJZp4ORjfwQpI",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJjaeZfd5KwokR-PdzYhhOvoo",
+        "plus_code": {
+          "compound_code": "GRV3+73 New York, NY, USA",
+          "global_code": "87G7GRV3+73"
+        },
+        "rating": 5,
+        "reference": "ChIJjaeZfd5KwokR-PdzYhhOvoo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542465,
+            "lng": -74.201225
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5438685302915,
+              "lng": -74.19989471970848
+            },
+            "southwest": {
+              "lat": 40.54117056970851,
+              "lng": -74.2025926802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Deseree Ave",
+        "place_id": "ChIJ7zhU7ttKwokRiK8Y5J6P6ss",
+        "plus_code": {
+          "compound_code": "GQRX+XG New York, NY, USA",
+          "global_code": "87G7GQRX+XG"
+        },
+        "reference": "ChIJ7zhU7ttKwokRiK8Y5J6P6ss",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54294999999999,
+            "lng": -74.200165
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5443049802915,
+              "lng": -74.1988170697085
+            },
+            "southwest": {
+              "lat": 40.5416070197085,
+              "lng": -74.2015150302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Ellsworth Ave",
+        "place_id": "ChIJo6_4ANxKwokR0tUnRD5lGEQ",
+        "plus_code": {
+          "compound_code": "GQVX+5W New York, NY, USA",
+          "global_code": "87G7GQVX+5W"
+        },
+        "reference": "ChIJo6_4ANxKwokR0tUnRD5lGEQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.543705,
+            "lng": -74.197388
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5450403302915,
+              "lng": -74.1960910197085
+            },
+            "southwest": {
+              "lat": 40.5423423697085,
+              "lng": -74.19878898029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Ave/Woodrow Rd",
+        "place_id": "ChIJrcVsYt5KwokRzSUwCdZRh7Q",
+        "plus_code": {
+          "compound_code": "GRV3+F2 New York, NY, USA",
+          "global_code": "87G7GRV3+F2"
+        },
+        "reference": "ChIJrcVsYt5KwokRzSUwCdZRh7Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.543644,
+            "lng": -74.196716
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5449677302915,
+              "lng": -74.1953333197085
+            },
+            "southwest": {
+              "lat": 40.5422697697085,
+              "lng": -74.19803128029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Vineland Ave",
+        "place_id": "ChIJL0k8Zt5KwokRR6hmHyhwzaI",
+        "plus_code": {
+          "compound_code": "GRV3+F8 New York, NY, USA",
+          "global_code": "87G7GRV3+F8"
+        },
+        "rating": 5,
+        "reference": "ChIJL0k8Zt5KwokRR6hmHyhwzaI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.543785,
+            "lng": -74.19665499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5451261802915,
+              "lng": -74.19529526970851
+            },
+            "southwest": {
+              "lat": 40.5424282197085,
+              "lng": -74.19799323029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Boulder St",
+        "place_id": "ChIJ79T-Yt5KwokRlp3KaECtNQg",
+        "plus_code": {
+          "compound_code": "GRV3+G8 New York, NY, USA",
+          "global_code": "87G7GRV3+G8"
+        },
+        "rating": 1,
+        "reference": "ChIJ79T-Yt5KwokRlp3KaECtNQg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53899749999999,
+            "lng": -74.20617299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5403563802915,
+              "lng": -74.2047851197085
+            },
+            "southwest": {
+              "lat": 40.5376584197085,
+              "lng": -74.20748308029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Sinclair Av",
+        "place_id": "ChIJ34-rqtpKwokRbvOZIlOfbUg",
+        "plus_code": {
+          "compound_code": "GQQV+HG New York, NY, USA",
+          "global_code": "87G7GQQV+HG"
+        },
+        "reference": "ChIJ34-rqtpKwokRbvOZIlOfbUg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542053,
+            "lng": -74.20517
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5433763802915,
+              "lng": -74.20381731970849
+            },
+            "southwest": {
+              "lat": 40.5406784197085,
+              "lng": -74.2065152802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Alverson Ave",
+        "place_id": "ChIJL_g8b9pKwokR68KWkPWJcdQ",
+        "plus_code": {
+          "compound_code": "GQRV+RW New York, NY, USA",
+          "global_code": "87G7GQRV+RW"
+        },
+        "reference": "ChIJL_g8b9pKwokR68KWkPWJcdQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.536728,
+            "lng": -74.205032
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53806988029149,
+              "lng": -74.2037088697085
+            },
+            "southwest": {
+              "lat": 40.5353719197085,
+              "lng": -74.20640683029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Ramona Ave",
+        "place_id": "ChIJycfpc8VKwokR-4H9YdRfXEQ",
+        "plus_code": {
+          "compound_code": "GQPV+MX New York, NY, USA",
+          "global_code": "87G7GQPV+MX"
+        },
+        "reference": "ChIJycfpc8VKwokR-4H9YdRfXEQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53687699999999,
+            "lng": -74.205261
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5382357802915,
+              "lng": -74.20387666970848
+            },
+            "southwest": {
+              "lat": 40.5355378197085,
+              "lng": -74.2065746302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Ratbun Ave",
+        "place_id": "ChIJ05CtccVKwokRHmejivh40rQ",
+        "plus_code": {
+          "compound_code": "GQPV+QV New York, NY, USA",
+          "global_code": "87G7GQPV+QV"
+        },
+        "reference": "ChIJ05CtccVKwokRHmejivh40rQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.539131,
+            "lng": -74.206154
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5404717802915,
+              "lng": -74.2048382197085
+            },
+            "southwest": {
+              "lat": 40.53777381970851,
+              "lng": -74.20753618029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Sinclair Ave",
+        "place_id": "ChIJdZKHqtpKwokRjGpGqhTNgGM",
+        "plus_code": {
+          "compound_code": "GQQV+MG New York, NY, USA",
+          "global_code": "87G7GQQV+MG"
+        },
+        "reference": "ChIJdZKHqtpKwokRjGpGqhTNgGM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53886,
+            "lng": -74.206192
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54021618029149,
+              "lng": -74.2048159197085
+            },
+            "southwest": {
+              "lat": 40.5375182197085,
+              "lng": -74.20751388029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Sinclair Ave",
+        "place_id": "ChIJjYZ9VcVKwokRXkNLYRRQmro",
+        "plus_code": {
+          "compound_code": "GQQV+GG New York, NY, USA",
+          "global_code": "87G7GQQV+GG"
+        },
+        "reference": "ChIJjYZ9VcVKwokRXkNLYRRQmro",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53472900000001,
+            "lng": -74.19310800000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5360472302915,
+              "lng": -74.1918030197085
+            },
+            "southwest": {
+              "lat": 40.5333492697085,
+              "lng": -74.19450098029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Ave/Drumgoole Rd East",
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863\">Satish Shikhare</a>"
+            ],
+            "photo_reference": "AU_ZVEFtP-m9hNJIaRS7NTAQ4tflJnOkzh3AFGpNIQChUN6_o8VDwjDSiV0fQzBPvXVF0nhhQ0ZSnH8rIFRaQfc20yOew26n-NxMWuQyehU0frYeoVi6zVN0tJ8EL6jSMj8yw71Cjf3KQm8qEjYVpUZ8pzHAU6CanY2gFJS4vTg9VGZuxbbGvE97EKgT60lWIFkB7BXQ9MhdL0Zr0Hjm3Rt_SZkOTLk2Y0p5X1Ke9kwhsLmZMxKRdrC6vhSYBCZK1vwozRNeMgDIBKHNo4BgSQUojURDTW__siRn4zxCRA44wnVX70inZrV9r_0Pf4p5eqVGEwG9Y644YAp6BL6taJxaHf4OLW_5qcHwIFMfFNogjNM4dKXgBoEFyoHCI6qzEdTvsNJrlXrFJnuY4Aq90Fw8r3eDXbrnsWyQKdWOO2zHIdQ-yPcKN50qoevVnwdeshZYNH3vsSP_QKZDqWeEZjrMu2phiMPcQ4PArNiwEdSKU-OcdIvePD_hTE83-OIrCAi1EDFPwgyqiJrV2JtICzkRUUXKXm0uY5w6Ura_55ZSI_w-wMH7L9iowo4VTIGhvOdrR9RMq9Od4tx0_cK9cCC-wPqbOljliiJTadaM07-ZZsNg5S5CJ9RXwxkc8nGo6YzBCzuyqNxk",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJOb2nt-lKwokRsgLp8V3GTVQ",
+        "plus_code": {
+          "compound_code": "GRM4+VQ New York, NY, USA",
+          "global_code": "87G7GRM4+VQ"
+        },
+        "reference": "ChIJOb2nt-lKwokRsgLp8V3GTVQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5415915,
+            "lng": -74.2068365
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5429330802915,
+              "lng": -74.20554841970849
+            },
+            "southwest": {
+              "lat": 40.54023511970851,
+              "lng": -74.20824638029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Woodrow Rd",
+        "place_id": "ChIJ48vyh9BKwokRfL6-57nVc0o",
+        "plus_code": {
+          "compound_code": "GQRV+J7 New York, NY, USA",
+          "global_code": "87G7GQRV+J7"
+        },
+        "reference": "ChIJ48vyh9BKwokRfL6-57nVc0o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.534519,
+            "lng": -74.193214
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5358796802915,
+              "lng": -74.1918247697085
+            },
+            "southwest": {
+              "lat": 40.5331817197085,
+              "lng": -74.19452273029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Huguenot Ave/Drumgoole Rd East",
+        "place_id": "ChIJV6qoy-lKwokRjK7bMTibzUI",
+        "plus_code": {
+          "compound_code": "GRM4+RP New York, NY, USA",
+          "global_code": "87G7GRM4+RP"
+        },
+        "rating": 5,
+        "reference": "ChIJV6qoy-lKwokRjK7bMTibzUI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.541706,
+            "lng": -74.206604
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5430770802915,
+              "lng": -74.20526276970848
+            },
+            "southwest": {
+              "lat": 40.5403791197085,
+              "lng": -74.2079607302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Foster Rd",
+        "place_id": "ChIJH5nQhtBKwokR8P1kPWsjcPI",
+        "plus_code": {
+          "compound_code": "GQRV+M9 New York, NY, USA",
+          "global_code": "87G7GQRV+M9"
+        },
+        "reference": "ChIJH5nQhtBKwokR8P1kPWsjcPI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54147700000001,
+            "lng": -74.20706899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5428337802915,
+              "lng": -74.2056558197085
+            },
+            "southwest": {
+              "lat": 40.5401358197085,
+              "lng": -74.2083537802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Woodrow Rd",
+        "place_id": "ChIJ7Q3wYtBKwokRKRE7-cD59iU",
+        "plus_code": {
+          "compound_code": "GQRV+H5 New York, NY, USA",
+          "global_code": "87G7GQRV+H5"
+        },
+        "reference": "ChIJ7Q3wYtBKwokRKRE7-cD59iU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53412600000001,
+            "lng": -74.203796
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5354695802915,
+              "lng": -74.20246666970849
+            },
+            "southwest": {
+              "lat": 40.5327716197085,
+              "lng": -74.2051646302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Darlington Ave",
+        "place_id": "ChIJT7ID0cVKwokRSVsohHoHDkQ",
+        "plus_code": {
+          "compound_code": "GQMW+MF New York, NY, USA",
+          "global_code": "87G7GQMW+MF"
+        },
+        "reference": "ChIJT7ID0cVKwokRSVsohHoHDkQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53383050000001,
+            "lng": -74.2037315
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53519138029151,
+              "lng": -74.20233921970849
+            },
+            "southwest": {
+              "lat": 40.53249341970851,
+              "lng": -74.20503718029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Darlington Av",
+        "place_id": "ChIJuxFf1sVKwokR49F4aTVoSDY",
+        "plus_code": {
+          "compound_code": "GQMW+GG New York, NY, USA",
+          "global_code": "87G7GQMW+GG"
+        },
+        "reference": "ChIJuxFf1sVKwokR49F4aTVoSDY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.533531,
+            "lng": -74.203667
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53489098029149,
+              "lng": -74.20227856970848
+            },
+            "southwest": {
+              "lat": 40.53219301970849,
+              "lng": -74.2049765302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Darlington Ave",
+        "place_id": "ChIJxW7XeMZKwokRGnSkKpr8gKg",
+        "plus_code": {
+          "compound_code": "GQMW+CG New York, NY, USA",
+          "global_code": "87G7GQMW+CG"
+        },
+        "reference": "ChIJxW7XeMZKwokRGnSkKpr8gKg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.546049,
+            "lng": -74.192894
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5473850802915,
+              "lng": -74.19153091970848
+            },
+            "southwest": {
+              "lat": 40.5446871197085,
+              "lng": -74.1942288802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Delmar Av",
+        "place_id": "ChIJFTUVPuBKwokRqaWjIEVrupU",
+        "plus_code": {
+          "compound_code": "GRW4+CR New York, NY, USA",
+          "global_code": "87G7GRW4+CR"
+        },
+        "reference": "ChIJFTUVPuBKwokRqaWjIEVrupU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54596699999999,
+            "lng": -74.192886
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54734733029149,
+              "lng": -74.1915713697085
+            },
+            "southwest": {
+              "lat": 40.5446493697085,
+              "lng": -74.1942693302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Delmar Ave",
+        "place_id": "ChIJ4c5KPuBKwokR8Xh__qvpsy4",
+        "plus_code": {
+          "compound_code": "GRW4+9R New York, NY, USA",
+          "global_code": "87G7GRW4+9R"
+        },
+        "reference": "ChIJ4c5KPuBKwokR8Xh__qvpsy4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.546131,
+            "lng": -74.192902
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5474639802915,
+              "lng": -74.1915355197085
+            },
+            "southwest": {
+              "lat": 40.5447660197085,
+              "lng": -74.1942334802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Woodrow Rd/Delmar Ave",
+        "place_id": "ChIJ-VngPeBKwokRy8zfRqRY3_Q",
+        "plus_code": {
+          "compound_code": "GRW4+FR New York, NY, USA",
+          "global_code": "87G7GRW4+FR"
+        },
+        "reference": "ChIJ-VngPeBKwokRy8zfRqRY3_Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.541805,
+            "lng": -74.20811499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54311698029149,
+              "lng": -74.20676256970849
+            },
+            "southwest": {
+              "lat": 40.5404190197085,
+              "lng": -74.2094605302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rossville Ave/Woodrow Rd",
+        "place_id": "ChIJ-Z0V9tBKwokRz3DPRtGdsoM",
+        "plus_code": {
+          "compound_code": "GQRR+PQ New York, NY, USA",
+          "global_code": "87G7GQRR+PQ"
+        },
+        "reference": "ChIJ-Z0V9tBKwokRz3DPRtGdsoM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542257,
+            "lng": -74.2081985
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5435966302915,
+              "lng": -74.20688841970849
+            },
+            "southwest": {
+              "lat": 40.54089866970851,
+              "lng": -74.2095863802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rossville Av/Woodrow Rd",
+        "place_id": "ChIJ42Cy8dBKwokRbNn7JiUvHtA",
+        "plus_code": {
+          "compound_code": "GQRR+WP New York, NY, USA",
+          "global_code": "87G7GQRR+WP"
+        },
+        "reference": "ChIJ42Cy8dBKwokRbNn7JiUvHtA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.532734,
+            "lng": -74.203133
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5340750302915,
+              "lng": -74.2018137697085
+            },
+            "southwest": {
+              "lat": 40.5313770697085,
+              "lng": -74.2045117302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Drumgoole Rd West",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109572410416565422195\">Gerard Gallo</a>"
+            ],
+            "photo_reference": "AU_ZVEFj5y6foIt6tV4HLph6icj8dzzWwZfwG0PhzLqTyweJILHVvHibXueTfTqyXdISajYmAfV-8EgQbYz1cY4ibeWZqPtyqPvGMTY6nBZE2Y3IUFI59Dig1zfB9Q_JQ9X6z-Vfblv6_vItQfSWa8HDvovj47l1PowMrvz_Dv4Jihtj9fK6qAzWyayNtnG9e89hBgvsNfMQ7EJDJ6xslOfyRcRYnpazcABE4b6PSIeFOigwxy1QjZMtS-6A_uCzQlSlXmPvHDOI0RlqPWsT4aM1j0NONsJxPnhlJ7CsjC0rxWqes6OtDZhfiD94E5rIh2NiYuqxyE5gSXHwoxEf5JxyQqzCKE1OjQFAkLbv0TJIGoKUeNMUv4LkBYM1IqNpheyc7xuwci93EzBpA68v66KG0IecaRfp4I72NKB5OF-ZjeZPYDO_qfyoZa-gPK3QZplx_TeTlyAN1zFT3bVIBe4HcAB4A1erbn2zwncHFssSjoqXjJYclWs444BlC14QyMtrZKdzrI6wqyrbWPnKaLI9ZcW2_GnDi4Luoy_CnibC97pteai-JYHe5LMpSrVz-0L1JFYWmy96PMFIMkbY059W7fhYZRgUoWleFyEdEqrl8xwq9rzdd2vsyZea5eOlE4VfMipT_WUT",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJXfyWicZKwokRzXpHtm0QxQE",
+        "plus_code": {
+          "compound_code": "GQMW+3P New York, NY, USA",
+          "global_code": "87G7GQMW+3P"
+        },
+        "rating": 3.3,
+        "reference": "ChIJXfyWicZKwokRzXpHtm0QxQE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5331819,
+            "lng": -74.1923101
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5345557302915,
+              "lng": -74.1910323197085
+            },
+            "southwest": {
+              "lat": 40.5318577697085,
+              "lng": -74.1937302802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Huguenot",
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117148651932775551366\">Ajay Ojha</a>"
+            ],
+            "photo_reference": "AU_ZVEEAkYcq0xRGcGT46KomL9l1psKeBcVh3AdSqVi4ug3BHXzfbKzHU1OTMiZ8wbJ6t12Zvyc2mFi-q6bxfx9DaPzV2udSZJGKGyjqQ4FIgkaWoY9dShEHMZS-VNsSlqCtkaGFpUEjH28oUX6UVT3yDP-o9aAQ7iuS1oa5G9jE4iDtAmuZ4z5Znkt9lZG9k6uJ_3zbsMbtQVHtwpTVFv0Hw31qRTfPh1gov0rJ_IscohRwABDq2Gc26XZPYjCLicwwYcL0JKPVLkTY5YAZtq5yeOMHacBIF2v-2jcuR1qu9aZDgvnvl6HrNzXK8wi6yo-_BQvPHSVErWnJGVlrjSTc2WYCM1kf08KC8oRZhOeWBIfLxHJoE1num9HM5jFYBy0HREl0Lrf9A4rqt2X0p7ZFFsWAumF3FI0OSH2AF66350pFoFJVhXwvQN4nrncHQ1b_wy3S6fkq0OWKT3d_-UGZbbtxPTnocXnS0rbSk_miWVu1N6eRvRviQXB9PlEb7WL2wD___shea7oNnXggT47058icpaL6FjMCH7QUjqO-3oS2Qu9pfHe_G7AGEcdRcox5_ajPIDiwjqMVhg1ipIkkvGM-uPCPwGMuw1UgbW0ikAze6SFVH60RbFAVD3FTCIWJKFlENQ",
+            "width": 1920
+          }
+        ],
+        "place_id": "ChIJm3m6SN9KwokRBUesnVgv5m4",
+        "plus_code": {
+          "compound_code": "GRM5+73 New York, NY, USA",
+          "global_code": "87G7GRM5+73"
+        },
+        "rating": 4.3,
+        "reference": "ChIJm3m6SN9KwokRBUesnVgv5m4",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "340 Huguenot Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542652,
+            "lng": -74.208321
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5440307302915,
+              "lng": -74.20699061970849
+            },
+            "southwest": {
+              "lat": 40.5413327697085,
+              "lng": -74.2096885802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rossville Ave/Woodrow Rd",
+        "place_id": "ChIJnfzL6NBKwokR8mg-SeWhBSI",
+        "plus_code": {
+          "compound_code": "GQVR+3M New York, NY, USA",
+          "global_code": "87G7GQVR+3M"
+        },
+        "rating": 4.5,
+        "reference": "ChIJnfzL6NBKwokR8mg-SeWhBSI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53159,
+            "lng": -74.202957
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5329413802915,
+              "lng": -74.2015760697085
+            },
+            "southwest": {
+              "lat": 40.5302434197085,
+              "lng": -74.20427403029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Foster Rd/Drumgoole Rd East",
+        "place_id": "ChIJLzua-cZKwokRQoEuOZcMlQw",
+        "plus_code": {
+          "compound_code": "GQJW+JR New York, NY, USA",
+          "global_code": "87G7GQJW+JR"
+        },
+        "rating": 5,
+        "reference": "ChIJLzua-cZKwokRQoEuOZcMlQw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54208999999999,
+          "lng": -74.20693
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5434115802915,
+            "lng": -74.20555156970849
+          },
+          "southwest": {
+            "lat": 40.54071361970851,
+            "lng": -74.2082495302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 929-321-0457",
+      "name": "Starbucks Coffee Company",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100714672408799092290\">Meriam. KCK Family Finds</a>"
+          ],
+          "photo_reference": "AU_ZVEFCYglr9XdvkhriUU6aim7GV8yT7zHHLEOziwnkQAx0va7EIqok0PpbIxlle97mzMnugie4oOuLX5eqI30SROJeeLhagDkzJqHsG0do-GgByZDgeEx0TIuWWGSyrAmbyTrrUXfXN9zrPmsqI6-gulSdXOzic2wUAgGCwHDR8Fi4YsBmx-IP-qLnEciICbcRO7tI_5IUvrnGCy_rQ7wWCd_Q_Si8s5jg3MZ-aUSFNGXDWBw_ehHcEGUhnA585UYL8upKpvYpYbWsfo1YLEicFYWPmEghDhqvb5nH-YRmySDqDefDJCViWpuOlZeuFjoGgqBc873MOh6EtK3xka200NOZAwZJSq1Cl0vv-OfALgmdO9NcPh9k0yZj_euOPrqmI0wtPSEmlFuXZFyHuE8BATblsfc5G547WkVF9HHPeUVhoHsdIk5J_HdXeBp5Sxb8KyDOeMxIa1TbKXW7m9s4keig8lRqo1p8j5SU1m3F5AnNufeO5_3pEcKH7_9To6P7F4khOAiH7eHy1pijZ0YcxX8KmoEnyTg8_-ownwhJfCKOD5y__FMNtpa9_cxyEUS6nIsYB-W7gLWsGyaGsky1bzBpjC2StIIU6-h6G3oj1w7aAH546k5NFdm7e9qp1bOG",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJofWYhdBKwokRuH3uPHoNJeo",
+      "plus_code": {
+        "compound_code": "GQRV+R6 Staten Island, NY, USA",
+        "global_code": "87G7GQRV+R6"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJofWYhdBKwokRuH3uPHoNJeo",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 366,
+      "vicinity": "1243 Woodrow Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5419437,
+          "lng": -74.20765229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5433344802915,
+            "lng": -74.20601286970849
+          },
+          "southwest": {
+            "lat": 40.5406365197085,
+            "lng": -74.2087108302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-966-1353",
+      "name": "QDOBA Mexican Eats",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102726486171787821232\">nancy Casuccio</a>"
+          ],
+          "photo_reference": "AU_ZVEFXxW-j9-khn0lCnAY24-tdS0K_ifC5KI8_ldMHfNneoudPEDOhLij2983bS4ek9udi3U7sBpOo1kt0DiD24juraf8yIkfioNJoJLGD6gM-U8L9Qgp8tEHsJ28ubU-htL4A9CAz7bNODOoUavPSJ6B8kIz2C6vtTLxCuf0iOVNGqGgwFEjoHMy3nISBrpxQZn7-sbT8-EIb_metl3nh7mlojcktrwWYEIKToUOSmCmhfZHalHb8VR4Zcdc_laz0nJtbE1qC9nwDef9Zhr7szs2F04Gp9otnYL33gu3X7s-vU756wBrg710d3-rZWWcTsqHzZd5W2jrzbsc5CyxKeq2v2ub4qLd-o7K4u4vrwP_xAKRzX-k1GPZQAqbCUZFLpAWHNHREUemHK76KywmZCz_w7m8JZECVMSaJ5BoZPIEcKmbBfej7QUjZ5btT7Y7CtSKR85p6sacYZ5vKTcyC8s0phUGY6uPAC-B_2CSrJDbkTG5Obts_ZKU-EshuSUQpzVuUJJdpghmVUVPVsh4ISnAnxpRzqTe8COJWLkSXCsUw_TFKF0UjsHY22zie9hVVyRCJALJRk6EELfWrcFuskW2fYKlTVY8DZFK7Zeu7Md11aJQmOp9ejrd3GcxVvwpKVxM_8Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ7wFzidBKwokRW1Nu424O304",
+      "plus_code": {
+        "compound_code": "GQRR+QW Staten Island, NY, USA",
+        "global_code": "87G7GQRR+QW"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ7wFzidBKwokRW1Nu424O304",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 406,
+      "vicinity": "1275 Woodrow Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54295809999999,
+          "lng": -74.2070311
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5441857802915,
+            "lng": -74.20568556970849
+          },
+          "southwest": {
+            "lat": 40.5414878197085,
+            "lng": -74.2083835302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-984-2451",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5344,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114339123323154895565\">Elvis Jimenez</a>"
+          ],
+          "photo_reference": "AU_ZVEELYHYgRWaPHN0fO78z9Rx3zsuGfm-NYypGIxLO7AoIlYLCyhdBeiTADoN5MxnJoIOMLWWwFotajCbM1CYRrCSFzTJpnV9th5d-uqLnzWDRO-fKPMvafY-qZzgbKp5nOghlh2sBIQa0iNOoT78Fs3FsXNNF082EK-W9IQw5GiNJ-Ud178slwEMRt8oRv29xUtIWyIWsKLHzvvXHU-oj2Sq5Sj7reVJ3v1_Q96Ec0L1xvV50rFRpDQlitXYyUOfJooH2iDuDw8oB7bkc2AKDIJX69i8fXqvoS-Ga2-Cb2qT_AlXn4gKnkY-clxbrzU4KOLvao_NDcwjdzB55aYBcfVcZT3h3u3NX9tjcF5ZosnVh7FRfOjDz4f13mELV2_omB1ZnXljeVQcxZgQQCyBx4sGwoH2xXhoCJe4B6h17PJ2BlQWodmFX6zOT1sVGnuhhvZ6dvDQEnW0d-A4rlVj52FtJfs36JX1vpviE0mNda7lY1fEmKgw93233zx-XJSq8hBHPO0tL9XBcQGp77_cKWx5p2O4pz_OdTmZ--Wlpj_dRn_uKEmEECH4d5QSJTrhHPx-lXbzB3aNGn1nEpRQLJs3gk-ojUYQuI2Yc0s6FG16hGct5F0caKXxRx4p67nrtrB5_YA",
+          "width": 4008
+        }
+      ],
+      "place_id": "ChIJ6WzuodBKwokRJ8CQbY1Qkcs",
+      "plus_code": {
+        "compound_code": "GQVV+55 Staten Island, NY, USA",
+        "global_code": "87G7GQVV+55"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJ6WzuodBKwokRJ8CQbY1Qkcs",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 118,
+      "vicinity": "655 Rossville Ave Woodrow Plaza Mall, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54277,
+          "lng": -74.20781199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54406313029149,
+            "lng": -74.20638266970849
+          },
+          "southwest": {
+            "lat": 40.54136516970849,
+            "lng": -74.20908063029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-356-5918",
+      "name": "Sunset Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104102110325944728291\">Sunset Pizza</a>"
+          ],
+          "photo_reference": "AU_ZVEFqxnZ-4qQk9YMJe2iTobGvC9zMWWlPGrZA7bbbhB6uPoa6goubnO3kV6YsI-WV9k79uV936KfHQCAOpWitVGHM5tdIPN2ZoZ7qaXDij1AzgID21afFhzqjciqdTwJLAUqJHSxBMghZOAr4P5t4ZpRoXd1E2gb2MEj-82n-AHSQaGj52iU_5IliMP-FSEP8j1AKQjjAdL1nxSBTyzljHAa4YA6WZjsC1fUHGci6y2jEYzeTcZzHskLmLn0s-85cFmXLbzC6ZUgqI6AQ5JJPnmTgKMez4iQQyS9v5GUmddBnb9T95VkrIfHF_qfsLfmRi-DaRiqt-yU",
+          "width": 5250
+        }
+      ],
+      "place_id": "ChIJS8RulQZLwokRjHFUMEU_ZQ8",
+      "plus_code": {
+        "compound_code": "GQVR+4V Staten Island, NY, USA",
+        "global_code": "87G7GQVR+4V"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJS8RulQZLwokRjHFUMEU_ZQ8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 152,
+      "vicinity": "645 Rossville Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542817,
+          "lng": -74.20779809999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54411338029149,
+            "lng": -74.20625396970848
+          },
+          "southwest": {
+            "lat": 40.5414154197085,
+            "lng": -74.20895193029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-966-8882",
+      "name": "Misaki Sushi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101411549454056173230\">Misaki Sushi</a>"
+          ],
+          "photo_reference": "AU_ZVEENWaHmLcCoyalZPv37zqEiRwln1MagJk8MbZ9aJ7C-6XsB5P01gVmZBsORBwc-DvArMcPKOwJp1cZfibV0KObRJ5wyaezgTzryS3g2a-K9EsldHTI9qog9oQGE47_haoXdIrBUhNDwKzDW_76UIlOZToCWFG8wOscHfBvJvG5lsb25flbrF9CANR3WF_NP_Dsvkg2jT_NP21Vl_doyDz2cSUCj9hqVPsZgJ8s5rC6RsCsVsQaB1h2eOhG11oTtelyrvckDe6HjnuFsQJG-fjVdu01D9PUq-vuRoh3sk0gjycLNjV18WF40oOjjoqDzFdkpbq_qscY",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJdfkC69BKwokRsjart24mzGY",
+      "plus_code": {
+        "compound_code": "GQVR+4V Staten Island, NY, USA",
+        "global_code": "87G7GQVR+4V"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJdfkC69BKwokRsjart24mzGY",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 198,
+      "vicinity": "645, 108 Rossville Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5325893,
+          "lng": -74.19193229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5339790302915,
+            "lng": -74.19065281970848
+          },
+          "southwest": {
+            "lat": 40.5312810697085,
+            "lng": -74.1933507802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-227-2700",
+      "name": "Kuzina",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102939777592201956223\">Moamen Daif</a>"
+          ],
+          "photo_reference": "AU_ZVEFbTZ7Kx-0rNHnHWrV-6Ldhoe6nJhkJGetI8II2-iJmc8wGErCBXmx5lCqUxKhM6ibcXETFVZIZdLskt31F-dAihOEo6_wrKG-IaKrHCTa32AWAAp3JpVlJQJjLcz8MBONBT5jU2HSk4Hk-EmPsNmnZrFjC8YXLOuRLhZa-iqhUvZbL-R0TAGKJuaFBdOrjvKsrxmXDg2vb0wzSVGUR_Oiy-uhkYatyWuT5FE2c45A2GmwEauBcrQGnVdJwco3YznoyEL8cHGPAVRro7IyKbEfQNHXfWdyzlJGR4I83waUN4hPRjwcjGmnea4uQoj1J2qiiF-m4kjRazXbzi7uxqHs6c_03eXWfQCUZLqoHix5BHsor1R35nYQGBKj7otZ8raA1e1RugJ7dlE8RJSC3gKRyebjt8o5VVnTenRfVUrj9kvRPuoNCDvwhsJh2k6TuFgKqyJdNmGUmTV3vTagbkzCGVoWXg-Zn1mR4wP3P1vr_1RFKF4nt27hFpxam0IQajptZDSLvXVnwqetjWpFRyYmDmo3-4CuLKEtf-VIqwGPRD5RIcrqVQoSrAPFhfQDbIwmX71Y_XUPUfBoxL7_UmwNlro3vk_XCNQn7jE_qgU2RMwseRcMiClkiRGeBb64OcJWY_aJr",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJtyuqnOlKwokRQB2Sq0G-xZc",
+      "plus_code": {
+        "compound_code": "GRM5+26 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+26"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJtyuqnOlKwokRQB2Sq0G-xZc",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 162,
+      "vicinity": "895 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.533306,
+          "lng": -74.1927722
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5347769302915,
+            "lng": -74.1914017197085
+          },
+          "southwest": {
+            "lat": 40.5320789697085,
+            "lng": -74.1940996802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-605-0620",
+      "name": "Ciro Pizza Cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 478,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117648004033629713265\">Ciro Pizza Cafe</a>"
+          ],
+          "photo_reference": "AU_ZVEHTfhdf_LzQk8a8XsLJVwbSC2KlIUN8ULcNEE-rTirnkOJaPOGOLLasSl9jJahNgaxHmWM8v2206p5rlC81dXpVrQcjvFQkTtzMsZ5azA4H1H0O_AQ7ay-eP41YwZW19kBh8mpBkn1PZV7RcWEUprNhRA2zpsIXvaSYE3s_poMGMrQ6Oqp6h74zsFJfBGo04-xWLp621d0pqCc3zZz5NhBVNKwOi6Vdvuyrz1oQzAe1-AyERJjF0IMgdCiander4-ArvyweCfgZ6_jgBSu6YJ65lHmY0ANvK6WoD-TALmWEj5sdes5aQBMsEw8VNdYIKXJKSmDiZD4",
+          "width": 720
+        }
+      ],
+      "place_id": "ChIJtYIQlelKwokRKVK_qO2XY04",
+      "plus_code": {
+        "compound_code": "GRM4+8V Staten Island, NY, USA",
+        "global_code": "87G7GRM4+8V"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJtYIQlelKwokRKVK_qO2XY04",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 577,
+      "vicinity": "862 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542817,
+          "lng": -74.20779809999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54408908029149,
+            "lng": -74.2063703197085
+          },
+          "southwest": {
+            "lat": 40.5413911197085,
+            "lng": -74.2090682802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-967-4160",
+      "name": "Islander Taste Chinese Restaurant",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102189384309628195738\">jess L</a>"
+          ],
+          "photo_reference": "AU_ZVEHFs9SsLM5CT7lynlvSP1BxVkJjuSqoIrz5TKzdivSa0PfwWUVfNidUX2Y4SjbUDqclf4RehQz9K2ECZYdX-dx4yYc5EMRpZWqV8i1OC0CSuHhJY6t_TQ8a498NZdj-ljp_ZX3JTkS589CfdER9OeG6Flsa1VYSAodDd-I6tIsTSqOzeoVqfDuMYeDrGmVKvfDtL7CBiWftQMtTl77XqtvPGrNaHKPyv3ztD_oOKskgkjvdCnIAfLBG0qfqmkshA_cdJxd8BoftE39ej7c9h4r9zddYkl5GQ3Z0Q4_JGDbZGO2StN7TmjnqlP8E3ZN4k8AgttuoNL00iVIkY0GaN54JpWsIta_Fd_8aGlZSCf0vRg7R4UI15jlp2A4KF0r2EAfAmLb4u_neGplj6u8yE6s7Qhne7jyNGed05dXrk59W00JUXi5Nldm-sqhqjlAdfK8ya6qgEaGj9_ID7pzRPZHFY-xeALFllAZMPvxG1eFH-pdvMmv00Au-Xbe0PtClP3H8HgwW4RS_Sq_EZgaPAvuu3ERXlOQ4tK54rfA2KD-HT1ohDIDkqjcEOvcC5mOxrmuxmB5ivQJlF6rfZCcS1lpQqkiAcpXUMeUtSX5CKnZVw8AatmmWeQPIUmkLacFD",
+          "width": 2726
+        }
+      ],
+      "place_id": "ChIJ-5JB69BKwokRpZuLSvmT_7Q",
+      "plus_code": {
+        "compound_code": "GQVR+4V Staten Island, NY, USA",
+        "global_code": "87G7GQVR+4V"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ-5JB69BKwokRpZuLSvmT_7Q",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 138,
+      "vicinity": "645 Rossville Avenue store 104, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5325893,
+          "lng": -74.19193229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5340098302915,
+            "lng": -74.1905442697085
+          },
+          "southwest": {
+            "lat": 40.5313118697085,
+            "lng": -74.1932422302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-605-4230",
+      "name": "Chopsticks House",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118362835128375792622\">James C</a>"
+          ],
+          "photo_reference": "AU_ZVEG9Scb-m8eh1R2zeTx5fiMsTaGcoYUNYwRvVSet9w4JrrEnIGWuk3LZW5nYJGznreCW1-uF31hlYR1GKBEum4iNQe0eTCpsWucHJ6H_VUudiERo2TAl_kxLqNf7woIoE2xOwEIC9yuJoFT_ZKQKhMf8D-aWN1wxKcbqLctA1mkgIcMV2N5isLVlESwFYldg-0Hq1O7Rn6lsWttSMsinX8ceL1wi1J6W8v-UeKt5tCoXl69qQykdibvehfEI8r5tKAnESlpVEr0V7I7QwlkWTG3YvdoajfeFSdNF15n7kRewwWtKFy6v5_ThiOg118wYai64etwDCy27G2NQnk5H7B3k_pXLsJ9pE1NpAlfjyVbOH1qIMw0VJt7dArOmmjMNt3PqZ9WS-DhchuenkZRBp3ianKqtNZF3bmCuZttj89Xk-sOBzSBMmcEGlPwGGMmJKWuwc_h0dwYWbpxVHT6447TSbh4L-0mYnIZ1ANdZQt-yRfCfMj4xPwndVjArcJZbK8iACNp0VFpvXJtIHvwzs4GUnKX_5A1XmZdF5rXoWfslqM_bpPeLNweku861WYJRXpRtYMPksP3WJxog2BP4VGOs58NC_WFTVcx0pEk1yxXmJB_Am8EG2LqMVrhpv7UyVdiROLG6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJx_l-m-lKwokRXWbFoqCvVXY",
+      "plus_code": {
+        "compound_code": "GRM5+26 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+26"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJx_l-m-lKwokRXWbFoqCvVXY",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "895 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5427994,
+          "lng": -74.20628479999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54410178029151,
+            "lng": -74.2052718197085
+          },
+          "southwest": {
+            "lat": 40.54140381970851,
+            "lng": -74.2079697802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-400-9464",
+      "name": "Wingstop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 270,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105214024938813601542\">Wingstop</a>"
+          ],
+          "photo_reference": "AU_ZVEEHb9TuqPLy4hq1bqxC9E4cuSU-DBykY_gFcyPTENyY4y35Dy0Qo--ygOnoHlKULw29qhulSFOOtS2ShC_a5jKljIkZkE0EOn3EyYZRBM6NVzB5n6maDfGAzMAAEKr_y-RSCPVoBpAKZLnAlWMCx-Z3Wm_msWpT9IO2lrqsEAPXuomh_sLOCdIBXeRym3bLSzUyVDOzQDXOqnwmaDojSPola_D8W6cf6PC-tiyqfhXtYEaHorMPT9B3CC-R9tU5NM74xkr77ujbIZxuNTW-XxiKFqGx3HcDQm6EX1xhB9UNuGjxHlkx3Ktaoy4SHc05PNRaorabGac",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJ9bfHnKRLwokR_r-ojGbMks0",
+      "plus_code": {
+        "compound_code": "GQVV+4F Staten Island, NY, USA",
+        "global_code": "87G7GQVV+4F"
+      },
+      "price_level": 2,
+      "rating": 2.7,
+      "reference": "ChIJ9bfHnKRLwokR_r-ojGbMks0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "655 Rossville Avenue Unit 203, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5428974,
+          "lng": -74.2067591
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5441670802915,
+            "lng": -74.20533546970849
+          },
+          "southwest": {
+            "lat": 40.5414691197085,
+            "lng": -74.20803343029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-984-7373",
+      "name": "Woodrow Diner",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116656280719909772859\">Woodrow Diner</a>"
+          ],
+          "photo_reference": "AU_ZVEEDV0dez1Q3Hn0SQXF1Ut9GJi3iEbZu6D10UlIFJsOX1RWt70wQGns-d9hets2IIIXT-Qys3nQzjJ0mp0SXEfU3BHSiJzfIw3hh8swz4dJ0HWjA6Fy8kw7IXi5CuNOw7cOG_EaHhrKNdFraWj6iwF-1ITYJWsYcXZ_UbIv2H534-_rGtPdhWLvXCQpWORFPyGNjGMOWSKK1ggBlxGkIbnMrCn7zny3bwwDg2OHGL9DAFtCvdS9h5AmmUMQprT4AG-H7NJ6pxItCDJX-5VQlr7ftezW5Bg4-4WmQgXN-jPS9bbc6uC_ghzKaC0Wlrj7Pkqxb8depcTY",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJmwHuhzdLwokRJgk3PxMZBcY",
+      "plus_code": {
+        "compound_code": "GQVV+57 New York, NY, USA",
+        "global_code": "87G7GQVV+57"
+      },
+      "rating": 3.9,
+      "reference": "ChIJmwHuhzdLwokRJgk3PxMZBcY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 164,
+      "vicinity": "655 Rossville Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5421456,
+          "lng": -74.2074313
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5434157302915,
+            "lng": -74.2060324697085
+          },
+          "southwest": {
+            "lat": 40.5407177697085,
+            "lng": -74.20873043029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-608-9090",
+      "name": "Playa Bowls",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1329,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111538677383919230117\">Playa Bowls</a>"
+          ],
+          "photo_reference": "AU_ZVEFrU46aLwqRBl86jcr9LH5oYHGTCYvmQKBWTLBzBq3ZOpVKvaRBt_nIlkZWNqtgdPJ-4EseBShpuel2wSPHHzGALUom2lExSZiz_zQRqex2rBRatp4vJyJuv2Lncqkrcmy8svjpd_rvfUhNSwZxOnqFZgiug_Iv3KuAc9FNF6hDO7oEoy9eMi9BaYTYu8PZoyhw_yXkGmo4brrBCcsqVCkwToFSmXQvfaaooKbhZ-HnYjMLIhVSqdBtBF7jYnDy6drdVUY8Wxm_j5b4zmWd51aBDdMkFsdbQq1jwfl8utRWmW70zTxSR8Sq5jJS1J5CjxxFcPrlKNw",
+          "width": 1900
+        }
+      ],
+      "place_id": "ChIJ9Vrc-iVLwokRxruZkezTnH8",
+      "plus_code": {
+        "compound_code": "GQRV+V2 Staten Island, NY, USA",
+        "global_code": "87G7GQRV+V2"
+      },
+      "price_level": 2,
+      "rating": 4.8,
+      "reference": "ChIJ9Vrc-iVLwokRxruZkezTnH8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 198,
+      "vicinity": "1275 Woodrow Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5429849,
+          "lng": -74.20719989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5441936802915,
+            "lng": -74.20586071970848
+          },
+          "southwest": {
+            "lat": 40.5414957197085,
+            "lng": -74.2085586802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-966-4186",
+      "name": "EatItalian NYC",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1365,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105293830377639411492\">EatItalian NYC</a>"
+          ],
+          "photo_reference": "AU_ZVEFkd96eyxidgvvGDowsaDZPrmMH-h8M_CzLVVWWxh0BTs5wWysKnlT6tEBWQqmphDj8Ub482y3IBUavFIEc64H6GHjidrRo2FXRc0NQqdn2mmow5mzajoML2HVa32St3pRHVIJwN1wkAsRxji5msaLVfhCEp0zy-hLwClmY-XSb-KaODZLf929cJGHmxYc0Xl0ZjTvA4qwaxfbABNi5NrNiJClmd33cmHFtmuSYhbMs8PMQwGXnnLAEUPGvtOupVrrINLoZg7_AqyCKU0YnnxQJAP55OIwbi5XMfMPQy1kXcmUN-p3ltdY89WbexA9dYdYh6Cf25Xk",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJARQkEkZLwokRMcNtYc0S9mo",
+      "plus_code": {
+        "compound_code": "GQVV+54 Staten Island, NY, USA",
+        "global_code": "87G7GQVV+54"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJARQkEkZLwokRMcNtYc0S9mo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 444,
+      "vicinity": "655 Rossville Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5330013,
+          "lng": -74.1922246
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5343370302915,
+            "lng": -74.1909309197085
+          },
+          "southwest": {
+            "lat": 40.5316390697085,
+            "lng": -74.19362888029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-984-1900",
+      "name": "Better Gourmet Health Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103392081407209014768\">Better Gourmet Health Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEEHdn3xsAImVyhH4guh-2T6koUJr-SBz5AFk0Z1NhZug2KmuZwNFPjrBq1ag6ffE71TOpNT4jrd5llVSYY1B8qFTk6y4bSTK-kmtLgbcEi4pZkRpRubPNxnr6-da6OsLK9KhDvOfQePiuwYgxw_8VYCR5KcLfYAqLW0Oy4x2KOzapUfTL7uruo5hHtnviKZszXIoSgPpzh9xIS2Gs5gTOzOD92o_ZSrMdwjNn3dXUbGlJfZ6jGBzj2SjhGJgq2R9HSW1Eobrsz40JDwkbXBSFeUgsJL5t6UFIrmIQsRxQ74Nw1nN0rSZCNXzOjWrfnqAOMUGRrZA7w",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJUcDwmelKwokRBaul5amwsD0",
+      "plus_code": {
+        "compound_code": "GRM5+64 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+64"
+      },
+      "rating": 4.5,
+      "reference": "ChIJUcDwmelKwokRBaul5amwsD0",
+      "scope": "GOOGLE",
+      "types": [
+        "health",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 149,
+      "vicinity": "877 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.532565,
+          "lng": -74.1922744
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5338763802915,
+            "lng": -74.1908768697085
+          },
+          "southwest": {
+            "lat": 40.5311784197085,
+            "lng": -74.19357483029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-554-4439",
+      "name": "Pizza Mia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 942,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113828845799030842519\">Pizza Mia</a>"
+          ],
+          "photo_reference": "AU_ZVEH8VAYCR-v3HPSziIF5MFPjh0KcrGALzfaw4ytHUFYttc6MAIXjfOv4Im7fcoDoE3HY3IRrphxFIH7hwi4mOXvigzy4kvcZWUqWMmijz0dwP2690yHXufT_F3MZV9RzRSrNRRAkI-AaO_hAqJ0SGkkQWRevBimt7qvsLPlC866uEiQtcLj6ahjg3QWX6GGOexHShSEiyDw4z3fc4QKs9d3Q-mD7zO7_C9vuMi1Fk_N905Y_E51szMbZ3mzNizqZYNJQmgEqsfAWSVVwm2tkxgXAcshhbnx7mvSxURCDa_RWgvijOJWBORGI9Tu577ngYB_m1UhyQg8",
+          "width": 741
+        }
+      ],
+      "place_id": "ChIJtUwglKhLwokRQX5HW667aac",
+      "plus_code": {
+        "compound_code": "GRM5+23 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+23"
+      },
+      "rating": 4.6,
+      "reference": "ChIJtUwglKhLwokRQX5HW667aac",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "896 Huguenot Avenue Suite 1, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5325562,
+          "lng": -74.1917115
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5338584802915,
+            "lng": -74.19048081970848
+          },
+          "southwest": {
+            "lat": 40.53116051970851,
+            "lng": -74.1931787802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 347-838-6426",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100151423499269758462\">Your trusted source</a>"
+          ],
+          "photo_reference": "AU_ZVEEMQq2WFcEwbPD9kMm8q6IQCm7awOz5eWmRxPn8e-VmnpOrbQgSmkEycKGRkbOUxV7_Fu9jlBv-P9v1xEs86z2F5lqMRUjg54XLhHfFYO9tuRoJbleoCw0WVfEAl-wmWnM2EealvOJNoYlTPoy8ECkysTWT2Oi5SSYjOykt_liUXN8nmdJqKoX3chyeF6GVrgfqaXwxuS0wXyk7qh6hSzbNUgQYdMV0KbDhiY3txdlB4QmUpm2KjUyl26q8y4wFvA4iadpoMplsRCquW2BH6Ay8UpChHaXxSPYbBdsxsG6JPsAlFPhnhTkj7mUVYBKZHj2xPLPXoB7l1uw3tyWPR0FxAR_j9pdlCWzfxr4s3eUNJhzT8s5uXRi2kSjGRMc0Uv2VC0TQxH0uYq2E0drUzfUjyf43MnUtUuoMsx4kSp7YMyzkiR7QBbBMuotLD2B7740nJeg_RgX3VcBBYgJAHelKdHPGCnAvNv30BmGB0E8lsMmHWSUfbgcQj0anjzk7JaRgTVUWK3jWnn6ttR2qd8Es0B6lCk5m8jLsvaUMewZN8bb5p4Aiwdj4x9ENV1InYguRPJE824a8ed7FEEBFwSDJXJaggxhTGrjkw1RYGLRpaanaKp6XVgyW_wB23EOM9UXL-qIj9VG_qI27iU7zF9j_5T0",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJlfYHg-lKwokRo6At24Za7iA",
+      "plus_code": {
+        "compound_code": "GRM5+28 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+28"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJlfYHg-lKwokRo6At24Za7iA",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 213,
+      "vicinity": "901 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5327181,
+          "lng": -74.19174129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5341371802915,
+            "lng": -74.19046966970849
+          },
+          "southwest": {
+            "lat": 40.53143921970851,
+            "lng": -74.19316763029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-605-6464",
+      "name": "Panino Rustico of Huguenot Express",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1680,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104707224532364618076\">Panino Rustico of Huguenot Express</a>"
+          ],
+          "photo_reference": "AU_ZVEEkHGTeS2bJeFX3ozMsT1LOfLry74uJfg8n473J7CoTa_CvoqTqRIbELhxFWvfd5v7l_tBwV_3f8Vy4S0dnSrwY3spb_4DNfVoM3ObUS0wj_stzk-bUEzcEp9ogqbtALIXTQvUVoFbuk-djXKvaGffDiIxZgluVDd1WxuPcOc_edKBOzy9GPN5B-_qEqzyEM5gGMmv3eieDL_AE89W6eVSqlajpns73AtTL6vfCM8dkKcQ9VkwtWEJp2vev42kddZdUmdURLNNSuVJCT_dCxgQK86nbcMyyUug2kneHUIxPZEqqHWO6_wFZo6omAlxd1RX8s6Gm9iM",
+          "width": 1680
+        }
+      ],
+      "place_id": "ChIJ5dT3p-BLwokRy1iXaE6-9rI",
+      "plus_code": {
+        "compound_code": "GRM5+38 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+38"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ5dT3p-BLwokRy1iXaE6-9rI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 48,
+      "vicinity": "895 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5325912,
+          "lng": -74.1919075
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5339964302915,
+            "lng": -74.1905913197085
+          },
+          "southwest": {
+            "lat": 40.5312984697085,
+            "lng": -74.19328928029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-908-2227",
+      "name": "Tejanos Taqueria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108531485270970835863\">Suzy Masoud</a>"
+          ],
+          "photo_reference": "AU_ZVEG7D4e3Lu6DNUKZM7K5TDTax1EEnaFz1fC58xVqW3m4qqFGdBLIVMuprbPElEyyjsTaTWhUk0rHK_xhr8HsV1Ap3X8rHUVGygk3AbHrDkYUEIrtzl1bKzcDWMH0W17E1Y0NLlMNjG71w9a53IdpGl4_pTyUSSvzyipAgjd0OA5ws3NN_xmYzFdbES6kzZ-Q9lnsul-55pZpQWA9ZsBUcv_SzOFxnzXDZndpLeqgmW4naI_3bp8bUPdRz3liVyyH1BERPxHpbqT9KMa3nZbyQbsZeZfNRz2iIw5QWGrJvjUfMniFtI1H8iN0Sq_lv7EDhlW5F8EVhRsDriCZZdLzHtMBhKLmzoj6ZArCjVcm_ykcvaN5IDhhIPPHNGT5NE3gOjy8mQhrjviIc1o98uLRUxJEHV-a3nLaBolGJgiTi4OPBVx4E5LsiAeid6v3i7AItfTbSccIygNn94LJxfXjQ1FPbk1UFZjK64uoY4wf5JE2SxdTnT-vfDgs5QwSz4vqUm2hnqsEKUkjUyjNmcbr35Ic3FIqD6Kri8Gi-FMI4ecmEdA9DYx2DQcgeOaJa5pnQOhMvoKc-A3T4IZW34KE_qr4QpJ_udZXR-nkKZUOdEngaQ0zGyF9wmfZFjDZWflzKdXv1rP2j_vThUnuv0QMO6vcvTk",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJESPt02dLwokR4HCfaC9RxAI",
+      "plus_code": {
+        "compound_code": "GRM5+26 Staten Island, NY, USA",
+        "global_code": "87G7GRM5+26"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJESPt02dLwokR4HCfaC9RxAI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 77,
+      "vicinity": "895 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5384576,
+          "lng": -74.18693139999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5398151302915,
+            "lng": -74.18537956970849
+          },
+          "southwest": {
+            "lat": 40.5371171697085,
+            "lng": -74.1880775302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Ida Court Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3003,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102815648643811875846\">Ida Court Playground</a>"
+          ],
+          "photo_reference": "AU_ZVEGewIosR7kr0QFWuWvAZyZCz-lt49nbe5ipipkE2Z2FIey80SdknG5qlvr1zJEDaysWBg3IIN_fypVuv6ckRoMtBNYaQSXTvKVoC89vQpaCOv50PS-sYwdyuJG0k4_Sr6mW8Bwee2nO34ogEVonK6z52JYggz5bPjXnMo6kq2DxDcw4K3uuydGGvjnzuR3nLVspNU9mK-FDZeziIuN516aMs8WcODUNdDizW7XwkUypDtruLGLLTzZn9vADBntCflh5rPIlTzJtqXp-K4DifB70hejvgXX75lBpBqfj3-VwrVgiGc5HTm50CgdNUO5a8jvmGGCUu0k",
+          "width": 4512
+        }
+      ],
+      "place_id": "ChIJYVujyeVKwokRcAAiOJWgB_I",
+      "plus_code": {
+        "compound_code": "GRQ7+96 Staten Island, NY, USA",
+        "global_code": "87G7GRQ7+96"
+      },
+      "rating": 4.4,
+      "reference": "ChIJYVujyeVKwokRcAAiOJWgB_I",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 92,
+      "vicinity": "212 North Railroad Street, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5458501,
+          "lng": -74.1989931
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54724513029151,
+            "lng": -74.19754366970851
+          },
+          "southwest": {
+            "lat": 40.54454716970851,
+            "lng": -74.20024163029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Night Factory/Huguenot Holiday Have",
+      "place_id": "ChIJL7alSgBLwokRnK3SssWG-RE",
+      "plus_code": {
+        "compound_code": "GRW2+8C Staten Island, NY, USA",
+        "global_code": "87G7GRW2+8C"
+      },
+      "reference": "ChIJL7alSgBLwokRnK3SssWG-RE",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "374 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5435525,
+          "lng": -74.1969715
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5449259802915,
+            "lng": -74.19565516970849
+          },
+          "southwest": {
+            "lat": 40.5422280197085,
+            "lng": -74.19835313029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Vineland Av",
+      "place_id": "ChIJD6caZN5KwokRVoGRXlm5kPg",
+      "plus_code": {
+        "compound_code": "GRV3+C6 New York, NY, USA",
+        "global_code": "87G7GRV3+C6"
+      },
+      "reference": "ChIJD6caZN5KwokRVoGRXlm5kPg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.539894,
+          "lng": -74.19583899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5412401802915,
+            "lng": -74.1945004197085
+          },
+          "southwest": {
+            "lat": 40.5385422197085,
+            "lng": -74.19719838029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Ave/Rathbun Ave",
+      "place_id": "ChIJmS_VCt1KwokRsB5sjM23NTI",
+      "plus_code": {
+        "compound_code": "GRQ3+XM New York, NY, USA",
+        "global_code": "87G7GRQ3+XM"
+      },
+      "rating": 5,
+      "reference": "ChIJmS_VCt1KwokRsB5sjM23NTI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53939099999999,
+          "lng": -74.195465
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5407287802915,
+            "lng": -74.1941576697085
+          },
+          "southwest": {
+            "lat": 40.5380308197085,
+            "lng": -74.19685563029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Ave/Ramona Ave",
+      "place_id": "ChIJkxDocd1KwokRk5ej1CZvLIQ",
+      "plus_code": {
+        "compound_code": "GRQ3+QR New York, NY, USA",
+        "global_code": "87G7GRQ3+QR"
+      },
+      "reference": "ChIJkxDocd1KwokRk5ej1CZvLIQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.543144,
+          "lng": -74.19731100000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54449453029149,
+            "lng": -74.19595481970848
+          },
+          "southwest": {
+            "lat": 40.5417965697085,
+            "lng": -74.19865278029148
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Ave/Woodrow Rd",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105897073341529498194\">Emily</a>"
+          ],
+          "photo_reference": "AU_ZVEFDtJ6mmR70oLR9TpEqmtb2MQu8lsWUII9LV5xWZ-g-dKKpi66icNw26-o01P1DA2nuOm3M8SqLy2awTAdVVAbgeSYGhxfuOfYMgkSsBN8ozdMz9MQXY28PeqKdWcYts1TvVRu89IIBqkh90HjRbGNey2puKIzWM58mjjoLK0fAcKRvQCK3TUb9AO4qalwsWCZdDTS_cbvF8L5HpNMLBFRpw0WS9qgTZ17wfN3hjFw4k6BmHYYO50MeYPdA1UBKI2MiLR3vGyvUDG8e1fx1bqF5NFbCkilDY_-pACfij6xxQvoEQ2BweZVnTcVpzZf5Vgmyr9_5WNGMDMm6gY4cySh1Nt7dymzGwJi0AhBRr_1aAsGynJiT53f4nWrSh-lqwmdA1CD3SvqjyirvX9XlvIdvO5fs2rtx62Cvtm0vNCgt9WVeunwUK-tH4UqWLzm-vx0JJPBkQDavKvNXD8JYBhoyOzFhdIzAYbdpkiiklKyx3gKcwENtTx-sOGHbHkMD9AjO31zhcOsXfqqAGHd8Tb8JaOHVTvOr4N3ZghBCsa3w86zISh7fCZvkYMRk8WTNK478_mt9C5Mcm5W2MTzfjbIJZDG3b1M_n5BmuzhEvWwRtNVdMKLnJZp4ORjfwQpI",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJjaeZfd5KwokR-PdzYhhOvoo",
+      "plus_code": {
+        "compound_code": "GRV3+73 New York, NY, USA",
+        "global_code": "87G7GRV3+73"
+      },
+      "rating": 5,
+      "reference": "ChIJjaeZfd5KwokR-PdzYhhOvoo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542465,
+          "lng": -74.201225
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5438685302915,
+            "lng": -74.19989471970848
+          },
+          "southwest": {
+            "lat": 40.54117056970851,
+            "lng": -74.2025926802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Deseree Ave",
+      "place_id": "ChIJ7zhU7ttKwokRiK8Y5J6P6ss",
+      "plus_code": {
+        "compound_code": "GQRX+XG New York, NY, USA",
+        "global_code": "87G7GQRX+XG"
+      },
+      "reference": "ChIJ7zhU7ttKwokRiK8Y5J6P6ss",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54294999999999,
+          "lng": -74.200165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5443049802915,
+            "lng": -74.1988170697085
+          },
+          "southwest": {
+            "lat": 40.5416070197085,
+            "lng": -74.2015150302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Ellsworth Ave",
+      "place_id": "ChIJo6_4ANxKwokR0tUnRD5lGEQ",
+      "plus_code": {
+        "compound_code": "GQVX+5W New York, NY, USA",
+        "global_code": "87G7GQVX+5W"
+      },
+      "reference": "ChIJo6_4ANxKwokR0tUnRD5lGEQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.543705,
+          "lng": -74.197388
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5450403302915,
+            "lng": -74.1960910197085
+          },
+          "southwest": {
+            "lat": 40.5423423697085,
+            "lng": -74.19878898029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Ave/Woodrow Rd",
+      "place_id": "ChIJrcVsYt5KwokRzSUwCdZRh7Q",
+      "plus_code": {
+        "compound_code": "GRV3+F2 New York, NY, USA",
+        "global_code": "87G7GRV3+F2"
+      },
+      "reference": "ChIJrcVsYt5KwokRzSUwCdZRh7Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.543644,
+          "lng": -74.196716
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5449677302915,
+            "lng": -74.1953333197085
+          },
+          "southwest": {
+            "lat": 40.5422697697085,
+            "lng": -74.19803128029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Vineland Ave",
+      "place_id": "ChIJL0k8Zt5KwokRR6hmHyhwzaI",
+      "plus_code": {
+        "compound_code": "GRV3+F8 New York, NY, USA",
+        "global_code": "87G7GRV3+F8"
+      },
+      "rating": 5,
+      "reference": "ChIJL0k8Zt5KwokRR6hmHyhwzaI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.543785,
+          "lng": -74.19665499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5451261802915,
+            "lng": -74.19529526970851
+          },
+          "southwest": {
+            "lat": 40.5424282197085,
+            "lng": -74.19799323029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Boulder St",
+      "place_id": "ChIJ79T-Yt5KwokRlp3KaECtNQg",
+      "plus_code": {
+        "compound_code": "GRV3+G8 New York, NY, USA",
+        "global_code": "87G7GRV3+G8"
+      },
+      "rating": 1,
+      "reference": "ChIJ79T-Yt5KwokRlp3KaECtNQg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53899749999999,
+          "lng": -74.20617299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5403563802915,
+            "lng": -74.2047851197085
+          },
+          "southwest": {
+            "lat": 40.5376584197085,
+            "lng": -74.20748308029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Sinclair Av",
+      "place_id": "ChIJ34-rqtpKwokRbvOZIlOfbUg",
+      "plus_code": {
+        "compound_code": "GQQV+HG New York, NY, USA",
+        "global_code": "87G7GQQV+HG"
+      },
+      "reference": "ChIJ34-rqtpKwokRbvOZIlOfbUg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542053,
+          "lng": -74.20517
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5433763802915,
+            "lng": -74.20381731970849
+          },
+          "southwest": {
+            "lat": 40.5406784197085,
+            "lng": -74.2065152802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Alverson Ave",
+      "place_id": "ChIJL_g8b9pKwokR68KWkPWJcdQ",
+      "plus_code": {
+        "compound_code": "GQRV+RW New York, NY, USA",
+        "global_code": "87G7GQRV+RW"
+      },
+      "reference": "ChIJL_g8b9pKwokR68KWkPWJcdQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.536728,
+          "lng": -74.205032
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53806988029149,
+            "lng": -74.2037088697085
+          },
+          "southwest": {
+            "lat": 40.5353719197085,
+            "lng": -74.20640683029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Ramona Ave",
+      "place_id": "ChIJycfpc8VKwokR-4H9YdRfXEQ",
+      "plus_code": {
+        "compound_code": "GQPV+MX New York, NY, USA",
+        "global_code": "87G7GQPV+MX"
+      },
+      "reference": "ChIJycfpc8VKwokR-4H9YdRfXEQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53687699999999,
+          "lng": -74.205261
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5382357802915,
+            "lng": -74.20387666970848
+          },
+          "southwest": {
+            "lat": 40.5355378197085,
+            "lng": -74.2065746302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Ratbun Ave",
+      "place_id": "ChIJ05CtccVKwokRHmejivh40rQ",
+      "plus_code": {
+        "compound_code": "GQPV+QV New York, NY, USA",
+        "global_code": "87G7GQPV+QV"
+      },
+      "reference": "ChIJ05CtccVKwokRHmejivh40rQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.539131,
+          "lng": -74.206154
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5404717802915,
+            "lng": -74.2048382197085
+          },
+          "southwest": {
+            "lat": 40.53777381970851,
+            "lng": -74.20753618029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Sinclair Ave",
+      "place_id": "ChIJdZKHqtpKwokRjGpGqhTNgGM",
+      "plus_code": {
+        "compound_code": "GQQV+MG New York, NY, USA",
+        "global_code": "87G7GQQV+MG"
+      },
+      "reference": "ChIJdZKHqtpKwokRjGpGqhTNgGM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53886,
+          "lng": -74.206192
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54021618029149,
+            "lng": -74.2048159197085
+          },
+          "southwest": {
+            "lat": 40.5375182197085,
+            "lng": -74.20751388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Sinclair Ave",
+      "place_id": "ChIJjYZ9VcVKwokRXkNLYRRQmro",
+      "plus_code": {
+        "compound_code": "GQQV+GG New York, NY, USA",
+        "global_code": "87G7GQQV+GG"
+      },
+      "reference": "ChIJjYZ9VcVKwokRXkNLYRRQmro",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53472900000001,
+          "lng": -74.19310800000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5360472302915,
+            "lng": -74.1918030197085
+          },
+          "southwest": {
+            "lat": 40.5333492697085,
+            "lng": -74.19450098029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Ave/Drumgoole Rd East",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108427399698816213863\">Satish Shikhare</a>"
+          ],
+          "photo_reference": "AU_ZVEFtP-m9hNJIaRS7NTAQ4tflJnOkzh3AFGpNIQChUN6_o8VDwjDSiV0fQzBPvXVF0nhhQ0ZSnH8rIFRaQfc20yOew26n-NxMWuQyehU0frYeoVi6zVN0tJ8EL6jSMj8yw71Cjf3KQm8qEjYVpUZ8pzHAU6CanY2gFJS4vTg9VGZuxbbGvE97EKgT60lWIFkB7BXQ9MhdL0Zr0Hjm3Rt_SZkOTLk2Y0p5X1Ke9kwhsLmZMxKRdrC6vhSYBCZK1vwozRNeMgDIBKHNo4BgSQUojURDTW__siRn4zxCRA44wnVX70inZrV9r_0Pf4p5eqVGEwG9Y644YAp6BL6taJxaHf4OLW_5qcHwIFMfFNogjNM4dKXgBoEFyoHCI6qzEdTvsNJrlXrFJnuY4Aq90Fw8r3eDXbrnsWyQKdWOO2zHIdQ-yPcKN50qoevVnwdeshZYNH3vsSP_QKZDqWeEZjrMu2phiMPcQ4PArNiwEdSKU-OcdIvePD_hTE83-OIrCAi1EDFPwgyqiJrV2JtICzkRUUXKXm0uY5w6Ura_55ZSI_w-wMH7L9iowo4VTIGhvOdrR9RMq9Od4tx0_cK9cCC-wPqbOljliiJTadaM07-ZZsNg5S5CJ9RXwxkc8nGo6YzBCzuyqNxk",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJOb2nt-lKwokRsgLp8V3GTVQ",
+      "plus_code": {
+        "compound_code": "GRM4+VQ New York, NY, USA",
+        "global_code": "87G7GRM4+VQ"
+      },
+      "reference": "ChIJOb2nt-lKwokRsgLp8V3GTVQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5415915,
+          "lng": -74.2068365
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5429330802915,
+            "lng": -74.20554841970849
+          },
+          "southwest": {
+            "lat": 40.54023511970851,
+            "lng": -74.20824638029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Woodrow Rd",
+      "place_id": "ChIJ48vyh9BKwokRfL6-57nVc0o",
+      "plus_code": {
+        "compound_code": "GQRV+J7 New York, NY, USA",
+        "global_code": "87G7GQRV+J7"
+      },
+      "reference": "ChIJ48vyh9BKwokRfL6-57nVc0o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.534519,
+          "lng": -74.193214
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5358796802915,
+            "lng": -74.1918247697085
+          },
+          "southwest": {
+            "lat": 40.5331817197085,
+            "lng": -74.19452273029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Huguenot Ave/Drumgoole Rd East",
+      "place_id": "ChIJV6qoy-lKwokRjK7bMTibzUI",
+      "plus_code": {
+        "compound_code": "GRM4+RP New York, NY, USA",
+        "global_code": "87G7GRM4+RP"
+      },
+      "rating": 5,
+      "reference": "ChIJV6qoy-lKwokRjK7bMTibzUI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.541706,
+          "lng": -74.206604
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5430770802915,
+            "lng": -74.20526276970848
+          },
+          "southwest": {
+            "lat": 40.5403791197085,
+            "lng": -74.2079607302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Foster Rd",
+      "place_id": "ChIJH5nQhtBKwokR8P1kPWsjcPI",
+      "plus_code": {
+        "compound_code": "GQRV+M9 New York, NY, USA",
+        "global_code": "87G7GQRV+M9"
+      },
+      "reference": "ChIJH5nQhtBKwokR8P1kPWsjcPI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54147700000001,
+          "lng": -74.20706899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5428337802915,
+            "lng": -74.2056558197085
+          },
+          "southwest": {
+            "lat": 40.5401358197085,
+            "lng": -74.2083537802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Woodrow Rd",
+      "place_id": "ChIJ7Q3wYtBKwokRKRE7-cD59iU",
+      "plus_code": {
+        "compound_code": "GQRV+H5 New York, NY, USA",
+        "global_code": "87G7GQRV+H5"
+      },
+      "reference": "ChIJ7Q3wYtBKwokRKRE7-cD59iU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53412600000001,
+          "lng": -74.203796
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5354695802915,
+            "lng": -74.20246666970849
+          },
+          "southwest": {
+            "lat": 40.5327716197085,
+            "lng": -74.2051646302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Darlington Ave",
+      "place_id": "ChIJT7ID0cVKwokRSVsohHoHDkQ",
+      "plus_code": {
+        "compound_code": "GQMW+MF New York, NY, USA",
+        "global_code": "87G7GQMW+MF"
+      },
+      "reference": "ChIJT7ID0cVKwokRSVsohHoHDkQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53383050000001,
+          "lng": -74.2037315
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53519138029151,
+            "lng": -74.20233921970849
+          },
+          "southwest": {
+            "lat": 40.53249341970851,
+            "lng": -74.20503718029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Darlington Av",
+      "place_id": "ChIJuxFf1sVKwokR49F4aTVoSDY",
+      "plus_code": {
+        "compound_code": "GQMW+GG New York, NY, USA",
+        "global_code": "87G7GQMW+GG"
+      },
+      "reference": "ChIJuxFf1sVKwokR49F4aTVoSDY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.533531,
+          "lng": -74.203667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53489098029149,
+            "lng": -74.20227856970848
+          },
+          "southwest": {
+            "lat": 40.53219301970849,
+            "lng": -74.2049765302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Darlington Ave",
+      "place_id": "ChIJxW7XeMZKwokRGnSkKpr8gKg",
+      "plus_code": {
+        "compound_code": "GQMW+CG New York, NY, USA",
+        "global_code": "87G7GQMW+CG"
+      },
+      "reference": "ChIJxW7XeMZKwokRGnSkKpr8gKg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.546049,
+          "lng": -74.192894
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5473850802915,
+            "lng": -74.19153091970848
+          },
+          "southwest": {
+            "lat": 40.5446871197085,
+            "lng": -74.1942288802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Delmar Av",
+      "place_id": "ChIJFTUVPuBKwokRqaWjIEVrupU",
+      "plus_code": {
+        "compound_code": "GRW4+CR New York, NY, USA",
+        "global_code": "87G7GRW4+CR"
+      },
+      "reference": "ChIJFTUVPuBKwokRqaWjIEVrupU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54596699999999,
+          "lng": -74.192886
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54734733029149,
+            "lng": -74.1915713697085
+          },
+          "southwest": {
+            "lat": 40.5446493697085,
+            "lng": -74.1942693302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Delmar Ave",
+      "place_id": "ChIJ4c5KPuBKwokR8Xh__qvpsy4",
+      "plus_code": {
+        "compound_code": "GRW4+9R New York, NY, USA",
+        "global_code": "87G7GRW4+9R"
+      },
+      "reference": "ChIJ4c5KPuBKwokR8Xh__qvpsy4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.546131,
+          "lng": -74.192902
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5474639802915,
+            "lng": -74.1915355197085
+          },
+          "southwest": {
+            "lat": 40.5447660197085,
+            "lng": -74.1942334802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Woodrow Rd/Delmar Ave",
+      "place_id": "ChIJ-VngPeBKwokRy8zfRqRY3_Q",
+      "plus_code": {
+        "compound_code": "GRW4+FR New York, NY, USA",
+        "global_code": "87G7GRW4+FR"
+      },
+      "reference": "ChIJ-VngPeBKwokRy8zfRqRY3_Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.541805,
+          "lng": -74.20811499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54311698029149,
+            "lng": -74.20676256970849
+          },
+          "southwest": {
+            "lat": 40.5404190197085,
+            "lng": -74.2094605302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rossville Ave/Woodrow Rd",
+      "place_id": "ChIJ-Z0V9tBKwokRz3DPRtGdsoM",
+      "plus_code": {
+        "compound_code": "GQRR+PQ New York, NY, USA",
+        "global_code": "87G7GQRR+PQ"
+      },
+      "reference": "ChIJ-Z0V9tBKwokRz3DPRtGdsoM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542257,
+          "lng": -74.2081985
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5435966302915,
+            "lng": -74.20688841970849
+          },
+          "southwest": {
+            "lat": 40.54089866970851,
+            "lng": -74.2095863802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rossville Av/Woodrow Rd",
+      "place_id": "ChIJ42Cy8dBKwokRbNn7JiUvHtA",
+      "plus_code": {
+        "compound_code": "GQRR+WP New York, NY, USA",
+        "global_code": "87G7GQRR+WP"
+      },
+      "reference": "ChIJ42Cy8dBKwokRbNn7JiUvHtA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.532734,
+          "lng": -74.203133
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5340750302915,
+            "lng": -74.2018137697085
+          },
+          "southwest": {
+            "lat": 40.5313770697085,
+            "lng": -74.2045117302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Drumgoole Rd West",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109572410416565422195\">Gerard Gallo</a>"
+          ],
+          "photo_reference": "AU_ZVEFj5y6foIt6tV4HLph6icj8dzzWwZfwG0PhzLqTyweJILHVvHibXueTfTqyXdISajYmAfV-8EgQbYz1cY4ibeWZqPtyqPvGMTY6nBZE2Y3IUFI59Dig1zfB9Q_JQ9X6z-Vfblv6_vItQfSWa8HDvovj47l1PowMrvz_Dv4Jihtj9fK6qAzWyayNtnG9e89hBgvsNfMQ7EJDJ6xslOfyRcRYnpazcABE4b6PSIeFOigwxy1QjZMtS-6A_uCzQlSlXmPvHDOI0RlqPWsT4aM1j0NONsJxPnhlJ7CsjC0rxWqes6OtDZhfiD94E5rIh2NiYuqxyE5gSXHwoxEf5JxyQqzCKE1OjQFAkLbv0TJIGoKUeNMUv4LkBYM1IqNpheyc7xuwci93EzBpA68v66KG0IecaRfp4I72NKB5OF-ZjeZPYDO_qfyoZa-gPK3QZplx_TeTlyAN1zFT3bVIBe4HcAB4A1erbn2zwncHFssSjoqXjJYclWs444BlC14QyMtrZKdzrI6wqyrbWPnKaLI9ZcW2_GnDi4Luoy_CnibC97pteai-JYHe5LMpSrVz-0L1JFYWmy96PMFIMkbY059W7fhYZRgUoWleFyEdEqrl8xwq9rzdd2vsyZea5eOlE4VfMipT_WUT",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJXfyWicZKwokRzXpHtm0QxQE",
+      "plus_code": {
+        "compound_code": "GQMW+3P New York, NY, USA",
+        "global_code": "87G7GQMW+3P"
+      },
+      "rating": 3.3,
+      "reference": "ChIJXfyWicZKwokRzXpHtm0QxQE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5331819,
+          "lng": -74.1923101
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5345557302915,
+            "lng": -74.1910323197085
+          },
+          "southwest": {
+            "lat": 40.5318577697085,
+            "lng": -74.1937302802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Huguenot",
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117148651932775551366\">Ajay Ojha</a>"
+          ],
+          "photo_reference": "AU_ZVEEAkYcq0xRGcGT46KomL9l1psKeBcVh3AdSqVi4ug3BHXzfbKzHU1OTMiZ8wbJ6t12Zvyc2mFi-q6bxfx9DaPzV2udSZJGKGyjqQ4FIgkaWoY9dShEHMZS-VNsSlqCtkaGFpUEjH28oUX6UVT3yDP-o9aAQ7iuS1oa5G9jE4iDtAmuZ4z5Znkt9lZG9k6uJ_3zbsMbtQVHtwpTVFv0Hw31qRTfPh1gov0rJ_IscohRwABDq2Gc26XZPYjCLicwwYcL0JKPVLkTY5YAZtq5yeOMHacBIF2v-2jcuR1qu9aZDgvnvl6HrNzXK8wi6yo-_BQvPHSVErWnJGVlrjSTc2WYCM1kf08KC8oRZhOeWBIfLxHJoE1num9HM5jFYBy0HREl0Lrf9A4rqt2X0p7ZFFsWAumF3FI0OSH2AF66350pFoFJVhXwvQN4nrncHQ1b_wy3S6fkq0OWKT3d_-UGZbbtxPTnocXnS0rbSk_miWVu1N6eRvRviQXB9PlEb7WL2wD___shea7oNnXggT47058icpaL6FjMCH7QUjqO-3oS2Qu9pfHe_G7AGEcdRcox5_ajPIDiwjqMVhg1ipIkkvGM-uPCPwGMuw1UgbW0ikAze6SFVH60RbFAVD3FTCIWJKFlENQ",
+          "width": 1920
+        }
+      ],
+      "place_id": "ChIJm3m6SN9KwokRBUesnVgv5m4",
+      "plus_code": {
+        "compound_code": "GRM5+73 New York, NY, USA",
+        "global_code": "87G7GRM5+73"
+      },
+      "rating": 4.3,
+      "reference": "ChIJm3m6SN9KwokRBUesnVgv5m4",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "340 Huguenot Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542652,
+          "lng": -74.208321
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5440307302915,
+            "lng": -74.20699061970849
+          },
+          "southwest": {
+            "lat": 40.5413327697085,
+            "lng": -74.2096885802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rossville Ave/Woodrow Rd",
+      "place_id": "ChIJnfzL6NBKwokR8mg-SeWhBSI",
+      "plus_code": {
+        "compound_code": "GQVR+3M New York, NY, USA",
+        "global_code": "87G7GQVR+3M"
+      },
+      "rating": 4.5,
+      "reference": "ChIJnfzL6NBKwokR8mg-SeWhBSI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53159,
+          "lng": -74.202957
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5329413802915,
+            "lng": -74.2015760697085
+          },
+          "southwest": {
+            "lat": 40.5302434197085,
+            "lng": -74.20427403029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Foster Rd/Drumgoole Rd East",
+      "place_id": "ChIJLzua-cZKwokRQoEuOZcMlQw",
+      "plus_code": {
+        "compound_code": "GQJW+JR New York, NY, USA",
+        "global_code": "87G7GQJW+JR"
+      },
+      "rating": 5,
+      "reference": "ChIJLzua-cZKwokRQoEuOZcMlQw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

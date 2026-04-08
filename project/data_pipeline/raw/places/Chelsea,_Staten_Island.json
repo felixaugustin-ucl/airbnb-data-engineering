@@ -1,0 +1,3149 @@
+{
+  "neighbourhood": "Chelsea, Staten Island",
+  "centroid": {
+    "lat": 40.59046562886598,
+    "lon": -74.19839296907216
+  },
+  "fetched_at": "2026-04-06T14:14:49.196009+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5888821,
+            "lng": -74.1917012
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5900418802915,
+              "lng": -74.19047851970849
+            },
+            "southwest": {
+              "lat": 40.5873439197085,
+              "lng": -74.1931764802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-477-2695",
+        "name": "Showplace Entertainment Center",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+            ],
+            "photo_reference": "AU_ZVEGOtL-myIJlHq6HAbvuERoPfUcMyl96De8SB7RsyaiPSUFG14QVjkOwN7n32BL5M4JzhP-ElElYdH6p9VZAX2YpQt7LDUOe4BL-F6MimzOlcqz7rF6t-T8p3RQrj7mfqgEpxA7Xa5Kgs_yOoWz0PG4FvL5aahjn7lCkI6ZXM8VudLesb50T_6mafdm-DE2-8GECvnDxuZByVa4xnl53hvFkcbDgp1YWCAfn_mjXaXADZQHSHY4ySN3aFGd8GJapBVgaw98sZkSSOnhGrFq0eTCQIehAgi39XoYZCplkn0aa_L4uyOQ5xowx1DTztNPYd-iPOuVdUFHdspx64zGVHxEyOj4r4EYqQ_fU27HnPOyLzyQYAAO93CIfJzYsiW_kzDzLvxXdRzHeeHVHbAbOu5joHgyQ-DjpxvKhaN1UeUvpfs-0bqDNtFxabhXYm8vJYqHdnvxHrvHCDyI_sxhomxAmSbjIfnWytl6CHDVTgTUGKq46_pE5S3UCsZdgREce_-0aARqLrmj3frHcdOC0iclnWZA0XfKJrq9OxmCukwvWAS1-XbPpv11AQlZjInVHUEoyt7NbtRv4vHMqieGUOf-EJh39ENUoJu4Urc3TrIikPhpP9-3PDs44OuHW36pvDSCNkNwsXWDxkNW5pMv31w",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ1_uCAJ9MwokRaEpb7dRxjsc",
+        "plus_code": {
+          "compound_code": "HRQ5+H8 Staten Island, NY, USA",
+          "global_code": "87G7HRQ5+H8"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ1_uCAJ9MwokRaEpb7dRxjsc",
+        "scope": "GOOGLE",
+        "types": [
+          "bowling_alley",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 683,
+        "vicinity": "141 East Service Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5891808,
+            "lng": -74.1942665
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59054528029149,
+              "lng": -74.1928435697085
+            },
+            "southwest": {
+              "lat": 40.58784731970849,
+              "lng": -74.19554153029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 347-273-8157",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100674004570036809865\">Shyam Patel</a>"
+            ],
+            "photo_reference": "AU_ZVEEbkN0Ik9ijDo1tUbDGLnL_3abUkXdYZ_j8GLQ6GCiAyAKpK92KqK9YC3RDWdwk_t9ImSeVlPEyhl3a7dNQx72Ld_X5en-uEW3iQ_9O-e5Hk43aZwEQbugm8u6NohrsD8EPdrQ2Gb7uuzg8FA0e_9_8VvvGHjlFk0LObblXAQsMDN_QdEE_Nrm6P3HLPGDHLoOV_Oi-yKY9RgTfu-CoV8GC4Ipxcoy2PlFS5Cd6pdJhfOUsKsGaOr1_bFFRBLb856VvMOH_RFMMkiMiByCz4qjEmSGnftqMIUhFMKFx98o9myD-s08jweXXAg5D4I9lxa8Qv2P4tj7885pyNn12Pu-d5o6715noPUdWnmg3l8YHiu2346NtUESO4gD96bvC_GCUYJ7hYI_w6x5pUiKM-BhdezwHG_o6eAYnGlbJCGwl_5hNlI_LroCs4YV0IMJ9HUZ5hDab1Txb8Zq6r6_4kPlH-IRIE8mA9c-f_V_Kp-fEWYQgz9SSw3CkKVJ6gFm83cFOIzWp6tzLyR_jN-47H2DMkdBDOx9jZYKep8GmF_qV_oRavy0svdwP4doISDYLAm1X0xTFBzhJnsJKp_snnUtv6GCyczulArEvP05utvVwvkIXcHM5_wbBXkKzJQAKdL223XaGmSr91VizfZ1C0B8ursY",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJzYyqh59MwokRzwHIoBqk9nk",
+        "plus_code": {
+          "compound_code": "HRQ4+M7 Staten Island, NY, USA",
+          "global_code": "87G7HRQ4+M7"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJzYyqh59MwokRzwHIoBqk9nk",
+        "scope": "GOOGLE",
+        "types": [
+          "bakery",
+          "cafe",
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 207,
+        "vicinity": "180 West Service Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5923437,
+            "lng": -74.18988089999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59363018029149,
+              "lng": -74.18849826970849
+            },
+            "southwest": {
+              "lat": 40.5909322197085,
+              "lng": -74.1911962302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-983-0404",
+        "name": "Better Gourmet Health Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 898,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113436893603627037248\">Better Gourmet Health Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEExSwDCPAMw0XP5ilWsG5O_aOJn99LGc_KSoQTGfh5AiY5igMm7-YMB3u3fR5oNNWebTnphZvSNOQ6vTnZUtbBboJ-3IDEuJN_bA0njIRps_JP49p47oe_au7NfMjRS9m039bQ-itwj-7eYewAyMD_yJSQaP2KvnXx-RpaR3I2n2-3F8rJ_DvCxlD-tjZbppNoQhBMIB8bYzS2jZdhqX0MqytQQmD5fbRCd6z7fSU5LHVOtI-lIvg39ffQOfaQ-ncMhUPPhidkAsqqsZs3_tmUhb-GwsQnq-ZtKDmE0T6X8uuIgic7uRLOFxDqP2mnvUUdr1JMFvY4",
+            "width": 1206
+          }
+        ],
+        "place_id": "ChIJ64pCP5lMwokRbLClM_tGXm8",
+        "plus_code": {
+          "compound_code": "HRR6+W2 Staten Island, NY, USA",
+          "global_code": "87G7HRR6+W2"
+        },
+        "price_level": 1,
+        "rating": 4.1,
+        "reference": "ChIJ64pCP5lMwokRbLClM_tGXm8",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "health",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 159,
+        "vicinity": "4077 Victory Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.590665,
+            "lng": -74.192066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5919754302915,
+              "lng": -74.19076671970849
+            },
+            "southwest": {
+              "lat": 40.5892774697085,
+              "lng": -74.1934646802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-698-4272",
+        "name": "El Pollo",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106450844662142246749\">Seeing the world In a different way</a>"
+            ],
+            "photo_reference": "AU_ZVEGC093Myfcm0u3XMIKZsGfiovFLmePbpesK_C6OGr9GjNj3gQTp0yQb4-ObwMWCw0q5d3bZLzcCQ1HTAUbGVKldmBmb4l0CrjsGcy4O4eYlNmL6PRUmM7leT2tp4XJZt2CEmbr5BMRgp0ys6VJEOCf3iZ2V0F1M0783VnS-Z7SutXpWZ8IUq2UuBimp_CbL6J5yeuMCpTq6oe3T5-3nzQr1KmkGgWqjL0oVFRI5AoOwJHfFKIzyTF1WQ0xwuPA_qeM0l2LgP8cecadt7LsSVHNpAJbjo-DSjtD6HlKbh1lgZB2DiTM9hU5972QAlMFTsd2X4Q6auhVUKBbwm38zwDLScgnqDPggWr-uKfb-6D6C1nZjp-CIiTxGlNOmzrJ4lp2pw-Z5nkBhSiXD-ZtL4V4w-KN7aFWxhzB2dT3gjZBzQ7adisWLhAsUAfLehZfDo6v2KLR90kw4Hy5uYApNPQyVPF358zb1nKdwrQ_UNGBJJAT9P-22uI07kgcmP2QQXwv8HchDpJGKUDB1UChrARJ-QP3thXmr5RKfXLMDgXGSkT4DUR1lQHcEaJqCOpw9wEiOCT2fLlCDc0nQLL_IGoM_RyIiPJw93ENKAQnskOYlxSj_9RLK4LfqKiO-lYHvr4Ck79MU",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJX_32I59MwokR8-qc1xwxL84",
+        "plus_code": {
+          "compound_code": "HRR5+75 New York, NY, USA",
+          "global_code": "87G7HRR5+75"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJX_32I59MwokR8-qc1xwxL84",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 798,
+        "vicinity": "4168-A 4168 Victory Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5876994,
+            "lng": -74.19695229999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58913173029151,
+              "lng": -74.19568931970848
+            },
+            "southwest": {
+              "lat": 40.58643376970851,
+              "lng": -74.1983872802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 201-206-5619",
+        "name": "Lunch By Kim Cooks",
+        "photos": [
+          {
+            "height": 763,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114271509189388558591\">Lunch By Kim Cooks</a>"
+            ],
+            "photo_reference": "AU_ZVEHeU7peNb19b4ZESE8u_V7-wfnTI7kIftfanYMnng7A6GRlrAHL9VY1vQxVNhn93Xv7kwGiNa-D_w1PYtCKaUlFzDNEeXiMkalaApxNEG_CGv_tPwp8tPuOcdgZqIm54dZ5b8Fhkq-0u7RtqUw6Wym8BZjSvnnZKftoAq3zjcLIowbBhVKx6J8oIWs-pKt9KioVqaPg-sinnoKHqRS8ZbNeCSai5x_KFqQshe879dSLw2ehvxrUIts4w-WZlT8BE0-2FJbJsgWjrgK2i6QhVJHEVmrKG2LPNhm59V9GsDI02Q4XaXAQBluxmw1XU3Z1wZ0xmqa6vKg",
+            "width": 1015
+          }
+        ],
+        "place_id": "ChIJO6sQ86NNwokRM0VB9lE6P_E",
+        "plus_code": {
+          "compound_code": "HRQ3+36 Staten Island, NY, USA",
+          "global_code": "87G7HRQ3+36"
+        },
+        "rating": 5,
+        "reference": "ChIJO6sQ86NNwokRM0VB9lE6P_E",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "4358-A Victory Boulevard, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5872467,
+            "lng": -74.1978695
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5886597802915,
+              "lng": -74.1965687197085
+            },
+            "southwest": {
+              "lat": 40.5859618197085,
+              "lng": -74.1992666802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-524-4514",
+        "name": "Dario The Baker Pizzeria",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107409860028964653721\">Dario The Baker Pizzeria</a>"
+            ],
+            "photo_reference": "AU_ZVEHA1h4nZ-rG1TJNn1xosPNnPAKvlxZYzHbRsWjnQHWEIUS3crYQ0rN_YayalrOrptd_QorAi-PLYgOTrx95_GyLG0P2MANLkIzoIFiBKu8ua508tOq2-CpRKDR9M4S_WKSa3SIZSANqbMCWCvSue6FIsEyk3AhpdkMurWPKR1uMILZGfWZDJxRR6Nwso9UZs79OCD8GzjCiey6iLpRa68YEgoUN5_AmSJCyiVX2HtSW1Zx50y-xrhxvNMDNtZi9SrZSpd7JtEWFmqZLd6rpDEZwZzOXH78Tnu-MU229JU-baWi85OCfAk-vvcOL4hTqb01nGmnH99k",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJRTpVlXZNwokRzYtlh47SwgU",
+        "plus_code": {
+          "compound_code": "HRP2+VV Staten Island, NY, USA",
+          "global_code": "87G7HRP2+VV"
+        },
+        "rating": 4.6,
+        "reference": "ChIJRTpVlXZNwokRzYtlh47SwgU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "4392 Victory Boulevard, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.58785089999999,
+            "lng": -74.191524
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58934258029149,
+              "lng": -74.19023541970849
+            },
+            "southwest": {
+              "lat": 40.58664461970849,
+              "lng": -74.1929333802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-825-2813",
+        "name": "Nrgize",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111695381639351317517\">Nrgize</a>"
+            ],
+            "photo_reference": "AU_ZVEF0N7gjECtNala2TdtIcNWeorW7LvFFCtOvOaY7_-2WgUeoPmNi8lzkL9bhxXAPXlk41XmK-yF9au4Zk0fa1dy2W4lRUijULbiVtGqHFGL86E2QgfNJZXGgedIpPawjVqP-VnG4IsTXVoFXziijEBJ1_1qOQsaqE_lPAHC7tZ-UOAqTOGCvkZHFltyXLKjDAsfbSv-YMrdSi9UlRdUewUquMcwSTylmRBxTBJd29yN5fwKuhYBTHFtGOpEcNs8NjhuWCKCrEjF4iq8QPIBN2vQOgum4_jkb2xpEqWDGZlPA4j9VkDFyOPDS0Xz4lydPiqwbg14RYDQ",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJdfApHUxfq1QRJlEayrKdl2A",
+        "plus_code": {
+          "compound_code": "HRQ5+49 Staten Island, NY, USA",
+          "global_code": "87G7HRQ5+49"
+        },
+        "price_level": 1,
+        "rating": 3.5,
+        "reference": "ChIJdfApHUxfq1QRJlEayrKdl2A",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "145 East Service Road, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5907247,
+            "lng": -74.1919673
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59214848029149,
+              "lng": -74.1906920697085
+            },
+            "southwest": {
+              "lat": 40.58945051970849,
+              "lng": -74.19339003029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-954-9862",
+        "name": "Indiyas",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 768,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110220670248430657677\">Indiyas</a>"
+            ],
+            "photo_reference": "AU_ZVEHY0IFzUmk5UdlkolorVOgv4avoJd5H1JLAN7wsP6vi9dN-HQylIVi64yX1GqmkPdcmtHJQEM3AUhzgpxxRDhnHt3eFCeFQpsnmaePuslQhHv5LFyxuswcxNKUnjWpLVQ0ILMU3nvRAgjURYGtubom-pAB_sEx-de5N8YqlwSfQ9mEQdKoqlwyMgzOMx5TuL2hZrOG24Jot8O1toM5y7GwgiN21v1pMWvKk_Ys61WvomViG0nx4kF_anW35odfavp_7esPBz-961dCn812t5C6Ib-68aCQl8E1ast4XWsMJ5eFvXbdryxNUBIraCvXBYcugkzAhIG8",
+            "width": 1366
+          }
+        ],
+        "place_id": "ChIJcbZ57GdNwokRyYX_Q4wmVfo",
+        "plus_code": {
+          "compound_code": "HRR5+76 Staten Island, NY, USA",
+          "global_code": "87G7HRR5+76"
+        },
+        "reference": "ChIJcbZ57GdNwokRyYX_Q4wmVfo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4164 Victory Boulevard, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5907247,
+            "lng": -74.1919673
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59214848029149,
+              "lng": -74.1906920697085
+            },
+            "southwest": {
+              "lat": 40.58945051970849,
+              "lng": -74.19339003029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-683-5923",
+        "name": "VEGAN 15",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2251,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110207965111378342434\">VEGAN 15</a>"
+            ],
+            "photo_reference": "AU_ZVEGrRmXyXJvdeu0Pr4NC_x44ZCsnpzh0xTd6LLOO89Y1pFg6g4E9iLucTmMKMmDypZviDJ6_24ulPXnNrVtnHo_7xL0N0SfHkhENajnzW6Rk4rSKZLuWheTF-98cStH4HrtF69oTRpBXgT75_oyGVm3h4THwVOVm8UMF0wuopXjXpIadmyT33crgrYgI05xhPNPNH_e08jN3-Tah8E1Zhrd_ylcR-aszrIISquYpB9FKU7Vg3mpL3x3ZPaCs03kWLeVzuzzq9Lc04kt5geqKPd49qaIj_e5XYiVFipGUPROUDg7_p61yPYZ2tiJphHO2YV59bT_ezv4",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJA0WmYuhNwokRRgCjCZLtqDk",
+        "plus_code": {
+          "compound_code": "HRR5+76 Staten Island, NY, USA",
+          "global_code": "87G7HRR5+76"
+        },
+        "reference": "ChIJA0WmYuhNwokRRgCjCZLtqDk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "4164 Victory Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5884967,
+            "lng": -74.1914352
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5897663802915,
+              "lng": -74.1901626197085
+            },
+            "southwest": {
+              "lat": 40.58706841970851,
+              "lng": -74.19286058029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tutto L'Italiano",
+        "place_id": "ChIJHS3dUp5MwokR71NbFRRt-Wk",
+        "plus_code": {
+          "compound_code": "HRQ5+9C Staten Island, NY, USA",
+          "global_code": "87G7HRQ5+9C"
+        },
+        "reference": "ChIJHS3dUp5MwokR71NbFRRt-Wk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "141 East Service Road, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5866792,
+            "lng": -74.1909909
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5879965802915,
+              "lng": -74.18970046970848
+            },
+            "southwest": {
+              "lat": 40.5852986197085,
+              "lng": -74.1923984302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Bar290 Bistro",
+        "permanently_closed": true,
+        "place_id": "ChIJgzIZKZ5MwokRr2dDxuh1wgI",
+        "plus_code": {
+          "compound_code": "HRP5+MJ Staten Island, NY, USA",
+          "global_code": "87G7HRP5+MJ"
+        },
+        "reference": "ChIJgzIZKZ5MwokRr2dDxuh1wgI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "290 Wild Avenue, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5888821,
+            "lng": -74.1917012
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5900418802915,
+              "lng": -74.19047851970849
+            },
+            "southwest": {
+              "lat": 40.5873439197085,
+              "lng": -74.1931764802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-477-2695",
+        "name": "Showplace Entertainment Center",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+            ],
+            "photo_reference": "AU_ZVEHXTGVdyHivsO2ceu7ONbwoBQpOFPIGvO0LszktV05JE40aV6wAZ99jQGEaReVqPhfONd1mL_-mjBEK1DRjkvN64keAEhZNtlWhIt3JxZNRa2qkzlOSkqS5SGiqoDC2V6PE8WVxj2OdbhBNgXDz52p3ZAnUoLgHUx-KS3pTzP_DG5_cadBsLNmKAYWgtIqSn4zv8m-HlaDNNf1P7JOu5JdLF8xlma6Eq9fTbzYUR-aAzJDvsrc3vdoO0j_sKMknFJY0ELOMMIZ-lmJLEN4qgJfihjWnByUemZ3V9PQa7yPGaz6i92fHYN1v1HGdU_eG1ixFKzWvYgGo2nDhG1ronqOwipLSxbDYLci-sai7xbMP25wX4vmPvvMQog-LHG-aTDusnuO6FWSV6n8gcJcp7M0T1X7kJICi8ytvZb3rrrVxE-iydy2XK-dIS79TP1zagzx3c35eVeTjIwYcLCpKjllnwlWSUI3gCF2voh9hObBjm-YlIDJWcJ4NnZctdAE6ZmSkDBhaNf6-C88zwOZfh1B_dujsfssT9QjrlRWXuN-kImLCcChqEnhd7CJmHrUOgTKQV8eKQO8CFU1xTp7rDOxcwp9vZNV-AlxwZWn8D_JkQTpP3AF6O9PXm0rNf3py6PzY7cb5l5QJda7B4gIDWQ",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJ1_uCAJ9MwokRaEpb7dRxjsc",
+        "plus_code": {
+          "compound_code": "HRQ5+H8 Staten Island, NY, USA",
+          "global_code": "87G7HRQ5+H8"
+        },
+        "rating": 3.8,
+        "reference": "ChIJ1_uCAJ9MwokRaEpb7dRxjsc",
+        "scope": "GOOGLE",
+        "types": [
+          "bowling_alley",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 683,
+        "vicinity": "141 East Service Road, Staten Island"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5861911,
+            "lng": -74.1902157
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5877001802915,
+              "lng": -74.18890106970849
+            },
+            "southwest": {
+              "lat": 40.5850022197085,
+              "lng": -74.1915990302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 718-370-2008",
+        "name": "Comfort Inn",
+        "photos": [
+          {
+            "height": 600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103537873486847189703\">Comfort Inn</a>"
+            ],
+            "photo_reference": "AU_ZVEH6iBts_dg7wSUsVrUbfTTF3TYOE0t3WM5VCT3DDcWF7YGk1O3d0aohTOK8ibwerRNZ-qYYQWoe8X1V8DcHiSp7jzvdScgZyDDexx968YiDG0jFJl-kUVTJr0A-n-ugIt9Xck2-ncJ355VssPXy68LAlJwmb3z_Dh-AeTf_I_h0WPQlCnb6WOyR9-7f7xk-bTLCiM2n9HBwqmt1PmKUoe-7KC8KQDB9cuvNTRjr9ZN3Iet3iBNbpeeX0xwS-oWwjrgCh7HlKb82NH5FeP5y_NZjd6SpSUig059EDVN8yp9ybVordO5H4DKFqapxXf4eU8wzJ9mqY1w",
+            "width": 1067
+          }
+        ],
+        "place_id": "ChIJcdnQNp5MwokRpKSV0n-Rlr0",
+        "plus_code": {
+          "compound_code": "HRP5+FW Staten Island, NY, USA",
+          "global_code": "87G7HRP5+FW"
+        },
+        "rating": 3.3,
+        "reference": "ChIJcdnQNp5MwokRpKSV0n-Rlr0",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 560,
+        "vicinity": "310 Wild Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58689909999999,
+            "lng": -74.1911844
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58814308029149,
+              "lng": -74.18980866970848
+            },
+            "southwest": {
+              "lat": 40.5854451197085,
+              "lng": -74.19250663029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 718-698-8811",
+        "name": "Fairfield by Marriott Inn & Suites New York Staten Island",
+        "photos": [
+          {
+            "height": 320,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110258130581497644340\">Fairfield by Marriott Inn &amp; Suites New York Staten Island</a>"
+            ],
+            "photo_reference": "AU_ZVEFrNaRVFWWA0pWETOeG6cJPlrs_q33rNCwKWH2yvFkJHD02CwzgS_EAz4CVMozV3qZD6XaLobS7w2kMOnonwZGGTusfE2hAiV3IdDqr4ncvq95mvnGJVzqlDfRyumNiJuYfhs5UOKsQbX51pnOA04OgIjs1sTtOjOXaAQgDilwNp2lN6Y6oeAvN99rmNHRB6T9e4OCdhUAzGFTMLl7glHFlaZ73Vwo9PFKdvwbtvFPtemcduxkRm88Z-BCdy0NXY2iQhg37yLAL-GNeJixgF49ecberiklnOsoV3XwbRxvMqKd1qVpr428xzwJOEUWa0uN_CjgvCwA",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJZeJ0fjRNwokR2gcyT9Banlw",
+        "plus_code": {
+          "compound_code": "HRP5+QG Staten Island, NY, USA",
+          "global_code": "87G7HRP5+QG"
+        },
+        "rating": 3.8,
+        "reference": "ChIJZeJ0fjRNwokR2gcyT9Banlw",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 633,
+        "vicinity": "290 Wild Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5865073,
+            "lng": -74.1904835
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5878990302915,
+              "lng": -74.18927896970848
+            },
+            "southwest": {
+              "lat": 40.5852010697085,
+              "lng": -74.1919769302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 718-370-8770",
+        "name": "Country Inn & Suites by Radisson, Staten Island",
+        "photos": [
+          {
+            "height": 853,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111131486995421627751\">Country Inn &amp; Suites by Radisson, Staten Island</a>"
+            ],
+            "photo_reference": "AU_ZVEH6KbPbOeONj4S6GOataC7Wkingc1TUiCkGOpkaOoko_9OJjGRk6Kf4NNObYPAAQtPlqn-RTfhQnskZ2KbHQZCb9MWLmDDyhqPM8AFUqLrjE_4yuMyG7IgaPfUqpnHRhpEXP2-Vbt34c15pmDHS3kSa4Tbd4NTg_I09k5CczCjX4Ix6ELL3lQggOKYAhs7-ckLSlLBjkVVtoZQ2QG5TihO7XaW4thIf5NdhzcNgUn4mIyBIBph60-us-YCpCqzFfUScKjkuA1HnwB480gjf2Hs4I9h4mXb8CY_ILG5DTa_eRyCr7J_jy8eDh5h-xREaXg9jB4V1",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJqV_sRX5NwokRrM7mCXxPuhk",
+        "plus_code": {
+          "compound_code": "HRP5+JR Staten Island, NY, USA",
+          "global_code": "87G7HRP5+JR"
+        },
+        "rating": 3.1,
+        "reference": "ChIJqV_sRX5NwokRrM7mCXxPuhk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 39,
+        "vicinity": "300 Wild Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5862808,
+            "lng": -74.1903076
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58762043029149,
+              "lng": -74.18894406970848
+            },
+            "southwest": {
+              "lat": 40.5849224697085,
+              "lng": -74.19164203029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Comfort Inn - Queen Room with Two Queen Beds - Accessible/Non-Smoking",
+        "place_id": "ChIJbZUU32FLwokRwatGAH3WvcI",
+        "reference": "ChIJbZUU32FLwokRwatGAH3WvcI",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5862808,
+            "lng": -74.1903076
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58762043029149,
+              "lng": -74.18894406970848
+            },
+            "southwest": {
+              "lat": 40.5849224697085,
+              "lng": -74.19164203029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Comfort Inn - King Room - Non Smoking",
+        "place_id": "ChIJbZUU32FLwokRY2u9JIapS_8",
+        "reference": "ChIJbZUU32FLwokRY2u9JIapS_8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5862808,
+            "lng": -74.1903076
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58762043029149,
+              "lng": -74.18894406970848
+            },
+            "southwest": {
+              "lat": 40.5849224697085,
+              "lng": -74.19164203029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Comfort Inn - Queen Room - Disability Access/Non Smoking",
+        "place_id": "ChIJbZUU32FLwokRfyhGxjPe0b4",
+        "plus_code": {
+          "compound_code": "HRP5+GV New York, NY, USA",
+          "global_code": "87G7HRP5+GV"
+        },
+        "reference": "ChIJbZUU32FLwokRfyhGxjPe0b4",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5862808,
+            "lng": -74.1903076
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58762043029149,
+              "lng": -74.18894406970848
+            },
+            "southwest": {
+              "lat": 40.5849224697085,
+              "lng": -74.19164203029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Comfort Inn - Quadruple Room with Two Queen Beds - Non Smoking",
+        "place_id": "ChIJbZUU32FLwokR8QWCLKdsr8M",
+        "reference": "ChIJbZUU32FLwokR8QWCLKdsr8M",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5899237,
+            "lng": -74.1877854
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5911727302915,
+              "lng": -74.18653456970848
+            },
+            "southwest": {
+              "lat": 40.5884747697085,
+              "lng": -74.18923253029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Schmul Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1199,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113460732275820405323\">Schmul Park</a>"
+            ],
+            "photo_reference": "AU_ZVEFQEod3BRQ-628S93w7ELbFGCw7llc3eZtP9BO6c1clUHpGxbVG2zIYIMxMCci9ouIWsNf20zJRqnTy_BCgZk7bH1yocFyOX0C7Mi7HfW_XsJV0bjZgut-zJEzdCszNfeFCQozBuT-3IMoGBQ_HIceQV1AiA5msJymx0npHVCbmMUkc-NnHptlDhc_gZSR7eTtdJnFwISWzzlTKx6VY20G5RoOMDXSe7s7DvGO5NYBzO0JKOi5vufpOGUwsG7aRPsfSONiljQgSqmNVQ01pZPWLvAbLkaaI5B79FpsfT9TzkAUKGcY6YHqf4avRM_Fxt_Yc8RQUoKc",
+            "width": 1800
+          }
+        ],
+        "place_id": "ChIJW95iP5xMwokRaAF2e-MKZ2w",
+        "plus_code": {
+          "compound_code": "HRQ6+XV Staten Island, NY, USA",
+          "global_code": "87G7HRQ6+XV"
+        },
+        "rating": 4.2,
+        "reference": "ChIJW95iP5xMwokRaAF2e-MKZ2w",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 282,
+        "vicinity": "Wild Ave., Pearson St, Melvin Avenue, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5909655,
+            "lng": -74.192764
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5922942302915,
+              "lng": -74.19146171970849
+            },
+            "southwest": {
+              "lat": 40.58959626970851,
+              "lng": -74.19415968029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Glen St/Victory Bl",
+        "photos": [
+          {
+            "height": 3328,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111187411418383847456\">Jun Batucan</a>"
+            ],
+            "photo_reference": "AU_ZVEH5hujY8tmKBqxT76EMadCfOrQoXLqrBO7wlX3xac7sUdXoOWJInckSdQEn9kP3U5dcJ4IAMr7VUzjOSkXwjdK7Jd_XDVZkbbm8Yq8Hjz8VDtPZCWgye-t7ijhio9isWt7qOZ3tWswyNTC3VdiIphb27l6cIgmPs6h3G2vhRbase7Bgw3VNiucT_Iy8pvWT1MasajIKj4B6VziKs_b6z0enPpV5055pzINpSR9qWxP61mvMtsfxe3LrY1sFsDJNeXu6oj3pFA2Y6wRjbxZnGiT-X1F308EYZd0BawNsoUqAZyhnVUo-6IMys80A3mH4HYMn7EarWmwtsZP9K75lrhUayT1AN6zEBT1btVsXeNCLE2oK5NlKS5f5-WpeM45aI_HACGZGDUvhQUJAl2Wv9U96u9vDWbwO0E6XW-8KGZOEXBVsEhQGFYNOq-haGfGNdBbE3EtuXB00N8ewn49SW_sV0vSHlYDpS-oT_yqiRICtTIRE-qniI0psRTROBi79KlpklD_4cfN_x2dzV0kxuE9Gc9CVMirXehR3uWCQB1tfzhLUN4xQLD_mqjGRHo0t7MV4icfiJsBMJF7fYQec26WtVpMwF3CE-M0waH9gBQy4baekbgj00I9mZ8SnN0NXcdDKuLqC",
+            "width": 1872
+          }
+        ],
+        "place_id": "ChIJUdq3OZ9MwokRn5hFgWG7PDo",
+        "plus_code": {
+          "compound_code": "HRR4+9V New York, NY, USA",
+          "global_code": "87G7HRR4+9V"
+        },
+        "reference": "ChIJUdq3OZ9MwokRn5hFgWG7PDo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.588783,
+            "lng": -74.19574
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5901063802915,
+              "lng": -74.1943636197085
+            },
+            "southwest": {
+              "lat": 40.5874084197085,
+              "lng": -74.19706158029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Feldmeyers Ln",
+        "place_id": "ChIJd-sjOaBMwokRbQqTDW19cIQ",
+        "plus_code": {
+          "compound_code": "HRQ3+GP New York, NY, USA",
+          "global_code": "87G7HRQ3+GP"
+        },
+        "rating": 3,
+        "reference": "ChIJd-sjOaBMwokRbQqTDW19cIQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.588543,
+            "lng": -74.19586199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5898841302915,
+              "lng": -74.1945199197085
+            },
+            "southwest": {
+              "lat": 40.5871861697085,
+              "lng": -74.19721788029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Feldmeyers Ln",
+        "place_id": "ChIJ9VN2P6BMwokREbSRw544s_w",
+        "plus_code": {
+          "compound_code": "HRQ3+CM New York, NY, USA",
+          "global_code": "87G7HRQ3+CM"
+        },
+        "reference": "ChIJ9VN2P6BMwokREbSRw544s_w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58763099999999,
+            "lng": -74.19773099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.58894108029149,
+              "lng": -74.1963425197085
+            },
+            "southwest": {
+              "lat": 40.58624311970849,
+              "lng": -74.1990404802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Con Edison",
+        "place_id": "ChIJs01ngaBMwokRW0WgF4u5jdM",
+        "plus_code": {
+          "compound_code": "HRQ2+3W New York, NY, USA",
+          "global_code": "87G7HRQ2+3W"
+        },
+        "reference": "ChIJs01ngaBMwokRW0WgF4u5jdM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.587334,
+            "lng": -74.197807
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5887248302915,
+              "lng": -74.1965007197085
+            },
+            "southwest": {
+              "lat": 40.5860268697085,
+              "lng": -74.19919868029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Wild Ave",
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113591778102443980687\">brendan kane</a>"
+            ],
+            "photo_reference": "AU_ZVEGBkezKntDsDNS3RyZ6e2Pz1FszNtlJcuXICxhfELlalDj52_VHFZqCzY8XyMhRZHTBJ9BanwH3R5bGf0yR3IrFKRHm5FBCF0jyhFuvcbnWypS2wUbMVWeeadOE5W5wPrhq2aeUgj1q1M_0maUnzEAnJIUmmiZ-2BsO3I82XhMt4dUQt8I15JCJnO65E0J7Asqb1DLcq6--gEib5-2AUCkTgd8mBs02yfVG_L3wWBx1I8v0IFSYSelie1DNuTqIJ9LS3n4X9xkXA4riFOlABh1PDbcassy4sXSPcli-kxQPYn3buyOGTpbPQhU4XOxJ8Ze_fHg4NQlbu39zoqIUhEPG06IO0AqMH8ALDVox3Qi90t-QIwyZk9d74wNu4ae8Xp3Dj8p6G_LU7vJW7QZjzktgfVRmFFio-R7SqyGsevO89EBo4X2HhTN8NoUZDFBSx2egudBSQUhm1_qek5otYJioc2IBYP3iO43OhPF0jXM39Bu38sgNN4J1-R1nN7byVNX98LXEL02YHqy5fDz_9fiM8VWxv-Vma0nLzN92i-OObaHGhhYDjS9XZZlWcO96GM9ugdR4GbXTO1OX_bhpcOTAHjLV4_BQaDAbb-K_UTeMSGG_IA2buD3cwlEjGgmhx2Nu9hO8",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJg3rCfV9LwokRo6ky6_E8T2c",
+        "plus_code": {
+          "compound_code": "HRP2+WV New York, NY, USA",
+          "global_code": "87G7HRP2+WV"
+        },
+        "rating": 1.5,
+        "reference": "ChIJg3rCfV9LwokRo6ky6_E8T2c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58960699999999,
+            "lng": -74.194069
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5909571302915,
+              "lng": -74.1927404697085
+            },
+            "southwest": {
+              "lat": 40.5882591697085,
+              "lng": -74.1954384302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "West Shore Expy/Victory Blvd",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105709809239640223097\">Abiodun Adeyemi</a>"
+            ],
+            "photo_reference": "AU_ZVEGTxE4YeKpT9rZcsOASjkzTss3nMe_011EsV_9-CsKv_Ed6FxloL8lhzZKM3kcM6MNikEGsmSnuZP1dOqx9EKZbUKyrMeVXUgefKxRu639cvEV89_Zd0qzhnbexl-WFKmu6Lj62lfbQv_c1bOucvXuWe-apjNXvpcMWmsLV8lVQ-CKI-9yadzCYXY_-tmH1fsUcEA9HGfGsX8FgXWurmyKZg40M-YippuoNpfpznAkbKN0DKTg9lm12GGhToSKHxZTaioAgRMZg1bkn72CkHX4LyIkldzgRB5xuDn6-70QGXKtlOIH8fNe076Bkvvl6rxQv52U1iV1Lx9ZmFpBylmIwWQYfKuxpyRS8m-0dStBEMP8z_bGVfWytOiK09FjKuzBVrXIO7lHHCTI7m-LcusyPVroeqpqta6cMoeeR-TjqqIq587CfHXhM2IUyLGDQcyaedSo8TcYQbfF8vVyEOL-Pl-yBWG4ihAAq3NyGzM8ojEVAUJvHB7AOMI5VAgTbNwZlJ7hbHhQvq-gV33QbUwJZcqsdP8Gi1MC8N-V5KUtZ15BXPgcGaVwVBKKSAYw69ywZe1TL2_f2ttPYfR938nz2VqkSDh67VA-xMVFzWwSUa5CuzXlegK8MLe3rQW4UK3Z-iA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJm7VLeZ9MwokRYBE1DGhWJ14",
+        "plus_code": {
+          "compound_code": "HRQ4+R9 New York, NY, USA",
+          "global_code": "87G7HRQ4+R9"
+        },
+        "rating": 5,
+        "reference": "ChIJm7VLeZ9MwokRYBE1DGhWJ14",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5867,
+            "lng": -74.199158
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5880638302915,
+              "lng": -74.1977635697085
+            },
+            "southwest": {
+              "lat": 40.5853658697085,
+              "lng": -74.2004615302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Con Edison Bus Loop",
+        "place_id": "ChIJyUyYQ19LwokRkIFo8qjppmI",
+        "plus_code": {
+          "compound_code": "HRP2+M8 New York, NY, USA",
+          "global_code": "87G7HRP2+M8"
+        },
+        "reference": "ChIJyUyYQ19LwokRkIFo8qjppmI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.590584,
+            "lng": -74.192802
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59189943029151,
+              "lng": -74.1914186697085
+            },
+            "southwest": {
+              "lat": 40.58920146970851,
+              "lng": -74.1941166302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Glen St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109872627124311468842\">Sleek Sleek</a>"
+            ],
+            "photo_reference": "AU_ZVEE6pEYCxruMuzHyddzaKcHpEeX9I8A-E3FGCrDLdzjqJPOzKuGspDvTDa73WYbJkSTeQIfqQRBvfrAggm4SrtklHsfU-chudHYqMFeM7EmQ1n_6POMSQqTum5ohK0j7y78srf6KT3-4FzUococ_CuSwfFwA5Zc0OF9QtzhphsWNQj-JaL09BAu4ZCZGxhlbK6EaZcptF0Fu-G30CM74oNBzpOAPAv8XbT-5HWI2x1LvvFuKmvVmq_rQogjq2GfEzXQzEcXuHET8nvs4vAzrNV_Hoig3OznoOYLWmNAQeW_YyzsmLmq1CkWT_FdIetBQ4epzQ_e3LC67azQLkKMY5LEU28ru55nv1K2Ic8a9pRR2eXO3dNDyDDuXSmS1FbGDgsMN4YX6iRMmtw0uzH-JisIoD1Zi19JhsUJhhr7-evgmjF-Bg8ILk8iV75U-yWGD9_jP16sTv0EJnFHY5TTz72EYLiSTYQMw_Yrrjq68eI4ujw2ocjNLUBEaTgRJrjhWzWzG0nS2Zxu0Fhuq6cAUlzjfbE9ZXbEOXRW7He6dX-9oUl9iQyY_DSAJN0GaIPLWKHMeuuPRB_hqGmIrRIX2kYrcY5n3zRzLwhtEpdqDm_kp3eY745JD3BffbiAZjloEBuZ8ysAl",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ9eGnP59MwokRl_fVPbxANmg",
+        "plus_code": {
+          "compound_code": "HRR4+6V New York, NY, USA",
+          "global_code": "87G7HRR4+6V"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ9eGnP59MwokRl_fVPbxANmg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5908957,
+            "lng": -74.1927784
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5922789302915,
+              "lng": -74.1914781697085
+            },
+            "southwest": {
+              "lat": 40.5895809697085,
+              "lng": -74.19417613029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Glen St/Victory Blvd",
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110385135386761533761\">Eric Knoblauch</a>"
+            ],
+            "photo_reference": "AU_ZVEE04bGN9CSR4jcymulgTfvKycZ3mU39bJSc8YbypLqWgrkPWWuPzDF9fSK-eTA_TYDEsPSus3TJskVHa5e1FqaMif3fFmOUMg4-01H_jDJ4Jr7uWRHVa-P59E0hTtfOrNvPcQpsJP_a7BT9I7axNj2vc5EdwCO8SS3FcIwXD-EvskZarbgC4eyDoknIYEgkggy2E0kaD9eVHoUnAl4MqV_ZJ5h0NdwzzRtYg2heQILnxcL2nN3kD9WKmU0JMu3pcRFgfjQ5v9oLVGTp9EqADFabs_jv6OKlgX0Mw2dJywWWjBxDFcovagvONtuZkxHJVQUCScOruAhTg3HTnyeaOuqIS_zmZhsv0b8rVoOBPNGYmfQ9L6abxzer23Tg0Mh57r4rHE3oB3cz42Id-AglcjP-I8SfetfhYg-pK1Cv8evNY7aDw62xfDBAuTVI_k2x7JRIl3P8HcneTP34PAMoi7KvC-9PpJ7I0qsr6oun7nGP4jedMWe0nlBndFe9AJRakTAwQEnKDmq9hq21YbOYaas62P_JCUtvctAOhGTWj68AwyXQSbkub-XWgBo6g3ZPYvBBqUJpz0kQMLwMNola7w26dze-T789F5qYPS6w-3UYDj1ZoRDqSYeoKAvVTcS9wUiCFA",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJ9YkdNJ9MwokRwYII1O7yUtI",
+        "plus_code": {
+          "compound_code": "HRR4+9V New York, NY, USA",
+          "global_code": "87G7HRR4+9V"
+        },
+        "rating": 5,
+        "reference": "ChIJ9YkdNJ9MwokRwYII1O7yUtI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.590881,
+            "lng": -74.191963
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59225318029149,
+              "lng": -74.1906364197085
+            },
+            "southwest": {
+              "lat": 40.58955521970849,
+              "lng": -74.19333438029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Alberta Ave",
+        "place_id": "ChIJuVvsJZ9MwokRm6c85dmgs-A",
+        "plus_code": {
+          "compound_code": "HRR5+96 New York, NY, USA",
+          "global_code": "87G7HRR5+96"
+        },
+        "rating": 3,
+        "reference": "ChIJuVvsJZ9MwokRm6c85dmgs-A",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.591961,
+            "lng": -74.190197
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5933060802915,
+              "lng": -74.1888440697085
+            },
+            "southwest": {
+              "lat": 40.59060811970851,
+              "lng": -74.1915420302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Bl/Wild Av",
+        "place_id": "ChIJ088vOJlMwokRe1xnSnf8X-4",
+        "plus_code": {
+          "compound_code": "HRR5+QW New York, NY, USA",
+          "global_code": "87G7HRR5+QW"
+        },
+        "reference": "ChIJ088vOJlMwokRe1xnSnf8X-4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.591759,
+            "lng": -74.19075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5930791802915,
+              "lng": -74.1893714197085
+            },
+            "southwest": {
+              "lat": 40.5903812197085,
+              "lng": -74.1920693802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Wild Ave",
+        "place_id": "ChIJM__mMZlMwokRPGv-bvEM96k",
+        "plus_code": {
+          "compound_code": "HRR5+PP New York, NY, USA",
+          "global_code": "87G7HRR5+PP"
+        },
+        "reference": "ChIJM__mMZlMwokRPGv-bvEM96k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59217799999999,
+            "lng": -74.189667
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59356768029149,
+              "lng": -74.18835906970848
+            },
+            "southwest": {
+              "lat": 40.59086971970849,
+              "lng": -74.1910570302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Wild Ave",
+        "place_id": "ChIJF0H4Q5lMwokRPoCF9e0TSXA",
+        "plus_code": {
+          "compound_code": "HRR6+V4 New York, NY, USA",
+          "global_code": "87G7HRR6+V4"
+        },
+        "reference": "ChIJF0H4Q5lMwokRPoCF9e0TSXA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59316250000001,
+            "lng": -74.1881635
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5945049802915,
+              "lng": -74.1868077697085
+            },
+            "southwest": {
+              "lat": 40.5918070197085,
+              "lng": -74.1895057302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Bl/Burke Av",
+        "place_id": "ChIJPV1a0ZtMwokR9yG0ueyVikI",
+        "plus_code": {
+          "compound_code": "HRV6+7P New York, NY, USA",
+          "global_code": "87G7HRV6+7P"
+        },
+        "reference": "ChIJPV1a0ZtMwokR9yG0ueyVikI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59322700000001,
+            "lng": -74.188255
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59454823029149,
+              "lng": -74.18687746970849
+            },
+            "southwest": {
+              "lat": 40.5918502697085,
+              "lng": -74.18957543029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Burke Ave",
+        "place_id": "ChIJ4S2r1ptMwokRBv4eYRBVeg8",
+        "plus_code": {
+          "compound_code": "HRV6+7M New York, NY, USA",
+          "global_code": "87G7HRV6+7M"
+        },
+        "reference": "ChIJ4S2r1ptMwokRBv4eYRBVeg8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59314,
+            "lng": -74.18811
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5945149302915,
+              "lng": -74.18678776970849
+            },
+            "southwest": {
+              "lat": 40.5918169697085,
+              "lng": -74.1894857302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Victory Blvd/Burke Ave",
+        "photos": [
+          {
+            "height": 3328,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111187411418383847456\">Jun Batucan</a>"
+            ],
+            "photo_reference": "AU_ZVEGkCfkvgDvGngsBbE9VZmDzTJmMPzD98xk98Y1EXMOntuT5bdcVIRaFkKZwL9Udjrcwy7jyD2cSf4MuQTe6mmHcNsdCa6gXMiv2jLakXcNvuuNOIYRwR5YiRvSTT2LJ03wGwNSeymMV5eq9Z-arS7y0E9mJV8_aJg6OyG2ecfD6g68GdogBQMLdRwg3Pb0zYW-CaSw_xtxooRTJfZ89o931sBvCdb9-PJJiImSM4g6brzqxOt7ikZUHaTj7vehLk_gTJMmfppAuUHSYb7H-DHKYIvHHlSKlJt_ywbwUXSiGCjkrX-Qcxncz4AXZ44se4dSzvOKSpojyKcVftkxjKLGuieBDhEtn5Rd0Z4K0VtSPiE36_OFf9fC-Pd8bIYx9saB1pU05KH155prC9zNomyo4I1D5Dcj1RSBs-f7bSWAy0aAojyolF_m416yf6nwXNPIaTo3Qbz_KYNgJF2_91QKiNPdNfkYMVHJPtvodgsKqQMfsYdf1w2LENoBGxEiXneWtbmbVO_HyidBn6XKQar_j1D7bOTse9ORXvsavvl8Utr8IXR2weBivsZLLP_29tiDCJyLp68JTqUzeEQR629lwl7vWd1UX2ivVXZFjAzwASdzM9NvRA78-Dg3TUSk2",
+            "width": 1872
+          }
+        ],
+        "place_id": "ChIJT45o0ZtMwokRTrvsTywjcoU",
+        "plus_code": {
+          "compound_code": "HRV6+7Q New York, NY, USA",
+          "global_code": "87G7HRV6+7Q"
+        },
+        "rating": 4,
+        "reference": "ChIJT45o0ZtMwokRTrvsTywjcoU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5888821,
+          "lng": -74.1917012
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5900418802915,
+            "lng": -74.19047851970849
+          },
+          "southwest": {
+            "lat": 40.5873439197085,
+            "lng": -74.1931764802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-477-2695",
+      "name": "Showplace Entertainment Center",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111654318848895716760\">Moe Thanks -555-</a>"
+          ],
+          "photo_reference": "AU_ZVEGOtL-myIJlHq6HAbvuERoPfUcMyl96De8SB7RsyaiPSUFG14QVjkOwN7n32BL5M4JzhP-ElElYdH6p9VZAX2YpQt7LDUOe4BL-F6MimzOlcqz7rF6t-T8p3RQrj7mfqgEpxA7Xa5Kgs_yOoWz0PG4FvL5aahjn7lCkI6ZXM8VudLesb50T_6mafdm-DE2-8GECvnDxuZByVa4xnl53hvFkcbDgp1YWCAfn_mjXaXADZQHSHY4ySN3aFGd8GJapBVgaw98sZkSSOnhGrFq0eTCQIehAgi39XoYZCplkn0aa_L4uyOQ5xowx1DTztNPYd-iPOuVdUFHdspx64zGVHxEyOj4r4EYqQ_fU27HnPOyLzyQYAAO93CIfJzYsiW_kzDzLvxXdRzHeeHVHbAbOu5joHgyQ-DjpxvKhaN1UeUvpfs-0bqDNtFxabhXYm8vJYqHdnvxHrvHCDyI_sxhomxAmSbjIfnWytl6CHDVTgTUGKq46_pE5S3UCsZdgREce_-0aARqLrmj3frHcdOC0iclnWZA0XfKJrq9OxmCukwvWAS1-XbPpv11AQlZjInVHUEoyt7NbtRv4vHMqieGUOf-EJh39ENUoJu4Urc3TrIikPhpP9-3PDs44OuHW36pvDSCNkNwsXWDxkNW5pMv31w",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJ1_uCAJ9MwokRaEpb7dRxjsc",
+      "plus_code": {
+        "compound_code": "HRQ5+H8 Staten Island, NY, USA",
+        "global_code": "87G7HRQ5+H8"
+      },
+      "rating": 3.8,
+      "reference": "ChIJ1_uCAJ9MwokRaEpb7dRxjsc",
+      "scope": "GOOGLE",
+      "types": [
+        "bowling_alley",
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 683,
+      "vicinity": "141 East Service Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5891808,
+          "lng": -74.1942665
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59054528029149,
+            "lng": -74.1928435697085
+          },
+          "southwest": {
+            "lat": 40.58784731970849,
+            "lng": -74.19554153029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 347-273-8157",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100674004570036809865\">Shyam Patel</a>"
+          ],
+          "photo_reference": "AU_ZVEEbkN0Ik9ijDo1tUbDGLnL_3abUkXdYZ_j8GLQ6GCiAyAKpK92KqK9YC3RDWdwk_t9ImSeVlPEyhl3a7dNQx72Ld_X5en-uEW3iQ_9O-e5Hk43aZwEQbugm8u6NohrsD8EPdrQ2Gb7uuzg8FA0e_9_8VvvGHjlFk0LObblXAQsMDN_QdEE_Nrm6P3HLPGDHLoOV_Oi-yKY9RgTfu-CoV8GC4Ipxcoy2PlFS5Cd6pdJhfOUsKsGaOr1_bFFRBLb856VvMOH_RFMMkiMiByCz4qjEmSGnftqMIUhFMKFx98o9myD-s08jweXXAg5D4I9lxa8Qv2P4tj7885pyNn12Pu-d5o6715noPUdWnmg3l8YHiu2346NtUESO4gD96bvC_GCUYJ7hYI_w6x5pUiKM-BhdezwHG_o6eAYnGlbJCGwl_5hNlI_LroCs4YV0IMJ9HUZ5hDab1Txb8Zq6r6_4kPlH-IRIE8mA9c-f_V_Kp-fEWYQgz9SSw3CkKVJ6gFm83cFOIzWp6tzLyR_jN-47H2DMkdBDOx9jZYKep8GmF_qV_oRavy0svdwP4doISDYLAm1X0xTFBzhJnsJKp_snnUtv6GCyczulArEvP05utvVwvkIXcHM5_wbBXkKzJQAKdL223XaGmSr91VizfZ1C0B8ursY",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJzYyqh59MwokRzwHIoBqk9nk",
+      "plus_code": {
+        "compound_code": "HRQ4+M7 Staten Island, NY, USA",
+        "global_code": "87G7HRQ4+M7"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJzYyqh59MwokRzwHIoBqk9nk",
+      "scope": "GOOGLE",
+      "types": [
+        "bakery",
+        "cafe",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 207,
+      "vicinity": "180 West Service Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5923437,
+          "lng": -74.18988089999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59363018029149,
+            "lng": -74.18849826970849
+          },
+          "southwest": {
+            "lat": 40.5909322197085,
+            "lng": -74.1911962302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-983-0404",
+      "name": "Better Gourmet Health Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 898,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113436893603627037248\">Better Gourmet Health Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEExSwDCPAMw0XP5ilWsG5O_aOJn99LGc_KSoQTGfh5AiY5igMm7-YMB3u3fR5oNNWebTnphZvSNOQ6vTnZUtbBboJ-3IDEuJN_bA0njIRps_JP49p47oe_au7NfMjRS9m039bQ-itwj-7eYewAyMD_yJSQaP2KvnXx-RpaR3I2n2-3F8rJ_DvCxlD-tjZbppNoQhBMIB8bYzS2jZdhqX0MqytQQmD5fbRCd6z7fSU5LHVOtI-lIvg39ffQOfaQ-ncMhUPPhidkAsqqsZs3_tmUhb-GwsQnq-ZtKDmE0T6X8uuIgic7uRLOFxDqP2mnvUUdr1JMFvY4",
+          "width": 1206
+        }
+      ],
+      "place_id": "ChIJ64pCP5lMwokRbLClM_tGXm8",
+      "plus_code": {
+        "compound_code": "HRR6+W2 Staten Island, NY, USA",
+        "global_code": "87G7HRR6+W2"
+      },
+      "price_level": 1,
+      "rating": 4.1,
+      "reference": "ChIJ64pCP5lMwokRbLClM_tGXm8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 159,
+      "vicinity": "4077 Victory Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.590665,
+          "lng": -74.192066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5919754302915,
+            "lng": -74.19076671970849
+          },
+          "southwest": {
+            "lat": 40.5892774697085,
+            "lng": -74.1934646802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-698-4272",
+      "name": "El Pollo",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106450844662142246749\">Seeing the world In a different way</a>"
+          ],
+          "photo_reference": "AU_ZVEGC093Myfcm0u3XMIKZsGfiovFLmePbpesK_C6OGr9GjNj3gQTp0yQb4-ObwMWCw0q5d3bZLzcCQ1HTAUbGVKldmBmb4l0CrjsGcy4O4eYlNmL6PRUmM7leT2tp4XJZt2CEmbr5BMRgp0ys6VJEOCf3iZ2V0F1M0783VnS-Z7SutXpWZ8IUq2UuBimp_CbL6J5yeuMCpTq6oe3T5-3nzQr1KmkGgWqjL0oVFRI5AoOwJHfFKIzyTF1WQ0xwuPA_qeM0l2LgP8cecadt7LsSVHNpAJbjo-DSjtD6HlKbh1lgZB2DiTM9hU5972QAlMFTsd2X4Q6auhVUKBbwm38zwDLScgnqDPggWr-uKfb-6D6C1nZjp-CIiTxGlNOmzrJ4lp2pw-Z5nkBhSiXD-ZtL4V4w-KN7aFWxhzB2dT3gjZBzQ7adisWLhAsUAfLehZfDo6v2KLR90kw4Hy5uYApNPQyVPF358zb1nKdwrQ_UNGBJJAT9P-22uI07kgcmP2QQXwv8HchDpJGKUDB1UChrARJ-QP3thXmr5RKfXLMDgXGSkT4DUR1lQHcEaJqCOpw9wEiOCT2fLlCDc0nQLL_IGoM_RyIiPJw93ENKAQnskOYlxSj_9RLK4LfqKiO-lYHvr4Ck79MU",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJX_32I59MwokR8-qc1xwxL84",
+      "plus_code": {
+        "compound_code": "HRR5+75 New York, NY, USA",
+        "global_code": "87G7HRR5+75"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJX_32I59MwokR8-qc1xwxL84",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 798,
+      "vicinity": "4168-A 4168 Victory Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5876994,
+          "lng": -74.19695229999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58913173029151,
+            "lng": -74.19568931970848
+          },
+          "southwest": {
+            "lat": 40.58643376970851,
+            "lng": -74.1983872802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 201-206-5619",
+      "name": "Lunch By Kim Cooks",
+      "photos": [
+        {
+          "height": 763,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114271509189388558591\">Lunch By Kim Cooks</a>"
+          ],
+          "photo_reference": "AU_ZVEHeU7peNb19b4ZESE8u_V7-wfnTI7kIftfanYMnng7A6GRlrAHL9VY1vQxVNhn93Xv7kwGiNa-D_w1PYtCKaUlFzDNEeXiMkalaApxNEG_CGv_tPwp8tPuOcdgZqIm54dZ5b8Fhkq-0u7RtqUw6Wym8BZjSvnnZKftoAq3zjcLIowbBhVKx6J8oIWs-pKt9KioVqaPg-sinnoKHqRS8ZbNeCSai5x_KFqQshe879dSLw2ehvxrUIts4w-WZlT8BE0-2FJbJsgWjrgK2i6QhVJHEVmrKG2LPNhm59V9GsDI02Q4XaXAQBluxmw1XU3Z1wZ0xmqa6vKg",
+          "width": 1015
+        }
+      ],
+      "place_id": "ChIJO6sQ86NNwokRM0VB9lE6P_E",
+      "plus_code": {
+        "compound_code": "HRQ3+36 Staten Island, NY, USA",
+        "global_code": "87G7HRQ3+36"
+      },
+      "rating": 5,
+      "reference": "ChIJO6sQ86NNwokRM0VB9lE6P_E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "4358-A Victory Boulevard, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5872467,
+          "lng": -74.1978695
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5886597802915,
+            "lng": -74.1965687197085
+          },
+          "southwest": {
+            "lat": 40.5859618197085,
+            "lng": -74.1992666802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-524-4514",
+      "name": "Dario The Baker Pizzeria",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107409860028964653721\">Dario The Baker Pizzeria</a>"
+          ],
+          "photo_reference": "AU_ZVEHA1h4nZ-rG1TJNn1xosPNnPAKvlxZYzHbRsWjnQHWEIUS3crYQ0rN_YayalrOrptd_QorAi-PLYgOTrx95_GyLG0P2MANLkIzoIFiBKu8ua508tOq2-CpRKDR9M4S_WKSa3SIZSANqbMCWCvSue6FIsEyk3AhpdkMurWPKR1uMILZGfWZDJxRR6Nwso9UZs79OCD8GzjCiey6iLpRa68YEgoUN5_AmSJCyiVX2HtSW1Zx50y-xrhxvNMDNtZi9SrZSpd7JtEWFmqZLd6rpDEZwZzOXH78Tnu-MU229JU-baWi85OCfAk-vvcOL4hTqb01nGmnH99k",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJRTpVlXZNwokRzYtlh47SwgU",
+      "plus_code": {
+        "compound_code": "HRP2+VV Staten Island, NY, USA",
+        "global_code": "87G7HRP2+VV"
+      },
+      "rating": 4.6,
+      "reference": "ChIJRTpVlXZNwokRzYtlh47SwgU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "4392 Victory Boulevard, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.58785089999999,
+          "lng": -74.191524
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58934258029149,
+            "lng": -74.19023541970849
+          },
+          "southwest": {
+            "lat": 40.58664461970849,
+            "lng": -74.1929333802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-825-2813",
+      "name": "Nrgize",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111695381639351317517\">Nrgize</a>"
+          ],
+          "photo_reference": "AU_ZVEF0N7gjECtNala2TdtIcNWeorW7LvFFCtOvOaY7_-2WgUeoPmNi8lzkL9bhxXAPXlk41XmK-yF9au4Zk0fa1dy2W4lRUijULbiVtGqHFGL86E2QgfNJZXGgedIpPawjVqP-VnG4IsTXVoFXziijEBJ1_1qOQsaqE_lPAHC7tZ-UOAqTOGCvkZHFltyXLKjDAsfbSv-YMrdSi9UlRdUewUquMcwSTylmRBxTBJd29yN5fwKuhYBTHFtGOpEcNs8NjhuWCKCrEjF4iq8QPIBN2vQOgum4_jkb2xpEqWDGZlPA4j9VkDFyOPDS0Xz4lydPiqwbg14RYDQ",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJdfApHUxfq1QRJlEayrKdl2A",
+      "plus_code": {
+        "compound_code": "HRQ5+49 Staten Island, NY, USA",
+        "global_code": "87G7HRQ5+49"
+      },
+      "price_level": 1,
+      "rating": 3.5,
+      "reference": "ChIJdfApHUxfq1QRJlEayrKdl2A",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "145 East Service Road, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5907247,
+          "lng": -74.1919673
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59214848029149,
+            "lng": -74.1906920697085
+          },
+          "southwest": {
+            "lat": 40.58945051970849,
+            "lng": -74.19339003029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-954-9862",
+      "name": "Indiyas",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 768,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110220670248430657677\">Indiyas</a>"
+          ],
+          "photo_reference": "AU_ZVEHY0IFzUmk5UdlkolorVOgv4avoJd5H1JLAN7wsP6vi9dN-HQylIVi64yX1GqmkPdcmtHJQEM3AUhzgpxxRDhnHt3eFCeFQpsnmaePuslQhHv5LFyxuswcxNKUnjWpLVQ0ILMU3nvRAgjURYGtubom-pAB_sEx-de5N8YqlwSfQ9mEQdKoqlwyMgzOMx5TuL2hZrOG24Jot8O1toM5y7GwgiN21v1pMWvKk_Ys61WvomViG0nx4kF_anW35odfavp_7esPBz-961dCn812t5C6Ib-68aCQl8E1ast4XWsMJ5eFvXbdryxNUBIraCvXBYcugkzAhIG8",
+          "width": 1366
+        }
+      ],
+      "place_id": "ChIJcbZ57GdNwokRyYX_Q4wmVfo",
+      "plus_code": {
+        "compound_code": "HRR5+76 Staten Island, NY, USA",
+        "global_code": "87G7HRR5+76"
+      },
+      "reference": "ChIJcbZ57GdNwokRyYX_Q4wmVfo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4164 Victory Boulevard, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5907247,
+          "lng": -74.1919673
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59214848029149,
+            "lng": -74.1906920697085
+          },
+          "southwest": {
+            "lat": 40.58945051970849,
+            "lng": -74.19339003029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-683-5923",
+      "name": "VEGAN 15",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2251,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110207965111378342434\">VEGAN 15</a>"
+          ],
+          "photo_reference": "AU_ZVEGrRmXyXJvdeu0Pr4NC_x44ZCsnpzh0xTd6LLOO89Y1pFg6g4E9iLucTmMKMmDypZviDJ6_24ulPXnNrVtnHo_7xL0N0SfHkhENajnzW6Rk4rSKZLuWheTF-98cStH4HrtF69oTRpBXgT75_oyGVm3h4THwVOVm8UMF0wuopXjXpIadmyT33crgrYgI05xhPNPNH_e08jN3-Tah8E1Zhrd_ylcR-aszrIISquYpB9FKU7Vg3mpL3x3ZPaCs03kWLeVzuzzq9Lc04kt5geqKPd49qaIj_e5XYiVFipGUPROUDg7_p61yPYZ2tiJphHO2YV59bT_ezv4",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJA0WmYuhNwokRRgCjCZLtqDk",
+      "plus_code": {
+        "compound_code": "HRR5+76 Staten Island, NY, USA",
+        "global_code": "87G7HRR5+76"
+      },
+      "reference": "ChIJA0WmYuhNwokRRgCjCZLtqDk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4164 Victory Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5884967,
+          "lng": -74.1914352
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5897663802915,
+            "lng": -74.1901626197085
+          },
+          "southwest": {
+            "lat": 40.58706841970851,
+            "lng": -74.19286058029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tutto L'Italiano",
+      "place_id": "ChIJHS3dUp5MwokR71NbFRRt-Wk",
+      "plus_code": {
+        "compound_code": "HRQ5+9C Staten Island, NY, USA",
+        "global_code": "87G7HRQ5+9C"
+      },
+      "reference": "ChIJHS3dUp5MwokR71NbFRRt-Wk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "141 East Service Road, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5866792,
+          "lng": -74.1909909
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5879965802915,
+            "lng": -74.18970046970848
+          },
+          "southwest": {
+            "lat": 40.5852986197085,
+            "lng": -74.1923984302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Bar290 Bistro",
+      "permanently_closed": true,
+      "place_id": "ChIJgzIZKZ5MwokRr2dDxuh1wgI",
+      "plus_code": {
+        "compound_code": "HRP5+MJ Staten Island, NY, USA",
+        "global_code": "87G7HRP5+MJ"
+      },
+      "reference": "ChIJgzIZKZ5MwokRr2dDxuh1wgI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "290 Wild Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5861911,
+          "lng": -74.1902157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5877001802915,
+            "lng": -74.18890106970849
+          },
+          "southwest": {
+            "lat": 40.5850022197085,
+            "lng": -74.1915990302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 718-370-2008",
+      "name": "Comfort Inn",
+      "photos": [
+        {
+          "height": 600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103537873486847189703\">Comfort Inn</a>"
+          ],
+          "photo_reference": "AU_ZVEH6iBts_dg7wSUsVrUbfTTF3TYOE0t3WM5VCT3DDcWF7YGk1O3d0aohTOK8ibwerRNZ-qYYQWoe8X1V8DcHiSp7jzvdScgZyDDexx968YiDG0jFJl-kUVTJr0A-n-ugIt9Xck2-ncJ355VssPXy68LAlJwmb3z_Dh-AeTf_I_h0WPQlCnb6WOyR9-7f7xk-bTLCiM2n9HBwqmt1PmKUoe-7KC8KQDB9cuvNTRjr9ZN3Iet3iBNbpeeX0xwS-oWwjrgCh7HlKb82NH5FeP5y_NZjd6SpSUig059EDVN8yp9ybVordO5H4DKFqapxXf4eU8wzJ9mqY1w",
+          "width": 1067
+        }
+      ],
+      "place_id": "ChIJcdnQNp5MwokRpKSV0n-Rlr0",
+      "plus_code": {
+        "compound_code": "HRP5+FW Staten Island, NY, USA",
+        "global_code": "87G7HRP5+FW"
+      },
+      "rating": 3.3,
+      "reference": "ChIJcdnQNp5MwokRpKSV0n-Rlr0",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 560,
+      "vicinity": "310 Wild Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58689909999999,
+          "lng": -74.1911844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58814308029149,
+            "lng": -74.18980866970848
+          },
+          "southwest": {
+            "lat": 40.5854451197085,
+            "lng": -74.19250663029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 718-698-8811",
+      "name": "Fairfield by Marriott Inn & Suites New York Staten Island",
+      "photos": [
+        {
+          "height": 320,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110258130581497644340\">Fairfield by Marriott Inn &amp; Suites New York Staten Island</a>"
+          ],
+          "photo_reference": "AU_ZVEFrNaRVFWWA0pWETOeG6cJPlrs_q33rNCwKWH2yvFkJHD02CwzgS_EAz4CVMozV3qZD6XaLobS7w2kMOnonwZGGTusfE2hAiV3IdDqr4ncvq95mvnGJVzqlDfRyumNiJuYfhs5UOKsQbX51pnOA04OgIjs1sTtOjOXaAQgDilwNp2lN6Y6oeAvN99rmNHRB6T9e4OCdhUAzGFTMLl7glHFlaZ73Vwo9PFKdvwbtvFPtemcduxkRm88Z-BCdy0NXY2iQhg37yLAL-GNeJixgF49ecberiklnOsoV3XwbRxvMqKd1qVpr428xzwJOEUWa0uN_CjgvCwA",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJZeJ0fjRNwokR2gcyT9Banlw",
+      "plus_code": {
+        "compound_code": "HRP5+QG Staten Island, NY, USA",
+        "global_code": "87G7HRP5+QG"
+      },
+      "rating": 3.8,
+      "reference": "ChIJZeJ0fjRNwokR2gcyT9Banlw",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 633,
+      "vicinity": "290 Wild Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5865073,
+          "lng": -74.1904835
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5878990302915,
+            "lng": -74.18927896970848
+          },
+          "southwest": {
+            "lat": 40.5852010697085,
+            "lng": -74.1919769302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 718-370-8770",
+      "name": "Country Inn & Suites by Radisson, Staten Island",
+      "photos": [
+        {
+          "height": 853,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111131486995421627751\">Country Inn &amp; Suites by Radisson, Staten Island</a>"
+          ],
+          "photo_reference": "AU_ZVEH6KbPbOeONj4S6GOataC7Wkingc1TUiCkGOpkaOoko_9OJjGRk6Kf4NNObYPAAQtPlqn-RTfhQnskZ2KbHQZCb9MWLmDDyhqPM8AFUqLrjE_4yuMyG7IgaPfUqpnHRhpEXP2-Vbt34c15pmDHS3kSa4Tbd4NTg_I09k5CczCjX4Ix6ELL3lQggOKYAhs7-ckLSlLBjkVVtoZQ2QG5TihO7XaW4thIf5NdhzcNgUn4mIyBIBph60-us-YCpCqzFfUScKjkuA1HnwB480gjf2Hs4I9h4mXb8CY_ILG5DTa_eRyCr7J_jy8eDh5h-xREaXg9jB4V1",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJqV_sRX5NwokRrM7mCXxPuhk",
+      "plus_code": {
+        "compound_code": "HRP5+JR Staten Island, NY, USA",
+        "global_code": "87G7HRP5+JR"
+      },
+      "rating": 3.1,
+      "reference": "ChIJqV_sRX5NwokRrM7mCXxPuhk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 39,
+      "vicinity": "300 Wild Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5862808,
+          "lng": -74.1903076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58762043029149,
+            "lng": -74.18894406970848
+          },
+          "southwest": {
+            "lat": 40.5849224697085,
+            "lng": -74.19164203029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Comfort Inn - Queen Room with Two Queen Beds - Accessible/Non-Smoking",
+      "place_id": "ChIJbZUU32FLwokRwatGAH3WvcI",
+      "reference": "ChIJbZUU32FLwokRwatGAH3WvcI",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5862808,
+          "lng": -74.1903076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58762043029149,
+            "lng": -74.18894406970848
+          },
+          "southwest": {
+            "lat": 40.5849224697085,
+            "lng": -74.19164203029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Comfort Inn - King Room - Non Smoking",
+      "place_id": "ChIJbZUU32FLwokRY2u9JIapS_8",
+      "reference": "ChIJbZUU32FLwokRY2u9JIapS_8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5862808,
+          "lng": -74.1903076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58762043029149,
+            "lng": -74.18894406970848
+          },
+          "southwest": {
+            "lat": 40.5849224697085,
+            "lng": -74.19164203029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Comfort Inn - Queen Room - Disability Access/Non Smoking",
+      "place_id": "ChIJbZUU32FLwokRfyhGxjPe0b4",
+      "plus_code": {
+        "compound_code": "HRP5+GV New York, NY, USA",
+        "global_code": "87G7HRP5+GV"
+      },
+      "reference": "ChIJbZUU32FLwokRfyhGxjPe0b4",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5862808,
+          "lng": -74.1903076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58762043029149,
+            "lng": -74.18894406970848
+          },
+          "southwest": {
+            "lat": 40.5849224697085,
+            "lng": -74.19164203029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Comfort Inn - Quadruple Room with Two Queen Beds - Non Smoking",
+      "place_id": "ChIJbZUU32FLwokR8QWCLKdsr8M",
+      "reference": "ChIJbZUU32FLwokR8QWCLKdsr8M",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5899237,
+          "lng": -74.1877854
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5911727302915,
+            "lng": -74.18653456970848
+          },
+          "southwest": {
+            "lat": 40.5884747697085,
+            "lng": -74.18923253029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Schmul Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1199,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113460732275820405323\">Schmul Park</a>"
+          ],
+          "photo_reference": "AU_ZVEFQEod3BRQ-628S93w7ELbFGCw7llc3eZtP9BO6c1clUHpGxbVG2zIYIMxMCci9ouIWsNf20zJRqnTy_BCgZk7bH1yocFyOX0C7Mi7HfW_XsJV0bjZgut-zJEzdCszNfeFCQozBuT-3IMoGBQ_HIceQV1AiA5msJymx0npHVCbmMUkc-NnHptlDhc_gZSR7eTtdJnFwISWzzlTKx6VY20G5RoOMDXSe7s7DvGO5NYBzO0JKOi5vufpOGUwsG7aRPsfSONiljQgSqmNVQ01pZPWLvAbLkaaI5B79FpsfT9TzkAUKGcY6YHqf4avRM_Fxt_Yc8RQUoKc",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJW95iP5xMwokRaAF2e-MKZ2w",
+      "plus_code": {
+        "compound_code": "HRQ6+XV Staten Island, NY, USA",
+        "global_code": "87G7HRQ6+XV"
+      },
+      "rating": 4.2,
+      "reference": "ChIJW95iP5xMwokRaAF2e-MKZ2w",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 282,
+      "vicinity": "Wild Ave., Pearson St, Melvin Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5909655,
+          "lng": -74.192764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5922942302915,
+            "lng": -74.19146171970849
+          },
+          "southwest": {
+            "lat": 40.58959626970851,
+            "lng": -74.19415968029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Glen St/Victory Bl",
+      "photos": [
+        {
+          "height": 3328,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111187411418383847456\">Jun Batucan</a>"
+          ],
+          "photo_reference": "AU_ZVEH5hujY8tmKBqxT76EMadCfOrQoXLqrBO7wlX3xac7sUdXoOWJInckSdQEn9kP3U5dcJ4IAMr7VUzjOSkXwjdK7Jd_XDVZkbbm8Yq8Hjz8VDtPZCWgye-t7ijhio9isWt7qOZ3tWswyNTC3VdiIphb27l6cIgmPs6h3G2vhRbase7Bgw3VNiucT_Iy8pvWT1MasajIKj4B6VziKs_b6z0enPpV5055pzINpSR9qWxP61mvMtsfxe3LrY1sFsDJNeXu6oj3pFA2Y6wRjbxZnGiT-X1F308EYZd0BawNsoUqAZyhnVUo-6IMys80A3mH4HYMn7EarWmwtsZP9K75lrhUayT1AN6zEBT1btVsXeNCLE2oK5NlKS5f5-WpeM45aI_HACGZGDUvhQUJAl2Wv9U96u9vDWbwO0E6XW-8KGZOEXBVsEhQGFYNOq-haGfGNdBbE3EtuXB00N8ewn49SW_sV0vSHlYDpS-oT_yqiRICtTIRE-qniI0psRTROBi79KlpklD_4cfN_x2dzV0kxuE9Gc9CVMirXehR3uWCQB1tfzhLUN4xQLD_mqjGRHo0t7MV4icfiJsBMJF7fYQec26WtVpMwF3CE-M0waH9gBQy4baekbgj00I9mZ8SnN0NXcdDKuLqC",
+          "width": 1872
+        }
+      ],
+      "place_id": "ChIJUdq3OZ9MwokRn5hFgWG7PDo",
+      "plus_code": {
+        "compound_code": "HRR4+9V New York, NY, USA",
+        "global_code": "87G7HRR4+9V"
+      },
+      "reference": "ChIJUdq3OZ9MwokRn5hFgWG7PDo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.588783,
+          "lng": -74.19574
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5901063802915,
+            "lng": -74.1943636197085
+          },
+          "southwest": {
+            "lat": 40.5874084197085,
+            "lng": -74.19706158029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Feldmeyers Ln",
+      "place_id": "ChIJd-sjOaBMwokRbQqTDW19cIQ",
+      "plus_code": {
+        "compound_code": "HRQ3+GP New York, NY, USA",
+        "global_code": "87G7HRQ3+GP"
+      },
+      "rating": 3,
+      "reference": "ChIJd-sjOaBMwokRbQqTDW19cIQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.588543,
+          "lng": -74.19586199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5898841302915,
+            "lng": -74.1945199197085
+          },
+          "southwest": {
+            "lat": 40.5871861697085,
+            "lng": -74.19721788029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Feldmeyers Ln",
+      "place_id": "ChIJ9VN2P6BMwokREbSRw544s_w",
+      "plus_code": {
+        "compound_code": "HRQ3+CM New York, NY, USA",
+        "global_code": "87G7HRQ3+CM"
+      },
+      "reference": "ChIJ9VN2P6BMwokREbSRw544s_w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58763099999999,
+          "lng": -74.19773099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.58894108029149,
+            "lng": -74.1963425197085
+          },
+          "southwest": {
+            "lat": 40.58624311970849,
+            "lng": -74.1990404802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Con Edison",
+      "place_id": "ChIJs01ngaBMwokRW0WgF4u5jdM",
+      "plus_code": {
+        "compound_code": "HRQ2+3W New York, NY, USA",
+        "global_code": "87G7HRQ2+3W"
+      },
+      "reference": "ChIJs01ngaBMwokRW0WgF4u5jdM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.587334,
+          "lng": -74.197807
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5887248302915,
+            "lng": -74.1965007197085
+          },
+          "southwest": {
+            "lat": 40.5860268697085,
+            "lng": -74.19919868029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Wild Ave",
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113591778102443980687\">brendan kane</a>"
+          ],
+          "photo_reference": "AU_ZVEGBkezKntDsDNS3RyZ6e2Pz1FszNtlJcuXICxhfELlalDj52_VHFZqCzY8XyMhRZHTBJ9BanwH3R5bGf0yR3IrFKRHm5FBCF0jyhFuvcbnWypS2wUbMVWeeadOE5W5wPrhq2aeUgj1q1M_0maUnzEAnJIUmmiZ-2BsO3I82XhMt4dUQt8I15JCJnO65E0J7Asqb1DLcq6--gEib5-2AUCkTgd8mBs02yfVG_L3wWBx1I8v0IFSYSelie1DNuTqIJ9LS3n4X9xkXA4riFOlABh1PDbcassy4sXSPcli-kxQPYn3buyOGTpbPQhU4XOxJ8Ze_fHg4NQlbu39zoqIUhEPG06IO0AqMH8ALDVox3Qi90t-QIwyZk9d74wNu4ae8Xp3Dj8p6G_LU7vJW7QZjzktgfVRmFFio-R7SqyGsevO89EBo4X2HhTN8NoUZDFBSx2egudBSQUhm1_qek5otYJioc2IBYP3iO43OhPF0jXM39Bu38sgNN4J1-R1nN7byVNX98LXEL02YHqy5fDz_9fiM8VWxv-Vma0nLzN92i-OObaHGhhYDjS9XZZlWcO96GM9ugdR4GbXTO1OX_bhpcOTAHjLV4_BQaDAbb-K_UTeMSGG_IA2buD3cwlEjGgmhx2Nu9hO8",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJg3rCfV9LwokRo6ky6_E8T2c",
+      "plus_code": {
+        "compound_code": "HRP2+WV New York, NY, USA",
+        "global_code": "87G7HRP2+WV"
+      },
+      "rating": 1.5,
+      "reference": "ChIJg3rCfV9LwokRo6ky6_E8T2c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58960699999999,
+          "lng": -74.194069
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5909571302915,
+            "lng": -74.1927404697085
+          },
+          "southwest": {
+            "lat": 40.5882591697085,
+            "lng": -74.1954384302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "West Shore Expy/Victory Blvd",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105709809239640223097\">Abiodun Adeyemi</a>"
+          ],
+          "photo_reference": "AU_ZVEGTxE4YeKpT9rZcsOASjkzTss3nMe_011EsV_9-CsKv_Ed6FxloL8lhzZKM3kcM6MNikEGsmSnuZP1dOqx9EKZbUKyrMeVXUgefKxRu639cvEV89_Zd0qzhnbexl-WFKmu6Lj62lfbQv_c1bOucvXuWe-apjNXvpcMWmsLV8lVQ-CKI-9yadzCYXY_-tmH1fsUcEA9HGfGsX8FgXWurmyKZg40M-YippuoNpfpznAkbKN0DKTg9lm12GGhToSKHxZTaioAgRMZg1bkn72CkHX4LyIkldzgRB5xuDn6-70QGXKtlOIH8fNe076Bkvvl6rxQv52U1iV1Lx9ZmFpBylmIwWQYfKuxpyRS8m-0dStBEMP8z_bGVfWytOiK09FjKuzBVrXIO7lHHCTI7m-LcusyPVroeqpqta6cMoeeR-TjqqIq587CfHXhM2IUyLGDQcyaedSo8TcYQbfF8vVyEOL-Pl-yBWG4ihAAq3NyGzM8ojEVAUJvHB7AOMI5VAgTbNwZlJ7hbHhQvq-gV33QbUwJZcqsdP8Gi1MC8N-V5KUtZ15BXPgcGaVwVBKKSAYw69ywZe1TL2_f2ttPYfR938nz2VqkSDh67VA-xMVFzWwSUa5CuzXlegK8MLe3rQW4UK3Z-iA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJm7VLeZ9MwokRYBE1DGhWJ14",
+      "plus_code": {
+        "compound_code": "HRQ4+R9 New York, NY, USA",
+        "global_code": "87G7HRQ4+R9"
+      },
+      "rating": 5,
+      "reference": "ChIJm7VLeZ9MwokRYBE1DGhWJ14",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5867,
+          "lng": -74.199158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5880638302915,
+            "lng": -74.1977635697085
+          },
+          "southwest": {
+            "lat": 40.5853658697085,
+            "lng": -74.2004615302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Con Edison Bus Loop",
+      "place_id": "ChIJyUyYQ19LwokRkIFo8qjppmI",
+      "plus_code": {
+        "compound_code": "HRP2+M8 New York, NY, USA",
+        "global_code": "87G7HRP2+M8"
+      },
+      "reference": "ChIJyUyYQ19LwokRkIFo8qjppmI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.590584,
+          "lng": -74.192802
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59189943029151,
+            "lng": -74.1914186697085
+          },
+          "southwest": {
+            "lat": 40.58920146970851,
+            "lng": -74.1941166302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Glen St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109872627124311468842\">Sleek Sleek</a>"
+          ],
+          "photo_reference": "AU_ZVEE6pEYCxruMuzHyddzaKcHpEeX9I8A-E3FGCrDLdzjqJPOzKuGspDvTDa73WYbJkSTeQIfqQRBvfrAggm4SrtklHsfU-chudHYqMFeM7EmQ1n_6POMSQqTum5ohK0j7y78srf6KT3-4FzUococ_CuSwfFwA5Zc0OF9QtzhphsWNQj-JaL09BAu4ZCZGxhlbK6EaZcptF0Fu-G30CM74oNBzpOAPAv8XbT-5HWI2x1LvvFuKmvVmq_rQogjq2GfEzXQzEcXuHET8nvs4vAzrNV_Hoig3OznoOYLWmNAQeW_YyzsmLmq1CkWT_FdIetBQ4epzQ_e3LC67azQLkKMY5LEU28ru55nv1K2Ic8a9pRR2eXO3dNDyDDuXSmS1FbGDgsMN4YX6iRMmtw0uzH-JisIoD1Zi19JhsUJhhr7-evgmjF-Bg8ILk8iV75U-yWGD9_jP16sTv0EJnFHY5TTz72EYLiSTYQMw_Yrrjq68eI4ujw2ocjNLUBEaTgRJrjhWzWzG0nS2Zxu0Fhuq6cAUlzjfbE9ZXbEOXRW7He6dX-9oUl9iQyY_DSAJN0GaIPLWKHMeuuPRB_hqGmIrRIX2kYrcY5n3zRzLwhtEpdqDm_kp3eY745JD3BffbiAZjloEBuZ8ysAl",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ9eGnP59MwokRl_fVPbxANmg",
+      "plus_code": {
+        "compound_code": "HRR4+6V New York, NY, USA",
+        "global_code": "87G7HRR4+6V"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ9eGnP59MwokRl_fVPbxANmg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5908957,
+          "lng": -74.1927784
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5922789302915,
+            "lng": -74.1914781697085
+          },
+          "southwest": {
+            "lat": 40.5895809697085,
+            "lng": -74.19417613029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Glen St/Victory Blvd",
+      "photos": [
+        {
+          "height": 3120,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110385135386761533761\">Eric Knoblauch</a>"
+          ],
+          "photo_reference": "AU_ZVEE04bGN9CSR4jcymulgTfvKycZ3mU39bJSc8YbypLqWgrkPWWuPzDF9fSK-eTA_TYDEsPSus3TJskVHa5e1FqaMif3fFmOUMg4-01H_jDJ4Jr7uWRHVa-P59E0hTtfOrNvPcQpsJP_a7BT9I7axNj2vc5EdwCO8SS3FcIwXD-EvskZarbgC4eyDoknIYEgkggy2E0kaD9eVHoUnAl4MqV_ZJ5h0NdwzzRtYg2heQILnxcL2nN3kD9WKmU0JMu3pcRFgfjQ5v9oLVGTp9EqADFabs_jv6OKlgX0Mw2dJywWWjBxDFcovagvONtuZkxHJVQUCScOruAhTg3HTnyeaOuqIS_zmZhsv0b8rVoOBPNGYmfQ9L6abxzer23Tg0Mh57r4rHE3oB3cz42Id-AglcjP-I8SfetfhYg-pK1Cv8evNY7aDw62xfDBAuTVI_k2x7JRIl3P8HcneTP34PAMoi7KvC-9PpJ7I0qsr6oun7nGP4jedMWe0nlBndFe9AJRakTAwQEnKDmq9hq21YbOYaas62P_JCUtvctAOhGTWj68AwyXQSbkub-XWgBo6g3ZPYvBBqUJpz0kQMLwMNola7w26dze-T789F5qYPS6w-3UYDj1ZoRDqSYeoKAvVTcS9wUiCFA",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJ9YkdNJ9MwokRwYII1O7yUtI",
+      "plus_code": {
+        "compound_code": "HRR4+9V New York, NY, USA",
+        "global_code": "87G7HRR4+9V"
+      },
+      "rating": 5,
+      "reference": "ChIJ9YkdNJ9MwokRwYII1O7yUtI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.590881,
+          "lng": -74.191963
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59225318029149,
+            "lng": -74.1906364197085
+          },
+          "southwest": {
+            "lat": 40.58955521970849,
+            "lng": -74.19333438029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Alberta Ave",
+      "place_id": "ChIJuVvsJZ9MwokRm6c85dmgs-A",
+      "plus_code": {
+        "compound_code": "HRR5+96 New York, NY, USA",
+        "global_code": "87G7HRR5+96"
+      },
+      "rating": 3,
+      "reference": "ChIJuVvsJZ9MwokRm6c85dmgs-A",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.591961,
+          "lng": -74.190197
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5933060802915,
+            "lng": -74.1888440697085
+          },
+          "southwest": {
+            "lat": 40.59060811970851,
+            "lng": -74.1915420302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Bl/Wild Av",
+      "place_id": "ChIJ088vOJlMwokRe1xnSnf8X-4",
+      "plus_code": {
+        "compound_code": "HRR5+QW New York, NY, USA",
+        "global_code": "87G7HRR5+QW"
+      },
+      "reference": "ChIJ088vOJlMwokRe1xnSnf8X-4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.591759,
+          "lng": -74.19075
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5930791802915,
+            "lng": -74.1893714197085
+          },
+          "southwest": {
+            "lat": 40.5903812197085,
+            "lng": -74.1920693802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Wild Ave",
+      "place_id": "ChIJM__mMZlMwokRPGv-bvEM96k",
+      "plus_code": {
+        "compound_code": "HRR5+PP New York, NY, USA",
+        "global_code": "87G7HRR5+PP"
+      },
+      "reference": "ChIJM__mMZlMwokRPGv-bvEM96k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59217799999999,
+          "lng": -74.189667
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59356768029149,
+            "lng": -74.18835906970848
+          },
+          "southwest": {
+            "lat": 40.59086971970849,
+            "lng": -74.1910570302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Wild Ave",
+      "place_id": "ChIJF0H4Q5lMwokRPoCF9e0TSXA",
+      "plus_code": {
+        "compound_code": "HRR6+V4 New York, NY, USA",
+        "global_code": "87G7HRR6+V4"
+      },
+      "reference": "ChIJF0H4Q5lMwokRPoCF9e0TSXA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59316250000001,
+          "lng": -74.1881635
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5945049802915,
+            "lng": -74.1868077697085
+          },
+          "southwest": {
+            "lat": 40.5918070197085,
+            "lng": -74.1895057302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Bl/Burke Av",
+      "place_id": "ChIJPV1a0ZtMwokR9yG0ueyVikI",
+      "plus_code": {
+        "compound_code": "HRV6+7P New York, NY, USA",
+        "global_code": "87G7HRV6+7P"
+      },
+      "reference": "ChIJPV1a0ZtMwokR9yG0ueyVikI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59322700000001,
+          "lng": -74.188255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59454823029149,
+            "lng": -74.18687746970849
+          },
+          "southwest": {
+            "lat": 40.5918502697085,
+            "lng": -74.18957543029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Burke Ave",
+      "place_id": "ChIJ4S2r1ptMwokRBv4eYRBVeg8",
+      "plus_code": {
+        "compound_code": "HRV6+7M New York, NY, USA",
+        "global_code": "87G7HRV6+7M"
+      },
+      "reference": "ChIJ4S2r1ptMwokRBv4eYRBVeg8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59314,
+          "lng": -74.18811
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5945149302915,
+            "lng": -74.18678776970849
+          },
+          "southwest": {
+            "lat": 40.5918169697085,
+            "lng": -74.1894857302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Victory Blvd/Burke Ave",
+      "photos": [
+        {
+          "height": 3328,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111187411418383847456\">Jun Batucan</a>"
+          ],
+          "photo_reference": "AU_ZVEGkCfkvgDvGngsBbE9VZmDzTJmMPzD98xk98Y1EXMOntuT5bdcVIRaFkKZwL9Udjrcwy7jyD2cSf4MuQTe6mmHcNsdCa6gXMiv2jLakXcNvuuNOIYRwR5YiRvSTT2LJ03wGwNSeymMV5eq9Z-arS7y0E9mJV8_aJg6OyG2ecfD6g68GdogBQMLdRwg3Pb0zYW-CaSw_xtxooRTJfZ89o931sBvCdb9-PJJiImSM4g6brzqxOt7ikZUHaTj7vehLk_gTJMmfppAuUHSYb7H-DHKYIvHHlSKlJt_ywbwUXSiGCjkrX-Qcxncz4AXZ44se4dSzvOKSpojyKcVftkxjKLGuieBDhEtn5Rd0Z4K0VtSPiE36_OFf9fC-Pd8bIYx9saB1pU05KH155prC9zNomyo4I1D5Dcj1RSBs-f7bSWAy0aAojyolF_m416yf6nwXNPIaTo3Qbz_KYNgJF2_91QKiNPdNfkYMVHJPtvodgsKqQMfsYdf1w2LENoBGxEiXneWtbmbVO_HyidBn6XKQar_j1D7bOTse9ORXvsavvl8Utr8IXR2weBivsZLLP_29tiDCJyLp68JTqUzeEQR629lwl7vWd1UX2ivVXZFjAzwASdzM9NvRA78-Dg3TUSk2",
+          "width": 1872
+        }
+      ],
+      "place_id": "ChIJT45o0ZtMwokRTrvsTywjcoU",
+      "plus_code": {
+        "compound_code": "HRV6+7Q New York, NY, USA",
+        "global_code": "87G7HRV6+7Q"
+      },
+      "rating": 4,
+      "reference": "ChIJT45o0ZtMwokRTrvsTywjcoU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

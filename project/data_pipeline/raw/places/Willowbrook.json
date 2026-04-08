@@ -1,0 +1,4992 @@
+{
+  "neighbourhood": "Willowbrook",
+  "centroid": {
+    "lat": 40.599919394736844,
+    "lon": -74.13957028947368
+  },
+  "fetched_at": "2026-04-06T14:57:44.815328+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6036606,
+            "lng": -74.1314055
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6050089302915,
+              "lng": -74.1301306197085
+            },
+            "southwest": {
+              "lat": 40.6023109697085,
+              "lng": -74.1328285802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-682-1703",
+        "name": "Bradley pizza",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104952752594467411451\">Bradley pizza</a>"
+            ],
+            "photo_reference": "AU_ZVEHBfTviW6AX4IGFs6ScS645OYSG4yOIwdd2trKnbgeNI67jZoo18E1aqO3bhTQVYZsg1fIsOt4W2YraEmsI1GMn324HgxhHeAvy6Sa10e_dqKNpGmZZtxhLpwsXtkEvK8uDc3SEYxt0-6HH6UvSSGBpBlApEkQckRphFmOsnhIohDpx7066695v9hwVCFWnK1EeiUuTItSXuphZkTg_yOb4H5Yv5uSmNqjT6cz2h4EIQjePLSOsvGZnV2X_CL5oriaRdsEUBRus1FySyX69T2DMNk1XLE-vPNYEH0yEvuau0tozr5ZPzPqAZ7u8_OVKhu3t371AoPk",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJwXLgMHZOwokRh9j94BKJiDs",
+        "plus_code": {
+          "compound_code": "JV39+FC Staten Island, NY, USA",
+          "global_code": "87G7JV39+FC"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJwXLgMHZOwokRh9j94BKJiDs",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 172,
+        "vicinity": "311 Bradley Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5972893,
+            "lng": -74.13555
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5987544302915,
+              "lng": -74.13417656970849
+            },
+            "southwest": {
+              "lat": 40.5960564697085,
+              "lng": -74.13687453029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-744-6011",
+        "name": "BRUNCHBEAN",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJS80ILaVNwokRolN0r7_hyok",
+        "plus_code": {
+          "compound_code": "HVW7+WQ Staten Island, NY, USA",
+          "global_code": "87G7HVW7+WQ"
+        },
+        "reference": "ChIJS80ILaVNwokRolN0r7_hyok",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "80 Roanoke Street, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5996363,
+            "lng": -74.1312677
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6009576802915,
+              "lng": -74.12993196970851
+            },
+            "southwest": {
+              "lat": 40.5982597197085,
+              "lng": -74.13262993029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-494-7455",
+        "name": "SILK SPOON",
+        "photos": [
+          {
+            "height": 3681,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111838647538192037482\">SILK SPOON</a>"
+            ],
+            "photo_reference": "AU_ZVEFUGkZ24-fLmUCct1gix-4FIEoxW0hTAEiTFivZAAWjU9bEaGbXHgfxvTtIcoHIHti3fzx-da04tO2_-sSBA-CgF5LicLwzmcPC1PT09JeIeOLHrHq-IX7cRBR4HJAorDzw1lwVrbubXJbp7fkMlPdvv7fSSLTsy9R0cUHhMa_gVqZWDJuD5nEKslUZDDio58nnI3_BqxQqxMJwSwGdT9tw6WF4kmOJLJMspik7aAUynXkF6uKMlT3efrBR-mJ3TQSBI8FZD2-4Vu9NvhxKN1UCas9bD8MHUZ5K3GnUvcSu50zFWF5qk33eSU6kd5C8JMrg0B9K",
+            "width": 5522
+          }
+        ],
+        "place_id": "ChIJ-VcdLsxNwokRFk0hrPEJf18",
+        "plus_code": {
+          "compound_code": "HVX9+VF Staten Island, NY, USA",
+          "global_code": "87G7HVX9+VF"
+        },
+        "rating": 5,
+        "reference": "ChIJ-VcdLsxNwokRFk0hrPEJf18",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 74,
+        "vicinity": "460 Bradley Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6031349,
+            "lng": -74.1318526
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6045054302915,
+              "lng": -74.1303220697085
+            },
+            "southwest": {
+              "lat": 40.6018074697085,
+              "lng": -74.1330200302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-871-4319",
+        "name": "MILK N' HONEY",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117320525403310364311\">Sruly Discovers</a>"
+            ],
+            "photo_reference": "AU_ZVEFHIezG6rzFaUaU-RgibufUJa_zKNwhkhrnSeP-7gcmVux51FzBdYNO1hMPI35gz2IWydXixJczpCvyGWYNntdb--OCWKAjTEyXmToy0DkI-rvJoE-Hog_Xc2yXLzaio4RQT8Wj9Y0ZYyry_wRg-a5_JWa02BmGt3bGTiC-4eBsa1uv1n6EP0gRF4C8bCsERImtDN4P3tKRBksHJOHkodLxD9dyFh2buriJ0H88sW9jIA4vvhENo5Oz5CyENkemQQCjpnjBUz6S6Wtca5nzFhzMWCL6adAq-ILCB9ailRVYjNQtdk5SnWEXLfbPm8pSXtKd7kHJ-ZicEW9eaPdkzc0q2k8mgv-0rgDojlFVw8F3_ay-DET63LxaIz3tgTBvqDOWyYNmE2b6z2A88kIctSh0nvnidxtoRy6XwLBXvIUKDWoqv6iSbtAJLScwMCvZHjD_SF6k_WudNsrB-Zs8Xj6tOZ2oIlob_jRGxxcyiDb1TwhI3TatWeqVJBgwH30iZZX2zI11KjjdijkjdCdPXoMif5Outir1_7D2nuYUpAZogtIznUeUdnMyFBd1l4PpxOTLWblztWSUdqZVrAKxMAOqsxkZKbeRXr4e0201MG--4eDXMnataf4kyDIHxzPa0G25qJI8-Rf5usk9fiNDN3qVdcA",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJqXd0x6lNwokRVSqBNnfbA_0",
+        "plus_code": {
+          "compound_code": "JV39+77 Staten Island, NY, USA",
+          "global_code": "87G7JV39+77"
+        },
+        "rating": 4.7,
+        "reference": "ChIJqXd0x6lNwokRVSqBNnfbA_0",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "330 Bradley Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6031349,
+            "lng": -74.1318526
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6045054302915,
+              "lng": -74.1303220697085
+            },
+            "southwest": {
+              "lat": 40.6018074697085,
+              "lng": -74.1330200302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-794-2070",
+        "name": "Sruly's Heimishe Kitchen & Deli",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105790452300122794195\">G A (TheFamous)</a>"
+            ],
+            "photo_reference": "AU_ZVEHCtqoQK3pJUDY8fWflOrfdyhYm1Kd9BJ-zvfuCyTXseqJPUwTq7nJsGPLIdvDuJwsU8JP1PVnZOPEyaIwhx3Pf21W0d7q2ltgSpKwCh8fqbX_79yBGnTYhkksH4zSE5TdqrjuuBVook0BQr9t5bRSCbKRMF4VjMnYu9CTJVEhMwCT8wVum1gTARBRvy8ig9y5sahIZ6Nztjtz3cKvNOf5KqZzPcpDKOokI-wkfZGRFtBo3A_fed0meVObL2iQQkHAZyen9BXpLQXu41-YMFH9KdpLD8KQ2fmG-Iy2G2KSzfrQ9eUe76RX9IcuXn42mGAEr4CVctjToBNBElMIfr3YjdnwDhfvlSfIwj8V1jTo_bO4mPH1gW9XxMGIupoaYiEyhZZD_95SaRFXHCOWxvdhJAACNhLhxuZ3TdHDGZJJlGJqjQ_3AEWpfyHHLGbt7KywIMS3ZPjB5Flb1ASxLA-ewjxq571gCiyqxhCjYKQQ4z_zN4lNFgGQiWHp1yvZ8HcTCA0vaSCURUA3gBPUKftmLA5Pg-fr60KeGgPTbekVq6m5meuqLt_PETdPM0DJBtj0GG-IsxZmMY3QcQOJps9OO8z7jewMHGxTPjzVGY7YGdXAAH-9RwrQrpxFvdnk5sSoqErSs",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJIcCxV8lNwokRDzUtfftbIkI",
+        "plus_code": {
+          "compound_code": "JV39+77 Staten Island, NY, USA",
+          "global_code": "87G7JV39+77"
+        },
+        "rating": 4.6,
+        "reference": "ChIJIcCxV8lNwokRDzUtfftbIkI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "330 Bradley Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6036673,
+            "lng": -74.1313709
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6050094302915,
+              "lng": -74.13011316970851
+            },
+            "southwest": {
+              "lat": 40.6023114697085,
+              "lng": -74.13281113029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-801-0627",
+        "name": "Island Sushi",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 964,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100902092835082901864\">Island Sushi</a>"
+            ],
+            "photo_reference": "AU_ZVEFg1SYxIHE8nq82hi2vv_LPZgvVqqQj3uBDP4d5pIMlSFXvIYEJyLcFPr0evCWMKVq7eZPZ-4_5roNFO_AC3T0WUvm2f251u4rYimQZKHvpKgzqljqD4CBXgsmCg___4Yw-8N4wo5MeCLSh9FznraAmhyN4n575IqEh6iTgf_ecHugVVYyWkfPuqFPnO2ZD-Y7Z5KIXf9ri2YXbqPCL1Mh5TGeX2hWWj-sqkH0JBs7Chd3CBF_SrdVAjTHrCfBPN5KXQyBmx6OIR5Umjo73YRsWNiR-GvoU9LORDgPQCv2DulTdkyG_9FdSlg8hOBD0TEOACGB9Q2U",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJm_0SQXhNwokRL60MvIUyIOs",
+        "plus_code": {
+          "compound_code": "JV39+FF Staten Island, NY, USA",
+          "global_code": "87G7JV39+FF"
+        },
+        "rating": 4.2,
+        "reference": "ChIJm_0SQXhNwokRL60MvIUyIOs",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 40,
+        "vicinity": "309 Bradley Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60366930000001,
+            "lng": -74.1313634
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6050600302915,
+              "lng": -74.13011546970849
+            },
+            "southwest": {
+              "lat": 40.60236206970851,
+              "lng": -74.13281343029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-982-6735",
+        "name": "Peking Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116322026384651751859\">Jesus Benavides</a>"
+            ],
+            "photo_reference": "AU_ZVEEKxQVOYbu48Fnaq9AaRABawFrk2C-c1oNDvD_Av559IAay_AiKNp3Ho1xagR70BvB0vdTYt5IoVHjqEMjJltfXZ89IPr3szReH65jA3pPJLJE1oxKDWNr3w4HKwQ0ju_y84Dn-XHGJRhkTOw4EtPpdBF1-VseOXEtpE7ogpDWkEtXL4SN0gAGPxMmUmUh1IVSB6PHwx2gjSID87YDBCHC5IpwWNT5DIjQ_7gxNFqCE5fiGbsNCogVVq1Cogsx1_GRWNO3CeZ4cCjYCFfBP5W7sqmjpo7nFxRKaT3-L-unfc_gZqmUbCuny9zuedvyQun6Z-QBogEj7DV48hgrO84vQlzjDKpy4ACsmaztR2Nd5sku0bf9eRfj1c3_L9662_tOPn-fwHU7fUiDITLLbIriS0hEO9wJWWC_T9kJ8ugUaT1J8_Nc2Enwt-s88NwYRntRITInHyUDOY9HqA5GmzMPMfDGFFo3UONsqPGi1Qzug_mxhR-2Cwgwls3Rmc4IWuCwtP3pkP2jeIt5PJH8kSGO1CmeAn7UoCipzH2Iir_6og7frfJKJR88-9QtaNQOJArXHSzBGiAnm9VNw6qxUx6gSYMM6fQiQHnghCR7heSo0EmveADU-JpuJcPkPOsfdDZbScg",
+            "width": 2080
+          }
+        ],
+        "place_id": "ChIJvbk8EyRMwokRhw1oPQ9wpM8",
+        "plus_code": {
+          "compound_code": "JV39+FF Staten Island, NY, USA",
+          "global_code": "87G7JV39+FF"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJvbk8EyRMwokRhw1oPQ9wpM8",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 133,
+        "vicinity": "309 Bradley Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.599666,
+            "lng": -74.149711
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6009860302915,
+              "lng": -74.1484904197085
+            },
+            "southwest": {
+              "lat": 40.5982880697085,
+              "lng": -74.1511883802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 312-229-0099",
+        "name": "Farmer's Fridge",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 270,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100280580019428957099\">Farmer&#39;s Fridge</a>"
+            ],
+            "photo_reference": "AU_ZVEG355r3TJK4im3K8_e5BVzqotHWhanSI0QsQZNbypPsW5TfmUAG17AmJkiN-Bg6RBKaHIaguX-sshLKX-G7Fjp9kSU85lzaYec2fyoxmz2pn2J8vIIgHLGMIVzvuZgUA3rBiVIS65RpZW1aDyy9m7uTAfNZSQ6ecdwal4nvVSK1q4BYdBYjkDrcovn6lgerNUIhq93NYWq0GeV8qU-xxiDdp-cln5tYJr_vRB9F0VDtVHzAyKPiux8j-2n7BEpMW13LitM4AR6YFoiYIOSfrX0axv__yEZCM2yQnLYsqzdVO9e0SCL4aYUbdnj7kHr6vse1I7YH7tA",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJgV6f_p9NwokRgEE_UBKQ40o",
+        "plus_code": {
+          "compound_code": "HVX2+V4 Staten Island, NY, USA",
+          "global_code": "87G7HVX2+V4"
+        },
+        "reference": "ChIJgV6f_p9NwokRgEE_UBKQ40o",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "2800 Victory Blvd Located in the 1P Performing Arts Building in the entrance opposite the parking, lot entrance, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60738449999999,
+            "lng": -74.1346167
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60870778029149,
+              "lng": -74.1334020697085
+            },
+            "southwest": {
+              "lat": 40.6060098197085,
+              "lng": -74.1361000302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Ding Ho",
+        "place_id": "ChIJ13lvbABNwokRKDKDS2c56J4",
+        "plus_code": {
+          "compound_code": "JV48+X5 Staten Island, NY, USA",
+          "global_code": "87G7JV48+X5"
+        },
+        "reference": "ChIJ13lvbABNwokRKDKDS2c56J4",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "217 Kell Avenue, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6006756,
+            "lng": -74.1329059
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6020397302915,
+              "lng": -74.1316430697085
+            },
+            "southwest": {
+              "lat": 40.5993417697085,
+              "lng": -74.13434103029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "\u0432\u043e\u043b\u0435\u0439\u0431\u043e\u043b\u044c\u043d\u044b\u0439 \u043c\u044f\u0447\u0438\u043a",
+        "place_id": "ChIJvYLrFABNwokRGm4oWBSB6iM",
+        "plus_code": {
+          "compound_code": "JV28+7R Staten Island, NY, USA",
+          "global_code": "87G7JV28+7R"
+        },
+        "reference": "ChIJvYLrFABNwokRGm4oWBSB6iM",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "34 Larrison Loop, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60738449999999,
+            "lng": -74.1346167
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60870778029149,
+              "lng": -74.1334020697085
+            },
+            "southwest": {
+              "lat": 40.6060098197085,
+              "lng": -74.1361000302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "name": "Ding Ho",
+        "place_id": "ChIJ13lvbABNwokRKDKDS2c56J4",
+        "plus_code": {
+          "compound_code": "JV48+X5 Staten Island, NY, USA",
+          "global_code": "87G7JV48+X5"
+        },
+        "reference": "ChIJ13lvbABNwokRKDKDS2c56J4",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "217 Kell Avenue, Staten Island"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5971451,
+            "lng": -74.1378632
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5984940802915,
+              "lng": -74.13651421970849
+            },
+            "southwest": {
+              "lat": 40.5957961197085,
+              "lng": -74.13921218029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gorgeous, Modern, updated Duplex",
+        "place_id": "ChIJqathuhdMwokRjSlUC27dYhk",
+        "plus_code": {
+          "compound_code": "HVW6+VV New York, NY, USA",
+          "global_code": "87G7HVW6+VV"
+        },
+        "reference": "ChIJqathuhdMwokRjSlUC27dYhk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5971451,
+            "lng": -74.1378632
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5984940802915,
+              "lng": -74.13651421970849
+            },
+            "southwest": {
+              "lat": 40.5957961197085,
+              "lng": -74.13921218029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Gorgeous, Modern, updated Duplex",
+        "place_id": "ChIJqathuhdMwokRIyBGVreJEhA",
+        "plus_code": {
+          "compound_code": "HVW6+VV New York, NY, USA",
+          "global_code": "87G7HVW6+VV"
+        },
+        "reference": "ChIJqathuhdMwokRIyBGVreJEhA",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6007766,
+            "lng": -74.1335983
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60205083029149,
+              "lng": -74.1322329697085
+            },
+            "southwest": {
+              "lat": 40.5993528697085,
+              "lng": -74.1349309302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Modern Cozy Studio Apartment",
+        "place_id": "ChIJnYJGHSNMwokRCIFwMywVyyY",
+        "plus_code": {
+          "compound_code": "JV28+8H New York, NY, USA",
+          "global_code": "87G7JV28+8H"
+        },
+        "reference": "ChIJnYJGHSNMwokRCIFwMywVyyY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5977211,
+            "lng": -74.1331482
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59893683029151,
+              "lng": -74.13183491970848
+            },
+            "southwest": {
+              "lat": 40.59623886970851,
+              "lng": -74.1345328802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Modern Cozy Studio Apartment",
+        "place_id": "ChIJQdZ9fBhMwokRBtwKiksAHQk",
+        "plus_code": {
+          "compound_code": "HVX8+3P New York, NY, USA",
+          "global_code": "87G7HVX8+3P"
+        },
+        "reference": "ChIJQdZ9fBhMwokRBtwKiksAHQk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5980492,
+            "lng": -74.1329422
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5994774802915,
+              "lng": -74.1315891697085
+            },
+            "southwest": {
+              "lat": 40.59677951970851,
+              "lng": -74.13428713029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cozy 2 Bedroom 1.5 Bath Duplex",
+        "place_id": "ChIJs7KkfxhMwokRLU_c39xemlg",
+        "plus_code": {
+          "compound_code": "HVX8+6R New York, NY, USA",
+          "global_code": "87G7HVX8+6R"
+        },
+        "reference": "ChIJs7KkfxhMwokRLU_c39xemlg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6063574,
+            "lng": -74.1418281
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6077322302915,
+              "lng": -74.1399533197085
+            },
+            "southwest": {
+              "lat": 40.6050342697085,
+              "lng": -74.1426512802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Westwood Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1816,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110498727405756752274\">Adam S.</a>"
+            ],
+            "photo_reference": "AU_ZVEHOm5tv92uoddd5SjqpHYN3NOki8LgYauUzibC-cJksoV3HvV8JM5IPIfm0Yy7USu-fiRl5FQx8ZVqie2But8EYu7MrjLuEEs5ZrYS3EIhcQD5vmG71MDyOlJdy5BFaIgiUbYdj-PF6INZOoeeyEmHqIDhCEmmm9V9kEVURphcjWekSvGqnnkyY7ktQjtwUgC7KkgwJ4pAE_wlvJBXtlzbFg5aE9q-NxtPVGVLiqPwAE5shoZfu5H_dWeUWDyrlTUKhnkC4Z1APwn6peZ8rYHjhePjtjuiHL6G6olY7fd07sk_D9gifV_PfOgdrkj1eAOwjTAkcexe61ayhffDjdw1DG9eEPiRdFbHhWi9phJarJCvcrst3Hyyau1eFbitofTlwPxIB65tOA4OiOVkdHj4euKDCEaI4Sn-zsDzGpZ8xfn8JOB8JpBsMskNDhzG5G0Fj_fsKT8VT6EaeCJkX35QQaCMi1TmXnzKL6TjsVpdcNCLfaTJMTebfeLyCXozeB27WVauh-G9cdol4cgGynMU0h9Mq9GPCpnsWaSmPQ8jvPmIDd-Zgw0_E_Dc-K1FJNH4gi7p5YDzI3FiZLmFVHMKZbU7slQAZZzfUQyhphSZIbjrJEZf9V8Ls_pcg7V-vL4Y5mg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJN2JNfDlMwokRCDU2SG0rybg",
+        "plus_code": {
+          "compound_code": "JV45+G7 Staten Island, NY, USA",
+          "global_code": "87G7JV45+G7"
+        },
+        "rating": 3.9,
+        "reference": "ChIJN2JNfDlMwokRCDU2SG0rybg",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 79,
+        "vicinity": "Woodward Ave &, Woolley Avenue, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60074600000001,
+            "lng": -74.1396905
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60207838029149,
+              "lng": -74.1383399697085
+            },
+            "southwest": {
+              "lat": 40.5993804197085,
+              "lng": -74.1410379302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Forest Hill Rd",
+        "place_id": "ChIJkUHHuz1MwokRJE0C4zm02bg",
+        "plus_code": {
+          "compound_code": "JV26+74 New York, NY, USA",
+          "global_code": "87G7JV26+74"
+        },
+        "reference": "ChIJkUHHuz1MwokRJE0C4zm02bg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5968495,
+            "lng": -74.1412965
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59820543029149,
+              "lng": -74.1399642697085
+            },
+            "southwest": {
+              "lat": 40.59550746970849,
+              "lng": -74.1426622302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Forest Hill Rd/Steers St",
+        "place_id": "ChIJjT4dfhZMwokRSoNvMaHiZyc",
+        "plus_code": {
+          "compound_code": "HVW5+PF New York, NY, USA",
+          "global_code": "87G7HVW5+PF"
+        },
+        "reference": "ChIJjT4dfhZMwokRSoNvMaHiZyc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60108719999999,
+            "lng": -74.13478599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6024175302915,
+              "lng": -74.1334346197085
+            },
+            "southwest": {
+              "lat": 40.5997195697085,
+              "lng": -74.1361325802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Sunset Av",
+        "place_id": "ChIJ5VHwJiNMwokRaaLQ1oMW3Lo",
+        "plus_code": {
+          "compound_code": "JV28+C3 New York, NY, USA",
+          "global_code": "87G7JV28+C3"
+        },
+        "reference": "ChIJ5VHwJiNMwokRaaLQ1oMW3Lo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.600689,
+            "lng": -74.139305
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6020852802915,
+              "lng": -74.13796156970851
+            },
+            "southwest": {
+              "lat": 40.5993873197085,
+              "lng": -74.14065953029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Forest Hill Rd",
+        "place_id": "ChIJFXvppD1MwokROzJ1RTkIt3Y",
+        "plus_code": {
+          "compound_code": "JV26+77 New York, NY, USA",
+          "global_code": "87G7JV26+77"
+        },
+        "reference": "ChIJFXvppD1MwokROzJ1RTkIt3Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6008,
+            "lng": -74.140076
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6021208802915,
+              "lng": -74.13872416970848
+            },
+            "southwest": {
+              "lat": 40.5994229197085,
+              "lng": -74.14142213029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Forest Hill Rd",
+        "place_id": "ChIJU32RuD1MwokRafm_NWtiEBg",
+        "plus_code": {
+          "compound_code": "JV25+8X New York, NY, USA",
+          "global_code": "87G7JV25+8X"
+        },
+        "rating": 5,
+        "reference": "ChIJU32RuD1MwokRafm_NWtiEBg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59848,
+            "lng": -74.139969
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59984753029151,
+              "lng": -74.1386792197085
+            },
+            "southwest": {
+              "lat": 40.59714956970851,
+              "lng": -74.1413771802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Forest Hill Rd/Dorothy St",
+        "place_id": "ChIJUW4oPRZMwokRFXl2_T4YFJs",
+        "plus_code": {
+          "compound_code": "HVX6+92 New York, NY, USA",
+          "global_code": "87G7HVX6+92"
+        },
+        "rating": 4.5,
+        "reference": "ChIJUW4oPRZMwokRFXl2_T4YFJs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60096,
+            "lng": -74.13717700000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6023062302915,
+              "lng": -74.1358276197085
+            },
+            "southwest": {
+              "lat": 40.5996082697085,
+              "lng": -74.1385255802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Joseph Ave",
+        "place_id": "ChIJ81fkIT1MwokR61b0RgRpYJg",
+        "plus_code": {
+          "compound_code": "JV27+94 New York, NY, USA",
+          "global_code": "87G7JV27+94"
+        },
+        "reference": "ChIJ81fkIT1MwokR61b0RgRpYJg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60090599999999,
+            "lng": -74.135986
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6022543302915,
+              "lng": -74.13460136970849
+            },
+            "southwest": {
+              "lat": 40.5995563697085,
+              "lng": -74.1372993302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Washington Ave",
+        "place_id": "ChIJG1xMKj1MwokR3Mm4siGtHdQ",
+        "plus_code": {
+          "compound_code": "JV27+9J New York, NY, USA",
+          "global_code": "87G7JV27+9J"
+        },
+        "rating": 5,
+        "reference": "ChIJG1xMKj1MwokR3Mm4siGtHdQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.596855,
+            "lng": -74.141167
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59821993029149,
+              "lng": -74.13985661970851
+            },
+            "southwest": {
+              "lat": 40.59552196970849,
+              "lng": -74.14255458029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Forest Hill Rd/Steers St",
+        "photos": [
+          {
+            "height": 3984,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108874691977478116762\">KADDOUR Abderrahmen</a>"
+            ],
+            "photo_reference": "AU_ZVEF_1xUCDGTVBgaKZxYZ83Wof7BzSDWIT1HuwRpTV_owwqpWGkcz1Wq25_-65G46oegieEELiV2G8K24getFOtxGiY86kc_pfTv6SQeh-FOFRizV9qBp0PhRIejiPVV2l9CISoZwo_KBq5EYnIZEspu11T3Keo3Gf_lD4_8y9A_zZhSd-Ga1fWfiigtNfuaxeNMXvvXakzM2nqO5Sh-6GMwzGY8chP_afAFA3ojj9374M_f64jZQhpKsFf4hSOvS-EYk3Q8KTrcCErTEyI8udFYvCSvbG48KaUhHvjhhGO3a_HK2NtCmMvCQhBldZU1VX1qyb_iT7oh62ejSTGqoIA4mVY8ZR7-B0f9P2VFwyNOV2PW3zrmgMkUkbinghMSvV0r99sPIkBL6b1R-hcFztAeW6S2TWeirQ_26E8eYjoU9ln0UlGSNyeXgKJwQ-4_7EYV-y85ZaGyF2wP0akj0FEeJaLAiu_7Gn-Bfw797nGvUVOEi3dhWoDADs7uUjD3q5qYLvrbeLlXdXiso2HTuFVg_LhACLg2CsTl6y1xW67dpEcusQb_gVFXSMCucvv-4-J3DksOVe3rDFGtZwDH-qBESnKw7b937y_3TNpRCYia1rhzOyOozPYyrQjR4kgiTeMWxaQ",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJZVPyfRZMwokRzSHkVv-AAtM",
+        "plus_code": {
+          "compound_code": "HVW5+PG New York, NY, USA",
+          "global_code": "87G7HVW5+PG"
+        },
+        "rating": 3,
+        "reference": "ChIJZVPyfRZMwokRzSHkVv-AAtM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59684399999999,
+            "lng": -74.141426
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59816893029149,
+              "lng": -74.1400187197085
+            },
+            "southwest": {
+              "lat": 40.5954709697085,
+              "lng": -74.14271668029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Forest Hill Rd/Steers St",
+        "place_id": "ChIJ67GAgBZMwokRwWeJwya3CtU",
+        "plus_code": {
+          "compound_code": "HVW5+PC New York, NY, USA",
+          "global_code": "87G7HVW5+PC"
+        },
+        "reference": "ChIJ67GAgBZMwokRwWeJwya3CtU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60114699999999,
+            "lng": -74.134995
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6024642302915,
+              "lng": -74.13364206970849
+            },
+            "southwest": {
+              "lat": 40.5997662697085,
+              "lng": -74.1363400302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Sunset Ave",
+        "place_id": "ChIJ_X8fJiNMwokRinj1iVJa5Jc",
+        "plus_code": {
+          "compound_code": "JV28+F2 New York, NY, USA",
+          "global_code": "87G7JV28+F2"
+        },
+        "rating": 5,
+        "reference": "ChIJ_X8fJiNMwokRinj1iVJa5Jc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.597187,
+            "lng": -74.13288899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5985135802915,
+              "lng": -74.13150541970847
+            },
+            "southwest": {
+              "lat": 40.5958156197085,
+              "lng": -74.1342033802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Av/Roanoke St",
+        "place_id": "ChIJjxPzYRhMwokRdUwp1ATVHPg",
+        "plus_code": {
+          "compound_code": "HVW8+VR New York, NY, USA",
+          "global_code": "87G7HVW8+VR"
+        },
+        "reference": "ChIJjxPzYRhMwokRdUwp1ATVHPg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60102730000001,
+            "lng": -74.1345771
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6024217802915,
+              "lng": -74.1332435697085
+            },
+            "southwest": {
+              "lat": 40.59972381970851,
+              "lng": -74.1359415302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Sunset Ave",
+        "place_id": "ChIJCRUwHyNMwokROD19YiAv2bQ",
+        "plus_code": {
+          "compound_code": "JV28+C5 New York, NY, USA",
+          "global_code": "87G7JV28+C5"
+        },
+        "reference": "ChIJCRUwHyNMwokROD19YiAv2bQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60134499999999,
+            "lng": -74.13261399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6026855302915,
+              "lng": -74.13126386970849
+            },
+            "southwest": {
+              "lat": 40.5999875697085,
+              "lng": -74.13396183029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Roosevelt Ave",
+        "place_id": "ChIJBR5VpiNMwokRc14gbM2OAPk",
+        "plus_code": {
+          "compound_code": "JV28+GX New York, NY, USA",
+          "global_code": "87G7JV28+GX"
+        },
+        "reference": "ChIJBR5VpiNMwokRc14gbM2OAPk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59713,
+            "lng": -74.133156
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59850363029149,
+              "lng": -74.1316751197085
+            },
+            "southwest": {
+              "lat": 40.59580566970849,
+              "lng": -74.13437308029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Roanoke St",
+        "place_id": "ChIJaZEtYRhMwokRN3EUDJ0PKYs",
+        "plus_code": {
+          "compound_code": "HVW8+VP New York, NY, USA",
+          "global_code": "87G7HVW8+VP"
+        },
+        "rating": 2,
+        "reference": "ChIJaZEtYRhMwokRN3EUDJ0PKYs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5945245,
+            "lng": -74.135105
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59584203029149,
+              "lng": -74.13376931970849
+            },
+            "southwest": {
+              "lat": 40.59314406970849,
+              "lng": -74.1364672802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Av/Babe Ruth Stadium",
+        "place_id": "ChIJBTdH5hlMwokRgRW0iAdUyJ8",
+        "plus_code": {
+          "compound_code": "HVV7+RX New York, NY, USA",
+          "global_code": "87G7HVV7+RX"
+        },
+        "rating": 5,
+        "reference": "ChIJBTdH5hlMwokRgRW0iAdUyJ8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.597244,
+            "lng": -74.132622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5986303302915,
+              "lng": -74.1313243197085
+            },
+            "southwest": {
+              "lat": 40.5959323697085,
+              "lng": -74.1340222802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Roanoke St",
+        "place_id": "ChIJ49afiRhMwokRr5pwpVznKuw",
+        "plus_code": {
+          "compound_code": "HVW8+VX New York, NY, USA",
+          "global_code": "87G7HVW8+VX"
+        },
+        "rating": 2,
+        "reference": "ChIJ49afiRhMwokRr5pwpVznKuw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594528,
+            "lng": -74.142906
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5958993802915,
+              "lng": -74.14160336970849
+            },
+            "southwest": {
+              "lat": 40.5932014197085,
+              "lng": -74.1443013302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Forest Hill Rd/Field St",
+        "place_id": "ChIJ9UJ09RNMwokRtuRivNcoFwg",
+        "plus_code": {
+          "compound_code": "HVV4+RR New York, NY, USA",
+          "global_code": "87G7HVV4+RR"
+        },
+        "reference": "ChIJ9UJ09RNMwokRtuRivNcoFwg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.600115,
+            "lng": -74.131073
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6014614802915,
+              "lng": -74.1297552697085
+            },
+            "southwest": {
+              "lat": 40.5987635197085,
+              "lng": -74.1324532302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Av/Portage Av",
+        "place_id": "ChIJP4g-NCJMwokRcxZqQnWM68g",
+        "plus_code": {
+          "compound_code": "JV29+2H New York, NY, USA",
+          "global_code": "87G7JV29+2H"
+        },
+        "reference": "ChIJP4g-NCJMwokRcxZqQnWM68g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60142099999999,
+            "lng": -74.131294
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60278943029149,
+              "lng": -74.12994731970849
+            },
+            "southwest": {
+              "lat": 40.6000914697085,
+              "lng": -74.1326452802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Av/Harold St",
+        "place_id": "ChIJbx2awCNMwokRD_7IVHxsvyY",
+        "plus_code": {
+          "compound_code": "JV29+HF New York, NY, USA",
+          "global_code": "87G7JV29+HF"
+        },
+        "reference": "ChIJbx2awCNMwokRD_7IVHxsvyY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594673,
+            "lng": -74.135086
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59601963029149,
+              "lng": -74.1337309697085
+            },
+            "southwest": {
+              "lat": 40.59332166970849,
+              "lng": -74.1364289302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Babe Ruth Field",
+        "place_id": "ChIJp4Pr5xlMwokRKY2uGpdUAxc",
+        "plus_code": {
+          "compound_code": "HVV7+VX New York, NY, USA",
+          "global_code": "87G7HVV7+VX"
+        },
+        "reference": "ChIJp4Pr5xlMwokRKY2uGpdUAxc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.601269,
+            "lng": -74.13147699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60268128029151,
+              "lng": -74.13013546970849
+            },
+            "southwest": {
+              "lat": 40.59998331970851,
+              "lng": -74.13283343029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Harold St/Bradley Ave",
+        "photos": [
+          {
+            "height": 3984,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109481085339070439755\">Yanik Kaploon</a>"
+            ],
+            "photo_reference": "AU_ZVEHUItGOGYCbdnRQU4UxXmIp4g581-SA6vOF_ihQy1Vvhb5tl_TdOM5OUgLvD1LFCgHzCSfFhuFn4XWjjwu2apq65ebSHFqXHd2TuQic76W3NZuEfr658L34tfHSBBLEKEiE9vzHndlcAFsC25kBM-zfqoqYa3ISj2CROP_Fkb1KfHThKPuqT3B3bioUSfkpZ7d3aawUWlgqMRiE2TDrJLHgI1tGPuKeAUO8T8wHriLc8Ztcu5l4pMUlsfp9vKrqYarraphwpoJiE5rE-EbKuSDaB-eGFPBgQngEQucEUl5DtZJSSM5nhop4L7eHEzcGIdHILdSJSsIG4AF7Atd6BNoqpH802Q33aGzyeIz8pNB6FsH_JZOmrErgt5QWi9g0sjJ3iGq0__o1LzOtan6Ce91G-g5_rhNOuVzSRwd_Zw5vg5C7EU89R1whhJKBggT8HCYPZK5Q5-TV8-Cgg1gEGQPi3QqS6hh02ntqu35zj7BfWDGI_yivGQoNoolnN8mmqsrw5WEYH4ppmfJEQMEJZKV_onD_9J-FgDv8JPMSvKQ6Ul-_r3FmfmsMKu6lLT7NrJvtT8q7fxfVLngsKnAvLhGpUFH5xGa6lig-7GXEmLVpLy1FdxwGOwKxf-nv0o35",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJtTrQuCNMwokR3QvFZLZ6TbA",
+        "plus_code": {
+          "compound_code": "JV29+GC New York, NY, USA",
+          "global_code": "87G7JV29+GC"
+        },
+        "rating": 1,
+        "reference": "ChIJtTrQuCNMwokR3QvFZLZ6TbA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5987605,
+            "lng": -74.130924
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60015953029149,
+              "lng": -74.12955606970849
+            },
+            "southwest": {
+              "lat": 40.59746156970849,
+              "lng": -74.1322540302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Av/Brielle Av",
+        "place_id": "ChIJISBQESJMwokRJtRLjgd7-ZI",
+        "plus_code": {
+          "compound_code": "HVX9+GJ New York, NY, USA",
+          "global_code": "87G7HVX9+GJ"
+        },
+        "reference": "ChIJISBQESJMwokRJtRLjgd7-ZI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59997600000001,
+            "lng": -74.131142
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60132898029151,
+              "lng": -74.12974416970849
+            },
+            "southwest": {
+              "lat": 40.59863101970851,
+              "lng": -74.13244213029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Portage Ave",
+        "place_id": "ChIJG6v1NiJMwokRAbC3sqVypTw",
+        "plus_code": {
+          "compound_code": "HVX9+XG New York, NY, USA",
+          "global_code": "87G7HVX9+XG"
+        },
+        "reference": "ChIJG6v1NiJMwokRAbC3sqVypTw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60152399999999,
+            "lng": -74.131363
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60287698029149,
+              "lng": -74.12996386970848
+            },
+            "southwest": {
+              "lat": 40.60017901970849,
+              "lng": -74.1326618302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Harold St",
+        "place_id": "ChIJH--FvyNMwokRzUZ5Rn4Irhs",
+        "plus_code": {
+          "compound_code": "JV29+JF New York, NY, USA",
+          "global_code": "87G7JV29+JF"
+        },
+        "rating": 4.7,
+        "reference": "ChIJH--FvyNMwokRzUZ5Rn4Irhs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59436400000001,
+            "lng": -74.135094
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5957242802915,
+              "lng": -74.13378661970849
+            },
+            "southwest": {
+              "lat": 40.59302631970851,
+              "lng": -74.1364845802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Babe Ruth Field",
+        "place_id": "ChIJb3LE5RlMwokR6PhIqosm0QQ",
+        "plus_code": {
+          "compound_code": "HVV7+PX New York, NY, USA",
+          "global_code": "87G7HVV7+PX"
+        },
+        "rating": 3.7,
+        "reference": "ChIJb3LE5RlMwokR6PhIqosm0QQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60025399999999,
+            "lng": -74.13100399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60159923029149,
+              "lng": -74.12969671970849
+            },
+            "southwest": {
+              "lat": 40.59890126970849,
+              "lng": -74.13239468029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Portage Ave",
+        "place_id": "ChIJSTOaNCJMwokRO9I3Sa4Vzmk",
+        "plus_code": {
+          "compound_code": "JV29+4H New York, NY, USA",
+          "global_code": "87G7JV29+4H"
+        },
+        "rating": 4,
+        "reference": "ChIJSTOaNCJMwokRO9I3Sa4Vzmk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59869799999999,
+            "lng": -74.131126
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6001133802915,
+              "lng": -74.12973286970849
+            },
+            "southwest": {
+              "lat": 40.5974154197085,
+              "lng": -74.13243083029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Brielle Ave",
+        "place_id": "ChIJWYgoDSJMwokRYgEk2eFzHIc",
+        "plus_code": {
+          "compound_code": "HVX9+FG New York, NY, USA",
+          "global_code": "87G7HVX9+FG"
+        },
+        "rating": 5,
+        "reference": "ChIJWYgoDSJMwokRYgEk2eFzHIc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.601494,
+            "lng": -74.131165
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60284538029151,
+              "lng": -74.1298636697085
+            },
+            "southwest": {
+              "lat": 40.60014741970851,
+              "lng": -74.1325616302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Harold St",
+        "place_id": "ChIJFbGowSNMwokRcY36NceLxgI",
+        "plus_code": {
+          "compound_code": "JV29+HG New York, NY, USA",
+          "global_code": "87G7JV29+HG"
+        },
+        "reference": "ChIJFbGowSNMwokRcY36NceLxgI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.599102,
+            "lng": -74.130844
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6004466802915,
+              "lng": -74.1295312197085
+            },
+            "southwest": {
+              "lat": 40.59774871970851,
+              "lng": -74.1322291802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Brielle Ave",
+        "place_id": "ChIJA1rVFyJMwokRvNPtUdiaZ3U",
+        "plus_code": {
+          "compound_code": "HVX9+JM New York, NY, USA",
+          "global_code": "87G7HVX9+JM"
+        },
+        "reference": "ChIJA1rVFyJMwokRvNPtUdiaZ3U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.598698,
+            "lng": -74.130554
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6000366802915,
+              "lng": -74.12920096970849
+            },
+            "southwest": {
+              "lat": 40.5973387197085,
+              "lng": -74.1318989302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Bradley Ave",
+        "place_id": "ChIJPSMQGiJMwokRpVXKp19S9tI",
+        "plus_code": {
+          "compound_code": "HVX9+FQ New York, NY, USA",
+          "global_code": "87G7HVX9+FQ"
+        },
+        "reference": "ChIJPSMQGiJMwokRpVXKp19S9tI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.598591,
+            "lng": -74.130348
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5999866302915,
+              "lng": -74.12900861970849
+            },
+            "southwest": {
+              "lat": 40.5972886697085,
+              "lng": -74.13170658029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Bradley Ave",
+        "place_id": "ChIJNWSjGyJMwokRCdUunnhhKdY",
+        "plus_code": {
+          "compound_code": "HVX9+CV New York, NY, USA",
+          "global_code": "87G7HVX9+CV"
+        },
+        "reference": "ChIJNWSjGyJMwokRCdUunnhhKdY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.603798,
+            "lng": -74.131638
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6051463302915,
+              "lng": -74.13027156970848
+            },
+            "southwest": {
+              "lat": 40.6024483697085,
+              "lng": -74.13296953029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Willowbrook Rd",
+        "place_id": "ChIJNW8RbCRMwokRvKAJqb4o3oA",
+        "plus_code": {
+          "compound_code": "JV39+G8 New York, NY, USA",
+          "global_code": "87G7JV39+G8"
+        },
+        "rating": 5,
+        "reference": "ChIJNW8RbCRMwokRvKAJqb4o3oA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.603889,
+            "lng": -74.131485
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6052791302915,
+              "lng": -74.1301331697085
+            },
+            "southwest": {
+              "lat": 40.6025811697085,
+              "lng": -74.1328311302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Holden Blvd",
+        "place_id": "ChIJ8UxyayRMwokRSrcr4NXRaQQ",
+        "plus_code": {
+          "compound_code": "JV39+HC New York, NY, USA",
+          "global_code": "87G7JV39+HC"
+        },
+        "reference": "ChIJ8UxyayRMwokRSrcr4NXRaQQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.607368,
+            "lng": -74.13887
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60873258029149,
+              "lng": -74.13752241970849
+            },
+            "southwest": {
+              "lat": 40.6060346197085,
+              "lng": -74.14022038029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "South Gannon Ave/Ardmore Ave",
+        "place_id": "ChIJO1zWXjpMwokRr_SSM9OfM9s",
+        "plus_code": {
+          "compound_code": "JV46+WF New York, NY, USA",
+          "global_code": "87G7JV46+WF"
+        },
+        "reference": "ChIJO1zWXjpMwokRr_SSM9OfM9s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.593266,
+            "lng": -74.13418600000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5945827302915,
+              "lng": -74.13286616970849
+            },
+            "southwest": {
+              "lat": 40.5918847697085,
+              "lng": -74.13556413029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seaview Hospital Exit/Traffic Loop",
+        "place_id": "ChIJz784IBpMwokRUXcUVU5YdRE",
+        "plus_code": {
+          "compound_code": "HVV8+88 New York, NY, USA",
+          "global_code": "87G7HVV8+88"
+        },
+        "reference": "ChIJz784IBpMwokRUXcUVU5YdRE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.593182,
+            "lng": -74.134041
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5945015302915,
+              "lng": -74.13271896970848
+            },
+            "southwest": {
+              "lat": 40.5918035697085,
+              "lng": -74.1354169302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seaview Hospital/Traffic Cir #2",
+        "place_id": "ChIJq9ccIRpMwokRqOnG9d-MVPc",
+        "plus_code": {
+          "compound_code": "HVV8+79 New York, NY, USA",
+          "global_code": "87G7HVV8+79"
+        },
+        "reference": "ChIJq9ccIRpMwokRqOnG9d-MVPc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.592999,
+            "lng": -74.134377
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59439053029151,
+              "lng": -74.13298971970849
+            },
+            "southwest": {
+              "lat": 40.59169256970851,
+              "lng": -74.1356876802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seaview Hospital/Traffic Loop",
+        "place_id": "ChIJx_6wGBpMwokRNKo1sAIEx30",
+        "plus_code": {
+          "compound_code": "HVV8+56 New York, NY, USA",
+          "global_code": "87G7HVV8+56"
+        },
+        "reference": "ChIJx_6wGBpMwokRNKo1sAIEx30",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.593098,
+            "lng": -74.133896
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5944184302915,
+              "lng": -74.1325688197085
+            },
+            "southwest": {
+              "lat": 40.59172046970851,
+              "lng": -74.1352667802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seaview Hospital Exit/Traffic Loop",
+        "place_id": "ChIJn47KJhpMwokRoP6nimvdQtw",
+        "plus_code": {
+          "compound_code": "HVV8+6C New York, NY, USA",
+          "global_code": "87G7HVV8+6C"
+        },
+        "reference": "ChIJn47KJhpMwokRoP6nimvdQtw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60553,
+            "lng": -74.131771
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6068762302915,
+              "lng": -74.13046626970849
+            },
+            "southwest": {
+              "lat": 40.60417826970851,
+              "lng": -74.13316423029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Av/Westwood Av",
+        "place_id": "ChIJMQlusyVMwokRAIspYFQAGjU",
+        "plus_code": {
+          "compound_code": "JV49+67 New York, NY, USA",
+          "global_code": "87G7JV49+67"
+        },
+        "reference": "ChIJMQlusyVMwokRAIspYFQAGjU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.592922,
+            "lng": -74.134132
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5942957802915,
+              "lng": -74.13276061970849
+            },
+            "southwest": {
+              "lat": 40.5915978197085,
+              "lng": -74.1354585802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Seaview Hospital/Traffic Loop",
+        "place_id": "ChIJZQ9OIhpMwokROPbxYLlXmkE",
+        "plus_code": {
+          "compound_code": "HVV8+58 New York, NY, USA",
+          "global_code": "87G7HVV8+58"
+        },
+        "reference": "ChIJZQ9OIhpMwokROPbxYLlXmkE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.605373,
+            "lng": -74.13163
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60671798029149,
+              "lng": -74.1303455697085
+            },
+            "southwest": {
+              "lat": 40.6040200197085,
+              "lng": -74.1330435302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Westwood Ave",
+        "place_id": "ChIJF3dXSyRMwokRIhL1CkOacBg",
+        "plus_code": {
+          "compound_code": "JV49+48 New York, NY, USA",
+          "global_code": "87G7JV49+48"
+        },
+        "reference": "ChIJF3dXSyRMwokRIhL1CkOacBg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59266299999999,
+            "lng": -74.14456899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5940305302915,
+              "lng": -74.14320591970849
+            },
+            "southwest": {
+              "lat": 40.5913325697085,
+              "lng": -74.14590388029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Forest Hill Rd/Staten Island Developmental Office",
+        "place_id": "ChIJE5pUBxNMwokRMzgRFl2jNp8",
+        "plus_code": {
+          "compound_code": "HVV4+35 New York, NY, USA",
+          "global_code": "87G7HVV4+35"
+        },
+        "reference": "ChIJE5pUBxNMwokRMzgRFl2jNp8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.605698,
+            "lng": -74.13192699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.60702953029151,
+              "lng": -74.13064141970848
+            },
+            "southwest": {
+              "lat": 40.60433156970851,
+              "lng": -74.1333393802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bradley Ave/Westwood Ave",
+        "place_id": "ChIJjanPsyVMwokRF38cRW1IDmY",
+        "plus_code": {
+          "compound_code": "JV49+76 New York, NY, USA",
+          "global_code": "87G7JV49+76"
+        },
+        "rating": 5,
+        "reference": "ChIJjanPsyVMwokRF38cRW1IDmY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.608017,
+            "lng": -74.143005
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6093739802915,
+              "lng": -74.1416560697085
+            },
+            "southwest": {
+              "lat": 40.6066760197085,
+              "lng": -74.14435403029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "North Gannon Ave/Woodward Ave",
+        "place_id": "ChIJazyUlTlMwokRI79gNMFXOnQ",
+        "plus_code": {
+          "compound_code": "JV54+6Q New York, NY, USA",
+          "global_code": "87G7JV54+6Q"
+        },
+        "reference": "ChIJazyUlTlMwokRI79gNMFXOnQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.598343,
+            "lng": -74.128151
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59965198029149,
+              "lng": -74.12676451970849
+            },
+            "southwest": {
+              "lat": 40.5969540197085,
+              "lng": -74.1294624802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Ave/Livingston Ave",
+        "place_id": "ChIJ-7nGwyFMwokRbZruyU-fn60",
+        "plus_code": {
+          "compound_code": "HVXC+8P New York, NY, USA",
+          "global_code": "87G7HVXC+8P"
+        },
+        "reference": "ChIJ-7nGwyFMwokRbZruyU-fn60",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59841549999999,
+            "lng": -74.12801
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59976548029149,
+              "lng": -74.12670321970849
+            },
+            "southwest": {
+              "lat": 40.5970675197085,
+              "lng": -74.12940118029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brielle Av/Livingston Av",
+        "place_id": "ChIJwXiuxiFMwokRFuQ2j-I5hlw",
+        "plus_code": {
+          "compound_code": "HVXC+9Q New York, NY, USA",
+          "global_code": "87G7HVXC+9Q"
+        },
+        "reference": "ChIJwXiuxiFMwokRFuQ2j-I5hlw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6036606,
+          "lng": -74.1314055
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6050089302915,
+            "lng": -74.1301306197085
+          },
+          "southwest": {
+            "lat": 40.6023109697085,
+            "lng": -74.1328285802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-682-1703",
+      "name": "Bradley pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104952752594467411451\">Bradley pizza</a>"
+          ],
+          "photo_reference": "AU_ZVEHBfTviW6AX4IGFs6ScS645OYSG4yOIwdd2trKnbgeNI67jZoo18E1aqO3bhTQVYZsg1fIsOt4W2YraEmsI1GMn324HgxhHeAvy6Sa10e_dqKNpGmZZtxhLpwsXtkEvK8uDc3SEYxt0-6HH6UvSSGBpBlApEkQckRphFmOsnhIohDpx7066695v9hwVCFWnK1EeiUuTItSXuphZkTg_yOb4H5Yv5uSmNqjT6cz2h4EIQjePLSOsvGZnV2X_CL5oriaRdsEUBRus1FySyX69T2DMNk1XLE-vPNYEH0yEvuau0tozr5ZPzPqAZ7u8_OVKhu3t371AoPk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJwXLgMHZOwokRh9j94BKJiDs",
+      "plus_code": {
+        "compound_code": "JV39+FC Staten Island, NY, USA",
+        "global_code": "87G7JV39+FC"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJwXLgMHZOwokRh9j94BKJiDs",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 172,
+      "vicinity": "311 Bradley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5972893,
+          "lng": -74.13555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5987544302915,
+            "lng": -74.13417656970849
+          },
+          "southwest": {
+            "lat": 40.5960564697085,
+            "lng": -74.13687453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-744-6011",
+      "name": "BRUNCHBEAN",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJS80ILaVNwokRolN0r7_hyok",
+      "plus_code": {
+        "compound_code": "HVW7+WQ Staten Island, NY, USA",
+        "global_code": "87G7HVW7+WQ"
+      },
+      "reference": "ChIJS80ILaVNwokRolN0r7_hyok",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "80 Roanoke Street, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5996363,
+          "lng": -74.1312677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6009576802915,
+            "lng": -74.12993196970851
+          },
+          "southwest": {
+            "lat": 40.5982597197085,
+            "lng": -74.13262993029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-494-7455",
+      "name": "SILK SPOON",
+      "photos": [
+        {
+          "height": 3681,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111838647538192037482\">SILK SPOON</a>"
+          ],
+          "photo_reference": "AU_ZVEFUGkZ24-fLmUCct1gix-4FIEoxW0hTAEiTFivZAAWjU9bEaGbXHgfxvTtIcoHIHti3fzx-da04tO2_-sSBA-CgF5LicLwzmcPC1PT09JeIeOLHrHq-IX7cRBR4HJAorDzw1lwVrbubXJbp7fkMlPdvv7fSSLTsy9R0cUHhMa_gVqZWDJuD5nEKslUZDDio58nnI3_BqxQqxMJwSwGdT9tw6WF4kmOJLJMspik7aAUynXkF6uKMlT3efrBR-mJ3TQSBI8FZD2-4Vu9NvhxKN1UCas9bD8MHUZ5K3GnUvcSu50zFWF5qk33eSU6kd5C8JMrg0B9K",
+          "width": 5522
+        }
+      ],
+      "place_id": "ChIJ-VcdLsxNwokRFk0hrPEJf18",
+      "plus_code": {
+        "compound_code": "HVX9+VF Staten Island, NY, USA",
+        "global_code": "87G7HVX9+VF"
+      },
+      "rating": 5,
+      "reference": "ChIJ-VcdLsxNwokRFk0hrPEJf18",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 74,
+      "vicinity": "460 Bradley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6031349,
+          "lng": -74.1318526
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6045054302915,
+            "lng": -74.1303220697085
+          },
+          "southwest": {
+            "lat": 40.6018074697085,
+            "lng": -74.1330200302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-871-4319",
+      "name": "MILK N' HONEY",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117320525403310364311\">Sruly Discovers</a>"
+          ],
+          "photo_reference": "AU_ZVEFHIezG6rzFaUaU-RgibufUJa_zKNwhkhrnSeP-7gcmVux51FzBdYNO1hMPI35gz2IWydXixJczpCvyGWYNntdb--OCWKAjTEyXmToy0DkI-rvJoE-Hog_Xc2yXLzaio4RQT8Wj9Y0ZYyry_wRg-a5_JWa02BmGt3bGTiC-4eBsa1uv1n6EP0gRF4C8bCsERImtDN4P3tKRBksHJOHkodLxD9dyFh2buriJ0H88sW9jIA4vvhENo5Oz5CyENkemQQCjpnjBUz6S6Wtca5nzFhzMWCL6adAq-ILCB9ailRVYjNQtdk5SnWEXLfbPm8pSXtKd7kHJ-ZicEW9eaPdkzc0q2k8mgv-0rgDojlFVw8F3_ay-DET63LxaIz3tgTBvqDOWyYNmE2b6z2A88kIctSh0nvnidxtoRy6XwLBXvIUKDWoqv6iSbtAJLScwMCvZHjD_SF6k_WudNsrB-Zs8Xj6tOZ2oIlob_jRGxxcyiDb1TwhI3TatWeqVJBgwH30iZZX2zI11KjjdijkjdCdPXoMif5Outir1_7D2nuYUpAZogtIznUeUdnMyFBd1l4PpxOTLWblztWSUdqZVrAKxMAOqsxkZKbeRXr4e0201MG--4eDXMnataf4kyDIHxzPa0G25qJI8-Rf5usk9fiNDN3qVdcA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJqXd0x6lNwokRVSqBNnfbA_0",
+      "plus_code": {
+        "compound_code": "JV39+77 Staten Island, NY, USA",
+        "global_code": "87G7JV39+77"
+      },
+      "rating": 4.7,
+      "reference": "ChIJqXd0x6lNwokRVSqBNnfbA_0",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "330 Bradley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6031349,
+          "lng": -74.1318526
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6045054302915,
+            "lng": -74.1303220697085
+          },
+          "southwest": {
+            "lat": 40.6018074697085,
+            "lng": -74.1330200302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-794-2070",
+      "name": "Sruly's Heimishe Kitchen & Deli",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105790452300122794195\">G A (TheFamous)</a>"
+          ],
+          "photo_reference": "AU_ZVEHCtqoQK3pJUDY8fWflOrfdyhYm1Kd9BJ-zvfuCyTXseqJPUwTq7nJsGPLIdvDuJwsU8JP1PVnZOPEyaIwhx3Pf21W0d7q2ltgSpKwCh8fqbX_79yBGnTYhkksH4zSE5TdqrjuuBVook0BQr9t5bRSCbKRMF4VjMnYu9CTJVEhMwCT8wVum1gTARBRvy8ig9y5sahIZ6Nztjtz3cKvNOf5KqZzPcpDKOokI-wkfZGRFtBo3A_fed0meVObL2iQQkHAZyen9BXpLQXu41-YMFH9KdpLD8KQ2fmG-Iy2G2KSzfrQ9eUe76RX9IcuXn42mGAEr4CVctjToBNBElMIfr3YjdnwDhfvlSfIwj8V1jTo_bO4mPH1gW9XxMGIupoaYiEyhZZD_95SaRFXHCOWxvdhJAACNhLhxuZ3TdHDGZJJlGJqjQ_3AEWpfyHHLGbt7KywIMS3ZPjB5Flb1ASxLA-ewjxq571gCiyqxhCjYKQQ4z_zN4lNFgGQiWHp1yvZ8HcTCA0vaSCURUA3gBPUKftmLA5Pg-fr60KeGgPTbekVq6m5meuqLt_PETdPM0DJBtj0GG-IsxZmMY3QcQOJps9OO8z7jewMHGxTPjzVGY7YGdXAAH-9RwrQrpxFvdnk5sSoqErSs",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJIcCxV8lNwokRDzUtfftbIkI",
+      "plus_code": {
+        "compound_code": "JV39+77 Staten Island, NY, USA",
+        "global_code": "87G7JV39+77"
+      },
+      "rating": 4.6,
+      "reference": "ChIJIcCxV8lNwokRDzUtfftbIkI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "330 Bradley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6036673,
+          "lng": -74.1313709
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6050094302915,
+            "lng": -74.13011316970851
+          },
+          "southwest": {
+            "lat": 40.6023114697085,
+            "lng": -74.13281113029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-801-0627",
+      "name": "Island Sushi",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 964,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100902092835082901864\">Island Sushi</a>"
+          ],
+          "photo_reference": "AU_ZVEFg1SYxIHE8nq82hi2vv_LPZgvVqqQj3uBDP4d5pIMlSFXvIYEJyLcFPr0evCWMKVq7eZPZ-4_5roNFO_AC3T0WUvm2f251u4rYimQZKHvpKgzqljqD4CBXgsmCg___4Yw-8N4wo5MeCLSh9FznraAmhyN4n575IqEh6iTgf_ecHugVVYyWkfPuqFPnO2ZD-Y7Z5KIXf9ri2YXbqPCL1Mh5TGeX2hWWj-sqkH0JBs7Chd3CBF_SrdVAjTHrCfBPN5KXQyBmx6OIR5Umjo73YRsWNiR-GvoU9LORDgPQCv2DulTdkyG_9FdSlg8hOBD0TEOACGB9Q2U",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJm_0SQXhNwokRL60MvIUyIOs",
+      "plus_code": {
+        "compound_code": "JV39+FF Staten Island, NY, USA",
+        "global_code": "87G7JV39+FF"
+      },
+      "rating": 4.2,
+      "reference": "ChIJm_0SQXhNwokRL60MvIUyIOs",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 40,
+      "vicinity": "309 Bradley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60366930000001,
+          "lng": -74.1313634
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6050600302915,
+            "lng": -74.13011546970849
+          },
+          "southwest": {
+            "lat": 40.60236206970851,
+            "lng": -74.13281343029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-982-6735",
+      "name": "Peking Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116322026384651751859\">Jesus Benavides</a>"
+          ],
+          "photo_reference": "AU_ZVEEKxQVOYbu48Fnaq9AaRABawFrk2C-c1oNDvD_Av559IAay_AiKNp3Ho1xagR70BvB0vdTYt5IoVHjqEMjJltfXZ89IPr3szReH65jA3pPJLJE1oxKDWNr3w4HKwQ0ju_y84Dn-XHGJRhkTOw4EtPpdBF1-VseOXEtpE7ogpDWkEtXL4SN0gAGPxMmUmUh1IVSB6PHwx2gjSID87YDBCHC5IpwWNT5DIjQ_7gxNFqCE5fiGbsNCogVVq1Cogsx1_GRWNO3CeZ4cCjYCFfBP5W7sqmjpo7nFxRKaT3-L-unfc_gZqmUbCuny9zuedvyQun6Z-QBogEj7DV48hgrO84vQlzjDKpy4ACsmaztR2Nd5sku0bf9eRfj1c3_L9662_tOPn-fwHU7fUiDITLLbIriS0hEO9wJWWC_T9kJ8ugUaT1J8_Nc2Enwt-s88NwYRntRITInHyUDOY9HqA5GmzMPMfDGFFo3UONsqPGi1Qzug_mxhR-2Cwgwls3Rmc4IWuCwtP3pkP2jeIt5PJH8kSGO1CmeAn7UoCipzH2Iir_6og7frfJKJR88-9QtaNQOJArXHSzBGiAnm9VNw6qxUx6gSYMM6fQiQHnghCR7heSo0EmveADU-JpuJcPkPOsfdDZbScg",
+          "width": 2080
+        }
+      ],
+      "place_id": "ChIJvbk8EyRMwokRhw1oPQ9wpM8",
+      "plus_code": {
+        "compound_code": "JV39+FF Staten Island, NY, USA",
+        "global_code": "87G7JV39+FF"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJvbk8EyRMwokRhw1oPQ9wpM8",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 133,
+      "vicinity": "309 Bradley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.599666,
+          "lng": -74.149711
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6009860302915,
+            "lng": -74.1484904197085
+          },
+          "southwest": {
+            "lat": 40.5982880697085,
+            "lng": -74.1511883802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 312-229-0099",
+      "name": "Farmer's Fridge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 270,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100280580019428957099\">Farmer&#39;s Fridge</a>"
+          ],
+          "photo_reference": "AU_ZVEG355r3TJK4im3K8_e5BVzqotHWhanSI0QsQZNbypPsW5TfmUAG17AmJkiN-Bg6RBKaHIaguX-sshLKX-G7Fjp9kSU85lzaYec2fyoxmz2pn2J8vIIgHLGMIVzvuZgUA3rBiVIS65RpZW1aDyy9m7uTAfNZSQ6ecdwal4nvVSK1q4BYdBYjkDrcovn6lgerNUIhq93NYWq0GeV8qU-xxiDdp-cln5tYJr_vRB9F0VDtVHzAyKPiux8j-2n7BEpMW13LitM4AR6YFoiYIOSfrX0axv__yEZCM2yQnLYsqzdVO9e0SCL4aYUbdnj7kHr6vse1I7YH7tA",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJgV6f_p9NwokRgEE_UBKQ40o",
+      "plus_code": {
+        "compound_code": "HVX2+V4 Staten Island, NY, USA",
+        "global_code": "87G7HVX2+V4"
+      },
+      "reference": "ChIJgV6f_p9NwokRgEE_UBKQ40o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2800 Victory Blvd Located in the 1P Performing Arts Building in the entrance opposite the parking, lot entrance, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60738449999999,
+          "lng": -74.1346167
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60870778029149,
+            "lng": -74.1334020697085
+          },
+          "southwest": {
+            "lat": 40.6060098197085,
+            "lng": -74.1361000302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "Ding Ho",
+      "place_id": "ChIJ13lvbABNwokRKDKDS2c56J4",
+      "plus_code": {
+        "compound_code": "JV48+X5 Staten Island, NY, USA",
+        "global_code": "87G7JV48+X5"
+      },
+      "reference": "ChIJ13lvbABNwokRKDKDS2c56J4",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "217 Kell Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6006756,
+          "lng": -74.1329059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6020397302915,
+            "lng": -74.1316430697085
+          },
+          "southwest": {
+            "lat": 40.5993417697085,
+            "lng": -74.13434103029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "name": "\u0432\u043e\u043b\u0435\u0439\u0431\u043e\u043b\u044c\u043d\u044b\u0439 \u043c\u044f\u0447\u0438\u043a",
+      "place_id": "ChIJvYLrFABNwokRGm4oWBSB6iM",
+      "plus_code": {
+        "compound_code": "JV28+7R Staten Island, NY, USA",
+        "global_code": "87G7JV28+7R"
+      },
+      "reference": "ChIJvYLrFABNwokRGm4oWBSB6iM",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "34 Larrison Loop, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5971451,
+          "lng": -74.1378632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5984940802915,
+            "lng": -74.13651421970849
+          },
+          "southwest": {
+            "lat": 40.5957961197085,
+            "lng": -74.13921218029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Gorgeous, Modern, updated Duplex",
+      "place_id": "ChIJqathuhdMwokRjSlUC27dYhk",
+      "plus_code": {
+        "compound_code": "HVW6+VV New York, NY, USA",
+        "global_code": "87G7HVW6+VV"
+      },
+      "reference": "ChIJqathuhdMwokRjSlUC27dYhk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5971451,
+          "lng": -74.1378632
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5984940802915,
+            "lng": -74.13651421970849
+          },
+          "southwest": {
+            "lat": 40.5957961197085,
+            "lng": -74.13921218029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Gorgeous, Modern, updated Duplex",
+      "place_id": "ChIJqathuhdMwokRIyBGVreJEhA",
+      "plus_code": {
+        "compound_code": "HVW6+VV New York, NY, USA",
+        "global_code": "87G7HVW6+VV"
+      },
+      "reference": "ChIJqathuhdMwokRIyBGVreJEhA",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6007766,
+          "lng": -74.1335983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60205083029149,
+            "lng": -74.1322329697085
+          },
+          "southwest": {
+            "lat": 40.5993528697085,
+            "lng": -74.1349309302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Modern Cozy Studio Apartment",
+      "place_id": "ChIJnYJGHSNMwokRCIFwMywVyyY",
+      "plus_code": {
+        "compound_code": "JV28+8H New York, NY, USA",
+        "global_code": "87G7JV28+8H"
+      },
+      "reference": "ChIJnYJGHSNMwokRCIFwMywVyyY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5977211,
+          "lng": -74.1331482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59893683029151,
+            "lng": -74.13183491970848
+          },
+          "southwest": {
+            "lat": 40.59623886970851,
+            "lng": -74.1345328802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Modern Cozy Studio Apartment",
+      "place_id": "ChIJQdZ9fBhMwokRBtwKiksAHQk",
+      "plus_code": {
+        "compound_code": "HVX8+3P New York, NY, USA",
+        "global_code": "87G7HVX8+3P"
+      },
+      "reference": "ChIJQdZ9fBhMwokRBtwKiksAHQk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5980492,
+          "lng": -74.1329422
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5994774802915,
+            "lng": -74.1315891697085
+          },
+          "southwest": {
+            "lat": 40.59677951970851,
+            "lng": -74.13428713029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cozy 2 Bedroom 1.5 Bath Duplex",
+      "place_id": "ChIJs7KkfxhMwokRLU_c39xemlg",
+      "plus_code": {
+        "compound_code": "HVX8+6R New York, NY, USA",
+        "global_code": "87G7HVX8+6R"
+      },
+      "reference": "ChIJs7KkfxhMwokRLU_c39xemlg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6063574,
+          "lng": -74.1418281
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6077322302915,
+            "lng": -74.1399533197085
+          },
+          "southwest": {
+            "lat": 40.6050342697085,
+            "lng": -74.1426512802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Westwood Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1816,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110498727405756752274\">Adam S.</a>"
+          ],
+          "photo_reference": "AU_ZVEHOm5tv92uoddd5SjqpHYN3NOki8LgYauUzibC-cJksoV3HvV8JM5IPIfm0Yy7USu-fiRl5FQx8ZVqie2But8EYu7MrjLuEEs5ZrYS3EIhcQD5vmG71MDyOlJdy5BFaIgiUbYdj-PF6INZOoeeyEmHqIDhCEmmm9V9kEVURphcjWekSvGqnnkyY7ktQjtwUgC7KkgwJ4pAE_wlvJBXtlzbFg5aE9q-NxtPVGVLiqPwAE5shoZfu5H_dWeUWDyrlTUKhnkC4Z1APwn6peZ8rYHjhePjtjuiHL6G6olY7fd07sk_D9gifV_PfOgdrkj1eAOwjTAkcexe61ayhffDjdw1DG9eEPiRdFbHhWi9phJarJCvcrst3Hyyau1eFbitofTlwPxIB65tOA4OiOVkdHj4euKDCEaI4Sn-zsDzGpZ8xfn8JOB8JpBsMskNDhzG5G0Fj_fsKT8VT6EaeCJkX35QQaCMi1TmXnzKL6TjsVpdcNCLfaTJMTebfeLyCXozeB27WVauh-G9cdol4cgGynMU0h9Mq9GPCpnsWaSmPQ8jvPmIDd-Zgw0_E_Dc-K1FJNH4gi7p5YDzI3FiZLmFVHMKZbU7slQAZZzfUQyhphSZIbjrJEZf9V8Ls_pcg7V-vL4Y5mg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJN2JNfDlMwokRCDU2SG0rybg",
+      "plus_code": {
+        "compound_code": "JV45+G7 Staten Island, NY, USA",
+        "global_code": "87G7JV45+G7"
+      },
+      "rating": 3.9,
+      "reference": "ChIJN2JNfDlMwokRCDU2SG0rybg",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 79,
+      "vicinity": "Woodward Ave &, Woolley Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60074600000001,
+          "lng": -74.1396905
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60207838029149,
+            "lng": -74.1383399697085
+          },
+          "southwest": {
+            "lat": 40.5993804197085,
+            "lng": -74.1410379302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Forest Hill Rd",
+      "place_id": "ChIJkUHHuz1MwokRJE0C4zm02bg",
+      "plus_code": {
+        "compound_code": "JV26+74 New York, NY, USA",
+        "global_code": "87G7JV26+74"
+      },
+      "reference": "ChIJkUHHuz1MwokRJE0C4zm02bg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5968495,
+          "lng": -74.1412965
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59820543029149,
+            "lng": -74.1399642697085
+          },
+          "southwest": {
+            "lat": 40.59550746970849,
+            "lng": -74.1426622302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forest Hill Rd/Steers St",
+      "place_id": "ChIJjT4dfhZMwokRSoNvMaHiZyc",
+      "plus_code": {
+        "compound_code": "HVW5+PF New York, NY, USA",
+        "global_code": "87G7HVW5+PF"
+      },
+      "reference": "ChIJjT4dfhZMwokRSoNvMaHiZyc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60108719999999,
+          "lng": -74.13478599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6024175302915,
+            "lng": -74.1334346197085
+          },
+          "southwest": {
+            "lat": 40.5997195697085,
+            "lng": -74.1361325802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Sunset Av",
+      "place_id": "ChIJ5VHwJiNMwokRaaLQ1oMW3Lo",
+      "plus_code": {
+        "compound_code": "JV28+C3 New York, NY, USA",
+        "global_code": "87G7JV28+C3"
+      },
+      "reference": "ChIJ5VHwJiNMwokRaaLQ1oMW3Lo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.600689,
+          "lng": -74.139305
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6020852802915,
+            "lng": -74.13796156970851
+          },
+          "southwest": {
+            "lat": 40.5993873197085,
+            "lng": -74.14065953029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Forest Hill Rd",
+      "place_id": "ChIJFXvppD1MwokROzJ1RTkIt3Y",
+      "plus_code": {
+        "compound_code": "JV26+77 New York, NY, USA",
+        "global_code": "87G7JV26+77"
+      },
+      "reference": "ChIJFXvppD1MwokROzJ1RTkIt3Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6008,
+          "lng": -74.140076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6021208802915,
+            "lng": -74.13872416970848
+          },
+          "southwest": {
+            "lat": 40.5994229197085,
+            "lng": -74.14142213029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Forest Hill Rd",
+      "place_id": "ChIJU32RuD1MwokRafm_NWtiEBg",
+      "plus_code": {
+        "compound_code": "JV25+8X New York, NY, USA",
+        "global_code": "87G7JV25+8X"
+      },
+      "rating": 5,
+      "reference": "ChIJU32RuD1MwokRafm_NWtiEBg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59848,
+          "lng": -74.139969
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59984753029151,
+            "lng": -74.1386792197085
+          },
+          "southwest": {
+            "lat": 40.59714956970851,
+            "lng": -74.1413771802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forest Hill Rd/Dorothy St",
+      "place_id": "ChIJUW4oPRZMwokRFXl2_T4YFJs",
+      "plus_code": {
+        "compound_code": "HVX6+92 New York, NY, USA",
+        "global_code": "87G7HVX6+92"
+      },
+      "rating": 4.5,
+      "reference": "ChIJUW4oPRZMwokRFXl2_T4YFJs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60096,
+          "lng": -74.13717700000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6023062302915,
+            "lng": -74.1358276197085
+          },
+          "southwest": {
+            "lat": 40.5996082697085,
+            "lng": -74.1385255802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Joseph Ave",
+      "place_id": "ChIJ81fkIT1MwokR61b0RgRpYJg",
+      "plus_code": {
+        "compound_code": "JV27+94 New York, NY, USA",
+        "global_code": "87G7JV27+94"
+      },
+      "reference": "ChIJ81fkIT1MwokR61b0RgRpYJg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60090599999999,
+          "lng": -74.135986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6022543302915,
+            "lng": -74.13460136970849
+          },
+          "southwest": {
+            "lat": 40.5995563697085,
+            "lng": -74.1372993302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Washington Ave",
+      "place_id": "ChIJG1xMKj1MwokR3Mm4siGtHdQ",
+      "plus_code": {
+        "compound_code": "JV27+9J New York, NY, USA",
+        "global_code": "87G7JV27+9J"
+      },
+      "rating": 5,
+      "reference": "ChIJG1xMKj1MwokR3Mm4siGtHdQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.596855,
+          "lng": -74.141167
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59821993029149,
+            "lng": -74.13985661970851
+          },
+          "southwest": {
+            "lat": 40.59552196970849,
+            "lng": -74.14255458029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forest Hill Rd/Steers St",
+      "photos": [
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108874691977478116762\">KADDOUR Abderrahmen</a>"
+          ],
+          "photo_reference": "AU_ZVEF_1xUCDGTVBgaKZxYZ83Wof7BzSDWIT1HuwRpTV_owwqpWGkcz1Wq25_-65G46oegieEELiV2G8K24getFOtxGiY86kc_pfTv6SQeh-FOFRizV9qBp0PhRIejiPVV2l9CISoZwo_KBq5EYnIZEspu11T3Keo3Gf_lD4_8y9A_zZhSd-Ga1fWfiigtNfuaxeNMXvvXakzM2nqO5Sh-6GMwzGY8chP_afAFA3ojj9374M_f64jZQhpKsFf4hSOvS-EYk3Q8KTrcCErTEyI8udFYvCSvbG48KaUhHvjhhGO3a_HK2NtCmMvCQhBldZU1VX1qyb_iT7oh62ejSTGqoIA4mVY8ZR7-B0f9P2VFwyNOV2PW3zrmgMkUkbinghMSvV0r99sPIkBL6b1R-hcFztAeW6S2TWeirQ_26E8eYjoU9ln0UlGSNyeXgKJwQ-4_7EYV-y85ZaGyF2wP0akj0FEeJaLAiu_7Gn-Bfw797nGvUVOEi3dhWoDADs7uUjD3q5qYLvrbeLlXdXiso2HTuFVg_LhACLg2CsTl6y1xW67dpEcusQb_gVFXSMCucvv-4-J3DksOVe3rDFGtZwDH-qBESnKw7b937y_3TNpRCYia1rhzOyOozPYyrQjR4kgiTeMWxaQ",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJZVPyfRZMwokRzSHkVv-AAtM",
+      "plus_code": {
+        "compound_code": "HVW5+PG New York, NY, USA",
+        "global_code": "87G7HVW5+PG"
+      },
+      "rating": 3,
+      "reference": "ChIJZVPyfRZMwokRzSHkVv-AAtM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59684399999999,
+          "lng": -74.141426
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59816893029149,
+            "lng": -74.1400187197085
+          },
+          "southwest": {
+            "lat": 40.5954709697085,
+            "lng": -74.14271668029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forest Hill Rd/Steers St",
+      "place_id": "ChIJ67GAgBZMwokRwWeJwya3CtU",
+      "plus_code": {
+        "compound_code": "HVW5+PC New York, NY, USA",
+        "global_code": "87G7HVW5+PC"
+      },
+      "reference": "ChIJ67GAgBZMwokRwWeJwya3CtU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60114699999999,
+          "lng": -74.134995
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6024642302915,
+            "lng": -74.13364206970849
+          },
+          "southwest": {
+            "lat": 40.5997662697085,
+            "lng": -74.1363400302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Sunset Ave",
+      "place_id": "ChIJ_X8fJiNMwokRinj1iVJa5Jc",
+      "plus_code": {
+        "compound_code": "JV28+F2 New York, NY, USA",
+        "global_code": "87G7JV28+F2"
+      },
+      "rating": 5,
+      "reference": "ChIJ_X8fJiNMwokRinj1iVJa5Jc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.597187,
+          "lng": -74.13288899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5985135802915,
+            "lng": -74.13150541970847
+          },
+          "southwest": {
+            "lat": 40.5958156197085,
+            "lng": -74.1342033802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Av/Roanoke St",
+      "place_id": "ChIJjxPzYRhMwokRdUwp1ATVHPg",
+      "plus_code": {
+        "compound_code": "HVW8+VR New York, NY, USA",
+        "global_code": "87G7HVW8+VR"
+      },
+      "reference": "ChIJjxPzYRhMwokRdUwp1ATVHPg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60102730000001,
+          "lng": -74.1345771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6024217802915,
+            "lng": -74.1332435697085
+          },
+          "southwest": {
+            "lat": 40.59972381970851,
+            "lng": -74.1359415302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Sunset Ave",
+      "place_id": "ChIJCRUwHyNMwokROD19YiAv2bQ",
+      "plus_code": {
+        "compound_code": "JV28+C5 New York, NY, USA",
+        "global_code": "87G7JV28+C5"
+      },
+      "reference": "ChIJCRUwHyNMwokROD19YiAv2bQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60134499999999,
+          "lng": -74.13261399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6026855302915,
+            "lng": -74.13126386970849
+          },
+          "southwest": {
+            "lat": 40.5999875697085,
+            "lng": -74.13396183029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Roosevelt Ave",
+      "place_id": "ChIJBR5VpiNMwokRc14gbM2OAPk",
+      "plus_code": {
+        "compound_code": "JV28+GX New York, NY, USA",
+        "global_code": "87G7JV28+GX"
+      },
+      "reference": "ChIJBR5VpiNMwokRc14gbM2OAPk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59713,
+          "lng": -74.133156
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59850363029149,
+            "lng": -74.1316751197085
+          },
+          "southwest": {
+            "lat": 40.59580566970849,
+            "lng": -74.13437308029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Roanoke St",
+      "place_id": "ChIJaZEtYRhMwokRN3EUDJ0PKYs",
+      "plus_code": {
+        "compound_code": "HVW8+VP New York, NY, USA",
+        "global_code": "87G7HVW8+VP"
+      },
+      "rating": 2,
+      "reference": "ChIJaZEtYRhMwokRN3EUDJ0PKYs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5945245,
+          "lng": -74.135105
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59584203029149,
+            "lng": -74.13376931970849
+          },
+          "southwest": {
+            "lat": 40.59314406970849,
+            "lng": -74.1364672802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Av/Babe Ruth Stadium",
+      "place_id": "ChIJBTdH5hlMwokRgRW0iAdUyJ8",
+      "plus_code": {
+        "compound_code": "HVV7+RX New York, NY, USA",
+        "global_code": "87G7HVV7+RX"
+      },
+      "rating": 5,
+      "reference": "ChIJBTdH5hlMwokRgRW0iAdUyJ8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.597244,
+          "lng": -74.132622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5986303302915,
+            "lng": -74.1313243197085
+          },
+          "southwest": {
+            "lat": 40.5959323697085,
+            "lng": -74.1340222802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Roanoke St",
+      "place_id": "ChIJ49afiRhMwokRr5pwpVznKuw",
+      "plus_code": {
+        "compound_code": "HVW8+VX New York, NY, USA",
+        "global_code": "87G7HVW8+VX"
+      },
+      "rating": 2,
+      "reference": "ChIJ49afiRhMwokRr5pwpVznKuw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594528,
+          "lng": -74.142906
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5958993802915,
+            "lng": -74.14160336970849
+          },
+          "southwest": {
+            "lat": 40.5932014197085,
+            "lng": -74.1443013302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forest Hill Rd/Field St",
+      "place_id": "ChIJ9UJ09RNMwokRtuRivNcoFwg",
+      "plus_code": {
+        "compound_code": "HVV4+RR New York, NY, USA",
+        "global_code": "87G7HVV4+RR"
+      },
+      "reference": "ChIJ9UJ09RNMwokRtuRivNcoFwg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.600115,
+          "lng": -74.131073
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6014614802915,
+            "lng": -74.1297552697085
+          },
+          "southwest": {
+            "lat": 40.5987635197085,
+            "lng": -74.1324532302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Av/Portage Av",
+      "place_id": "ChIJP4g-NCJMwokRcxZqQnWM68g",
+      "plus_code": {
+        "compound_code": "JV29+2H New York, NY, USA",
+        "global_code": "87G7JV29+2H"
+      },
+      "reference": "ChIJP4g-NCJMwokRcxZqQnWM68g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60142099999999,
+          "lng": -74.131294
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60278943029149,
+            "lng": -74.12994731970849
+          },
+          "southwest": {
+            "lat": 40.6000914697085,
+            "lng": -74.1326452802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Av/Harold St",
+      "place_id": "ChIJbx2awCNMwokRD_7IVHxsvyY",
+      "plus_code": {
+        "compound_code": "JV29+HF New York, NY, USA",
+        "global_code": "87G7JV29+HF"
+      },
+      "reference": "ChIJbx2awCNMwokRD_7IVHxsvyY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594673,
+          "lng": -74.135086
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59601963029149,
+            "lng": -74.1337309697085
+          },
+          "southwest": {
+            "lat": 40.59332166970849,
+            "lng": -74.1364289302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Babe Ruth Field",
+      "place_id": "ChIJp4Pr5xlMwokRKY2uGpdUAxc",
+      "plus_code": {
+        "compound_code": "HVV7+VX New York, NY, USA",
+        "global_code": "87G7HVV7+VX"
+      },
+      "reference": "ChIJp4Pr5xlMwokRKY2uGpdUAxc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.601269,
+          "lng": -74.13147699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60268128029151,
+            "lng": -74.13013546970849
+          },
+          "southwest": {
+            "lat": 40.59998331970851,
+            "lng": -74.13283343029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Harold St/Bradley Ave",
+      "photos": [
+        {
+          "height": 3984,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109481085339070439755\">Yanik Kaploon</a>"
+          ],
+          "photo_reference": "AU_ZVEHUItGOGYCbdnRQU4UxXmIp4g581-SA6vOF_ihQy1Vvhb5tl_TdOM5OUgLvD1LFCgHzCSfFhuFn4XWjjwu2apq65ebSHFqXHd2TuQic76W3NZuEfr658L34tfHSBBLEKEiE9vzHndlcAFsC25kBM-zfqoqYa3ISj2CROP_Fkb1KfHThKPuqT3B3bioUSfkpZ7d3aawUWlgqMRiE2TDrJLHgI1tGPuKeAUO8T8wHriLc8Ztcu5l4pMUlsfp9vKrqYarraphwpoJiE5rE-EbKuSDaB-eGFPBgQngEQucEUl5DtZJSSM5nhop4L7eHEzcGIdHILdSJSsIG4AF7Atd6BNoqpH802Q33aGzyeIz8pNB6FsH_JZOmrErgt5QWi9g0sjJ3iGq0__o1LzOtan6Ce91G-g5_rhNOuVzSRwd_Zw5vg5C7EU89R1whhJKBggT8HCYPZK5Q5-TV8-Cgg1gEGQPi3QqS6hh02ntqu35zj7BfWDGI_yivGQoNoolnN8mmqsrw5WEYH4ppmfJEQMEJZKV_onD_9J-FgDv8JPMSvKQ6Ul-_r3FmfmsMKu6lLT7NrJvtT8q7fxfVLngsKnAvLhGpUFH5xGa6lig-7GXEmLVpLy1FdxwGOwKxf-nv0o35",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJtTrQuCNMwokR3QvFZLZ6TbA",
+      "plus_code": {
+        "compound_code": "JV29+GC New York, NY, USA",
+        "global_code": "87G7JV29+GC"
+      },
+      "rating": 1,
+      "reference": "ChIJtTrQuCNMwokR3QvFZLZ6TbA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5987605,
+          "lng": -74.130924
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60015953029149,
+            "lng": -74.12955606970849
+          },
+          "southwest": {
+            "lat": 40.59746156970849,
+            "lng": -74.1322540302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Av/Brielle Av",
+      "place_id": "ChIJISBQESJMwokRJtRLjgd7-ZI",
+      "plus_code": {
+        "compound_code": "HVX9+GJ New York, NY, USA",
+        "global_code": "87G7HVX9+GJ"
+      },
+      "reference": "ChIJISBQESJMwokRJtRLjgd7-ZI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59997600000001,
+          "lng": -74.131142
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60132898029151,
+            "lng": -74.12974416970849
+          },
+          "southwest": {
+            "lat": 40.59863101970851,
+            "lng": -74.13244213029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Portage Ave",
+      "place_id": "ChIJG6v1NiJMwokRAbC3sqVypTw",
+      "plus_code": {
+        "compound_code": "HVX9+XG New York, NY, USA",
+        "global_code": "87G7HVX9+XG"
+      },
+      "reference": "ChIJG6v1NiJMwokRAbC3sqVypTw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60152399999999,
+          "lng": -74.131363
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60287698029149,
+            "lng": -74.12996386970848
+          },
+          "southwest": {
+            "lat": 40.60017901970849,
+            "lng": -74.1326618302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Harold St",
+      "place_id": "ChIJH--FvyNMwokRzUZ5Rn4Irhs",
+      "plus_code": {
+        "compound_code": "JV29+JF New York, NY, USA",
+        "global_code": "87G7JV29+JF"
+      },
+      "rating": 4.7,
+      "reference": "ChIJH--FvyNMwokRzUZ5Rn4Irhs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59436400000001,
+          "lng": -74.135094
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5957242802915,
+            "lng": -74.13378661970849
+          },
+          "southwest": {
+            "lat": 40.59302631970851,
+            "lng": -74.1364845802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Babe Ruth Field",
+      "place_id": "ChIJb3LE5RlMwokR6PhIqosm0QQ",
+      "plus_code": {
+        "compound_code": "HVV7+PX New York, NY, USA",
+        "global_code": "87G7HVV7+PX"
+      },
+      "rating": 3.7,
+      "reference": "ChIJb3LE5RlMwokR6PhIqosm0QQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60025399999999,
+          "lng": -74.13100399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60159923029149,
+            "lng": -74.12969671970849
+          },
+          "southwest": {
+            "lat": 40.59890126970849,
+            "lng": -74.13239468029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Portage Ave",
+      "place_id": "ChIJSTOaNCJMwokRO9I3Sa4Vzmk",
+      "plus_code": {
+        "compound_code": "JV29+4H New York, NY, USA",
+        "global_code": "87G7JV29+4H"
+      },
+      "rating": 4,
+      "reference": "ChIJSTOaNCJMwokRO9I3Sa4Vzmk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59869799999999,
+          "lng": -74.131126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6001133802915,
+            "lng": -74.12973286970849
+          },
+          "southwest": {
+            "lat": 40.5974154197085,
+            "lng": -74.13243083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Brielle Ave",
+      "place_id": "ChIJWYgoDSJMwokRYgEk2eFzHIc",
+      "plus_code": {
+        "compound_code": "HVX9+FG New York, NY, USA",
+        "global_code": "87G7HVX9+FG"
+      },
+      "rating": 5,
+      "reference": "ChIJWYgoDSJMwokRYgEk2eFzHIc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.601494,
+          "lng": -74.131165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60284538029151,
+            "lng": -74.1298636697085
+          },
+          "southwest": {
+            "lat": 40.60014741970851,
+            "lng": -74.1325616302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Harold St",
+      "place_id": "ChIJFbGowSNMwokRcY36NceLxgI",
+      "plus_code": {
+        "compound_code": "JV29+HG New York, NY, USA",
+        "global_code": "87G7JV29+HG"
+      },
+      "reference": "ChIJFbGowSNMwokRcY36NceLxgI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.599102,
+          "lng": -74.130844
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6004466802915,
+            "lng": -74.1295312197085
+          },
+          "southwest": {
+            "lat": 40.59774871970851,
+            "lng": -74.1322291802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Brielle Ave",
+      "place_id": "ChIJA1rVFyJMwokRvNPtUdiaZ3U",
+      "plus_code": {
+        "compound_code": "HVX9+JM New York, NY, USA",
+        "global_code": "87G7HVX9+JM"
+      },
+      "reference": "ChIJA1rVFyJMwokRvNPtUdiaZ3U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.598698,
+          "lng": -74.130554
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6000366802915,
+            "lng": -74.12920096970849
+          },
+          "southwest": {
+            "lat": 40.5973387197085,
+            "lng": -74.1318989302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Bradley Ave",
+      "place_id": "ChIJPSMQGiJMwokRpVXKp19S9tI",
+      "plus_code": {
+        "compound_code": "HVX9+FQ New York, NY, USA",
+        "global_code": "87G7HVX9+FQ"
+      },
+      "reference": "ChIJPSMQGiJMwokRpVXKp19S9tI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.598591,
+          "lng": -74.130348
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5999866302915,
+            "lng": -74.12900861970849
+          },
+          "southwest": {
+            "lat": 40.5972886697085,
+            "lng": -74.13170658029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Bradley Ave",
+      "place_id": "ChIJNWSjGyJMwokRCdUunnhhKdY",
+      "plus_code": {
+        "compound_code": "HVX9+CV New York, NY, USA",
+        "global_code": "87G7HVX9+CV"
+      },
+      "reference": "ChIJNWSjGyJMwokRCdUunnhhKdY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.603798,
+          "lng": -74.131638
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6051463302915,
+            "lng": -74.13027156970848
+          },
+          "southwest": {
+            "lat": 40.6024483697085,
+            "lng": -74.13296953029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Willowbrook Rd",
+      "place_id": "ChIJNW8RbCRMwokRvKAJqb4o3oA",
+      "plus_code": {
+        "compound_code": "JV39+G8 New York, NY, USA",
+        "global_code": "87G7JV39+G8"
+      },
+      "rating": 5,
+      "reference": "ChIJNW8RbCRMwokRvKAJqb4o3oA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.603889,
+          "lng": -74.131485
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6052791302915,
+            "lng": -74.1301331697085
+          },
+          "southwest": {
+            "lat": 40.6025811697085,
+            "lng": -74.1328311302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Holden Blvd",
+      "place_id": "ChIJ8UxyayRMwokRSrcr4NXRaQQ",
+      "plus_code": {
+        "compound_code": "JV39+HC New York, NY, USA",
+        "global_code": "87G7JV39+HC"
+      },
+      "reference": "ChIJ8UxyayRMwokRSrcr4NXRaQQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.607368,
+          "lng": -74.13887
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60873258029149,
+            "lng": -74.13752241970849
+          },
+          "southwest": {
+            "lat": 40.6060346197085,
+            "lng": -74.14022038029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Gannon Ave/Ardmore Ave",
+      "place_id": "ChIJO1zWXjpMwokRr_SSM9OfM9s",
+      "plus_code": {
+        "compound_code": "JV46+WF New York, NY, USA",
+        "global_code": "87G7JV46+WF"
+      },
+      "reference": "ChIJO1zWXjpMwokRr_SSM9OfM9s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.593266,
+          "lng": -74.13418600000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5945827302915,
+            "lng": -74.13286616970849
+          },
+          "southwest": {
+            "lat": 40.5918847697085,
+            "lng": -74.13556413029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seaview Hospital Exit/Traffic Loop",
+      "place_id": "ChIJz784IBpMwokRUXcUVU5YdRE",
+      "plus_code": {
+        "compound_code": "HVV8+88 New York, NY, USA",
+        "global_code": "87G7HVV8+88"
+      },
+      "reference": "ChIJz784IBpMwokRUXcUVU5YdRE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.593182,
+          "lng": -74.134041
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5945015302915,
+            "lng": -74.13271896970848
+          },
+          "southwest": {
+            "lat": 40.5918035697085,
+            "lng": -74.1354169302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seaview Hospital/Traffic Cir #2",
+      "place_id": "ChIJq9ccIRpMwokRqOnG9d-MVPc",
+      "plus_code": {
+        "compound_code": "HVV8+79 New York, NY, USA",
+        "global_code": "87G7HVV8+79"
+      },
+      "reference": "ChIJq9ccIRpMwokRqOnG9d-MVPc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.592999,
+          "lng": -74.134377
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59439053029151,
+            "lng": -74.13298971970849
+          },
+          "southwest": {
+            "lat": 40.59169256970851,
+            "lng": -74.1356876802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seaview Hospital/Traffic Loop",
+      "place_id": "ChIJx_6wGBpMwokRNKo1sAIEx30",
+      "plus_code": {
+        "compound_code": "HVV8+56 New York, NY, USA",
+        "global_code": "87G7HVV8+56"
+      },
+      "reference": "ChIJx_6wGBpMwokRNKo1sAIEx30",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.593098,
+          "lng": -74.133896
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5944184302915,
+            "lng": -74.1325688197085
+          },
+          "southwest": {
+            "lat": 40.59172046970851,
+            "lng": -74.1352667802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seaview Hospital Exit/Traffic Loop",
+      "place_id": "ChIJn47KJhpMwokRoP6nimvdQtw",
+      "plus_code": {
+        "compound_code": "HVV8+6C New York, NY, USA",
+        "global_code": "87G7HVV8+6C"
+      },
+      "reference": "ChIJn47KJhpMwokRoP6nimvdQtw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60553,
+          "lng": -74.131771
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6068762302915,
+            "lng": -74.13046626970849
+          },
+          "southwest": {
+            "lat": 40.60417826970851,
+            "lng": -74.13316423029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Av/Westwood Av",
+      "place_id": "ChIJMQlusyVMwokRAIspYFQAGjU",
+      "plus_code": {
+        "compound_code": "JV49+67 New York, NY, USA",
+        "global_code": "87G7JV49+67"
+      },
+      "reference": "ChIJMQlusyVMwokRAIspYFQAGjU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.592922,
+          "lng": -74.134132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5942957802915,
+            "lng": -74.13276061970849
+          },
+          "southwest": {
+            "lat": 40.5915978197085,
+            "lng": -74.1354585802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Seaview Hospital/Traffic Loop",
+      "place_id": "ChIJZQ9OIhpMwokROPbxYLlXmkE",
+      "plus_code": {
+        "compound_code": "HVV8+58 New York, NY, USA",
+        "global_code": "87G7HVV8+58"
+      },
+      "reference": "ChIJZQ9OIhpMwokROPbxYLlXmkE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.605373,
+          "lng": -74.13163
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60671798029149,
+            "lng": -74.1303455697085
+          },
+          "southwest": {
+            "lat": 40.6040200197085,
+            "lng": -74.1330435302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Westwood Ave",
+      "place_id": "ChIJF3dXSyRMwokRIhL1CkOacBg",
+      "plus_code": {
+        "compound_code": "JV49+48 New York, NY, USA",
+        "global_code": "87G7JV49+48"
+      },
+      "reference": "ChIJF3dXSyRMwokRIhL1CkOacBg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59266299999999,
+          "lng": -74.14456899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5940305302915,
+            "lng": -74.14320591970849
+          },
+          "southwest": {
+            "lat": 40.5913325697085,
+            "lng": -74.14590388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Forest Hill Rd/Staten Island Developmental Office",
+      "place_id": "ChIJE5pUBxNMwokRMzgRFl2jNp8",
+      "plus_code": {
+        "compound_code": "HVV4+35 New York, NY, USA",
+        "global_code": "87G7HVV4+35"
+      },
+      "reference": "ChIJE5pUBxNMwokRMzgRFl2jNp8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.605698,
+          "lng": -74.13192699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.60702953029151,
+            "lng": -74.13064141970848
+          },
+          "southwest": {
+            "lat": 40.60433156970851,
+            "lng": -74.1333393802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bradley Ave/Westwood Ave",
+      "place_id": "ChIJjanPsyVMwokRF38cRW1IDmY",
+      "plus_code": {
+        "compound_code": "JV49+76 New York, NY, USA",
+        "global_code": "87G7JV49+76"
+      },
+      "rating": 5,
+      "reference": "ChIJjanPsyVMwokRF38cRW1IDmY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.608017,
+          "lng": -74.143005
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6093739802915,
+            "lng": -74.1416560697085
+          },
+          "southwest": {
+            "lat": 40.6066760197085,
+            "lng": -74.14435403029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North Gannon Ave/Woodward Ave",
+      "place_id": "ChIJazyUlTlMwokRI79gNMFXOnQ",
+      "plus_code": {
+        "compound_code": "JV54+6Q New York, NY, USA",
+        "global_code": "87G7JV54+6Q"
+      },
+      "reference": "ChIJazyUlTlMwokRI79gNMFXOnQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.598343,
+          "lng": -74.128151
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59965198029149,
+            "lng": -74.12676451970849
+          },
+          "southwest": {
+            "lat": 40.5969540197085,
+            "lng": -74.1294624802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Ave/Livingston Ave",
+      "place_id": "ChIJ-7nGwyFMwokRbZruyU-fn60",
+      "plus_code": {
+        "compound_code": "HVXC+8P New York, NY, USA",
+        "global_code": "87G7HVXC+8P"
+      },
+      "reference": "ChIJ-7nGwyFMwokRbZruyU-fn60",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59841549999999,
+          "lng": -74.12801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59976548029149,
+            "lng": -74.12670321970849
+          },
+          "southwest": {
+            "lat": 40.5970675197085,
+            "lng": -74.12940118029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brielle Av/Livingston Av",
+      "place_id": "ChIJwXiuxiFMwokRFuQ2j-I5hlw",
+      "plus_code": {
+        "compound_code": "HVXC+9Q New York, NY, USA",
+        "global_code": "87G7HVXC+9Q"
+      },
+      "reference": "ChIJwXiuxiFMwokRFuQ2j-I5hlw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

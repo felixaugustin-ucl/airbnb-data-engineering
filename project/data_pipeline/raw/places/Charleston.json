@@ -1,0 +1,1964 @@
+{
+  "neighbourhood": "Charleston",
+  "centroid": {
+    "lat": 40.548893265000004,
+    "lon": -74.229158095
+  },
+  "fetched_at": "2026-04-06T14:16:45.620678+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5485043,
+            "lng": -74.2218872
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5498287802915,
+              "lng": -74.2204590697085
+            },
+            "southwest": {
+              "lat": 40.54713081970851,
+              "lng": -74.2231570302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-673-3298",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4048,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117371663696838118648\">Ron Watson</a>"
+            ],
+            "photo_reference": "AU_ZVEHR_PNTSWrjh8GvOppsRdLBd_BTBUX0ZVIIfyhhagrk7U_U0uCyma3fKizpmUQMpewN4rPrVzkQv19yxZps8cuh7HP9Ry0W5esruLoI51gV9Mv-DwrXQd3mC6Gw2Py8MzeilVHdksPuaYKan8hdOlpng5xxvG1XL9um_dgWhwwOqSQ5-IP3u9h5xD7W833FGWZzpYHXLEKVDbs65A9TEBuTJvAqQmN5pzWmdBQ3qZ0_AaeWqPvsMFqE7XfLvgUNCCGVgPYykjPkPUOQOPJZnhUlup8d_xugtZXzc0G5VcoNbqAcFsT58IJ2-hK_ApT1rWK1B3iFmj59TbXLYhJHtOpGKpESOAiKR5BdqV97q37e-MU6gWCrkrDmLqyCc1wcIZV1zaZp04IzqJ1b-aJF0O9_mjtdArp15j8KeHW0o_eFVm4sE7sO8h8D-QBR6eDhRqrVMyJTLG5MEWdBxkMSOyJema8CKOfWTReHEvAQTQIeBlkBjuuMGia0bgW-2jApZ1FdbDepQcw5UyYgN2KMM6zyNLV9fdKwlnhJ4fmzH6C34sNjirUqAUb8wgH5EJLJ6YhFN96EDM4u_omdG3aPcNq7NRHndkFzr7w3x5z-pBkjU8TOsyevfZLzVIH_9dgELxuaEIGm",
+            "width": 3036
+          }
+        ],
+        "place_id": "ChIJO4HysSu1w4kRADWtqGeHKfE",
+        "plus_code": {
+          "compound_code": "GQXH+C6 Staten Island, NY, USA",
+          "global_code": "87G7GQXH+C6"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJO4HysSu1w4kRADWtqGeHKfE",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 163,
+        "vicinity": "585 Veterans Road West, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5495059,
+            "lng": -74.22128
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5508683802915,
+              "lng": -74.21980256970849
+            },
+            "southwest": {
+              "lat": 40.54817041970851,
+              "lng": -74.2225005302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-227-4444",
+        "name": "Rossville Pizza",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113591778102443980687\">brendan kane</a>"
+            ],
+            "photo_reference": "AU_ZVEG9lIB3VRfhljLSnl3fREj5fphtb9rxMpVO80-30hSgoH2Z5eWLMTXgufyvImlW7bhfM2jMR4kPWrulRewXinYyi5dcDUInIE6EQFGAMgj6UXzYxa7Yn9NWgO8JOEvPjUeZ2t0pYMIrZLF8YlQR9BFRRneci60yZyCtVo3hRp9Y3qptsz3tCMPGXvQ0BfrC0qnn2_3d2hkTH0jP7YoXA-a0efiDAik2pml4_cLjBkwfNzWujwYbXwZgeZ3E32JUdjUmyQxq0HFwFVrlOfJKSX3PozcL48Ovg-97eyAvafNj86Qb-kRc1ngr6fVMuT0QhGU62djf5lzRbC14zkjM93kg08LqR-6404FTBAXAOcYI2h4rWxKjbJv6tSmc6jjlTCZOWc-SqvqkApRssVIQH4KUpizh-66wCB4A9VrcbIY6KaUViZBjXrPk1NSTNND5h_5q7crIeFxq6tuEXyP620KxzGNSklQj1yNwqihrYTwyiiJTDZ14riIRrQtk27qLFYqQcopwJFHwivioLZ2TVT8DCDdpLuIjv4Bx5jMxgRSQ8u7BeeODmUMTLjIJkeIV35IVy--8j43EvyLEMzderGeNA9SghocwbofOq8k1ObEDy-67uvXjVhRWymc-0v8_j_fYfg",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJVW_9Xiq1w4kR4OXpsBkvclA",
+        "plus_code": {
+          "compound_code": "GQXH+RF Staten Island, NY, USA",
+          "global_code": "87G7GQXH+RF"
+        },
+        "price_level": 1,
+        "rating": 4.4,
+        "reference": "ChIJVW_9Xiq1w4kR4OXpsBkvclA",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 400,
+        "vicinity": "960 Bloomingdale Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5493519,
+            "lng": -74.23017569999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5506496802915,
+              "lng": -74.22879631970848
+            },
+            "southwest": {
+              "lat": 40.5479517197085,
+              "lng": -74.23149428029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 718-420-9080",
+        "name": "Candy Zone Wholesale Distributor",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJi74BJLVPwokRiMcu-ULl9vg",
+        "plus_code": {
+          "compound_code": "GQX9+PW Staten Island, NY, USA",
+          "global_code": "87G7GQX9+PW"
+        },
+        "rating": 3,
+        "reference": "ChIJi74BJLVPwokRiMcu-ULl9vg",
+        "scope": "GOOGLE",
+        "types": [
+          "drugstore",
+          "meal_takeaway",
+          "health",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "125 Industrial Loop East, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5490916,
+            "lng": -74.2235382
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5503776802915,
+              "lng": -74.2221308197085
+            },
+            "southwest": {
+              "lat": 40.5476797197085,
+              "lng": -74.2248287802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-309-7778",
+        "name": "Red's Hotdog Stand",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2958,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103664803738868613219\">Red&#39;s Hotdog Stand</a>"
+            ],
+            "photo_reference": "AU_ZVEG-0dEgMEw-LLypfL3RGjeqKnAjvDbPLg27J8hLW_NOmD0pxcxyKNIBc3EzsM6Xb-_pszFgcUpM2ihZMoidl9S-AmW5nTwe8A8hCYwRDdxijkOyxDem8hH1WJvfdSt1lwGCssXqgywky5fP_aYjB7Kk5XLI7wYGOR6-mnggSqUubLJgZzm9my1PaTNsjBf3a-8iT2m0cJ66mCyDxEvpSGPZTGzxsGosYmVcGmM0jKkDcEVJj43fs-YEERo1vZ5DAgR8fDArshuA_R56Q_OiUvbaIK47YcLLK96fBuo4sblbKCpwBIT7mjqhYYig2SG6lqbKKxjM1tk",
+            "width": 2958
+          }
+        ],
+        "place_id": "ChIJS3FY4zi1w4kRok5AROHLN18",
+        "plus_code": {
+          "compound_code": "GQXG+JH Staten Island, NY, USA",
+          "global_code": "87G7GQXG+JH"
+        },
+        "price_level": 1,
+        "rating": 4.9,
+        "reference": "ChIJS3FY4zi1w4kRok5AROHLN18",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 74,
+        "vicinity": "2775 Arthur Kill Road, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5469367,
+            "lng": -74.22953369999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54826853029149,
+              "lng": -74.22805381970849
+            },
+            "southwest": {
+              "lat": 40.5455705697085,
+              "lng": -74.2307517802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 347-630-7077",
+        "name": "Ten's Cabaret",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116821997452241926088\">Ten&#39;s Cabaret</a>"
+            ],
+            "photo_reference": "AU_ZVEEQwePT5tJ1Dtrgm1iFkwdjwZrDaFA1GX71ATgRD5irasbITqD3X0Qz2l7snWyrqTYe5p7XLBGMC9uTEQ1WtglqJAVANseM9b0HI62Zi7Nfy2DtsBLKBwikGFE-Cx4EvshsT8WrOEVm9tZH_6pYRr6N7Nh2ZjdMAstof5YWepcXLOnPC1k5hzMD6YzwWTbPZBKrz2Vf6cxqEaGgmvjIW_BI-5RMNZgckv1TzLQp1go3-k-rW568VFSjqlqVD7JkPMSmGbQXzvcT-xK63WBBmAWRe6WE4AHMQIWgqHU7Wb9GjsUbN1lqHIainYgZPvOaR06y1UKw",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJn42EdAS1w4kRs9jErTWwEXA",
+        "plus_code": {
+          "compound_code": "GQWC+Q5 Staten Island, NY, USA",
+          "global_code": "87G7GQWC+Q5"
+        },
+        "rating": 4.6,
+        "reference": "ChIJn42EdAS1w4kRs9jErTWwEXA",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "night_club",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 224,
+        "vicinity": "2945 Arthur Kill Road, Staten Island"
+      }
+    ],
+    "lodging": [],
+    "tourist_attraction": [],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5453185,
+            "lng": -74.2307245
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5466497302915,
+              "lng": -74.2293542197085
+            },
+            "southwest": {
+              "lat": 40.54395176970851,
+              "lng": -74.2320521802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Johnson St",
+        "place_id": "ChIJ_1PFmyW1w4kRE18gT6F-tS4",
+        "plus_code": {
+          "compound_code": "GQW9+4P New York, NY, USA",
+          "global_code": "87G7GQW9+4P"
+        },
+        "reference": "ChIJ_1PFmyW1w4kRE18gT6F-tS4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.549881,
+            "lng": -74.2217905
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5512223302915,
+              "lng": -74.22043436970849
+            },
+            "southwest": {
+              "lat": 40.5485243697085,
+              "lng": -74.2231323302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Bloomingdale Rd",
+        "place_id": "ChIJ7enSaSq1w4kREBDpEm5ZfVU",
+        "plus_code": {
+          "compound_code": "GQXH+X7 New York, NY, USA",
+          "global_code": "87G7GQXH+X7"
+        },
+        "reference": "ChIJ7enSaSq1w4kREBDpEm5ZfVU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.548061,
+            "lng": -74.226288
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5494584802915,
+              "lng": -74.22496501970849
+            },
+            "southwest": {
+              "lat": 40.5467605197085,
+              "lng": -74.2276629802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Broadway Stages Staten Island",
+        "photos": [
+          {
+            "height": 1868,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100839900262798818002\">Anthony B</a>"
+            ],
+            "photo_reference": "AU_ZVEFgzwnUjADIOt8e87aO5cETOPUfLvM4zuvJ4S7EP1M0UanMb-3AWDz-BPUiSosoQdkN3F3MgoZxiCkQxLq_Kzrx0Wxr8-BQ4AuDFWhQPu-329FSLQnH-Yb6vL4pG8YD74Vp7brfgoHOHVDfezi4oK62i86y3qY9Dzc8o91B8o1hxKkpITU9f0jOvWfexvcBMzK-7UU2OIlO-a5L4wyStkawjCttIi-406dWGkwesIfv66sQuN93Sl4ONeUWP-FsCw5yn8TD5rd2lbuOHSg7v9e3EmbnTFB_k2KGx0K65M6XdQIeHdvrMw-x962eEOJOzB4tAxQhTaTd_JhNP0CP-ZjfLg0abtJtfF6i24iHvi5tcTRU4Z8Pqb6qBSaVjI6F6nMbTUN0QQUEyPlDe9uFOOYbc8jHRGw7rtqUvDczgn4mhnxwC6-DIcjpfbBlCTwkDEpdj5feSX5DHLzinn-TxPbMKxvyj_GsjQseiUHls2jSdbvdmpS0vU-fZ_AieMqfcu9Qvi-jZpMK-x_QGjMO-qh91Mw0f2rQ845DoBpC9pmzhcZ3iC07wXSzxhuYl28qycFYB4p5PQHbxa-z5YVgEo1jQNLdLct84f4MqGj5XS2tuuRyuEDWPChltwMVnYkd",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJX04aISm1w4kRypL4xfD6jMw",
+        "plus_code": {
+          "compound_code": "GQXF+6F New York, NY, USA",
+          "global_code": "87G7GQXF+6F"
+        },
+        "rating": 5,
+        "reference": "ChIJX04aISm1w4kRypL4xfD6jMw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.547932,
+            "lng": -74.22616599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5492609302915,
+              "lng": -74.22491851970848
+            },
+            "southwest": {
+              "lat": 40.5465629697085,
+              "lng": -74.22761648029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Broadway Stages Staten Island",
+        "place_id": "ChIJXdCIIim1w4kRQa_WGoU3nKg",
+        "plus_code": {
+          "compound_code": "GQXF+5G New York, NY, USA",
+          "global_code": "87G7GQXF+5G"
+        },
+        "reference": "ChIJXdCIIim1w4kRQa_WGoU3nKg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.545387,
+            "lng": -74.230522
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5467575302915,
+              "lng": -74.22919721970848
+            },
+            "southwest": {
+              "lat": 40.5440595697085,
+              "lng": -74.2318951802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Johnson St",
+        "place_id": "ChIJP6_umiW1w4kRDR-HQOnXQ7M",
+        "plus_code": {
+          "compound_code": "GQW9+5Q New York, NY, USA",
+          "global_code": "87G7GQW9+5Q"
+        },
+        "rating": 3,
+        "reference": "ChIJP6_umiW1w4kRDR-HQOnXQ7M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54525,
+            "lng": -74.230927
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54658843029149,
+              "lng": -74.22956531970848
+            },
+            "southwest": {
+              "lat": 40.5438904697085,
+              "lng": -74.2322632802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Johnson St",
+        "place_id": "ChIJMR8smSW1w4kRd1Gs9cIizF8",
+        "plus_code": {
+          "compound_code": "GQW9+4J New York, NY, USA",
+          "global_code": "87G7GQW9+4J"
+        },
+        "reference": "ChIJMR8smSW1w4kRd1Gs9cIizF8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.549713,
+            "lng": -74.222252
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5510498802915,
+              "lng": -74.22089156970848
+            },
+            "southwest": {
+              "lat": 40.5483519197085,
+              "lng": -74.22358953029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Bloomingdale Rd",
+        "place_id": "ChIJi_GSQCq1w4kRVrk1yvsKwYc",
+        "plus_code": {
+          "compound_code": "GQXH+V3 New York, NY, USA",
+          "global_code": "87G7GQXH+V3"
+        },
+        "rating": 1,
+        "reference": "ChIJi_GSQCq1w4kRVrk1yvsKwYc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.550049,
+            "lng": -74.221329
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5514095802915,
+              "lng": -74.2199265197085
+            },
+            "southwest": {
+              "lat": 40.5487116197085,
+              "lng": -74.2226244802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Bloomingdale Rd",
+        "place_id": "ChIJBWcIZiq1w4kRhjWmIHfkBW0",
+        "plus_code": {
+          "compound_code": "HQ2H+2F New York, NY, USA",
+          "global_code": "87G7HQ2H+2F"
+        },
+        "reference": "ChIJBWcIZiq1w4kRhjWmIHfkBW0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54808999999999,
+            "lng": -74.22045899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54943013029149,
+              "lng": -74.21914616970851
+            },
+            "southwest": {
+              "lat": 40.5467321697085,
+              "lng": -74.22184413029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Veterans Rd E",
+        "place_id": "ChIJ0-gFBCu1w4kR9OCxL8rB0xs",
+        "plus_code": {
+          "compound_code": "GQXH+6R New York, NY, USA",
+          "global_code": "87G7GQXH+6R"
+        },
+        "reference": "ChIJ0-gFBCu1w4kR9OCxL8rB0xs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54796199999999,
+            "lng": -74.220535
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5493240802915,
+              "lng": -74.2191282197085
+            },
+            "southwest": {
+              "lat": 40.5466261197085,
+              "lng": -74.2218261802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Veterans Rd East",
+        "place_id": "ChIJfXh9Biu1w4kRnA0K8x5pf7U",
+        "plus_code": {
+          "compound_code": "GQXH+5Q New York, NY, USA",
+          "global_code": "87G7GQXH+5Q"
+        },
+        "reference": "ChIJfXh9Biu1w4kRnA0K8x5pf7U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.547806,
+            "lng": -74.22048199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54914118029149,
+              "lng": -74.21909726970848
+            },
+            "southwest": {
+              "lat": 40.54644321970849,
+              "lng": -74.22179523029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Veterans Rd East",
+        "place_id": "ChIJD6qf-Cq1w4kRFKw4ju2hvKE",
+        "plus_code": {
+          "compound_code": "GQXH+4R New York, NY, USA",
+          "global_code": "87G7GQXH+4R"
+        },
+        "reference": "ChIJD6qf-Cq1w4kRFKw4ju2hvKE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.548214,
+            "lng": -74.220383
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54950703029151,
+              "lng": -74.21907426970849
+            },
+            "southwest": {
+              "lat": 40.54680906970851,
+              "lng": -74.22177223029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Veterans Rd East",
+        "place_id": "ChIJ3xm6Ayu1w4kRtfqR1BaLnro",
+        "plus_code": {
+          "compound_code": "GQXH+7R New York, NY, USA",
+          "global_code": "87G7GQXH+7R"
+        },
+        "reference": "ChIJ3xm6Ayu1w4kRtfqR1BaLnro",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.547997,
+            "lng": -74.220345
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5493350802915,
+              "lng": -74.21896911970849
+            },
+            "southwest": {
+              "lat": 40.5466371197085,
+              "lng": -74.2216670802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Veterans Rd East",
+        "place_id": "ChIJQZVbBCu1w4kRP1me-WYeIMA",
+        "plus_code": {
+          "compound_code": "GQXH+5V New York, NY, USA",
+          "global_code": "87G7GQXH+5V"
+        },
+        "reference": "ChIJQZVbBCu1w4kRP1me-WYeIMA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.548058,
+            "lng": -74.22009299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5494277802915,
+              "lng": -74.21879136970848
+            },
+            "southwest": {
+              "lat": 40.5467298197085,
+              "lng": -74.22148933029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Veterans Rd East/Bloomingdale Rd",
+        "place_id": "ChIJCcRXGyu1w4kRxw-3LH_5xoQ",
+        "plus_code": {
+          "compound_code": "GQXH+6X New York, NY, USA",
+          "global_code": "87G7GQXH+6X"
+        },
+        "reference": "ChIJCcRXGyu1w4kRxw-3LH_5xoQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54538,
+            "lng": -74.219292
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5467166802915,
+              "lng": -74.2179944197085
+            },
+            "southwest": {
+              "lat": 40.5440187197085,
+              "lng": -74.22069238029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Correll Ave",
+        "place_id": "ChIJPRlBoiy1w4kR2mbo_5VVn3M",
+        "plus_code": {
+          "compound_code": "GQWJ+57 New York, NY, USA",
+          "global_code": "87G7GQWJ+57"
+        },
+        "reference": "ChIJPRlBoiy1w4kR2mbo_5VVn3M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.542469,
+            "lng": -74.236404
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5438470302915,
+              "lng": -74.2350763697085
+            },
+            "southwest": {
+              "lat": 40.5411490697085,
+              "lng": -74.23777433029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Clay Pit Rd",
+        "place_id": "ChIJP4nvujy1w4kRGgwpZjKypH4",
+        "plus_code": {
+          "compound_code": "GQR7+XC New York, NY, USA",
+          "global_code": "87G7GQR7+XC"
+        },
+        "reference": "ChIJP4nvujy1w4kRGgwpZjKypH4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5424195,
+            "lng": -74.2366485
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54375548029149,
+              "lng": -74.23528856970849
+            },
+            "southwest": {
+              "lat": 40.5410575197085,
+              "lng": -74.23798653029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Clay Pit Rd",
+        "place_id": "ChIJyeliuTy1w4kRuWWihMUwdVQ",
+        "plus_code": {
+          "compound_code": "GQR7+X8 New York, NY, USA",
+          "global_code": "87G7GQR7+X8"
+        },
+        "reference": "ChIJyeliuTy1w4kRuWWihMUwdVQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.54241199999999,
+            "lng": -74.236916
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.54372413029149,
+              "lng": -74.23552941970848
+            },
+            "southwest": {
+              "lat": 40.54102616970849,
+              "lng": -74.23822738029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arthur Kill Rd/Clay Pit Rd",
+        "place_id": "ChIJtSzJuDy1w4kRuJXv9TICBF8",
+        "plus_code": {
+          "compound_code": "GQR7+X6 New York, NY, USA",
+          "global_code": "87G7GQR7+X6"
+        },
+        "reference": "ChIJtSzJuDy1w4kRuJXv9TICBF8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.544415,
+            "lng": -74.21914699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5457744802915,
+              "lng": -74.21775321970848
+            },
+            "southwest": {
+              "lat": 40.5430765197085,
+              "lng": -74.22045118029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Bloomingdale Rd/Shiel Ave",
+        "place_id": "ChIJnzPpwCy1w4kRR39-fUe-GWE",
+        "plus_code": {
+          "compound_code": "GQVJ+Q8 New York, NY, USA",
+          "global_code": "87G7GQVJ+Q8"
+        },
+        "reference": "ChIJnzPpwCy1w4kRR39-fUe-GWE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5485043,
+          "lng": -74.2218872
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5498287802915,
+            "lng": -74.2204590697085
+          },
+          "southwest": {
+            "lat": 40.54713081970851,
+            "lng": -74.2231570302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-673-3298",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4048,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117371663696838118648\">Ron Watson</a>"
+          ],
+          "photo_reference": "AU_ZVEHR_PNTSWrjh8GvOppsRdLBd_BTBUX0ZVIIfyhhagrk7U_U0uCyma3fKizpmUQMpewN4rPrVzkQv19yxZps8cuh7HP9Ry0W5esruLoI51gV9Mv-DwrXQd3mC6Gw2Py8MzeilVHdksPuaYKan8hdOlpng5xxvG1XL9um_dgWhwwOqSQ5-IP3u9h5xD7W833FGWZzpYHXLEKVDbs65A9TEBuTJvAqQmN5pzWmdBQ3qZ0_AaeWqPvsMFqE7XfLvgUNCCGVgPYykjPkPUOQOPJZnhUlup8d_xugtZXzc0G5VcoNbqAcFsT58IJ2-hK_ApT1rWK1B3iFmj59TbXLYhJHtOpGKpESOAiKR5BdqV97q37e-MU6gWCrkrDmLqyCc1wcIZV1zaZp04IzqJ1b-aJF0O9_mjtdArp15j8KeHW0o_eFVm4sE7sO8h8D-QBR6eDhRqrVMyJTLG5MEWdBxkMSOyJema8CKOfWTReHEvAQTQIeBlkBjuuMGia0bgW-2jApZ1FdbDepQcw5UyYgN2KMM6zyNLV9fdKwlnhJ4fmzH6C34sNjirUqAUb8wgH5EJLJ6YhFN96EDM4u_omdG3aPcNq7NRHndkFzr7w3x5z-pBkjU8TOsyevfZLzVIH_9dgELxuaEIGm",
+          "width": 3036
+        }
+      ],
+      "place_id": "ChIJO4HysSu1w4kRADWtqGeHKfE",
+      "plus_code": {
+        "compound_code": "GQXH+C6 Staten Island, NY, USA",
+        "global_code": "87G7GQXH+C6"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJO4HysSu1w4kRADWtqGeHKfE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 163,
+      "vicinity": "585 Veterans Road West, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5495059,
+          "lng": -74.22128
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5508683802915,
+            "lng": -74.21980256970849
+          },
+          "southwest": {
+            "lat": 40.54817041970851,
+            "lng": -74.2225005302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-227-4444",
+      "name": "Rossville Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113591778102443980687\">brendan kane</a>"
+          ],
+          "photo_reference": "AU_ZVEG9lIB3VRfhljLSnl3fREj5fphtb9rxMpVO80-30hSgoH2Z5eWLMTXgufyvImlW7bhfM2jMR4kPWrulRewXinYyi5dcDUInIE6EQFGAMgj6UXzYxa7Yn9NWgO8JOEvPjUeZ2t0pYMIrZLF8YlQR9BFRRneci60yZyCtVo3hRp9Y3qptsz3tCMPGXvQ0BfrC0qnn2_3d2hkTH0jP7YoXA-a0efiDAik2pml4_cLjBkwfNzWujwYbXwZgeZ3E32JUdjUmyQxq0HFwFVrlOfJKSX3PozcL48Ovg-97eyAvafNj86Qb-kRc1ngr6fVMuT0QhGU62djf5lzRbC14zkjM93kg08LqR-6404FTBAXAOcYI2h4rWxKjbJv6tSmc6jjlTCZOWc-SqvqkApRssVIQH4KUpizh-66wCB4A9VrcbIY6KaUViZBjXrPk1NSTNND5h_5q7crIeFxq6tuEXyP620KxzGNSklQj1yNwqihrYTwyiiJTDZ14riIRrQtk27qLFYqQcopwJFHwivioLZ2TVT8DCDdpLuIjv4Bx5jMxgRSQ8u7BeeODmUMTLjIJkeIV35IVy--8j43EvyLEMzderGeNA9SghocwbofOq8k1ObEDy-67uvXjVhRWymc-0v8_j_fYfg",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJVW_9Xiq1w4kR4OXpsBkvclA",
+      "plus_code": {
+        "compound_code": "GQXH+RF Staten Island, NY, USA",
+        "global_code": "87G7GQXH+RF"
+      },
+      "price_level": 1,
+      "rating": 4.4,
+      "reference": "ChIJVW_9Xiq1w4kR4OXpsBkvclA",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 400,
+      "vicinity": "960 Bloomingdale Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5493519,
+          "lng": -74.23017569999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5506496802915,
+            "lng": -74.22879631970848
+          },
+          "southwest": {
+            "lat": 40.5479517197085,
+            "lng": -74.23149428029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 718-420-9080",
+      "name": "Candy Zone Wholesale Distributor",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJi74BJLVPwokRiMcu-ULl9vg",
+      "plus_code": {
+        "compound_code": "GQX9+PW Staten Island, NY, USA",
+        "global_code": "87G7GQX9+PW"
+      },
+      "rating": 3,
+      "reference": "ChIJi74BJLVPwokRiMcu-ULl9vg",
+      "scope": "GOOGLE",
+      "types": [
+        "drugstore",
+        "meal_takeaway",
+        "health",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "125 Industrial Loop East, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5490916,
+          "lng": -74.2235382
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5503776802915,
+            "lng": -74.2221308197085
+          },
+          "southwest": {
+            "lat": 40.5476797197085,
+            "lng": -74.2248287802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-309-7778",
+      "name": "Red's Hotdog Stand",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2958,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103664803738868613219\">Red&#39;s Hotdog Stand</a>"
+          ],
+          "photo_reference": "AU_ZVEG-0dEgMEw-LLypfL3RGjeqKnAjvDbPLg27J8hLW_NOmD0pxcxyKNIBc3EzsM6Xb-_pszFgcUpM2ihZMoidl9S-AmW5nTwe8A8hCYwRDdxijkOyxDem8hH1WJvfdSt1lwGCssXqgywky5fP_aYjB7Kk5XLI7wYGOR6-mnggSqUubLJgZzm9my1PaTNsjBf3a-8iT2m0cJ66mCyDxEvpSGPZTGzxsGosYmVcGmM0jKkDcEVJj43fs-YEERo1vZ5DAgR8fDArshuA_R56Q_OiUvbaIK47YcLLK96fBuo4sblbKCpwBIT7mjqhYYig2SG6lqbKKxjM1tk",
+          "width": 2958
+        }
+      ],
+      "place_id": "ChIJS3FY4zi1w4kRok5AROHLN18",
+      "plus_code": {
+        "compound_code": "GQXG+JH Staten Island, NY, USA",
+        "global_code": "87G7GQXG+JH"
+      },
+      "price_level": 1,
+      "rating": 4.9,
+      "reference": "ChIJS3FY4zi1w4kRok5AROHLN18",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 74,
+      "vicinity": "2775 Arthur Kill Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5469367,
+          "lng": -74.22953369999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54826853029149,
+            "lng": -74.22805381970849
+          },
+          "southwest": {
+            "lat": 40.5455705697085,
+            "lng": -74.2307517802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 347-630-7077",
+      "name": "Ten's Cabaret",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116821997452241926088\">Ten&#39;s Cabaret</a>"
+          ],
+          "photo_reference": "AU_ZVEEQwePT5tJ1Dtrgm1iFkwdjwZrDaFA1GX71ATgRD5irasbITqD3X0Qz2l7snWyrqTYe5p7XLBGMC9uTEQ1WtglqJAVANseM9b0HI62Zi7Nfy2DtsBLKBwikGFE-Cx4EvshsT8WrOEVm9tZH_6pYRr6N7Nh2ZjdMAstof5YWepcXLOnPC1k5hzMD6YzwWTbPZBKrz2Vf6cxqEaGgmvjIW_BI-5RMNZgckv1TzLQp1go3-k-rW568VFSjqlqVD7JkPMSmGbQXzvcT-xK63WBBmAWRe6WE4AHMQIWgqHU7Wb9GjsUbN1lqHIainYgZPvOaR06y1UKw",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJn42EdAS1w4kRs9jErTWwEXA",
+      "plus_code": {
+        "compound_code": "GQWC+Q5 Staten Island, NY, USA",
+        "global_code": "87G7GQWC+Q5"
+      },
+      "rating": 4.6,
+      "reference": "ChIJn42EdAS1w4kRs9jErTWwEXA",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 224,
+      "vicinity": "2945 Arthur Kill Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5453185,
+          "lng": -74.2307245
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5466497302915,
+            "lng": -74.2293542197085
+          },
+          "southwest": {
+            "lat": 40.54395176970851,
+            "lng": -74.2320521802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Johnson St",
+      "place_id": "ChIJ_1PFmyW1w4kRE18gT6F-tS4",
+      "plus_code": {
+        "compound_code": "GQW9+4P New York, NY, USA",
+        "global_code": "87G7GQW9+4P"
+      },
+      "reference": "ChIJ_1PFmyW1w4kRE18gT6F-tS4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.549881,
+          "lng": -74.2217905
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5512223302915,
+            "lng": -74.22043436970849
+          },
+          "southwest": {
+            "lat": 40.5485243697085,
+            "lng": -74.2231323302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Bloomingdale Rd",
+      "place_id": "ChIJ7enSaSq1w4kREBDpEm5ZfVU",
+      "plus_code": {
+        "compound_code": "GQXH+X7 New York, NY, USA",
+        "global_code": "87G7GQXH+X7"
+      },
+      "reference": "ChIJ7enSaSq1w4kREBDpEm5ZfVU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.548061,
+          "lng": -74.226288
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5494584802915,
+            "lng": -74.22496501970849
+          },
+          "southwest": {
+            "lat": 40.5467605197085,
+            "lng": -74.2276629802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Broadway Stages Staten Island",
+      "photos": [
+        {
+          "height": 1868,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100839900262798818002\">Anthony B</a>"
+          ],
+          "photo_reference": "AU_ZVEFgzwnUjADIOt8e87aO5cETOPUfLvM4zuvJ4S7EP1M0UanMb-3AWDz-BPUiSosoQdkN3F3MgoZxiCkQxLq_Kzrx0Wxr8-BQ4AuDFWhQPu-329FSLQnH-Yb6vL4pG8YD74Vp7brfgoHOHVDfezi4oK62i86y3qY9Dzc8o91B8o1hxKkpITU9f0jOvWfexvcBMzK-7UU2OIlO-a5L4wyStkawjCttIi-406dWGkwesIfv66sQuN93Sl4ONeUWP-FsCw5yn8TD5rd2lbuOHSg7v9e3EmbnTFB_k2KGx0K65M6XdQIeHdvrMw-x962eEOJOzB4tAxQhTaTd_JhNP0CP-ZjfLg0abtJtfF6i24iHvi5tcTRU4Z8Pqb6qBSaVjI6F6nMbTUN0QQUEyPlDe9uFOOYbc8jHRGw7rtqUvDczgn4mhnxwC6-DIcjpfbBlCTwkDEpdj5feSX5DHLzinn-TxPbMKxvyj_GsjQseiUHls2jSdbvdmpS0vU-fZ_AieMqfcu9Qvi-jZpMK-x_QGjMO-qh91Mw0f2rQ845DoBpC9pmzhcZ3iC07wXSzxhuYl28qycFYB4p5PQHbxa-z5YVgEo1jQNLdLct84f4MqGj5XS2tuuRyuEDWPChltwMVnYkd",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJX04aISm1w4kRypL4xfD6jMw",
+      "plus_code": {
+        "compound_code": "GQXF+6F New York, NY, USA",
+        "global_code": "87G7GQXF+6F"
+      },
+      "rating": 5,
+      "reference": "ChIJX04aISm1w4kRypL4xfD6jMw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.547932,
+          "lng": -74.22616599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5492609302915,
+            "lng": -74.22491851970848
+          },
+          "southwest": {
+            "lat": 40.5465629697085,
+            "lng": -74.22761648029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Broadway Stages Staten Island",
+      "place_id": "ChIJXdCIIim1w4kRQa_WGoU3nKg",
+      "plus_code": {
+        "compound_code": "GQXF+5G New York, NY, USA",
+        "global_code": "87G7GQXF+5G"
+      },
+      "reference": "ChIJXdCIIim1w4kRQa_WGoU3nKg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.545387,
+          "lng": -74.230522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5467575302915,
+            "lng": -74.22919721970848
+          },
+          "southwest": {
+            "lat": 40.5440595697085,
+            "lng": -74.2318951802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Johnson St",
+      "place_id": "ChIJP6_umiW1w4kRDR-HQOnXQ7M",
+      "plus_code": {
+        "compound_code": "GQW9+5Q New York, NY, USA",
+        "global_code": "87G7GQW9+5Q"
+      },
+      "rating": 3,
+      "reference": "ChIJP6_umiW1w4kRDR-HQOnXQ7M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54525,
+          "lng": -74.230927
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54658843029149,
+            "lng": -74.22956531970848
+          },
+          "southwest": {
+            "lat": 40.5438904697085,
+            "lng": -74.2322632802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Johnson St",
+      "place_id": "ChIJMR8smSW1w4kRd1Gs9cIizF8",
+      "plus_code": {
+        "compound_code": "GQW9+4J New York, NY, USA",
+        "global_code": "87G7GQW9+4J"
+      },
+      "reference": "ChIJMR8smSW1w4kRd1Gs9cIizF8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.549713,
+          "lng": -74.222252
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5510498802915,
+            "lng": -74.22089156970848
+          },
+          "southwest": {
+            "lat": 40.5483519197085,
+            "lng": -74.22358953029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Bloomingdale Rd",
+      "place_id": "ChIJi_GSQCq1w4kRVrk1yvsKwYc",
+      "plus_code": {
+        "compound_code": "GQXH+V3 New York, NY, USA",
+        "global_code": "87G7GQXH+V3"
+      },
+      "rating": 1,
+      "reference": "ChIJi_GSQCq1w4kRVrk1yvsKwYc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.550049,
+          "lng": -74.221329
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5514095802915,
+            "lng": -74.2199265197085
+          },
+          "southwest": {
+            "lat": 40.5487116197085,
+            "lng": -74.2226244802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Bloomingdale Rd",
+      "place_id": "ChIJBWcIZiq1w4kRhjWmIHfkBW0",
+      "plus_code": {
+        "compound_code": "HQ2H+2F New York, NY, USA",
+        "global_code": "87G7HQ2H+2F"
+      },
+      "reference": "ChIJBWcIZiq1w4kRhjWmIHfkBW0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54808999999999,
+          "lng": -74.22045899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54943013029149,
+            "lng": -74.21914616970851
+          },
+          "southwest": {
+            "lat": 40.5467321697085,
+            "lng": -74.22184413029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Veterans Rd E",
+      "place_id": "ChIJ0-gFBCu1w4kR9OCxL8rB0xs",
+      "plus_code": {
+        "compound_code": "GQXH+6R New York, NY, USA",
+        "global_code": "87G7GQXH+6R"
+      },
+      "reference": "ChIJ0-gFBCu1w4kR9OCxL8rB0xs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54796199999999,
+          "lng": -74.220535
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5493240802915,
+            "lng": -74.2191282197085
+          },
+          "southwest": {
+            "lat": 40.5466261197085,
+            "lng": -74.2218261802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Veterans Rd East",
+      "place_id": "ChIJfXh9Biu1w4kRnA0K8x5pf7U",
+      "plus_code": {
+        "compound_code": "GQXH+5Q New York, NY, USA",
+        "global_code": "87G7GQXH+5Q"
+      },
+      "reference": "ChIJfXh9Biu1w4kRnA0K8x5pf7U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.547806,
+          "lng": -74.22048199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54914118029149,
+            "lng": -74.21909726970848
+          },
+          "southwest": {
+            "lat": 40.54644321970849,
+            "lng": -74.22179523029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Veterans Rd East",
+      "place_id": "ChIJD6qf-Cq1w4kRFKw4ju2hvKE",
+      "plus_code": {
+        "compound_code": "GQXH+4R New York, NY, USA",
+        "global_code": "87G7GQXH+4R"
+      },
+      "reference": "ChIJD6qf-Cq1w4kRFKw4ju2hvKE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.548214,
+          "lng": -74.220383
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54950703029151,
+            "lng": -74.21907426970849
+          },
+          "southwest": {
+            "lat": 40.54680906970851,
+            "lng": -74.22177223029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Veterans Rd East",
+      "place_id": "ChIJ3xm6Ayu1w4kRtfqR1BaLnro",
+      "plus_code": {
+        "compound_code": "GQXH+7R New York, NY, USA",
+        "global_code": "87G7GQXH+7R"
+      },
+      "reference": "ChIJ3xm6Ayu1w4kRtfqR1BaLnro",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.547997,
+          "lng": -74.220345
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5493350802915,
+            "lng": -74.21896911970849
+          },
+          "southwest": {
+            "lat": 40.5466371197085,
+            "lng": -74.2216670802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Veterans Rd East",
+      "place_id": "ChIJQZVbBCu1w4kRP1me-WYeIMA",
+      "plus_code": {
+        "compound_code": "GQXH+5V New York, NY, USA",
+        "global_code": "87G7GQXH+5V"
+      },
+      "reference": "ChIJQZVbBCu1w4kRP1me-WYeIMA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.548058,
+          "lng": -74.22009299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5494277802915,
+            "lng": -74.21879136970848
+          },
+          "southwest": {
+            "lat": 40.5467298197085,
+            "lng": -74.22148933029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Veterans Rd East/Bloomingdale Rd",
+      "place_id": "ChIJCcRXGyu1w4kRxw-3LH_5xoQ",
+      "plus_code": {
+        "compound_code": "GQXH+6X New York, NY, USA",
+        "global_code": "87G7GQXH+6X"
+      },
+      "reference": "ChIJCcRXGyu1w4kRxw-3LH_5xoQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54538,
+          "lng": -74.219292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5467166802915,
+            "lng": -74.2179944197085
+          },
+          "southwest": {
+            "lat": 40.5440187197085,
+            "lng": -74.22069238029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Correll Ave",
+      "place_id": "ChIJPRlBoiy1w4kR2mbo_5VVn3M",
+      "plus_code": {
+        "compound_code": "GQWJ+57 New York, NY, USA",
+        "global_code": "87G7GQWJ+57"
+      },
+      "reference": "ChIJPRlBoiy1w4kR2mbo_5VVn3M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.542469,
+          "lng": -74.236404
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5438470302915,
+            "lng": -74.2350763697085
+          },
+          "southwest": {
+            "lat": 40.5411490697085,
+            "lng": -74.23777433029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Clay Pit Rd",
+      "place_id": "ChIJP4nvujy1w4kRGgwpZjKypH4",
+      "plus_code": {
+        "compound_code": "GQR7+XC New York, NY, USA",
+        "global_code": "87G7GQR7+XC"
+      },
+      "reference": "ChIJP4nvujy1w4kRGgwpZjKypH4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5424195,
+          "lng": -74.2366485
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54375548029149,
+            "lng": -74.23528856970849
+          },
+          "southwest": {
+            "lat": 40.5410575197085,
+            "lng": -74.23798653029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Clay Pit Rd",
+      "place_id": "ChIJyeliuTy1w4kRuWWihMUwdVQ",
+      "plus_code": {
+        "compound_code": "GQR7+X8 New York, NY, USA",
+        "global_code": "87G7GQR7+X8"
+      },
+      "reference": "ChIJyeliuTy1w4kRuWWihMUwdVQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.54241199999999,
+          "lng": -74.236916
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.54372413029149,
+            "lng": -74.23552941970848
+          },
+          "southwest": {
+            "lat": 40.54102616970849,
+            "lng": -74.23822738029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arthur Kill Rd/Clay Pit Rd",
+      "place_id": "ChIJtSzJuDy1w4kRuJXv9TICBF8",
+      "plus_code": {
+        "compound_code": "GQR7+X6 New York, NY, USA",
+        "global_code": "87G7GQR7+X6"
+      },
+      "reference": "ChIJtSzJuDy1w4kRuJXv9TICBF8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.544415,
+          "lng": -74.21914699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5457744802915,
+            "lng": -74.21775321970848
+          },
+          "southwest": {
+            "lat": 40.5430765197085,
+            "lng": -74.22045118029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Bloomingdale Rd/Shiel Ave",
+      "place_id": "ChIJnzPpwCy1w4kRR39-fUe-GWE",
+      "plus_code": {
+        "compound_code": "GQVJ+Q8 New York, NY, USA",
+        "global_code": "87G7GQVJ+Q8"
+      },
+      "reference": "ChIJnzPpwCy1w4kRR39-fUe-GWE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

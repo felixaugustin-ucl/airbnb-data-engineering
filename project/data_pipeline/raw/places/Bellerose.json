@@ -1,0 +1,4118 @@
+{
+  "neighbourhood": "Bellerose",
+  "centroid": {
+    "lat": 40.738394948717946,
+    "lon": -73.72703266666667
+  },
+  "fetched_at": "2026-04-06T14:11:06.988670+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7438849,
+            "lng": -73.7183869
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7451704802915,
+              "lng": -73.71695876970851
+            },
+            "southwest": {
+              "lat": 40.7424725197085,
+              "lng": -73.71965673029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-343-4448",
+        "name": "Sagar Chinese",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3519,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109303966240216296459\">Sagar Chinese</a>"
+            ],
+            "photo_reference": "AU_ZVEGKvZpltpyjRDvb8Os0qGch1Y9md2DsRC_r5USXflAL-Oa8l0Ub0VGwSsrqWUtbeyUc7lQfQGT9bniiNBQ_qsajw0lN6bpNi94tKxioFnASaqPXq6ZLt4c4jGnezFVtYlx3W4yEzDzRcQ-pEF2gBdm78nDPlHxfq91IiV40bFzoxNP7AIAEGasMY2NODN2XbKfWsVhQNsOgVl5GAPi3Y8-NI0yGr2a6szFnc95I1RVurcG1OqJoiEYu_RuUcZfv40Bl-dOIfXZfIqdqSs9dmJULjWJjKatDVhFhfBuDxbr5m_Gi7EqbErY-0ROAhHLvZ3UB1wNAjQU",
+            "width": 5279
+          }
+        ],
+        "place_id": "ChIJhZb5J2xiwokRLnO3aNyXCZg",
+        "plus_code": {
+          "compound_code": "P7VJ+HJ Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7VJ+HJ"
+        },
+        "price_level": 2,
+        "rating": 3.6,
+        "reference": "ChIJhZb5J2xiwokRLnO3aNyXCZg",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1827,
+        "vicinity": "252-05 Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.734997,
+            "lng": -73.718058
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7364638802915,
+              "lng": -73.71674091970849
+            },
+            "southwest": {
+              "lat": 40.7337659197085,
+              "lng": -73.71943888029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-4000",
+        "name": "King of India",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104441120331427341518\">umar qureshi</a>"
+            ],
+            "photo_reference": "AU_ZVEHUmz4KrdDQ6JQbsUw2SqiY5JlE9smSQ0k4SCnBCLm5ai9-lf1JuTHCmbIls2OqZ6GaTdd3yroUVQX_eTUrtIeUJOWlJSkKFCbS8aokTLNVJBsXH28EaV7Op8YGvvj7d9NIrniBdD5DBgKuwiwGZMBcO21mGpjqArVEb3ewdjDvP_s-kYLICrKEupaElJOgF3PaeIZfB-KGTVwlSic4YBiuNa5ThhnAuuf-fbxAEbvYNQKq_L578CKv2dUGRi4yXts779elnJwxSc8zopvldhLyqSJ-E1Evzv5RkAT-cb-Eki0zYcTusReeMz6ZvD50yRV-kMXNvaKcth6dgF52AUYZ7B4r1KmVptNpK6h4fzkNfmoM0kQW2-rlnX2tDldqRfXxC2284mZTirDDrjn0ozvBtEut-ZHS8FiKjy7IzT9bRLB9pjEdlvA11y0kyZC3ebZat9XOA_ZHSzqfGe--y7NlmiZ5DObHJyEXQwONe0khwygcDZ7zARQTXsDbPg2dpPXUkR6tKPoMIjpduOve6LucfHNo9hjjHw1xfIPU06fB71K4fH78Yi1mH_LTX0XtI1qQ5qxPadqxiUhN-v28jRcftgYTTrkMH3GyckCo3-Eh6NjTN_JRrcy-VdDRhP8-Gny1Vqpd",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJy6BBJEJiwokRu38PGAH7yNs",
+        "plus_code": {
+          "compound_code": "P7MJ+XQ Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7MJ+XQ"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJy6BBJEJiwokRu38PGAH7yNs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 277,
+        "vicinity": "249-04 Hillside Avenue, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.733253,
+            "lng": -73.736346
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7346863802915,
+              "lng": -73.73501201970849
+            },
+            "southwest": {
+              "lat": 40.7319884197085,
+              "lng": -73.7377099802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-776-3776",
+        "name": "Frangos Peri Peri Queens",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104709671504768057870\">Anisul Tony</a>"
+            ],
+            "photo_reference": "AU_ZVEH6u0A-8vD0kmKZ7UhMriWYLzU4glt8hzc9scjnZuozyTr6G0L9c5NXwBbeJdUWzWA6GyLs9IEeDLLYifzN8EVkCUmd48MtZ_Fjj3pdf8rohhcdCbmdFc8Ycc4Qp7Jr5TgYKbFVectd2ah_s7-Lk91Y5GO0etq_fEl1cR3BsS8HNk1MV2H6B-sF7HzK-hvdUJNLY3XJh8EoDge72X6E8Tfe6a4YfeVAExQCXlG6gjL82hoHxXpMBK7AXYUnCQtkhXh7vVNht5dkvexMUd4Cv6q6_h_EuvpA0lR6GVR0bo04bFE9bySD11xvoqGYJvMgMs8Z14ws8-KVhNTh5M_fK0_RvhG33ozEPiUR_kM62pEscm9c9sWsSKKbwJBwz0SCtbaAaTDjW4QJFnwYTWpiupc6Hlmd44cxFLayrug3spbC1wMGrZfylFUqbrI-WwR4Z3AM1TVtM-2tsvapvcReGTNtRN6KBcpHhFi6Kq3cI373iehqHdMVLgtPNeHymRMoAurIOEpvuoOoxgYiK6C9qvwjA5CqvjmKiMdiGFn28l3i_NTWP1e5TtI3O1147_Cdpb83z2D2tgIJoJ7f0cR44JP941xCsOMr82y6Vdtu2Gfad996wzcoYT2x0FurcmOGBUC4QGxv",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJO1pkyiRiwokRKdKbN3SPpCk",
+        "plus_code": {
+          "compound_code": "P7M7+8F Queens, NY, USA",
+          "global_code": "87G8P7M7+8F"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJO1pkyiRiwokRKdKbN3SPpCk",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 635,
+        "vicinity": "233-16 Hillside Avenue, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7424482,
+            "lng": -73.7211244
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7438231302915,
+              "lng": -73.71971161970848
+            },
+            "southwest": {
+              "lat": 40.7411251697085,
+              "lng": -73.7224095802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-2100",
+        "name": "Bellerose Famous Pizza",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112605603633538110463\">Dmitry Naumov</a>"
+            ],
+            "photo_reference": "AU_ZVEFiXg8oCwoBiUmvVrbcYaQi_OfiFH37QMJ82JyUzlcC7dgTd2_FkxAYliAuImWa75YLJ3ePXUElrF6QubWldpU4O_GMtvF07IIRW-cKYAEdz3-YaQV8ZgUEuv-oXndUZE0r9yZb6WBMw9GBXSr-XIo3SxVpiw0OYjNeB_AI1D0wmVkvvysvljulGSO57NP0_pGE0eTVmQqCHMKadDPoJmUt9nv86GD-crENVBQ3w93xSgU41fii63-HHWtP5fmFBUpFE9tF4iIgxgzMgSwFvgTGEGOZIdgPmH_XexHZyUED_Sb87g1k0UwdZSqnQjXb8YFdxYc23i12frFeCZK8OiMGzGeUf6N13FmpTQoHFqxVDecMlHfBhn2bcdMQhCag1d41kg235hP_A-jDD8YRJBihKoq0g8ZnYz_SUQgLlcKlH-7tmYMqNfkqg-LNopn84hPuK_uwuBjbkEoA3ZmBowITThsKWvMRMir0sjUCMUqvqlIpNjEj5ZilE0nCIQ0-Uuftc-2uJ_hAXN1QzErkLODLamhsTJUamgh3a5aZr-n0kKWUCNo5J58Y4eBEEOa28mTx3Fa6BReZhfbDCr3xAMEkq6zaTrTF8LCkQ8XLyFhwP24MeGNChz9VJao9eLutZb2Mth21kGJjuwfy5R0FCUFgQVU",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJ3yZOgGxiwokRfWsndjgXrTs",
+        "plus_code": {
+          "compound_code": "P7RH+XH Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7RH+XH"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJ3yZOgGxiwokRfWsndjgXrTs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 551,
+        "vicinity": "248-22 Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7333358,
+            "lng": -73.7364856
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73472608029149,
+              "lng": -73.73512321970848
+            },
+            "southwest": {
+              "lat": 40.7320281197085,
+              "lng": -73.7378211802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-479-3710",
+        "name": "Szechuan Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104667671735699783297\">Szechuan Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEHwEIVK7nHqxhdAARXTq3WarRGOyeEv8tls0b4X-7oL5btei4kRbs4Hy_4F4H7Lgc68TlnAgUsdj7MB2L8Q1j5WKnLxBrznihitWaJ8jAp3syQzdnXTvdqxEFGcQaaNNKvHu7GkG4LJ7VGfhZVfXx4R8waD2cnHfOzIlk1Gie5czr7iVngSPnR7PLw9iLHU8oLhXrbNEM2UrUtR9RlQ2eHHyq6FViTfxBF0584hdCEr57Kx4dZtP2rBzgJyA8CIbFCqZizAnpto9b_0jEz39Jep9rwESQVd2um7UI0usKAwsH_SCuCK5A0XrjaoxIK146bHXj0lme0",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJ8U5gySRiwokR9-LLWEvFvoo",
+        "plus_code": {
+          "compound_code": "P7M7+8C Queens Village, Queens, NY, USA",
+          "global_code": "87G8P7M7+8C"
+        },
+        "price_level": 1,
+        "rating": 3.3,
+        "reference": "ChIJ8U5gySRiwokR9-LLWEvFvoo",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 140,
+        "vicinity": "233-14 Hillside Avenue, Queens Village"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74243039999999,
+            "lng": -73.7220408
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74377938029149,
+              "lng": -73.72069181970849
+            },
+            "southwest": {
+              "lat": 40.74108141970849,
+              "lng": -73.72338978029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-732-3526",
+        "name": "Shawarma Express Ny",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103450177840338424069\">Shawarma Express Ny</a>"
+            ],
+            "photo_reference": "AU_ZVEGkQr62xERvWM3jmAlAhNnpHlZkqtRMAYLkqZljWXXcG9Any5m4k6S9SFfuXpVXbI7Nx4QVhCRvyF5NOBVtpXQ0aCfoqBk1QzWVz6UuVRF4S1AWdTXNgzCK4trHTc_fVM-WOo0KsCvHv4UXbVlP6C7a1FzF6nry42Vo9q9QKLBdwHoRSb2sBNFvpKmVWIxjIzef0EBdn8M57DxJ0SbgLfVXtqr9xBUT6jPAAumVGn_FLn1juiiiWLNkAFPEeHOASJpLVrQqeYL8AdkXhzGBv2CzGxrM2XdHPYYtIoeWZ8XBsmOg1J2_QWKSYbrZKPi8BiWrg74QFkU",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJJ5MW6ZtjwokR5LLACI_ArzE",
+        "plus_code": {
+          "compound_code": "P7RH+X5 Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7RH+X5"
+        },
+        "reference": "ChIJJ5MW6ZtjwokR5LLACI_ArzE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7422777,
+            "lng": -73.72167189999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7436871802915,
+              "lng": -73.72037371970849
+            },
+            "southwest": {
+              "lat": 40.7409892197085,
+              "lng": -73.7230716802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-0888",
+        "name": "Harry Sweets & Snacks",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2112,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEHwTlz-RnUYYNRWJydqAmolkyucRqT2uVYhtQUvic_RPb7xK2B1f1dIXO4LgnZW9X10ROcFuL9vWyQlB4YJD3KyrdcHUG-MvuwOu9UR8MvoGF1SoKXDmfGVTyPywC6ahnDoHUASJKdb55801uWCeMb-xsjK6BxRAo4QyDR9352h-BkvvMG8451EsHRKZ-6FJ28YRjDp6oB2yiwuI_KcMp4Jooj2wOOkG9UcmKMaSiZDms8qlKAVff0zMsqrkW5V9-39n4UkP8PYzOFc2QrTuKHS2WmvOtLnH3FqkFWNTlSL2Kfah2mWRFrRFZbm7pFFPUA_dczYsWn87V3r2VAe-PPBn4fWFhEQ5nUJGisM92aHHXdVq8Q37CQhbnqAxL036r7gN_inDxgiyeoTzEYDp6BUOs4RsC7SEStYhtZHY6tUSw-OClO4lvpipLY5OcBIrLu4L9FF6cm-DVvTTCDU9fOWx4wSW8x_fq2wF5EWFnTRytlH4w89kzG6tc0MIt4jWpwbAdN6qPXVP3dLVKAaBbJIgjPRlxFkOpTbfyG4E0xrXN-EnJAZF5Ci97XSGHL0j3XM3VzP6s032S6KZ-TvTEMaW2gWrZB6GmJap4xSvpxiU32GKDga_q_4OfwLAHgBNd3mASf8",
+            "width": 4608
+          }
+        ],
+        "place_id": "ChIJswM6yHpjwokRkrtm8R9vUsA",
+        "plus_code": {
+          "compound_code": "P7RH+W8 Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7RH+W8"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJswM6yHpjwokRkrtm8R9vUsA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 464,
+        "vicinity": "248-06 Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74222839999999,
+            "lng": -73.72160509999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74368148029149,
+              "lng": -73.72028626970848
+            },
+            "southwest": {
+              "lat": 40.7409835197085,
+              "lng": -73.7229842302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-3900",
+        "name": "Dilbar Indian Cuisine",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110166930770052141379\">Popeye</a>"
+            ],
+            "photo_reference": "AU_ZVEGwf2JOgzcKkZE4gkSSxhD58q9gkloRBFXOTmBzZF8og-hGDoTk3PdDIT9XHoeaW7MqVweDerHDhRT9v2O9MdToUnxOlpAhVZE_-vYUUd5I3rkd5GH7B-_nL8hRvO8y9xgu5IL-qZQ8xGsqGt4kW1anLqBiF1U31nwNaJ7yJdHR0CzBytrUxt37KBOvnZCjqw7xWEEu1_Sha65AY-ucw9iOuvxSPHTVC4MCV4X9sfb1J5AqdPZmiv9x7LzOREN_SaKgi9A-Few0WaZxBQdjkPd6fPsBWBkj67sNM_C1Cm_4_AvTMQZCxQoEoz_QAV6SwJS5vbjY0cf-qI2Zlb_2oZZHppyldzSurTs4EldV9GnG_-MtqBRdV1CdcbB7MhEjxTt3Jl7E1FzU4pDWQOAMSIZfsXzILG9RpRwAtn5A0TD4CplyCqMlFsCVSIC5w4r55oU4P3eWRnk7jS9jTjv6mA8zdLIPm7KJUOQGMWnnp1L0D5KVOEs0FdUWxi7Y_k6gJltrKIkyyMhoJlZDNWoEP85MoMQ1FLkyl-5Caa1UIr9jmQ6sjTi1xhdxzV6ieU3RSjvFZelBjL8tL9YuX7vy76sxlS4EP6EBhN2MU7JfmoMCz6uAFs38iL151pgfk3UnlSKO_FRj",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJSXoFPtljwokR5TFmgGGMrDM",
+        "plus_code": {
+          "compound_code": "P7RH+V9 Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7RH+V9"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJSXoFPtljwokR5TFmgGGMrDM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 258,
+        "vicinity": "248-08 Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74267689999999,
+            "lng": -73.7220875
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7439172802915,
+              "lng": -73.7206681697085
+            },
+            "southwest": {
+              "lat": 40.7412193197085,
+              "lng": -73.72336613029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-448-6228",
+        "name": "Daana Paani",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1200,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101477828654860336349\">Daana Paani</a>"
+            ],
+            "photo_reference": "AU_ZVEHNwpX1BWLXw8eC77Za1Mx-jn76HOcE0l5gvPJa6Rrh2mfGULJuyKVeZYpBhzsY2z--WRWmnXcUZL-d7ols_31D3V9J1lGx9bOFVxEAuH-30H1LEeSmayIAsSnM18XofeQs7-LpdBeNmaqQGnthE6wBQoxOsCtyaMxVSh4f6u2Dw7RMdkomiwj7aI3i_eVb-yoemvYhKshC8ieDW2dxyP7Fxnf82dmEvPWkU3xCwlkWqCMFbYL2gwHZgiJl94n3JduJk0HVYeVraty5_vtJPjPPLRpJWZ3sMibzgffyAH2rqcCrOfdHz_30YEEVDiPiyy6zET-i",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJK78pZXhjwokRvIhBz74RB1E",
+        "plus_code": {
+          "compound_code": "P7VH+35 Jamaica, Queens, NY, USA",
+          "global_code": "87G8P7VH+35"
+        },
+        "rating": 4.9,
+        "reference": "ChIJK78pZXhjwokRvIhBz74RB1E",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 357,
+        "vicinity": "248-03 Union Turnpike, Jamaica"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7426943,
+            "lng": -73.72200699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74393413029149,
+              "lng": -73.72060116970849
+            },
+            "southwest": {
+              "lat": 40.74123616970849,
+              "lng": -73.7232991302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-343-4869",
+        "name": "Majlis of NY",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 510,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101531917331099923525\">Majlis of NY</a>"
+            ],
+            "photo_reference": "AU_ZVEEZncP48kwdblxNnJjfijVb8x_wWETQ2__u5XiyyyCREbZcOEDXQmnevjJ8G28U_J5hYT3E5gQXH6ilnd5al74789MkOxCYSu-v0j9gxSh-q90rcwmUEhw9EoXIDfoS3ludTOBGuicnBm24qdryVhKEsnslECOUxKjaP_-JlCExrpqSJ9Z_SNLa7wp8rAW5iy4ouE5TZbITIDyGrjEqZOUQ17FY1MJezozSFVkXrq8XEa51r2Mnbq0HdTrkRtnYvE7XWiOWC_IMil_ls_5dxL731UnTk3QyDrNi_5B0g9DL-tdLbXCG_9GO8HTn0Hl2p4lkYsR2FPQ",
+            "width": 680
+          }
+        ],
+        "place_id": "ChIJnV3diUxjwokRwdM3xulmJO4",
+        "plus_code": {
+          "compound_code": "P7VH+35 Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7VH+35"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJnV3diUxjwokRwdM3xulmJO4",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1060,
+        "vicinity": "248-05 Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7426404,
+            "lng": -73.7218036
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7439195302915,
+              "lng": -73.72047391970848
+            },
+            "southwest": {
+              "lat": 40.7412215697085,
+              "lng": -73.7231718802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-732-3526",
+        "name": "Shawarma Pita",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110567916811020649162\">Shawarma Pita</a>"
+            ],
+            "photo_reference": "AU_ZVEFJeEXCdziTEjMscZDjQQeSNfgEVS_ZOrFye1jYPdg2S3fmiEBTiq-aQqPF7zUIEpd_a-Sc0_WC45iWocQbAPCjmKG8nd2axbr4R1hkLBadtMUqtupqZQ66lieVAsekGSvtypqZ7OORxRuuqEgDNKzkcfpMYsU3NcQZkmv_n-ItIRJppj_3kwCBCWuVhAh48CQyhsyQz2R8x2rzpydexJw2NYWbUT3UtjkAFhLILLUvFUl84D26ZqmCQoWLR5l0EwY6w2DN5TfB3Olk9W5Skao4g5JFKK-Stc3Ggg5NX-T7U0biPuzI4FghAaJVP10TQ-OqBmV1qbk",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJeUxAWoVjwokRre41M-5gCrQ",
+        "plus_code": {
+          "compound_code": "P7VH+37 Jamaica, Queens, NY, USA",
+          "global_code": "87G8P7VH+37"
+        },
+        "price_level": 2,
+        "rating": 3.8,
+        "reference": "ChIJeUxAWoVjwokRre41M-5gCrQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 118,
+        "vicinity": "248-09 Union Turnpike, Jamaica"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7329404,
+            "lng": -73.73401489999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7343503302915,
+              "lng": -73.73267386970848
+            },
+            "southwest": {
+              "lat": 40.7316523697085,
+              "lng": -73.7353718302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "The Halal Urban Bistro aka THE HUB",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106447028618467415969\">The Halal Urban Bistro aka THE HUB</a>"
+            ],
+            "photo_reference": "AU_ZVEH7MlA6NKmzm4bl1tkzWSTv8QitNu6OTfV7co71VmryyC1vmBrrodaGGjKvllnDe2g2tMKSNvc_pdeRTYWnx5LvOw3yR4x7B7AZzuXWgq4WxwRy18DHUVpx7sWYR65Kq4m8710NWRyuFvgkZBgdF2iZdtICxfIKq5qfcc9WW85tC4cuSBEUC7AgHDz1lL4cMkonqsBgCmUOj3TjNv0ef77OOpAuWnLof9er4Fgs76O2q_qJIw1Drrn2Yt-Hk7bJO8SVKsHjJrFUlpkazmppsFK1OOGT9jBnhDNkl6h9DDxrT4quahimSQc3GINEB-kInn1kSnGB-7w",
+            "width": 2268
+          }
+        ],
+        "place_id": "ChIJNw8HIKtjwokRBxYDVtIbO8U",
+        "plus_code": {
+          "compound_code": "P7M8+59 Queens, NY, USA",
+          "global_code": "87G8P7M8+59"
+        },
+        "rating": 4.5,
+        "reference": "ChIJNw8HIKtjwokRBxYDVtIbO8U",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 695,
+        "vicinity": "235-20 Hillside Avenue, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73520579999999,
+            "lng": -73.71756789999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7366287802915,
+              "lng": -73.7162063697085
+            },
+            "southwest": {
+              "lat": 40.7339308197085,
+              "lng": -73.71890433029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-255-3372",
+        "name": "Guac Time Mexican Grill",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105534871811650561985\">Rohit M Bhatti</a>"
+            ],
+            "photo_reference": "AU_ZVEG0QZvem1BvkYwMX0HdX3Gv-2SXvbTUeNZIoJYwAsxopuIv9K_z0Pg97fEkcicmqtd8baTRpG3AE7yh1DRJdZv8JDuOfhpHYSOZk6zAPA-h_iynvSpJ3V2mv4Oj-u8Rv80-VhF9up18xs_wJ5MUHEpIkKza27kiNqjJOqRJtqORIQ0OB79OLUEkkQ7KRicWKDGlkOnYO7GHcaW78fD7wwGqaybpC7-AXCSZec1BGqIBMwBb1B4gpaANur-EHvoAvtstnTibV2F676uHrbBWksfS4HwEnKuIf-Q3enyMG1E2vRVtBuc-2IXw3VzLY_9e9j5kfX2pLqJ4ewszKU_qYeVXIKdCYle1YY5JoM0frpeGbE-enGrYCIehtkB3O0cSLi8hG8OKVrDECYGQr9mDZu8xvYOFwe70lSx6JF0wpKlMcKl758W_sqNhDLWcYk5O-KbnTiRVHmEVKlxbbV3RmdZHdvIbnyxdoYBm8zvEcuAF1xx7SQH2L3uvshZvOChXUCwNDu8yhiDfggGylzbj_zghT1Wl8H3m0Hk7Vy4FrcDPD0-oAoP3aWWB6z8kKu56gxhkFFKWnvgkHsJjSyP45yDczOaQLuBDXyLjjcsng0Ew23bjqOGGqny-xgL3rD0HCCjggQ",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJWTBuvcVjwokRKEs9H2So6tQ",
+        "plus_code": {
+          "compound_code": "P7PJ+3X Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7PJ+3X"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJWTBuvcVjwokRKEs9H2So6tQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 391,
+        "vicinity": "249-20 Hillside Avenue, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7464732,
+            "lng": -73.72697769999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7478131802915,
+              "lng": -73.72574026970848
+            },
+            "southwest": {
+              "lat": 40.7451152197085,
+              "lng": -73.7284382302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 312-229-0127",
+        "name": "Farmer's Fridge",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJ_YGqKNdjwokRMuvKh-p6mcc",
+        "plus_code": {
+          "compound_code": "P7WF+H6 Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7WF+H6"
+        },
+        "reference": "ChIJ_YGqKNdjwokRMuvKh-p6mcc",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "Children's Center common area with the other vending machines, 74-03 Commonwealth Blvd Located in the New York City, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7353744,
+            "lng": -73.7167511
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7367936802915,
+              "lng": -73.71543126970849
+            },
+            "southwest": {
+              "lat": 40.73409571970851,
+              "lng": -73.7181292302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-7770",
+        "name": "Surya",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100686514906580533059\">AMAN AWAN</a>"
+            ],
+            "photo_reference": "AU_ZVEGlmGNLV-jLmGJgJiyCFjR_Yi1JIDOD3qhnPOkaikrHj3HAymsJvLg8BakCFNnY3zglbhCoqo7eTb06cCFHAT-pG5sEMs0eiuH10Si6IFt84Dtwdf-BBQwhE36IyUNdiOcSHUVa24XpAc4ZVOJ2lpOwduVCBS6-TxAvejkKTqus5SzOiKc7rdjTOvOa1H4JNI3KjEiNT_orFzXyWtHl9g_OzvVS9TtRToZ5-G0h49JJWo1ezigcwfnm5Qy4ahY-RE53YCMXdDzLUFofet9HlMzJmPM0N9EIF29k_YY8OTmhbzJ1c4_jIO_SWmUxJasuzuGn48uh99VLN-m_4g9b08VTZ_YokNs26QvikagwXn3LZ0ODSbkoKnr3XAW6fuRMTk9DvKBZIgyxCJjfHf3nAdUlY5JNu3K8wkDLnNULX3Sf-AqRkbmLRdjaBJcCxZTjVKn2s6T-Hy0LJEnq7A7HLcAoUR0b0pcXu2hDMlZAbTN6BnFd4EnBXBU2GxpRWAlqbmCXKY6cuyIrEhAV3Q6q1h3hQ68zPFPzBJ9SaRP1ROixlGJQ0szGt7-xenqgx9rXQcjvJcojB47QzQ0kD1c9gtU2191KJwmUIxUr1Pv_317ohO-0tOYzisLw1no4n826eEJOP2Z9",
+            "width": 3984
+          }
+        ],
+        "place_id": "ChIJr5YkQUJiwokRxjOrpYhD6u4",
+        "plus_code": {
+          "compound_code": "P7PM+47 Jamaica, Queens, NY, USA",
+          "global_code": "87G8P7PM+47"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJr5YkQUJiwokRxjOrpYhD6u4",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 571,
+        "vicinity": "250-18 Hillside Avenue, Jamaica"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74398869999999,
+            "lng": -73.7182375
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7452607802915,
+              "lng": -73.71682981970848
+            },
+            "southwest": {
+              "lat": 40.7425628197085,
+              "lng": -73.71952778029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-413-5159",
+        "name": "Halal Munchies",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1575,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106750650627763428802\">Halal Munchies</a>"
+            ],
+            "photo_reference": "AU_ZVEGaJfgM6zM_eqoeuCDNbJKoPDuAc3T_NJ-3fWqSxeyi3qmXhKPUWwhe3c3Yn82FjcsXYJ-rAuRInU3U-s2Aae_19pvtAl39zlIRPunPcXCJXoNUCadAVAWAghKV8TvQ-Dtly4VKo9Zja2cZ0sgYjYF11qhvYhgtsAfhvPF-4y8vhgEqyosprNq73MZo9P3nFTMsXNWKdNFYqkOhzKKFzCMxYwFWDdbmyCDqLOvcjAMgbol0J-ocDAN018iBgQo3Xyk7kUNQxFzWHxBvz2QF9Zr4oa7WCMmL5ksI5FTp8h-vaDO72bFd6eLyHYMQUYvVECD45uGbYCg",
+            "width": 1242
+          }
+        ],
+        "place_id": "ChIJJUdeSUljwokRKf7H0a1DMMA",
+        "plus_code": {
+          "compound_code": "P7VJ+HP Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7VJ+HP"
+        },
+        "price_level": 1,
+        "rating": 4.7,
+        "reference": "ChIJJUdeSUljwokRKf7H0a1DMMA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 603,
+        "vicinity": "252-13 Union Turnpike, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73325330000001,
+            "lng": -73.73633559999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7346871302915,
+              "lng": -73.7350043697085
+            },
+            "southwest": {
+              "lat": 40.73198916970851,
+              "lng": -73.73770233029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-213-5630",
+        "name": "LOADED",
+        "place_id": "ChIJB-UZW9djwokR_KbJYyJ9IGM",
+        "plus_code": {
+          "compound_code": "P7M7+8F Queens Village, Queens, NY, USA",
+          "global_code": "87G8P7M7+8F"
+        },
+        "reference": "ChIJB-UZW9djwokR_KbJYyJ9IGM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "Atrium Main Door, 233-16 Hillside Avenue, Queens Village"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7354484,
+            "lng": -73.71591430000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7369182802915,
+              "lng": -73.7146188697085
+            },
+            "southwest": {
+              "lat": 40.7342203197085,
+              "lng": -73.71731683029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-470-2399",
+        "name": "Taco Express Mexican Grill",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4928,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104552656240773709699\">Taco Express Mexican Grill</a>"
+            ],
+            "photo_reference": "AU_ZVEFmJ4cTQqHxKVhOmiznI-c9PouXKpLcu3RaCYdzYOM-rB3_Vfgo0IMNS-0e9K58w5j-dSSJuqq64j3EU7Ehw1vfXMdSTZc9ECXwAx2bI2uQuV9KDy6Po2wgMsRMjbXPW3F1GnuUZFpbopnz0RbHfSjv22iq8j3xIjTyKuBeJDZEX40ox6-gps0OVVgZDqAb9aVQkyz4OActl4E-U5mnoUNJeLIxbbhYMInGJUqFDPM-uWdyMLdjssY4C9C5qSLYDNDkC2rG0JTB14Od2agBmlnb6j_WfWk-3Wr5mqYjGcUn2g6nVW_yF0Ejuz6Iim9w1t2hG9I1AtY",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJnTWoQspjwokRl7V6Adv85Xs",
+        "plus_code": {
+          "compound_code": "P7PM+5J Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7PM+5J"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJnTWoQspjwokRl7V6Adv85Xs",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1160,
+        "vicinity": "251-14 Hillside Avenue, Bellerose"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7441385,
+            "lng": -73.7179811
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7453978302915,
+              "lng": -73.71658026970849
+            },
+            "southwest": {
+              "lat": 40.7426998697085,
+              "lng": -73.7192782302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-676-5183",
+        "name": "Popeyes Louisiana Kitchen",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1192,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107549961217031184128\">Popeyes Louisiana Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEG3CFompYdX_rOxNJnfL6uChi6v4lOw0ZSeFJXNklvbV_F-lIPKqo6702TFZz5HyuXc4DgJ-MgIgTl9HuE-ECN7k2EPwZ43VmGKMtxU3d3EBBYQSUAeiPDEcYccK5RaKQp5Z4q-L2D32QFLadiZZRJUprBC_BW-wjRwNXf1ozCqbL3gyOKPQvke7yGfmL3U7xU39RtbBd7f0FQLTxPvws5Y9OjyYIGOJ4cCTCNB1m0wPGg0Cgrpdyhzof7SHjqbZkGywzRqEXJe1nVhJ2nylc75UeHgd3B-L0VTRg3VVJ3JkWjIRC10CO8pK4VPyV1UOD_jnlEP49g",
+            "width": 2120
+          }
+        ],
+        "place_id": "ChIJl3wxAz5jwokRtUsARGszaL8",
+        "plus_code": {
+          "compound_code": "P7VJ+MR Bellerose, Queens, NY, USA",
+          "global_code": "87G8P7VJ+MR"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJl3wxAz5jwokRtUsARGszaL8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 626,
+        "vicinity": "252-25 Union Turnpike, Bellerose"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73843000000001,
+            "lng": -73.7172394
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7397881302915,
+              "lng": -73.7158478697085
+            },
+            "southwest": {
+              "lat": 40.7370901697085,
+              "lng": -73.7185458302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "\u2605Charming Urban Getaway for NYC vacation \u2605",
+        "place_id": "ChIJld3LlmliwokRGStIa5_GroQ",
+        "plus_code": {
+          "compound_code": "P7QM+94 New York, NY, USA",
+          "global_code": "87G8P7QM+94"
+        },
+        "reference": "ChIJld3LlmliwokRGStIa5_GroQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.740784,
+            "lng": -73.72675699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74209723029151,
+              "lng": -73.7255002197085
+            },
+            "southwest": {
+              "lat": 40.73939926970851,
+              "lng": -73.7281981802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/Cross Island Py",
+        "place_id": "ChIJKYbM_RRiwokRts9ErIJ97Pc",
+        "plus_code": {
+          "compound_code": "P7RF+87 New York, NY, USA",
+          "global_code": "87G8P7RF+87"
+        },
+        "reference": "ChIJKYbM_RRiwokRts9ErIJ97Pc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7414685,
+            "lng": -73.7246285
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7428074802915,
+              "lng": -73.72327396970849
+            },
+            "southwest": {
+              "lat": 40.7401095197085,
+              "lng": -73.7259719302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/Commonwealth Bl",
+        "place_id": "ChIJBX-JyRRiwokR7p7EbBt2r8Q",
+        "plus_code": {
+          "compound_code": "P7RG+H4 New York, NY, USA",
+          "global_code": "87G8P7RG+H4"
+        },
+        "reference": "ChIJBX-JyRRiwokR7p7EbBt2r8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7390535,
+            "lng": -73.733482
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7403900802915,
+              "lng": -73.7321203697085
+            },
+            "southwest": {
+              "lat": 40.73769211970851,
+              "lng": -73.7348183302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/Winchester Bl",
+        "place_id": "ChIJ8-HcfT1iwokRuSoj2aPgkH8",
+        "plus_code": {
+          "compound_code": "P7Q8+JJ New York, NY, USA",
+          "global_code": "87G8P7Q8+JJ"
+        },
+        "reference": "ChIJ8-HcfT1iwokRuSoj2aPgkH8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73337969999999,
+            "lng": -73.72672109999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7347206802915,
+              "lng": -73.72536906970849
+            },
+            "southwest": {
+              "lat": 40.7320227197085,
+              "lng": -73.7280670302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/239 St",
+        "place_id": "ChIJh3n1LD9iwokRPw5keesJ6I0",
+        "plus_code": {
+          "compound_code": "P7MF+98 New York, NY, USA",
+          "global_code": "87G8P7MF+98"
+        },
+        "reference": "ChIJh3n1LD9iwokRPw5keesJ6I0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.742348,
+            "lng": -73.7220155
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7436963802915,
+              "lng": -73.7206661697085
+            },
+            "southwest": {
+              "lat": 40.7409984197085,
+              "lng": -73.7233641302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/248 St",
+        "place_id": "ChIJj-9JfWtiwokRmNotCxOBwN4",
+        "plus_code": {
+          "compound_code": "P7RH+W5 New York, NY, USA",
+          "global_code": "87G8P7RH+W5"
+        },
+        "reference": "ChIJj-9JfWtiwokRmNotCxOBwN4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.740803,
+            "lng": -73.726326
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74218243029149,
+              "lng": -73.72494526970848
+            },
+            "southwest": {
+              "lat": 40.73948446970849,
+              "lng": -73.72764323029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/Cross Island Pkwy",
+        "place_id": "ChIJNSci_RRiwokRkDQ_oC-3bEI",
+        "plus_code": {
+          "compound_code": "P7RF+8F New York, NY, USA",
+          "global_code": "87G8P7RF+8F"
+        },
+        "reference": "ChIJNSci_RRiwokRkDQ_oC-3bEI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.740887,
+            "lng": -73.726776
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7422359802915,
+              "lng": -73.7254270197085
+            },
+            "southwest": {
+              "lat": 40.7395380197085,
+              "lng": -73.72812498029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/Cross Island Pkwy",
+        "place_id": "ChIJv2AX_BRiwokRu_t3_arV5EI",
+        "plus_code": {
+          "compound_code": "P7RF+97 New York, NY, USA",
+          "global_code": "87G8P7RF+97"
+        },
+        "rating": 5,
+        "reference": "ChIJv2AX_BRiwokRu_t3_arV5EI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.741524,
+            "lng": -73.7248
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7428687802915,
+              "lng": -73.7234486197085
+            },
+            "southwest": {
+              "lat": 40.7401708197085,
+              "lng": -73.72614658029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/Commonwealth Blvd",
+        "photos": [
+          {
+            "height": 3876,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEFq0pVezL3wZqqAvFyhrNRq9UPurcXuzfQpwQHOYZtvZTE8_agFkve6Dhwm20ItzjdXDrxRveBKsltFi7jnytY1cS9OIH8LZs7GAUXbWDnQMlWBezXj3yfSng71yVFL4oAwjB3-fdKXZYfuiYee3422YJkROr5leRRfBJHUZHK5J2nEJojUIByl5oAoJqrPbiHD_vXOIFHuVe39RPcWDiehrNdCZbJELEYmYJYftugRjBNaxi5TLYqRqptOO7BVDHufV2sktzDJ1nlzU58tCoAxDQw-5fm-H3sR-4bvBBQlREuczHYD4Wy_Rhchwc2lWmlo4Mu6WLXfxcoIVtU0OpgC-qAWkcqBHftX1-QtP169BrbgfNQrxq9fYQ9TJsHqHMXZzniHXJ5USn6H98UbZUa5xr4beoUePpwFa8ImRISRrxF5OmU7I7Ds1ZKTjMCO6VaUd3K1b8jyznQrfqogEMOR8wLhdnMzAHNPZLRnyB_OsygJT2iJq9V5Qu4Nidiq8V9gbkPffqArgJm2uS3FNj2xHyO6nhL2LR0NYvl6xfMwjdp0NJ3chJUMUNd6bFq4iPQr7SJlBRv53YeapixQl0tS-odB4tM-KR8cAjRCbaUuebB637VnoJWLK-1w8L7CyYoH2Q",
+            "width": 5168
+          }
+        ],
+        "place_id": "ChIJXSvLyRRiwokRnfeCDh9ydjk",
+        "plus_code": {
+          "compound_code": "P7RG+J3 New York, NY, USA",
+          "global_code": "87G8P7RG+J3"
+        },
+        "rating": 4.5,
+        "reference": "ChIJXSvLyRRiwokRnfeCDh9ydjk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.73896,
+            "lng": -73.73342099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74032878029149,
+              "lng": -73.7320920697085
+            },
+            "southwest": {
+              "lat": 40.7376308197085,
+              "lng": -73.7347900302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/Winchester Blvd",
+        "place_id": "ChIJU1KBfj1iwokRdS-4-hm2DTQ",
+        "plus_code": {
+          "compound_code": "P7Q8+HJ New York, NY, USA",
+          "global_code": "87G8P7Q8+HJ"
+        },
+        "rating": 5,
+        "reference": "ChIJU1KBfj1iwokRdS-4-hm2DTQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.739147,
+            "lng": -73.733543
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7405037302915,
+              "lng": -73.7322538197085
+            },
+            "southwest": {
+              "lat": 40.7378057697085,
+              "lng": -73.73495178029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/Winchester Blvd",
+        "photos": [
+          {
+            "height": 4608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEH6rJSMJG0jPX7Ldzwv2Sx3Uh0pYekniJPeSnU3b94OJf1V6jrkPuLB_Hv9haIqOoN5N1cANAq5LUdhhrl0jmldYTYZn4XYCvEje4y1i5OGfUwmzCReVdYtmLRxX7z6uvBN_QUCUQpD41NnM5-FzEQ3llKssVeDhL-8xZpJl-Stwfia53BHlXe7R1EZfaO6jLzIiTDVH-7PQxJ4Qp1AFsY72ek_oyqqNxYG2U8QyZMXFvI8m0Sw29EwRaGBBjjdEIx_fMnVahmgAkfp0zmtdfgUuL8vMbFudyjqm5yGJQTMSUMVhTeEOEiOLKEItkbkHLwhUksWuKtALSCbqL1SBFrUkJX9aTExBggBUYNfto9PwwPIN4kwKQBG_7wXZD4sQ2YNVsdTkF64_pAcWMzgTIclqhyxEOxCMDYhw6Tq2r1Ck3T9bGGAT-f1EuJBTs-X7yv0CbAV3AWk26I8QWM10rLKec4Miccay-tekN6jeXblKZi3QV_AtUWY-3qK_HfK-aqn-C1iD7k4arfif1xEY03dfMyFcnBN9xmpXBuilTMcevIKLOYdAyHhLlRrqU5uDYTWwPLwRjyVmGjlFkF1f0zuxkWMLVJRfYlQQw9dXg1dgJ8uEBEHpscZlHZhMCzb",
+            "width": 2112
+          }
+        ],
+        "place_id": "ChIJh5qKfT1iwokRtKeDSMHeFm4",
+        "plus_code": {
+          "compound_code": "P7Q8+MH New York, NY, USA",
+          "global_code": "87G8P7Q8+MH"
+        },
+        "rating": 3.3,
+        "reference": "ChIJh5qKfT1iwokRtKeDSMHeFm4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7331874,
+            "lng": -73.7271579
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73455508029149,
+              "lng": -73.7258159197085
+            },
+            "southwest": {
+              "lat": 40.73185711970849,
+              "lng": -73.7285138802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/239 St",
+        "place_id": "ChIJmTNzSD9iwokRMDNc49LGBf0",
+        "plus_code": {
+          "compound_code": "P7MF+74 New York, NY, USA",
+          "global_code": "87G8P7MF+74"
+        },
+        "reference": "ChIJmTNzSD9iwokRMDNc49LGBf0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7331856,
+            "lng": -73.7271405
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7345583802915,
+              "lng": -73.72580041970849
+            },
+            "southwest": {
+              "lat": 40.7318604197085,
+              "lng": -73.7284983802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/239 St",
+        "place_id": "ChIJ4ciFLT9iwokRy9Un_HQzV3Y",
+        "plus_code": {
+          "compound_code": "P7MF+74 New York, NY, USA",
+          "global_code": "87G8P7MF+74"
+        },
+        "rating": 4,
+        "reference": "ChIJ4ciFLT9iwokRy9Un_HQzV3Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74231,
+            "lng": -73.72243499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7436567302915,
+              "lng": -73.7210845697085
+            },
+            "southwest": {
+              "lat": 40.7409587697085,
+              "lng": -73.7237825302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/248 St",
+        "place_id": "ChIJuVd5YWtiwokR37Pstzhc0qI",
+        "plus_code": {
+          "compound_code": "P7RH+W2 New York, NY, USA",
+          "global_code": "87G8P7RH+W2"
+        },
+        "rating": 5,
+        "reference": "ChIJuVd5YWtiwokR37Pstzhc0qI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.742386,
+            "lng": -73.72159599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74376583029149,
+              "lng": -73.7202657197085
+            },
+            "southwest": {
+              "lat": 40.74106786970849,
+              "lng": -73.7229636802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/248 St",
+        "place_id": "ChIJb93mgWxiwokRABhEANsJzo8",
+        "plus_code": {
+          "compound_code": "P7RH+X9 New York, NY, USA",
+          "global_code": "87G8P7RH+X9"
+        },
+        "reference": "ChIJb93mgWxiwokRABhEANsJzo8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.734436,
+            "lng": -73.72129799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7358379302915,
+              "lng": -73.71996886970848
+            },
+            "southwest": {
+              "lat": 40.7331399697085,
+              "lng": -73.7226668302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/Commonwealth Blvd",
+        "place_id": "ChIJ-XmJ-0BiwokRgmacW1V0GiI",
+        "plus_code": {
+          "compound_code": "P7MH+QF New York, NY, USA",
+          "global_code": "87G8P7MH+QF"
+        },
+        "rating": 5,
+        "reference": "ChIJ-XmJ-0BiwokRgmacW1V0GiI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.732723,
+            "lng": -73.730476
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7340942802915,
+              "lng": -73.7291275697085
+            },
+            "southwest": {
+              "lat": 40.7313963197085,
+              "lng": -73.7318255302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/Creedmoore Hospital",
+        "place_id": "ChIJcUNvwjtiwokRo6l63ZF_Jug",
+        "plus_code": {
+          "compound_code": "P7M9+3R New York, NY, USA",
+          "global_code": "87G8P7M9+3R"
+        },
+        "reference": "ChIJcUNvwjtiwokRo6l63ZF_Jug",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.735153,
+            "lng": -73.718643
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7365029802915,
+              "lng": -73.7172943697085
+            },
+            "southwest": {
+              "lat": 40.73380501970851,
+              "lng": -73.7199923302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Ave/249 St",
+        "place_id": "ChIJnzygiEFiwokR0AM9lSk7fbU",
+        "plus_code": {
+          "compound_code": "P7PJ+3G New York, NY, USA",
+          "global_code": "87G8P7PJ+3G"
+        },
+        "reference": "ChIJnzygiEFiwokR0AM9lSk7fbU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.737988,
+            "lng": -73.73677099999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7393339802915,
+              "lng": -73.7354208197085
+            },
+            "southwest": {
+              "lat": 40.7366360197085,
+              "lng": -73.7381187802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/235 St",
+        "place_id": "ChIJoW2LxSJiwokRpeDvTjujQ78",
+        "plus_code": {
+          "compound_code": "P7Q7+57 New York, NY, USA",
+          "global_code": "87G8P7Q7+57"
+        },
+        "rating": 5,
+        "reference": "ChIJoW2LxSJiwokRpeDvTjujQ78",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.733517,
+            "lng": -73.73507699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7348657302915,
+              "lng": -73.73372811970849
+            },
+            "southwest": {
+              "lat": 40.7321677697085,
+              "lng": -73.7364260802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/Winchester Blvd",
+        "place_id": "ChIJaSIuRDtiwokRmB-pqOmsFhk",
+        "plus_code": {
+          "compound_code": "P7M7+CX New York, NY, USA",
+          "global_code": "87G8P7M7+CX"
+        },
+        "rating": 1,
+        "reference": "ChIJaSIuRDtiwokRmB-pqOmsFhk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.737663,
+            "lng": -73.737312
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73903248029151,
+              "lng": -73.73597071970849
+            },
+            "southwest": {
+              "lat": 40.73633451970851,
+              "lng": -73.73866868029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/234 St",
+        "place_id": "ChIJr-ys3SJiwokREq75YuG6fEY",
+        "plus_code": {
+          "compound_code": "P7Q7+33 New York, NY, USA",
+          "global_code": "87G8P7Q7+33"
+        },
+        "rating": 1,
+        "reference": "ChIJr-ys3SJiwokREq75YuG6fEY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.735359,
+            "lng": -73.717255
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73672953029149,
+              "lng": -73.71591466970851
+            },
+            "southwest": {
+              "lat": 40.73403156970849,
+              "lng": -73.71861263029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Ave/250 St",
+        "place_id": "ChIJEZidPkJiwokRr7AVqoukOyU",
+        "plus_code": {
+          "compound_code": "P7PM+43 New York, NY, USA",
+          "global_code": "87G8P7PM+43"
+        },
+        "reference": "ChIJEZidPkJiwokRr7AVqoukOyU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.733394,
+            "lng": -73.73578599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.73475468029149,
+              "lng": -73.7344370697085
+            },
+            "southwest": {
+              "lat": 40.7320567197085,
+              "lng": -73.73713503029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/Winchester Blvd",
+        "place_id": "ChIJ370sSjtiwokRUpoa1iRr7AA",
+        "plus_code": {
+          "compound_code": "P7M7+9M New York, NY, USA",
+          "global_code": "87G8P7M7+9M"
+        },
+        "reference": "ChIJ370sSjtiwokRUpoa1iRr7AA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.735694,
+            "lng": -73.716441
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7369984802915,
+              "lng": -73.7150741697085
+            },
+            "southwest": {
+              "lat": 40.7343005197085,
+              "lng": -73.71777213029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hillside Av/251 St",
+        "place_id": "ChIJR8HSZ0JiwokRJPTEjODX_VE",
+        "plus_code": {
+          "compound_code": "P7PM+7C New York, NY, USA",
+          "global_code": "87G8P7PM+7C"
+        },
+        "rating": 5,
+        "reference": "ChIJR8HSZ0JiwokRJPTEjODX_VE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.739952,
+            "lng": -73.715958
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74130803029149,
+              "lng": -73.7145830697085
+            },
+            "southwest": {
+              "lat": 40.73861006970849,
+              "lng": -73.7172810302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/82 Av",
+        "place_id": "ChIJeULMG2liwokRIkONaV6jPk8",
+        "plus_code": {
+          "compound_code": "P7QM+XJ New York, NY, USA",
+          "global_code": "87G8P7QM+XJ"
+        },
+        "reference": "ChIJeULMG2liwokRIkONaV6jPk8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74363699999999,
+            "lng": -73.71811699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7449898802915,
+              "lng": -73.7167693697085
+            },
+            "southwest": {
+              "lat": 40.7422919197085,
+              "lng": -73.71946733029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/252 St",
+        "place_id": "ChIJxWzCnG5iwokRinD_10vIICI",
+        "plus_code": {
+          "compound_code": "P7VJ+FQ New York, NY, USA",
+          "global_code": "87G8P7VJ+FQ"
+        },
+        "rating": 5,
+        "reference": "ChIJxWzCnG5iwokRinD_10vIICI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7400855,
+            "lng": -73.715874
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74142758029149,
+              "lng": -73.71455071970848
+            },
+            "southwest": {
+              "lat": 40.73872961970849,
+              "lng": -73.71724868029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Py/82 Av",
+        "place_id": "ChIJWWk-GWliwokRV4O-gW10UeU",
+        "plus_code": {
+          "compound_code": "P7RM+2M New York, NY, USA",
+          "global_code": "87G8P7RM+2M"
+        },
+        "reference": "ChIJWWk-GWliwokRV4O-gW10UeU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.740219,
+            "lng": -73.71579
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74156268029149,
+              "lng": -73.7144615197085
+            },
+            "southwest": {
+              "lat": 40.7388647197085,
+              "lng": -73.7171594802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/82 Av",
+        "place_id": "ChIJ9zK1GGliwokR5U8f0K32MPI",
+        "plus_code": {
+          "compound_code": "P7RM+3M New York, NY, USA",
+          "global_code": "87G8P7RM+3M"
+        },
+        "reference": "ChIJ9zK1GGliwokR5U8f0K32MPI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7438849,
+          "lng": -73.7183869
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7451704802915,
+            "lng": -73.71695876970851
+          },
+          "southwest": {
+            "lat": 40.7424725197085,
+            "lng": -73.71965673029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-343-4448",
+      "name": "Sagar Chinese",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3519,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109303966240216296459\">Sagar Chinese</a>"
+          ],
+          "photo_reference": "AU_ZVEGKvZpltpyjRDvb8Os0qGch1Y9md2DsRC_r5USXflAL-Oa8l0Ub0VGwSsrqWUtbeyUc7lQfQGT9bniiNBQ_qsajw0lN6bpNi94tKxioFnASaqPXq6ZLt4c4jGnezFVtYlx3W4yEzDzRcQ-pEF2gBdm78nDPlHxfq91IiV40bFzoxNP7AIAEGasMY2NODN2XbKfWsVhQNsOgVl5GAPi3Y8-NI0yGr2a6szFnc95I1RVurcG1OqJoiEYu_RuUcZfv40Bl-dOIfXZfIqdqSs9dmJULjWJjKatDVhFhfBuDxbr5m_Gi7EqbErY-0ROAhHLvZ3UB1wNAjQU",
+          "width": 5279
+        }
+      ],
+      "place_id": "ChIJhZb5J2xiwokRLnO3aNyXCZg",
+      "plus_code": {
+        "compound_code": "P7VJ+HJ Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7VJ+HJ"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJhZb5J2xiwokRLnO3aNyXCZg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1827,
+      "vicinity": "252-05 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.734997,
+          "lng": -73.718058
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7364638802915,
+            "lng": -73.71674091970849
+          },
+          "southwest": {
+            "lat": 40.7337659197085,
+            "lng": -73.71943888029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-4000",
+      "name": "King of India",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104441120331427341518\">umar qureshi</a>"
+          ],
+          "photo_reference": "AU_ZVEHUmz4KrdDQ6JQbsUw2SqiY5JlE9smSQ0k4SCnBCLm5ai9-lf1JuTHCmbIls2OqZ6GaTdd3yroUVQX_eTUrtIeUJOWlJSkKFCbS8aokTLNVJBsXH28EaV7Op8YGvvj7d9NIrniBdD5DBgKuwiwGZMBcO21mGpjqArVEb3ewdjDvP_s-kYLICrKEupaElJOgF3PaeIZfB-KGTVwlSic4YBiuNa5ThhnAuuf-fbxAEbvYNQKq_L578CKv2dUGRi4yXts779elnJwxSc8zopvldhLyqSJ-E1Evzv5RkAT-cb-Eki0zYcTusReeMz6ZvD50yRV-kMXNvaKcth6dgF52AUYZ7B4r1KmVptNpK6h4fzkNfmoM0kQW2-rlnX2tDldqRfXxC2284mZTirDDrjn0ozvBtEut-ZHS8FiKjy7IzT9bRLB9pjEdlvA11y0kyZC3ebZat9XOA_ZHSzqfGe--y7NlmiZ5DObHJyEXQwONe0khwygcDZ7zARQTXsDbPg2dpPXUkR6tKPoMIjpduOve6LucfHNo9hjjHw1xfIPU06fB71K4fH78Yi1mH_LTX0XtI1qQ5qxPadqxiUhN-v28jRcftgYTTrkMH3GyckCo3-Eh6NjTN_JRrcy-VdDRhP8-Gny1Vqpd",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJy6BBJEJiwokRu38PGAH7yNs",
+      "plus_code": {
+        "compound_code": "P7MJ+XQ Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7MJ+XQ"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJy6BBJEJiwokRu38PGAH7yNs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 277,
+      "vicinity": "249-04 Hillside Avenue, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.733253,
+          "lng": -73.736346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7346863802915,
+            "lng": -73.73501201970849
+          },
+          "southwest": {
+            "lat": 40.7319884197085,
+            "lng": -73.7377099802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-776-3776",
+      "name": "Frangos Peri Peri Queens",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104709671504768057870\">Anisul Tony</a>"
+          ],
+          "photo_reference": "AU_ZVEH6u0A-8vD0kmKZ7UhMriWYLzU4glt8hzc9scjnZuozyTr6G0L9c5NXwBbeJdUWzWA6GyLs9IEeDLLYifzN8EVkCUmd48MtZ_Fjj3pdf8rohhcdCbmdFc8Ycc4Qp7Jr5TgYKbFVectd2ah_s7-Lk91Y5GO0etq_fEl1cR3BsS8HNk1MV2H6B-sF7HzK-hvdUJNLY3XJh8EoDge72X6E8Tfe6a4YfeVAExQCXlG6gjL82hoHxXpMBK7AXYUnCQtkhXh7vVNht5dkvexMUd4Cv6q6_h_EuvpA0lR6GVR0bo04bFE9bySD11xvoqGYJvMgMs8Z14ws8-KVhNTh5M_fK0_RvhG33ozEPiUR_kM62pEscm9c9sWsSKKbwJBwz0SCtbaAaTDjW4QJFnwYTWpiupc6Hlmd44cxFLayrug3spbC1wMGrZfylFUqbrI-WwR4Z3AM1TVtM-2tsvapvcReGTNtRN6KBcpHhFi6Kq3cI373iehqHdMVLgtPNeHymRMoAurIOEpvuoOoxgYiK6C9qvwjA5CqvjmKiMdiGFn28l3i_NTWP1e5TtI3O1147_Cdpb83z2D2tgIJoJ7f0cR44JP941xCsOMr82y6Vdtu2Gfad996wzcoYT2x0FurcmOGBUC4QGxv",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJO1pkyiRiwokRKdKbN3SPpCk",
+      "plus_code": {
+        "compound_code": "P7M7+8F Queens, NY, USA",
+        "global_code": "87G8P7M7+8F"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJO1pkyiRiwokRKdKbN3SPpCk",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 635,
+      "vicinity": "233-16 Hillside Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7424482,
+          "lng": -73.7211244
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7438231302915,
+            "lng": -73.71971161970848
+          },
+          "southwest": {
+            "lat": 40.7411251697085,
+            "lng": -73.7224095802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-2100",
+      "name": "Bellerose Famous Pizza",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112605603633538110463\">Dmitry Naumov</a>"
+          ],
+          "photo_reference": "AU_ZVEFiXg8oCwoBiUmvVrbcYaQi_OfiFH37QMJ82JyUzlcC7dgTd2_FkxAYliAuImWa75YLJ3ePXUElrF6QubWldpU4O_GMtvF07IIRW-cKYAEdz3-YaQV8ZgUEuv-oXndUZE0r9yZb6WBMw9GBXSr-XIo3SxVpiw0OYjNeB_AI1D0wmVkvvysvljulGSO57NP0_pGE0eTVmQqCHMKadDPoJmUt9nv86GD-crENVBQ3w93xSgU41fii63-HHWtP5fmFBUpFE9tF4iIgxgzMgSwFvgTGEGOZIdgPmH_XexHZyUED_Sb87g1k0UwdZSqnQjXb8YFdxYc23i12frFeCZK8OiMGzGeUf6N13FmpTQoHFqxVDecMlHfBhn2bcdMQhCag1d41kg235hP_A-jDD8YRJBihKoq0g8ZnYz_SUQgLlcKlH-7tmYMqNfkqg-LNopn84hPuK_uwuBjbkEoA3ZmBowITThsKWvMRMir0sjUCMUqvqlIpNjEj5ZilE0nCIQ0-Uuftc-2uJ_hAXN1QzErkLODLamhsTJUamgh3a5aZr-n0kKWUCNo5J58Y4eBEEOa28mTx3Fa6BReZhfbDCr3xAMEkq6zaTrTF8LCkQ8XLyFhwP24MeGNChz9VJao9eLutZb2Mth21kGJjuwfy5R0FCUFgQVU",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJ3yZOgGxiwokRfWsndjgXrTs",
+      "plus_code": {
+        "compound_code": "P7RH+XH Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7RH+XH"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ3yZOgGxiwokRfWsndjgXrTs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 551,
+      "vicinity": "248-22 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7333358,
+          "lng": -73.7364856
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73472608029149,
+            "lng": -73.73512321970848
+          },
+          "southwest": {
+            "lat": 40.7320281197085,
+            "lng": -73.7378211802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-479-3710",
+      "name": "Szechuan Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104667671735699783297\">Szechuan Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEHwEIVK7nHqxhdAARXTq3WarRGOyeEv8tls0b4X-7oL5btei4kRbs4Hy_4F4H7Lgc68TlnAgUsdj7MB2L8Q1j5WKnLxBrznihitWaJ8jAp3syQzdnXTvdqxEFGcQaaNNKvHu7GkG4LJ7VGfhZVfXx4R8waD2cnHfOzIlk1Gie5czr7iVngSPnR7PLw9iLHU8oLhXrbNEM2UrUtR9RlQ2eHHyq6FViTfxBF0584hdCEr57Kx4dZtP2rBzgJyA8CIbFCqZizAnpto9b_0jEz39Jep9rwESQVd2um7UI0usKAwsH_SCuCK5A0XrjaoxIK146bHXj0lme0",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJ8U5gySRiwokR9-LLWEvFvoo",
+      "plus_code": {
+        "compound_code": "P7M7+8C Queens Village, Queens, NY, USA",
+        "global_code": "87G8P7M7+8C"
+      },
+      "price_level": 1,
+      "rating": 3.3,
+      "reference": "ChIJ8U5gySRiwokR9-LLWEvFvoo",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 140,
+      "vicinity": "233-14 Hillside Avenue, Queens Village"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74243039999999,
+          "lng": -73.7220408
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74377938029149,
+            "lng": -73.72069181970849
+          },
+          "southwest": {
+            "lat": 40.74108141970849,
+            "lng": -73.72338978029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-732-3526",
+      "name": "Shawarma Express Ny",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103450177840338424069\">Shawarma Express Ny</a>"
+          ],
+          "photo_reference": "AU_ZVEGkQr62xERvWM3jmAlAhNnpHlZkqtRMAYLkqZljWXXcG9Any5m4k6S9SFfuXpVXbI7Nx4QVhCRvyF5NOBVtpXQ0aCfoqBk1QzWVz6UuVRF4S1AWdTXNgzCK4trHTc_fVM-WOo0KsCvHv4UXbVlP6C7a1FzF6nry42Vo9q9QKLBdwHoRSb2sBNFvpKmVWIxjIzef0EBdn8M57DxJ0SbgLfVXtqr9xBUT6jPAAumVGn_FLn1juiiiWLNkAFPEeHOASJpLVrQqeYL8AdkXhzGBv2CzGxrM2XdHPYYtIoeWZ8XBsmOg1J2_QWKSYbrZKPi8BiWrg74QFkU",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJJ5MW6ZtjwokR5LLACI_ArzE",
+      "plus_code": {
+        "compound_code": "P7RH+X5 Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7RH+X5"
+      },
+      "reference": "ChIJJ5MW6ZtjwokR5LLACI_ArzE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7422777,
+          "lng": -73.72167189999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7436871802915,
+            "lng": -73.72037371970849
+          },
+          "southwest": {
+            "lat": 40.7409892197085,
+            "lng": -73.7230716802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-0888",
+      "name": "Harry Sweets & Snacks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2112,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEHwTlz-RnUYYNRWJydqAmolkyucRqT2uVYhtQUvic_RPb7xK2B1f1dIXO4LgnZW9X10ROcFuL9vWyQlB4YJD3KyrdcHUG-MvuwOu9UR8MvoGF1SoKXDmfGVTyPywC6ahnDoHUASJKdb55801uWCeMb-xsjK6BxRAo4QyDR9352h-BkvvMG8451EsHRKZ-6FJ28YRjDp6oB2yiwuI_KcMp4Jooj2wOOkG9UcmKMaSiZDms8qlKAVff0zMsqrkW5V9-39n4UkP8PYzOFc2QrTuKHS2WmvOtLnH3FqkFWNTlSL2Kfah2mWRFrRFZbm7pFFPUA_dczYsWn87V3r2VAe-PPBn4fWFhEQ5nUJGisM92aHHXdVq8Q37CQhbnqAxL036r7gN_inDxgiyeoTzEYDp6BUOs4RsC7SEStYhtZHY6tUSw-OClO4lvpipLY5OcBIrLu4L9FF6cm-DVvTTCDU9fOWx4wSW8x_fq2wF5EWFnTRytlH4w89kzG6tc0MIt4jWpwbAdN6qPXVP3dLVKAaBbJIgjPRlxFkOpTbfyG4E0xrXN-EnJAZF5Ci97XSGHL0j3XM3VzP6s032S6KZ-TvTEMaW2gWrZB6GmJap4xSvpxiU32GKDga_q_4OfwLAHgBNd3mASf8",
+          "width": 4608
+        }
+      ],
+      "place_id": "ChIJswM6yHpjwokRkrtm8R9vUsA",
+      "plus_code": {
+        "compound_code": "P7RH+W8 Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7RH+W8"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJswM6yHpjwokRkrtm8R9vUsA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 464,
+      "vicinity": "248-06 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74222839999999,
+          "lng": -73.72160509999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74368148029149,
+            "lng": -73.72028626970848
+          },
+          "southwest": {
+            "lat": 40.7409835197085,
+            "lng": -73.7229842302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-3900",
+      "name": "Dilbar Indian Cuisine",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110166930770052141379\">Popeye</a>"
+          ],
+          "photo_reference": "AU_ZVEGwf2JOgzcKkZE4gkSSxhD58q9gkloRBFXOTmBzZF8og-hGDoTk3PdDIT9XHoeaW7MqVweDerHDhRT9v2O9MdToUnxOlpAhVZE_-vYUUd5I3rkd5GH7B-_nL8hRvO8y9xgu5IL-qZQ8xGsqGt4kW1anLqBiF1U31nwNaJ7yJdHR0CzBytrUxt37KBOvnZCjqw7xWEEu1_Sha65AY-ucw9iOuvxSPHTVC4MCV4X9sfb1J5AqdPZmiv9x7LzOREN_SaKgi9A-Few0WaZxBQdjkPd6fPsBWBkj67sNM_C1Cm_4_AvTMQZCxQoEoz_QAV6SwJS5vbjY0cf-qI2Zlb_2oZZHppyldzSurTs4EldV9GnG_-MtqBRdV1CdcbB7MhEjxTt3Jl7E1FzU4pDWQOAMSIZfsXzILG9RpRwAtn5A0TD4CplyCqMlFsCVSIC5w4r55oU4P3eWRnk7jS9jTjv6mA8zdLIPm7KJUOQGMWnnp1L0D5KVOEs0FdUWxi7Y_k6gJltrKIkyyMhoJlZDNWoEP85MoMQ1FLkyl-5Caa1UIr9jmQ6sjTi1xhdxzV6ieU3RSjvFZelBjL8tL9YuX7vy76sxlS4EP6EBhN2MU7JfmoMCz6uAFs38iL151pgfk3UnlSKO_FRj",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJSXoFPtljwokR5TFmgGGMrDM",
+      "plus_code": {
+        "compound_code": "P7RH+V9 Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7RH+V9"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJSXoFPtljwokR5TFmgGGMrDM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 258,
+      "vicinity": "248-08 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74267689999999,
+          "lng": -73.7220875
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7439172802915,
+            "lng": -73.7206681697085
+          },
+          "southwest": {
+            "lat": 40.7412193197085,
+            "lng": -73.72336613029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-448-6228",
+      "name": "Daana Paani",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1200,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101477828654860336349\">Daana Paani</a>"
+          ],
+          "photo_reference": "AU_ZVEHNwpX1BWLXw8eC77Za1Mx-jn76HOcE0l5gvPJa6Rrh2mfGULJuyKVeZYpBhzsY2z--WRWmnXcUZL-d7ols_31D3V9J1lGx9bOFVxEAuH-30H1LEeSmayIAsSnM18XofeQs7-LpdBeNmaqQGnthE6wBQoxOsCtyaMxVSh4f6u2Dw7RMdkomiwj7aI3i_eVb-yoemvYhKshC8ieDW2dxyP7Fxnf82dmEvPWkU3xCwlkWqCMFbYL2gwHZgiJl94n3JduJk0HVYeVraty5_vtJPjPPLRpJWZ3sMibzgffyAH2rqcCrOfdHz_30YEEVDiPiyy6zET-i",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJK78pZXhjwokRvIhBz74RB1E",
+      "plus_code": {
+        "compound_code": "P7VH+35 Jamaica, Queens, NY, USA",
+        "global_code": "87G8P7VH+35"
+      },
+      "rating": 4.9,
+      "reference": "ChIJK78pZXhjwokRvIhBz74RB1E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 357,
+      "vicinity": "248-03 Union Turnpike, Jamaica"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7426943,
+          "lng": -73.72200699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74393413029149,
+            "lng": -73.72060116970849
+          },
+          "southwest": {
+            "lat": 40.74123616970849,
+            "lng": -73.7232991302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-343-4869",
+      "name": "Majlis of NY",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 510,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101531917331099923525\">Majlis of NY</a>"
+          ],
+          "photo_reference": "AU_ZVEEZncP48kwdblxNnJjfijVb8x_wWETQ2__u5XiyyyCREbZcOEDXQmnevjJ8G28U_J5hYT3E5gQXH6ilnd5al74789MkOxCYSu-v0j9gxSh-q90rcwmUEhw9EoXIDfoS3ludTOBGuicnBm24qdryVhKEsnslECOUxKjaP_-JlCExrpqSJ9Z_SNLa7wp8rAW5iy4ouE5TZbITIDyGrjEqZOUQ17FY1MJezozSFVkXrq8XEa51r2Mnbq0HdTrkRtnYvE7XWiOWC_IMil_ls_5dxL731UnTk3QyDrNi_5B0g9DL-tdLbXCG_9GO8HTn0Hl2p4lkYsR2FPQ",
+          "width": 680
+        }
+      ],
+      "place_id": "ChIJnV3diUxjwokRwdM3xulmJO4",
+      "plus_code": {
+        "compound_code": "P7VH+35 Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7VH+35"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJnV3diUxjwokRwdM3xulmJO4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1060,
+      "vicinity": "248-05 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7426404,
+          "lng": -73.7218036
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7439195302915,
+            "lng": -73.72047391970848
+          },
+          "southwest": {
+            "lat": 40.7412215697085,
+            "lng": -73.7231718802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-732-3526",
+      "name": "Shawarma Pita",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110567916811020649162\">Shawarma Pita</a>"
+          ],
+          "photo_reference": "AU_ZVEFJeEXCdziTEjMscZDjQQeSNfgEVS_ZOrFye1jYPdg2S3fmiEBTiq-aQqPF7zUIEpd_a-Sc0_WC45iWocQbAPCjmKG8nd2axbr4R1hkLBadtMUqtupqZQ66lieVAsekGSvtypqZ7OORxRuuqEgDNKzkcfpMYsU3NcQZkmv_n-ItIRJppj_3kwCBCWuVhAh48CQyhsyQz2R8x2rzpydexJw2NYWbUT3UtjkAFhLILLUvFUl84D26ZqmCQoWLR5l0EwY6w2DN5TfB3Olk9W5Skao4g5JFKK-Stc3Ggg5NX-T7U0biPuzI4FghAaJVP10TQ-OqBmV1qbk",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJeUxAWoVjwokRre41M-5gCrQ",
+      "plus_code": {
+        "compound_code": "P7VH+37 Jamaica, Queens, NY, USA",
+        "global_code": "87G8P7VH+37"
+      },
+      "price_level": 2,
+      "rating": 3.8,
+      "reference": "ChIJeUxAWoVjwokRre41M-5gCrQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 118,
+      "vicinity": "248-09 Union Turnpike, Jamaica"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7329404,
+          "lng": -73.73401489999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7343503302915,
+            "lng": -73.73267386970848
+          },
+          "southwest": {
+            "lat": 40.7316523697085,
+            "lng": -73.7353718302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "The Halal Urban Bistro aka THE HUB",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106447028618467415969\">The Halal Urban Bistro aka THE HUB</a>"
+          ],
+          "photo_reference": "AU_ZVEH7MlA6NKmzm4bl1tkzWSTv8QitNu6OTfV7co71VmryyC1vmBrrodaGGjKvllnDe2g2tMKSNvc_pdeRTYWnx5LvOw3yR4x7B7AZzuXWgq4WxwRy18DHUVpx7sWYR65Kq4m8710NWRyuFvgkZBgdF2iZdtICxfIKq5qfcc9WW85tC4cuSBEUC7AgHDz1lL4cMkonqsBgCmUOj3TjNv0ef77OOpAuWnLof9er4Fgs76O2q_qJIw1Drrn2Yt-Hk7bJO8SVKsHjJrFUlpkazmppsFK1OOGT9jBnhDNkl6h9DDxrT4quahimSQc3GINEB-kInn1kSnGB-7w",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJNw8HIKtjwokRBxYDVtIbO8U",
+      "plus_code": {
+        "compound_code": "P7M8+59 Queens, NY, USA",
+        "global_code": "87G8P7M8+59"
+      },
+      "rating": 4.5,
+      "reference": "ChIJNw8HIKtjwokRBxYDVtIbO8U",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 695,
+      "vicinity": "235-20 Hillside Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73520579999999,
+          "lng": -73.71756789999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7366287802915,
+            "lng": -73.7162063697085
+          },
+          "southwest": {
+            "lat": 40.7339308197085,
+            "lng": -73.71890433029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-255-3372",
+      "name": "Guac Time Mexican Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105534871811650561985\">Rohit M Bhatti</a>"
+          ],
+          "photo_reference": "AU_ZVEG0QZvem1BvkYwMX0HdX3Gv-2SXvbTUeNZIoJYwAsxopuIv9K_z0Pg97fEkcicmqtd8baTRpG3AE7yh1DRJdZv8JDuOfhpHYSOZk6zAPA-h_iynvSpJ3V2mv4Oj-u8Rv80-VhF9up18xs_wJ5MUHEpIkKza27kiNqjJOqRJtqORIQ0OB79OLUEkkQ7KRicWKDGlkOnYO7GHcaW78fD7wwGqaybpC7-AXCSZec1BGqIBMwBb1B4gpaANur-EHvoAvtstnTibV2F676uHrbBWksfS4HwEnKuIf-Q3enyMG1E2vRVtBuc-2IXw3VzLY_9e9j5kfX2pLqJ4ewszKU_qYeVXIKdCYle1YY5JoM0frpeGbE-enGrYCIehtkB3O0cSLi8hG8OKVrDECYGQr9mDZu8xvYOFwe70lSx6JF0wpKlMcKl758W_sqNhDLWcYk5O-KbnTiRVHmEVKlxbbV3RmdZHdvIbnyxdoYBm8zvEcuAF1xx7SQH2L3uvshZvOChXUCwNDu8yhiDfggGylzbj_zghT1Wl8H3m0Hk7Vy4FrcDPD0-oAoP3aWWB6z8kKu56gxhkFFKWnvgkHsJjSyP45yDczOaQLuBDXyLjjcsng0Ew23bjqOGGqny-xgL3rD0HCCjggQ",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJWTBuvcVjwokRKEs9H2So6tQ",
+      "plus_code": {
+        "compound_code": "P7PJ+3X Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7PJ+3X"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJWTBuvcVjwokRKEs9H2So6tQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 391,
+      "vicinity": "249-20 Hillside Avenue, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7464732,
+          "lng": -73.72697769999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7478131802915,
+            "lng": -73.72574026970848
+          },
+          "southwest": {
+            "lat": 40.7451152197085,
+            "lng": -73.7284382302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 312-229-0127",
+      "name": "Farmer's Fridge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ_YGqKNdjwokRMuvKh-p6mcc",
+      "plus_code": {
+        "compound_code": "P7WF+H6 Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7WF+H6"
+      },
+      "reference": "ChIJ_YGqKNdjwokRMuvKh-p6mcc",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Children's Center common area with the other vending machines, 74-03 Commonwealth Blvd Located in the New York City, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7353744,
+          "lng": -73.7167511
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7367936802915,
+            "lng": -73.71543126970849
+          },
+          "southwest": {
+            "lat": 40.73409571970851,
+            "lng": -73.7181292302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-7770",
+      "name": "Surya",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100686514906580533059\">AMAN AWAN</a>"
+          ],
+          "photo_reference": "AU_ZVEGlmGNLV-jLmGJgJiyCFjR_Yi1JIDOD3qhnPOkaikrHj3HAymsJvLg8BakCFNnY3zglbhCoqo7eTb06cCFHAT-pG5sEMs0eiuH10Si6IFt84Dtwdf-BBQwhE36IyUNdiOcSHUVa24XpAc4ZVOJ2lpOwduVCBS6-TxAvejkKTqus5SzOiKc7rdjTOvOa1H4JNI3KjEiNT_orFzXyWtHl9g_OzvVS9TtRToZ5-G0h49JJWo1ezigcwfnm5Qy4ahY-RE53YCMXdDzLUFofet9HlMzJmPM0N9EIF29k_YY8OTmhbzJ1c4_jIO_SWmUxJasuzuGn48uh99VLN-m_4g9b08VTZ_YokNs26QvikagwXn3LZ0ODSbkoKnr3XAW6fuRMTk9DvKBZIgyxCJjfHf3nAdUlY5JNu3K8wkDLnNULX3Sf-AqRkbmLRdjaBJcCxZTjVKn2s6T-Hy0LJEnq7A7HLcAoUR0b0pcXu2hDMlZAbTN6BnFd4EnBXBU2GxpRWAlqbmCXKY6cuyIrEhAV3Q6q1h3hQ68zPFPzBJ9SaRP1ROixlGJQ0szGt7-xenqgx9rXQcjvJcojB47QzQ0kD1c9gtU2191KJwmUIxUr1Pv_317ohO-0tOYzisLw1no4n826eEJOP2Z9",
+          "width": 3984
+        }
+      ],
+      "place_id": "ChIJr5YkQUJiwokRxjOrpYhD6u4",
+      "plus_code": {
+        "compound_code": "P7PM+47 Jamaica, Queens, NY, USA",
+        "global_code": "87G8P7PM+47"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJr5YkQUJiwokRxjOrpYhD6u4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 571,
+      "vicinity": "250-18 Hillside Avenue, Jamaica"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74398869999999,
+          "lng": -73.7182375
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7452607802915,
+            "lng": -73.71682981970848
+          },
+          "southwest": {
+            "lat": 40.7425628197085,
+            "lng": -73.71952778029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-413-5159",
+      "name": "Halal Munchies",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1575,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106750650627763428802\">Halal Munchies</a>"
+          ],
+          "photo_reference": "AU_ZVEGaJfgM6zM_eqoeuCDNbJKoPDuAc3T_NJ-3fWqSxeyi3qmXhKPUWwhe3c3Yn82FjcsXYJ-rAuRInU3U-s2Aae_19pvtAl39zlIRPunPcXCJXoNUCadAVAWAghKV8TvQ-Dtly4VKo9Zja2cZ0sgYjYF11qhvYhgtsAfhvPF-4y8vhgEqyosprNq73MZo9P3nFTMsXNWKdNFYqkOhzKKFzCMxYwFWDdbmyCDqLOvcjAMgbol0J-ocDAN018iBgQo3Xyk7kUNQxFzWHxBvz2QF9Zr4oa7WCMmL5ksI5FTp8h-vaDO72bFd6eLyHYMQUYvVECD45uGbYCg",
+          "width": 1242
+        }
+      ],
+      "place_id": "ChIJJUdeSUljwokRKf7H0a1DMMA",
+      "plus_code": {
+        "compound_code": "P7VJ+HP Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7VJ+HP"
+      },
+      "price_level": 1,
+      "rating": 4.7,
+      "reference": "ChIJJUdeSUljwokRKf7H0a1DMMA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 603,
+      "vicinity": "252-13 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73325330000001,
+          "lng": -73.73633559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7346871302915,
+            "lng": -73.7350043697085
+          },
+          "southwest": {
+            "lat": 40.73198916970851,
+            "lng": -73.73770233029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-213-5630",
+      "name": "LOADED",
+      "place_id": "ChIJB-UZW9djwokR_KbJYyJ9IGM",
+      "plus_code": {
+        "compound_code": "P7M7+8F Queens Village, Queens, NY, USA",
+        "global_code": "87G8P7M7+8F"
+      },
+      "reference": "ChIJB-UZW9djwokR_KbJYyJ9IGM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Atrium Main Door, 233-16 Hillside Avenue, Queens Village"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7354484,
+          "lng": -73.71591430000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7369182802915,
+            "lng": -73.7146188697085
+          },
+          "southwest": {
+            "lat": 40.7342203197085,
+            "lng": -73.71731683029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-470-2399",
+      "name": "Taco Express Mexican Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4928,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104552656240773709699\">Taco Express Mexican Grill</a>"
+          ],
+          "photo_reference": "AU_ZVEFmJ4cTQqHxKVhOmiznI-c9PouXKpLcu3RaCYdzYOM-rB3_Vfgo0IMNS-0e9K58w5j-dSSJuqq64j3EU7Ehw1vfXMdSTZc9ECXwAx2bI2uQuV9KDy6Po2wgMsRMjbXPW3F1GnuUZFpbopnz0RbHfSjv22iq8j3xIjTyKuBeJDZEX40ox6-gps0OVVgZDqAb9aVQkyz4OActl4E-U5mnoUNJeLIxbbhYMInGJUqFDPM-uWdyMLdjssY4C9C5qSLYDNDkC2rG0JTB14Od2agBmlnb6j_WfWk-3Wr5mqYjGcUn2g6nVW_yF0Ejuz6Iim9w1t2hG9I1AtY",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJnTWoQspjwokRl7V6Adv85Xs",
+      "plus_code": {
+        "compound_code": "P7PM+5J Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7PM+5J"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJnTWoQspjwokRl7V6Adv85Xs",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1160,
+      "vicinity": "251-14 Hillside Avenue, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7441385,
+          "lng": -73.7179811
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7453978302915,
+            "lng": -73.71658026970849
+          },
+          "southwest": {
+            "lat": 40.7426998697085,
+            "lng": -73.7192782302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-676-5183",
+      "name": "Popeyes Louisiana Kitchen",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1192,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107549961217031184128\">Popeyes Louisiana Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEG3CFompYdX_rOxNJnfL6uChi6v4lOw0ZSeFJXNklvbV_F-lIPKqo6702TFZz5HyuXc4DgJ-MgIgTl9HuE-ECN7k2EPwZ43VmGKMtxU3d3EBBYQSUAeiPDEcYccK5RaKQp5Z4q-L2D32QFLadiZZRJUprBC_BW-wjRwNXf1ozCqbL3gyOKPQvke7yGfmL3U7xU39RtbBd7f0FQLTxPvws5Y9OjyYIGOJ4cCTCNB1m0wPGg0Cgrpdyhzof7SHjqbZkGywzRqEXJe1nVhJ2nylc75UeHgd3B-L0VTRg3VVJ3JkWjIRC10CO8pK4VPyV1UOD_jnlEP49g",
+          "width": 2120
+        }
+      ],
+      "place_id": "ChIJl3wxAz5jwokRtUsARGszaL8",
+      "plus_code": {
+        "compound_code": "P7VJ+MR Bellerose, Queens, NY, USA",
+        "global_code": "87G8P7VJ+MR"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJl3wxAz5jwokRtUsARGszaL8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 626,
+      "vicinity": "252-25 Union Turnpike, Bellerose"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73843000000001,
+          "lng": -73.7172394
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7397881302915,
+            "lng": -73.7158478697085
+          },
+          "southwest": {
+            "lat": 40.7370901697085,
+            "lng": -73.7185458302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "\u2605Charming Urban Getaway for NYC vacation \u2605",
+      "place_id": "ChIJld3LlmliwokRGStIa5_GroQ",
+      "plus_code": {
+        "compound_code": "P7QM+94 New York, NY, USA",
+        "global_code": "87G8P7QM+94"
+      },
+      "reference": "ChIJld3LlmliwokRGStIa5_GroQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.740784,
+          "lng": -73.72675699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74209723029151,
+            "lng": -73.7255002197085
+          },
+          "southwest": {
+            "lat": 40.73939926970851,
+            "lng": -73.7281981802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/Cross Island Py",
+      "place_id": "ChIJKYbM_RRiwokRts9ErIJ97Pc",
+      "plus_code": {
+        "compound_code": "P7RF+87 New York, NY, USA",
+        "global_code": "87G8P7RF+87"
+      },
+      "reference": "ChIJKYbM_RRiwokRts9ErIJ97Pc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7414685,
+          "lng": -73.7246285
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7428074802915,
+            "lng": -73.72327396970849
+          },
+          "southwest": {
+            "lat": 40.7401095197085,
+            "lng": -73.7259719302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/Commonwealth Bl",
+      "place_id": "ChIJBX-JyRRiwokR7p7EbBt2r8Q",
+      "plus_code": {
+        "compound_code": "P7RG+H4 New York, NY, USA",
+        "global_code": "87G8P7RG+H4"
+      },
+      "reference": "ChIJBX-JyRRiwokR7p7EbBt2r8Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7390535,
+          "lng": -73.733482
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7403900802915,
+            "lng": -73.7321203697085
+          },
+          "southwest": {
+            "lat": 40.73769211970851,
+            "lng": -73.7348183302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/Winchester Bl",
+      "place_id": "ChIJ8-HcfT1iwokRuSoj2aPgkH8",
+      "plus_code": {
+        "compound_code": "P7Q8+JJ New York, NY, USA",
+        "global_code": "87G8P7Q8+JJ"
+      },
+      "reference": "ChIJ8-HcfT1iwokRuSoj2aPgkH8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73337969999999,
+          "lng": -73.72672109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7347206802915,
+            "lng": -73.72536906970849
+          },
+          "southwest": {
+            "lat": 40.7320227197085,
+            "lng": -73.7280670302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/239 St",
+      "place_id": "ChIJh3n1LD9iwokRPw5keesJ6I0",
+      "plus_code": {
+        "compound_code": "P7MF+98 New York, NY, USA",
+        "global_code": "87G8P7MF+98"
+      },
+      "reference": "ChIJh3n1LD9iwokRPw5keesJ6I0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742348,
+          "lng": -73.7220155
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7436963802915,
+            "lng": -73.7206661697085
+          },
+          "southwest": {
+            "lat": 40.7409984197085,
+            "lng": -73.7233641302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/248 St",
+      "place_id": "ChIJj-9JfWtiwokRmNotCxOBwN4",
+      "plus_code": {
+        "compound_code": "P7RH+W5 New York, NY, USA",
+        "global_code": "87G8P7RH+W5"
+      },
+      "reference": "ChIJj-9JfWtiwokRmNotCxOBwN4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.740803,
+          "lng": -73.726326
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74218243029149,
+            "lng": -73.72494526970848
+          },
+          "southwest": {
+            "lat": 40.73948446970849,
+            "lng": -73.72764323029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/Cross Island Pkwy",
+      "place_id": "ChIJNSci_RRiwokRkDQ_oC-3bEI",
+      "plus_code": {
+        "compound_code": "P7RF+8F New York, NY, USA",
+        "global_code": "87G8P7RF+8F"
+      },
+      "reference": "ChIJNSci_RRiwokRkDQ_oC-3bEI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.740887,
+          "lng": -73.726776
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7422359802915,
+            "lng": -73.7254270197085
+          },
+          "southwest": {
+            "lat": 40.7395380197085,
+            "lng": -73.72812498029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/Cross Island Pkwy",
+      "place_id": "ChIJv2AX_BRiwokRu_t3_arV5EI",
+      "plus_code": {
+        "compound_code": "P7RF+97 New York, NY, USA",
+        "global_code": "87G8P7RF+97"
+      },
+      "rating": 5,
+      "reference": "ChIJv2AX_BRiwokRu_t3_arV5EI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.741524,
+          "lng": -73.7248
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7428687802915,
+            "lng": -73.7234486197085
+          },
+          "southwest": {
+            "lat": 40.7401708197085,
+            "lng": -73.72614658029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/Commonwealth Blvd",
+      "photos": [
+        {
+          "height": 3876,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEFq0pVezL3wZqqAvFyhrNRq9UPurcXuzfQpwQHOYZtvZTE8_agFkve6Dhwm20ItzjdXDrxRveBKsltFi7jnytY1cS9OIH8LZs7GAUXbWDnQMlWBezXj3yfSng71yVFL4oAwjB3-fdKXZYfuiYee3422YJkROr5leRRfBJHUZHK5J2nEJojUIByl5oAoJqrPbiHD_vXOIFHuVe39RPcWDiehrNdCZbJELEYmYJYftugRjBNaxi5TLYqRqptOO7BVDHufV2sktzDJ1nlzU58tCoAxDQw-5fm-H3sR-4bvBBQlREuczHYD4Wy_Rhchwc2lWmlo4Mu6WLXfxcoIVtU0OpgC-qAWkcqBHftX1-QtP169BrbgfNQrxq9fYQ9TJsHqHMXZzniHXJ5USn6H98UbZUa5xr4beoUePpwFa8ImRISRrxF5OmU7I7Ds1ZKTjMCO6VaUd3K1b8jyznQrfqogEMOR8wLhdnMzAHNPZLRnyB_OsygJT2iJq9V5Qu4Nidiq8V9gbkPffqArgJm2uS3FNj2xHyO6nhL2LR0NYvl6xfMwjdp0NJ3chJUMUNd6bFq4iPQr7SJlBRv53YeapixQl0tS-odB4tM-KR8cAjRCbaUuebB637VnoJWLK-1w8L7CyYoH2Q",
+          "width": 5168
+        }
+      ],
+      "place_id": "ChIJXSvLyRRiwokRnfeCDh9ydjk",
+      "plus_code": {
+        "compound_code": "P7RG+J3 New York, NY, USA",
+        "global_code": "87G8P7RG+J3"
+      },
+      "rating": 4.5,
+      "reference": "ChIJXSvLyRRiwokRnfeCDh9ydjk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.73896,
+          "lng": -73.73342099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74032878029149,
+            "lng": -73.7320920697085
+          },
+          "southwest": {
+            "lat": 40.7376308197085,
+            "lng": -73.7347900302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/Winchester Blvd",
+      "place_id": "ChIJU1KBfj1iwokRdS-4-hm2DTQ",
+      "plus_code": {
+        "compound_code": "P7Q8+HJ New York, NY, USA",
+        "global_code": "87G8P7Q8+HJ"
+      },
+      "rating": 5,
+      "reference": "ChIJU1KBfj1iwokRdS-4-hm2DTQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.739147,
+          "lng": -73.733543
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7405037302915,
+            "lng": -73.7322538197085
+          },
+          "southwest": {
+            "lat": 40.7378057697085,
+            "lng": -73.73495178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/Winchester Blvd",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEH6rJSMJG0jPX7Ldzwv2Sx3Uh0pYekniJPeSnU3b94OJf1V6jrkPuLB_Hv9haIqOoN5N1cANAq5LUdhhrl0jmldYTYZn4XYCvEje4y1i5OGfUwmzCReVdYtmLRxX7z6uvBN_QUCUQpD41NnM5-FzEQ3llKssVeDhL-8xZpJl-Stwfia53BHlXe7R1EZfaO6jLzIiTDVH-7PQxJ4Qp1AFsY72ek_oyqqNxYG2U8QyZMXFvI8m0Sw29EwRaGBBjjdEIx_fMnVahmgAkfp0zmtdfgUuL8vMbFudyjqm5yGJQTMSUMVhTeEOEiOLKEItkbkHLwhUksWuKtALSCbqL1SBFrUkJX9aTExBggBUYNfto9PwwPIN4kwKQBG_7wXZD4sQ2YNVsdTkF64_pAcWMzgTIclqhyxEOxCMDYhw6Tq2r1Ck3T9bGGAT-f1EuJBTs-X7yv0CbAV3AWk26I8QWM10rLKec4Miccay-tekN6jeXblKZi3QV_AtUWY-3qK_HfK-aqn-C1iD7k4arfif1xEY03dfMyFcnBN9xmpXBuilTMcevIKLOYdAyHhLlRrqU5uDYTWwPLwRjyVmGjlFkF1f0zuxkWMLVJRfYlQQw9dXg1dgJ8uEBEHpscZlHZhMCzb",
+          "width": 2112
+        }
+      ],
+      "place_id": "ChIJh5qKfT1iwokRtKeDSMHeFm4",
+      "plus_code": {
+        "compound_code": "P7Q8+MH New York, NY, USA",
+        "global_code": "87G8P7Q8+MH"
+      },
+      "rating": 3.3,
+      "reference": "ChIJh5qKfT1iwokRtKeDSMHeFm4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7331874,
+          "lng": -73.7271579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73455508029149,
+            "lng": -73.7258159197085
+          },
+          "southwest": {
+            "lat": 40.73185711970849,
+            "lng": -73.7285138802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/239 St",
+      "place_id": "ChIJmTNzSD9iwokRMDNc49LGBf0",
+      "plus_code": {
+        "compound_code": "P7MF+74 New York, NY, USA",
+        "global_code": "87G8P7MF+74"
+      },
+      "reference": "ChIJmTNzSD9iwokRMDNc49LGBf0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7331856,
+          "lng": -73.7271405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7345583802915,
+            "lng": -73.72580041970849
+          },
+          "southwest": {
+            "lat": 40.7318604197085,
+            "lng": -73.7284983802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/239 St",
+      "place_id": "ChIJ4ciFLT9iwokRy9Un_HQzV3Y",
+      "plus_code": {
+        "compound_code": "P7MF+74 New York, NY, USA",
+        "global_code": "87G8P7MF+74"
+      },
+      "rating": 4,
+      "reference": "ChIJ4ciFLT9iwokRy9Un_HQzV3Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74231,
+          "lng": -73.72243499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7436567302915,
+            "lng": -73.7210845697085
+          },
+          "southwest": {
+            "lat": 40.7409587697085,
+            "lng": -73.7237825302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/248 St",
+      "place_id": "ChIJuVd5YWtiwokR37Pstzhc0qI",
+      "plus_code": {
+        "compound_code": "P7RH+W2 New York, NY, USA",
+        "global_code": "87G8P7RH+W2"
+      },
+      "rating": 5,
+      "reference": "ChIJuVd5YWtiwokR37Pstzhc0qI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.742386,
+          "lng": -73.72159599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74376583029149,
+            "lng": -73.7202657197085
+          },
+          "southwest": {
+            "lat": 40.74106786970849,
+            "lng": -73.7229636802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/248 St",
+      "place_id": "ChIJb93mgWxiwokRABhEANsJzo8",
+      "plus_code": {
+        "compound_code": "P7RH+X9 New York, NY, USA",
+        "global_code": "87G8P7RH+X9"
+      },
+      "reference": "ChIJb93mgWxiwokRABhEANsJzo8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.734436,
+          "lng": -73.72129799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7358379302915,
+            "lng": -73.71996886970848
+          },
+          "southwest": {
+            "lat": 40.7331399697085,
+            "lng": -73.7226668302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/Commonwealth Blvd",
+      "place_id": "ChIJ-XmJ-0BiwokRgmacW1V0GiI",
+      "plus_code": {
+        "compound_code": "P7MH+QF New York, NY, USA",
+        "global_code": "87G8P7MH+QF"
+      },
+      "rating": 5,
+      "reference": "ChIJ-XmJ-0BiwokRgmacW1V0GiI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.732723,
+          "lng": -73.730476
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7340942802915,
+            "lng": -73.7291275697085
+          },
+          "southwest": {
+            "lat": 40.7313963197085,
+            "lng": -73.7318255302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/Creedmoore Hospital",
+      "place_id": "ChIJcUNvwjtiwokRo6l63ZF_Jug",
+      "plus_code": {
+        "compound_code": "P7M9+3R New York, NY, USA",
+        "global_code": "87G8P7M9+3R"
+      },
+      "reference": "ChIJcUNvwjtiwokRo6l63ZF_Jug",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.735153,
+          "lng": -73.718643
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7365029802915,
+            "lng": -73.7172943697085
+          },
+          "southwest": {
+            "lat": 40.73380501970851,
+            "lng": -73.7199923302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Ave/249 St",
+      "place_id": "ChIJnzygiEFiwokR0AM9lSk7fbU",
+      "plus_code": {
+        "compound_code": "P7PJ+3G New York, NY, USA",
+        "global_code": "87G8P7PJ+3G"
+      },
+      "reference": "ChIJnzygiEFiwokR0AM9lSk7fbU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.737988,
+          "lng": -73.73677099999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7393339802915,
+            "lng": -73.7354208197085
+          },
+          "southwest": {
+            "lat": 40.7366360197085,
+            "lng": -73.7381187802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/235 St",
+      "place_id": "ChIJoW2LxSJiwokRpeDvTjujQ78",
+      "plus_code": {
+        "compound_code": "P7Q7+57 New York, NY, USA",
+        "global_code": "87G8P7Q7+57"
+      },
+      "rating": 5,
+      "reference": "ChIJoW2LxSJiwokRpeDvTjujQ78",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.733517,
+          "lng": -73.73507699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7348657302915,
+            "lng": -73.73372811970849
+          },
+          "southwest": {
+            "lat": 40.7321677697085,
+            "lng": -73.7364260802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/Winchester Blvd",
+      "place_id": "ChIJaSIuRDtiwokRmB-pqOmsFhk",
+      "plus_code": {
+        "compound_code": "P7M7+CX New York, NY, USA",
+        "global_code": "87G8P7M7+CX"
+      },
+      "rating": 1,
+      "reference": "ChIJaSIuRDtiwokRmB-pqOmsFhk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.737663,
+          "lng": -73.737312
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73903248029151,
+            "lng": -73.73597071970849
+          },
+          "southwest": {
+            "lat": 40.73633451970851,
+            "lng": -73.73866868029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/234 St",
+      "place_id": "ChIJr-ys3SJiwokREq75YuG6fEY",
+      "plus_code": {
+        "compound_code": "P7Q7+33 New York, NY, USA",
+        "global_code": "87G8P7Q7+33"
+      },
+      "rating": 1,
+      "reference": "ChIJr-ys3SJiwokREq75YuG6fEY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.735359,
+          "lng": -73.717255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73672953029149,
+            "lng": -73.71591466970851
+          },
+          "southwest": {
+            "lat": 40.73403156970849,
+            "lng": -73.71861263029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Ave/250 St",
+      "place_id": "ChIJEZidPkJiwokRr7AVqoukOyU",
+      "plus_code": {
+        "compound_code": "P7PM+43 New York, NY, USA",
+        "global_code": "87G8P7PM+43"
+      },
+      "reference": "ChIJEZidPkJiwokRr7AVqoukOyU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.733394,
+          "lng": -73.73578599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.73475468029149,
+            "lng": -73.7344370697085
+          },
+          "southwest": {
+            "lat": 40.7320567197085,
+            "lng": -73.73713503029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/Winchester Blvd",
+      "place_id": "ChIJ370sSjtiwokRUpoa1iRr7AA",
+      "plus_code": {
+        "compound_code": "P7M7+9M New York, NY, USA",
+        "global_code": "87G8P7M7+9M"
+      },
+      "reference": "ChIJ370sSjtiwokRUpoa1iRr7AA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.735694,
+          "lng": -73.716441
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7369984802915,
+            "lng": -73.7150741697085
+          },
+          "southwest": {
+            "lat": 40.7343005197085,
+            "lng": -73.71777213029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hillside Av/251 St",
+      "place_id": "ChIJR8HSZ0JiwokRJPTEjODX_VE",
+      "plus_code": {
+        "compound_code": "P7PM+7C New York, NY, USA",
+        "global_code": "87G8P7PM+7C"
+      },
+      "rating": 5,
+      "reference": "ChIJR8HSZ0JiwokRJPTEjODX_VE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.739952,
+          "lng": -73.715958
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74130803029149,
+            "lng": -73.7145830697085
+          },
+          "southwest": {
+            "lat": 40.73861006970849,
+            "lng": -73.7172810302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/82 Av",
+      "place_id": "ChIJeULMG2liwokRIkONaV6jPk8",
+      "plus_code": {
+        "compound_code": "P7QM+XJ New York, NY, USA",
+        "global_code": "87G8P7QM+XJ"
+      },
+      "reference": "ChIJeULMG2liwokRIkONaV6jPk8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74363699999999,
+          "lng": -73.71811699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7449898802915,
+            "lng": -73.7167693697085
+          },
+          "southwest": {
+            "lat": 40.7422919197085,
+            "lng": -73.71946733029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/252 St",
+      "place_id": "ChIJxWzCnG5iwokRinD_10vIICI",
+      "plus_code": {
+        "compound_code": "P7VJ+FQ New York, NY, USA",
+        "global_code": "87G8P7VJ+FQ"
+      },
+      "rating": 5,
+      "reference": "ChIJxWzCnG5iwokRinD_10vIICI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7400855,
+          "lng": -73.715874
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74142758029149,
+            "lng": -73.71455071970848
+          },
+          "southwest": {
+            "lat": 40.73872961970849,
+            "lng": -73.71724868029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Py/82 Av",
+      "place_id": "ChIJWWk-GWliwokRV4O-gW10UeU",
+      "plus_code": {
+        "compound_code": "P7RM+2M New York, NY, USA",
+        "global_code": "87G8P7RM+2M"
+      },
+      "reference": "ChIJWWk-GWliwokRV4O-gW10UeU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.740219,
+          "lng": -73.71579
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74156268029149,
+            "lng": -73.7144615197085
+          },
+          "southwest": {
+            "lat": 40.7388647197085,
+            "lng": -73.7171594802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/82 Av",
+      "place_id": "ChIJ9zK1GGliwokR5U8f0K32MPI",
+      "plus_code": {
+        "compound_code": "P7RM+3M New York, NY, USA",
+        "global_code": "87G8P7RM+3M"
+      },
+      "reference": "ChIJ9zK1GGliwokR5U8f0K32MPI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

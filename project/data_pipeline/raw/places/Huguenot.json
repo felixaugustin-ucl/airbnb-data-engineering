@@ -1,0 +1,3270 @@
+{
+  "neighbourhood": "Huguenot",
+  "centroid": {
+    "lat": 40.52934361627907,
+    "lon": -74.16314805813953
+  },
+  "fetched_at": "2026-04-06T14:31:36.165113+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5291583,
+            "lng": -74.16249719999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5304385802915,
+              "lng": -74.16108561970849
+            },
+            "southwest": {
+              "lat": 40.5277406197085,
+              "lng": -74.16378358029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-984-9479",
+        "name": "Mike's Place",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116463819561472672219\">Mike&#39;s Place</a>"
+            ],
+            "photo_reference": "AU_ZVEHke26Gp6pw8mpIHKT1WzeFwIEqlOfTn3Korm40zNSiOMsGLhgcLY7arilJeFL--Q2Qv4Rbl5mnUYZfV6Y_AuakHa5o1kmzGnA85h3XPcWDqy_VaejdTfbp5MAEXKvBjmVZyZXtGeZV_79Gp8nH5SdGx_mdlFyOE5J8BhhjtxmGi_4i8rNNb8zyTTJRgaBV5Ms7dKeFeJKiiWxEdHWboLsALZcnYTVdglGqbe8mZg0WnTNWrWjgQ8WO_6949XWeezJEVLAdUKjLoBTVq7B46Kt_X_Q7mUqlUkWbeVaz5N5fGuVtihX5S2Kibzg1tPv4IEb7T2Wo6nk",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJkX5Sn1tKwokRfc_kEteiM5M",
+        "plus_code": {
+          "compound_code": "GRHQ+M2 Staten Island, NY, USA",
+          "global_code": "87G7GRHQ+M2"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJkX5Sn1tKwokRfc_kEteiM5M",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 751,
+        "vicinity": "4677 Hylan Boulevard, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5294873,
+            "lng": -74.1616851
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5308811302915,
+              "lng": -74.16023916970849
+            },
+            "southwest": {
+              "lat": 40.5281831697085,
+              "lng": -74.1629371302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-227-3000",
+        "name": "\u2018O Sfizio Ristorante",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108739936643053659350\">Vitaly Ivanov</a>"
+            ],
+            "photo_reference": "AU_ZVEGDZYsdi834ar7R1n6FBjEyd97GJUPcl26MVlRfn0pq5lGlYa1nct9ktnlLfw8DHa7UCx_DYMR8uDH3GEsljnB4BjIN8ZHp3km1LZH-1GyEF4mOprXqObiY_mMZjuIRjJEyTGpHoqomC3Og4fIwuuPHRfS_yRUbNSWcNZ-QFWCCOamrqDJA6FM5-jJl-MAGF5nStKqA8nv1CR6tpdE0UlcJWUSPJc1EV_Y0oV4W-5l0_maRxslhNgPeAxBNHrEb__YKY7PdhsQqENGfXiiXF6GCrgpSN5RRv5eFiNTq8v54QQte6nno8tdNmdDPZ1232bXtiDcQXRr7m7PwwEZJLH1TTt9uuq8ZXX4Wb_x6YgJPVaEFKXOiCCZbvQMkivHCyocDxjuF0TYhdZ0ikBCFgr6hxXn6AyhjW00ZRn8uL6peKmQljVaRgEkeomJhPhbktxcsOykNMJyyEm-H1ODGpfQBvj-AGQQvYcjtuvR2aUTPSmnOaTOtbHunCQHP0xxgrT2HoBX38tnAmHp6RQkDgzTgs72rTzjib8DwoGWYZXqj2oyqnS0lPlY0QfydELoK87sDfv3U24wLBhcF66TjswALwqkwrDquI4W5RWDXMzy6JFYNCaq35OgIuqwdpsaWVsPObw",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+        "plus_code": {
+          "compound_code": "GRHQ+Q8 Staten Island, NY, USA",
+          "global_code": "87G7GRHQ+Q8"
+        },
+        "rating": 4.7,
+        "reference": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 278,
+        "vicinity": "4651 Hylan Boulevard, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5294873,
+            "lng": -74.1616851
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5308811302915,
+              "lng": -74.16023916970849
+            },
+            "southwest": {
+              "lat": 40.5281831697085,
+              "lng": -74.1629371302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-227-3000",
+        "name": "\u2018O Sfizio Ristorante",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108739936643053659350\">Vitaly Ivanov</a>"
+            ],
+            "photo_reference": "AU_ZVEFA5IqR3FKFPmq6k516RCg2ya4I-qWx9HM64wJQkwzru4xAimyM4cL7y5mGhEVk7BrS7npn_khnjUIbU8aHSyU6sCtlDwK9m1mxH_4cRpK2JfQOR1H4KxQLI6TWNF-4bqrbEUyAGJMniYrQpOCct9AVCu0-vVi0SCurA34SPoOYnDd9XyVyX5VInKThsCVm8_FXUy0qn3Tku3nPeSIVdrEPG05s_beFvsxKcFQ79cOcX3-gMr5NSW-RZo-JKguwonfyw5F2blhxJ6MEIlFil2vX4xzyDdasChof8ytTh_61yzVqvnMLvw-_aUzkLYPobXI4QD4YoKNf38jQjSHUnpwp3lU4CKxgYa4arMqScFM-afOO3yXAoBRDu8AcwV-I-6-CwXs83QP09NEnffgPQ8UB3WhW2azkzJQxCL4k4KQZX2W2StzAjXj4VdQHsnppoVKwlRlkJAXos_GlEk1OSmMe3b71cpv1Jq1JqLoxB41jPZy6gpN8ie7HwiF964FaYNnA0csJZatAryr_mpAbmWddWMhHBldr7F6wPo97fXzFFTiAJeDIa4FgQJ9rVa4AqMxtj_xgS_8f0l8pEj1jgIu53muL2FgxCkyPkvriZJT4VXGBgpN54wOqBwAsYqpl_RvzBw",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+        "plus_code": {
+          "compound_code": "GRHQ+Q8 Staten Island, NY, USA",
+          "global_code": "87G7GRHQ+Q8"
+        },
+        "rating": 4.7,
+        "reference": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 278,
+        "vicinity": "4651 Hylan Boulevard, Staten Island"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5359011,
+            "lng": -74.1593424
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53731268029149,
+              "lng": -74.15811621970849
+            },
+            "southwest": {
+              "lat": 40.53461471970849,
+              "lng": -74.16081418029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Tree Leaf Icon",
+        "place_id": "ChIJq6o-31FKwokRlS8X8MeplQE",
+        "plus_code": {
+          "compound_code": "GRPR+97 Staten Island, NY, USA",
+          "global_code": "87G7GRPR+97"
+        },
+        "reference": "ChIJq6o-31FKwokRlS8X8MeplQE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "44 Shirley Avenue W, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53233229999999,
+            "lng": -74.154027
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5337881802915,
+              "lng": -74.15258016970849
+            },
+            "southwest": {
+              "lat": 40.5310902197085,
+              "lng": -74.15527813029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Pump station",
+        "place_id": "ChIJ3wQYAgBLwokRVY99sKhA570",
+        "plus_code": {
+          "compound_code": "GRJW+W9 Staten Island, NY, USA",
+          "global_code": "87G7GRJW+W9"
+        },
+        "reference": "ChIJ3wQYAgBLwokRVY99sKhA570",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "480 Retford Avenue, Staten Island"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5268953,
+            "lng": -74.16353950000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.52832203029149,
+              "lng": -74.16230381970851
+            },
+            "southwest": {
+              "lat": 40.52562406970849,
+              "lng": -74.16500178029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Bayview Terrace Park",
+        "photos": [
+          {
+            "height": 4608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108422670559127247070\">Sanji D</a>"
+            ],
+            "photo_reference": "AU_ZVEGMRvNwFEps_zKAcQTHhxENe1nm55zTetaoXAbKLSGh7NAiGmsRwWBneZauNoq1uF3VOd7VSytTIF76ouHuynVRhQaxgBLuTUJY4Vv8o_SxHtEiwGY_NuDNfQvrKVP1Zeu4GeGlnGhx3IgKIsypx80oTWMLVhr86N3bOymo-wHFS-ZOXeLq76P2EGr8hHunX15MvOSePFkAYGqw4FekKaw3-a8I-ht3l5uaUuoTi7nofKav338Dmwu60lnh6BX7d03hP2sTt-dCTOsXfCPqMju8w-wEEUu14FrvZCfdr5bjRbmL7LXjECyz5W99y8pyPR_90NTEV7co_FnkOXf1TUBJA2-fjOR1AXbVe2LEozrHh9ToUeCH3KkJQfxaP8-Io1AOArycw-Za-WuxWbrLMKpCFopoiLrh-VASU8EnHqkSbFU9kciTuvPUIUM0myfFGsSR-6plsz3CATiSxFSec008v75JdI6JRcPzyQsbKiHZNAk6OJ6Jl06G5T8zE72S6Qa97qRkzwAbjI2PfIAoUGS1emLOzz_tByXzo652yoCB8kT-UTZlZt09ZKbQzkmKaOFo9FCMFNP5Hyp1zyzBf4ciU8ykGOiNUZv0RmoJScD_kR8YBbU82a4mjmkZSW-QHO5kaQ",
+            "width": 3456
+          }
+        ],
+        "place_id": "ChIJC-iUalxKwokRMUwmrYJIiqQ",
+        "plus_code": {
+          "compound_code": "GRGP+QH Staten Island, NY, USA",
+          "global_code": "87G7GRGP+QH"
+        },
+        "rating": 4.4,
+        "reference": "ChIJC-iUalxKwokRMUwmrYJIiqQ",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "22 Bayview Terrace, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5319731,
+            "lng": -74.1579797
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5332860802915,
+              "lng": -74.1566049197085
+            },
+            "southwest": {
+              "lat": 40.5305881197085,
+              "lng": -74.15930288029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Olmsted-Beil House Park",
+        "photos": [
+          {
+            "height": 675,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109464973439621617695\">Keith Cromer</a>"
+            ],
+            "photo_reference": "AU_ZVEFLPDn8XaihcpADMaeBbigxuY9DxRlAIJSmi6DRba6S9GWojWvEKREJ_PqlESPqvw6BNpWzLy9Zj5YkhDXG-OojbEknkW2W8ges7MukkRGmnj71QD16-YXxyr3McWv6P61KLNcdkNCECL852wJ5lHh0vIpJ8ENdGdTfFqubUFCxqeTS11ZaIIg2gVYGEt1C-SyB-tAQX2iXVf9tfmO6YEd5Uy_rJe4UOuLWbTlS2F5ZJIgHnjENhImmDGDYKRGfq1nn1udJBgI80qFaopsm9cAmueAh07HAv1J5o9lwAByF6zbVDG3a-FELFw3yfx1Aeh-hZ67w-u4sx5lG5ZF3-w2VifFAU5VAyLB94yT1-LWe0vxHjP9vhXp0vWyNbKrgpCiebnCz4OJrU6ldE3OEcJ_fIgIy8YZfNckGSPFnQMn4VE4eLo5ua2I5Af9A8kHg2S3tZ2JQX6zQY41NN0j0p6IYaHvamkCfqHRlEwKfIZUSd_beK3uqWZwBhltx8JV5sYTH6OBIGrh84AbgfzGwzmQwMpic2GlMal2nUO6eAO_hNFF15yV_EibxlCdEbLGmgfnOn8o2nAVCnqoyCTTUxmsiuJHdswrxaYTt8-6PwYigIsVkhK6J8MMDFacEKsr8FORMjQ",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJ0QPwXkVKwokRccEuwUoVC4E",
+        "plus_code": {
+          "compound_code": "GRJR+QR Staten Island, NY, USA",
+          "global_code": "87G7GRJR+QR"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ0QPwXkVKwokRccEuwUoVC4E",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "55 Orchard Lane #6133, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.536913,
+            "lng": -74.16258859999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5383807802915,
+              "lng": -74.1609590697085
+            },
+            "southwest": {
+              "lat": 40.5356828197085,
+              "lng": -74.1636570302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Lieutenant John H. Martinson Playground",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108957091828090686316\">Lieutenant John H. Martinson Playground</a>"
+            ],
+            "photo_reference": "AU_ZVEHFO8wk587EepL0blnHNdDPTwlB1iSkK7KrjcYkw0d9nlLMzLr2ZgDctKvmChZTQub0J5HekXkfuEaOO_cjwfUIG-XC9TiepkZrXqWxDj-SYTH0Y6xix0AR_UZuOhQMonpsV07dfSU7uk_rMEcbVE29l-wMgaO_HQa9o0SjLxFWYWS_8iUunKB9QICC77xLq0hFk6Chb0NEFozjKJTikwD844HIT6H-0r1Zko22gnQdIjwZ7j217fB9IeeOZNQpYnUK744Te-kNPeE4kPjjlUYtc1VcIxKGQIhD1lHwfGVp9UGydd_TuwNdIK6BuqactbgDJrLtaFU",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJTxn8c1FKwokRkPEMBviQgM8",
+        "plus_code": {
+          "compound_code": "GRPP+QX Staten Island, NY, USA",
+          "global_code": "87G7GRPP+QX"
+        },
+        "rating": 4.7,
+        "reference": "ChIJTxn8c1FKwokRkPEMBviQgM8",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 260,
+        "vicinity": "Koch Blvd. &, Preston Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5284246,
+            "lng": -74.16024019999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5297057802915,
+              "lng": -74.1588217697085
+            },
+            "southwest": {
+              "lat": 40.5270078197085,
+              "lng": -74.1615197302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Blueberry Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108422670559127247070\">Sanji D</a>"
+            ],
+            "photo_reference": "AU_ZVEHF4LL4UrghWT0FMIZY4T7jeW9HF-Gda44wre8NH1Ot7biOVJ--tTPPHQ54MqZn0wLdI2ZlXlqFvlTCkreTYsB6V7andYb_KJURZ9yvSQSZgjEX3B5JqrZTzOZ5CWb4GK9LaUButaZaB6shdeDU8oSteTjKxDR6NhWJnoc7T3mExiGfVmBvzu25l6QKpLf8uBaSOHF0P7LcEHSNE_lLt4CDANlYNmHoHEMjexGHRMtuOrkPnEFMs9IoBAArFQMP6nXN41y5IgG0RL1gHizDW9IX61zsF2BrE-EM1YLHKEtRjp6nvyI65wfw92BnxlZJvzmpn4ND_Dd8ZQsk0ad80RNgeSWpU7PlVzKKC48TptxG5rcJ378wrc3eqGYQEJIq5_uJUnvt2DIXMaW0_MPmgYikN0r0Qz4zAk2LwrJOE8k857wjo16mrWRVYUcit5ForglkHtGyc4X-1WP3FIQpB_PiagoT9fKp2Fnoj6nlsM4AsJb0w3ITrC3cpTgEYb22UJrFnx6n9fqxReiBiNEbJ7C3Rq5skhaCnvVHow1a6VynL_ew0NkKJYZ45IihniaM80BbzTKA2daNIbFKtfybj27tksi9QGylT5N563u07mHVJHVN9mCzCqwkbYkIxQOvxTdgq1E3",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJj4x_RltKwokRk-R3p6bEr1k",
+        "plus_code": {
+          "compound_code": "GRHQ+9W Staten Island, NY, USA",
+          "global_code": "87G7GRHQ+9W"
+        },
+        "rating": 4.5,
+        "reference": "ChIJj4x_RltKwokRk-R3p6bEr1k",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 83,
+        "vicinity": "Arden Ave &, Blueberry Lane, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5293715,
+            "lng": -74.161346
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5307068802915,
+              "lng": -74.16002851970849
+            },
+            "southwest": {
+              "lat": 40.5280089197085,
+              "lng": -74.1627264802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Arden Av",
+        "place_id": "ChIJa-XqEVtKwokR6fyrGLDhiBc",
+        "plus_code": {
+          "compound_code": "GRHQ+PF New York, NY, USA",
+          "global_code": "87G7GRHQ+PF"
+        },
+        "reference": "ChIJa-XqEVtKwokR6fyrGLDhiBc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.527895,
+            "lng": -74.16488249999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5292329802915,
+              "lng": -74.1635631697085
+            },
+            "southwest": {
+              "lat": 40.5265350197085,
+              "lng": -74.1662611302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Holdridge Av",
+        "place_id": "ChIJBTLOA1xKwokRi3_B-viVmps",
+        "plus_code": {
+          "compound_code": "GRHP+52 New York, NY, USA",
+          "global_code": "87G7GRHP+52"
+        },
+        "rating": 5,
+        "reference": "ChIJBTLOA1xKwokRi3_B-viVmps",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.530558,
+            "lng": -74.15852
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5318890802915,
+              "lng": -74.1571869697085
+            },
+            "southwest": {
+              "lat": 40.5291911197085,
+              "lng": -74.15988493029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Woods of Arden Rd",
+        "place_id": "ChIJEzhxMEVKwokRC1GsaCDWG28",
+        "plus_code": {
+          "compound_code": "GRJR+6H New York, NY, USA",
+          "global_code": "87G7GRJR+6H"
+        },
+        "reference": "ChIJEzhxMEVKwokRC1GsaCDWG28",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5269125,
+            "lng": -74.1672555
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.52826473029149,
+              "lng": -74.16589856970849
+            },
+            "southwest": {
+              "lat": 40.52556676970849,
+              "lng": -74.16859653029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Barclay Av",
+        "place_id": "ChIJqVVl715KwokRtKcuP8mo9Ho",
+        "plus_code": {
+          "compound_code": "GRGM+Q3 New York, NY, USA",
+          "global_code": "87G7GRGM+Q3"
+        },
+        "reference": "ChIJqVVl715KwokRtKcuP8mo9Ho",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.529266,
+            "lng": -74.161728
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5306068302915,
+              "lng": -74.16037306970848
+            },
+            "southwest": {
+              "lat": 40.5279088697085,
+              "lng": -74.1630710302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Arden Av",
+        "place_id": "ChIJbZYPDFtKwokRf5hoEaerPz4",
+        "plus_code": {
+          "compound_code": "GRHQ+P8 New York, NY, USA",
+          "global_code": "87G7GRHQ+P8"
+        },
+        "reference": "ChIJbZYPDFtKwokRf5hoEaerPz4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.530243,
+            "lng": -74.161873
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5315750302915,
+              "lng": -74.16056441970849
+            },
+            "southwest": {
+              "lat": 40.5288770697085,
+              "lng": -74.16326238029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Bathgate St",
+        "place_id": "ChIJVZWUAVtKwokRH1_PjNeLlw0",
+        "plus_code": {
+          "compound_code": "GRJQ+37 New York, NY, USA",
+          "global_code": "87G7GRJQ+37"
+        },
+        "rating": 5,
+        "reference": "ChIJVZWUAVtKwokRH1_PjNeLlw0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.529427,
+            "lng": -74.160934
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5308041802915,
+              "lng": -74.1596054697085
+            },
+            "southwest": {
+              "lat": 40.5281062197085,
+              "lng": -74.1623034302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Arden Av",
+        "place_id": "ChIJawMbF1tKwokRgXOSSAiKtuQ",
+        "plus_code": {
+          "compound_code": "GRHQ+QJ New York, NY, USA",
+          "global_code": "87G7GRHQ+QJ"
+        },
+        "rating": 1,
+        "reference": "ChIJawMbF1tKwokRgXOSSAiKtuQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.52795,
+            "lng": -74.16446700000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.52932848029149,
+              "lng": -74.16313966970851
+            },
+            "southwest": {
+              "lat": 40.52663051970849,
+              "lng": -74.16583763029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Holdridge Av",
+        "place_id": "ChIJnYZqBlxKwokRC8Ro3z1EAjo",
+        "plus_code": {
+          "compound_code": "GRHP+56 New York, NY, USA",
+          "global_code": "87G7GRHP+56"
+        },
+        "reference": "ChIJnYZqBlxKwokRC8Ro3z1EAjo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.527836,
+            "lng": -74.165298
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5291820802915,
+              "lng": -74.1639469197085
+            },
+            "southwest": {
+              "lat": 40.52648411970851,
+              "lng": -74.1666448802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Holdridge Av",
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100988183285459390520\">Carlos Suarez</a>"
+            ],
+            "photo_reference": "AU_ZVEG7xRb9DCmSrzo9KGHuKLOOwwf6ltENrKYBsN9FFxg1cbJdAhQ_eW3Mv2OGRCw-douzQ_8j_02uRaELgORpocno05kzaXeWpQiuCr4-srkTIzhtcwGapyZeD6gVWagd1-A_I1PftXZzLT1R_s87-sXNrnKsRDs6Q6-EGZNXwoHj2S4feJwgJjmiKZv01CgyA1MkzViTpaURvHJuLlymoJGpI5OcwifJs3qW8uY3KdsvzQC-2fv-FNgUFzP-L7T1Gqy6BXTd_4kAzq3K2LfItzCskab_yeVAMgb8VyUjX04mvv5J00Ort6dKXGFKWRnb5adKA8WJI1ff38bUEs2cUsQ05gn11boWNqe9QxHaKx1Dt_N6b10jcEuZiK--IMbHEOdf7cj8BR__W4K9JpZNWkoMStvmJKKF8hoc7DxpbSsLnNGJJV8hfFBuIDQNXbIIXzeYetRLKH0v8KzE3YTHRJzeHxAtDYUpd36Vygv3VQa9B6-VaaVCafaCh3pqNOwjsBWMYBJNFHX3OsX0FdT5-vuuqECxU4dxqCWisdOYHHqeBJXIRJUIa3L_0xFbafJWdTspbQFZi4I2XLZeZA3Hj2PWsDuzuPkTCPgp-0HbkX8sdsR7tt1eBNHvIs6MDq1uI9LlBbOx",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJ6Tv-qF5KwokRJkD4cEuyTwE",
+        "plus_code": {
+          "compound_code": "GRHM+4V New York, NY, USA",
+          "global_code": "87G7GRHM+4V"
+        },
+        "reference": "ChIJ6Tv-qF5KwokRJkD4cEuyTwE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.530441,
+            "lng": -74.15892
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5318197302915,
+              "lng": -74.1575921697085
+            },
+            "southwest": {
+              "lat": 40.5291217697085,
+              "lng": -74.1602901302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Woods of Arden Rd",
+        "place_id": "ChIJjVHzLUVKwokRHn7n8UX0YMY",
+        "plus_code": {
+          "compound_code": "GRJR+5C New York, NY, USA",
+          "global_code": "87G7GRJR+5C"
+        },
+        "rating": 5,
+        "reference": "ChIJjVHzLUVKwokRHn7n8UX0YMY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.526966,
+            "lng": -74.166832
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5283419302915,
+              "lng": -74.16550241970849
+            },
+            "southwest": {
+              "lat": 40.5256439697085,
+              "lng": -74.16820038029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Barclay Av",
+        "place_id": "ChIJM3d17F5KwokRP5Bd0cm8ybg",
+        "plus_code": {
+          "compound_code": "GRGM+Q7 New York, NY, USA",
+          "global_code": "87G7GRGM+Q7"
+        },
+        "reference": "ChIJM3d17F5KwokRP5Bd0cm8ybg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53067,
+            "lng": -74.158119
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5319968802915,
+              "lng": -74.15675376970849
+            },
+            "southwest": {
+              "lat": 40.5292989197085,
+              "lng": -74.1594517302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Woods of Arden Rd",
+        "place_id": "ChIJ1-9yPEVKwokRrcXRJJ8jDA0",
+        "plus_code": {
+          "compound_code": "GRJR+7Q New York, NY, USA",
+          "global_code": "87G7GRJR+7Q"
+        },
+        "reference": "ChIJ1-9yPEVKwokRrcXRJJ8jDA0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.52685899999999,
+            "lng": -74.167679
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5282058302915,
+              "lng": -74.1663288697085
+            },
+            "southwest": {
+              "lat": 40.5255078697085,
+              "lng": -74.1690268302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Barclay Av",
+        "place_id": "ChIJz2Fg415KwokRf5E62zXnQb8",
+        "plus_code": {
+          "compound_code": "GRGJ+PW New York, NY, USA",
+          "global_code": "87G7GRGJ+PW"
+        },
+        "reference": "ChIJz2Fg415KwokRf5E62zXnQb8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5321025,
+            "lng": -74.15602849999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5334400302915,
+              "lng": -74.1546928697085
+            },
+            "southwest": {
+              "lat": 40.5307420697085,
+              "lng": -74.15739083029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Hales Av",
+        "place_id": "ChIJJytcfk9KwokRHsx312k5vZU",
+        "plus_code": {
+          "compound_code": "GRJV+RH New York, NY, USA",
+          "global_code": "87G7GRJV+RH"
+        },
+        "reference": "ChIJJytcfk9KwokRHsx312k5vZU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.534473,
+            "lng": -74.16517999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5358412802915,
+              "lng": -74.1637849697085
+            },
+            "southwest": {
+              "lat": 40.5331433197085,
+              "lng": -74.16648293029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Koch Blvd",
+        "place_id": "ChIJ4YKhSldKwokRPVB4z2_XwG4",
+        "plus_code": {
+          "compound_code": "GRMM+QW New York, NY, USA",
+          "global_code": "87G7GRMM+QW"
+        },
+        "reference": "ChIJ4YKhSldKwokRPVB4z2_XwG4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.531933,
+            "lng": -74.156357
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5332734802915,
+              "lng": -74.1549925697085
+            },
+            "southwest": {
+              "lat": 40.5305755197085,
+              "lng": -74.1576905302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Hales Av",
+        "place_id": "ChIJtdeSf0VKwokRH2fxYHxxMXI",
+        "plus_code": {
+          "compound_code": "GRJV+QF New York, NY, USA",
+          "global_code": "87G7GRJV+QF"
+        },
+        "reference": "ChIJtdeSf0VKwokRH2fxYHxxMXI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.535004,
+            "lng": -74.165337
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5363356302915,
+              "lng": -74.16402941970848
+            },
+            "southwest": {
+              "lat": 40.5336376697085,
+              "lng": -74.16672738029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arden Ave/Koch Blvd",
+        "place_id": "ChIJjautM1dKwokRh3ySgHKjwXY",
+        "plus_code": {
+          "compound_code": "GRPM+2V New York, NY, USA",
+          "global_code": "87G7GRPM+2V"
+        },
+        "reference": "ChIJjautM1dKwokRh3ySgHKjwXY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.532272,
+            "lng": -74.15570799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5336374802915,
+              "lng": -74.15438931970849
+            },
+            "southwest": {
+              "lat": 40.5309395197085,
+              "lng": -74.15708728029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Hales Av",
+        "place_id": "ChIJqYFwe09KwokRQzTa-kZttto",
+        "plus_code": {
+          "compound_code": "GRJV+WP New York, NY, USA",
+          "global_code": "87G7GRJV+WP"
+        },
+        "reference": "ChIJqYFwe09KwokRQzTa-kZttto",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.526768,
+            "lng": -74.172585
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5281110302915,
+              "lng": -74.17123636970848
+            },
+            "southwest": {
+              "lat": 40.5254130697085,
+              "lng": -74.1739343302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Lipsett Av",
+        "place_id": "ChIJjy6NCvVKwokR-irx6Fvvejk",
+        "plus_code": {
+          "compound_code": "GRGG+PX New York, NY, USA",
+          "global_code": "87G7GRGG+PX"
+        },
+        "reference": "ChIJjy6NCvVKwokR-irx6Fvvejk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.52656899999999,
+            "lng": -74.17263799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.52791653029149,
+              "lng": -74.1712418697085
+            },
+            "southwest": {
+              "lat": 40.52521856970849,
+              "lng": -74.1739398302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Dole St",
+        "place_id": "ChIJNaKDC_VKwokR18bZi7nxMGY",
+        "plus_code": {
+          "compound_code": "GRGG+JW New York, NY, USA",
+          "global_code": "87G7GRGG+JW"
+        },
+        "reference": "ChIJNaKDC_VKwokR18bZi7nxMGY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.533356,
+            "lng": -74.154251
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5348005302915,
+              "lng": -74.1530703197085
+            },
+            "southwest": {
+              "lat": 40.5321025697085,
+              "lng": -74.15576828029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Richmond Ave",
+        "place_id": "ChIJ8ZxoJU9KwokRvwjsjPo8srs",
+        "plus_code": {
+          "compound_code": "GRMW+87 New York, NY, USA",
+          "global_code": "87G7GRMW+87"
+        },
+        "reference": "ChIJ8ZxoJU9KwokRvwjsjPo8srs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.535345,
+            "lng": -74.15592199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5366741802915,
+              "lng": -74.1545916697085
+            },
+            "southwest": {
+              "lat": 40.5339762197085,
+              "lng": -74.1572896302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Av/King St",
+        "place_id": "ChIJPaZU8U5KwokRbBD-a7L6nPo",
+        "plus_code": {
+          "compound_code": "GRPV+4J New York, NY, USA",
+          "global_code": "87G7GRPV+4J"
+        },
+        "reference": "ChIJPaZU8U5KwokRbBD-a7L6nPo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53510999999999,
+            "lng": -74.15566299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5364924302915,
+              "lng": -74.1542814697085
+            },
+            "southwest": {
+              "lat": 40.5337944697085,
+              "lng": -74.1569794302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Av/King St",
+        "place_id": "ChIJxSNB8E5KwokR3RxuM3caZPU",
+        "plus_code": {
+          "compound_code": "GRPV+2P New York, NY, USA",
+          "global_code": "87G7GRPV+2P"
+        },
+        "reference": "ChIJxSNB8E5KwokR3RxuM3caZPU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53558,
+            "lng": -74.156181
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5369027302915,
+              "lng": -74.1548571697085
+            },
+            "southwest": {
+              "lat": 40.5342047697085,
+              "lng": -74.15755513029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Av/King St",
+        "place_id": "ChIJYTwM9U5KwokRmxbWUZyU1Ok",
+        "plus_code": {
+          "compound_code": "GRPV+6G New York, NY, USA",
+          "global_code": "87G7GRPV+6G"
+        },
+        "reference": "ChIJYTwM9U5KwokRmxbWUZyU1Ok",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.534111,
+            "lng": -74.154236
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53547878029151,
+              "lng": -74.1529200697085
+            },
+            "southwest": {
+              "lat": 40.53278081970851,
+              "lng": -74.1556180302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Bl/Richmond Av",
+        "place_id": "ChIJmeSiJ09KwokR6F9sFCNpR1M",
+        "plus_code": {
+          "compound_code": "GRMW+J8 New York, NY, USA",
+          "global_code": "87G7GRMW+J8"
+        },
+        "reference": "ChIJmeSiJ09KwokR6F9sFCNpR1M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.533924,
+            "lng": -74.15413699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53528633029151,
+              "lng": -74.1528124697085
+            },
+            "southwest": {
+              "lat": 40.53258836970851,
+              "lng": -74.1555104302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Richmond Ave",
+        "place_id": "ChIJFw9p2E5KwokRcrQJURQNyog",
+        "plus_code": {
+          "compound_code": "GRMW+H8 New York, NY, USA",
+          "global_code": "87G7GRMW+H8"
+        },
+        "reference": "ChIJFw9p2E5KwokRcrQJURQNyog",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.534119,
+            "lng": -74.15415999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53547388029149,
+              "lng": -74.15282136970849
+            },
+            "southwest": {
+              "lat": 40.53277591970849,
+              "lng": -74.1555193302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Richmond Ave",
+        "place_id": "ChIJFw9p2E5KwokRR3dTQ8lJBHk",
+        "plus_code": {
+          "compound_code": "GRMW+J8 New York, NY, USA",
+          "global_code": "87G7GRMW+J8"
+        },
+        "reference": "ChIJFw9p2E5KwokRR3dTQ8lJBHk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.53413,
+            "lng": -74.154022
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5354610802915,
+              "lng": -74.15264206970848
+            },
+            "southwest": {
+              "lat": 40.53276311970851,
+              "lng": -74.15534003029148
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Richmond Ave",
+        "place_id": "ChIJ1es4KE9KwokR0psjYkJBhUw",
+        "plus_code": {
+          "compound_code": "GRMW+M9 New York, NY, USA",
+          "global_code": "87G7GRMW+M9"
+        },
+        "reference": "ChIJ1es4KE9KwokR0psjYkJBhUw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.536964,
+            "lng": -74.158386
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5383282302915,
+              "lng": -74.1570135197085
+            },
+            "southwest": {
+              "lat": 40.5356302697085,
+              "lng": -74.1597114802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ave/Shirley Av",
+        "place_id": "ChIJQ0bKCE5KwokRuy_VrsA268c",
+        "plus_code": {
+          "compound_code": "GRPR+QJ New York, NY, USA",
+          "global_code": "87G7GRPR+QJ"
+        },
+        "reference": "ChIJQ0bKCE5KwokRuy_VrsA268c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.534538,
+            "lng": -74.154358
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5358753302915,
+              "lng": -74.1530201197085
+            },
+            "southwest": {
+              "lat": 40.5331773697085,
+              "lng": -74.1557180802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Av/Hylan Blvd",
+        "place_id": "ChIJa_bE205KwokRt3mbc7JnnPw",
+        "plus_code": {
+          "compound_code": "GRMW+R7 New York, NY, USA",
+          "global_code": "87G7GRMW+R7"
+        },
+        "rating": 2.8,
+        "reference": "ChIJa_bE205KwokRt3mbc7JnnPw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.537256,
+            "lng": -74.1585465
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.53860863029151,
+              "lng": -74.15719066970848
+            },
+            "southwest": {
+              "lat": 40.53591066970851,
+              "lng": -74.15988863029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Av/Shirley Av",
+        "place_id": "ChIJQezwB05KwokRNtMBGscWAIA",
+        "plus_code": {
+          "compound_code": "GRPR+WH New York, NY, USA",
+          "global_code": "87G7GRPR+WH"
+        },
+        "reference": "ChIJQezwB05KwokRNtMBGscWAIA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.537548,
+            "lng": -74.158699
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5388987802915,
+              "lng": -74.15734661970849
+            },
+            "southwest": {
+              "lat": 40.5362008197085,
+              "lng": -74.1600445802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ave/Shirley Ave",
+        "place_id": "ChIJGzJh_E1KwokRUEV3Tfb_9WA",
+        "plus_code": {
+          "compound_code": "GRQR+2G New York, NY, USA",
+          "global_code": "87G7GRQR+2G"
+        },
+        "reference": "ChIJGzJh_E1KwokRUEV3Tfb_9WA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.526623,
+            "lng": -74.174385
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.52799978029149,
+              "lng": -74.17303471970848
+            },
+            "southwest": {
+              "lat": 40.5253018197085,
+              "lng": -74.1757326802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hylan Blvd/Poillon Av",
+        "place_id": "ChIJUy4K-_RKwokRTw1SiYvql5w",
+        "plus_code": {
+          "compound_code": "GRGG+J6 New York, NY, USA",
+          "global_code": "87G7GRGG+J6"
+        },
+        "reference": "ChIJUy4K-_RKwokRTw1SiYvql5w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5291583,
+          "lng": -74.16249719999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5304385802915,
+            "lng": -74.16108561970849
+          },
+          "southwest": {
+            "lat": 40.5277406197085,
+            "lng": -74.16378358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-984-9479",
+      "name": "Mike's Place",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116463819561472672219\">Mike&#39;s Place</a>"
+          ],
+          "photo_reference": "AU_ZVEHke26Gp6pw8mpIHKT1WzeFwIEqlOfTn3Korm40zNSiOMsGLhgcLY7arilJeFL--Q2Qv4Rbl5mnUYZfV6Y_AuakHa5o1kmzGnA85h3XPcWDqy_VaejdTfbp5MAEXKvBjmVZyZXtGeZV_79Gp8nH5SdGx_mdlFyOE5J8BhhjtxmGi_4i8rNNb8zyTTJRgaBV5Ms7dKeFeJKiiWxEdHWboLsALZcnYTVdglGqbe8mZg0WnTNWrWjgQ8WO_6949XWeezJEVLAdUKjLoBTVq7B46Kt_X_Q7mUqlUkWbeVaz5N5fGuVtihX5S2Kibzg1tPv4IEb7T2Wo6nk",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJkX5Sn1tKwokRfc_kEteiM5M",
+      "plus_code": {
+        "compound_code": "GRHQ+M2 Staten Island, NY, USA",
+        "global_code": "87G7GRHQ+M2"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJkX5Sn1tKwokRfc_kEteiM5M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 751,
+      "vicinity": "4677 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5294873,
+          "lng": -74.1616851
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5308811302915,
+            "lng": -74.16023916970849
+          },
+          "southwest": {
+            "lat": 40.5281831697085,
+            "lng": -74.1629371302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-227-3000",
+      "name": "\u2018O Sfizio Ristorante",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108739936643053659350\">Vitaly Ivanov</a>"
+          ],
+          "photo_reference": "AU_ZVEGDZYsdi834ar7R1n6FBjEyd97GJUPcl26MVlRfn0pq5lGlYa1nct9ktnlLfw8DHa7UCx_DYMR8uDH3GEsljnB4BjIN8ZHp3km1LZH-1GyEF4mOprXqObiY_mMZjuIRjJEyTGpHoqomC3Og4fIwuuPHRfS_yRUbNSWcNZ-QFWCCOamrqDJA6FM5-jJl-MAGF5nStKqA8nv1CR6tpdE0UlcJWUSPJc1EV_Y0oV4W-5l0_maRxslhNgPeAxBNHrEb__YKY7PdhsQqENGfXiiXF6GCrgpSN5RRv5eFiNTq8v54QQte6nno8tdNmdDPZ1232bXtiDcQXRr7m7PwwEZJLH1TTt9uuq8ZXX4Wb_x6YgJPVaEFKXOiCCZbvQMkivHCyocDxjuF0TYhdZ0ikBCFgr6hxXn6AyhjW00ZRn8uL6peKmQljVaRgEkeomJhPhbktxcsOykNMJyyEm-H1ODGpfQBvj-AGQQvYcjtuvR2aUTPSmnOaTOtbHunCQHP0xxgrT2HoBX38tnAmHp6RQkDgzTgs72rTzjib8DwoGWYZXqj2oyqnS0lPlY0QfydELoK87sDfv3U24wLBhcF66TjswALwqkwrDquI4W5RWDXMzy6JFYNCaq35OgIuqwdpsaWVsPObw",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+      "plus_code": {
+        "compound_code": "GRHQ+Q8 Staten Island, NY, USA",
+        "global_code": "87G7GRHQ+Q8"
+      },
+      "rating": 4.7,
+      "reference": "ChIJBfbEmDtLwokRmCrCnmJRGwU",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 278,
+      "vicinity": "4651 Hylan Boulevard, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5359011,
+          "lng": -74.1593424
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53731268029149,
+            "lng": -74.15811621970849
+          },
+          "southwest": {
+            "lat": 40.53461471970849,
+            "lng": -74.16081418029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Tree Leaf Icon",
+      "place_id": "ChIJq6o-31FKwokRlS8X8MeplQE",
+      "plus_code": {
+        "compound_code": "GRPR+97 Staten Island, NY, USA",
+        "global_code": "87G7GRPR+97"
+      },
+      "reference": "ChIJq6o-31FKwokRlS8X8MeplQE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "44 Shirley Avenue W, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53233229999999,
+          "lng": -74.154027
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5337881802915,
+            "lng": -74.15258016970849
+          },
+          "southwest": {
+            "lat": 40.5310902197085,
+            "lng": -74.15527813029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Pump station",
+      "place_id": "ChIJ3wQYAgBLwokRVY99sKhA570",
+      "plus_code": {
+        "compound_code": "GRJW+W9 Staten Island, NY, USA",
+        "global_code": "87G7GRJW+W9"
+      },
+      "reference": "ChIJ3wQYAgBLwokRVY99sKhA570",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "480 Retford Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5268953,
+          "lng": -74.16353950000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.52832203029149,
+            "lng": -74.16230381970851
+          },
+          "southwest": {
+            "lat": 40.52562406970849,
+            "lng": -74.16500178029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Bayview Terrace Park",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108422670559127247070\">Sanji D</a>"
+          ],
+          "photo_reference": "AU_ZVEGMRvNwFEps_zKAcQTHhxENe1nm55zTetaoXAbKLSGh7NAiGmsRwWBneZauNoq1uF3VOd7VSytTIF76ouHuynVRhQaxgBLuTUJY4Vv8o_SxHtEiwGY_NuDNfQvrKVP1Zeu4GeGlnGhx3IgKIsypx80oTWMLVhr86N3bOymo-wHFS-ZOXeLq76P2EGr8hHunX15MvOSePFkAYGqw4FekKaw3-a8I-ht3l5uaUuoTi7nofKav338Dmwu60lnh6BX7d03hP2sTt-dCTOsXfCPqMju8w-wEEUu14FrvZCfdr5bjRbmL7LXjECyz5W99y8pyPR_90NTEV7co_FnkOXf1TUBJA2-fjOR1AXbVe2LEozrHh9ToUeCH3KkJQfxaP8-Io1AOArycw-Za-WuxWbrLMKpCFopoiLrh-VASU8EnHqkSbFU9kciTuvPUIUM0myfFGsSR-6plsz3CATiSxFSec008v75JdI6JRcPzyQsbKiHZNAk6OJ6Jl06G5T8zE72S6Qa97qRkzwAbjI2PfIAoUGS1emLOzz_tByXzo652yoCB8kT-UTZlZt09ZKbQzkmKaOFo9FCMFNP5Hyp1zyzBf4ciU8ykGOiNUZv0RmoJScD_kR8YBbU82a4mjmkZSW-QHO5kaQ",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJC-iUalxKwokRMUwmrYJIiqQ",
+      "plus_code": {
+        "compound_code": "GRGP+QH Staten Island, NY, USA",
+        "global_code": "87G7GRGP+QH"
+      },
+      "rating": 4.4,
+      "reference": "ChIJC-iUalxKwokRMUwmrYJIiqQ",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "22 Bayview Terrace, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5319731,
+          "lng": -74.1579797
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5332860802915,
+            "lng": -74.1566049197085
+          },
+          "southwest": {
+            "lat": 40.5305881197085,
+            "lng": -74.15930288029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Olmsted-Beil House Park",
+      "photos": [
+        {
+          "height": 675,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109464973439621617695\">Keith Cromer</a>"
+          ],
+          "photo_reference": "AU_ZVEFLPDn8XaihcpADMaeBbigxuY9DxRlAIJSmi6DRba6S9GWojWvEKREJ_PqlESPqvw6BNpWzLy9Zj5YkhDXG-OojbEknkW2W8ges7MukkRGmnj71QD16-YXxyr3McWv6P61KLNcdkNCECL852wJ5lHh0vIpJ8ENdGdTfFqubUFCxqeTS11ZaIIg2gVYGEt1C-SyB-tAQX2iXVf9tfmO6YEd5Uy_rJe4UOuLWbTlS2F5ZJIgHnjENhImmDGDYKRGfq1nn1udJBgI80qFaopsm9cAmueAh07HAv1J5o9lwAByF6zbVDG3a-FELFw3yfx1Aeh-hZ67w-u4sx5lG5ZF3-w2VifFAU5VAyLB94yT1-LWe0vxHjP9vhXp0vWyNbKrgpCiebnCz4OJrU6ldE3OEcJ_fIgIy8YZfNckGSPFnQMn4VE4eLo5ua2I5Af9A8kHg2S3tZ2JQX6zQY41NN0j0p6IYaHvamkCfqHRlEwKfIZUSd_beK3uqWZwBhltx8JV5sYTH6OBIGrh84AbgfzGwzmQwMpic2GlMal2nUO6eAO_hNFF15yV_EibxlCdEbLGmgfnOn8o2nAVCnqoyCTTUxmsiuJHdswrxaYTt8-6PwYigIsVkhK6J8MMDFacEKsr8FORMjQ",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJ0QPwXkVKwokRccEuwUoVC4E",
+      "plus_code": {
+        "compound_code": "GRJR+QR Staten Island, NY, USA",
+        "global_code": "87G7GRJR+QR"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ0QPwXkVKwokRccEuwUoVC4E",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "55 Orchard Lane #6133, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.536913,
+          "lng": -74.16258859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5383807802915,
+            "lng": -74.1609590697085
+          },
+          "southwest": {
+            "lat": 40.5356828197085,
+            "lng": -74.1636570302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Lieutenant John H. Martinson Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108957091828090686316\">Lieutenant John H. Martinson Playground</a>"
+          ],
+          "photo_reference": "AU_ZVEHFO8wk587EepL0blnHNdDPTwlB1iSkK7KrjcYkw0d9nlLMzLr2ZgDctKvmChZTQub0J5HekXkfuEaOO_cjwfUIG-XC9TiepkZrXqWxDj-SYTH0Y6xix0AR_UZuOhQMonpsV07dfSU7uk_rMEcbVE29l-wMgaO_HQa9o0SjLxFWYWS_8iUunKB9QICC77xLq0hFk6Chb0NEFozjKJTikwD844HIT6H-0r1Zko22gnQdIjwZ7j217fB9IeeOZNQpYnUK744Te-kNPeE4kPjjlUYtc1VcIxKGQIhD1lHwfGVp9UGydd_TuwNdIK6BuqactbgDJrLtaFU",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJTxn8c1FKwokRkPEMBviQgM8",
+      "plus_code": {
+        "compound_code": "GRPP+QX Staten Island, NY, USA",
+        "global_code": "87G7GRPP+QX"
+      },
+      "rating": 4.7,
+      "reference": "ChIJTxn8c1FKwokRkPEMBviQgM8",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 260,
+      "vicinity": "Koch Blvd. &, Preston Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5284246,
+          "lng": -74.16024019999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5297057802915,
+            "lng": -74.1588217697085
+          },
+          "southwest": {
+            "lat": 40.5270078197085,
+            "lng": -74.1615197302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Blueberry Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108422670559127247070\">Sanji D</a>"
+          ],
+          "photo_reference": "AU_ZVEHF4LL4UrghWT0FMIZY4T7jeW9HF-Gda44wre8NH1Ot7biOVJ--tTPPHQ54MqZn0wLdI2ZlXlqFvlTCkreTYsB6V7andYb_KJURZ9yvSQSZgjEX3B5JqrZTzOZ5CWb4GK9LaUButaZaB6shdeDU8oSteTjKxDR6NhWJnoc7T3mExiGfVmBvzu25l6QKpLf8uBaSOHF0P7LcEHSNE_lLt4CDANlYNmHoHEMjexGHRMtuOrkPnEFMs9IoBAArFQMP6nXN41y5IgG0RL1gHizDW9IX61zsF2BrE-EM1YLHKEtRjp6nvyI65wfw92BnxlZJvzmpn4ND_Dd8ZQsk0ad80RNgeSWpU7PlVzKKC48TptxG5rcJ378wrc3eqGYQEJIq5_uJUnvt2DIXMaW0_MPmgYikN0r0Qz4zAk2LwrJOE8k857wjo16mrWRVYUcit5ForglkHtGyc4X-1WP3FIQpB_PiagoT9fKp2Fnoj6nlsM4AsJb0w3ITrC3cpTgEYb22UJrFnx6n9fqxReiBiNEbJ7C3Rq5skhaCnvVHow1a6VynL_ew0NkKJYZ45IihniaM80BbzTKA2daNIbFKtfybj27tksi9QGylT5N563u07mHVJHVN9mCzCqwkbYkIxQOvxTdgq1E3",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJj4x_RltKwokRk-R3p6bEr1k",
+      "plus_code": {
+        "compound_code": "GRHQ+9W Staten Island, NY, USA",
+        "global_code": "87G7GRHQ+9W"
+      },
+      "rating": 4.5,
+      "reference": "ChIJj4x_RltKwokRk-R3p6bEr1k",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 83,
+      "vicinity": "Arden Ave &, Blueberry Lane, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5293715,
+          "lng": -74.161346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5307068802915,
+            "lng": -74.16002851970849
+          },
+          "southwest": {
+            "lat": 40.5280089197085,
+            "lng": -74.1627264802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Arden Av",
+      "place_id": "ChIJa-XqEVtKwokR6fyrGLDhiBc",
+      "plus_code": {
+        "compound_code": "GRHQ+PF New York, NY, USA",
+        "global_code": "87G7GRHQ+PF"
+      },
+      "reference": "ChIJa-XqEVtKwokR6fyrGLDhiBc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.527895,
+          "lng": -74.16488249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5292329802915,
+            "lng": -74.1635631697085
+          },
+          "southwest": {
+            "lat": 40.5265350197085,
+            "lng": -74.1662611302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Holdridge Av",
+      "place_id": "ChIJBTLOA1xKwokRi3_B-viVmps",
+      "plus_code": {
+        "compound_code": "GRHP+52 New York, NY, USA",
+        "global_code": "87G7GRHP+52"
+      },
+      "rating": 5,
+      "reference": "ChIJBTLOA1xKwokRi3_B-viVmps",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.530558,
+          "lng": -74.15852
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5318890802915,
+            "lng": -74.1571869697085
+          },
+          "southwest": {
+            "lat": 40.5291911197085,
+            "lng": -74.15988493029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Woods of Arden Rd",
+      "place_id": "ChIJEzhxMEVKwokRC1GsaCDWG28",
+      "plus_code": {
+        "compound_code": "GRJR+6H New York, NY, USA",
+        "global_code": "87G7GRJR+6H"
+      },
+      "reference": "ChIJEzhxMEVKwokRC1GsaCDWG28",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5269125,
+          "lng": -74.1672555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.52826473029149,
+            "lng": -74.16589856970849
+          },
+          "southwest": {
+            "lat": 40.52556676970849,
+            "lng": -74.16859653029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Barclay Av",
+      "place_id": "ChIJqVVl715KwokRtKcuP8mo9Ho",
+      "plus_code": {
+        "compound_code": "GRGM+Q3 New York, NY, USA",
+        "global_code": "87G7GRGM+Q3"
+      },
+      "reference": "ChIJqVVl715KwokRtKcuP8mo9Ho",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.529266,
+          "lng": -74.161728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5306068302915,
+            "lng": -74.16037306970848
+          },
+          "southwest": {
+            "lat": 40.5279088697085,
+            "lng": -74.1630710302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Arden Av",
+      "place_id": "ChIJbZYPDFtKwokRf5hoEaerPz4",
+      "plus_code": {
+        "compound_code": "GRHQ+P8 New York, NY, USA",
+        "global_code": "87G7GRHQ+P8"
+      },
+      "reference": "ChIJbZYPDFtKwokRf5hoEaerPz4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.530243,
+          "lng": -74.161873
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5315750302915,
+            "lng": -74.16056441970849
+          },
+          "southwest": {
+            "lat": 40.5288770697085,
+            "lng": -74.16326238029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Bathgate St",
+      "place_id": "ChIJVZWUAVtKwokRH1_PjNeLlw0",
+      "plus_code": {
+        "compound_code": "GRJQ+37 New York, NY, USA",
+        "global_code": "87G7GRJQ+37"
+      },
+      "rating": 5,
+      "reference": "ChIJVZWUAVtKwokRH1_PjNeLlw0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.529427,
+          "lng": -74.160934
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5308041802915,
+            "lng": -74.1596054697085
+          },
+          "southwest": {
+            "lat": 40.5281062197085,
+            "lng": -74.1623034302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Arden Av",
+      "place_id": "ChIJawMbF1tKwokRgXOSSAiKtuQ",
+      "plus_code": {
+        "compound_code": "GRHQ+QJ New York, NY, USA",
+        "global_code": "87G7GRHQ+QJ"
+      },
+      "rating": 1,
+      "reference": "ChIJawMbF1tKwokRgXOSSAiKtuQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.52795,
+          "lng": -74.16446700000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.52932848029149,
+            "lng": -74.16313966970851
+          },
+          "southwest": {
+            "lat": 40.52663051970849,
+            "lng": -74.16583763029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Holdridge Av",
+      "place_id": "ChIJnYZqBlxKwokRC8Ro3z1EAjo",
+      "plus_code": {
+        "compound_code": "GRHP+56 New York, NY, USA",
+        "global_code": "87G7GRHP+56"
+      },
+      "reference": "ChIJnYZqBlxKwokRC8Ro3z1EAjo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.527836,
+          "lng": -74.165298
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5291820802915,
+            "lng": -74.1639469197085
+          },
+          "southwest": {
+            "lat": 40.52648411970851,
+            "lng": -74.1666448802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Holdridge Av",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100988183285459390520\">Carlos Suarez</a>"
+          ],
+          "photo_reference": "AU_ZVEG7xRb9DCmSrzo9KGHuKLOOwwf6ltENrKYBsN9FFxg1cbJdAhQ_eW3Mv2OGRCw-douzQ_8j_02uRaELgORpocno05kzaXeWpQiuCr4-srkTIzhtcwGapyZeD6gVWagd1-A_I1PftXZzLT1R_s87-sXNrnKsRDs6Q6-EGZNXwoHj2S4feJwgJjmiKZv01CgyA1MkzViTpaURvHJuLlymoJGpI5OcwifJs3qW8uY3KdsvzQC-2fv-FNgUFzP-L7T1Gqy6BXTd_4kAzq3K2LfItzCskab_yeVAMgb8VyUjX04mvv5J00Ort6dKXGFKWRnb5adKA8WJI1ff38bUEs2cUsQ05gn11boWNqe9QxHaKx1Dt_N6b10jcEuZiK--IMbHEOdf7cj8BR__W4K9JpZNWkoMStvmJKKF8hoc7DxpbSsLnNGJJV8hfFBuIDQNXbIIXzeYetRLKH0v8KzE3YTHRJzeHxAtDYUpd36Vygv3VQa9B6-VaaVCafaCh3pqNOwjsBWMYBJNFHX3OsX0FdT5-vuuqECxU4dxqCWisdOYHHqeBJXIRJUIa3L_0xFbafJWdTspbQFZi4I2XLZeZA3Hj2PWsDuzuPkTCPgp-0HbkX8sdsR7tt1eBNHvIs6MDq1uI9LlBbOx",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ6Tv-qF5KwokRJkD4cEuyTwE",
+      "plus_code": {
+        "compound_code": "GRHM+4V New York, NY, USA",
+        "global_code": "87G7GRHM+4V"
+      },
+      "reference": "ChIJ6Tv-qF5KwokRJkD4cEuyTwE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.530441,
+          "lng": -74.15892
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5318197302915,
+            "lng": -74.1575921697085
+          },
+          "southwest": {
+            "lat": 40.5291217697085,
+            "lng": -74.1602901302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Woods of Arden Rd",
+      "place_id": "ChIJjVHzLUVKwokRHn7n8UX0YMY",
+      "plus_code": {
+        "compound_code": "GRJR+5C New York, NY, USA",
+        "global_code": "87G7GRJR+5C"
+      },
+      "rating": 5,
+      "reference": "ChIJjVHzLUVKwokRHn7n8UX0YMY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.526966,
+          "lng": -74.166832
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5283419302915,
+            "lng": -74.16550241970849
+          },
+          "southwest": {
+            "lat": 40.5256439697085,
+            "lng": -74.16820038029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Barclay Av",
+      "place_id": "ChIJM3d17F5KwokRP5Bd0cm8ybg",
+      "plus_code": {
+        "compound_code": "GRGM+Q7 New York, NY, USA",
+        "global_code": "87G7GRGM+Q7"
+      },
+      "reference": "ChIJM3d17F5KwokRP5Bd0cm8ybg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53067,
+          "lng": -74.158119
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5319968802915,
+            "lng": -74.15675376970849
+          },
+          "southwest": {
+            "lat": 40.5292989197085,
+            "lng": -74.1594517302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Woods of Arden Rd",
+      "place_id": "ChIJ1-9yPEVKwokRrcXRJJ8jDA0",
+      "plus_code": {
+        "compound_code": "GRJR+7Q New York, NY, USA",
+        "global_code": "87G7GRJR+7Q"
+      },
+      "reference": "ChIJ1-9yPEVKwokRrcXRJJ8jDA0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.52685899999999,
+          "lng": -74.167679
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5282058302915,
+            "lng": -74.1663288697085
+          },
+          "southwest": {
+            "lat": 40.5255078697085,
+            "lng": -74.1690268302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Barclay Av",
+      "place_id": "ChIJz2Fg415KwokRf5E62zXnQb8",
+      "plus_code": {
+        "compound_code": "GRGJ+PW New York, NY, USA",
+        "global_code": "87G7GRGJ+PW"
+      },
+      "reference": "ChIJz2Fg415KwokRf5E62zXnQb8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5321025,
+          "lng": -74.15602849999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5334400302915,
+            "lng": -74.1546928697085
+          },
+          "southwest": {
+            "lat": 40.5307420697085,
+            "lng": -74.15739083029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Hales Av",
+      "place_id": "ChIJJytcfk9KwokRHsx312k5vZU",
+      "plus_code": {
+        "compound_code": "GRJV+RH New York, NY, USA",
+        "global_code": "87G7GRJV+RH"
+      },
+      "reference": "ChIJJytcfk9KwokRHsx312k5vZU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.534473,
+          "lng": -74.16517999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5358412802915,
+            "lng": -74.1637849697085
+          },
+          "southwest": {
+            "lat": 40.5331433197085,
+            "lng": -74.16648293029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Koch Blvd",
+      "place_id": "ChIJ4YKhSldKwokRPVB4z2_XwG4",
+      "plus_code": {
+        "compound_code": "GRMM+QW New York, NY, USA",
+        "global_code": "87G7GRMM+QW"
+      },
+      "reference": "ChIJ4YKhSldKwokRPVB4z2_XwG4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.531933,
+          "lng": -74.156357
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5332734802915,
+            "lng": -74.1549925697085
+          },
+          "southwest": {
+            "lat": 40.5305755197085,
+            "lng": -74.1576905302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Hales Av",
+      "place_id": "ChIJtdeSf0VKwokRH2fxYHxxMXI",
+      "plus_code": {
+        "compound_code": "GRJV+QF New York, NY, USA",
+        "global_code": "87G7GRJV+QF"
+      },
+      "reference": "ChIJtdeSf0VKwokRH2fxYHxxMXI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.535004,
+          "lng": -74.165337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5363356302915,
+            "lng": -74.16402941970848
+          },
+          "southwest": {
+            "lat": 40.5336376697085,
+            "lng": -74.16672738029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arden Ave/Koch Blvd",
+      "place_id": "ChIJjautM1dKwokRh3ySgHKjwXY",
+      "plus_code": {
+        "compound_code": "GRPM+2V New York, NY, USA",
+        "global_code": "87G7GRPM+2V"
+      },
+      "reference": "ChIJjautM1dKwokRh3ySgHKjwXY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.532272,
+          "lng": -74.15570799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5336374802915,
+            "lng": -74.15438931970849
+          },
+          "southwest": {
+            "lat": 40.5309395197085,
+            "lng": -74.15708728029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Hales Av",
+      "place_id": "ChIJqYFwe09KwokRQzTa-kZttto",
+      "plus_code": {
+        "compound_code": "GRJV+WP New York, NY, USA",
+        "global_code": "87G7GRJV+WP"
+      },
+      "reference": "ChIJqYFwe09KwokRQzTa-kZttto",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.526768,
+          "lng": -74.172585
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5281110302915,
+            "lng": -74.17123636970848
+          },
+          "southwest": {
+            "lat": 40.5254130697085,
+            "lng": -74.1739343302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Lipsett Av",
+      "place_id": "ChIJjy6NCvVKwokR-irx6Fvvejk",
+      "plus_code": {
+        "compound_code": "GRGG+PX New York, NY, USA",
+        "global_code": "87G7GRGG+PX"
+      },
+      "reference": "ChIJjy6NCvVKwokR-irx6Fvvejk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.52656899999999,
+          "lng": -74.17263799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.52791653029149,
+            "lng": -74.1712418697085
+          },
+          "southwest": {
+            "lat": 40.52521856970849,
+            "lng": -74.1739398302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Dole St",
+      "place_id": "ChIJNaKDC_VKwokR18bZi7nxMGY",
+      "plus_code": {
+        "compound_code": "GRGG+JW New York, NY, USA",
+        "global_code": "87G7GRGG+JW"
+      },
+      "reference": "ChIJNaKDC_VKwokR18bZi7nxMGY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.533356,
+          "lng": -74.154251
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5348005302915,
+            "lng": -74.1530703197085
+          },
+          "southwest": {
+            "lat": 40.5321025697085,
+            "lng": -74.15576828029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Richmond Ave",
+      "place_id": "ChIJ8ZxoJU9KwokRvwjsjPo8srs",
+      "plus_code": {
+        "compound_code": "GRMW+87 New York, NY, USA",
+        "global_code": "87G7GRMW+87"
+      },
+      "reference": "ChIJ8ZxoJU9KwokRvwjsjPo8srs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.535345,
+          "lng": -74.15592199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5366741802915,
+            "lng": -74.1545916697085
+          },
+          "southwest": {
+            "lat": 40.5339762197085,
+            "lng": -74.1572896302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Av/King St",
+      "place_id": "ChIJPaZU8U5KwokRbBD-a7L6nPo",
+      "plus_code": {
+        "compound_code": "GRPV+4J New York, NY, USA",
+        "global_code": "87G7GRPV+4J"
+      },
+      "reference": "ChIJPaZU8U5KwokRbBD-a7L6nPo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53510999999999,
+          "lng": -74.15566299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5364924302915,
+            "lng": -74.1542814697085
+          },
+          "southwest": {
+            "lat": 40.5337944697085,
+            "lng": -74.1569794302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Av/King St",
+      "place_id": "ChIJxSNB8E5KwokR3RxuM3caZPU",
+      "plus_code": {
+        "compound_code": "GRPV+2P New York, NY, USA",
+        "global_code": "87G7GRPV+2P"
+      },
+      "reference": "ChIJxSNB8E5KwokR3RxuM3caZPU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53558,
+          "lng": -74.156181
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5369027302915,
+            "lng": -74.1548571697085
+          },
+          "southwest": {
+            "lat": 40.5342047697085,
+            "lng": -74.15755513029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Av/King St",
+      "place_id": "ChIJYTwM9U5KwokRmxbWUZyU1Ok",
+      "plus_code": {
+        "compound_code": "GRPV+6G New York, NY, USA",
+        "global_code": "87G7GRPV+6G"
+      },
+      "reference": "ChIJYTwM9U5KwokRmxbWUZyU1Ok",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.534111,
+          "lng": -74.154236
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53547878029151,
+            "lng": -74.1529200697085
+          },
+          "southwest": {
+            "lat": 40.53278081970851,
+            "lng": -74.1556180302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Bl/Richmond Av",
+      "place_id": "ChIJmeSiJ09KwokR6F9sFCNpR1M",
+      "plus_code": {
+        "compound_code": "GRMW+J8 New York, NY, USA",
+        "global_code": "87G7GRMW+J8"
+      },
+      "reference": "ChIJmeSiJ09KwokR6F9sFCNpR1M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.533924,
+          "lng": -74.15413699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53528633029151,
+            "lng": -74.1528124697085
+          },
+          "southwest": {
+            "lat": 40.53258836970851,
+            "lng": -74.1555104302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Richmond Ave",
+      "place_id": "ChIJFw9p2E5KwokRcrQJURQNyog",
+      "plus_code": {
+        "compound_code": "GRMW+H8 New York, NY, USA",
+        "global_code": "87G7GRMW+H8"
+      },
+      "reference": "ChIJFw9p2E5KwokRcrQJURQNyog",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.534119,
+          "lng": -74.15415999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53547388029149,
+            "lng": -74.15282136970849
+          },
+          "southwest": {
+            "lat": 40.53277591970849,
+            "lng": -74.1555193302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Richmond Ave",
+      "place_id": "ChIJFw9p2E5KwokRR3dTQ8lJBHk",
+      "plus_code": {
+        "compound_code": "GRMW+J8 New York, NY, USA",
+        "global_code": "87G7GRMW+J8"
+      },
+      "reference": "ChIJFw9p2E5KwokRR3dTQ8lJBHk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.53413,
+          "lng": -74.154022
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5354610802915,
+            "lng": -74.15264206970848
+          },
+          "southwest": {
+            "lat": 40.53276311970851,
+            "lng": -74.15534003029148
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Richmond Ave",
+      "place_id": "ChIJ1es4KE9KwokR0psjYkJBhUw",
+      "plus_code": {
+        "compound_code": "GRMW+M9 New York, NY, USA",
+        "global_code": "87G7GRMW+M9"
+      },
+      "reference": "ChIJ1es4KE9KwokR0psjYkJBhUw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.536964,
+          "lng": -74.158386
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5383282302915,
+            "lng": -74.1570135197085
+          },
+          "southwest": {
+            "lat": 40.5356302697085,
+            "lng": -74.1597114802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ave/Shirley Av",
+      "place_id": "ChIJQ0bKCE5KwokRuy_VrsA268c",
+      "plus_code": {
+        "compound_code": "GRPR+QJ New York, NY, USA",
+        "global_code": "87G7GRPR+QJ"
+      },
+      "reference": "ChIJQ0bKCE5KwokRuy_VrsA268c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.534538,
+          "lng": -74.154358
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5358753302915,
+            "lng": -74.1530201197085
+          },
+          "southwest": {
+            "lat": 40.5331773697085,
+            "lng": -74.1557180802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Av/Hylan Blvd",
+      "place_id": "ChIJa_bE205KwokRt3mbc7JnnPw",
+      "plus_code": {
+        "compound_code": "GRMW+R7 New York, NY, USA",
+        "global_code": "87G7GRMW+R7"
+      },
+      "rating": 2.8,
+      "reference": "ChIJa_bE205KwokRt3mbc7JnnPw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.537256,
+          "lng": -74.1585465
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.53860863029151,
+            "lng": -74.15719066970848
+          },
+          "southwest": {
+            "lat": 40.53591066970851,
+            "lng": -74.15988863029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Av/Shirley Av",
+      "place_id": "ChIJQezwB05KwokRNtMBGscWAIA",
+      "plus_code": {
+        "compound_code": "GRPR+WH New York, NY, USA",
+        "global_code": "87G7GRPR+WH"
+      },
+      "reference": "ChIJQezwB05KwokRNtMBGscWAIA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.537548,
+          "lng": -74.158699
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5388987802915,
+            "lng": -74.15734661970849
+          },
+          "southwest": {
+            "lat": 40.5362008197085,
+            "lng": -74.1600445802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ave/Shirley Ave",
+      "place_id": "ChIJGzJh_E1KwokRUEV3Tfb_9WA",
+      "plus_code": {
+        "compound_code": "GRQR+2G New York, NY, USA",
+        "global_code": "87G7GRQR+2G"
+      },
+      "reference": "ChIJGzJh_E1KwokRUEV3Tfb_9WA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.526623,
+          "lng": -74.174385
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.52799978029149,
+            "lng": -74.17303471970848
+          },
+          "southwest": {
+            "lat": 40.5253018197085,
+            "lng": -74.1757326802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hylan Blvd/Poillon Av",
+      "place_id": "ChIJUy4K-_RKwokRTw1SiYvql5w",
+      "plus_code": {
+        "compound_code": "GRGG+J6 New York, NY, USA",
+        "global_code": "87G7GRGG+J6"
+      },
+      "reference": "ChIJUy4K-_RKwokRTw1SiYvql5w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

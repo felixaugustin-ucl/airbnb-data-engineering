@@ -1,0 +1,557 @@
+{
+  "neighbourhood": "Bloomfield",
+  "centroid": {
+    "lat": 40.61891275728155,
+    "lon": -74.19473657281553
+  },
+  "fetched_at": "2026-04-06T14:11:23.819086+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6161736,
+            "lng": -74.18999869999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6175410302915,
+              "lng": -74.1886398197085
+            },
+            "southwest": {
+              "lat": 40.6148430697085,
+              "lng": -74.1913377802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 312-229-0527",
+        "name": "Farmer's Fridge",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJoVFn4gRNwokRRsHnmqZpqOg",
+        "plus_code": {
+          "compound_code": "JR86+F2 Staten Island, NY, USA",
+          "global_code": "87G7JR86+F2"
+        },
+        "reference": "ChIJoVFn4gRNwokRRsHnmqZpqOg",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "Located in the main break room at the start of the vending wall as soon as you, 566 Gulf Ave, enter, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.61917429999999,
+            "lng": -74.1869248
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.62056373029149,
+              "lng": -74.1855306697085
+            },
+            "southwest": {
+              "lat": 40.61786576970849,
+              "lng": -74.1882286302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 312-229-0363",
+        "name": "Farmer's Fridge",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJ7aHxqBJNwokRVYYHIkcqcYU",
+        "plus_code": {
+          "compound_code": "JR97+M6 Staten Island, NY, USA",
+          "global_code": "87G7JR97+M6"
+        },
+        "reference": "ChIJ7aHxqBJNwokRVYYHIkcqcYU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "546 Gulf Avenue Located in the 1st floor break room, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6191886,
+            "lng": -74.1869241
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6205757302915,
+              "lng": -74.1855336197085
+            },
+            "southwest": {
+              "lat": 40.6178777697085,
+              "lng": -74.18823158029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "\u092a\u0940\u092a\u0932\u0939\u0947\u0932\u093e",
+        "place_id": "ChIJ0aV0DABNwokR5X0alD7GsG0",
+        "plus_code": {
+          "compound_code": "JR97+M6 Staten Island, NY, USA",
+          "global_code": "87G7JR97+M6"
+        },
+        "reference": "ChIJ0aV0DABNwokR5X0alD7GsG0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "546 Gulf Avenue, Staten Island"
+      }
+    ],
+    "bar": [],
+    "lodging": [],
+    "tourist_attraction": [],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6153573,
+            "lng": -74.1871093
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6166993802915,
+              "lng": -74.18573691970849
+            },
+            "southwest": {
+              "lat": 40.6140014197085,
+              "lng": -74.1884348802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Chelsea Ave/Bloomfield Ave",
+        "place_id": "ChIJ-WwQZ-9MwokR2_16ZSl1MHw",
+        "plus_code": {
+          "compound_code": "JR87+45 New York, NY, USA",
+          "global_code": "87G7JR87+45"
+        },
+        "rating": 1,
+        "reference": "ChIJ-WwQZ-9MwokR2_16ZSl1MHw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.614948,
+            "lng": -74.187225
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6163058802915,
+              "lng": -74.18590016970849
+            },
+            "southwest": {
+              "lat": 40.61360791970851,
+              "lng": -74.18859813029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Chelsea Ave/Bloomfield Ave",
+        "place_id": "ChIJ_-5DXe9MwokRKiGcT8lTOeI",
+        "plus_code": {
+          "compound_code": "JR77+X4 New York, NY, USA",
+          "global_code": "87G7JR77+X4"
+        },
+        "reference": "ChIJ_-5DXe9MwokRKiGcT8lTOeI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.619015,
+            "lng": -74.18527999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6203693302915,
+              "lng": -74.1839253197085
+            },
+            "southwest": {
+              "lat": 40.6176713697085,
+              "lng": -74.1866232802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "5 St/Amazon Fulfillment Center",
+        "place_id": "ChIJcwdi8-RMwokRLzI-23VkhUE",
+        "plus_code": {
+          "compound_code": "JR97+JV New York, NY, USA",
+          "global_code": "87G7JR97+JV"
+        },
+        "reference": "ChIJcwdi8-RMwokRLzI-23VkhUE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.618935,
+            "lng": -74.185158
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6202917302915,
+              "lng": -74.18380071970849
+            },
+            "southwest": {
+              "lat": 40.6175937697085,
+              "lng": -74.18649868029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "5 St/Amazon Fulfillment Center",
+        "place_id": "ChIJGxGn8-RMwokRd1adRzg14ug",
+        "plus_code": {
+          "compound_code": "JR97+HW New York, NY, USA",
+          "global_code": "87G7JR97+HW"
+        },
+        "reference": "ChIJGxGn8-RMwokRd1adRzg14ug",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6161736,
+          "lng": -74.18999869999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6175410302915,
+            "lng": -74.1886398197085
+          },
+          "southwest": {
+            "lat": 40.6148430697085,
+            "lng": -74.1913377802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 312-229-0527",
+      "name": "Farmer's Fridge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJoVFn4gRNwokRRsHnmqZpqOg",
+      "plus_code": {
+        "compound_code": "JR86+F2 Staten Island, NY, USA",
+        "global_code": "87G7JR86+F2"
+      },
+      "reference": "ChIJoVFn4gRNwokRRsHnmqZpqOg",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "Located in the main break room at the start of the vending wall as soon as you, 566 Gulf Ave, enter, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.61917429999999,
+          "lng": -74.1869248
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.62056373029149,
+            "lng": -74.1855306697085
+          },
+          "southwest": {
+            "lat": 40.61786576970849,
+            "lng": -74.1882286302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 312-229-0363",
+      "name": "Farmer's Fridge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJ7aHxqBJNwokRVYYHIkcqcYU",
+      "plus_code": {
+        "compound_code": "JR97+M6 Staten Island, NY, USA",
+        "global_code": "87G7JR97+M6"
+      },
+      "reference": "ChIJ7aHxqBJNwokRVYYHIkcqcYU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "546 Gulf Avenue Located in the 1st floor break room, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6191886,
+          "lng": -74.1869241
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6205757302915,
+            "lng": -74.1855336197085
+          },
+          "southwest": {
+            "lat": 40.6178777697085,
+            "lng": -74.18823158029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "\u092a\u0940\u092a\u0932\u0939\u0947\u0932\u093e",
+      "place_id": "ChIJ0aV0DABNwokR5X0alD7GsG0",
+      "plus_code": {
+        "compound_code": "JR97+M6 Staten Island, NY, USA",
+        "global_code": "87G7JR97+M6"
+      },
+      "reference": "ChIJ0aV0DABNwokR5X0alD7GsG0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "546 Gulf Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6153573,
+          "lng": -74.1871093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6166993802915,
+            "lng": -74.18573691970849
+          },
+          "southwest": {
+            "lat": 40.6140014197085,
+            "lng": -74.1884348802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chelsea Ave/Bloomfield Ave",
+      "place_id": "ChIJ-WwQZ-9MwokR2_16ZSl1MHw",
+      "plus_code": {
+        "compound_code": "JR87+45 New York, NY, USA",
+        "global_code": "87G7JR87+45"
+      },
+      "rating": 1,
+      "reference": "ChIJ-WwQZ-9MwokR2_16ZSl1MHw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.614948,
+          "lng": -74.187225
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6163058802915,
+            "lng": -74.18590016970849
+          },
+          "southwest": {
+            "lat": 40.61360791970851,
+            "lng": -74.18859813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Chelsea Ave/Bloomfield Ave",
+      "place_id": "ChIJ_-5DXe9MwokRKiGcT8lTOeI",
+      "plus_code": {
+        "compound_code": "JR77+X4 New York, NY, USA",
+        "global_code": "87G7JR77+X4"
+      },
+      "reference": "ChIJ_-5DXe9MwokRKiGcT8lTOeI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.619015,
+          "lng": -74.18527999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6203693302915,
+            "lng": -74.1839253197085
+          },
+          "southwest": {
+            "lat": 40.6176713697085,
+            "lng": -74.1866232802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "5 St/Amazon Fulfillment Center",
+      "place_id": "ChIJcwdi8-RMwokRLzI-23VkhUE",
+      "plus_code": {
+        "compound_code": "JR97+JV New York, NY, USA",
+        "global_code": "87G7JR97+JV"
+      },
+      "reference": "ChIJcwdi8-RMwokRLzI-23VkhUE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.618935,
+          "lng": -74.185158
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6202917302915,
+            "lng": -74.18380071970849
+          },
+          "southwest": {
+            "lat": 40.6175937697085,
+            "lng": -74.18649868029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "5 St/Amazon Fulfillment Center",
+      "place_id": "ChIJGxGn8-RMwokRd1adRzg14ug",
+      "plus_code": {
+        "compound_code": "JR97+HW New York, NY, USA",
+        "global_code": "87G7JR97+HW"
+      },
+      "reference": "ChIJGxGn8-RMwokRd1adRzg14ug",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

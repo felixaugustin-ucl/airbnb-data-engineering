@@ -1,0 +1,4386 @@
+{
+  "neighbourhood": "Hunts Point",
+  "centroid": {
+    "lat": 40.805782050000005,
+    "lon": -73.88105127857143
+  },
+  "fetched_at": "2026-04-06T14:34:34.807927+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8062387,
+            "lng": -73.87474350000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8075168302915,
+              "lng": -73.87337336970849
+            },
+            "southwest": {
+              "lat": 40.80481886970851,
+              "lng": -73.87607133029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-542-2900",
+        "name": "Market Place Restaurant Cocktail",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106110156656662782080\">KanZ</a>"
+            ],
+            "photo_reference": "AU_ZVEHxelU-G3XZmOjllgOIF3M3q_hX8ofzHhovWRLTbSinCNjFJXs8kKaFBFSkAQiSjbqpRx4yvjEX9CQ-bbuxCaP2orlaVJJv_n4PH156aF69UCKzOthIBQYX-M9aIm0VhRqFJtgR5EIl6g8vR69afA1ezHvZrxbKnobqorS_p4NgN7m0oNKdm8bq_sHRecJYRTqLTaFvKaaPd5fPiVPzerECdetVr4wGvqPuICTJvP4Zb4Jqi4IX6YbLcG9Q26xRlZ_43YTnm88eXnSI_pVhBpyqtlqFpAMZGW3kvMnLHtraF_SJ_iUzAfw1xM-eaqA8f52dLMm-erTHjA9Fs5_t_Tek_cmpBZQta6ucWK26T7tdbQRhFGy2awumMszq9DrQjSN-pBLEKd8uyjmYMTMm3txlbFqnwLJW9H4pB_gj7mVfSF4OZtNRxnLn0imIq_msYHOPB1VDOlwICSrIxuJh-d6O2jl8ZAWi_bGpwWYRZt716wqI3CSvDN8-mQZAy3oapDVfUdHhG2VtEms3UJZ8WU3ijobGRKfkVzOO4sii6Yfpg4xQKBC4n0_-QWCgzWLiuPwP4IEb-k_6gGGQkdnfyPFRR-9teBU-VyjsJJkWVpAJata7z7PHPDdPheYw_xL-yR-Xjw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+        "plus_code": {
+          "compound_code": "R44G+F4 The Bronx, NY, USA",
+          "global_code": "87G8R44G+F4"
+        },
+        "rating": 4.3,
+        "reference": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "355 Food Center Drive, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8098307,
+            "lng": -73.880663
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8111185302915,
+              "lng": -73.8794388697085
+            },
+            "southwest": {
+              "lat": 40.8084205697085,
+              "lng": -73.8821368302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-542-7340",
+        "name": "Fratilli's Pizza",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100055919976169860852\">Fratilli&#39;s Pizza</a>"
+            ],
+            "photo_reference": "AU_ZVEE4xJa_CgSzlg12r2TRQXtq9dndBg9MWG5mFofVIcROEBRSl7VCjElLNvQJQv9iO3DJ3cCYVT0jfJu6wAb5s14a12L0DxaloDgZ2mnnJMQJe3G7GD-B38oH2hbczHePlugqQV_O6-spCco1tUk83PpbQpmQZYvhFxrAJxVByR1NVADI8gvnUMgAadJxtW15Y5CBJQZewQfUpZR_T-bHjUTkez8zicta2-TPye0e28nfAZLWd3r87X8GBfbleAgpTSt1uNfHMMhWNjOp2KZtQ6PRBwcH4_XQ56jkTRHPHcmt6LvirF84_bqETAS8cDHyDrsL0Nh64jA",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJ7xJUhgX1wokRzz0vicS9T_o",
+        "plus_code": {
+          "compound_code": "R459+WP The Bronx, NY, USA",
+          "global_code": "87G8R459+WP"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJ7xJUhgX1wokRzz0vicS9T_o",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 756,
+        "vicinity": "404 Hunts Point Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80981079999999,
+            "lng": -73.8806457
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81112193029149,
+              "lng": -73.87920436970849
+            },
+            "southwest": {
+              "lat": 40.80842396970849,
+              "lng": -73.88190233029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-589-7777",
+        "name": "The Point CAFE & GRILL",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115259823485832211078\">Charles Bryant</a>"
+            ],
+            "photo_reference": "AU_ZVEFLlGLoQ9grcs0mrMk9xyoX_pa4L1I01qvI_imERupfbuMwr6cJyGgJbbA1f-p-9A7V5zYqvFus1_FxCpzE4L0NHOv622meWRi1jCYEAv_uFtMoLvM6dFCPSAN_wZ9BdNBQODz5SyA8-gvfa_6STCbqCzhzAsVH4OOHXxyKzjwnsMhLUeW_F3FXdcOV_BeUAew5HEf_MtqJyFUhVLStMIUBfqgOnd10zLeM-BaVLq5HUw8YavAzeGwt-fvaDz1Z37EbXu_BoR9YkSLCH5Vgcu-v4COZU6Bekj4c6XvelOLN3_kqnbZYRE_CWR-dk6ISEjB9EDsprRYHZcfizWgbDqVbopi3SVwp7fkGbPHLYVX6a8Ov3Hl94wR9pzHAlA3TXkirIJp_DgCKAyaZ22pXWloO4gFAK-iluLEPxZ6xIhoVNifbj2b_zxcrCNSFv0N6ipNwcBIfdUgIoBg-Rcp0gn67mTMNrKEHuKkkUGVftNtLIJWMDdfzVvvbbW8NpPvwkgaVvaE00sGlTIEEyu0QsEc4eta8WxKENdsjBENereV5eKFGa7ZAWEo1Ma0G08Ory2vkZwP1BjisftlWT1OX7-763VG4zXu5F1DkWSGynHWRKUdCH0tPVX93lH4pZrJkwhRYL1ZUnJicXM_zWukU2Q",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+        "plus_code": {
+          "compound_code": "R459+WP The Bronx, NY, USA",
+          "global_code": "87G8R459+WP"
+        },
+        "rating": 2.9,
+        "reference": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "402 Hunts Point Avenue, The Bronx"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.8109661,
+            "lng": -73.8825006
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8123360302915,
+              "lng": -73.88104181970849
+            },
+            "southwest": {
+              "lat": 40.80963806970851,
+              "lng": -73.88373978029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "RD Caridad",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2778,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115811845845906711590\">RD Caridad</a>"
+            ],
+            "photo_reference": "AU_ZVEEHuatk51g0HT4jhMrS-tF_EmqLWs_v1QRLKY0_Aq5ZksBBo1sXRXP1aHGfKZPXOznsnNEjzf8T3eBHJTt0sJR__hae3g7uWnXfKGFA68NuMhmavFyEA2k1v-MFbcDmH9io_e6jqM05Ugdm4QbDZiZMMoQAoHiDWpO_V05_iQEY1onb2NdjiPzWnrXSlJivDTp5koH2MXBeu6AzPxa6PhCxbMdlICiaJi8aNf100_uuKvPYm6ManXySzxfl-tw38vPrC6nur3N5-SW7O0nHL0g4f8ZUBDWA4wEzVKheY7VQw9GdmrshKEZej9lq6xcq4CyWeBhN0wg",
+            "width": 1284
+          }
+        ],
+        "place_id": "ChIJU8KlNFD1wokRDY8Jmhk4n6U",
+        "plus_code": {
+          "compound_code": "R468+9X The Bronx, NY, USA",
+          "global_code": "87G8R468+9X"
+        },
+        "price_level": 2,
+        "reference": "ChIJU8KlNFD1wokRDY8Jmhk4n6U",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "501 Hunts Point Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80790279999999,
+            "lng": -73.88925979999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80932963029149,
+              "lng": -73.88798981970848
+            },
+            "southwest": {
+              "lat": 40.80663166970849,
+              "lng": -73.89068778029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-328-4400",
+        "name": "Oasis Coffee Shop",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108200544875936853279\">TheMorphies3</a>"
+            ],
+            "photo_reference": "AU_ZVEGmtV5N375RGJUqx5CcH3lLfVnuxw79FhV_mrNRQ21crFKXXz8e-33hlbJSEsXGOSV3hcTDo8o7B_iFE2SQsQN0xmJjtun3qu4Sugtjw1a8SEQGl4QNQIIItoH4-vDvQa8rGCKp8no36sA1tnAuwzb250susSF1e3P9v3rfBj-jXYjl8otxo_sABH2ESI9Mm2Xm0MdLyYLyQn-SvKfGsjiTuOsqzV1Ucw3J0qfgJQUWud4lcMCR0Tr4H2eJlhVtILPwmPnwtze4pYIsBEgeNhIiaLwUEvb0cky_s1n6efJoRGboGcqYSeZ0lAu0iQK3doxn0BK---9tltAqO9Q8m9cKhrvoRNXDgvBb3hExUyDCPd8HpgVtkBG6H_5a23U8d_-qD9Gk-XT1fThlpoSkhELubAK0VgJY1_vXxdcEmfqXSgr7utzSdOdukozlyULxZO3buke4IlpJM1T-UDUdK85DHSbM2a571M5C5rXgy9_WXKq-3scocNIKXexDhzptEm5LDeeRfPJm0Q3cCQb0l-SJjlJBPQ3ARyFsWxhqphMsSr62gfh1GB-vbu9HDKJfU17pxMTIdt0T1S2ZC6KfytYEKOfnfxZuVWXTxhGOfx4b1vQtzJDO3sxDlwRgElPeM_LL3w",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ2b9se6f1wokRUN8kWpFfzN0",
+        "plus_code": {
+          "compound_code": "R456+57 The Bronx, NY, USA",
+          "global_code": "87G8R456+57"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJ2b9se6f1wokRUN8kWpFfzN0",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 117,
+        "vicinity": "390 Tiffany Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81220069999999,
+            "lng": -73.88442239999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8136523302915,
+              "lng": -73.8830987697085
+            },
+            "southwest": {
+              "lat": 40.8109543697085,
+              "lng": -73.8857967302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-328-0343",
+        "name": "Randall Restaurant",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108016484367847006261\">Elizado Felix</a>"
+            ],
+            "photo_reference": "AU_ZVEGpYIO4EB3Tp4b7wtrd3twU1dtKSOb6-vu5OVPvLejVk2LLlHOYhkYknC8a3tvwavybd6qKZyOBtP5xxSTMQUv9ZfOLVxE6leVEIvLOR6pZa6Le3eb3eMv-EyK9MHxpkJDRoChGaetveDneKfNJy792BXdi9Ntr2wzMtpA1YDnEW49ocUBvQoDDUjLM9XFkmD6W6QmZGegTxHeopmJtXGq7u38H5YjjBKPaCHQBto_1PIlQfWtg55gah2Ay1um0e8dnuuiXOkP3ulWbkZJzTPoyqk3Ut4o_cx_sY15Md01wbR0jcyUJ6X7TcrzyvsKj96nynoSJxFZ1I7UBv6mE7xXGsh25PT31zRxn8HipGZ_jci8FazRzfgBB69VZO_FbnDQadTXfiUGbehDU0GqsWAtw185dFa5R3fPvInHNz_7BVcUc3Rvcx2igD65oiPl7jWPheL-uWC5wR7-j3sQ4LiWgkpxcpMPclmVhvqORWdg6MYIsP6ke9UK29DIw7BAmbOzXtJpj_2ZlJr-akb3_yFonHHh62UgvVXVhLMA1_Ncb2_iT8lEzyv8rYQW7ZJH_x6viLbMZ6qmyaX6yfm74TDbqmJ755XbqJKn8wAY-dnJFoZDfK4nukDVHc4UFcCM8ka-oqg",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJMeQ3Zwb1wokRAXVVeEED8KM",
+        "plus_code": {
+          "compound_code": "R468+V6 The Bronx, NY, USA",
+          "global_code": "87G8R468+V6"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJMeQ3Zwb1wokRAXVVeEED8KM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 633,
+        "vicinity": "1328 Randall Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80687200000001,
+            "lng": -73.8721934
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8083707802915,
+              "lng": -73.8711371697085
+            },
+            "southwest": {
+              "lat": 40.80567281970851,
+              "lng": -73.87383513029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 800-783-2569",
+        "name": "New York Prime Beef",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 642,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111172827257648053065\">New York Prime Beef</a>"
+            ],
+            "photo_reference": "AU_ZVEGATNHcZ0sgMTIQlikPzjExXBKv8eyG1rNWt7uYDXT3O6iNH84H3x6BBjPxgdGTzRO2FMWNSQZit003zoBsPNirhCnOXx5siqfR9QpiLmKrwPgxTdvh3bxuXNOEl8CTpykkt57aKyQXIYqPvtRC9DWNeIXEMzDwQ5sBRo5tUpeV0-zJAvEWqPIXS-G0jYJQg3uzHzuWYAFfq06FILZV04FHonAEkeQ1_AO8tayosUCpnNSTy2Ax4VfD1cToKJf1X1t1pwySOOqnpbP8Lg8LhDUaobX6HhYLa98xJIlF7aAuCLuMkgZ_wqTSSa47o5yNkfECLEQf5JE",
+            "width": 528
+          }
+        ],
+        "place_id": "ChIJV196zxD1wokRdTbFEQM16eE",
+        "plus_code": {
+          "compound_code": "R44H+P4 The Bronx, NY, USA",
+          "global_code": "87G8R44H+P4"
+        },
+        "rating": 4,
+        "reference": "ChIJV196zxD1wokRdTbFEQM16eE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 24,
+        "vicinity": "355 Food Center Drive F16, The Bronx"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.81262859999999,
+            "lng": -73.8818564
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8140575802915,
+              "lng": -73.8805277197085
+            },
+            "southwest": {
+              "lat": 40.8113596197085,
+              "lng": -73.8832256802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 917-473-6987",
+        "name": "AA Caridad",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109918890533822542581\">Crisoforo Laureano</a>"
+            ],
+            "photo_reference": "AU_ZVEG1SD4hw7UrB5VRhmwJcxakme3bb153J63XbJG8VXkDj2iFOGP3b6O9ZaZgbI_0hjgT5GjYNgncHlpfdy1tNh1BcqvPal9oOrUVPlLCC3ZGjhm2kZv6Kg5my-nv0QQ--wbZVOlQTfN5WfMiEmWR-3BfSJlLV5sz6SvEIoA6ZWS1YHC6S8MnE6W5UHUKkIqHx9TOoOzLtPZF39NjCzrsYdXEc6-8MXdKQmT8aqi7Moicmiunt7JPfQ8Ld5TgF5IfPmP68WEgaCiuhXNs5j9VojKhv3IYHW0AOJ36cw7KzWxEbdVudyO_L1OTJFypEMPcn-xfQPr6w_aecunMDo9ftzfuZr8HSHFZpZP0q5rMEd0us-OZsHyn4JasrKugjtRAXPYeR6FUvzyFPM7uXZIqjbtifDOaqUBlmMYZr0QZtXRTOtxYSvMibLtkAkIAHIxXGTxf45ZE4xr-uNY9afJv2_3exKeUmvNTKsd1y6RyfFg5a4yxCDlw_cXuOvw0eUULOHdqb5_idt1G039Ovf4CM5dB4d-q-j33_GIUrEF3p1Qmx_xSnxQihkd6KHi4vrny--nBS7YSmz56_MKWn0QYeogV7p5-eOF6EcDoEHF78vNWfiUxamDEbH9NKHpOs0I_fF4w4PMI",
+            "width": 1536
+          }
+        ],
+        "place_id": "ChIJAdmWNgT1wokRk4zKvC8s1-o",
+        "plus_code": {
+          "compound_code": "R479+37 The Bronx, NY, USA",
+          "global_code": "87G8R479+37"
+        },
+        "rating": 5,
+        "reference": "ChIJAdmWNgT1wokRk4zKvC8s1-o",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "1380 Randall Avenue, The Bronx"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.810578,
+            "lng": -73.887663
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81200608029151,
+              "lng": -73.88619946970849
+            },
+            "southwest": {
+              "lat": 40.80930811970851,
+              "lng": -73.88889743029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-381-8952",
+        "name": "Dig Inn Commissary",
+        "permanently_closed": true,
+        "place_id": "ChIJ0_2JCgj1wokRxpXTHIl9zfo",
+        "plus_code": {
+          "compound_code": "R466+6W The Bronx, NY, USA",
+          "global_code": "87G8R466+6W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ0_2JCgj1wokRxpXTHIl9zfo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "509 Manida Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81220820000001,
+            "lng": -73.8850432
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8135689302915,
+              "lng": -73.88363861970849
+            },
+            "southwest": {
+              "lat": 40.8108709697085,
+              "lng": -73.8863365802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Tropical Restaurant",
+        "place_id": "ChIJRxrsWwb1wokRfTI0RhL2Kxk",
+        "plus_code": {
+          "compound_code": "R467+VX The Bronx, NY, USA",
+          "global_code": "87G8R467+VX"
+        },
+        "reference": "ChIJRxrsWwb1wokRfTI0RhL2Kxk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "587 Bryant Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8126927,
+            "lng": -73.88405170000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8140353302915,
+              "lng": -73.88271346970849
+            },
+            "southwest": {
+              "lat": 40.8113373697085,
+              "lng": -73.8854114302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 934-444-1680",
+        "name": "TAQUERIA EL CEBOLLIN",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107282971758869628386\">ricardo martinez</a>"
+            ],
+            "photo_reference": "AU_ZVEEWofbEUyDpoiFJxoHvy6b8avGOHvn0m-eeGPYRZtyKwLOngJtLqJ0lZbyEvScCSZG-xRs50yJ3oPs4M0F_zn7rmARZZmBa8aWfPuQTQejQSprHatCUg9f5X0dFmoWtkYoA5PuySaQDW21IZx2E6MZ8pH5m2MRPqs3_idHnkHayTVo0vwLWNwB37S1DdV3ZaYXu-0LZrcJMB7Mvg87KKGt8q8XrsXI7tqZMPF5Eny8mc_2bv2AeN4uXEZVAkX4Ede0EiKN7nD2bO1E6qDJNLecknXpELPWVYAAXg3IoORmfvCTibRL88FCt729oe1-L1AtEhRgaboIjJKys78wCfFvV7TzGW5lnd5tSiBfUYOyQwp65yygswFcnRcd642idVZl3I2kUrezPry73uk6gGmUOG9MqGvnQHuiYHVKYg70hXu-u7XdLS7UT2apuPV4Ti7HwK2VNvMRiUBeAz7zAcfSAKUNu4iqODJpg3LtK7nqzV_rcrVgzpVvlloeQk-JibH7H7t89czilcuivBpdkscUhlRyG7dvtUIPYDOHKbiM6PjvCO11PqA16MeZ78Lsew9HAnwAofucDM7cvnGTUbVi34k_D0gcr21ZP8WfAh8WUm3dUxMutQ8rLpExllqBscYfnD98eXu9B4jAv7h6mcW8f2P4",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJiY2fdAD1wokRwAXXk893gBI",
+        "plus_code": {
+          "compound_code": "R478+39 The Bronx, NY, USA",
+          "global_code": "87G8R478+39"
+        },
+        "rating": 4.6,
+        "reference": "ChIJiY2fdAD1wokRwAXXk893gBI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "600 Hunts Point Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80979989999999,
+            "lng": -73.8899304
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8112140302915,
+              "lng": -73.8886731697085
+            },
+            "southwest": {
+              "lat": 40.8085160697085,
+              "lng": -73.8913711302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-930-0053",
+        "name": "Cafe Italia",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109058931185351093038\">Janis Dh</a>"
+            ],
+            "photo_reference": "AU_ZVEEUAmFWQ6Qa-bY25zPO96zwBI1dxx6Rztb0FmuX1zphMPoFQED0xBNrzEgS1w1hs5UZpbWhUo_qvSJxmMZeOfAMkc95ds0gYUPrp5K6S392AOY2Y-xu_NwaEFblTkhVB_0jFypL0-XNZ9k-sIAl8-sSlwNW_vXujGCwZFew9qpRnRVQ044poUeUJdplvMPYiruZa3eZux64nbHdzyDbn1Y_IsQdDEk1qsyQbZmM6ZEpplzKqeb5QmnAK-dMCEMzuo7aUUNERGQBS_S6kE6DTQaHvqj6LfPrgWkgRam2hgIhD4qzQCR2zC9n_JR9n4apH18GwmWLq3bLn96WAO4FbNQupMiD7jEp-KFlgCrT4WyYe-uNCW1hs54P5iFoh59TYgGSlQPG1hIHGzbzybfvRC5YULRi0grpFFF3j7uiMJuFj3eOASxwDtmSmo_UkBtnDdCdLTnWkrLBU2AdlyYV0QnY30_bzxFOP0Y55hM_B7IQ7j-In6mYufnN0Qb8c0BaAh8yXs8sZEiIRvDdMmTe1f3m1rowUaGTdsJx-BdBz_uMo4hGl7c9lu-PEQrTeuWjSZfmarwIeOuoMlM7O9M4PZVFs6Ma3HNLicig6MRSpreHTlB0jBMwUbndcZmeH940mJbPB_GIwB5wrsDef_SMvajXCqc",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+        "plus_code": {
+          "compound_code": "R456+W2 The Bronx, NY, USA",
+          "global_code": "87G8R456+W2"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "bar",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 41,
+        "vicinity": "500 Tiffany Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8117387,
+            "lng": -73.88810200000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81314503029149,
+              "lng": -73.88676776970851
+            },
+            "southwest": {
+              "lat": 40.81044706970849,
+              "lng": -73.88946573029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "EL CEBOLLIN Taqueria",
+        "place_id": "ChIJ91Z8PAD1wokR-daKpjv_4Sw",
+        "plus_code": {
+          "compound_code": "R466+MQ The Bronx, NY, USA",
+          "global_code": "87G8R466+MQ"
+        },
+        "reference": "ChIJ91Z8PAD1wokR-daKpjv_4Sw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "Randall Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81335989999999,
+            "lng": -73.8850224
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81480008029149,
+              "lng": -73.88365586970849
+            },
+            "southwest": {
+              "lat": 40.81210211970849,
+              "lng": -73.8863538302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-893-4466",
+        "name": "Diamond Club",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1973,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100679471822603617126\">Diamond Club</a>"
+            ],
+            "photo_reference": "AU_ZVEEo6pqzD4YfxGPVtsA3_KEWr7biXglqYUiJEMDpynAilnBqYzTsxNceaGfrS2N2xTtfGZrCLnt4oDJpj_uOAYXKFUpJ_Csv-pfDh2ryQRNdVqaYm_RQWeISLqnitb6PLfxGGjvZjw5kHArbRFoj526MRJ9Xfgqx2AO5_Clvm3GshYwp409kNG4iYGYW6ZTTsXlbbjufmC4QNRHxFn5SwWsEAF7QTkAToyIBL6qNeiSegNK2BDR-IzpsOY7tAOJxuewtXKfHob_yKd5wKl_SN6Qeb8pBdJwP6e-9fmBnSbdAQ9peJj6TAOujqox24zywyY3EFrhv1Cw",
+            "width": 3515
+          }
+        ],
+        "place_id": "ChIJk8XlvmX1wokRZC0e90Lw8js",
+        "plus_code": {
+          "compound_code": "R477+8X The Bronx, NY, USA",
+          "global_code": "87G8R477+8X"
+        },
+        "rating": 3.3,
+        "reference": "ChIJk8XlvmX1wokRZC0e90Lw8js",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 48,
+        "vicinity": "673 Hunts Point Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8114802,
+            "lng": -73.8889958
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8129514802915,
+              "lng": -73.8876361697085
+            },
+            "southwest": {
+              "lat": 40.8102535197085,
+              "lng": -73.8903341302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-860-2330",
+        "name": "JOHNNY'S CAFE",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2034,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107880496541900714702\">Geovanny</a>"
+            ],
+            "photo_reference": "AU_ZVEGYuDokKmA5SBJhqES7kZsnrRpLARI1-iGuSu2IWzllySc5m7EgRUt3B8VcyS4o8jsK724GwxadxTTUruckQ7ZizTzqlbv-INHhcwsbkaB1VArtAFHFSRWPAaznK_zRbOtfN-bofljc59bdHkJqW0X_mmiqryU9Ye7AUtSusHEFOUrR-gbXsIHRjm462xD7IjR3YNO4jSenjnaI-i1U-FvoJgn8SPV_GMhnIaAMbt5ousMG_xDdO3OZEQyw29jCiEB5YRehRkiYsXs2tBOlHUj9F7XgzDgRXSfQR1LBvkTAWBh488yyI5DFhPl9_X757xV0PiHg754HW3Oo1U0YfEsYpQadfR5Iw8UYL-EvSq2GapzxcolGNQvyrsmvXJvsyO5BGHLwk-ENC5RkPyjsol6KopUM1zJCnnCLgJBwz1noh31K5LhjU_IaGA8L1EFEX4g6b27GRkk8XutrsQnSJKC1xYTpPZoRNnyDAcPijxKxfFhpfdM1eU1HDuTgqS6IWJOoV4yVLrRs3Gwu_Ac-lPsALWLaFZWp_gGPzZUbju9pGgmvI9t8mOzGP_y0xN7w8RVu4I2enveA-5XZba4DjBoPpC5HzsNOLGX7XCkLM5LTk-VO6cCZFtgImTG5CxqzBvFtWED5sistGLL-Y2KAst4TsOY",
+            "width": 3618
+          }
+        ],
+        "place_id": "ChIJw7dG4tv1wokRpJ4jxfc0kOM",
+        "plus_code": {
+          "compound_code": "R466+HC The Bronx, NY, USA",
+          "global_code": "87G8R466+HC"
+        },
+        "price_level": 1,
+        "rating": 4.6,
+        "reference": "ChIJw7dG4tv1wokRpJ4jxfc0kOM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 71,
+        "vicinity": "1232 Randall Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8146982,
+            "lng": -73.88144969999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8160554802915,
+              "lng": -73.88006741970848
+            },
+            "southwest": {
+              "lat": 40.8133575197085,
+              "lng": -73.88276538029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-378-4045",
+        "name": "Point Terminal Foods Inc",
+        "opening_hours": {
+          "open_now": false
+        },
+        "place_id": "ChIJxdWrwNT1wokRrpwRH0Gs2Vk",
+        "plus_code": {
+          "compound_code": "R479+VC The Bronx, NY, USA",
+          "global_code": "87G8R479+VC"
+        },
+        "rating": 4.2,
+        "reference": "ChIJxdWrwNT1wokRrpwRH0Gs2Vk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "300 Hunts Point Terminal Market, The Bronx"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8062387,
+            "lng": -73.87474350000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8075168302915,
+              "lng": -73.87337336970849
+            },
+            "southwest": {
+              "lat": 40.80481886970851,
+              "lng": -73.87607133029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-542-2900",
+        "name": "Market Place Restaurant Cocktail",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106110156656662782080\">KanZ</a>"
+            ],
+            "photo_reference": "AU_ZVEGdBQ7nmbn5Hl3UKj1Z2Sbbcbs0L1JOPgC7JYPs-VnehF8nd1eqaNNBD9QWJM9yANCiXszkhACHUSYAViNPPzhUCvykc7eYxaRxESGrmHrNBRUakaDIfkKlZblVSGoaOVMWaOMNufCnS2uZcOUChigvLBpWw28Evy9tDfGalLWnDpz3a15tIeS6T2F96JC_pQA54a09kJwgWt9y_9bxKjLDDEZHDXtrLfgFzU5PBlbCIwtpWpmuFE1ofLC4rHfI0Zt0CEio-WMzv-lb00NJ-dn__mvuhH6EGlJg61Y4wHGPQZBx7l9l8tMTMcVycWDvmr2ixJ6deqQYZvyoRwqBBI83hHx0UJ_8A8M6LEtAZ1q-A5dhtRaFS4AGSPpysItP9X3hT5naIPAlGixHw5L_p11aWs9gITj7P08VBW-ezzQ4hhu8OZyekFd1cte2mmLEL1DZvu3oltL4A0w4KbRl1d4dUtvlXTuDrPGSIbeDB4NA1AutyDiDlXQkwfJ-V3eNUvDUyXk7tGnWNlw6cG8ijIQfQ44yr-otmkwWk4Yo42h17gp1CD3bwRrfBfrtgxOyRjF53-sqNbnWtBez8NFRlgjaaRnfsuCRDYzh7qNUyiG5vGoVTl7lX9gqSGB_TUOLn1je0Q",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+        "plus_code": {
+          "compound_code": "R44G+F4 The Bronx, NY, USA",
+          "global_code": "87G8R44G+F4"
+        },
+        "rating": 4.3,
+        "reference": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 31,
+        "vicinity": "355 Food Center Drive, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80979989999999,
+            "lng": -73.8899304
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8112140302915,
+              "lng": -73.8886731697085
+            },
+            "southwest": {
+              "lat": 40.8085160697085,
+              "lng": -73.8913711302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-930-0053",
+        "name": "Cafe Italia",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109058931185351093038\">Janis Dh</a>"
+            ],
+            "photo_reference": "AU_ZVEFHgNSVS8fivf5ICWe1NWP1vZzS8ICKf7odNNDTPCV97ULPCoGMsMvBtI8pYOdD1LtrQP4xUlDqRC7ByQbk_SzpCzq2nCYsZwpFslaKxMgnMJsLiN99K5KctJB1RaLD-sSTe_9I0pordN5Sselx9wovXGaFaaTSx3qAWGdzt--w6gbkDLZFw-T-32JxXGdbv6pUElKeuPv9iJKyi8f4YjMoL84evmO-Y517mwNaAWh7m1OKc8BScKImAUEO--Az_uFt6ir5DoqLeg5Cfo8Ebc7be50ZCLv9knutD3Pujaz6rrMPWzF_3y7DAYhgqOnIfIEHKVpQz7Pq6QbflkqiPORYughmmoRVKlepcvxuulkUIrut8VQ3AVm42Ly_X9wcVW4tm-ryVb59rjRBpZsMJDdRFT5IFvBkR3M4Bfq1IC1btVKfxUN05Yx-6EfZLViEfcF9c-oaHWuIFMwDIP-HWOsrCjLWIXTV9ycQyyoHRuS-TakHcD1skKtfgD9POP5kX6aofwbUH9WkwMdm0Sdill2ns3hRagulI4ExMuug2m2_QV4AQi1i70dz6yc8GIycE52Wtj5mI8Tv5TQB-FVfYjXqxS_xtLjMIQ5fZdt1iG6s_InCwRRO1hTVoNQe-bSjWSdJuJP1fZrHB2WEmwmf-bZkSYk",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+        "plus_code": {
+          "compound_code": "R456+W2 The Bronx, NY, USA",
+          "global_code": "87G8R456+W2"
+        },
+        "price_level": 1,
+        "rating": 4.8,
+        "reference": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+        "scope": "GOOGLE",
+        "types": [
+          "bakery",
+          "cafe",
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 41,
+        "vicinity": "500 Tiffany Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81335989999999,
+            "lng": -73.8850224
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81480008029149,
+              "lng": -73.88365586970849
+            },
+            "southwest": {
+              "lat": 40.81210211970849,
+              "lng": -73.8863538302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-893-4466",
+        "name": "Diamond Club",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1973,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100679471822603617126\">Diamond Club</a>"
+            ],
+            "photo_reference": "AU_ZVEGQ-E9BMX_v3oZ4eE78VQVE94wSGGxplaIbQlBNYgb4qSw580-I2V_afPHnaGjruqH-lGzVs5yVr0gaa2USWWJjqLxTmKapOhH90cKX5A7ZTS-Rn_FMHg6G8DSQLyvnU6kW3lchShD6mGzX3P35Dy21L-nb2XLAOFLH3tXZJZouAVdUeD958tnhYjBn2cwnGIvZC6lsVIcgEJCrwQKy0Pz_nMvU7QeJTygaFjDCAiCfSA56CsmZJn2aoO-1vcsMRy7FbqQqOprpfTkxIBwqBJ3euHnZrSeGIs3joDkAme8X2Ygkrl3zjsBu15bsDLtD8awYznclcKU",
+            "width": 3515
+          }
+        ],
+        "place_id": "ChIJk8XlvmX1wokRZC0e90Lw8js",
+        "plus_code": {
+          "compound_code": "R477+8X The Bronx, NY, USA",
+          "global_code": "87G8R477+8X"
+        },
+        "rating": 3.3,
+        "reference": "ChIJk8XlvmX1wokRZC0e90Lw8js",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 48,
+        "vicinity": "673 Hunts Point Avenue, The Bronx"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8140437,
+            "lng": -73.877646
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8153524302915,
+              "lng": -73.8765355197085
+            },
+            "southwest": {
+              "lat": 40.8126544697085,
+              "lng": -73.8792334802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 347-489-5188",
+        "name": "Marketa NY",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104368381504709667291\">Kasi Tapia</a>"
+            ],
+            "photo_reference": "AU_ZVEEYRSazwtZMAZT1BNbo8tfphDhH6qrMUy7Rc6cXvGkbJnucsNt8ZxWTHd9ue-m2fnZtTO9ppn3Zbvtfcl6T5WzbI4o1A3hXrRqT5-p9AnSQmPah4jzU35WxlDieC3oFc1UwUl5YbucvsjoRwT8v-hYORKH8f7lZ08fEiIHQhSa__ZU_aulTNIHE7k4dJ2p8gcEM2Z6Xhjn6IQBSeysQP_nO0IDIylitqA3PLPo2uX5A7bWoX8U0thNDuf_Z1xfmqVNL5GdBlpUN7jOOuE4y5j8xt_aaLbmxzO6XlDhVMfWF_gWabBu9jlWTvQzxRsktzHzpumMwWLgkQB7cxSbOTwXt3yM1LZJMcRiymxRS0ogyYEXy13EjXjBYiPffvnBZYBK9O4yIq2s_oTLdWu_7bnFLK5RtjDrM9x8OQjL57PzY0X2jYen6CrLIujAXUOAugEoxU9C09yEDZSnTJvETOKmq9aCNH74YtROKNZz-oJTHjNPDCFRDdqO7N9EJmJbb-TqHXbe_3k6A-SVvjA1UZhqF3iYTCH6OkOkzBRDUQFMYmtkO1-vrzZhSgdGQ5Dyk6UyGZ18XvCGb5rBlQPe5dOcYYucIUWMX_2nAwfOdvgoIVXxyUxvnCG4PMZ4N2XbjmOqUlZDb",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJr4fxegL1wokR5ykhRenXB5s",
+        "plus_code": {
+          "compound_code": "R47C+JW The Bronx, NY, USA",
+          "global_code": "87G8R47C+JW"
+        },
+        "rating": 3.9,
+        "reference": "ChIJr4fxegL1wokR5ykhRenXB5s",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 12,
+        "vicinity": "row A 130, 138 Hunts Point Co Op Market, The Bronx"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80558930000001,
+            "lng": -73.8882407
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80729538029151,
+              "lng": -73.8868807197085
+            },
+            "southwest": {
+              "lat": 40.80459741970851,
+              "lng": -73.8895786802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Barretto Point Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1598,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104556885819988753174\">Barretto Point Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGNIE1Okj2IE9Ia-xCUpzjEx8uHIp6PZmMxoTW0Tm83py4jJEg4XzxI2165smqFbuopCONz4eRu2Z7fYzY2Q5T6heNs7iYgO-vDWDR_TH5jIZ6UO-iqpE4-yx6aXQPs1dr_4oDXeKf8cZsMdMAfomN5ZH4P_4CJx7KZ1LF4r8lyYMyVIAUquN9t9F_nfGqE98I_zKdoxq1InnfGuFDAWktoVIpaIKCE94SuVch_zL9C9lOmzbGrC6lwbbYK152xGIYNF3trMFz8yYs0q41NueMwOMsaHwAFPKZs7dJZ20U00ttRZM9YkELYmMwid7WSmiO6N2ceOgY",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJLXTOHAr1wokRlxL_AUATemc",
+        "plus_code": {
+          "compound_code": "R446+6P The Bronx, NY, USA",
+          "global_code": "87G8R446+6P"
+        },
+        "rating": 4.5,
+        "reference": "ChIJLXTOHAr1wokRlxL_AUATemc",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1497,
+        "vicinity": "Viele Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8103014,
+            "lng": -73.88247989999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81183548029149,
+              "lng": -73.88089846970848
+            },
+            "southwest": {
+              "lat": 40.8091375197085,
+              "lng": -73.8835964302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Joseph Rodman Drake Park & Enslaved African Burial Ground",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105127124759504524439\">Joseph Rodman Drake Park &amp; Enslaved African Burial Ground</a>"
+            ],
+            "photo_reference": "AU_ZVEHsoLG9DFbFnTmzBKOb0tokgZtp9rdO0Ki-zBoouWbYE-VabuLbxTt7OBrhsLDRo7lAcCyXcdF8AZYc2SJZ4m9yOnpNTAXDpFLqKZJGBQx-kb7kLweLXCHUlfSvaKDnplP0xhTnXifYfE1mQHvgaWxdYt459K6jJJUB6mvlCkCYhnkMfORnCKBhHeynBkZxMUOT6mBpP75rMRL2ckvCe0h_C26hAEzY_sQVP6_cYd1LY1TyljFXbuaZ5rBjK5Jxsl_GUyeIT_ExeRx6v7VqpATWYFzQlUezmTmYp54BxUtq4NoQqggkAHFQQDjLHC9bLuvVdr_DrW8",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJlfFt-gX1wokRU0itVq0nsds",
+        "plus_code": {
+          "compound_code": "R469+42 The Bronx, NY, USA",
+          "global_code": "87G8R469+42"
+        },
+        "rating": 4.4,
+        "reference": "ChIJlfFt-gX1wokRU0itVq0nsds",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 47,
+        "vicinity": "Drake Park South &, Hunts Point Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8054624,
+            "lng": -73.8896572
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8071656802915,
+              "lng": -73.88805306970849
+            },
+            "southwest": {
+              "lat": 40.80446771970851,
+              "lng": -73.8907510302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Tiffany Street Pier",
+        "photos": [
+          {
+            "height": 1800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106713783422877283330\">Tiffany Street Pier</a>"
+            ],
+            "photo_reference": "AU_ZVEHUtip4plowyg561lLMcfjW2H-PA8-mSuagtkvGLUf6I4UxGUOjILtt2GJoabq5XIOYVGZUU7R5RUvwTrASq5JEoIJFZOtzfGp66PHVa-OcFraZhZENoGajkb4NTQ_mhmXqKGYE3iWkevMvQIoEsNk7JmboRTixhkLP_jVvKKg6rBCW2GQylo_0EYDxOqfNrCYWXrQ6wpHHNNOnq4dDuFNV8e5tJS_fjhBWuhgMN3p1nmRg5vTuhcTgs9kh1ojE1zKMSzpqdvmc4kPSiIFkqPb234ouxnrhSeZUDublnsWXKyVlOZdSf6O-GgP-HhHq9TMwf_Jpupc",
+            "width": 2704
+          }
+        ],
+        "place_id": "ChIJ-YtvsKD1wokR9YAqlPyTeH0",
+        "plus_code": {
+          "compound_code": "R446+54 The Bronx, NY, USA",
+          "global_code": "87G8R446+54"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ-YtvsKD1wokR9YAqlPyTeH0",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 65,
+        "vicinity": "Tiffany St &, Viele Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8023003,
+            "lng": -73.8724486
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8038629302915,
+              "lng": -73.8715038197085
+            },
+            "southwest": {
+              "lat": 40.8011649697085,
+              "lng": -73.8742017802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hunts Point Landing",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3472,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110736931008679786513\">Urban Kayak Photos</a>"
+            ],
+            "photo_reference": "AU_ZVEGVir8wOCipV24R4ICz_W3Rz2AaiiNqg6plbZWwTR21RQRHfF49wCGzBljy2ZULRKWbmQWaBYyTLb94NlhKGq3MtBpvfR-rgNX-omZ5lx5uq0IGaKC1ZyRQvLtXtqov7Hl7QN0Io6-KUTjjfR06ol8mEnXHNHWy_-wQRYU_P5Ai06peM-E_DfEiCQA67SlU-k540sjjyK_2-_Hnm_A2uTQPV3B9u6i1mqQYrQCd3hOEOKzm4sGwEuZ_9-mxkXjQyR-7K4PVir2IrwUrl3ORUd1XUYcLdaNe7Q9dszq5hI_HV0bwHVx0pDAshldRjfo17v9s2iQkC2a6AmdDAow3EXJZXZzqeVkitPmVv1n6bJHJMIZ7sZm6yvkHFhmUoS606MolZl0U7a2oSK8sBNwiFyv6Rd_KfNqGn8EVoWPPDxtmlOJNZqQr-pOyBjNgpj-q64x7WYKhYc20ePb61G3_ZrZpzclGT5K2B-9ScJTtDvzllRSJCxN4lAsjH79S7kd5HtT0hfu92jmYxgGI1Dr5M2Us2TM8mMyyW30FIvrFmJ7J6dCE7mwJjluptOV6nZziYLHY2f3kRH5k5UOPAbsXosBlDiAdo4N677_Elv0ONgHX1Cofs8Dqvded5ocq6OQKyPeYjw",
+            "width": 4624
+          }
+        ],
+        "place_id": "ChIJ073evRP1wokR-TvO8Teka0w",
+        "plus_code": {
+          "compound_code": "R42H+W2 The Bronx, NY, USA",
+          "global_code": "87G8R42H+W2"
+        },
+        "rating": 4.3,
+        "reference": "ChIJ073evRP1wokR-TvO8Teka0w",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 60,
+        "vicinity": "2 Farragut Street, The Bronx"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8074561,
+            "lng": -73.8835663
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8087960302915,
+              "lng": -73.8822159197085
+            },
+            "southwest": {
+              "lat": 40.8060980697085,
+              "lng": -73.8849138802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Dumpsters by Danna",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100195724309730135521\">Carlos Flores</a>"
+            ],
+            "photo_reference": "AU_ZVEGgpRL_9uiOOPFcvmllZK-4XzsMzqfUj_RvYaDwEE1PluCnnWbmmIRtHkGMs9MsFtXaHsWrnVmJGeYh6w352jHnzNzifgIBjGH7LcohehVowbKXhD1-C4Mz0fLIRMvLdBzMOOO4ajwJN6-WV7jPnRdO6M9pdOJiW1buoCbzOqhjakcZsji6QJtzxTuv7j9DKoMWCqYk4BgXKwaQGKciqUX_Gh1OpRSjQ5t-3KH7e0ZnCjxH4lWkIRgu_3a1WpjkAyQcOEWXy7XrTEi4n9GE4EUZuWCWFc8ayBtqll7igUT6-nUqr2ylzyj25vxJsHomIttgywh6AySBVncAFSTzeC26IZA2yoQZFeJbw9_ibCk9X3WFZ84iFQnHBzNY9L3JGQYk_ax6170RGMVGqVLjIiRCm8uuFaW1nphgiL4wbyX6mLSezRgz4dSh7qLMTjJQ7aQRN7SwV7ITMHbzQ6opA2uLf12lNazDtDr3oIIetFPIx_yu269dfxAVg_Tc5CvJhPTiq1UiVT8nCgzEVIeBFpjL7UsoxSXyknBTHzkuEqmTMLGNwvCqi1giV8FLMbneuHUnT1xA_yKRBc-AVgdVGfyzHiAZMyIIv2bzP5rI3U217RtI9NPMYrXVsmaHx0Ac3pxuWxyL",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJH9UVKgn1wokR8Pu18J98zKs",
+        "plus_code": {
+          "compound_code": "R448+XH The Bronx, NY, USA",
+          "global_code": "87G8R448+XH"
+        },
+        "rating": 4.2,
+        "reference": "ChIJH9UVKgn1wokR8Pu18J98zKs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 21,
+        "vicinity": "318 Bryant Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8068125,
+            "lng": -73.884655
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8081925802915,
+              "lng": -73.8833146197085
+            },
+            "southwest": {
+              "lat": 40.8054946197085,
+              "lng": -73.8860125802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Av/Faile St",
+        "place_id": "ChIJr6rYFQn1wokRLSZ5xa41Z68",
+        "plus_code": {
+          "compound_code": "R448+P4 New York, NY, USA",
+          "global_code": "87G8R448+P4"
+        },
+        "reference": "ChIJr6rYFQn1wokRLSZ5xa41Z68",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.806257,
+            "lng": -73.88815699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80763158029151,
+              "lng": -73.8867854697085
+            },
+            "southwest": {
+              "lat": 40.80493361970851,
+              "lng": -73.8894834302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Av/Casanova St",
+        "place_id": "ChIJu2Fk8An1wokRg8U4WTpkKt4",
+        "plus_code": {
+          "compound_code": "R446+GP New York, NY, USA",
+          "global_code": "87G8R446+GP"
+        },
+        "reference": "ChIJu2Fk8An1wokRg8U4WTpkKt4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80714,
+            "lng": -73.88192
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8085228302915,
+              "lng": -73.88058031970849
+            },
+            "southwest": {
+              "lat": 40.8058248697085,
+              "lng": -73.8832782802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Av/Whittier St",
+        "place_id": "ChIJO4LF3g71wokRa63kSNJ_izU",
+        "plus_code": {
+          "compound_code": "R449+V6 New York, NY, USA",
+          "global_code": "87G8R449+V6"
+        },
+        "reference": "ChIJO4LF3g71wokRa63kSNJ_izU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80725100000001,
+            "lng": -73.881866
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80859993029149,
+              "lng": -73.88051701970849
+            },
+            "southwest": {
+              "lat": 40.80590196970849,
+              "lng": -73.8832149802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Av/Whittier St",
+        "place_id": "ChIJX68V3w71wokRM-foLrA13ZM",
+        "plus_code": {
+          "compound_code": "R449+W7 New York, NY, USA",
+          "global_code": "87G8R449+W7"
+        },
+        "reference": "ChIJX68V3w71wokRM-foLrA13ZM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.805634,
+            "lng": -73.878677
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8070113802915,
+              "lng": -73.8773362697085
+            },
+            "southwest": {
+              "lat": 40.8043134197085,
+              "lng": -73.8800342302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ryawa Av/Halleck St",
+        "place_id": "ChIJ-4C7aQ71wokRBu5eTG8-24I",
+        "plus_code": {
+          "compound_code": "R44C+7G New York, NY, USA",
+          "global_code": "87G8R44C+7G"
+        },
+        "rating": 4,
+        "reference": "ChIJ-4C7aQ71wokRBu5eTG8-24I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.807667,
+            "lng": -73.879997
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80902228029149,
+              "lng": -73.8786056197085
+            },
+            "southwest": {
+              "lat": 40.80632431970849,
+              "lng": -73.8813035802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Halleck St/Viele Av",
+        "place_id": "ChIJYbdwqA_1wokRE1wMPZ1u9Ac",
+        "plus_code": {
+          "compound_code": "R45C+32 New York, NY, USA",
+          "global_code": "87G8R45C+32"
+        },
+        "reference": "ChIJYbdwqA_1wokRE1wMPZ1u9Ac",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.806702,
+            "lng": -73.884682
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80810213029149,
+              "lng": -73.8833471697085
+            },
+            "southwest": {
+              "lat": 40.8054041697085,
+              "lng": -73.8860451302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Ave/One Lightning Pl",
+        "place_id": "ChIJES0WPAn1wokRVWp_LtA1xVU",
+        "plus_code": {
+          "compound_code": "R448+M4 New York, NY, USA",
+          "global_code": "87G8R448+M4"
+        },
+        "reference": "ChIJES0WPAn1wokRVWp_LtA1xVU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80689999999999,
+            "lng": -73.884834
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8081937302915,
+              "lng": -73.8834697197085
+            },
+            "southwest": {
+              "lat": 40.8054957697085,
+              "lng": -73.8861676802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Ave/Faile St",
+        "place_id": "ChIJg9tgFgn1wokRgClZOma8GiU",
+        "plus_code": {
+          "compound_code": "R448+Q3 New York, NY, USA",
+          "global_code": "87G8R448+Q3"
+        },
+        "reference": "ChIJg9tgFgn1wokRgClZOma8GiU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80965,
+            "lng": -73.880501
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8110023302915,
+              "lng": -73.87912946970849
+            },
+            "southwest": {
+              "lat": 40.8083043697085,
+              "lng": -73.8818274302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Halleck St/Hunts Point Ave",
+        "place_id": "ChIJrydVhwX1wokRsZTDiTJnNOk",
+        "plus_code": {
+          "compound_code": "R459+VQ New York, NY, USA",
+          "global_code": "87G8R459+VQ"
+        },
+        "reference": "ChIJrydVhwX1wokRsZTDiTJnNOk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.804745,
+            "lng": -73.876053
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8061075802915,
+              "lng": -73.8746810697085
+            },
+            "southwest": {
+              "lat": 40.8034096197085,
+              "lng": -73.87737903029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+        "name": "Food Center Dr/Fulton Fish Market",
+        "place_id": "ChIJh__c7RH1wokRPAU0pVjoHjs",
+        "plus_code": {
+          "compound_code": "R43F+VH New York, NY, USA",
+          "global_code": "87G8R43F+VH"
+        },
+        "reference": "ChIJh__c7RH1wokRPAU0pVjoHjs",
+        "scope": "GOOGLE",
+        "types": [
+          "bus_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80986799999999,
+            "lng": -73.880264
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8112142302915,
+              "lng": -73.87893321970849
+            },
+            "southwest": {
+              "lat": 40.80851626970851,
+              "lng": -73.88163118029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Halleck St/Food Center Dr",
+        "place_id": "ChIJ-UWrgQX1wokR-tAPTCxYy9g",
+        "plus_code": {
+          "compound_code": "R459+WV New York, NY, USA",
+          "global_code": "87G8R459+WV"
+        },
+        "rating": 4,
+        "reference": "ChIJ-UWrgQX1wokR-tAPTCxYy9g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.810036,
+            "lng": -73.880302
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8113814302915,
+              "lng": -73.87897701970849
+            },
+            "southwest": {
+              "lat": 40.80868346970851,
+              "lng": -73.88167498029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Halleck St/Food Center Dr",
+        "place_id": "ChIJZ6pVggX1wokRWTdloyY5CbM",
+        "plus_code": {
+          "compound_code": "R469+2V New York, NY, USA",
+          "global_code": "87G8R469+2V"
+        },
+        "reference": "ChIJZ6pVggX1wokRWTdloyY5CbM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.806206,
+            "lng": -73.888008
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8076029802915,
+              "lng": -73.88665901970849
+            },
+            "southwest": {
+              "lat": 40.8049050197085,
+              "lng": -73.8893569802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Av/Casanova St",
+        "photos": [
+          {
+            "height": 2604,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213\">Jay Kindell</a>"
+            ],
+            "photo_reference": "AU_ZVEFsimrCoXW5k2k0wzaKG4JdKm84f-HCObrm6_71zwftoQ-h4TWvJIy7aDHXaWw3_k6p-ytvKp8TIhr5Asbcz4G-wNgPTxsjzUJ0MzZA90WnV5tVNPLHWa7T_tzIJXZG6_yIOz86m65WAsxrfpP2-ZhS4sdPGXAKvz2hEZFNSjvM8fmJY4vIdDiMQUZeXdB9JYWykdLDV9ZpjomVcETHDbcZn1uE9KY4In8NdA6OZR0v0svvgHzcCdxkO_w0wMUJ-8VoxTWEp7DGgJbh3auk2PHAVeNoHGNZfoPUnIN3tWILNa1mqhy--5k1T68lCssQj9BN0_Coz2Fpeesp9vaNzp0mAnZCK7WzVVJdp9_f91sI2sjMRminoJpQNXDcAASr5jE65aMzEPY04NRLhpuFTNoNwVCLK500FEhK1WOv8DR53GnUTwHvp_b2uxvPkgYLlxPouKs5HVFZqrU1FCHaDFOuY2K1vLM1U3LFZZzYLX5bVM5LpD7WOsmhVXWEqYm79ysBX7ux5d3b2UxEKm918Ora9wyT7_Ub8AFfKvjhW_EuI0IHC6Z9MhXubMZtwmUSp3CaEQ5MGPCH0cLFEzDC1tR0aPb7CIbCFuAU-XIvBW5eK0y6RnMJXEYrkxA8WfCKR4gFWEzk",
+            "width": 3743
+          }
+        ],
+        "place_id": "ChIJyW5z8Qn1wokRu9ua7pLs-Kc",
+        "plus_code": {
+          "compound_code": "R446+FQ New York, NY, USA",
+          "global_code": "87G8R446+FQ"
+        },
+        "rating": 1,
+        "reference": "ChIJyW5z8Qn1wokRu9ua7pLs-Kc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.810089,
+            "lng": -73.876457
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8114715802915,
+              "lng": -73.87511711970849
+            },
+            "southwest": {
+              "lat": 40.8087736197085,
+              "lng": -73.87781508029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+        "name": "Food Center Dr/Terminal",
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101936465617428397132\">Jesus Su\u00e1rez</a>"
+            ],
+            "photo_reference": "AU_ZVEHyqS5AjkDJ72e3kMvcCGKWAoexEAzo_Nixi2MJkBajHtLzsB5v9h75G_1jFmqXvlGdgIjHtTuod82z_yGupl6KMnKlVWq43DPvfans2yw9Chh47yJz3OHeA_CEyjV58vmlgTVZ-Fr8ZB0sGgNa07MWZqENBMA69STmrk18ZKzpTbwx9Etq48BdxPL-u5_YEc0kxilLuBCze8rMcKLb38QAIk_HcWTFqAd7egouW_DeN9mD9lMXhJx1UpUnU1xNoORE_4L5sN6h2FMTOc5A3VojC7I4DLO-OMrC-gAK-hCMaJnfCub30Vs9UYQ9Y1SLF5_32NdF5wEEfe_1sGwgj4qBzPW2orMGZ8k4oCXxrVzTVe3iTA6xRoHQcGL1rdS_EuuM6vv3sco2QviiT_zik4hGGSiDi8PGAoaDd8HeI-zBbVlpk6P7fSFRbaEQkfSWHYOJ9BJ_2BLb-5DFJuQ2BL--dqQZ4dgeg5nzj7KP--gHf19UbvVFv6THHppURdpRvrL6seLKg5TpdpeTJr1YPHnmqPXapSQe3Ydu58Xl9zeKG4rCtRSbZEPtsXa4hgKsXc-IWoG7xwa2YVlrAdZQtOTNfLdBek848nmC4t-EABLKIsR5zDtI07Fk8CU0QlaEvFYBMOJ7",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJj3MrsRr1wokRGfLCJLNdl7w",
+        "plus_code": {
+          "compound_code": "R46F+2C New York, NY, USA",
+          "global_code": "87G8R46F+2C"
+        },
+        "rating": 5,
+        "reference": "ChIJj3MrsRr1wokRGfLCJLNdl7w",
+        "scope": "GOOGLE",
+        "types": [
+          "bus_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.810085,
+            "lng": -73.8764503
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81147238029149,
+              "lng": -73.8751117197085
+            },
+            "southwest": {
+              "lat": 40.80877441970849,
+              "lng": -73.8778096802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Food Center Dr/Baldor",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108443249470480453043\">Angeles R (Im not distracted)</a>"
+            ],
+            "photo_reference": "AU_ZVEH2EH28oTSPN0CTFt4AQV2u_fMIVmlDImxCycCatl0Xb6Kw4R1ggPXr5aeX_X8k6a2KcFuHmnI5-kmWrc7x0rEu-4YsX7Jgz8J6P0Dx8ohpx2OD2794nz8Z-ghoHJSR3XmTSj5dm-ZdcG-QRMkga0bRDMayJhh8jnyJTIh5EfA5LM_8OVL6KmwvTArZZEHNbXDpInMnxEXt8fmcgLcz0VuwXdyjag0KsDUA3juOmpuyh_4qMobc2wJRYML3jpGau_-HLanBahbbWpGAiiMHRRiPS5LLjhqy_Xbu2CeU7r9ibYQWfnV7_xEYfngjsAC6xzYsktNfosBZJJoax0dQRv0Oqdm3rPm7i1KmksKBfWEOFS_SG6x60xNA9sM051iP1wLEpPI6R4jyPtPC3u_zU7pz3Itiy0uyEe-9Gfh-Ej1u--J8A1tPOeKaZ01HEtehFCoi-395kS87OELZaOHOjLP9YZqtsnmlqyCf-huG4oFk6gOnwgsk87Rsuo5-jdw9quBJsdDeMPdtlsChAiD_fALyIPYjAFpQNYhYbWDTU1P84EVGP1SXA7VaIHTyd8sCcexYeZQLxEmavBRG_GLH8DZ5rwq1mTT93Tkvu1F9AzdktsuEq3FIrqOUAbGAvs06IFSfD-BR",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJTynMuRr1wokRtFt19H6VH1I",
+        "plus_code": {
+          "compound_code": "R46F+2C New York, NY, USA",
+          "global_code": "87G8R46F+2C"
+        },
+        "rating": 3.7,
+        "reference": "ChIJTynMuRr1wokRtFt19H6VH1I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.806328,
+            "lng": -73.88855699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8076532302915,
+              "lng": -73.8872015697085
+            },
+            "southwest": {
+              "lat": 40.8049552697085,
+              "lng": -73.8898995302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viele Av/Casanova St",
+        "place_id": "ChIJBefg-gn1wokRZ7ncGxaRLmc",
+        "plus_code": {
+          "compound_code": "R446+GH New York, NY, USA",
+          "global_code": "87G8R446+GH"
+        },
+        "rating": 1,
+        "reference": "ChIJBefg-gn1wokRZ7ncGxaRLmc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.810093,
+            "lng": -73.876076
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8114177802915,
+              "lng": -73.8747214197085
+            },
+            "southwest": {
+              "lat": 40.8087198197085,
+              "lng": -73.8774193802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+        "name": "Food Center Dr/Terminal",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114376610197427481121\">Yam</a>"
+            ],
+            "photo_reference": "AU_ZVEH2StjqVVFoCvsDyPVvaJuvr6KlCH6Mcy0RYsP_XiATYw1lDkr3i_2r-TbX11NkaM5X9C8i1i_atWzVXw0OREceqp41GNxZUr-HR75I46FB4HspWr2QBv4oRUZY5Bt-0Y92Ap8JJox6SkLHImT3j2v6oZkdqT4Yb_8X52r63FABk-5yxXfmNcQZ5mAu49V8et27fbvh41ZWhMu6b6VWHnZUYjYVQ3gTuoSKQin7HKJGOD7PHV6E2-pWCKGUjIL_BRczmqNMrHVs-ouLKv61i9elAz6jcxyO5aD9PKtB3oRawMg_Cq8xpY716swONNedoapeEj8C8iS4K57dcqHPx-_6BM2-1Mhk7j990XnJ0xXCCjeUHa0XCUee6_IODQlhb9Gr0oUMOTvop079N_elQr_sMmgs2umRanP7-jN8fHKL6gVXyKVvXgH9Ex9L3bVtR97_UpuvLdbQrl6WkWDbrCqWoXQTBWMQlD-9FbcEAkf5UzEEOcMbQWbwwF-xpv9MJdnvYCHOeQ-6tpIb9K-xEkbzjnSH8l_X_GWeReWgxbAdj9ffKT0Y695sWBJ5lQlLqBg086T36QHq_i1w2rLBZhI0rrA6JtOZ7n-ZWwKfBpM4XJXSAlIVGereAgyqi92nDMf3yNdf",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJf50tvxr1wokRMraqiuy8IKk",
+        "plus_code": {
+          "compound_code": "R46F+2H New York, NY, USA",
+          "global_code": "87G8R46F+2H"
+        },
+        "reference": "ChIJf50tvxr1wokRMraqiuy8IKk",
+        "scope": "GOOGLE",
+        "types": [
+          "bus_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.803493,
+            "lng": -73.873177
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8047934802915,
+              "lng": -73.8721000197085
+            },
+            "southwest": {
+              "lat": 40.8020955197085,
+              "lng": -73.8747979802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Food Center Dr/Farragut St",
+        "place_id": "ChIJ4bT62RP1wokRvM6JtgvDIlo",
+        "plus_code": {
+          "compound_code": "R43G+9P New York, NY, USA",
+          "global_code": "87G8R43G+9P"
+        },
+        "reference": "ChIJ4bT62RP1wokRvM6JtgvDIlo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.808285,
+            "lng": -73.871674
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8101032802915,
+              "lng": -73.8705738197085
+            },
+            "southwest": {
+              "lat": 40.8074053197085,
+              "lng": -73.8732717802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Food Center Dr/Hunts Point Market",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112270301009427438280\">Anmol Singh virk</a>"
+            ],
+            "photo_reference": "AU_ZVEGuU_tOYjBXqidxx-4Zob7YN1RdGgrvn9_nu25AyAseL9BJSWL1DO0NLKesDJdJTF9Yzx0Hr9rej6qMwJtw84bMevJtauv44L1AtVTNLHI3_i3GQ5Diqk6wLf7jA8LD-si30dSSwjIajqZ5upHwGZ3mVe8AmSpe1TZJnQ-UELZsp5aaAJKL4BLP0COAta-9iqNA9WljvLPdd8Jlqf5-_uXzs9gS_3AHjp6QKnRU2Hu86xXThNCkgRZ2K2TSOZ-HcZRF1yTJMzTaCAoZWc0FHgjA6cIiHPDWSnVMAhW1f1AlcQ8p-LReOPilAfgUEVKxYA6gDiDYp4mem3s261QdQVVnfRvjQkF02lguQemIkBfVEQtETXQPjjoZj-AVh7ept9OYt5OktRvycwvBnLB_9Qz-tSgQTEyQgI21gFbMt8e4R50UYvX6UQuQHo5Vro6JRSZ1_PuFKrlKz1gwdwl1iEKog7LOUTt067SrMkPoGzj253mIhktnGCTtnl3fT99z-gLL7sqqEQpIshN00BU_FThayVqYK70w1bV8wnSLTySMVv7iHF4go1f6v68UbGBeDtOghn1-Vivp9WSfCqjCUQlXOuZ8d9EyAwmgzRjXVpDeRD0o7L2fgKrMSJn756udhu0LHYhZ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJnyQhBBr1wokRYif2OKywd8M",
+        "plus_code": {
+          "compound_code": "R45H+88 New York, NY, USA",
+          "global_code": "87G8R45H+88"
+        },
+        "rating": 4.5,
+        "reference": "ChIJnyQhBBr1wokRYif2OKywd8M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8095395,
+            "lng": -73.890011
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8108842302915,
+              "lng": -73.8886901197085
+            },
+            "southwest": {
+              "lat": 40.8081862697085,
+              "lng": -73.89138808029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tiffany St/Oak Point Av",
+        "place_id": "ChIJN-qPk6f1wokR9lM7_xb1I9Q",
+        "plus_code": {
+          "compound_code": "R455+RX New York, NY, USA",
+          "global_code": "87G8R455+RX"
+        },
+        "reference": "ChIJN-qPk6f1wokR9lM7_xb1I9Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.809322,
+            "lng": -73.890091
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8106454302915,
+              "lng": -73.8889147197085
+            },
+            "southwest": {
+              "lat": 40.80794746970851,
+              "lng": -73.89161268029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tiffany St/Oak Point Av",
+        "place_id": "ChIJhVtylKf1wokR2zewJamSIlo",
+        "plus_code": {
+          "compound_code": "R455+PX New York, NY, USA",
+          "global_code": "87G8R455+PX"
+        },
+        "reference": "ChIJhVtylKf1wokR2zewJamSIlo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.809982,
+            "lng": -73.890022
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8113233802915,
+              "lng": -73.88872336970849
+            },
+            "southwest": {
+              "lat": 40.80862541970851,
+              "lng": -73.8914213302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tiffany St/Oak Point Av",
+        "place_id": "ChIJASGkk6f1wokRYv0Z_u7rgQs",
+        "plus_code": {
+          "compound_code": "R455+XX New York, NY, USA",
+          "global_code": "87G8R455+XX"
+        },
+        "rating": 2,
+        "reference": "ChIJASGkk6f1wokRYv0Z_u7rgQs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81438800000001,
+            "lng": -73.88145399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81573478029149,
+              "lng": -73.88011941970849
+            },
+            "southwest": {
+              "lat": 40.81303681970849,
+              "lng": -73.8828173802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Halleck St/Spofford Av",
+        "photos": [
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112535625294866659763\">Angel Miguel Ureiro</a>"
+            ],
+            "photo_reference": "AU_ZVEE3TM4o-uKsmoafSdBhegOpRmZsux2swGN9u6jqZB5IqPijubBgVix7BDVv5o7NUbSC8PVzDu1rMs1BQLdG9VzmAX2eKOTPYe_ucIg0SyaOAlazxxNQTefK6H83xzpEKVt4h-dpxWI9fjD7gzuDDb0npCRQrWpH2UnFZRSZHE2SC35ORVIqQ0zReWXkXNfxNi1vY1w918zDmB39bCmFaZ1TRS5JfHSE96ZdRIxjxXrFUs0EvURsrZbeGo90ZgdO-CFH7YXcNBvZMqjPqEmCyiWkqxrrh--5xkq08WC3-UhSZVqKsDjgHLh5dFtViLxudXtQMIz3Vz4bIoTWJY2XOhOIuVvDGlUEqE1i2S1xxL3w-0CijqZROHaNEGJ88XrxHNKCHD1XQyLxNa9JsBjO8hf8dfTeaDI0-fqwHKTXHKgke3xm6gf33u_02fuMXeCr5YD5uNw8Y5g0OmegC-RbpwUUGSoUFFOeZLTWJ8kEgm6eOVw1reixcOl3PPjqaFdhKQAyUbeyFyq_MpS-5V6QqUXm48vhGGZ_KXcG5Jbgy6T3lZ2VnpRBgvaemz3BYwS3ArzAvfhT1EWlFS9lEKgPzjUTdKmpj9c2JqylshkHsXMsu-5aL9V__e6-FhXBOPXw6GnfHDoW",
+            "width": 1184
+          }
+        ],
+        "place_id": "ChIJTWKPcgT1wokRUG5fwtAE-G0",
+        "plus_code": {
+          "compound_code": "R479+QC New York, NY, USA",
+          "global_code": "87G8R479+QC"
+        },
+        "rating": 4,
+        "reference": "ChIJTWKPcgT1wokRUG5fwtAE-G0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.814629,
+            "lng": -73.88182100000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8159726802915,
+              "lng": -73.8805104197085
+            },
+            "southwest": {
+              "lat": 40.8132747197085,
+              "lng": -73.8832083802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Halleck St/Spofford Av",
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114560855477567553745\">Klever Vaquilema</a>"
+            ],
+            "photo_reference": "AU_ZVEH8UuN6EBcNXqm0xssljXGuYc7eHZfBOga74IxrN4SjSOJNJb3fZUv7e4MBC_cxQ6GABopxvI4gqRKJjKLRrqheVwwYAoyu0zEva5pI0jRo5iyEhzAcI7H3vIAxL1_W5MxVXL5xb34rYmsoef5zYUW2fxKoYvpdU3197RaszzMe1NINtPkRmNH4B-sGBIGv9Bf1wiT9fqaazXzJdullUqWlgDZ2naL3n0nlt9fSM9BSXAkpWDH0G2DjCx9TTvXG--ojwKIvDVFv3EXnctlTasDMdu_NQ7VQNp8oDrJdbTWjZatd-7_AZNiJqOmB4rjR9w31ctqj1-qrKmz3Ll5N-eo3vCoNuIwXbDeakzRSbpoCdgLPYSan98vGOppihvI1dfND8mtvwpFIKENpzty470nLhfawH7gu_ol8LPv4bP4AIGvVDrYfWfPj42GblXV9L5-mKVCB9KoPsJ9SKL6UNLsmdtyN6u-Qoz4_3JijW516PeF6LcY5RQUrn49_4EPAEr2jsihhn5vhFtuA5DJV-iUvNoFW-K-rkvp9-jvQALHOeOhG0FR2Tq86yTeSc_4EzmG9ut8_tEl8djdJGZATdFkHSqNux4gPYFZHX6ppBg9YZTH1n_kEuPEHSuu8PcpXjJT9SG6mNONWbKN-miwPxC71hAQ",
+            "width": 2296
+          }
+        ],
+        "place_id": "ChIJyyO_8wP1wokRvbE0sCTdMjY",
+        "plus_code": {
+          "compound_code": "R479+V7 New York, NY, USA",
+          "global_code": "87G8R479+V7"
+        },
+        "reference": "ChIJyyO_8wP1wokRvbE0sCTdMjY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81116100000001,
+            "lng": -73.89057199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8125200802915,
+              "lng": -73.88915691970848
+            },
+            "southwest": {
+              "lat": 40.8098221197085,
+              "lng": -73.89185488029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Tiffany St/Randall Av",
+        "place_id": "ChIJB7J9c6j1wokR1Olt5wYBxEk",
+        "plus_code": {
+          "compound_code": "R465+FQ New York, NY, USA",
+          "global_code": "87G8R465+FQ"
+        },
+        "reference": "ChIJB7J9c6j1wokR1Olt5wYBxEk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8062387,
+          "lng": -73.87474350000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8075168302915,
+            "lng": -73.87337336970849
+          },
+          "southwest": {
+            "lat": 40.80481886970851,
+            "lng": -73.87607133029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-542-2900",
+      "name": "Market Place Restaurant Cocktail",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106110156656662782080\">KanZ</a>"
+          ],
+          "photo_reference": "AU_ZVEHxelU-G3XZmOjllgOIF3M3q_hX8ofzHhovWRLTbSinCNjFJXs8kKaFBFSkAQiSjbqpRx4yvjEX9CQ-bbuxCaP2orlaVJJv_n4PH156aF69UCKzOthIBQYX-M9aIm0VhRqFJtgR5EIl6g8vR69afA1ezHvZrxbKnobqorS_p4NgN7m0oNKdm8bq_sHRecJYRTqLTaFvKaaPd5fPiVPzerECdetVr4wGvqPuICTJvP4Zb4Jqi4IX6YbLcG9Q26xRlZ_43YTnm88eXnSI_pVhBpyqtlqFpAMZGW3kvMnLHtraF_SJ_iUzAfw1xM-eaqA8f52dLMm-erTHjA9Fs5_t_Tek_cmpBZQta6ucWK26T7tdbQRhFGy2awumMszq9DrQjSN-pBLEKd8uyjmYMTMm3txlbFqnwLJW9H4pB_gj7mVfSF4OZtNRxnLn0imIq_msYHOPB1VDOlwICSrIxuJh-d6O2jl8ZAWi_bGpwWYRZt716wqI3CSvDN8-mQZAy3oapDVfUdHhG2VtEms3UJZ8WU3ijobGRKfkVzOO4sii6Yfpg4xQKBC4n0_-QWCgzWLiuPwP4IEb-k_6gGGQkdnfyPFRR-9teBU-VyjsJJkWVpAJata7z7PHPDdPheYw_xL-yR-Xjw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+      "plus_code": {
+        "compound_code": "R44G+F4 The Bronx, NY, USA",
+        "global_code": "87G8R44G+F4"
+      },
+      "rating": 4.3,
+      "reference": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 31,
+      "vicinity": "355 Food Center Drive, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8098307,
+          "lng": -73.880663
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8111185302915,
+            "lng": -73.8794388697085
+          },
+          "southwest": {
+            "lat": 40.8084205697085,
+            "lng": -73.8821368302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-542-7340",
+      "name": "Fratilli's Pizza",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100055919976169860852\">Fratilli&#39;s Pizza</a>"
+          ],
+          "photo_reference": "AU_ZVEE4xJa_CgSzlg12r2TRQXtq9dndBg9MWG5mFofVIcROEBRSl7VCjElLNvQJQv9iO3DJ3cCYVT0jfJu6wAb5s14a12L0DxaloDgZ2mnnJMQJe3G7GD-B38oH2hbczHePlugqQV_O6-spCco1tUk83PpbQpmQZYvhFxrAJxVByR1NVADI8gvnUMgAadJxtW15Y5CBJQZewQfUpZR_T-bHjUTkez8zicta2-TPye0e28nfAZLWd3r87X8GBfbleAgpTSt1uNfHMMhWNjOp2KZtQ6PRBwcH4_XQ56jkTRHPHcmt6LvirF84_bqETAS8cDHyDrsL0Nh64jA",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ7xJUhgX1wokRzz0vicS9T_o",
+      "plus_code": {
+        "compound_code": "R459+WP The Bronx, NY, USA",
+        "global_code": "87G8R459+WP"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJ7xJUhgX1wokRzz0vicS9T_o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 756,
+      "vicinity": "404 Hunts Point Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80981079999999,
+          "lng": -73.8806457
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81112193029149,
+            "lng": -73.87920436970849
+          },
+          "southwest": {
+            "lat": 40.80842396970849,
+            "lng": -73.88190233029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-589-7777",
+      "name": "The Point CAFE & GRILL",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115259823485832211078\">Charles Bryant</a>"
+          ],
+          "photo_reference": "AU_ZVEFLlGLoQ9grcs0mrMk9xyoX_pa4L1I01qvI_imERupfbuMwr6cJyGgJbbA1f-p-9A7V5zYqvFus1_FxCpzE4L0NHOv622meWRi1jCYEAv_uFtMoLvM6dFCPSAN_wZ9BdNBQODz5SyA8-gvfa_6STCbqCzhzAsVH4OOHXxyKzjwnsMhLUeW_F3FXdcOV_BeUAew5HEf_MtqJyFUhVLStMIUBfqgOnd10zLeM-BaVLq5HUw8YavAzeGwt-fvaDz1Z37EbXu_BoR9YkSLCH5Vgcu-v4COZU6Bekj4c6XvelOLN3_kqnbZYRE_CWR-dk6ISEjB9EDsprRYHZcfizWgbDqVbopi3SVwp7fkGbPHLYVX6a8Ov3Hl94wR9pzHAlA3TXkirIJp_DgCKAyaZ22pXWloO4gFAK-iluLEPxZ6xIhoVNifbj2b_zxcrCNSFv0N6ipNwcBIfdUgIoBg-Rcp0gn67mTMNrKEHuKkkUGVftNtLIJWMDdfzVvvbbW8NpPvwkgaVvaE00sGlTIEEyu0QsEc4eta8WxKENdsjBENereV5eKFGa7ZAWEo1Ma0G08Ory2vkZwP1BjisftlWT1OX7-763VG4zXu5F1DkWSGynHWRKUdCH0tPVX93lH4pZrJkwhRYL1ZUnJicXM_zWukU2Q",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+      "plus_code": {
+        "compound_code": "R459+WP The Bronx, NY, USA",
+        "global_code": "87G8R459+WP"
+      },
+      "rating": 2.9,
+      "reference": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 7,
+      "vicinity": "402 Hunts Point Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.8109661,
+          "lng": -73.8825006
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8123360302915,
+            "lng": -73.88104181970849
+          },
+          "southwest": {
+            "lat": 40.80963806970851,
+            "lng": -73.88373978029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "RD Caridad",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2778,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115811845845906711590\">RD Caridad</a>"
+          ],
+          "photo_reference": "AU_ZVEEHuatk51g0HT4jhMrS-tF_EmqLWs_v1QRLKY0_Aq5ZksBBo1sXRXP1aHGfKZPXOznsnNEjzf8T3eBHJTt0sJR__hae3g7uWnXfKGFA68NuMhmavFyEA2k1v-MFbcDmH9io_e6jqM05Ugdm4QbDZiZMMoQAoHiDWpO_V05_iQEY1onb2NdjiPzWnrXSlJivDTp5koH2MXBeu6AzPxa6PhCxbMdlICiaJi8aNf100_uuKvPYm6ManXySzxfl-tw38vPrC6nur3N5-SW7O0nHL0g4f8ZUBDWA4wEzVKheY7VQw9GdmrshKEZej9lq6xcq4CyWeBhN0wg",
+          "width": 1284
+        }
+      ],
+      "place_id": "ChIJU8KlNFD1wokRDY8Jmhk4n6U",
+      "plus_code": {
+        "compound_code": "R468+9X The Bronx, NY, USA",
+        "global_code": "87G8R468+9X"
+      },
+      "price_level": 2,
+      "reference": "ChIJU8KlNFD1wokRDY8Jmhk4n6U",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "501 Hunts Point Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80790279999999,
+          "lng": -73.88925979999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80932963029149,
+            "lng": -73.88798981970848
+          },
+          "southwest": {
+            "lat": 40.80663166970849,
+            "lng": -73.89068778029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-328-4400",
+      "name": "Oasis Coffee Shop",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108200544875936853279\">TheMorphies3</a>"
+          ],
+          "photo_reference": "AU_ZVEGmtV5N375RGJUqx5CcH3lLfVnuxw79FhV_mrNRQ21crFKXXz8e-33hlbJSEsXGOSV3hcTDo8o7B_iFE2SQsQN0xmJjtun3qu4Sugtjw1a8SEQGl4QNQIIItoH4-vDvQa8rGCKp8no36sA1tnAuwzb250susSF1e3P9v3rfBj-jXYjl8otxo_sABH2ESI9Mm2Xm0MdLyYLyQn-SvKfGsjiTuOsqzV1Ucw3J0qfgJQUWud4lcMCR0Tr4H2eJlhVtILPwmPnwtze4pYIsBEgeNhIiaLwUEvb0cky_s1n6efJoRGboGcqYSeZ0lAu0iQK3doxn0BK---9tltAqO9Q8m9cKhrvoRNXDgvBb3hExUyDCPd8HpgVtkBG6H_5a23U8d_-qD9Gk-XT1fThlpoSkhELubAK0VgJY1_vXxdcEmfqXSgr7utzSdOdukozlyULxZO3buke4IlpJM1T-UDUdK85DHSbM2a571M5C5rXgy9_WXKq-3scocNIKXexDhzptEm5LDeeRfPJm0Q3cCQb0l-SJjlJBPQ3ARyFsWxhqphMsSr62gfh1GB-vbu9HDKJfU17pxMTIdt0T1S2ZC6KfytYEKOfnfxZuVWXTxhGOfx4b1vQtzJDO3sxDlwRgElPeM_LL3w",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ2b9se6f1wokRUN8kWpFfzN0",
+      "plus_code": {
+        "compound_code": "R456+57 The Bronx, NY, USA",
+        "global_code": "87G8R456+57"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJ2b9se6f1wokRUN8kWpFfzN0",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 117,
+      "vicinity": "390 Tiffany Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81220069999999,
+          "lng": -73.88442239999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8136523302915,
+            "lng": -73.8830987697085
+          },
+          "southwest": {
+            "lat": 40.8109543697085,
+            "lng": -73.8857967302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-328-0343",
+      "name": "Randall Restaurant",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108016484367847006261\">Elizado Felix</a>"
+          ],
+          "photo_reference": "AU_ZVEGpYIO4EB3Tp4b7wtrd3twU1dtKSOb6-vu5OVPvLejVk2LLlHOYhkYknC8a3tvwavybd6qKZyOBtP5xxSTMQUv9ZfOLVxE6leVEIvLOR6pZa6Le3eb3eMv-EyK9MHxpkJDRoChGaetveDneKfNJy792BXdi9Ntr2wzMtpA1YDnEW49ocUBvQoDDUjLM9XFkmD6W6QmZGegTxHeopmJtXGq7u38H5YjjBKPaCHQBto_1PIlQfWtg55gah2Ay1um0e8dnuuiXOkP3ulWbkZJzTPoyqk3Ut4o_cx_sY15Md01wbR0jcyUJ6X7TcrzyvsKj96nynoSJxFZ1I7UBv6mE7xXGsh25PT31zRxn8HipGZ_jci8FazRzfgBB69VZO_FbnDQadTXfiUGbehDU0GqsWAtw185dFa5R3fPvInHNz_7BVcUc3Rvcx2igD65oiPl7jWPheL-uWC5wR7-j3sQ4LiWgkpxcpMPclmVhvqORWdg6MYIsP6ke9UK29DIw7BAmbOzXtJpj_2ZlJr-akb3_yFonHHh62UgvVXVhLMA1_Ncb2_iT8lEzyv8rYQW7ZJH_x6viLbMZ6qmyaX6yfm74TDbqmJ755XbqJKn8wAY-dnJFoZDfK4nukDVHc4UFcCM8ka-oqg",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJMeQ3Zwb1wokRAXVVeEED8KM",
+      "plus_code": {
+        "compound_code": "R468+V6 The Bronx, NY, USA",
+        "global_code": "87G8R468+V6"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJMeQ3Zwb1wokRAXVVeEED8KM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 633,
+      "vicinity": "1328 Randall Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80687200000001,
+          "lng": -73.8721934
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8083707802915,
+            "lng": -73.8711371697085
+          },
+          "southwest": {
+            "lat": 40.80567281970851,
+            "lng": -73.87383513029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 800-783-2569",
+      "name": "New York Prime Beef",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 642,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111172827257648053065\">New York Prime Beef</a>"
+          ],
+          "photo_reference": "AU_ZVEGATNHcZ0sgMTIQlikPzjExXBKv8eyG1rNWt7uYDXT3O6iNH84H3x6BBjPxgdGTzRO2FMWNSQZit003zoBsPNirhCnOXx5siqfR9QpiLmKrwPgxTdvh3bxuXNOEl8CTpykkt57aKyQXIYqPvtRC9DWNeIXEMzDwQ5sBRo5tUpeV0-zJAvEWqPIXS-G0jYJQg3uzHzuWYAFfq06FILZV04FHonAEkeQ1_AO8tayosUCpnNSTy2Ax4VfD1cToKJf1X1t1pwySOOqnpbP8Lg8LhDUaobX6HhYLa98xJIlF7aAuCLuMkgZ_wqTSSa47o5yNkfECLEQf5JE",
+          "width": 528
+        }
+      ],
+      "place_id": "ChIJV196zxD1wokRdTbFEQM16eE",
+      "plus_code": {
+        "compound_code": "R44H+P4 The Bronx, NY, USA",
+        "global_code": "87G8R44H+P4"
+      },
+      "rating": 4,
+      "reference": "ChIJV196zxD1wokRdTbFEQM16eE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 24,
+      "vicinity": "355 Food Center Drive F16, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.81262859999999,
+          "lng": -73.8818564
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8140575802915,
+            "lng": -73.8805277197085
+          },
+          "southwest": {
+            "lat": 40.8113596197085,
+            "lng": -73.8832256802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 917-473-6987",
+      "name": "AA Caridad",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109918890533822542581\">Crisoforo Laureano</a>"
+          ],
+          "photo_reference": "AU_ZVEG1SD4hw7UrB5VRhmwJcxakme3bb153J63XbJG8VXkDj2iFOGP3b6O9ZaZgbI_0hjgT5GjYNgncHlpfdy1tNh1BcqvPal9oOrUVPlLCC3ZGjhm2kZv6Kg5my-nv0QQ--wbZVOlQTfN5WfMiEmWR-3BfSJlLV5sz6SvEIoA6ZWS1YHC6S8MnE6W5UHUKkIqHx9TOoOzLtPZF39NjCzrsYdXEc6-8MXdKQmT8aqi7Moicmiunt7JPfQ8Ld5TgF5IfPmP68WEgaCiuhXNs5j9VojKhv3IYHW0AOJ36cw7KzWxEbdVudyO_L1OTJFypEMPcn-xfQPr6w_aecunMDo9ftzfuZr8HSHFZpZP0q5rMEd0us-OZsHyn4JasrKugjtRAXPYeR6FUvzyFPM7uXZIqjbtifDOaqUBlmMYZr0QZtXRTOtxYSvMibLtkAkIAHIxXGTxf45ZE4xr-uNY9afJv2_3exKeUmvNTKsd1y6RyfFg5a4yxCDlw_cXuOvw0eUULOHdqb5_idt1G039Ovf4CM5dB4d-q-j33_GIUrEF3p1Qmx_xSnxQihkd6KHi4vrny--nBS7YSmz56_MKWn0QYeogV7p5-eOF6EcDoEHF78vNWfiUxamDEbH9NKHpOs0I_fF4w4PMI",
+          "width": 1536
+        }
+      ],
+      "place_id": "ChIJAdmWNgT1wokRk4zKvC8s1-o",
+      "plus_code": {
+        "compound_code": "R479+37 The Bronx, NY, USA",
+        "global_code": "87G8R479+37"
+      },
+      "rating": 5,
+      "reference": "ChIJAdmWNgT1wokRk4zKvC8s1-o",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "1380 Randall Avenue, The Bronx"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.810578,
+          "lng": -73.887663
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81200608029151,
+            "lng": -73.88619946970849
+          },
+          "southwest": {
+            "lat": 40.80930811970851,
+            "lng": -73.88889743029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-381-8952",
+      "name": "Dig Inn Commissary",
+      "permanently_closed": true,
+      "place_id": "ChIJ0_2JCgj1wokRxpXTHIl9zfo",
+      "plus_code": {
+        "compound_code": "R466+6W The Bronx, NY, USA",
+        "global_code": "87G8R466+6W"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ0_2JCgj1wokRxpXTHIl9zfo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 13,
+      "vicinity": "509 Manida Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81220820000001,
+          "lng": -73.8850432
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8135689302915,
+            "lng": -73.88363861970849
+          },
+          "southwest": {
+            "lat": 40.8108709697085,
+            "lng": -73.8863365802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Tropical Restaurant",
+      "place_id": "ChIJRxrsWwb1wokRfTI0RhL2Kxk",
+      "plus_code": {
+        "compound_code": "R467+VX The Bronx, NY, USA",
+        "global_code": "87G8R467+VX"
+      },
+      "reference": "ChIJRxrsWwb1wokRfTI0RhL2Kxk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "587 Bryant Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8126927,
+          "lng": -73.88405170000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8140353302915,
+            "lng": -73.88271346970849
+          },
+          "southwest": {
+            "lat": 40.8113373697085,
+            "lng": -73.8854114302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 934-444-1680",
+      "name": "TAQUERIA EL CEBOLLIN",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107282971758869628386\">ricardo martinez</a>"
+          ],
+          "photo_reference": "AU_ZVEEWofbEUyDpoiFJxoHvy6b8avGOHvn0m-eeGPYRZtyKwLOngJtLqJ0lZbyEvScCSZG-xRs50yJ3oPs4M0F_zn7rmARZZmBa8aWfPuQTQejQSprHatCUg9f5X0dFmoWtkYoA5PuySaQDW21IZx2E6MZ8pH5m2MRPqs3_idHnkHayTVo0vwLWNwB37S1DdV3ZaYXu-0LZrcJMB7Mvg87KKGt8q8XrsXI7tqZMPF5Eny8mc_2bv2AeN4uXEZVAkX4Ede0EiKN7nD2bO1E6qDJNLecknXpELPWVYAAXg3IoORmfvCTibRL88FCt729oe1-L1AtEhRgaboIjJKys78wCfFvV7TzGW5lnd5tSiBfUYOyQwp65yygswFcnRcd642idVZl3I2kUrezPry73uk6gGmUOG9MqGvnQHuiYHVKYg70hXu-u7XdLS7UT2apuPV4Ti7HwK2VNvMRiUBeAz7zAcfSAKUNu4iqODJpg3LtK7nqzV_rcrVgzpVvlloeQk-JibH7H7t89czilcuivBpdkscUhlRyG7dvtUIPYDOHKbiM6PjvCO11PqA16MeZ78Lsew9HAnwAofucDM7cvnGTUbVi34k_D0gcr21ZP8WfAh8WUm3dUxMutQ8rLpExllqBscYfnD98eXu9B4jAv7h6mcW8f2P4",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJiY2fdAD1wokRwAXXk893gBI",
+      "plus_code": {
+        "compound_code": "R478+39 The Bronx, NY, USA",
+        "global_code": "87G8R478+39"
+      },
+      "rating": 4.6,
+      "reference": "ChIJiY2fdAD1wokRwAXXk893gBI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 20,
+      "vicinity": "600 Hunts Point Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80979989999999,
+          "lng": -73.8899304
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8112140302915,
+            "lng": -73.8886731697085
+          },
+          "southwest": {
+            "lat": 40.8085160697085,
+            "lng": -73.8913711302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-930-0053",
+      "name": "Cafe Italia",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109058931185351093038\">Janis Dh</a>"
+          ],
+          "photo_reference": "AU_ZVEEUAmFWQ6Qa-bY25zPO96zwBI1dxx6Rztb0FmuX1zphMPoFQED0xBNrzEgS1w1hs5UZpbWhUo_qvSJxmMZeOfAMkc95ds0gYUPrp5K6S392AOY2Y-xu_NwaEFblTkhVB_0jFypL0-XNZ9k-sIAl8-sSlwNW_vXujGCwZFew9qpRnRVQ044poUeUJdplvMPYiruZa3eZux64nbHdzyDbn1Y_IsQdDEk1qsyQbZmM6ZEpplzKqeb5QmnAK-dMCEMzuo7aUUNERGQBS_S6kE6DTQaHvqj6LfPrgWkgRam2hgIhD4qzQCR2zC9n_JR9n4apH18GwmWLq3bLn96WAO4FbNQupMiD7jEp-KFlgCrT4WyYe-uNCW1hs54P5iFoh59TYgGSlQPG1hIHGzbzybfvRC5YULRi0grpFFF3j7uiMJuFj3eOASxwDtmSmo_UkBtnDdCdLTnWkrLBU2AdlyYV0QnY30_bzxFOP0Y55hM_B7IQ7j-In6mYufnN0Qb8c0BaAh8yXs8sZEiIRvDdMmTe1f3m1rowUaGTdsJx-BdBz_uMo4hGl7c9lu-PEQrTeuWjSZfmarwIeOuoMlM7O9M4PZVFs6Ma3HNLicig6MRSpreHTlB0jBMwUbndcZmeH940mJbPB_GIwB5wrsDef_SMvajXCqc",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+      "plus_code": {
+        "compound_code": "R456+W2 The Bronx, NY, USA",
+        "global_code": "87G8R456+W2"
+      },
+      "price_level": 1,
+      "rating": 4.8,
+      "reference": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "bar",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 41,
+      "vicinity": "500 Tiffany Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8117387,
+          "lng": -73.88810200000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81314503029149,
+            "lng": -73.88676776970851
+          },
+          "southwest": {
+            "lat": 40.81044706970849,
+            "lng": -73.88946573029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "EL CEBOLLIN Taqueria",
+      "place_id": "ChIJ91Z8PAD1wokR-daKpjv_4Sw",
+      "plus_code": {
+        "compound_code": "R466+MQ The Bronx, NY, USA",
+        "global_code": "87G8R466+MQ"
+      },
+      "reference": "ChIJ91Z8PAD1wokR-daKpjv_4Sw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Randall Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81335989999999,
+          "lng": -73.8850224
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81480008029149,
+            "lng": -73.88365586970849
+          },
+          "southwest": {
+            "lat": 40.81210211970849,
+            "lng": -73.8863538302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-893-4466",
+      "name": "Diamond Club",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1973,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100679471822603617126\">Diamond Club</a>"
+          ],
+          "photo_reference": "AU_ZVEEo6pqzD4YfxGPVtsA3_KEWr7biXglqYUiJEMDpynAilnBqYzTsxNceaGfrS2N2xTtfGZrCLnt4oDJpj_uOAYXKFUpJ_Csv-pfDh2ryQRNdVqaYm_RQWeISLqnitb6PLfxGGjvZjw5kHArbRFoj526MRJ9Xfgqx2AO5_Clvm3GshYwp409kNG4iYGYW6ZTTsXlbbjufmC4QNRHxFn5SwWsEAF7QTkAToyIBL6qNeiSegNK2BDR-IzpsOY7tAOJxuewtXKfHob_yKd5wKl_SN6Qeb8pBdJwP6e-9fmBnSbdAQ9peJj6TAOujqox24zywyY3EFrhv1Cw",
+          "width": 3515
+        }
+      ],
+      "place_id": "ChIJk8XlvmX1wokRZC0e90Lw8js",
+      "plus_code": {
+        "compound_code": "R477+8X The Bronx, NY, USA",
+        "global_code": "87G8R477+8X"
+      },
+      "rating": 3.3,
+      "reference": "ChIJk8XlvmX1wokRZC0e90Lw8js",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 48,
+      "vicinity": "673 Hunts Point Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8114802,
+          "lng": -73.8889958
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8129514802915,
+            "lng": -73.8876361697085
+          },
+          "southwest": {
+            "lat": 40.8102535197085,
+            "lng": -73.8903341302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-860-2330",
+      "name": "JOHNNY'S CAFE",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2034,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107880496541900714702\">Geovanny</a>"
+          ],
+          "photo_reference": "AU_ZVEGYuDokKmA5SBJhqES7kZsnrRpLARI1-iGuSu2IWzllySc5m7EgRUt3B8VcyS4o8jsK724GwxadxTTUruckQ7ZizTzqlbv-INHhcwsbkaB1VArtAFHFSRWPAaznK_zRbOtfN-bofljc59bdHkJqW0X_mmiqryU9Ye7AUtSusHEFOUrR-gbXsIHRjm462xD7IjR3YNO4jSenjnaI-i1U-FvoJgn8SPV_GMhnIaAMbt5ousMG_xDdO3OZEQyw29jCiEB5YRehRkiYsXs2tBOlHUj9F7XgzDgRXSfQR1LBvkTAWBh488yyI5DFhPl9_X757xV0PiHg754HW3Oo1U0YfEsYpQadfR5Iw8UYL-EvSq2GapzxcolGNQvyrsmvXJvsyO5BGHLwk-ENC5RkPyjsol6KopUM1zJCnnCLgJBwz1noh31K5LhjU_IaGA8L1EFEX4g6b27GRkk8XutrsQnSJKC1xYTpPZoRNnyDAcPijxKxfFhpfdM1eU1HDuTgqS6IWJOoV4yVLrRs3Gwu_Ac-lPsALWLaFZWp_gGPzZUbju9pGgmvI9t8mOzGP_y0xN7w8RVu4I2enveA-5XZba4DjBoPpC5HzsNOLGX7XCkLM5LTk-VO6cCZFtgImTG5CxqzBvFtWED5sistGLL-Y2KAst4TsOY",
+          "width": 3618
+        }
+      ],
+      "place_id": "ChIJw7dG4tv1wokRpJ4jxfc0kOM",
+      "plus_code": {
+        "compound_code": "R466+HC The Bronx, NY, USA",
+        "global_code": "87G8R466+HC"
+      },
+      "price_level": 1,
+      "rating": 4.6,
+      "reference": "ChIJw7dG4tv1wokRpJ4jxfc0kOM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 71,
+      "vicinity": "1232 Randall Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8146982,
+          "lng": -73.88144969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8160554802915,
+            "lng": -73.88006741970848
+          },
+          "southwest": {
+            "lat": 40.8133575197085,
+            "lng": -73.88276538029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-378-4045",
+      "name": "Point Terminal Foods Inc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "place_id": "ChIJxdWrwNT1wokRrpwRH0Gs2Vk",
+      "plus_code": {
+        "compound_code": "R479+VC The Bronx, NY, USA",
+        "global_code": "87G8R479+VC"
+      },
+      "rating": 4.2,
+      "reference": "ChIJxdWrwNT1wokRrpwRH0Gs2Vk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "300 Hunts Point Terminal Market, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8140437,
+          "lng": -73.877646
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8153524302915,
+            "lng": -73.8765355197085
+          },
+          "southwest": {
+            "lat": 40.8126544697085,
+            "lng": -73.8792334802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 347-489-5188",
+      "name": "Marketa NY",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104368381504709667291\">Kasi Tapia</a>"
+          ],
+          "photo_reference": "AU_ZVEEYRSazwtZMAZT1BNbo8tfphDhH6qrMUy7Rc6cXvGkbJnucsNt8ZxWTHd9ue-m2fnZtTO9ppn3Zbvtfcl6T5WzbI4o1A3hXrRqT5-p9AnSQmPah4jzU35WxlDieC3oFc1UwUl5YbucvsjoRwT8v-hYORKH8f7lZ08fEiIHQhSa__ZU_aulTNIHE7k4dJ2p8gcEM2Z6Xhjn6IQBSeysQP_nO0IDIylitqA3PLPo2uX5A7bWoX8U0thNDuf_Z1xfmqVNL5GdBlpUN7jOOuE4y5j8xt_aaLbmxzO6XlDhVMfWF_gWabBu9jlWTvQzxRsktzHzpumMwWLgkQB7cxSbOTwXt3yM1LZJMcRiymxRS0ogyYEXy13EjXjBYiPffvnBZYBK9O4yIq2s_oTLdWu_7bnFLK5RtjDrM9x8OQjL57PzY0X2jYen6CrLIujAXUOAugEoxU9C09yEDZSnTJvETOKmq9aCNH74YtROKNZz-oJTHjNPDCFRDdqO7N9EJmJbb-TqHXbe_3k6A-SVvjA1UZhqF3iYTCH6OkOkzBRDUQFMYmtkO1-vrzZhSgdGQ5Dyk6UyGZ18XvCGb5rBlQPe5dOcYYucIUWMX_2nAwfOdvgoIVXxyUxvnCG4PMZ4N2XbjmOqUlZDb",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJr4fxegL1wokR5ykhRenXB5s",
+      "plus_code": {
+        "compound_code": "R47C+JW The Bronx, NY, USA",
+        "global_code": "87G8R47C+JW"
+      },
+      "rating": 3.9,
+      "reference": "ChIJr4fxegL1wokR5ykhRenXB5s",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "row A 130, 138 Hunts Point Co Op Market, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80558930000001,
+          "lng": -73.8882407
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80729538029151,
+            "lng": -73.8868807197085
+          },
+          "southwest": {
+            "lat": 40.80459741970851,
+            "lng": -73.8895786802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Barretto Point Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1598,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104556885819988753174\">Barretto Point Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGNIE1Okj2IE9Ia-xCUpzjEx8uHIp6PZmMxoTW0Tm83py4jJEg4XzxI2165smqFbuopCONz4eRu2Z7fYzY2Q5T6heNs7iYgO-vDWDR_TH5jIZ6UO-iqpE4-yx6aXQPs1dr_4oDXeKf8cZsMdMAfomN5ZH4P_4CJx7KZ1LF4r8lyYMyVIAUquN9t9F_nfGqE98I_zKdoxq1InnfGuFDAWktoVIpaIKCE94SuVch_zL9C9lOmzbGrC6lwbbYK152xGIYNF3trMFz8yYs0q41NueMwOMsaHwAFPKZs7dJZ20U00ttRZM9YkELYmMwid7WSmiO6N2ceOgY",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJLXTOHAr1wokRlxL_AUATemc",
+      "plus_code": {
+        "compound_code": "R446+6P The Bronx, NY, USA",
+        "global_code": "87G8R446+6P"
+      },
+      "rating": 4.5,
+      "reference": "ChIJLXTOHAr1wokRlxL_AUATemc",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1497,
+      "vicinity": "Viele Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8103014,
+          "lng": -73.88247989999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81183548029149,
+            "lng": -73.88089846970848
+          },
+          "southwest": {
+            "lat": 40.8091375197085,
+            "lng": -73.8835964302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Joseph Rodman Drake Park & Enslaved African Burial Ground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105127124759504524439\">Joseph Rodman Drake Park &amp; Enslaved African Burial Ground</a>"
+          ],
+          "photo_reference": "AU_ZVEHsoLG9DFbFnTmzBKOb0tokgZtp9rdO0Ki-zBoouWbYE-VabuLbxTt7OBrhsLDRo7lAcCyXcdF8AZYc2SJZ4m9yOnpNTAXDpFLqKZJGBQx-kb7kLweLXCHUlfSvaKDnplP0xhTnXifYfE1mQHvgaWxdYt459K6jJJUB6mvlCkCYhnkMfORnCKBhHeynBkZxMUOT6mBpP75rMRL2ckvCe0h_C26hAEzY_sQVP6_cYd1LY1TyljFXbuaZ5rBjK5Jxsl_GUyeIT_ExeRx6v7VqpATWYFzQlUezmTmYp54BxUtq4NoQqggkAHFQQDjLHC9bLuvVdr_DrW8",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJlfFt-gX1wokRU0itVq0nsds",
+      "plus_code": {
+        "compound_code": "R469+42 The Bronx, NY, USA",
+        "global_code": "87G8R469+42"
+      },
+      "rating": 4.4,
+      "reference": "ChIJlfFt-gX1wokRU0itVq0nsds",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 47,
+      "vicinity": "Drake Park South &, Hunts Point Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8054624,
+          "lng": -73.8896572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8071656802915,
+            "lng": -73.88805306970849
+          },
+          "southwest": {
+            "lat": 40.80446771970851,
+            "lng": -73.8907510302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Tiffany Street Pier",
+      "photos": [
+        {
+          "height": 1800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106713783422877283330\">Tiffany Street Pier</a>"
+          ],
+          "photo_reference": "AU_ZVEHUtip4plowyg561lLMcfjW2H-PA8-mSuagtkvGLUf6I4UxGUOjILtt2GJoabq5XIOYVGZUU7R5RUvwTrASq5JEoIJFZOtzfGp66PHVa-OcFraZhZENoGajkb4NTQ_mhmXqKGYE3iWkevMvQIoEsNk7JmboRTixhkLP_jVvKKg6rBCW2GQylo_0EYDxOqfNrCYWXrQ6wpHHNNOnq4dDuFNV8e5tJS_fjhBWuhgMN3p1nmRg5vTuhcTgs9kh1ojE1zKMSzpqdvmc4kPSiIFkqPb234ouxnrhSeZUDublnsWXKyVlOZdSf6O-GgP-HhHq9TMwf_Jpupc",
+          "width": 2704
+        }
+      ],
+      "place_id": "ChIJ-YtvsKD1wokR9YAqlPyTeH0",
+      "plus_code": {
+        "compound_code": "R446+54 The Bronx, NY, USA",
+        "global_code": "87G8R446+54"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ-YtvsKD1wokR9YAqlPyTeH0",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 65,
+      "vicinity": "Tiffany St &, Viele Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8023003,
+          "lng": -73.8724486
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8038629302915,
+            "lng": -73.8715038197085
+          },
+          "southwest": {
+            "lat": 40.8011649697085,
+            "lng": -73.8742017802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hunts Point Landing",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3472,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110736931008679786513\">Urban Kayak Photos</a>"
+          ],
+          "photo_reference": "AU_ZVEGVir8wOCipV24R4ICz_W3Rz2AaiiNqg6plbZWwTR21RQRHfF49wCGzBljy2ZULRKWbmQWaBYyTLb94NlhKGq3MtBpvfR-rgNX-omZ5lx5uq0IGaKC1ZyRQvLtXtqov7Hl7QN0Io6-KUTjjfR06ol8mEnXHNHWy_-wQRYU_P5Ai06peM-E_DfEiCQA67SlU-k540sjjyK_2-_Hnm_A2uTQPV3B9u6i1mqQYrQCd3hOEOKzm4sGwEuZ_9-mxkXjQyR-7K4PVir2IrwUrl3ORUd1XUYcLdaNe7Q9dszq5hI_HV0bwHVx0pDAshldRjfo17v9s2iQkC2a6AmdDAow3EXJZXZzqeVkitPmVv1n6bJHJMIZ7sZm6yvkHFhmUoS606MolZl0U7a2oSK8sBNwiFyv6Rd_KfNqGn8EVoWPPDxtmlOJNZqQr-pOyBjNgpj-q64x7WYKhYc20ePb61G3_ZrZpzclGT5K2B-9ScJTtDvzllRSJCxN4lAsjH79S7kd5HtT0hfu92jmYxgGI1Dr5M2Us2TM8mMyyW30FIvrFmJ7J6dCE7mwJjluptOV6nZziYLHY2f3kRH5k5UOPAbsXosBlDiAdo4N677_Elv0ONgHX1Cofs8Dqvded5ocq6OQKyPeYjw",
+          "width": 4624
+        }
+      ],
+      "place_id": "ChIJ073evRP1wokR-TvO8Teka0w",
+      "plus_code": {
+        "compound_code": "R42H+W2 The Bronx, NY, USA",
+        "global_code": "87G8R42H+W2"
+      },
+      "rating": 4.3,
+      "reference": "ChIJ073evRP1wokR-TvO8Teka0w",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "2 Farragut Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8074561,
+          "lng": -73.8835663
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8087960302915,
+            "lng": -73.8822159197085
+          },
+          "southwest": {
+            "lat": 40.8060980697085,
+            "lng": -73.8849138802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Dumpsters by Danna",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100195724309730135521\">Carlos Flores</a>"
+          ],
+          "photo_reference": "AU_ZVEGgpRL_9uiOOPFcvmllZK-4XzsMzqfUj_RvYaDwEE1PluCnnWbmmIRtHkGMs9MsFtXaHsWrnVmJGeYh6w352jHnzNzifgIBjGH7LcohehVowbKXhD1-C4Mz0fLIRMvLdBzMOOO4ajwJN6-WV7jPnRdO6M9pdOJiW1buoCbzOqhjakcZsji6QJtzxTuv7j9DKoMWCqYk4BgXKwaQGKciqUX_Gh1OpRSjQ5t-3KH7e0ZnCjxH4lWkIRgu_3a1WpjkAyQcOEWXy7XrTEi4n9GE4EUZuWCWFc8ayBtqll7igUT6-nUqr2ylzyj25vxJsHomIttgywh6AySBVncAFSTzeC26IZA2yoQZFeJbw9_ibCk9X3WFZ84iFQnHBzNY9L3JGQYk_ax6170RGMVGqVLjIiRCm8uuFaW1nphgiL4wbyX6mLSezRgz4dSh7qLMTjJQ7aQRN7SwV7ITMHbzQ6opA2uLf12lNazDtDr3oIIetFPIx_yu269dfxAVg_Tc5CvJhPTiq1UiVT8nCgzEVIeBFpjL7UsoxSXyknBTHzkuEqmTMLGNwvCqi1giV8FLMbneuHUnT1xA_yKRBc-AVgdVGfyzHiAZMyIIv2bzP5rI3U217RtI9NPMYrXVsmaHx0Ac3pxuWxyL",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJH9UVKgn1wokR8Pu18J98zKs",
+      "plus_code": {
+        "compound_code": "R448+XH The Bronx, NY, USA",
+        "global_code": "87G8R448+XH"
+      },
+      "rating": 4.2,
+      "reference": "ChIJH9UVKgn1wokR8Pu18J98zKs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 21,
+      "vicinity": "318 Bryant Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8068125,
+          "lng": -73.884655
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8081925802915,
+            "lng": -73.8833146197085
+          },
+          "southwest": {
+            "lat": 40.8054946197085,
+            "lng": -73.8860125802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Av/Faile St",
+      "place_id": "ChIJr6rYFQn1wokRLSZ5xa41Z68",
+      "plus_code": {
+        "compound_code": "R448+P4 New York, NY, USA",
+        "global_code": "87G8R448+P4"
+      },
+      "reference": "ChIJr6rYFQn1wokRLSZ5xa41Z68",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.806257,
+          "lng": -73.88815699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80763158029151,
+            "lng": -73.8867854697085
+          },
+          "southwest": {
+            "lat": 40.80493361970851,
+            "lng": -73.8894834302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Av/Casanova St",
+      "place_id": "ChIJu2Fk8An1wokRg8U4WTpkKt4",
+      "plus_code": {
+        "compound_code": "R446+GP New York, NY, USA",
+        "global_code": "87G8R446+GP"
+      },
+      "reference": "ChIJu2Fk8An1wokRg8U4WTpkKt4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80714,
+          "lng": -73.88192
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8085228302915,
+            "lng": -73.88058031970849
+          },
+          "southwest": {
+            "lat": 40.8058248697085,
+            "lng": -73.8832782802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Av/Whittier St",
+      "place_id": "ChIJO4LF3g71wokRa63kSNJ_izU",
+      "plus_code": {
+        "compound_code": "R449+V6 New York, NY, USA",
+        "global_code": "87G8R449+V6"
+      },
+      "reference": "ChIJO4LF3g71wokRa63kSNJ_izU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80725100000001,
+          "lng": -73.881866
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80859993029149,
+            "lng": -73.88051701970849
+          },
+          "southwest": {
+            "lat": 40.80590196970849,
+            "lng": -73.8832149802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Av/Whittier St",
+      "place_id": "ChIJX68V3w71wokRM-foLrA13ZM",
+      "plus_code": {
+        "compound_code": "R449+W7 New York, NY, USA",
+        "global_code": "87G8R449+W7"
+      },
+      "reference": "ChIJX68V3w71wokRM-foLrA13ZM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.805634,
+          "lng": -73.878677
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8070113802915,
+            "lng": -73.8773362697085
+          },
+          "southwest": {
+            "lat": 40.8043134197085,
+            "lng": -73.8800342302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Ryawa Av/Halleck St",
+      "place_id": "ChIJ-4C7aQ71wokRBu5eTG8-24I",
+      "plus_code": {
+        "compound_code": "R44C+7G New York, NY, USA",
+        "global_code": "87G8R44C+7G"
+      },
+      "rating": 4,
+      "reference": "ChIJ-4C7aQ71wokRBu5eTG8-24I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.807667,
+          "lng": -73.879997
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80902228029149,
+            "lng": -73.8786056197085
+          },
+          "southwest": {
+            "lat": 40.80632431970849,
+            "lng": -73.8813035802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Halleck St/Viele Av",
+      "place_id": "ChIJYbdwqA_1wokRE1wMPZ1u9Ac",
+      "plus_code": {
+        "compound_code": "R45C+32 New York, NY, USA",
+        "global_code": "87G8R45C+32"
+      },
+      "reference": "ChIJYbdwqA_1wokRE1wMPZ1u9Ac",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.806702,
+          "lng": -73.884682
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80810213029149,
+            "lng": -73.8833471697085
+          },
+          "southwest": {
+            "lat": 40.8054041697085,
+            "lng": -73.8860451302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Ave/One Lightning Pl",
+      "place_id": "ChIJES0WPAn1wokRVWp_LtA1xVU",
+      "plus_code": {
+        "compound_code": "R448+M4 New York, NY, USA",
+        "global_code": "87G8R448+M4"
+      },
+      "reference": "ChIJES0WPAn1wokRVWp_LtA1xVU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80689999999999,
+          "lng": -73.884834
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8081937302915,
+            "lng": -73.8834697197085
+          },
+          "southwest": {
+            "lat": 40.8054957697085,
+            "lng": -73.8861676802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Ave/Faile St",
+      "place_id": "ChIJg9tgFgn1wokRgClZOma8GiU",
+      "plus_code": {
+        "compound_code": "R448+Q3 New York, NY, USA",
+        "global_code": "87G8R448+Q3"
+      },
+      "reference": "ChIJg9tgFgn1wokRgClZOma8GiU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80965,
+          "lng": -73.880501
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8110023302915,
+            "lng": -73.87912946970849
+          },
+          "southwest": {
+            "lat": 40.8083043697085,
+            "lng": -73.8818274302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Halleck St/Hunts Point Ave",
+      "place_id": "ChIJrydVhwX1wokRsZTDiTJnNOk",
+      "plus_code": {
+        "compound_code": "R459+VQ New York, NY, USA",
+        "global_code": "87G8R459+VQ"
+      },
+      "reference": "ChIJrydVhwX1wokRsZTDiTJnNOk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.804745,
+          "lng": -73.876053
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8061075802915,
+            "lng": -73.8746810697085
+          },
+          "southwest": {
+            "lat": 40.8034096197085,
+            "lng": -73.87737903029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Food Center Dr/Fulton Fish Market",
+      "place_id": "ChIJh__c7RH1wokRPAU0pVjoHjs",
+      "plus_code": {
+        "compound_code": "R43F+VH New York, NY, USA",
+        "global_code": "87G8R43F+VH"
+      },
+      "reference": "ChIJh__c7RH1wokRPAU0pVjoHjs",
+      "scope": "GOOGLE",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80986799999999,
+          "lng": -73.880264
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8112142302915,
+            "lng": -73.87893321970849
+          },
+          "southwest": {
+            "lat": 40.80851626970851,
+            "lng": -73.88163118029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Halleck St/Food Center Dr",
+      "place_id": "ChIJ-UWrgQX1wokR-tAPTCxYy9g",
+      "plus_code": {
+        "compound_code": "R459+WV New York, NY, USA",
+        "global_code": "87G8R459+WV"
+      },
+      "rating": 4,
+      "reference": "ChIJ-UWrgQX1wokR-tAPTCxYy9g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.810036,
+          "lng": -73.880302
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8113814302915,
+            "lng": -73.87897701970849
+          },
+          "southwest": {
+            "lat": 40.80868346970851,
+            "lng": -73.88167498029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Halleck St/Food Center Dr",
+      "place_id": "ChIJZ6pVggX1wokRWTdloyY5CbM",
+      "plus_code": {
+        "compound_code": "R469+2V New York, NY, USA",
+        "global_code": "87G8R469+2V"
+      },
+      "reference": "ChIJZ6pVggX1wokRWTdloyY5CbM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.806206,
+          "lng": -73.888008
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8076029802915,
+            "lng": -73.88665901970849
+          },
+          "southwest": {
+            "lat": 40.8049050197085,
+            "lng": -73.8893569802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Av/Casanova St",
+      "photos": [
+        {
+          "height": 2604,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213\">Jay Kindell</a>"
+          ],
+          "photo_reference": "AU_ZVEFsimrCoXW5k2k0wzaKG4JdKm84f-HCObrm6_71zwftoQ-h4TWvJIy7aDHXaWw3_k6p-ytvKp8TIhr5Asbcz4G-wNgPTxsjzUJ0MzZA90WnV5tVNPLHWa7T_tzIJXZG6_yIOz86m65WAsxrfpP2-ZhS4sdPGXAKvz2hEZFNSjvM8fmJY4vIdDiMQUZeXdB9JYWykdLDV9ZpjomVcETHDbcZn1uE9KY4In8NdA6OZR0v0svvgHzcCdxkO_w0wMUJ-8VoxTWEp7DGgJbh3auk2PHAVeNoHGNZfoPUnIN3tWILNa1mqhy--5k1T68lCssQj9BN0_Coz2Fpeesp9vaNzp0mAnZCK7WzVVJdp9_f91sI2sjMRminoJpQNXDcAASr5jE65aMzEPY04NRLhpuFTNoNwVCLK500FEhK1WOv8DR53GnUTwHvp_b2uxvPkgYLlxPouKs5HVFZqrU1FCHaDFOuY2K1vLM1U3LFZZzYLX5bVM5LpD7WOsmhVXWEqYm79ysBX7ux5d3b2UxEKm918Ora9wyT7_Ub8AFfKvjhW_EuI0IHC6Z9MhXubMZtwmUSp3CaEQ5MGPCH0cLFEzDC1tR0aPb7CIbCFuAU-XIvBW5eK0y6RnMJXEYrkxA8WfCKR4gFWEzk",
+          "width": 3743
+        }
+      ],
+      "place_id": "ChIJyW5z8Qn1wokRu9ua7pLs-Kc",
+      "plus_code": {
+        "compound_code": "R446+FQ New York, NY, USA",
+        "global_code": "87G8R446+FQ"
+      },
+      "rating": 1,
+      "reference": "ChIJyW5z8Qn1wokRu9ua7pLs-Kc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.810089,
+          "lng": -73.876457
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8114715802915,
+            "lng": -73.87511711970849
+          },
+          "southwest": {
+            "lat": 40.8087736197085,
+            "lng": -73.87781508029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Food Center Dr/Terminal",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101936465617428397132\">Jesus Su\u00e1rez</a>"
+          ],
+          "photo_reference": "AU_ZVEHyqS5AjkDJ72e3kMvcCGKWAoexEAzo_Nixi2MJkBajHtLzsB5v9h75G_1jFmqXvlGdgIjHtTuod82z_yGupl6KMnKlVWq43DPvfans2yw9Chh47yJz3OHeA_CEyjV58vmlgTVZ-Fr8ZB0sGgNa07MWZqENBMA69STmrk18ZKzpTbwx9Etq48BdxPL-u5_YEc0kxilLuBCze8rMcKLb38QAIk_HcWTFqAd7egouW_DeN9mD9lMXhJx1UpUnU1xNoORE_4L5sN6h2FMTOc5A3VojC7I4DLO-OMrC-gAK-hCMaJnfCub30Vs9UYQ9Y1SLF5_32NdF5wEEfe_1sGwgj4qBzPW2orMGZ8k4oCXxrVzTVe3iTA6xRoHQcGL1rdS_EuuM6vv3sco2QviiT_zik4hGGSiDi8PGAoaDd8HeI-zBbVlpk6P7fSFRbaEQkfSWHYOJ9BJ_2BLb-5DFJuQ2BL--dqQZ4dgeg5nzj7KP--gHf19UbvVFv6THHppURdpRvrL6seLKg5TpdpeTJr1YPHnmqPXapSQe3Ydu58Xl9zeKG4rCtRSbZEPtsXa4hgKsXc-IWoG7xwa2YVlrAdZQtOTNfLdBek848nmC4t-EABLKIsR5zDtI07Fk8CU0QlaEvFYBMOJ7",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJj3MrsRr1wokRGfLCJLNdl7w",
+      "plus_code": {
+        "compound_code": "R46F+2C New York, NY, USA",
+        "global_code": "87G8R46F+2C"
+      },
+      "rating": 5,
+      "reference": "ChIJj3MrsRr1wokRGfLCJLNdl7w",
+      "scope": "GOOGLE",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.810085,
+          "lng": -73.8764503
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81147238029149,
+            "lng": -73.8751117197085
+          },
+          "southwest": {
+            "lat": 40.80877441970849,
+            "lng": -73.8778096802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Food Center Dr/Baldor",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108443249470480453043\">Angeles R (Im not distracted)</a>"
+          ],
+          "photo_reference": "AU_ZVEH2EH28oTSPN0CTFt4AQV2u_fMIVmlDImxCycCatl0Xb6Kw4R1ggPXr5aeX_X8k6a2KcFuHmnI5-kmWrc7x0rEu-4YsX7Jgz8J6P0Dx8ohpx2OD2794nz8Z-ghoHJSR3XmTSj5dm-ZdcG-QRMkga0bRDMayJhh8jnyJTIh5EfA5LM_8OVL6KmwvTArZZEHNbXDpInMnxEXt8fmcgLcz0VuwXdyjag0KsDUA3juOmpuyh_4qMobc2wJRYML3jpGau_-HLanBahbbWpGAiiMHRRiPS5LLjhqy_Xbu2CeU7r9ibYQWfnV7_xEYfngjsAC6xzYsktNfosBZJJoax0dQRv0Oqdm3rPm7i1KmksKBfWEOFS_SG6x60xNA9sM051iP1wLEpPI6R4jyPtPC3u_zU7pz3Itiy0uyEe-9Gfh-Ej1u--J8A1tPOeKaZ01HEtehFCoi-395kS87OELZaOHOjLP9YZqtsnmlqyCf-huG4oFk6gOnwgsk87Rsuo5-jdw9quBJsdDeMPdtlsChAiD_fALyIPYjAFpQNYhYbWDTU1P84EVGP1SXA7VaIHTyd8sCcexYeZQLxEmavBRG_GLH8DZ5rwq1mTT93Tkvu1F9AzdktsuEq3FIrqOUAbGAvs06IFSfD-BR",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJTynMuRr1wokRtFt19H6VH1I",
+      "plus_code": {
+        "compound_code": "R46F+2C New York, NY, USA",
+        "global_code": "87G8R46F+2C"
+      },
+      "rating": 3.7,
+      "reference": "ChIJTynMuRr1wokRtFt19H6VH1I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.806328,
+          "lng": -73.88855699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8076532302915,
+            "lng": -73.8872015697085
+          },
+          "southwest": {
+            "lat": 40.8049552697085,
+            "lng": -73.8898995302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Viele Av/Casanova St",
+      "place_id": "ChIJBefg-gn1wokRZ7ncGxaRLmc",
+      "plus_code": {
+        "compound_code": "R446+GH New York, NY, USA",
+        "global_code": "87G8R446+GH"
+      },
+      "rating": 1,
+      "reference": "ChIJBefg-gn1wokRZ7ncGxaRLmc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.810093,
+          "lng": -73.876076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8114177802915,
+            "lng": -73.8747214197085
+          },
+          "southwest": {
+            "lat": 40.8087198197085,
+            "lng": -73.8774193802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Food Center Dr/Terminal",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114376610197427481121\">Yam</a>"
+          ],
+          "photo_reference": "AU_ZVEH2StjqVVFoCvsDyPVvaJuvr6KlCH6Mcy0RYsP_XiATYw1lDkr3i_2r-TbX11NkaM5X9C8i1i_atWzVXw0OREceqp41GNxZUr-HR75I46FB4HspWr2QBv4oRUZY5Bt-0Y92Ap8JJox6SkLHImT3j2v6oZkdqT4Yb_8X52r63FABk-5yxXfmNcQZ5mAu49V8et27fbvh41ZWhMu6b6VWHnZUYjYVQ3gTuoSKQin7HKJGOD7PHV6E2-pWCKGUjIL_BRczmqNMrHVs-ouLKv61i9elAz6jcxyO5aD9PKtB3oRawMg_Cq8xpY716swONNedoapeEj8C8iS4K57dcqHPx-_6BM2-1Mhk7j990XnJ0xXCCjeUHa0XCUee6_IODQlhb9Gr0oUMOTvop079N_elQr_sMmgs2umRanP7-jN8fHKL6gVXyKVvXgH9Ex9L3bVtR97_UpuvLdbQrl6WkWDbrCqWoXQTBWMQlD-9FbcEAkf5UzEEOcMbQWbwwF-xpv9MJdnvYCHOeQ-6tpIb9K-xEkbzjnSH8l_X_GWeReWgxbAdj9ffKT0Y695sWBJ5lQlLqBg086T36QHq_i1w2rLBZhI0rrA6JtOZ7n-ZWwKfBpM4XJXSAlIVGereAgyqi92nDMf3yNdf",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJf50tvxr1wokRMraqiuy8IKk",
+      "plus_code": {
+        "compound_code": "R46F+2H New York, NY, USA",
+        "global_code": "87G8R46F+2H"
+      },
+      "reference": "ChIJf50tvxr1wokRMraqiuy8IKk",
+      "scope": "GOOGLE",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.803493,
+          "lng": -73.873177
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8047934802915,
+            "lng": -73.8721000197085
+          },
+          "southwest": {
+            "lat": 40.8020955197085,
+            "lng": -73.8747979802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Food Center Dr/Farragut St",
+      "place_id": "ChIJ4bT62RP1wokRvM6JtgvDIlo",
+      "plus_code": {
+        "compound_code": "R43G+9P New York, NY, USA",
+        "global_code": "87G8R43G+9P"
+      },
+      "reference": "ChIJ4bT62RP1wokRvM6JtgvDIlo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.808285,
+          "lng": -73.871674
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8101032802915,
+            "lng": -73.8705738197085
+          },
+          "southwest": {
+            "lat": 40.8074053197085,
+            "lng": -73.8732717802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Food Center Dr/Hunts Point Market",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112270301009427438280\">Anmol Singh virk</a>"
+          ],
+          "photo_reference": "AU_ZVEGuU_tOYjBXqidxx-4Zob7YN1RdGgrvn9_nu25AyAseL9BJSWL1DO0NLKesDJdJTF9Yzx0Hr9rej6qMwJtw84bMevJtauv44L1AtVTNLHI3_i3GQ5Diqk6wLf7jA8LD-si30dSSwjIajqZ5upHwGZ3mVe8AmSpe1TZJnQ-UELZsp5aaAJKL4BLP0COAta-9iqNA9WljvLPdd8Jlqf5-_uXzs9gS_3AHjp6QKnRU2Hu86xXThNCkgRZ2K2TSOZ-HcZRF1yTJMzTaCAoZWc0FHgjA6cIiHPDWSnVMAhW1f1AlcQ8p-LReOPilAfgUEVKxYA6gDiDYp4mem3s261QdQVVnfRvjQkF02lguQemIkBfVEQtETXQPjjoZj-AVh7ept9OYt5OktRvycwvBnLB_9Qz-tSgQTEyQgI21gFbMt8e4R50UYvX6UQuQHo5Vro6JRSZ1_PuFKrlKz1gwdwl1iEKog7LOUTt067SrMkPoGzj253mIhktnGCTtnl3fT99z-gLL7sqqEQpIshN00BU_FThayVqYK70w1bV8wnSLTySMVv7iHF4go1f6v68UbGBeDtOghn1-Vivp9WSfCqjCUQlXOuZ8d9EyAwmgzRjXVpDeRD0o7L2fgKrMSJn756udhu0LHYhZ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJnyQhBBr1wokRYif2OKywd8M",
+      "plus_code": {
+        "compound_code": "R45H+88 New York, NY, USA",
+        "global_code": "87G8R45H+88"
+      },
+      "rating": 4.5,
+      "reference": "ChIJnyQhBBr1wokRYif2OKywd8M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8095395,
+          "lng": -73.890011
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8108842302915,
+            "lng": -73.8886901197085
+          },
+          "southwest": {
+            "lat": 40.8081862697085,
+            "lng": -73.89138808029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tiffany St/Oak Point Av",
+      "place_id": "ChIJN-qPk6f1wokR9lM7_xb1I9Q",
+      "plus_code": {
+        "compound_code": "R455+RX New York, NY, USA",
+        "global_code": "87G8R455+RX"
+      },
+      "reference": "ChIJN-qPk6f1wokR9lM7_xb1I9Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.809322,
+          "lng": -73.890091
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8106454302915,
+            "lng": -73.8889147197085
+          },
+          "southwest": {
+            "lat": 40.80794746970851,
+            "lng": -73.89161268029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tiffany St/Oak Point Av",
+      "place_id": "ChIJhVtylKf1wokR2zewJamSIlo",
+      "plus_code": {
+        "compound_code": "R455+PX New York, NY, USA",
+        "global_code": "87G8R455+PX"
+      },
+      "reference": "ChIJhVtylKf1wokR2zewJamSIlo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.809982,
+          "lng": -73.890022
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8113233802915,
+            "lng": -73.88872336970849
+          },
+          "southwest": {
+            "lat": 40.80862541970851,
+            "lng": -73.8914213302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tiffany St/Oak Point Av",
+      "place_id": "ChIJASGkk6f1wokRYv0Z_u7rgQs",
+      "plus_code": {
+        "compound_code": "R455+XX New York, NY, USA",
+        "global_code": "87G8R455+XX"
+      },
+      "rating": 2,
+      "reference": "ChIJASGkk6f1wokRYv0Z_u7rgQs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81438800000001,
+          "lng": -73.88145399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81573478029149,
+            "lng": -73.88011941970849
+          },
+          "southwest": {
+            "lat": 40.81303681970849,
+            "lng": -73.8828173802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Halleck St/Spofford Av",
+      "photos": [
+        {
+          "height": 2560,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112535625294866659763\">Angel Miguel Ureiro</a>"
+          ],
+          "photo_reference": "AU_ZVEE3TM4o-uKsmoafSdBhegOpRmZsux2swGN9u6jqZB5IqPijubBgVix7BDVv5o7NUbSC8PVzDu1rMs1BQLdG9VzmAX2eKOTPYe_ucIg0SyaOAlazxxNQTefK6H83xzpEKVt4h-dpxWI9fjD7gzuDDb0npCRQrWpH2UnFZRSZHE2SC35ORVIqQ0zReWXkXNfxNi1vY1w918zDmB39bCmFaZ1TRS5JfHSE96ZdRIxjxXrFUs0EvURsrZbeGo90ZgdO-CFH7YXcNBvZMqjPqEmCyiWkqxrrh--5xkq08WC3-UhSZVqKsDjgHLh5dFtViLxudXtQMIz3Vz4bIoTWJY2XOhOIuVvDGlUEqE1i2S1xxL3w-0CijqZROHaNEGJ88XrxHNKCHD1XQyLxNa9JsBjO8hf8dfTeaDI0-fqwHKTXHKgke3xm6gf33u_02fuMXeCr5YD5uNw8Y5g0OmegC-RbpwUUGSoUFFOeZLTWJ8kEgm6eOVw1reixcOl3PPjqaFdhKQAyUbeyFyq_MpS-5V6QqUXm48vhGGZ_KXcG5Jbgy6T3lZ2VnpRBgvaemz3BYwS3ArzAvfhT1EWlFS9lEKgPzjUTdKmpj9c2JqylshkHsXMsu-5aL9V__e6-FhXBOPXw6GnfHDoW",
+          "width": 1184
+        }
+      ],
+      "place_id": "ChIJTWKPcgT1wokRUG5fwtAE-G0",
+      "plus_code": {
+        "compound_code": "R479+QC New York, NY, USA",
+        "global_code": "87G8R479+QC"
+      },
+      "rating": 4,
+      "reference": "ChIJTWKPcgT1wokRUG5fwtAE-G0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.814629,
+          "lng": -73.88182100000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8159726802915,
+            "lng": -73.8805104197085
+          },
+          "southwest": {
+            "lat": 40.8132747197085,
+            "lng": -73.8832083802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Halleck St/Spofford Av",
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114560855477567553745\">Klever Vaquilema</a>"
+          ],
+          "photo_reference": "AU_ZVEH8UuN6EBcNXqm0xssljXGuYc7eHZfBOga74IxrN4SjSOJNJb3fZUv7e4MBC_cxQ6GABopxvI4gqRKJjKLRrqheVwwYAoyu0zEva5pI0jRo5iyEhzAcI7H3vIAxL1_W5MxVXL5xb34rYmsoef5zYUW2fxKoYvpdU3197RaszzMe1NINtPkRmNH4B-sGBIGv9Bf1wiT9fqaazXzJdullUqWlgDZ2naL3n0nlt9fSM9BSXAkpWDH0G2DjCx9TTvXG--ojwKIvDVFv3EXnctlTasDMdu_NQ7VQNp8oDrJdbTWjZatd-7_AZNiJqOmB4rjR9w31ctqj1-qrKmz3Ll5N-eo3vCoNuIwXbDeakzRSbpoCdgLPYSan98vGOppihvI1dfND8mtvwpFIKENpzty470nLhfawH7gu_ol8LPv4bP4AIGvVDrYfWfPj42GblXV9L5-mKVCB9KoPsJ9SKL6UNLsmdtyN6u-Qoz4_3JijW516PeF6LcY5RQUrn49_4EPAEr2jsihhn5vhFtuA5DJV-iUvNoFW-K-rkvp9-jvQALHOeOhG0FR2Tq86yTeSc_4EzmG9ut8_tEl8djdJGZATdFkHSqNux4gPYFZHX6ppBg9YZTH1n_kEuPEHSuu8PcpXjJT9SG6mNONWbKN-miwPxC71hAQ",
+          "width": 2296
+        }
+      ],
+      "place_id": "ChIJyyO_8wP1wokRvbE0sCTdMjY",
+      "plus_code": {
+        "compound_code": "R479+V7 New York, NY, USA",
+        "global_code": "87G8R479+V7"
+      },
+      "reference": "ChIJyyO_8wP1wokRvbE0sCTdMjY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81116100000001,
+          "lng": -73.89057199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8125200802915,
+            "lng": -73.88915691970848
+          },
+          "southwest": {
+            "lat": 40.8098221197085,
+            "lng": -73.89185488029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Tiffany St/Randall Av",
+      "place_id": "ChIJB7J9c6j1wokR1Olt5wYBxEk",
+      "plus_code": {
+        "compound_code": "R465+FQ New York, NY, USA",
+        "global_code": "87G8R465+FQ"
+      },
+      "reference": "ChIJB7J9c6j1wokR1Olt5wYBxEk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

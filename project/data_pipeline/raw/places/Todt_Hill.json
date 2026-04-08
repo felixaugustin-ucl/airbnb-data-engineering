@@ -1,0 +1,3445 @@
+{
+  "neighbourhood": "Todt Hill",
+  "centroid": {
+    "lat": 40.59521236666667,
+    "lon": -74.10764135
+  },
+  "fetched_at": "2026-04-06T14:51:42.135178+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.591521,
+            "lng": -74.101209
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5928626802915,
+              "lng": -74.09973641970849
+            },
+            "southwest": {
+              "lat": 40.5901647197085,
+              "lng": -74.10243438029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-980-5006",
+        "name": "Max's Es-ca",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4590,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108564407547168682654\">Alvin Cheung</a>"
+            ],
+            "photo_reference": "AU_ZVEH1Z8_TJ0ILSHkNKBSm2E6ajJRzpfWB2dgv9iihTJiNGLwlNNfzx7VkKlG4DcklcHBxM2P7lNHXAZQamoEP97GdrMcUqvuv9qZf6-8c_zBRTMZ_3rG0mfQ1MwpofKhqc4LvnMP-sFQSfGIOm_Zb-cEz_x5ykKNe5GWo5g_zs9vzC0r6H_kZIX72u2M9sBO1_Il3JBx00amPy2B37PMTDVfrkudK66kbOLT5ysVQbOmQr9y0pOSoHoW-Q9ysPA-18d1V7aqqeUV8rMRLURfAnl-p34ldJr3mubY_7bXJcEkx3I0FQh72WyiaTPwn1CfDzh3hjXvw6RASoBNFf4gCydNciHo1PIGRytDgHIYGXMWNmtn5rUcfms3Yqba7NErzVeir3dbr9cwiZx5zNY8JTDEcGdPm_RhBxBO9JFN5Sy9yU_ig5_zINfsuV7vuofYeQbQtMakWsS_hnIP5x4UPA2mgPSq0_UmCRU9NVygYcJM1Xs85w0IaklLdlCdTzgDWATsgxDl_O58Z_bLbPz7SlnUV51sYFgsTyYNtUO8y6m1QW8rqf9L-4zArW-Ih_389jpEtCl3SnHO5WrNAcJA-yynjeL8njKqnvEX8LH9zT24S-biTvx47jbdwxAYdPM9X5X8anZfgGKEixKDXorJUDg",
+            "width": 8160
+          }
+        ],
+        "place_id": "ChIJFbaEnL9OwokRh-hurBvurSE",
+        "plus_code": {
+          "compound_code": "HVRX+JG Staten Island, NY, USA",
+          "global_code": "87G7HVRX+JG"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJFbaEnL9OwokRh-hurBvurSE",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 871,
+        "vicinity": "1559 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5942815,
+            "lng": -74.098692
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5956522302915,
+              "lng": -74.09750916970849
+            },
+            "southwest": {
+              "lat": 40.5929542697085,
+              "lng": -74.1002071302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-668-6838",
+        "name": "HKS Kitchen\u6e2f\u9910\u98fd",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112803909113056433829\">Pinky C.</a>"
+            ],
+            "photo_reference": "AU_ZVEGHnr6kuWIA-FylNbOPOEd7DjGvZBDvvwt28P_DdaKRQfRHTv2p5LHxLwdxKI3Pjwjgngk5HBr7VNs1_47SgYkM_IojmHQq3DP8dQbsxthFtsNxxgMeNGu8B4rFJaQWbakxw0pRhOaquxqvb2odwifY_-eNRcXvkKYOwZhxuu74lxBpbiaZoVK1xhy3WYHotdHEOz4j5lOlAs9pX9J6q8MtCr1Vjlrqwknt5w3l36Ks6bg7TULMsSLqu6qGMQOZPPqkhFn46Nms0VfIXBV-9bseLaN4QPnVbSYhnujJvGVhiMxIzonilX4OD3CDwrQeeKDm7tllCHEOFm58YclUS0zTfwApBAE686CwXkGwXmnuJn_2y6qJWYZCZrz3SI7RH65qKlhsDKGuJjA_txOdnMW61oIDNlYqukKjKtBmwjnDSCmtgPOUwKcoH2GG5ITuroAha2SPMmY4y5iBUepxHign6sEpoKLvM2dHwaC9Xf7DnBy2FZqaMSlZh7ZcOt1niSiZOsx_ukRdpLtzUZ343AdZ-Yd9CURchMv7U7dH_P-ST-Bs4Pk_3x7whHvUQg1zdY0vgOydc2KMA1jWI4-TgfY5_eGsf1j8j84j4Zv5xgq5oboBBzruDwpTOIqAwAMpAtZHer1QXuJrf_m7xq-EmsgsYek",
+            "width": 3072
+          }
+        ],
+        "place_id": "ChIJ6wiHlupOwokR7v4CzlBucy0",
+        "plus_code": {
+          "compound_code": "HWV2+PG Staten Island, NY, USA",
+          "global_code": "87G7HWV2+PG"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ6wiHlupOwokR7v4CzlBucy0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 390,
+        "vicinity": "1434 Richmond Road unit D, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5869872,
+            "lng": -74.10439079999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5883308302915,
+              "lng": -74.10296651970849
+            },
+            "southwest": {
+              "lat": 40.5856328697085,
+              "lng": -74.1056644802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-351-3653",
+        "name": "Dunkin'",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113306977348913159977\">Charles Stoffers</a>"
+            ],
+            "photo_reference": "AU_ZVEHITlOUn_mGzjqun7ct66PzzVhI8gLP0-f8CggSyzrTD9x8V7XaI4EjVPo4SHh4R-SBPjjCgVK6_lVJONDEobDElSgwnfKfXi031swVEKQDQ87ARZIY6-R0SGRI3OqPeoIbiqG3UsHXAhweR33AETLZsCqhYCNXy8PsuEfpp_OFg_9V5BnGkCPG1-GIqy26MYi-bg-EGHmslbRgw-eKz1jtzgCEeO92KccgRBh8cm9Uy8ribaW_ZP-inO1aZus8mqDfQH48IyMLfDp3E-TZsPPzx7Pk4prkY5IFwmnGxYfczAZ8WfwB9783ZzocnCQpAk-XPPawo3bHCfYbJ4lZbntD_n7zztHomRIXfX9PzTFR7BLwkUCB8E0iuRb9e2oT5dUvXR7mSiAPoaFpRGWzy7U9JvlCHTlPeNaqTvu5euH-9rxPxhOPEQ7lSJEXjeWuWLz6kFGGV20bhcYa_mdKCzbek7sXcll6yToWPF4JkABiwr1fs60GtkzstzBa1tZlJ-P6Ia7LajEjZ4m-1El3VXgg5pMPXds0757i5Th8qwdmWpIuBn8j2al4J4pqimwQ7EQyXBAQqizeK3dpJhAA4XPrYXGrWjAexkL_PjPFn5u2TqMS7CQMnTHPmK4WpbFw",
+            "width": 3072
+          }
+        ],
+        "place_id": "ChIJYTc7D7lOwokReFxeRf09rSE",
+        "plus_code": {
+          "compound_code": "HVPW+Q6 Staten Island, NY, USA",
+          "global_code": "87G7HVPW+Q6"
+        },
+        "price_level": 1,
+        "rating": 4,
+        "reference": "ChIJYTc7D7lOwokReFxeRf09rSE",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 205,
+        "vicinity": "1781 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59122969999999,
+            "lng": -74.1012157
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5926320302915,
+              "lng": -74.09973021970849
+            },
+            "southwest": {
+              "lat": 40.5899340697085,
+              "lng": -74.1024281802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-285-4783",
+        "name": "Ralph's Sports Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2026,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100507569584502910935\">Ralph&#39;s Sports Bar</a>"
+            ],
+            "photo_reference": "AU_ZVEHsskqOiAprMJj8Wc9GiXpfTznOL8XrDdYuXdULMB3UXPksqhECT9AfCKXordntkNUyFl0YEryKjpuMzgYEhSeozNB-gOxny0gWmP89OtnPptVyx6luDvUmC-2B4RAlAkVq6y--0lQ3zFakBheWJo4cjeZGAW-av5-5v1hCt-DsXNFtjghdSkxTtzvOJAfp9CVeGSceCKr6wKmmuOwpWQIyi3odPV9jhO16msEFPXoiRP2T6iWwjIQMFARG5VpkMbSk2xlIvnCMK6LjC89sd26_qU0CW1qfZkiut-yvzJ5xq_HMlrvB1iU2-yr0zNyxEnTNZpA1GRg",
+            "width": 1284
+          }
+        ],
+        "place_id": "ChIJeVR-CMFPwokRPcjFi7io-fQ",
+        "plus_code": {
+          "compound_code": "HVRX+FG Staten Island, NY, USA",
+          "global_code": "87G7HVRX+FG"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJeVR-CMFPwokRPcjFi7io-fQ",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 293,
+        "vicinity": "1571 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5897463,
+            "lng": -74.1013487
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5910485802915,
+              "lng": -74.0999594697085
+            },
+            "southwest": {
+              "lat": 40.5883506197085,
+              "lng": -74.10265743029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-987-7999",
+        "name": "Sakana Sushi & Hibachi Steakhouse",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104123338399824608456\">Sakana Sushi &amp; Hibachi Steakhouse</a>"
+            ],
+            "photo_reference": "AU_ZVEGB-I-_oeG2-RP3IoefAhETZXdgG9K7d6hXY_REKetqgIWFC8LptE_oz9LwtglZaOEA_OS9dbH_kK54200r5K4-0RdR-3vt4pHJFM0n8nf7Ypc4Z9m5JIro5ZMoVwAO5sayw8H2DnoXJqGJhsgUdaI5OsXnh194ZPUh9fOvlbdbj_lOO5mbZGt3UFWU0qWkI22tsxnnp2pLtUl5mBNN3NTD9borOe4w1hZ3S6InaNW5h8GoQVPgmZl2t3mo_Npvjjl1zkgBbRm5OfOqZStkcJo07J7cbUR_qzZeTt0Rmb6Bjdk56RgK75Yy7knNp0qUt5wj7x7d6qo",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJm2Od-41PwokRiSZBUff1ybI",
+        "plus_code": {
+          "compound_code": "HVQX+VF Staten Island, NY, USA",
+          "global_code": "87G7HVQX+VF"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJm2Od-41PwokRiSZBUff1ybI",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 434,
+        "vicinity": "1657 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5895993,
+            "lng": -74.10147660000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5908396802915,
+              "lng": -74.10017941970851
+            },
+            "southwest": {
+              "lat": 40.5881417197085,
+              "lng": -74.10287738029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-316-9707",
+        "name": "Baci - Staten Island",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105209580449417726408\">Akram Senan</a>"
+            ],
+            "photo_reference": "AU_ZVEE0DcuFsFrMjkh2lHERomdOswITfqkszYVvXVC5FZiXJIOGt3k_7cpYeyTrjrbGbd-CfQTvvQFLQ9nWcNCJC0rVheGwZsvZyjmp-2Zd_0IuDLBEXV8SmRHWsyQWn5RBOJOpel2irLhgMl5Mfws_7NJ0ol5-P-KhZkA9zOCVMPSjVj-WcuN-iy5IFXd7WnxJDR12GSHX2gmrm-vq0C_0WR93WmBhFTgrW_-L1rpkmAgpoh2zjXKe8qCDk2lnApAXK2CyqTj-odD5XI4xExE8whKx8mjNJ9ZwYgtWllonWPIyMHP2I2RxjVJPcPN9WKTUoSL-Oob9KwaksnhXypQQ0VqGejCsdEe5n-lkt6ZOqd127W_6NQhTOZNNzIagoY4d5is5hv-A4bgV_nJznvgNCk2Twt0GM2O0KSEfE6i3luvv1hYLR02DgHTZJ0vKUgYKXKVGvLDXU-ehm8jiO5RLGW8CQJWio0apkqJtVgY97KBCxq-5cQNQf_0N-y_DXtpMB7F9f4z_xoEBlT7EikXXgEU7PtfWD6bpI7zavtlH8UAfwyEPxXeKDFFI1zJGBF2ep039ARGebtoIT1hxrubb4NMWDhzVfZYxURoSnmA9HPesn1UTWq4mDUNH4dTcr2lKKQJypw",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ44BkkzJPwokRFYD3wJB1y28",
+        "plus_code": {
+          "compound_code": "HVQX+RC Staten Island, NY, USA",
+          "global_code": "87G7HVQX+RC"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJ44BkkzJPwokRFYD3wJB1y28",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 532,
+        "vicinity": "1657 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5890622,
+            "lng": -74.1015135
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59046188029149,
+              "lng": -74.10025371970849
+            },
+            "southwest": {
+              "lat": 40.58776391970849,
+              "lng": -74.1029516802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-314-5363",
+        "name": "Cantina Valencia Tex-Mex & Tequila Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1868,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111916990815294570269\">Rene Mendez</a>"
+            ],
+            "photo_reference": "AU_ZVEED52aryj_PMea7D5Kh5XP6OfkEb6SJMUtf6iWuX0eE1k56dy8Wwhh8na-pez8KM6PFyPgOuFhz051UNwCP9Tx3_VGsFG-X6yE3SkbEychJ34PKQL5vtV4hxJ0t40frJxwXtaeh4ivijDjI6XPFrFv38NtBhHK5cuYOMPVc5napQzR6jei4npYM3x2lcnme3v1R6lQJtkrlfk2DsnemxsDeMdeHLffTlCipX7zAwd-1-LK7XTe_Fcq_ywlEuKJJW9fNAx4XMiLozzNFLoD_oYDBbqPy3YMrC8QEGBADBbKJ7YxWOJy5mOpMylr-29YS-xvS-WN-RUDBAG6rSutWIWGgLMrUkNgtp6aKJ_x70lseMBwyYTGEAD9H-Q130--i3FIxX5TVetw2hkr71CB-BhqJJ7tpmiWy9Y8kRjgDplNqM8Qy4imjcgToFfea7hoC8ILBikKXhoTgJcCW_LklOvzydt-i05ghPoZx2-lcTnPenMjP8sVLgH8Qz6UbL-BlypE4cbgUjZr0ZShhsaXfquZOoXhQ2ywJUg1giSJjPvzzkj97GJhyocgIvoLJaEvrKBZ7k4_RY6qDD-jpbHj8IRNixwL3kQjEIu2pN2-AnsD5I8I3QxZexcNUyspQGrPiJZ3Gdw",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJdyLF_ldPwokRhqVzPv2-4n4",
+        "plus_code": {
+          "compound_code": "HVQX+J9 Staten Island, NY, USA",
+          "global_code": "87G7HVQX+J9"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJdyLF_ldPwokRhqVzPv2-4n4",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 212,
+        "vicinity": "1674 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.588365,
+            "lng": -74.1029468
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5896441302915,
+              "lng": -74.1015562697085
+            },
+            "southwest": {
+              "lat": 40.5869461697085,
+              "lng": -74.1042542302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 347-980-8324",
+        "name": "Starbucks",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115866827453478561737\">R B</a>"
+            ],
+            "photo_reference": "AU_ZVEFbr9kUqPdc2rKnOobnK4FEQHKRAqPJ8Nr-i_SVqxMCblZXBPZMPHiH5ersjJj6MptBWZlQMi1b71U-p7idxSYVTwDpmV7xSHgkuKeUJa_YHqNjcKrVB37SuOOo9nS1cIUOJMNhGZrTAuz9wGaeWC9nI4SprqIEktQHLT_Rv62w7SArfmCXgr2nw4mAdKPSE1rQTlPTWhhk1xWM9EIT1c0YTHjQ8_sX_-7B233D0WXzJ4ytzYcSvGILDzJ7MhvN5RyV3RvFg0AUUR7KtKWI-BjPOXyaY6b70C_nddJNJRWdFfhIX2JCj9dgq_6Okp2jaJMIj4eK3dRNk3MWNQ_2cxHc70_2LeZnHHks88Idcooss2uEujiLvAGjzTxXi1zxCWX8wqRdOHKdSPJnEu-8IPn56Mci8wLmYgNh7TOTC3oOMzK6z7ETJ2anqRY3rw1pvdqrXYokJt-EKgHID807LefvK06ownW3n3Yabik3ZTnKPqYSn7QKBfQPsa0LgPvVx8wumQ-1NoPxvJdgQDQtcJfdUw6JnZhAU8FWBtOM4Cdm6dJSK4vyirkKr8ZJ2xJBOpntYOmH1m0k6drXqXeWlHYutGNOx7AJHTOo9jUXnWp6flqfQ4ANOBLIr-pJf45LbmxPyop6PeNrh2sdUuwtljBQ8zo",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJQ9xUHVxPwokRtUNtpu7HuyM",
+        "plus_code": {
+          "compound_code": "HVQW+8R Staten Island, NY, USA",
+          "global_code": "87G7HVQW+8R"
+        },
+        "price_level": 2,
+        "rating": 3.6,
+        "reference": "ChIJQ9xUHVxPwokRtUNtpu7HuyM",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 326,
+        "vicinity": "1717 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.588799,
+            "lng": -74.10177
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5902000802915,
+              "lng": -74.10051036970849
+            },
+            "southwest": {
+              "lat": 40.5875021197085,
+              "lng": -74.10320833029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-351-3100",
+        "name": "Torino Pizza Cafe",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1908,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104778830157215489787\">burim mati</a>"
+            ],
+            "photo_reference": "AU_ZVEE-wqqFNW__Sll5j_WPLAEOy9xeoApUf7JK57lus9whdCNsmtKhcZzGeXITxSI8Ob6-KB0z5PgkokzVPwAsf0MnAvoqoJmfiDbOdXEXacnRbsjyCI-b7K07Z0-PVON-7Jb5YQiCx-1Si_LuPZmxOXJBnCu4dJ1QPaWcvp72Cge4iecxXHx9TJgkZTkFx565fBLFXl-IrPjTpFWhSvJ8xVS3AyjanFCpdhuTIpcoaHiW8e7Uw7FQ47GSOdgIBIlOoN9KWdbpQQRVv1HCUkwRLbtx89ul05LkuHyEGlz9b9gFZkuGxRNk-H-CdqT8HtRHRYG0ZrzZXAlHeOkAYkVvhRmlcJQ03kYkke0hS9TiAh_xZTxDZcd8lcGjDHugfOd4JEnwiWg5EbvJtgGwU3Tp9Xja_BGiKkZV4RQG6T5iJ-TzLr5wO3FXe_ULiYm8LACibsxF79jlS75JBc9H1gL8LYO_CIl6wL1gPIUrgjJCS794QxmKp4gpA6wCTpxcUdhZ7DAhaXAfYxNNR4CsfgUIF0Eln9yHpedrYGtCr1QJmhxpwTkkWte8MZtqxm8s2CJTKkKOBMhoRktgFqM-LG6cn2Mp_8AQ3nf1M3dk5b7_XOPGwKkFCLmr5t9g9uglgVXk",
+            "width": 3644
+          }
+        ],
+        "place_id": "ChIJAQutSr9OwokRZHsk_EmRXVM",
+        "plus_code": {
+          "compound_code": "HVQX+G7 New York, NY, USA",
+          "global_code": "87G7HVQX+G7"
+        },
+        "price_level": 1,
+        "rating": 3.9,
+        "reference": "ChIJAQutSr9OwokRZHsk_EmRXVM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 289,
+        "vicinity": "1694 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5881315,
+            "lng": -74.1032323
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5893917802915,
+              "lng": -74.1018517697085
+            },
+            "southwest": {
+              "lat": 40.5866938197085,
+              "lng": -74.10454973029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-350-8510",
+        "name": "Gyro King",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4284,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100564845112988536426\">Gyro King</a>"
+            ],
+            "photo_reference": "AU_ZVEHPsr0KzFPuD6M7baXkZm7kQTwqQVym9aKeTjvmZLuFKROpkmsCWeIeH1FdrHymv23Qo9Shq_za6pG5UfXYdM4KZwJp3T9FXu7wLuyt-CZRxaUHFS_WJ1klng64xlEXvYIBiBI41rNoPYLqbdL4GQhvYbn1OCvxNJ-XzrgSEpsPzA44T-4iQzaQPthxeU3R2imF42-pleiFLxlFjX0qqnybw6nryCD2oyqiancIHl-_UMP9PISy5-itaOt74kZoymzty701k4cWpIBe8LxfsvagcqpC0p1aczyOGQrsqXyZWrMnbtSZH6eailP8m4ymOvN9Gf-x-BM",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJdXPbtqdPwokRhSwY9fbTrKw",
+        "plus_code": {
+          "compound_code": "HVQW+7P Staten Island, NY, USA",
+          "global_code": "87G7HVQW+7P"
+        },
+        "rating": 4.7,
+        "reference": "ChIJdXPbtqdPwokRhSwY9fbTrKw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 211,
+        "vicinity": "1727 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5878599,
+            "lng": -74.1034755
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5891969802915,
+              "lng": -74.1020468697085
+            },
+            "southwest": {
+              "lat": 40.5864990197085,
+              "lng": -74.10474483029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-971-9755",
+        "name": "Joyful Cantonese Restaurant \u559c\u7ca4\u519c\u5bb6\u83dc",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3213,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110239767920168483476\">Joyful Cantonese Restaurant \u559c\u7ca4\u519c\u5bb6\u83dc</a>"
+            ],
+            "photo_reference": "AU_ZVEGSWypjs0DwevxsJu_UPiw6eBZLXvNoZjWHR_nEQMJd45iVr8nOtHQ1VBKyH33coIfYImN--vQ-l6ORJJl7ABQIdEGI63lGIVJRNyYUTHiA4TXAwh6YaUgDJXH-Chtrg17Q8WRDFaTvi3Ru9j_ZeBaAB5ne7Uy4JQek4c4-bgnzw3uOAxUD_ksJtPlWZoR4sD7jDdvwiwbP2kcK_UQPKDdDj2n2v5J9SisCvhphwYlCwJPTeSFWaeQEqWqFYIJ_Skq9fvdLS-jxCONLZX5z9egBNyCcWSR9pVLh_r6UKNLIKafmxCRz9WOMgFFMMnVB9NztVccvAvk",
+            "width": 5712
+          }
+        ],
+        "place_id": "ChIJxwtkJwBPwokR3SzlC5rObPM",
+        "plus_code": {
+          "compound_code": "HVQW+4J Staten Island, NY, USA",
+          "global_code": "87G7HVQW+4J"
+        },
+        "price_level": 2,
+        "rating": 3.9,
+        "reference": "ChIJxwtkJwBPwokR3SzlC5rObPM",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 166,
+        "vicinity": "1743 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5875151,
+            "lng": -74.1037727
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5888402302915,
+              "lng": -74.1022977697085
+            },
+            "southwest": {
+              "lat": 40.5861422697085,
+              "lng": -74.1049957302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-668-9059",
+        "name": "New Garden",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105538978529340930193\">Steve Li</a>"
+            ],
+            "photo_reference": "AU_ZVEHjHmQaejhiyD4K3V9DWVUi76ryMNFQhOtxI7DlN7pVSOc6zYunUv2dYwkrPMU9LUpn3IFNbY0uJQtiCn2-ryZsaGfS2rV02g7tmR1pfMLCjoYySfbQVF96U-DnIl2-PIAfC2cYAV8rZWTTed2yiPU9XxMxRJV4qlXJJ-VgaWDyQOyDn-kpWzfOxK5CplyOfovaI4QU09Pu16mI99qBlXlBhQumkOppDgSIH-_h-7uBaxURppHL_W-jYe_264jGnTti1WAbHo4iM61D_CoE0WS-wv5_d1iITERInjVY3fpspLCTUT6qsLakaivqf6v0lTq5h5zJceeBWZ4PPJ1oTS8WBHkFTgIYHP9SmtgMLcQNkKYqU4AvEXSMdd1_AuXlV8-vEJcSjsbENh0fg7mHQWqHaNMY_iZ9Qs5CBTJqa3XfMx5dYVkcg1WiQ1suIZpBm-KOrsofE3GiGl-ztsbKRlrM5SGI7eZZYh_8nTJt0tI3muIBycQlygkh8DKXZjC1_oFfVdTm1cKeatSikTUj_NL_BJayzxtxD2nSAUF0uz4yJYmyVjncm76vHACawb3IoRcasZehf-7F-sjKCDFr0cR1Nu-I53OhVUHa2sh5MR-QeEzrA5BZGZyFv6QgBlIbYF7edg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJO37YTc9PwokRqXI5i2_sbSA",
+        "plus_code": {
+          "compound_code": "HVQW+2F Staten Island, NY, USA",
+          "global_code": "87G7HVQW+2F"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJO37YTc9PwokRqXI5i2_sbSA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 85,
+        "vicinity": "1755 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5873621,
+            "lng": -74.1040056
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5886158802915,
+              "lng": -74.10255981970849
+            },
+            "southwest": {
+              "lat": 40.5859179197085,
+              "lng": -74.10525778029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-980-1891",
+        "name": "Nakata",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113241125365729586103\">Kevin C</a>"
+            ],
+            "photo_reference": "AU_ZVEFf9J9qI-CEP69-MLkMF3xJnyIgXCBR5MtdoNDsaQk3z6Owrs5Pg-TR2N5kixpLFYkwpOSobLJi-qAd5jwkdmE2ubrD42OY039igcYqRQzdpHp4HB5hGX1kpCi24Dev1EyJjCqaks6LsBjv-4-rCYd-dQNtpHhQp7l-faPMQO7C6cQdKfWlH-jGmQ4lxh3qTMBmUKP90IinI-wm9glyNQSudAV6rH_aY_RpJpA6b2aXSiD2UAZklhbTYRQJeD3Bqot230C3g1-8MxdZzmKuqMPe7k7EZM5DCtlteio8bo9oAf2e107IeHWQJTwxapx_-Mr9PU_6zLQKg7RXr3pVtbZXHWy8JY88yhvWWX5Uj04GMUi4Ib1CWfp_7aisHTBJAanOAyHJCmEnKRaggnNCAB_5gVEtiuZIRhZPCZM1KpOXPBCAz-WIviKwC9BD-TVEKVaOrELzvSwLJnpdqLXPr_cR8g_xm-IOwiOmTHKtGYFF9c2cIMLZAH6v0ZFNOngvFPaiL9isFg-UnSBIqZ3tHgwilWj9U5incyowrgH72vDAQnYx-pkwbDoTkKrmKmJbJKFhXL019o_MnSpvA2i2EzrL0ec9mj-bgvAGtuMj4PvOPSpB5hBzULJQXdq5whvORPiEoGdc",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJEyE1BblOwokRPe-fb6jNHrs",
+        "plus_code": {
+          "compound_code": "HVPW+W9 Staten Island, NY, USA",
+          "global_code": "87G7HVPW+W9"
+        },
+        "price_level": 2,
+        "rating": 4.2,
+        "reference": "ChIJEyE1BblOwokRPe-fb6jNHrs",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 379,
+        "vicinity": "1775-D Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5872614,
+            "lng": -74.10410639999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5886015302915,
+              "lng": -74.10269431970848
+            },
+            "southwest": {
+              "lat": 40.5859035697085,
+              "lng": -74.10539228029148
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 646-577-5500",
+        "name": "The KOVA",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107945234386782504386\">Tatiana Hoover</a>"
+            ],
+            "photo_reference": "AU_ZVEFhGaAQImOGTw8rvmPGCQbfBE6SJFAsDQ_Mj5R0-f5faoQfT9yHflG2RcUPH61_rmPViyWceHTzJbQ_rgxavKl8aedsZDdk6ZuEvdFy35GYEVc86-GKNsDYlksnzZ1_xoJU1Mt9rTOdRRp4XnBsd7JnCfafi3o0ZxEZRpqdACApRZUxyBmwt9SqNYRbhGNY9ioF4kGCjiYs7HN9X55p-Ii6oj7D9U_PquMf8UQHlIYb6VaLERQIEzAc4nSFZnHFDFp09R1kRVdLjuNZ2me8XV1pkLSG6dUX7KK02EraI2Jzkscj-jfwPMMaA2ERNgVHF2WR4820KcRukExgdur2A6yqo2j2RkHBC47h-25NlfGLqOvP3-_-2yF8WsoA9wA8QlmEu7monhCeVjJMQAroAzDhSQFiWmrhvXs_o20OBLjSnpKUGe-dSXoOzxFHJ2EFHLz_nuSKTTVKPa6U5iraHSEk8O-SOGx_4THAVHF8u495AYYxYZOVxebA5Eqfl4zzZNri8jTES0BGfVFZ2A6zyGjTYW0a4Awdsm1Yw9xSChrIrWgtCBeMIzzDOaMx8mf5HOPckRAy_RMFx6QlYbv-qx-ezEKAnHXZ1ZMb5Ed0tCgEizspX0yYWGZSfvCFcXlyCwXITg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ_QunNadPwokRZdvXGhBeV2M",
+        "plus_code": {
+          "compound_code": "HVPW+W9 Staten Island, NY, USA",
+          "global_code": "87G7HVPW+W9"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJ_QunNadPwokRZdvXGhBeV2M",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 303,
+        "vicinity": "1775B Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5896772,
+            "lng": -74.0986728
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5910879802915,
+              "lng": -74.09725141970851
+            },
+            "southwest": {
+              "lat": 40.5883900197085,
+              "lng": -74.09994938029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "international_phone_number": "+1 347-770-2224",
+        "name": "Seaview conveience",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108236059106249957908\">Seaview conveience</a>"
+            ],
+            "photo_reference": "AU_ZVEFjD9MsxQ-4ecocIKEN4ubwDe12pQe25jaHZ7aGWR_Rs-yVIKUmfK-l5gE4pIWC4VSfl1BMieLftjkTJQ_t7vzFGoJCNpgKW3wMHcnuWYAlYGc-TzPfGGqNDOBwPko33SkMQo76TCsHkhffqlEAluTZpE5fszhJ2PGJER3s_kj14ym_oXUdApF8tnojCSDfIboaxXuMI5RpZBmDYRtZbe0UXfz0Aiqi-2KrySjrhoBIshWPBGxompfiiJjw7pHfGzPwc9SkbHNDOrpWfnVoVSNVE20f8Y4G14Znjyj0aMttkVMP5yig-W16qcz9F-yMF7HULrJIWv4",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJFXsN6cBOwokR39c8bRen6Dw",
+        "plus_code": {
+          "compound_code": "HWQ2+VG Staten Island, NY, USA",
+          "global_code": "87G7HWQ2+VG"
+        },
+        "rating": 4.5,
+        "reference": "ChIJFXsN6cBOwokR39c8bRen6Dw",
+        "scope": "GOOGLE",
+        "types": [
+          "grocery_or_supermarket",
+          "liquor_store",
+          "convenience_store",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 34,
+        "vicinity": "82 Seaview Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5865432,
+            "lng": -74.10471869999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5878565302915,
+              "lng": -74.10331676970848
+            },
+            "southwest": {
+              "lat": 40.5851585697085,
+              "lng": -74.10601473029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 212-425-2623",
+        "name": "Rustic Pizza & Pasteria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117994279261003740673\">Rustic Pizza &amp; Pasteria</a>"
+            ],
+            "photo_reference": "AU_ZVEFYFczx4gZ2JsOalLXE5HSsqQcmEfztUeueEOiWSeeQYJfnzmNLQMRecA5Z0d2dLQVA_w15Cay_nYQRnRVGjeam5cmnLVK9Vq6ap9NZ4w-1wvPQuvNG2rtNtEQ-l67l5fftATHKWQIvm1D_AySva5MewxPKPs5JleS8eczAnsqkBczi6AGQfLBSw93XeMWpLFYehXU4PUY6IT7NKHB2X5ONZMz1vFSaQJ1D9N0T5QNBGxL7eYOliBMSEvuvd9rBl4xAjfZx-qB_nYdTLjcfDlF2H4aRGt28Pi-G4NmNmw69G2WsZecJEcUX5BZTxz2C6nDzm6J-Pgg",
+            "width": 5568
+          }
+        ],
+        "place_id": "ChIJfZEdO7VPwokRF1fAUgqE_eo",
+        "plus_code": {
+          "compound_code": "HVPW+J4 Staten Island, NY, USA",
+          "global_code": "87G7HVPW+J4"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJfZEdO7VPwokRF1fAUgqE_eo",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 289,
+        "vicinity": "1789 Richmond Road, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.591521,
+            "lng": -74.101209
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5928626802915,
+              "lng": -74.09973641970849
+            },
+            "southwest": {
+              "lat": 40.5901647197085,
+              "lng": -74.10243438029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-980-5006",
+        "name": "Max's Es-ca",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4590,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108564407547168682654\">Alvin Cheung</a>"
+            ],
+            "photo_reference": "AU_ZVEHAzz03c7qOLkcpzQnfKTJpGSu-xhZ2BfkykguLmBirsKnjKII7I8fodoBhrhUWCVvD5717g01Zpk0RaxbfqqFFFTJdbm-xyOY_dEGX9ciMFPaZfD-P0WPSPj5rAg8z3o6EgmXjo7ICI5GBPSacYbDo1zO8B7OLZhqX0BsfpG4aZ7MiEwJ1xfGCqtk1HYJt7BXXWOfpU9u9Pk0t8Sb3GQ21TaTofcf911_yMJzG0UHt7Aix8C3fJ4P3FZy6wYSCesdIW2-YYTxPeKBF7sJnXi5aQv8MhKamRxl6uAuxWKe8W4xvCfWsDN1Q3S_TAy7n0O-juLbsNgpEO5SqEDKiyt6siYuq5kibEeRG5rAHAWz3lVyMYGOj9lR2RwhTmejlzHdHOArl3qeiLb0xoFEsJs2ZpGOU-zKtxQEl1gSaSYWgrL_a49beSmAF2L0z651DTn-GN-5dCIfMCAmGXqFCrZXNPZDKGbM9m9wuM4l4-cwbLNrnHz4CkUldIG3oe_nyyPfQEHHbvn9pIwJnPWGxy3KaMlu7anIcZqUFh5Kebi8vS2jcy2yG2UvXmNctyiviQktWmvVeeL74ufAoCA7KURm-atazkerAmu65_nt7WxtbbVgHho_OvEOoYUQjWbdyPgDA9p_pjArCZivYJ892BA",
+            "width": 8160
+          }
+        ],
+        "place_id": "ChIJFbaEnL9OwokRh-hurBvurSE",
+        "plus_code": {
+          "compound_code": "HVRX+JG Staten Island, NY, USA",
+          "global_code": "87G7HVRX+JG"
+        },
+        "price_level": 2,
+        "rating": 4.6,
+        "reference": "ChIJFbaEnL9OwokRh-hurBvurSE",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 871,
+        "vicinity": "1559 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.5890622,
+            "lng": -74.1015135
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5904938302915,
+              "lng": -74.1002222697085
+            },
+            "southwest": {
+              "lat": 40.5877958697085,
+              "lng": -74.10292023029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-980-1897",
+        "name": "5th and Vine",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 5312,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112386073517897687698\">Kemp Jones Sr</a>"
+            ],
+            "photo_reference": "AU_ZVEF9FA1DCGux7CIEzZE1G5uQ_S2n0rUTZfCBalidJkgzqpAvGGvebQ4NKrpyVamGkpsGP-v5w9Qxpj_ZBFivb8gAPYBDUHqLpmYlpLTox5xUNwHYJ4_pmQMUY79hATKOKpDNdj_Uv5DtT5XXHvNhaMiZ3ETJ5OLfhMLNnNAYcWSxijYvutqPqzwlgsd7c2kn9Vx4yopG9__j10NLeebhew8eNk9Lzvw5mYJ8d5Iafz5w3lIDPDJYihIG-t9ac-q27mwezSPED3b85r9_hj3v1fv43xZS7Grq_RilOE9FimRoft9_Owp-XiVlL_8dn6Yx9BdOdlWXOzBtvW_J9jGE1Z1uyf2BQrufwZgq_rFiIgj7Qi8rfg-xjwz2Y0GKn0SQtyPNnIhfx1w0S1X8OVIqrbJj9X-4fmfa_UemuUE1vvkbEjvxgp0eZK06Krjev2Xln_4FGHfxU7jIKOwFB_NKsvObad_f8NtS3ovy4cnsZTYZZsaagmNQqRnlRs4Aooui-Y7NuuaCx7I3imR_BNKhmq2q1Z3U-pzfkfRpIYVtBtmHY_-yFCmxJ_utrgNgiRKietRfqoO0ZTPJGeKhw_fy-20-K_P1WeSm6N8x14aLcket-7GIDJf5zBGHOWuy_LJ5atCRJOqF",
+            "width": 2988
+          }
+        ],
+        "place_id": "ChIJPfruTL9OwokRpSyf3rMTKuk",
+        "plus_code": {
+          "compound_code": "HVQX+J9 Staten Island, NY, USA",
+          "global_code": "87G7HVQX+J9"
+        },
+        "rating": 4.5,
+        "reference": "ChIJPfruTL9OwokRpSyf3rMTKuk",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "1674 Richmond Road, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59122969999999,
+            "lng": -74.1012157
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5926320302915,
+              "lng": -74.09973021970849
+            },
+            "southwest": {
+              "lat": 40.5899340697085,
+              "lng": -74.1024281802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-285-4783",
+        "name": "Ralph's Sports Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2026,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100507569584502910935\">Ralph&#39;s Sports Bar</a>"
+            ],
+            "photo_reference": "AU_ZVEF76bPbRKIyqI9kXXcoo3KsGyq-0htL2CiE2ZOz2rxF6dM589KKpjxeG5W5RpFjDbote1dBBymiUyLT8ekL3JeBl2i671k_vd5b0Ex7ZW4PW_Qnxn4SA1Tps9757XXyNqGV2EMgSRh3vupcMbltJzjX2IBzQ7V0sj1e0CsNFbtL6zr5345Q9s_THoYEeZ-6c99nEDOmqoEoAKwj8ANx3hAxQnMThmz3XH5ojNIRkTTqf5Mwj3wXSai7WlMtyGHLJrQxYTas_8KaxaLMPM5DlIWFadS4c2QCgwNjiADGMeyrq8FQzqNAKCq1wers5TH_Z4qvYVsqeWY",
+            "width": 1284
+          }
+        ],
+        "place_id": "ChIJeVR-CMFPwokRPcjFi7io-fQ",
+        "plus_code": {
+          "compound_code": "HVRX+FG Staten Island, NY, USA",
+          "global_code": "87G7HVRX+FG"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJeVR-CMFPwokRPcjFi7io-fQ",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 293,
+        "vicinity": "1571 Richmond Road, Staten Island"
+      }
+    ],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5938984,
+            "lng": -74.1159211
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59528118029149,
+              "lng": -74.11459381970849
+            },
+            "southwest": {
+              "lat": 40.59258321970849,
+              "lng": -74.11729178029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Richmond Parkway",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110992908948373967816\">Melody Butler</a>"
+            ],
+            "photo_reference": "AU_ZVEEKaqZ8s_TiYKV2sRZopv6p6amhGzKJuVedCvHaEi1-Rkl9crsWVfmRVcmaKxBh_F1H0RMBL019dzLulDW9ozJsypNJ-M_qJmVxXyBuukdVarmPyvanmQQXbt6lRMhGFCG39RwDadAhQrAauOzKpdQ3y9_fUu2hA94XvVyRuU8I8QC6BnvL2iy-kYwPGp908p5xtivvUjLAMojxndw4uLWH4p26MW3mk3vQ4kfxcobXHnRFPwQLEo19rKvnjF-hxS6rYM9RMHv0uRq8N_xh-7OKEpCMvkpcbosle1mpvsBwM6snmm9BL35lrvFBO9jSPpPB2OAv_S09hA4RbxCSRV5eW3XgaHBIsrbDfb4TWTIfl4_EgKXKzKOl-rWEnvLWpsBhAoq9naNstn722jgg0lqJBy4Y262qy0WlInx4ABbsTR2qnw3zTGKlS0yeRCs_Crix9gUDW2tBHtvPYcdxYPtX1Tqb1YyayBpl_FuA8kFub6JUBAifvW3SBwpr1vXxBRBrZhoepVC0Xv7G8eacbCvOgT87EkV8pRGgBXJ__ih396osqGNMvJWAgRfDEKgb6FrEJuDi2kvw8lynTv-1hEiRMgoPL482whBsepP-4AeGAo2qHM1U17ltlU6IH60D",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJ_9yugZ9OwokR72_Mkh1XTwI",
+        "plus_code": {
+          "compound_code": "HVVM+HJ Staten Island, NY, USA",
+          "global_code": "87G7HVVM+HJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ_9yugZ9OwokR72_Mkh1XTwI",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "Tillman Street, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6014014,
+            "lng": -74.1037381
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6023996302915,
+              "lng": -74.1029917
+            },
+            "southwest": {
+              "lat": 40.5997016697085,
+              "lng": -74.10597729999998
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Reed's Basket Willow Swamp Park",
+        "photos": [
+          {
+            "height": 1597,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103324559654210539409\">Reed&#39;s Basket Willow Swamp Park</a>"
+            ],
+            "photo_reference": "AU_ZVEHy-fxXkB5KsGVjiXaJjEy9cMI4mbl2t5HcaPqn7HEusb7NdPrAqByrwtGwaw0Ez9McdXD5vlP6Kx4hjp5gzKJ8YjNbB91WlH7vK7NHKElKmmqV4uUxgwBepwVoJqDpz7SLmTgEPjpdCWqYVH9aApiPKiyXDFLrcI1HJFcLMFiaIn7AOYyjtJFR86urKYJ9UuQQp_OeeGxSgp9s3r7vxyRvKfa6ipYZj6-9iYGl59HTu3PLIgFYmrxS_092PT_grod5w6VANDUg6GMzl1862p2BnRvV8h2AmEmUUduqAxZTVIKLzMD1Yqw9-ALjzYokYJvr-0YjJgI",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJedU2wZNOwokRJeRhzkl45F0",
+        "plus_code": {
+          "compound_code": "JV2W+HG Staten Island, NY, USA",
+          "global_code": "87G7JV2W+HG"
+        },
+        "rating": 4.6,
+        "reference": "ChIJedU2wZNOwokRJeRhzkl45F0",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 57,
+        "vicinity": "Ocean Terrace, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5933564,
+            "lng": -74.1000401
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5948260802915,
+              "lng": -74.0987485197085
+            },
+            "southwest": {
+              "lat": 40.59212811970851,
+              "lng": -74.1014464802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-351-1611",
+        "name": "Billiou-Stillwell-Perine House",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112715394850780426965\">Nils Paellmann</a>"
+            ],
+            "photo_reference": "AU_ZVEGWEEXTEyG6tuIuzrTyKwT9rrxv-z7Zil1oePq9liwH2xpsHjwIOZeL1bBG9mZcsO7uedTv35UWzLoDGw_iR4vE_aNsZ0aK0yJR3i-wiPRJJWVFRSZcFMRVoxcbaD5YS7PH-9VQfgn3xeyoxzdp7x0jfFSRX6wyuFzatRv9PNdddDKQOjaTLBJde4A_bSB932m8CkVi7zdaby1Eh3gJJ75gFXgN3nARqdLHLG-QAXZehERJHmp47VuVds_busnVZf0tihlcMjacM9_P5zxZCHFGR3OzIzJukplQ5xpXQygDuBDVsscqPsws4oVmzDJ3x-0vqDlwzRz3jUvCgscMcpbl84YjEJok9qyqZT3fAvQv2o2CvVVMifAcdXayeYhmzQWdxOeQKkBLB0kpvexIfXKvjLJiRZh2e7HCH1NAJwKFQOXGjPmH--ixWrXrd4kX4EcbnAX5WdEiCqS976PZhV3ABIDBe3S0OXUNYq6dc94BGFk1muPwbIIvZJcWgxUto6bO1r_aPSTQk93QmRALCB4cpp0CAWzDsdvWkSZImGh2fGp2O0lXBe4qY4oGpwrhgauNn2CP7QFDw9a06D_8K9nPRcrM5FhmSlWiT3k-jMK-coqGvkuyd2EMGvdyCgkW",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJCZFoAsBOwokRtIXlvay-GVI",
+        "plus_code": {
+          "compound_code": "HVVX+8X Staten Island, NY, USA",
+          "global_code": "87G7HVVX+8X"
+        },
+        "rating": 4.1,
+        "reference": "ChIJCZFoAsBOwokRtIXlvay-GVI",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 18,
+        "vicinity": "1476 Richmond Road, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5933205,
+            "lng": -74.1003915
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5946635302915,
+              "lng": -74.09902971970848
+            },
+            "southwest": {
+              "lat": 40.5919655697085,
+              "lng": -74.10172768029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Norden St",
+        "place_id": "ChIJtazGAMBOwokRJNwMJ_zvGtI",
+        "plus_code": {
+          "compound_code": "HVVX+8R New York, NY, USA",
+          "global_code": "87G7HVVX+8R"
+        },
+        "reference": "ChIJtazGAMBOwokRJNwMJ_zvGtI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59306299999999,
+            "lng": -74.100708
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5943982302915,
+              "lng": -74.09931606970848
+            },
+            "southwest": {
+              "lat": 40.5917002697085,
+              "lng": -74.1020140302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Norden St",
+        "place_id": "ChIJ38_L-b9OwokRQMUf7dqYsxA",
+        "plus_code": {
+          "compound_code": "HVVX+6P New York, NY, USA",
+          "global_code": "87G7HVVX+6P"
+        },
+        "reference": "ChIJ38_L-b9OwokRQMUf7dqYsxA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.593578,
+            "lng": -74.10007499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5949447802915,
+              "lng": -74.09875371970848
+            },
+            "southwest": {
+              "lat": 40.5922468197085,
+              "lng": -74.10145168029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Norden St",
+        "place_id": "ChIJU-buqepOwokRqWl-vwndHdU",
+        "plus_code": {
+          "compound_code": "HVVX+CX New York, NY, USA",
+          "global_code": "87G7HVVX+CX"
+        },
+        "reference": "ChIJU-buqepOwokRqWl-vwndHdU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59452400000001,
+            "lng": -74.09877
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59586798029149,
+              "lng": -74.0974158697085
+            },
+            "southwest": {
+              "lat": 40.5931700197085,
+              "lng": -74.1001138302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Raritan Av",
+        "place_id": "ChIJT9LAlOpOwokR6iu3ktXxgdM",
+        "plus_code": {
+          "compound_code": "HWV2+RF New York, NY, USA",
+          "global_code": "87G7HWV2+RF"
+        },
+        "reference": "ChIJT9LAlOpOwokR6iu3ktXxgdM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.591282,
+            "lng": -74.100853
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5926275802915,
+              "lng": -74.09954611970849
+            },
+            "southwest": {
+              "lat": 40.5899296197085,
+              "lng": -74.1022440802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Seaview Ave",
+        "place_id": "ChIJMWmGgb9OwokR9NV0332lT0U",
+        "plus_code": {
+          "compound_code": "HVRX+GM New York, NY, USA",
+          "global_code": "87G7HVRX+GM"
+        },
+        "reference": "ChIJMWmGgb9OwokR9NV0332lT0U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594364,
+            "lng": -74.099052
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5957052802915,
+              "lng": -74.09769516970849
+            },
+            "southwest": {
+              "lat": 40.5930073197085,
+              "lng": -74.1003931302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Raritan Ave",
+        "place_id": "ChIJNWFFvupOwokR7cVRkdGEkkA",
+        "plus_code": {
+          "compound_code": "HWV2+P9 New York, NY, USA",
+          "global_code": "87G7HWV2+P9"
+        },
+        "reference": "ChIJNWFFvupOwokR7cVRkdGEkkA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.590519,
+            "lng": -74.100929
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59186783029149,
+              "lng": -74.0995468197085
+            },
+            "southwest": {
+              "lat": 40.5891698697085,
+              "lng": -74.1022447802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Four Corners Rd",
+        "place_id": "ChIJcQBPe79OwokR_iBdE9MC-K8",
+        "plus_code": {
+          "compound_code": "HVRX+6J New York, NY, USA",
+          "global_code": "87G7HVRX+6J"
+        },
+        "reference": "ChIJcQBPe79OwokR_iBdE9MC-K8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.594604,
+            "lng": -74.098373
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5959855802915,
+              "lng": -74.09705691970849
+            },
+            "southwest": {
+              "lat": 40.5932876197085,
+              "lng": -74.0997548802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Raritan Ave",
+        "place_id": "ChIJCf1B7epOwokRpfgHf3yBgj8",
+        "plus_code": {
+          "compound_code": "HWV2+RM New York, NY, USA",
+          "global_code": "87G7HWV2+RM"
+        },
+        "reference": "ChIJCf1B7epOwokRpfgHf3yBgj8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.589088,
+            "lng": -74.101837
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59043018029149,
+              "lng": -74.1004760197085
+            },
+            "southwest": {
+              "lat": 40.58773221970849,
+              "lng": -74.1031739802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Buel Ave",
+        "place_id": "ChIJsaU6Sr9OwokRLXL8RoiFRpc",
+        "plus_code": {
+          "compound_code": "HVQX+J7 New York, NY, USA",
+          "global_code": "87G7HVQX+J7"
+        },
+        "reference": "ChIJsaU6Sr9OwokRLXL8RoiFRpc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595222,
+            "lng": -74.09761
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5965509302915,
+              "lng": -74.0962408697085
+            },
+            "southwest": {
+              "lat": 40.5938529697085,
+              "lng": -74.0989388302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Burgher Ave",
+        "place_id": "ChIJ-26F-OpOwokR3xW7mAH2ArE",
+        "plus_code": {
+          "compound_code": "HWW2+3X New York, NY, USA",
+          "global_code": "87G7HWW2+3X"
+        },
+        "reference": "ChIJ-26F-OpOwokR3xW7mAH2ArE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.588966,
+            "lng": -74.10174599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5903406302915,
+              "lng": -74.10044211970849
+            },
+            "southwest": {
+              "lat": 40.5876426697085,
+              "lng": -74.1031400802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Dongan Hills Ave",
+        "place_id": "ChIJkQ2oS79OwokRes3lTK8lhvk",
+        "plus_code": {
+          "compound_code": "HVQX+H8 New York, NY, USA",
+          "global_code": "87G7HVQX+H8"
+        },
+        "reference": "ChIJkQ2oS79OwokRes3lTK8lhvk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.59535,
+            "lng": -74.09723249999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5966450302915,
+              "lng": -74.09594996970849
+            },
+            "southwest": {
+              "lat": 40.5939470697085,
+              "lng": -74.09864793029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Burgher Av",
+        "place_id": "ChIJCY4OVOpOwokRPDkWVgqMNWw",
+        "plus_code": {
+          "compound_code": "HWW3+44 New York, NY, USA",
+          "global_code": "87G7HWW3+44"
+        },
+        "reference": "ChIJCY4OVOpOwokRPDkWVgqMNWw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.595474,
+            "lng": -74.09685499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.59685648029149,
+              "lng": -74.0955348697085
+            },
+            "southwest": {
+              "lat": 40.5941585197085,
+              "lng": -74.09823283029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Burgher Ave",
+        "place_id": "ChIJh1afUupOwokRDlBW_Bhs4DE",
+        "plus_code": {
+          "compound_code": "HWW3+57 New York, NY, USA",
+          "global_code": "87G7HWW3+57"
+        },
+        "reference": "ChIJh1afUupOwokRDlBW_Bhs4DE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5872124,
+            "lng": -74.1037668
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5885524802915,
+              "lng": -74.1024032697085
+            },
+            "southwest": {
+              "lat": 40.5858545197085,
+              "lng": -74.10510123029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Seaver Av",
+        "place_id": "ChIJ9_NRA7lOwokRORXv3LIdJ48",
+        "plus_code": {
+          "compound_code": "HVPW+VF New York, NY, USA",
+          "global_code": "87G7HVPW+VF"
+        },
+        "reference": "ChIJ9_NRA7lOwokRORXv3LIdJ48",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.587185,
+            "lng": -74.103897
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5885461302915,
+              "lng": -74.1025656697085
+            },
+            "southwest": {
+              "lat": 40.5858481697085,
+              "lng": -74.1052636302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Rd/Strobe Ave",
+        "place_id": "ChIJoXC_BLlOwokR2wLNIUrlDlk",
+        "plus_code": {
+          "compound_code": "HVPW+VC New York, NY, USA",
+          "global_code": "87G7HVPW+VC"
+        },
+        "rating": 5,
+        "reference": "ChIJoXC_BLlOwokR2wLNIUrlDlk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.58724999999999,
+            "lng": -74.103622
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5886241802915,
+              "lng": -74.10231316970851
+            },
+            "southwest": {
+              "lat": 40.5859262197085,
+              "lng": -74.10501113029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+        "name": "Richmond Rd/Seaver Ave",
+        "place_id": "ChIJoXC_BLlOwokRCEfp_5WN0XY",
+        "plus_code": {
+          "compound_code": "HVPW+VH New York, NY, USA",
+          "global_code": "87G7HVPW+VH"
+        },
+        "reference": "ChIJoXC_BLlOwokRCEfp_5WN0XY",
+        "scope": "GOOGLE",
+        "types": [
+          "bus_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.591521,
+          "lng": -74.101209
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5928626802915,
+            "lng": -74.09973641970849
+          },
+          "southwest": {
+            "lat": 40.5901647197085,
+            "lng": -74.10243438029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-980-5006",
+      "name": "Max's Es-ca",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4590,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108564407547168682654\">Alvin Cheung</a>"
+          ],
+          "photo_reference": "AU_ZVEH1Z8_TJ0ILSHkNKBSm2E6ajJRzpfWB2dgv9iihTJiNGLwlNNfzx7VkKlG4DcklcHBxM2P7lNHXAZQamoEP97GdrMcUqvuv9qZf6-8c_zBRTMZ_3rG0mfQ1MwpofKhqc4LvnMP-sFQSfGIOm_Zb-cEz_x5ykKNe5GWo5g_zs9vzC0r6H_kZIX72u2M9sBO1_Il3JBx00amPy2B37PMTDVfrkudK66kbOLT5ysVQbOmQr9y0pOSoHoW-Q9ysPA-18d1V7aqqeUV8rMRLURfAnl-p34ldJr3mubY_7bXJcEkx3I0FQh72WyiaTPwn1CfDzh3hjXvw6RASoBNFf4gCydNciHo1PIGRytDgHIYGXMWNmtn5rUcfms3Yqba7NErzVeir3dbr9cwiZx5zNY8JTDEcGdPm_RhBxBO9JFN5Sy9yU_ig5_zINfsuV7vuofYeQbQtMakWsS_hnIP5x4UPA2mgPSq0_UmCRU9NVygYcJM1Xs85w0IaklLdlCdTzgDWATsgxDl_O58Z_bLbPz7SlnUV51sYFgsTyYNtUO8y6m1QW8rqf9L-4zArW-Ih_389jpEtCl3SnHO5WrNAcJA-yynjeL8njKqnvEX8LH9zT24S-biTvx47jbdwxAYdPM9X5X8anZfgGKEixKDXorJUDg",
+          "width": 8160
+        }
+      ],
+      "place_id": "ChIJFbaEnL9OwokRh-hurBvurSE",
+      "plus_code": {
+        "compound_code": "HVRX+JG Staten Island, NY, USA",
+        "global_code": "87G7HVRX+JG"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJFbaEnL9OwokRh-hurBvurSE",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 871,
+      "vicinity": "1559 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5942815,
+          "lng": -74.098692
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5956522302915,
+            "lng": -74.09750916970849
+          },
+          "southwest": {
+            "lat": 40.5929542697085,
+            "lng": -74.1002071302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-668-6838",
+      "name": "HKS Kitchen\u6e2f\u9910\u98fd",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112803909113056433829\">Pinky C.</a>"
+          ],
+          "photo_reference": "AU_ZVEGHnr6kuWIA-FylNbOPOEd7DjGvZBDvvwt28P_DdaKRQfRHTv2p5LHxLwdxKI3Pjwjgngk5HBr7VNs1_47SgYkM_IojmHQq3DP8dQbsxthFtsNxxgMeNGu8B4rFJaQWbakxw0pRhOaquxqvb2odwifY_-eNRcXvkKYOwZhxuu74lxBpbiaZoVK1xhy3WYHotdHEOz4j5lOlAs9pX9J6q8MtCr1Vjlrqwknt5w3l36Ks6bg7TULMsSLqu6qGMQOZPPqkhFn46Nms0VfIXBV-9bseLaN4QPnVbSYhnujJvGVhiMxIzonilX4OD3CDwrQeeKDm7tllCHEOFm58YclUS0zTfwApBAE686CwXkGwXmnuJn_2y6qJWYZCZrz3SI7RH65qKlhsDKGuJjA_txOdnMW61oIDNlYqukKjKtBmwjnDSCmtgPOUwKcoH2GG5ITuroAha2SPMmY4y5iBUepxHign6sEpoKLvM2dHwaC9Xf7DnBy2FZqaMSlZh7ZcOt1niSiZOsx_ukRdpLtzUZ343AdZ-Yd9CURchMv7U7dH_P-ST-Bs4Pk_3x7whHvUQg1zdY0vgOydc2KMA1jWI4-TgfY5_eGsf1j8j84j4Zv5xgq5oboBBzruDwpTOIqAwAMpAtZHer1QXuJrf_m7xq-EmsgsYek",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJ6wiHlupOwokR7v4CzlBucy0",
+      "plus_code": {
+        "compound_code": "HWV2+PG Staten Island, NY, USA",
+        "global_code": "87G7HWV2+PG"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ6wiHlupOwokR7v4CzlBucy0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 390,
+      "vicinity": "1434 Richmond Road unit D, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5869872,
+          "lng": -74.10439079999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5883308302915,
+            "lng": -74.10296651970849
+          },
+          "southwest": {
+            "lat": 40.5856328697085,
+            "lng": -74.1056644802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-351-3653",
+      "name": "Dunkin'",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113306977348913159977\">Charles Stoffers</a>"
+          ],
+          "photo_reference": "AU_ZVEHITlOUn_mGzjqun7ct66PzzVhI8gLP0-f8CggSyzrTD9x8V7XaI4EjVPo4SHh4R-SBPjjCgVK6_lVJONDEobDElSgwnfKfXi031swVEKQDQ87ARZIY6-R0SGRI3OqPeoIbiqG3UsHXAhweR33AETLZsCqhYCNXy8PsuEfpp_OFg_9V5BnGkCPG1-GIqy26MYi-bg-EGHmslbRgw-eKz1jtzgCEeO92KccgRBh8cm9Uy8ribaW_ZP-inO1aZus8mqDfQH48IyMLfDp3E-TZsPPzx7Pk4prkY5IFwmnGxYfczAZ8WfwB9783ZzocnCQpAk-XPPawo3bHCfYbJ4lZbntD_n7zztHomRIXfX9PzTFR7BLwkUCB8E0iuRb9e2oT5dUvXR7mSiAPoaFpRGWzy7U9JvlCHTlPeNaqTvu5euH-9rxPxhOPEQ7lSJEXjeWuWLz6kFGGV20bhcYa_mdKCzbek7sXcll6yToWPF4JkABiwr1fs60GtkzstzBa1tZlJ-P6Ia7LajEjZ4m-1El3VXgg5pMPXds0757i5Th8qwdmWpIuBn8j2al4J4pqimwQ7EQyXBAQqizeK3dpJhAA4XPrYXGrWjAexkL_PjPFn5u2TqMS7CQMnTHPmK4WpbFw",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJYTc7D7lOwokReFxeRf09rSE",
+      "plus_code": {
+        "compound_code": "HVPW+Q6 Staten Island, NY, USA",
+        "global_code": "87G7HVPW+Q6"
+      },
+      "price_level": 1,
+      "rating": 4,
+      "reference": "ChIJYTc7D7lOwokReFxeRf09rSE",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 205,
+      "vicinity": "1781 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59122969999999,
+          "lng": -74.1012157
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5926320302915,
+            "lng": -74.09973021970849
+          },
+          "southwest": {
+            "lat": 40.5899340697085,
+            "lng": -74.1024281802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 718-285-4783",
+      "name": "Ralph's Sports Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2026,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100507569584502910935\">Ralph&#39;s Sports Bar</a>"
+          ],
+          "photo_reference": "AU_ZVEHsskqOiAprMJj8Wc9GiXpfTznOL8XrDdYuXdULMB3UXPksqhECT9AfCKXordntkNUyFl0YEryKjpuMzgYEhSeozNB-gOxny0gWmP89OtnPptVyx6luDvUmC-2B4RAlAkVq6y--0lQ3zFakBheWJo4cjeZGAW-av5-5v1hCt-DsXNFtjghdSkxTtzvOJAfp9CVeGSceCKr6wKmmuOwpWQIyi3odPV9jhO16msEFPXoiRP2T6iWwjIQMFARG5VpkMbSk2xlIvnCMK6LjC89sd26_qU0CW1qfZkiut-yvzJ5xq_HMlrvB1iU2-yr0zNyxEnTNZpA1GRg",
+          "width": 1284
+        }
+      ],
+      "place_id": "ChIJeVR-CMFPwokRPcjFi7io-fQ",
+      "plus_code": {
+        "compound_code": "HVRX+FG Staten Island, NY, USA",
+        "global_code": "87G7HVRX+FG"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJeVR-CMFPwokRPcjFi7io-fQ",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 293,
+      "vicinity": "1571 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5897463,
+          "lng": -74.1013487
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5910485802915,
+            "lng": -74.0999594697085
+          },
+          "southwest": {
+            "lat": 40.5883506197085,
+            "lng": -74.10265743029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-987-7999",
+      "name": "Sakana Sushi & Hibachi Steakhouse",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104123338399824608456\">Sakana Sushi &amp; Hibachi Steakhouse</a>"
+          ],
+          "photo_reference": "AU_ZVEGB-I-_oeG2-RP3IoefAhETZXdgG9K7d6hXY_REKetqgIWFC8LptE_oz9LwtglZaOEA_OS9dbH_kK54200r5K4-0RdR-3vt4pHJFM0n8nf7Ypc4Z9m5JIro5ZMoVwAO5sayw8H2DnoXJqGJhsgUdaI5OsXnh194ZPUh9fOvlbdbj_lOO5mbZGt3UFWU0qWkI22tsxnnp2pLtUl5mBNN3NTD9borOe4w1hZ3S6InaNW5h8GoQVPgmZl2t3mo_Npvjjl1zkgBbRm5OfOqZStkcJo07J7cbUR_qzZeTt0Rmb6Bjdk56RgK75Yy7knNp0qUt5wj7x7d6qo",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJm2Od-41PwokRiSZBUff1ybI",
+      "plus_code": {
+        "compound_code": "HVQX+VF Staten Island, NY, USA",
+        "global_code": "87G7HVQX+VF"
+      },
+      "price_level": 2,
+      "rating": 4.6,
+      "reference": "ChIJm2Od-41PwokRiSZBUff1ybI",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 434,
+      "vicinity": "1657 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5895993,
+          "lng": -74.10147660000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5908396802915,
+            "lng": -74.10017941970851
+          },
+          "southwest": {
+            "lat": 40.5881417197085,
+            "lng": -74.10287738029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-316-9707",
+      "name": "Baci - Staten Island",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105209580449417726408\">Akram Senan</a>"
+          ],
+          "photo_reference": "AU_ZVEE0DcuFsFrMjkh2lHERomdOswITfqkszYVvXVC5FZiXJIOGt3k_7cpYeyTrjrbGbd-CfQTvvQFLQ9nWcNCJC0rVheGwZsvZyjmp-2Zd_0IuDLBEXV8SmRHWsyQWn5RBOJOpel2irLhgMl5Mfws_7NJ0ol5-P-KhZkA9zOCVMPSjVj-WcuN-iy5IFXd7WnxJDR12GSHX2gmrm-vq0C_0WR93WmBhFTgrW_-L1rpkmAgpoh2zjXKe8qCDk2lnApAXK2CyqTj-odD5XI4xExE8whKx8mjNJ9ZwYgtWllonWPIyMHP2I2RxjVJPcPN9WKTUoSL-Oob9KwaksnhXypQQ0VqGejCsdEe5n-lkt6ZOqd127W_6NQhTOZNNzIagoY4d5is5hv-A4bgV_nJznvgNCk2Twt0GM2O0KSEfE6i3luvv1hYLR02DgHTZJ0vKUgYKXKVGvLDXU-ehm8jiO5RLGW8CQJWio0apkqJtVgY97KBCxq-5cQNQf_0N-y_DXtpMB7F9f4z_xoEBlT7EikXXgEU7PtfWD6bpI7zavtlH8UAfwyEPxXeKDFFI1zJGBF2ep039ARGebtoIT1hxrubb4NMWDhzVfZYxURoSnmA9HPesn1UTWq4mDUNH4dTcr2lKKQJypw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ44BkkzJPwokRFYD3wJB1y28",
+      "plus_code": {
+        "compound_code": "HVQX+RC Staten Island, NY, USA",
+        "global_code": "87G7HVQX+RC"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJ44BkkzJPwokRFYD3wJB1y28",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 532,
+      "vicinity": "1657 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5890622,
+          "lng": -74.1015135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59046188029149,
+            "lng": -74.10025371970849
+          },
+          "southwest": {
+            "lat": 40.58776391970849,
+            "lng": -74.1029516802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-314-5363",
+      "name": "Cantina Valencia Tex-Mex & Tequila Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1868,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111916990815294570269\">Rene Mendez</a>"
+          ],
+          "photo_reference": "AU_ZVEED52aryj_PMea7D5Kh5XP6OfkEb6SJMUtf6iWuX0eE1k56dy8Wwhh8na-pez8KM6PFyPgOuFhz051UNwCP9Tx3_VGsFG-X6yE3SkbEychJ34PKQL5vtV4hxJ0t40frJxwXtaeh4ivijDjI6XPFrFv38NtBhHK5cuYOMPVc5napQzR6jei4npYM3x2lcnme3v1R6lQJtkrlfk2DsnemxsDeMdeHLffTlCipX7zAwd-1-LK7XTe_Fcq_ywlEuKJJW9fNAx4XMiLozzNFLoD_oYDBbqPy3YMrC8QEGBADBbKJ7YxWOJy5mOpMylr-29YS-xvS-WN-RUDBAG6rSutWIWGgLMrUkNgtp6aKJ_x70lseMBwyYTGEAD9H-Q130--i3FIxX5TVetw2hkr71CB-BhqJJ7tpmiWy9Y8kRjgDplNqM8Qy4imjcgToFfea7hoC8ILBikKXhoTgJcCW_LklOvzydt-i05ghPoZx2-lcTnPenMjP8sVLgH8Qz6UbL-BlypE4cbgUjZr0ZShhsaXfquZOoXhQ2ywJUg1giSJjPvzzkj97GJhyocgIvoLJaEvrKBZ7k4_RY6qDD-jpbHj8IRNixwL3kQjEIu2pN2-AnsD5I8I3QxZexcNUyspQGrPiJZ3Gdw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJdyLF_ldPwokRhqVzPv2-4n4",
+      "plus_code": {
+        "compound_code": "HVQX+J9 Staten Island, NY, USA",
+        "global_code": "87G7HVQX+J9"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJdyLF_ldPwokRhqVzPv2-4n4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 212,
+      "vicinity": "1674 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.588365,
+          "lng": -74.1029468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5896441302915,
+            "lng": -74.1015562697085
+          },
+          "southwest": {
+            "lat": 40.5869461697085,
+            "lng": -74.1042542302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 347-980-8324",
+      "name": "Starbucks",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115866827453478561737\">R B</a>"
+          ],
+          "photo_reference": "AU_ZVEFbr9kUqPdc2rKnOobnK4FEQHKRAqPJ8Nr-i_SVqxMCblZXBPZMPHiH5ersjJj6MptBWZlQMi1b71U-p7idxSYVTwDpmV7xSHgkuKeUJa_YHqNjcKrVB37SuOOo9nS1cIUOJMNhGZrTAuz9wGaeWC9nI4SprqIEktQHLT_Rv62w7SArfmCXgr2nw4mAdKPSE1rQTlPTWhhk1xWM9EIT1c0YTHjQ8_sX_-7B233D0WXzJ4ytzYcSvGILDzJ7MhvN5RyV3RvFg0AUUR7KtKWI-BjPOXyaY6b70C_nddJNJRWdFfhIX2JCj9dgq_6Okp2jaJMIj4eK3dRNk3MWNQ_2cxHc70_2LeZnHHks88Idcooss2uEujiLvAGjzTxXi1zxCWX8wqRdOHKdSPJnEu-8IPn56Mci8wLmYgNh7TOTC3oOMzK6z7ETJ2anqRY3rw1pvdqrXYokJt-EKgHID807LefvK06ownW3n3Yabik3ZTnKPqYSn7QKBfQPsa0LgPvVx8wumQ-1NoPxvJdgQDQtcJfdUw6JnZhAU8FWBtOM4Cdm6dJSK4vyirkKr8ZJ2xJBOpntYOmH1m0k6drXqXeWlHYutGNOx7AJHTOo9jUXnWp6flqfQ4ANOBLIr-pJf45LbmxPyop6PeNrh2sdUuwtljBQ8zo",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJQ9xUHVxPwokRtUNtpu7HuyM",
+      "plus_code": {
+        "compound_code": "HVQW+8R Staten Island, NY, USA",
+        "global_code": "87G7HVQW+8R"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJQ9xUHVxPwokRtUNtpu7HuyM",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 326,
+      "vicinity": "1717 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.588799,
+          "lng": -74.10177
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5902000802915,
+            "lng": -74.10051036970849
+          },
+          "southwest": {
+            "lat": 40.5875021197085,
+            "lng": -74.10320833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-351-3100",
+      "name": "Torino Pizza Cafe",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1908,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104778830157215489787\">burim mati</a>"
+          ],
+          "photo_reference": "AU_ZVEE-wqqFNW__Sll5j_WPLAEOy9xeoApUf7JK57lus9whdCNsmtKhcZzGeXITxSI8Ob6-KB0z5PgkokzVPwAsf0MnAvoqoJmfiDbOdXEXacnRbsjyCI-b7K07Z0-PVON-7Jb5YQiCx-1Si_LuPZmxOXJBnCu4dJ1QPaWcvp72Cge4iecxXHx9TJgkZTkFx565fBLFXl-IrPjTpFWhSvJ8xVS3AyjanFCpdhuTIpcoaHiW8e7Uw7FQ47GSOdgIBIlOoN9KWdbpQQRVv1HCUkwRLbtx89ul05LkuHyEGlz9b9gFZkuGxRNk-H-CdqT8HtRHRYG0ZrzZXAlHeOkAYkVvhRmlcJQ03kYkke0hS9TiAh_xZTxDZcd8lcGjDHugfOd4JEnwiWg5EbvJtgGwU3Tp9Xja_BGiKkZV4RQG6T5iJ-TzLr5wO3FXe_ULiYm8LACibsxF79jlS75JBc9H1gL8LYO_CIl6wL1gPIUrgjJCS794QxmKp4gpA6wCTpxcUdhZ7DAhaXAfYxNNR4CsfgUIF0Eln9yHpedrYGtCr1QJmhxpwTkkWte8MZtqxm8s2CJTKkKOBMhoRktgFqM-LG6cn2Mp_8AQ3nf1M3dk5b7_XOPGwKkFCLmr5t9g9uglgVXk",
+          "width": 3644
+        }
+      ],
+      "place_id": "ChIJAQutSr9OwokRZHsk_EmRXVM",
+      "plus_code": {
+        "compound_code": "HVQX+G7 New York, NY, USA",
+        "global_code": "87G7HVQX+G7"
+      },
+      "price_level": 1,
+      "rating": 3.9,
+      "reference": "ChIJAQutSr9OwokRZHsk_EmRXVM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 289,
+      "vicinity": "1694 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5881315,
+          "lng": -74.1032323
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5893917802915,
+            "lng": -74.1018517697085
+          },
+          "southwest": {
+            "lat": 40.5866938197085,
+            "lng": -74.10454973029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-350-8510",
+      "name": "Gyro King",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4284,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100564845112988536426\">Gyro King</a>"
+          ],
+          "photo_reference": "AU_ZVEHPsr0KzFPuD6M7baXkZm7kQTwqQVym9aKeTjvmZLuFKROpkmsCWeIeH1FdrHymv23Qo9Shq_za6pG5UfXYdM4KZwJp3T9FXu7wLuyt-CZRxaUHFS_WJ1klng64xlEXvYIBiBI41rNoPYLqbdL4GQhvYbn1OCvxNJ-XzrgSEpsPzA44T-4iQzaQPthxeU3R2imF42-pleiFLxlFjX0qqnybw6nryCD2oyqiancIHl-_UMP9PISy5-itaOt74kZoymzty701k4cWpIBe8LxfsvagcqpC0p1aczyOGQrsqXyZWrMnbtSZH6eailP8m4ymOvN9Gf-x-BM",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJdXPbtqdPwokRhSwY9fbTrKw",
+      "plus_code": {
+        "compound_code": "HVQW+7P Staten Island, NY, USA",
+        "global_code": "87G7HVQW+7P"
+      },
+      "rating": 4.7,
+      "reference": "ChIJdXPbtqdPwokRhSwY9fbTrKw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 211,
+      "vicinity": "1727 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5878599,
+          "lng": -74.1034755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5891969802915,
+            "lng": -74.1020468697085
+          },
+          "southwest": {
+            "lat": 40.5864990197085,
+            "lng": -74.10474483029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-971-9755",
+      "name": "Joyful Cantonese Restaurant \u559c\u7ca4\u519c\u5bb6\u83dc",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3213,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110239767920168483476\">Joyful Cantonese Restaurant \u559c\u7ca4\u519c\u5bb6\u83dc</a>"
+          ],
+          "photo_reference": "AU_ZVEGSWypjs0DwevxsJu_UPiw6eBZLXvNoZjWHR_nEQMJd45iVr8nOtHQ1VBKyH33coIfYImN--vQ-l6ORJJl7ABQIdEGI63lGIVJRNyYUTHiA4TXAwh6YaUgDJXH-Chtrg17Q8WRDFaTvi3Ru9j_ZeBaAB5ne7Uy4JQek4c4-bgnzw3uOAxUD_ksJtPlWZoR4sD7jDdvwiwbP2kcK_UQPKDdDj2n2v5J9SisCvhphwYlCwJPTeSFWaeQEqWqFYIJ_Skq9fvdLS-jxCONLZX5z9egBNyCcWSR9pVLh_r6UKNLIKafmxCRz9WOMgFFMMnVB9NztVccvAvk",
+          "width": 5712
+        }
+      ],
+      "place_id": "ChIJxwtkJwBPwokR3SzlC5rObPM",
+      "plus_code": {
+        "compound_code": "HVQW+4J Staten Island, NY, USA",
+        "global_code": "87G7HVQW+4J"
+      },
+      "price_level": 2,
+      "rating": 3.9,
+      "reference": "ChIJxwtkJwBPwokR3SzlC5rObPM",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 166,
+      "vicinity": "1743 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5875151,
+          "lng": -74.1037727
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5888402302915,
+            "lng": -74.1022977697085
+          },
+          "southwest": {
+            "lat": 40.5861422697085,
+            "lng": -74.1049957302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-668-9059",
+      "name": "New Garden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105538978529340930193\">Steve Li</a>"
+          ],
+          "photo_reference": "AU_ZVEHjHmQaejhiyD4K3V9DWVUi76ryMNFQhOtxI7DlN7pVSOc6zYunUv2dYwkrPMU9LUpn3IFNbY0uJQtiCn2-ryZsaGfS2rV02g7tmR1pfMLCjoYySfbQVF96U-DnIl2-PIAfC2cYAV8rZWTTed2yiPU9XxMxRJV4qlXJJ-VgaWDyQOyDn-kpWzfOxK5CplyOfovaI4QU09Pu16mI99qBlXlBhQumkOppDgSIH-_h-7uBaxURppHL_W-jYe_264jGnTti1WAbHo4iM61D_CoE0WS-wv5_d1iITERInjVY3fpspLCTUT6qsLakaivqf6v0lTq5h5zJceeBWZ4PPJ1oTS8WBHkFTgIYHP9SmtgMLcQNkKYqU4AvEXSMdd1_AuXlV8-vEJcSjsbENh0fg7mHQWqHaNMY_iZ9Qs5CBTJqa3XfMx5dYVkcg1WiQ1suIZpBm-KOrsofE3GiGl-ztsbKRlrM5SGI7eZZYh_8nTJt0tI3muIBycQlygkh8DKXZjC1_oFfVdTm1cKeatSikTUj_NL_BJayzxtxD2nSAUF0uz4yJYmyVjncm76vHACawb3IoRcasZehf-7F-sjKCDFr0cR1Nu-I53OhVUHa2sh5MR-QeEzrA5BZGZyFv6QgBlIbYF7edg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJO37YTc9PwokRqXI5i2_sbSA",
+      "plus_code": {
+        "compound_code": "HVQW+2F Staten Island, NY, USA",
+        "global_code": "87G7HVQW+2F"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJO37YTc9PwokRqXI5i2_sbSA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 85,
+      "vicinity": "1755 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5873621,
+          "lng": -74.1040056
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5886158802915,
+            "lng": -74.10255981970849
+          },
+          "southwest": {
+            "lat": 40.5859179197085,
+            "lng": -74.10525778029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-980-1891",
+      "name": "Nakata",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113241125365729586103\">Kevin C</a>"
+          ],
+          "photo_reference": "AU_ZVEFf9J9qI-CEP69-MLkMF3xJnyIgXCBR5MtdoNDsaQk3z6Owrs5Pg-TR2N5kixpLFYkwpOSobLJi-qAd5jwkdmE2ubrD42OY039igcYqRQzdpHp4HB5hGX1kpCi24Dev1EyJjCqaks6LsBjv-4-rCYd-dQNtpHhQp7l-faPMQO7C6cQdKfWlH-jGmQ4lxh3qTMBmUKP90IinI-wm9glyNQSudAV6rH_aY_RpJpA6b2aXSiD2UAZklhbTYRQJeD3Bqot230C3g1-8MxdZzmKuqMPe7k7EZM5DCtlteio8bo9oAf2e107IeHWQJTwxapx_-Mr9PU_6zLQKg7RXr3pVtbZXHWy8JY88yhvWWX5Uj04GMUi4Ib1CWfp_7aisHTBJAanOAyHJCmEnKRaggnNCAB_5gVEtiuZIRhZPCZM1KpOXPBCAz-WIviKwC9BD-TVEKVaOrELzvSwLJnpdqLXPr_cR8g_xm-IOwiOmTHKtGYFF9c2cIMLZAH6v0ZFNOngvFPaiL9isFg-UnSBIqZ3tHgwilWj9U5incyowrgH72vDAQnYx-pkwbDoTkKrmKmJbJKFhXL019o_MnSpvA2i2EzrL0ec9mj-bgvAGtuMj4PvOPSpB5hBzULJQXdq5whvORPiEoGdc",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJEyE1BblOwokRPe-fb6jNHrs",
+      "plus_code": {
+        "compound_code": "HVPW+W9 Staten Island, NY, USA",
+        "global_code": "87G7HVPW+W9"
+      },
+      "price_level": 2,
+      "rating": 4.2,
+      "reference": "ChIJEyE1BblOwokRPe-fb6jNHrs",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 379,
+      "vicinity": "1775-D Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5872614,
+          "lng": -74.10410639999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5886015302915,
+            "lng": -74.10269431970848
+          },
+          "southwest": {
+            "lat": 40.5859035697085,
+            "lng": -74.10539228029148
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 646-577-5500",
+      "name": "The KOVA",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107945234386782504386\">Tatiana Hoover</a>"
+          ],
+          "photo_reference": "AU_ZVEFhGaAQImOGTw8rvmPGCQbfBE6SJFAsDQ_Mj5R0-f5faoQfT9yHflG2RcUPH61_rmPViyWceHTzJbQ_rgxavKl8aedsZDdk6ZuEvdFy35GYEVc86-GKNsDYlksnzZ1_xoJU1Mt9rTOdRRp4XnBsd7JnCfafi3o0ZxEZRpqdACApRZUxyBmwt9SqNYRbhGNY9ioF4kGCjiYs7HN9X55p-Ii6oj7D9U_PquMf8UQHlIYb6VaLERQIEzAc4nSFZnHFDFp09R1kRVdLjuNZ2me8XV1pkLSG6dUX7KK02EraI2Jzkscj-jfwPMMaA2ERNgVHF2WR4820KcRukExgdur2A6yqo2j2RkHBC47h-25NlfGLqOvP3-_-2yF8WsoA9wA8QlmEu7monhCeVjJMQAroAzDhSQFiWmrhvXs_o20OBLjSnpKUGe-dSXoOzxFHJ2EFHLz_nuSKTTVKPa6U5iraHSEk8O-SOGx_4THAVHF8u495AYYxYZOVxebA5Eqfl4zzZNri8jTES0BGfVFZ2A6zyGjTYW0a4Awdsm1Yw9xSChrIrWgtCBeMIzzDOaMx8mf5HOPckRAy_RMFx6QlYbv-qx-ezEKAnHXZ1ZMb5Ed0tCgEizspX0yYWGZSfvCFcXlyCwXITg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ_QunNadPwokRZdvXGhBeV2M",
+      "plus_code": {
+        "compound_code": "HVPW+W9 Staten Island, NY, USA",
+        "global_code": "87G7HVPW+W9"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJ_QunNadPwokRZdvXGhBeV2M",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 303,
+      "vicinity": "1775B Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5896772,
+          "lng": -74.0986728
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5910879802915,
+            "lng": -74.09725141970851
+          },
+          "southwest": {
+            "lat": 40.5883900197085,
+            "lng": -74.09994938029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "international_phone_number": "+1 347-770-2224",
+      "name": "Seaview conveience",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108236059106249957908\">Seaview conveience</a>"
+          ],
+          "photo_reference": "AU_ZVEFjD9MsxQ-4ecocIKEN4ubwDe12pQe25jaHZ7aGWR_Rs-yVIKUmfK-l5gE4pIWC4VSfl1BMieLftjkTJQ_t7vzFGoJCNpgKW3wMHcnuWYAlYGc-TzPfGGqNDOBwPko33SkMQo76TCsHkhffqlEAluTZpE5fszhJ2PGJER3s_kj14ym_oXUdApF8tnojCSDfIboaxXuMI5RpZBmDYRtZbe0UXfz0Aiqi-2KrySjrhoBIshWPBGxompfiiJjw7pHfGzPwc9SkbHNDOrpWfnVoVSNVE20f8Y4G14Znjyj0aMttkVMP5yig-W16qcz9F-yMF7HULrJIWv4",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJFXsN6cBOwokR39c8bRen6Dw",
+      "plus_code": {
+        "compound_code": "HWQ2+VG Staten Island, NY, USA",
+        "global_code": "87G7HWQ2+VG"
+      },
+      "rating": 4.5,
+      "reference": "ChIJFXsN6cBOwokR39c8bRen6Dw",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "liquor_store",
+        "convenience_store",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 34,
+      "vicinity": "82 Seaview Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5865432,
+          "lng": -74.10471869999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5878565302915,
+            "lng": -74.10331676970848
+          },
+          "southwest": {
+            "lat": 40.5851585697085,
+            "lng": -74.10601473029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 212-425-2623",
+      "name": "Rustic Pizza & Pasteria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117994279261003740673\">Rustic Pizza &amp; Pasteria</a>"
+          ],
+          "photo_reference": "AU_ZVEFYFczx4gZ2JsOalLXE5HSsqQcmEfztUeueEOiWSeeQYJfnzmNLQMRecA5Z0d2dLQVA_w15Cay_nYQRnRVGjeam5cmnLVK9Vq6ap9NZ4w-1wvPQuvNG2rtNtEQ-l67l5fftATHKWQIvm1D_AySva5MewxPKPs5JleS8eczAnsqkBczi6AGQfLBSw93XeMWpLFYehXU4PUY6IT7NKHB2X5ONZMz1vFSaQJ1D9N0T5QNBGxL7eYOliBMSEvuvd9rBl4xAjfZx-qB_nYdTLjcfDlF2H4aRGt28Pi-G4NmNmw69G2WsZecJEcUX5BZTxz2C6nDzm6J-Pgg",
+          "width": 5568
+        }
+      ],
+      "place_id": "ChIJfZEdO7VPwokRF1fAUgqE_eo",
+      "plus_code": {
+        "compound_code": "HVPW+J4 Staten Island, NY, USA",
+        "global_code": "87G7HVPW+J4"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJfZEdO7VPwokRF1fAUgqE_eo",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 289,
+      "vicinity": "1789 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.5890622,
+          "lng": -74.1015135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5904938302915,
+            "lng": -74.1002222697085
+          },
+          "southwest": {
+            "lat": 40.5877958697085,
+            "lng": -74.10292023029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 718-980-1897",
+      "name": "5th and Vine",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 5312,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112386073517897687698\">Kemp Jones Sr</a>"
+          ],
+          "photo_reference": "AU_ZVEF9FA1DCGux7CIEzZE1G5uQ_S2n0rUTZfCBalidJkgzqpAvGGvebQ4NKrpyVamGkpsGP-v5w9Qxpj_ZBFivb8gAPYBDUHqLpmYlpLTox5xUNwHYJ4_pmQMUY79hATKOKpDNdj_Uv5DtT5XXHvNhaMiZ3ETJ5OLfhMLNnNAYcWSxijYvutqPqzwlgsd7c2kn9Vx4yopG9__j10NLeebhew8eNk9Lzvw5mYJ8d5Iafz5w3lIDPDJYihIG-t9ac-q27mwezSPED3b85r9_hj3v1fv43xZS7Grq_RilOE9FimRoft9_Owp-XiVlL_8dn6Yx9BdOdlWXOzBtvW_J9jGE1Z1uyf2BQrufwZgq_rFiIgj7Qi8rfg-xjwz2Y0GKn0SQtyPNnIhfx1w0S1X8OVIqrbJj9X-4fmfa_UemuUE1vvkbEjvxgp0eZK06Krjev2Xln_4FGHfxU7jIKOwFB_NKsvObad_f8NtS3ovy4cnsZTYZZsaagmNQqRnlRs4Aooui-Y7NuuaCx7I3imR_BNKhmq2q1Z3U-pzfkfRpIYVtBtmHY_-yFCmxJ_utrgNgiRKietRfqoO0ZTPJGeKhw_fy-20-K_P1WeSm6N8x14aLcket-7GIDJf5zBGHOWuy_LJ5atCRJOqF",
+          "width": 2988
+        }
+      ],
+      "place_id": "ChIJPfruTL9OwokRpSyf3rMTKuk",
+      "plus_code": {
+        "compound_code": "HVQX+J9 Staten Island, NY, USA",
+        "global_code": "87G7HVQX+J9"
+      },
+      "rating": 4.5,
+      "reference": "ChIJPfruTL9OwokRpSyf3rMTKuk",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "1674 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5938984,
+          "lng": -74.1159211
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59528118029149,
+            "lng": -74.11459381970849
+          },
+          "southwest": {
+            "lat": 40.59258321970849,
+            "lng": -74.11729178029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Richmond Parkway",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110992908948373967816\">Melody Butler</a>"
+          ],
+          "photo_reference": "AU_ZVEEKaqZ8s_TiYKV2sRZopv6p6amhGzKJuVedCvHaEi1-Rkl9crsWVfmRVcmaKxBh_F1H0RMBL019dzLulDW9ozJsypNJ-M_qJmVxXyBuukdVarmPyvanmQQXbt6lRMhGFCG39RwDadAhQrAauOzKpdQ3y9_fUu2hA94XvVyRuU8I8QC6BnvL2iy-kYwPGp908p5xtivvUjLAMojxndw4uLWH4p26MW3mk3vQ4kfxcobXHnRFPwQLEo19rKvnjF-hxS6rYM9RMHv0uRq8N_xh-7OKEpCMvkpcbosle1mpvsBwM6snmm9BL35lrvFBO9jSPpPB2OAv_S09hA4RbxCSRV5eW3XgaHBIsrbDfb4TWTIfl4_EgKXKzKOl-rWEnvLWpsBhAoq9naNstn722jgg0lqJBy4Y262qy0WlInx4ABbsTR2qnw3zTGKlS0yeRCs_Crix9gUDW2tBHtvPYcdxYPtX1Tqb1YyayBpl_FuA8kFub6JUBAifvW3SBwpr1vXxBRBrZhoepVC0Xv7G8eacbCvOgT87EkV8pRGgBXJ__ih396osqGNMvJWAgRfDEKgb6FrEJuDi2kvw8lynTv-1hEiRMgoPL482whBsepP-4AeGAo2qHM1U17ltlU6IH60D",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ_9yugZ9OwokR72_Mkh1XTwI",
+      "plus_code": {
+        "compound_code": "HVVM+HJ Staten Island, NY, USA",
+        "global_code": "87G7HVVM+HJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ_9yugZ9OwokR72_Mkh1XTwI",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 35,
+      "vicinity": "Tillman Street, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6014014,
+          "lng": -74.1037381
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6023996302915,
+            "lng": -74.1029917
+          },
+          "southwest": {
+            "lat": 40.5997016697085,
+            "lng": -74.10597729999998
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Reed's Basket Willow Swamp Park",
+      "photos": [
+        {
+          "height": 1597,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103324559654210539409\">Reed&#39;s Basket Willow Swamp Park</a>"
+          ],
+          "photo_reference": "AU_ZVEHy-fxXkB5KsGVjiXaJjEy9cMI4mbl2t5HcaPqn7HEusb7NdPrAqByrwtGwaw0Ez9McdXD5vlP6Kx4hjp5gzKJ8YjNbB91WlH7vK7NHKElKmmqV4uUxgwBepwVoJqDpz7SLmTgEPjpdCWqYVH9aApiPKiyXDFLrcI1HJFcLMFiaIn7AOYyjtJFR86urKYJ9UuQQp_OeeGxSgp9s3r7vxyRvKfa6ipYZj6-9iYGl59HTu3PLIgFYmrxS_092PT_grod5w6VANDUg6GMzl1862p2BnRvV8h2AmEmUUduqAxZTVIKLzMD1Yqw9-ALjzYokYJvr-0YjJgI",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJedU2wZNOwokRJeRhzkl45F0",
+      "plus_code": {
+        "compound_code": "JV2W+HG Staten Island, NY, USA",
+        "global_code": "87G7JV2W+HG"
+      },
+      "rating": 4.6,
+      "reference": "ChIJedU2wZNOwokRJeRhzkl45F0",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 57,
+      "vicinity": "Ocean Terrace, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5933564,
+          "lng": -74.1000401
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5948260802915,
+            "lng": -74.0987485197085
+          },
+          "southwest": {
+            "lat": 40.59212811970851,
+            "lng": -74.1014464802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-351-1611",
+      "name": "Billiou-Stillwell-Perine House",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112715394850780426965\">Nils Paellmann</a>"
+          ],
+          "photo_reference": "AU_ZVEGWEEXTEyG6tuIuzrTyKwT9rrxv-z7Zil1oePq9liwH2xpsHjwIOZeL1bBG9mZcsO7uedTv35UWzLoDGw_iR4vE_aNsZ0aK0yJR3i-wiPRJJWVFRSZcFMRVoxcbaD5YS7PH-9VQfgn3xeyoxzdp7x0jfFSRX6wyuFzatRv9PNdddDKQOjaTLBJde4A_bSB932m8CkVi7zdaby1Eh3gJJ75gFXgN3nARqdLHLG-QAXZehERJHmp47VuVds_busnVZf0tihlcMjacM9_P5zxZCHFGR3OzIzJukplQ5xpXQygDuBDVsscqPsws4oVmzDJ3x-0vqDlwzRz3jUvCgscMcpbl84YjEJok9qyqZT3fAvQv2o2CvVVMifAcdXayeYhmzQWdxOeQKkBLB0kpvexIfXKvjLJiRZh2e7HCH1NAJwKFQOXGjPmH--ixWrXrd4kX4EcbnAX5WdEiCqS976PZhV3ABIDBe3S0OXUNYq6dc94BGFk1muPwbIIvZJcWgxUto6bO1r_aPSTQk93QmRALCB4cpp0CAWzDsdvWkSZImGh2fGp2O0lXBe4qY4oGpwrhgauNn2CP7QFDw9a06D_8K9nPRcrM5FhmSlWiT3k-jMK-coqGvkuyd2EMGvdyCgkW",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJCZFoAsBOwokRtIXlvay-GVI",
+      "plus_code": {
+        "compound_code": "HVVX+8X Staten Island, NY, USA",
+        "global_code": "87G7HVVX+8X"
+      },
+      "rating": 4.1,
+      "reference": "ChIJCZFoAsBOwokRtIXlvay-GVI",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "1476 Richmond Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5933205,
+          "lng": -74.1003915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5946635302915,
+            "lng": -74.09902971970848
+          },
+          "southwest": {
+            "lat": 40.5919655697085,
+            "lng": -74.10172768029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Norden St",
+      "place_id": "ChIJtazGAMBOwokRJNwMJ_zvGtI",
+      "plus_code": {
+        "compound_code": "HVVX+8R New York, NY, USA",
+        "global_code": "87G7HVVX+8R"
+      },
+      "reference": "ChIJtazGAMBOwokRJNwMJ_zvGtI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59306299999999,
+          "lng": -74.100708
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5943982302915,
+            "lng": -74.09931606970848
+          },
+          "southwest": {
+            "lat": 40.5917002697085,
+            "lng": -74.1020140302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Norden St",
+      "place_id": "ChIJ38_L-b9OwokRQMUf7dqYsxA",
+      "plus_code": {
+        "compound_code": "HVVX+6P New York, NY, USA",
+        "global_code": "87G7HVVX+6P"
+      },
+      "reference": "ChIJ38_L-b9OwokRQMUf7dqYsxA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.593578,
+          "lng": -74.10007499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5949447802915,
+            "lng": -74.09875371970848
+          },
+          "southwest": {
+            "lat": 40.5922468197085,
+            "lng": -74.10145168029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Norden St",
+      "place_id": "ChIJU-buqepOwokRqWl-vwndHdU",
+      "plus_code": {
+        "compound_code": "HVVX+CX New York, NY, USA",
+        "global_code": "87G7HVVX+CX"
+      },
+      "reference": "ChIJU-buqepOwokRqWl-vwndHdU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59452400000001,
+          "lng": -74.09877
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59586798029149,
+            "lng": -74.0974158697085
+          },
+          "southwest": {
+            "lat": 40.5931700197085,
+            "lng": -74.1001138302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Raritan Av",
+      "place_id": "ChIJT9LAlOpOwokR6iu3ktXxgdM",
+      "plus_code": {
+        "compound_code": "HWV2+RF New York, NY, USA",
+        "global_code": "87G7HWV2+RF"
+      },
+      "reference": "ChIJT9LAlOpOwokR6iu3ktXxgdM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.591282,
+          "lng": -74.100853
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5926275802915,
+            "lng": -74.09954611970849
+          },
+          "southwest": {
+            "lat": 40.5899296197085,
+            "lng": -74.1022440802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Seaview Ave",
+      "place_id": "ChIJMWmGgb9OwokR9NV0332lT0U",
+      "plus_code": {
+        "compound_code": "HVRX+GM New York, NY, USA",
+        "global_code": "87G7HVRX+GM"
+      },
+      "reference": "ChIJMWmGgb9OwokR9NV0332lT0U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594364,
+          "lng": -74.099052
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5957052802915,
+            "lng": -74.09769516970849
+          },
+          "southwest": {
+            "lat": 40.5930073197085,
+            "lng": -74.1003931302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Raritan Ave",
+      "place_id": "ChIJNWFFvupOwokR7cVRkdGEkkA",
+      "plus_code": {
+        "compound_code": "HWV2+P9 New York, NY, USA",
+        "global_code": "87G7HWV2+P9"
+      },
+      "reference": "ChIJNWFFvupOwokR7cVRkdGEkkA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.590519,
+          "lng": -74.100929
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59186783029149,
+            "lng": -74.0995468197085
+          },
+          "southwest": {
+            "lat": 40.5891698697085,
+            "lng": -74.1022447802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Four Corners Rd",
+      "place_id": "ChIJcQBPe79OwokR_iBdE9MC-K8",
+      "plus_code": {
+        "compound_code": "HVRX+6J New York, NY, USA",
+        "global_code": "87G7HVRX+6J"
+      },
+      "reference": "ChIJcQBPe79OwokR_iBdE9MC-K8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.594604,
+          "lng": -74.098373
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5959855802915,
+            "lng": -74.09705691970849
+          },
+          "southwest": {
+            "lat": 40.5932876197085,
+            "lng": -74.0997548802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Raritan Ave",
+      "place_id": "ChIJCf1B7epOwokRpfgHf3yBgj8",
+      "plus_code": {
+        "compound_code": "HWV2+RM New York, NY, USA",
+        "global_code": "87G7HWV2+RM"
+      },
+      "reference": "ChIJCf1B7epOwokRpfgHf3yBgj8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.589088,
+          "lng": -74.101837
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59043018029149,
+            "lng": -74.1004760197085
+          },
+          "southwest": {
+            "lat": 40.58773221970849,
+            "lng": -74.1031739802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Buel Ave",
+      "place_id": "ChIJsaU6Sr9OwokRLXL8RoiFRpc",
+      "plus_code": {
+        "compound_code": "HVQX+J7 New York, NY, USA",
+        "global_code": "87G7HVQX+J7"
+      },
+      "reference": "ChIJsaU6Sr9OwokRLXL8RoiFRpc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595222,
+          "lng": -74.09761
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5965509302915,
+            "lng": -74.0962408697085
+          },
+          "southwest": {
+            "lat": 40.5938529697085,
+            "lng": -74.0989388302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Burgher Ave",
+      "place_id": "ChIJ-26F-OpOwokR3xW7mAH2ArE",
+      "plus_code": {
+        "compound_code": "HWW2+3X New York, NY, USA",
+        "global_code": "87G7HWW2+3X"
+      },
+      "reference": "ChIJ-26F-OpOwokR3xW7mAH2ArE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.588966,
+          "lng": -74.10174599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5903406302915,
+            "lng": -74.10044211970849
+          },
+          "southwest": {
+            "lat": 40.5876426697085,
+            "lng": -74.1031400802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Dongan Hills Ave",
+      "place_id": "ChIJkQ2oS79OwokRes3lTK8lhvk",
+      "plus_code": {
+        "compound_code": "HVQX+H8 New York, NY, USA",
+        "global_code": "87G7HVQX+H8"
+      },
+      "reference": "ChIJkQ2oS79OwokRes3lTK8lhvk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.59535,
+          "lng": -74.09723249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5966450302915,
+            "lng": -74.09594996970849
+          },
+          "southwest": {
+            "lat": 40.5939470697085,
+            "lng": -74.09864793029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Burgher Av",
+      "place_id": "ChIJCY4OVOpOwokRPDkWVgqMNWw",
+      "plus_code": {
+        "compound_code": "HWW3+44 New York, NY, USA",
+        "global_code": "87G7HWW3+44"
+      },
+      "reference": "ChIJCY4OVOpOwokRPDkWVgqMNWw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.595474,
+          "lng": -74.09685499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.59685648029149,
+            "lng": -74.0955348697085
+          },
+          "southwest": {
+            "lat": 40.5941585197085,
+            "lng": -74.09823283029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Burgher Ave",
+      "place_id": "ChIJh1afUupOwokRDlBW_Bhs4DE",
+      "plus_code": {
+        "compound_code": "HWW3+57 New York, NY, USA",
+        "global_code": "87G7HWW3+57"
+      },
+      "reference": "ChIJh1afUupOwokRDlBW_Bhs4DE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5872124,
+          "lng": -74.1037668
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5885524802915,
+            "lng": -74.1024032697085
+          },
+          "southwest": {
+            "lat": 40.5858545197085,
+            "lng": -74.10510123029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Seaver Av",
+      "place_id": "ChIJ9_NRA7lOwokRORXv3LIdJ48",
+      "plus_code": {
+        "compound_code": "HVPW+VF New York, NY, USA",
+        "global_code": "87G7HVPW+VF"
+      },
+      "reference": "ChIJ9_NRA7lOwokRORXv3LIdJ48",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.587185,
+          "lng": -74.103897
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5885461302915,
+            "lng": -74.1025656697085
+          },
+          "southwest": {
+            "lat": 40.5858481697085,
+            "lng": -74.1052636302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Rd/Strobe Ave",
+      "place_id": "ChIJoXC_BLlOwokR2wLNIUrlDlk",
+      "plus_code": {
+        "compound_code": "HVPW+VC New York, NY, USA",
+        "global_code": "87G7HVPW+VC"
+      },
+      "rating": 5,
+      "reference": "ChIJoXC_BLlOwokR2wLNIUrlDlk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.58724999999999,
+          "lng": -74.103622
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5886241802915,
+            "lng": -74.10231316970851
+          },
+          "southwest": {
+            "lat": 40.5859262197085,
+            "lng": -74.10501113029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+      "name": "Richmond Rd/Seaver Ave",
+      "place_id": "ChIJoXC_BLlOwokRCEfp_5WN0XY",
+      "plus_code": {
+        "compound_code": "HVPW+VH New York, NY, USA",
+        "global_code": "87G7HVPW+VH"
+      },
+      "reference": "ChIJoXC_BLlOwokRCEfp_5WN0XY",
+      "scope": "GOOGLE",
+      "types": [
+        "bus_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

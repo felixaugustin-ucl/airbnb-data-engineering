@@ -1,0 +1,5593 @@
+{
+  "neighbourhood": "Mariners Harbor",
+  "centroid": {
+    "lat": 40.63848776056338,
+    "lon": -74.15715789671361
+  },
+  "fetched_at": "2026-04-06T14:40:27.814966+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6367477,
+            "lng": -74.15881879999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6380479302915,
+              "lng": -74.15745486970849
+            },
+            "southwest": {
+              "lat": 40.6353499697085,
+              "lng": -74.16015283029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-510-6196",
+        "name": "L&B Homemade Food, Inc",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105011701551679307769\">L&amp;B Homemade Food, Inc</a>"
+            ],
+            "photo_reference": "AU_ZVEG3Uqgnz-DongC1oqQ3qKLOpigZIMXwlVnVbj6C4tx1hX3MB7RyTO6FeMGFBNpbR7Xym0LT5krEGn1SPfnhFjXaDuO1Hhfl0fqKbXAky12cH2cqLDBdbK8Z2GNOUYuDD9zZs8Ti9y7KZnqPiqFz_p1-KoyXYnGBlVPr1tdiTBlZbXSC6pcrGjMhvowNFXrdBe8BQ9KFBB7ajV37rVJ4MF19TYh4Dq1_2DjL-zbhslRg1Hmo8NwtterVu5Ec3M5kF0wtF25ZjDjR9KnF9SYAR0R5LLvCDFvUO4TWpJY35zgifKKJ2Gtd94uv_VmKKfSEn35iEB-qxeg",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJgUPCq7xNwokRxk2OxODpRIU",
+        "plus_code": {
+          "compound_code": "JRPR+MF Staten Island, NY, USA",
+          "global_code": "87G7JRPR+MF"
+        },
+        "price_level": 2,
+        "rating": 4.8,
+        "reference": "ChIJgUPCq7xNwokRxk2OxODpRIU",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 120,
+        "vicinity": "2960 Richmond Terrace, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6366561,
+            "lng": -74.1584337
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63809198029149,
+              "lng": -74.15707566970849
+            },
+            "southwest": {
+              "lat": 40.63539401970849,
+              "lng": -74.1597736302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+        "international_phone_number": "+1 347-861-7355",
+        "name": "O Star Deli and Grill",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100072941232364770474\">O Star Deli and Grill</a>"
+            ],
+            "photo_reference": "AU_ZVEFQG3fUifLDy2jdK_LwTzIkY2J6vA51VmXsGkoapqLdqNg1re3DftOdktvcQ_yIi25Ycia1veGCcE0xyV8TC64-gRyiQ1SrhE05EudE4rhdqanYKwLZL38dzFWad9HRHxQsc1jS3glPMd4y_rwpjM94nJh4clWqMU3M9oy8WsMdXot_brmZHxBDpvC75fGDJ0leoPMM8FV-rf6DhuCQL95QXEsCeT71J1oI_x3mC0I0yJrcfxuH6bPulpkXWeM0Vfy7azK30_eizdRv8ym8pXoyiu6hs0q38XlIUExRX_PGK88DVYFqqTvlUq0ioj-el73X2sEMULY",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJw0oYhFhNwokRnYC0X3WY5w0",
+        "plus_code": {
+          "compound_code": "JRPR+MJ Staten Island, NY, USA",
+          "global_code": "87G7JRPR+MJ"
+        },
+        "rating": 5,
+        "reference": "ChIJw0oYhFhNwokRnYC0X3WY5w0",
+        "scope": "GOOGLE",
+        "types": [
+          "grocery_or_supermarket",
+          "restaurant",
+          "food",
+          "store",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "2950 Richmond Terrace, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6322661,
+            "lng": -74.1549474
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63360523029151,
+              "lng": -74.15372566970849
+            },
+            "southwest": {
+              "lat": 40.63090726970851,
+              "lng": -74.15642363029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-816-4844",
+        "name": "Romance",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101366174576866845268\">Alexis Sotomayor</a>"
+            ],
+            "photo_reference": "AU_ZVEFmBM602R__CCA0fVJv9xVGEb51MaseMyLQIyWiv_FXeZSWRmOjocAgOSzNN8D_g8wH2MOxpDwKe48fY_iuezR3Kls6E-p3InpTFUptbR8w_aFdHY_IjtEm5DvzSHTqE3_9sJCioUQX1FudIbMvp3E4YsMflrlnZkmyvPVRjYGR_w9I38WnUd23GWJVY9hfqJ3Ov-PILbSvJiAACkNYdds74OEQLbBQ-mFxgiuqsaj-jGdb7GebR8WjA3IXDkfb_jfvOx-FSlTAQsNRsyhJqw_uq2juIafbTOHjWneJswmb2pct2nTO5Gu78_4zROx0JRAEsqJV0NQUStrpGRP_QnMZos1cYvyDdFbVPE2_zS9FSOhaPpqaWdPALFfmIXkDdXJqUAnmEoeREH7WzU7ZLG99U70czKNjg63uDiXQpQj_bzdYMqdWI8sN3yL3yUWNf05zfbZ-rKaigH8d-jx-58dN6t8nv-R7KJZrBZkuHzSJHI8rXyAippbu_jxrx7JnfC8XRygmGCsSqvG2DrT5lyglJvp_42ML0VT2zHXaGR8rCJsSJ6x5W-ug_fi29uwZsuYfAcIWsCz59xpFwmIekRNeYc75y2iwAKUBeu7TAP0JY3lBbBcO5b0GgI5L23vnyqbJdCMH",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJ56juQbpNwokRklb1RcIMIjs",
+        "plus_code": {
+          "compound_code": "JRJW+W2 Staten Island, NY, USA",
+          "global_code": "87G7JRJW+W2"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ56juQbpNwokRklb1RcIMIjs",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 95,
+        "vicinity": "163 Van Pelt Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6360238,
+            "lng": -74.147806
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63731763029151,
+              "lng": -74.1463167197085
+            },
+            "southwest": {
+              "lat": 40.63461966970851,
+              "lng": -74.1490146802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-701-6496",
+        "name": "PLP Frameworks and Restoration ,Dry ice blasting, Undercoating,Frame Repair",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114932397035141472801\">PLP Frameworks and Restoration ,Dry ice blasting, Undercoating,Frame Repair</a>"
+            ],
+            "photo_reference": "AU_ZVEEU5smBcRJvBJn4yxqU2wjbCE6mQ4TPRO0FbUhCvp3iSMmfHA3TRMJgjqCR7xm-dyKS169bcxqoyQ2J5BIY7O3di_dwGZepHDQJPcbNlspTzUT7SW88v-0mLtAQaFaUQGkmKzUMfOFZJRwdRczZYTW03s4UiGnSN2YV0Pm0vZ4ascJDOkEr2utngfcOv5sYtXyUtFyXG3Msgser-01WNOzJiO-TMQsznHP0gI1RzFfbHr1-Ae4auaDNuzUxdUdm1OTxUKQOsttTiI18Y9tvbQ_-Feh4Az5OEIgTKrDws9AL33lbPANa7ebxKOtzqiuC9P83rVkwyHk",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJRUfJRjxNwokRUXzqOC6lSMA",
+        "plus_code": {
+          "compound_code": "JVP2+CV Staten Island, NY, USA",
+          "global_code": "87G7JVP2+CV"
+        },
+        "rating": 5,
+        "reference": "ChIJRUfJRjxNwokRUXzqOC6lSMA",
+        "scope": "GOOGLE",
+        "types": [
+          "car_repair",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 103,
+        "vicinity": "58 Granite Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63549289999999,
+            "lng": -74.166331
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63683888029149,
+              "lng": -74.16492476970849
+            },
+            "southwest": {
+              "lat": 40.63414091970849,
+              "lng": -74.1676227302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-524-1096",
+        "name": "Big Al's Soul Food Kitchen",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106481673842515442326\">Big Al&#39;s Soul Food Kitchen</a>"
+            ],
+            "photo_reference": "AU_ZVEFzcO-vBnDdR2HHlT0ZsN77S4qPHyr_y9ZzoD0jPP9UQnUkCzFt2X-DK5s38ZPvWkEs-slypgTt-k4m7QTf3xeuDcDUOATsWn3e_qD-e2Jz-3IHqtQiQ7aMlMIGhABbNMFyD776rXhUDlG5_hJ3N2_HNVUiEzuLAaFmQaZmchITP6U4iGwpOBiE_I_InuSFgEHVzzyXxuoZyey8Yjm8HXg_4MIJ6vXU3d1xttIFoChsNFED4BifNFUyRkxkZutyWBYU2EVl2WRrrIKpBDJma_vlmpAS-cFhttNO1x5JGr7MkSpBI0yYHds0dE_qnvhLFRYtIwQTCd8",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJCSLYk6ZNwokRiILt-zsYQAY",
+        "plus_code": {
+          "compound_code": "JRPM+5F New York, NY, USA",
+          "global_code": "87G7JRPM+5F"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJCSLYk6ZNwokRiILt-zsYQAY",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 138,
+        "vicinity": "180 South Avenue, Staten Island"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.6351789,
+            "lng": -74.1673647
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6365212302915,
+              "lng": -74.16609776970849
+            },
+            "southwest": {
+              "lat": 40.6338232697085,
+              "lng": -74.16879573029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-466-5496",
+        "name": "Staten Island Halal Food",
+        "permanently_closed": true,
+        "place_id": "ChIJjc-r96ZNwokR0co5BT2pfv0",
+        "plus_code": {
+          "compound_code": "JRPM+33 Staten Island, NY, USA",
+          "global_code": "87G7JRPM+33"
+        },
+        "reference": "ChIJjc-r96ZNwokR0co5BT2pfv0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "201 Arlington Avenue, Staten Island"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6322661,
+            "lng": -74.1549474
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63360523029151,
+              "lng": -74.15372566970849
+            },
+            "southwest": {
+              "lat": 40.63090726970851,
+              "lng": -74.15642363029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-816-4844",
+        "name": "Romance",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101366174576866845268\">Alexis Sotomayor</a>"
+            ],
+            "photo_reference": "AU_ZVEFdARsCQrRlJ7N_HWkVSDUjAdCpu64loUgsA41u-C4VOKFJ5R6HMDtum1VdNAnivbFn0m1PI_ISPQbCr_VuV6xn4Nq9b3XfImzccoEtU1UHLkYOZodTzkBmkl8VwFKBxXxL5YC9ikYZn4F48o01YxEU04oXuSLsdqzgaWPnm6tVni2imiqYVDvmAI3wnjuLuwTJrQCRBjKkYv5HclcMH8G4FysymWk3fRYbxtPOWGFibVuYr5fu7qL3Tw6YM-sFRKRtUzLSPXuHY1vq6Ekc_LTf7jpoVDbXcb0jIeDXvYKPQ423LdnR53wPg2STqRuRG7uELQ1-RNXoN061CMKti3YOxz1U_sI5bh2xJeB7xuYqXfTV8YVudconV4j-REjuofg6ZpHckkiKFnHQGsUuB_lMyxk9kUu6r1hOiNT4HdcjyfX4_pcOish12Ej_hlLp_rXQ-KDDkqy6uBAQL2MdYKYwoj2sgTsxu8mHZjJKvTuH4PMIplpo8wLzsxZKGSFsg_tTFHxh0EFSv4hoVWR-81WhGKt58vtq-hEisIYvC5uvqLhQ2ng4RIs9rxeFneWq5xvN8mAabIra66UX_lnGpyE7qvhssINdzqdPI_2q35rGsJAlxhj5yfzkeMFrpJ8gqiXgPpCe",
+            "width": 1440
+          }
+        ],
+        "place_id": "ChIJ56juQbpNwokRklb1RcIMIjs",
+        "plus_code": {
+          "compound_code": "JRJW+W2 Staten Island, NY, USA",
+          "global_code": "87G7JRJW+W2"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJ56juQbpNwokRklb1RcIMIjs",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 95,
+        "vicinity": "163 Van Pelt Avenue, Staten Island"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6375275,
+            "lng": -74.1571503
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63889453029149,
+              "lng": -74.15617256970849
+            },
+            "southwest": {
+              "lat": 40.6361965697085,
+              "lng": -74.15887053029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Urban Oasis: A Modern 2-Bedroom Apartment in Staten Island with WiFi, AC & More.",
+        "place_id": "ChIJQVw87bxNwokRdB7EXf65N1A",
+        "plus_code": {
+          "compound_code": "JRQV+24 New York, NY, USA",
+          "global_code": "87G7JRQV+24"
+        },
+        "reference": "ChIJQVw87bxNwokRdB7EXf65N1A",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6375198,
+            "lng": -74.1571503
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6388868302915,
+              "lng": -74.1561728697085
+            },
+            "southwest": {
+              "lat": 40.6361888697085,
+              "lng": -74.1588708302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Urban Oasis: A Modern 2-Bedroom Apartment in Staten Island with WiFi, AC More.",
+        "place_id": "ChIJ84Q77bxNwokRQK5lJuuYdJc",
+        "reference": "ChIJ84Q77bxNwokRQK5lJuuYdJc",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6407891,
+            "lng": -74.15844729999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6415082302915,
+              "lng": -74.15653599999999
+            },
+            "southwest": {
+              "lat": 40.6388102697085,
+              "lng": -74.1641812
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Luxurious one of a kind Tugboat /yacht, NYC, Sleeps 12, unique experience,",
+        "place_id": "ChIJd9W6Wr1NwokR_DOHGxGxKo8",
+        "plus_code": {
+          "compound_code": "JRRR+8J New York, NY, USA",
+          "global_code": "87G7JRRR+8J"
+        },
+        "reference": "ChIJd9W6Wr1NwokR_DOHGxGxKo8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6385384,
+            "lng": -74.1609955
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6396578302915,
+              "lng": -74.1599707197085
+            },
+            "southwest": {
+              "lat": 40.63695986970851,
+              "lng": -74.1626686802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Luxurious one of a kind Tugboat/yacht, NYC, Sleeps 12, unique experience,",
+        "place_id": "ChIJuc44F6NNwokRAiVWSUe5Oak",
+        "plus_code": {
+          "compound_code": "JRQQ+CJ New York, NY, USA",
+          "global_code": "87G7JRQQ+CJ"
+        },
+        "reference": "ChIJuc44F6NNwokRAiVWSUe5Oak",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6403885,
+            "lng": -74.16072079999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6413079302915,
+              "lng": -74.15994625
+            },
+            "southwest": {
+              "lat": 40.6386099697085,
+              "lng": -74.16304445000002
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "One bedroom apartment in a quiet peaceful area.",
+        "place_id": "ChIJcSOk6qJNwokRYwSFyqUl9Yg",
+        "plus_code": {
+          "compound_code": "JRRQ+5P New York, NY, USA",
+          "global_code": "87G7JRRQ+5P"
+        },
+        "reference": "ChIJcSOk6qJNwokRYwSFyqUl9Yg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6381798,
+            "lng": -74.16428379999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6395319802915,
+              "lng": -74.16303236970849
+            },
+            "southwest": {
+              "lat": 40.6368340197085,
+              "lng": -74.1657303302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Guest house in a quiet peaceful area. - One-Bedroom Apartment",
+        "place_id": "ChIJS1m26KNNwokRFphms8mbuHA",
+        "plus_code": {
+          "compound_code": "JRQP+77 New York, NY, USA",
+          "global_code": "87G7JRQP+77"
+        },
+        "reference": "ChIJS1m26KNNwokRFphms8mbuHA",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6381798,
+            "lng": -74.1643066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6395316302915,
+              "lng": -74.1630437697085
+            },
+            "southwest": {
+              "lat": 40.6368336697085,
+              "lng": -74.1657417302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "One bedroom apartment in a quiet peaceful area.",
+        "place_id": "ChIJO3ex6KNNwokRrEsn3YkqqUk",
+        "plus_code": {
+          "compound_code": "JRQP+77 New York, NY, USA",
+          "global_code": "87G7JRQP+77"
+        },
+        "reference": "ChIJO3ex6KNNwokRrEsn3YkqqUk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6339138,
+            "lng": -74.1617756
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6352713302915,
+              "lng": -74.1603536697085
+            },
+            "southwest": {
+              "lat": 40.6325733697085,
+              "lng": -74.1630516302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Eco friendly",
+        "place_id": "ChIJy-tcFjJNwokRhtzAfQAWB_c",
+        "plus_code": {
+          "compound_code": "JRMQ+H7 Staten Island, NY, USA",
+          "global_code": "87G7JRMQ+H7"
+        },
+        "reference": "ChIJy-tcFjJNwokRhtzAfQAWB_c",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "134 Lockman Avenue, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63565819999999,
+            "lng": -74.1667405
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6371135802915,
+              "lng": -74.16538851970849
+            },
+            "southwest": {
+              "lat": 40.6344156197085,
+              "lng": -74.16808648029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Debdorkdave Hospitality Services J - Family Room",
+        "place_id": "ChIJ8ZuJ8qZNwokRv_VfJVI3SLs",
+        "reference": "ChIJ8ZuJ8qZNwokRv_VfJVI3SLs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63565819999999,
+            "lng": -74.1667405
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6371135802915,
+              "lng": -74.16538851970849
+            },
+            "southwest": {
+              "lat": 40.6344156197085,
+              "lng": -74.16808648029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Debdorkdave Hospitality Services J - Economy Double Room",
+        "place_id": "ChIJ8ZuJ8qZNwokRt1f6phofpKg",
+        "plus_code": {
+          "compound_code": "JRPM+78 New York, NY, USA",
+          "global_code": "87G7JRPM+78"
+        },
+        "reference": "ChIJ8ZuJ8qZNwokRt1f6phofpKg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63565819999999,
+            "lng": -74.1667405
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6371135802915,
+              "lng": -74.16538851970849
+            },
+            "southwest": {
+              "lat": 40.6344156197085,
+              "lng": -74.16808648029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Debdorkdave Hospitality Services J - Double Room",
+        "place_id": "ChIJ8ZuJ8qZNwokRcHh4DbQDrl0",
+        "reference": "ChIJ8ZuJ8qZNwokRcHh4DbQDrl0",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6375008,
+            "lng": -74.1685562
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6387564802915,
+              "lng": -74.1672253697085
+            },
+            "southwest": {
+              "lat": 40.6360585197085,
+              "lng": -74.16992333029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "cozzy room with private entrance and drive way - Double Room with Terrace",
+        "place_id": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+        "plus_code": {
+          "compound_code": "JRQJ+2H New York, NY, USA",
+          "global_code": "87G7JRQJ+2H"
+        },
+        "reference": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6375008,
+            "lng": -74.1685562
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6387564802915,
+              "lng": -74.1672253697085
+            },
+            "southwest": {
+              "lat": 40.6360585197085,
+              "lng": -74.16992333029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "cozy room with private bathroom - Double Room with Private Bathroom",
+        "place_id": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+        "plus_code": {
+          "compound_code": "JRQJ+2H New York, NY, USA",
+          "global_code": "87G7JRQJ+2H"
+        },
+        "reference": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6434295,
+            "lng": -74.1599617
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64472875,
+              "lng": -74.1586685
+            },
+            "southwest": {
+              "lat": 40.63953175000001,
+              "lng": -74.16384130000002
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Shooter's Island",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107666202615044389093\">GREGG CONHEENEY</a>"
+            ],
+            "photo_reference": "AU_ZVEFlYIgYdS_ROZR8UGKrrDCgjbP22gVRzbxIEqQCAfgWAJsLu2wS6Bx7e1TJcuqaCvxNtl_JKYmK1G95eFgibUNihCqqxqUsPkRsNUSu7FQt7pt0FbFdXkNVbU18Bfyr-UbWIlXMwSDveD7YmV4_z1Q8vQOGxRD2H9tfx6Spxp8iPbfTRpFF3dM2RJp9iRXEx4h3P4ebkC7KHx9fgK7n_H9DKjEyBLKSsdNs-KlBtjFndNzJgCL6oFiM3QaJFPwLpo4--XoqChIAV9FCfaDAE1MROB4LoV-MKxZzlhqsD9vFQOa2Ateyd2cb_ms2x7wkKBP57Uo_Djm0JoYh-9lPmVf6QbZB5Fg2zmK8v_pgMrdIHQyMlRK_Fnoi7tGI4_QqiUWCFeEXXfJu2Ck2VWfmhotKEF_ztr8VxmuH7qh2ef55Jxdm1TmG_q0M9NE1Ske8jN7TKWumrr2j-dSXHv31xzXBhyRQSba_e1FisDwvZND6x0cIUFC9cyWzbt8vxw5i4T4i5nd0dM5T8k6hPTYwuPyxhMqeCYDCKPruU_jn6SIt21IT0Wloq7281Zzl25gXWu_UGw7RcM9BhFgRUcCHIfZeBBs_mXjPazZtTQd628a9JMhdD9-uuIf6G8MqaY1I",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJ84fRJ5hNwokRAO4TwK91240",
+        "plus_code": {
+          "compound_code": "JRVR+92 Staten Island, NY, USA",
+          "global_code": "87G7JRVR+92"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ84fRJ5hNwokRAO4TwK91240",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "Shooters Island, Staten Island"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6365646,
+            "lng": -74.1604317
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6379184802915,
+              "lng": -74.1592222697085
+            },
+            "southwest": {
+              "lat": 40.63522051970851,
+              "lng": -74.1619202302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Bobbie Lewis, Jr. Playground",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108380186242688916953\">Bobbie Lewis, Jr. Playground</a>"
+            ],
+            "photo_reference": "AU_ZVEH8Kt2Dd7G7u87Rp0etXP7OoqtcDlUWzsw1f4arYe3eWBBpvYxHt18yJWDOnbcalL38EilsLZ0lKm7N6NL6bJ4oezTfbVNCvaCuQ0oCCkcuTgNMIzIS-PbR6B6NmquWi3lQ74lRUuD5JF0mfq1w6S21HBlNzunckMHPQhgjwhb9HBlO_94pur_Ynh0cGBOsuIvwc_zSYPiHAbeW47Stw6M_229Ln3KtN0-Hny9gDAwtKyOagEKoTKFOIFg5km3mS-owiVa0tq4bQ1iE4qQLiXspAvufRM3JYOyrcnSN0Y8MYdUo59JRMvpzTsZ_Grb1Sy8whMrTFQw",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJfeDloKRNwokREJqFcG54B1I",
+        "plus_code": {
+          "compound_code": "JRPQ+JR Staten Island, NY, USA",
+          "global_code": "87G7JRPQ+JR"
+        },
+        "rating": 4.1,
+        "reference": "ChIJfeDloKRNwokREJqFcG54B1I",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 73,
+        "vicinity": "Richmond Terrace &, Harbor Road, Staten Island"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63682000000001,
+            "lng": -74.157635
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63815298029151,
+              "lng": -74.15628541970848
+            },
+            "southwest": {
+              "lat": 40.63545501970851,
+              "lng": -74.1589833802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/Union Av",
+        "place_id": "ChIJm4tGmLxNwokRDAJGVCwmOSw",
+        "plus_code": {
+          "compound_code": "JRPR+PW New York, NY, USA",
+          "global_code": "87G7JRPR+PW"
+        },
+        "reference": "ChIJm4tGmLxNwokRDAJGVCwmOSw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637068,
+            "lng": -74.16
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6383995302915,
+              "lng": -74.15866041970848
+            },
+            "southwest": {
+              "lat": 40.6357015697085,
+              "lng": -74.1613583802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/Harbor Rd",
+        "place_id": "ChIJlWV7WqNNwokRfdCPxOeGheI",
+        "plus_code": {
+          "compound_code": "JRPR+R2 New York, NY, USA",
+          "global_code": "87G7JRPR+R2"
+        },
+        "reference": "ChIJlWV7WqNNwokRfdCPxOeGheI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636877,
+            "lng": -74.152641
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6382058302915,
+              "lng": -74.15128946970849
+            },
+            "southwest": {
+              "lat": 40.6355078697085,
+              "lng": -74.1539874302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/Van Name Av",
+        "place_id": "ChIJ95EcmL5NwokRQvWCDbkdFMU",
+        "plus_code": {
+          "compound_code": "JRPW+QW New York, NY, USA",
+          "global_code": "87G7JRPW+QW"
+        },
+        "reference": "ChIJ95EcmL5NwokRQvWCDbkdFMU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.638092,
+            "lng": -74.1623075
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6394166802915,
+              "lng": -74.1609828197085
+            },
+            "southwest": {
+              "lat": 40.6367187197085,
+              "lng": -74.1636807802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/Andros Av",
+        "photos": [
+          {
+            "height": 3724,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104931139876122213359\">OSAMA EWEIS</a>"
+            ],
+            "photo_reference": "AU_ZVEHIgn0ZFbi_S53IYH0z-oiR54HqqmoFnxW5gze-_l71cDWpvUDmer_A-YbLHpoHpYR5l3ZaURdTQjpX4MhxZKeavcygjdnfCe4R3-_63wHhtc2V_JM-vQZJg0A-ElzRQz6pdJxy0GPxoAW-HpqKVtcoR6kp1JvM9PwNYxA0FiHFwfBPsedonit-vvOX40E2kGQhUHOKybIIXXpgCZdHUVJG5WtS_RAacHcZl3UKbA3V-yOkQLwhaS7gAtP0kvrBAB8qsusqGcetbV9LMaOJCmVHUnKem5VoLAAebOoQ0fiIA9c9sslH5T0qX3HpdWtyQAqcL2103flsSNWvsNs9xYV_tyTF-tDCHQTrmHkHKEKkLpo2dz10M0dL4_-gdK8BwYtoXFEB-EaqFGieYuFEQxadNMP4Rq2v4mtXoIgDQMBe034XquZb75EQvwyVyKrYVzJZt0zFV9OmaOErK1QrT1T-bE-3kkleLf6AV3ELbMiFSNjbPf37uaejtCUeJN65dabzzPgfhFiwGYOrRlavnoxUlJlIc_sE32eFqbPiakfZN8JED6Fl7MmEA7S1Cfw3gujncRgotWdOesg0Skh1hlQwN8LRWb_kXlNXCaq-UzSjvVkXHg1abnc1sd7UwZF_p4RDydn7B2GpWH5NvlqrefqaU28",
+            "width": 2096
+          }
+        ],
+        "place_id": "ChIJq2ejn6NNwokRKGTwTNKmU5g",
+        "plus_code": {
+          "compound_code": "JRQQ+63 New York, NY, USA",
+          "global_code": "87G7JRQQ+63"
+        },
+        "rating": 5,
+        "reference": "ChIJq2ejn6NNwokRKGTwTNKmU5g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636864,
+            "lng": -74.157715
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63821048029149,
+              "lng": -74.15636596970849
+            },
+            "southwest": {
+              "lat": 40.63551251970849,
+              "lng": -74.1590639302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Union Ave",
+        "place_id": "ChIJCfkNmLxNwokRMf1OdqW-cH0",
+        "plus_code": {
+          "compound_code": "JRPR+PW New York, NY, USA",
+          "global_code": "87G7JRPR+PW"
+        },
+        "rating": 5,
+        "reference": "ChIJCfkNmLxNwokRMf1OdqW-cH0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636776,
+            "lng": -74.157555
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63815468029151,
+              "lng": -74.1562072197085
+            },
+            "southwest": {
+              "lat": 40.63545671970851,
+              "lng": -74.15890518029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Union Ave",
+        "place_id": "ChIJYdOtmbxNwokR4AsJona19uQ",
+        "plus_code": {
+          "compound_code": "JRPR+PX New York, NY, USA",
+          "global_code": "87G7JRPR+PX"
+        },
+        "reference": "ChIJYdOtmbxNwokR4AsJona19uQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636745,
+            "lng": -74.154884
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6381256302915,
+              "lng": -74.1538959197085
+            },
+            "southwest": {
+              "lat": 40.6354276697085,
+              "lng": -74.15659388029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Van Pelt Ave",
+        "place_id": "ChIJa_3GbLxNwokRuYiwzTxLcb0",
+        "plus_code": {
+          "compound_code": "JRPW+M2 New York, NY, USA",
+          "global_code": "87G7JRPW+M2"
+        },
+        "rating": 3,
+        "reference": "ChIJa_3GbLxNwokRuYiwzTxLcb0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636837,
+            "lng": -74.154671
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6381859802915,
+              "lng": -74.15332201970848
+            },
+            "southwest": {
+              "lat": 40.6354880197085,
+              "lng": -74.15601998029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Van Pelt Ave",
+        "place_id": "ChIJObGFFLxNwokRsSmYJNJgliI",
+        "plus_code": {
+          "compound_code": "JRPW+P4 New York, NY, USA",
+          "global_code": "87G7JRPW+P4"
+        },
+        "reference": "ChIJObGFFLxNwokRsSmYJNJgliI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637146,
+            "lng": -74.160065
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6384872802915,
+              "lng": -74.1587203697085
+            },
+            "southwest": {
+              "lat": 40.6357893197085,
+              "lng": -74.16141833029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Harbor Rd",
+        "place_id": "ChIJDartWqNNwokRyQrMp4zKQMU",
+        "plus_code": {
+          "compound_code": "JRPQ+VX New York, NY, USA",
+          "global_code": "87G7JRPQ+VX"
+        },
+        "reference": "ChIJDartWqNNwokRyQrMp4zKQMU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63699,
+            "lng": -74.15993499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6383699302915,
+              "lng": -74.15856856970849
+            },
+            "southwest": {
+              "lat": 40.6356719697085,
+              "lng": -74.1612665302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Harbor Rd",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114204962517439416596\">Gene Staubitz</a>"
+            ],
+            "photo_reference": "AU_ZVEG-vC6ckJV_F65Nj-DiqcQedCMdM603oLZoo1Ls0KuF70AXDodpLZifyIC6G3XEsJqW4fL9zDtR6SBXdF7Iy1x9vBRPWq_dJSusWa2xhYtD_ZdYSDU45daLPW5rv64U6ES9sQnRs3YzKYEd7ny7DqnMcIFXhuVSzw1TAjK-n-VIiGZOhOpZSR1B5IBMQ0kP0C57Ss7ZZNrU2pfyLnBA5HxBRvPFHPiBWLy6DQc2tWACaq7WJz_cEsVx6f2dlLnLKRHZ2bpLAG0-YcPIDl2wOQjxc-CEbLBHLbBC6svbI9_o3x9ljY9gtmL-bwbFP17utbeO3uWuTrEnR7Ni1jkEUm3LEMIZLsHFeJyGIm7bzfDGV3gA0mAk2GHogULuQQnwCWjH8k_6ozWC-2aAe859VnM8qLLFirRYjHBfVXbyD65KjCuCFmMM9dwSI2xMpMNVMo-nURiGbcYWX4a-rjUkk8xHdvAJPDjvIBL4tP0AhKVd7TnknATP-HwTxkF8vM7IfrTXiZ0-d1gTl0BKk8Srx3TkGKE8eGW28qLWLGEG2MkuksmveWqb1LJXc24U0lZnuNHL7jUvBKdBVZ07J8l1LsKUWmH-kIrs4chB9Da13xd1_xdh3RzgiYNRJlAF6JCGuLUQzg",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJXcSjUKNNwokRUhdShuStSx8",
+        "plus_code": {
+          "compound_code": "JRPR+Q2 New York, NY, USA",
+          "global_code": "87G7JRPR+Q2"
+        },
+        "reference": "ChIJXcSjUKNNwokRUhdShuStSx8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.636913,
+            "lng": -74.152946
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63824713029149,
+              "lng": -74.1515950697085
+            },
+            "southwest": {
+              "lat": 40.6355491697085,
+              "lng": -74.15429303029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Van Name Ave",
+        "place_id": "ChIJYRKKmL5NwokRuMyV6rHVw4k",
+        "plus_code": {
+          "compound_code": "JRPW+QR New York, NY, USA",
+          "global_code": "87G7JRPW+QR"
+        },
+        "reference": "ChIJYRKKmL5NwokRuMyV6rHVw4k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637909,
+            "lng": -74.16208600000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6392762302915,
+              "lng": -74.1607221197085
+            },
+            "southwest": {
+              "lat": 40.6365782697085,
+              "lng": -74.1634200802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Andros Ave",
+        "place_id": "ChIJCcjrdaNNwokR4XxyqIQbRV8",
+        "plus_code": {
+          "compound_code": "JRQQ+55 New York, NY, USA",
+          "global_code": "87G7JRQQ+55"
+        },
+        "reference": "ChIJCcjrdaNNwokR4XxyqIQbRV8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.638275,
+            "lng": -74.16252899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63961113029149,
+              "lng": -74.1611928697085
+            },
+            "southwest": {
+              "lat": 40.63691316970849,
+              "lng": -74.16389083029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Andros Ave",
+        "place_id": "ChIJSwH2oaNNwokRBWlAgORWqL8",
+        "plus_code": {
+          "compound_code": "JRQP+8X New York, NY, USA",
+          "global_code": "87G7JRQP+8X"
+        },
+        "reference": "ChIJSwH2oaNNwokRBWlAgORWqL8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63693600000001,
+            "lng": -74.151276
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6383071302915,
+              "lng": -74.1499298697085
+            },
+            "southwest": {
+              "lat": 40.6356091697085,
+              "lng": -74.15262783029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Simonson Ave",
+        "place_id": "ChIJ40PM6L5NwokRwsyuDZ1F2so",
+        "plus_code": {
+          "compound_code": "JRPX+QF New York, NY, USA",
+          "global_code": "87G7JRPX+QF"
+        },
+        "reference": "ChIJ40PM6L5NwokRwsyuDZ1F2so",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6325685,
+            "lng": -74.15660849999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6338843302915,
+              "lng": -74.15526206970848
+            },
+            "southwest": {
+              "lat": 40.6311863697085,
+              "lng": -74.15796003029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walloon St/Maple Py",
+        "place_id": "ChIJIUmP9LpNwokRe_3CBP546Uc",
+        "plus_code": {
+          "compound_code": "JRMV+29 New York, NY, USA",
+          "global_code": "87G7JRMV+29"
+        },
+        "reference": "ChIJIUmP9LpNwokRe_3CBP546Uc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63387300000001,
+            "lng": -74.15555599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6351616302915,
+              "lng": -74.15420336970848
+            },
+            "southwest": {
+              "lat": 40.6324636697085,
+              "lng": -74.1569013302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Linden Ave/Van Pelt Av",
+        "place_id": "ChIJrVP9sbtNwokRuBlNGlkBW7c",
+        "plus_code": {
+          "compound_code": "JRMV+GQ New York, NY, USA",
+          "global_code": "87G7JRMV+GQ"
+        },
+        "rating": 3.5,
+        "reference": "ChIJrVP9sbtNwokRuBlNGlkBW7c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63703899999999,
+            "lng": -74.151108
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63838343029149,
+              "lng": -74.1497584697085
+            },
+            "southwest": {
+              "lat": 40.63568546970849,
+              "lng": -74.15245643029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Simonson Ave",
+        "place_id": "ChIJFx2Q5b5NwokRXq3ee_FX5vQ",
+        "plus_code": {
+          "compound_code": "JRPX+RH New York, NY, USA",
+          "global_code": "87G7JRPX+RH"
+        },
+        "rating": 5,
+        "reference": "ChIJFx2Q5b5NwokRXq3ee_FX5vQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.639339,
+            "lng": -74.164085
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64068058029149,
+              "lng": -74.1627464697085
+            },
+            "southwest": {
+              "lat": 40.6379826197085,
+              "lng": -74.16544443029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Post Ln",
+        "place_id": "ChIJC2mizqNNwokRGkawIir2-4w",
+        "plus_code": {
+          "compound_code": "JRQP+P9 New York, NY, USA",
+          "global_code": "87G7JRQP+P9"
+        },
+        "reference": "ChIJC2mizqNNwokRGkawIir2-4w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.632725,
+            "lng": -74.156616
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6340716302915,
+              "lng": -74.15518371970849
+            },
+            "southwest": {
+              "lat": 40.6313736697085,
+              "lng": -74.1578816802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Maple Pkwy/Walloon St",
+        "photos": [
+          {
+            "height": 4608,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109234556464912217323\">Kormassah Kaydor</a>"
+            ],
+            "photo_reference": "AU_ZVEFVBE5plj13k6fgyQj8FNtgf4vTjxzWClxCvtggQsRP1ziMWWFyQoOsED5UhcNkHt1mijiuIMEcJQiqa9hpAElb5Q8vLUqQiPbLGHjIym_d6z2YMtmPINtn4r0pKE4SGHe0-pmAIFvv71f0pgWxFu48qOmHag6bQ1z3ZpF_nimLxcIpaT8lju_L-tgwEQjXr00XIROjOC5ohOzgBbCmbEeEr-X4anmuihXvtv-m4VYEMRUNJ2A9b7cKhR8gvAG28a3kJWzXNJAXFwFHGj41fIgRudYjy1bgsTlPeXuMMIZ8DdAt2sUatf8jIcqxXVk69WyWf8jwrDUtudKoNqpyagPtTcj5KTOKcxpvGjtMbQYSXmb1hP57OO1j9YtyOXuE7zDBQ95gxLM4gAOJQc6iX9S7FuHnqu4TKHYHiEOPgy4bPhE71sD2nTQhvGcIG7DMi3piuhDEHZwmNQX72X63MASlsuob2iL4F3_XPCaWI-OeB1XBA2JnkYcsvJrq9Z-M7GZ7ur7TivthADTlUfSoldpJzL5uF0nrNZ4aEqc1bCNgABD6vatuvB8Xl41UU_0JOP-OUpIgN198kVxdgdJuqntVVt3rcQI8cqPPw2WUD6Msn73pDopHApM1akch1nsV91mwpadnsO7FHtQ6D9Yb7A",
+            "width": 3456
+          }
+        ],
+        "place_id": "ChIJqagE9LpNwokReqqdy5mbFnA",
+        "plus_code": {
+          "compound_code": "JRMV+39 New York, NY, USA",
+          "global_code": "87G7JRMV+39"
+        },
+        "reference": "ChIJqagE9LpNwokReqqdy5mbFnA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.632412,
+            "lng": -74.156601
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6338056302915,
+              "lng": -74.15524861970849
+            },
+            "southwest": {
+              "lat": 40.6311076697085,
+              "lng": -74.15794658029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walloon St/Maple Pkwy",
+        "place_id": "ChIJf4hOi7pNwokRqRbV5ftCdC0",
+        "plus_code": {
+          "compound_code": "JRJV+X9 New York, NY, USA",
+          "global_code": "87G7JRJV+X9"
+        },
+        "rating": 3.5,
+        "reference": "ChIJf4hOi7pNwokRqRbV5ftCdC0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.639957,
+            "lng": -74.165039
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64129408029151,
+              "lng": -74.1636979697085
+            },
+            "southwest": {
+              "lat": 40.63859611970851,
+              "lng": -74.1663959302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Grandview Ave",
+        "place_id": "ChIJZ7eJKqJNwokRHmE5tkK-1-0",
+        "plus_code": {
+          "compound_code": "JRQM+XX New York, NY, USA",
+          "global_code": "87G7JRQM+XX"
+        },
+        "reference": "ChIJZ7eJKqJNwokRHmE5tkK-1-0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6373385,
+            "lng": -74.14859799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6386054302915,
+              "lng": -74.14721071970848
+            },
+            "southwest": {
+              "lat": 40.63590746970851,
+              "lng": -74.1499086802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/Houseman Av",
+        "place_id": "ChIJFQErdL9NwokRh86nzd3iWco",
+        "plus_code": {
+          "compound_code": "JVP2+WH New York, NY, USA",
+          "global_code": "87G7JVP2+WH"
+        },
+        "reference": "ChIJFQErdL9NwokRh86nzd3iWco",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63211099999999,
+            "lng": -74.155022
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6334507302915,
+              "lng": -74.15367406970849
+            },
+            "southwest": {
+              "lat": 40.6307527697085,
+              "lng": -74.1563720302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walker St/Van Pelt Av",
+        "place_id": "ChIJSz1ZarpNwokRaoVMJtolOso",
+        "plus_code": {
+          "compound_code": "JRJV+RX New York, NY, USA",
+          "global_code": "87G7JRJV+RX"
+        },
+        "reference": "ChIJSz1ZarpNwokRaoVMJtolOso",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637299,
+            "lng": -74.14861300000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63866478029149,
+              "lng": -74.1472683697085
+            },
+            "southwest": {
+              "lat": 40.63596681970849,
+              "lng": -74.1499663302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Houseman Ave",
+        "place_id": "ChIJIb1odL9NwokRkqo6StPcVXo",
+        "plus_code": {
+          "compound_code": "JVP2+WH New York, NY, USA",
+          "global_code": "87G7JVP2+WH"
+        },
+        "reference": "ChIJIb1odL9NwokRkqo6StPcVXo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6401215,
+            "lng": -74.165939
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.64147163029149,
+              "lng": -74.16464276970848
+            },
+            "southwest": {
+              "lat": 40.6387736697085,
+              "lng": -74.1673407302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/South Av",
+        "place_id": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+        "plus_code": {
+          "compound_code": "JRRM+2J New York, NY, USA",
+          "global_code": "87G7JRRM+2J"
+        },
+        "reference": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637405,
+            "lng": -74.148476
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63875288029149,
+              "lng": -74.14712666970848
+            },
+            "southwest": {
+              "lat": 40.6360549197085,
+              "lng": -74.14982463029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Houseman Ave",
+        "place_id": "ChIJJb1Adr9NwokRtVlz0bBZEAI",
+        "plus_code": {
+          "compound_code": "JVP2+XJ New York, NY, USA",
+          "global_code": "87G7JVP2+XJ"
+        },
+        "reference": "ChIJJb1Adr9NwokRtVlz0bBZEAI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.640106,
+            "lng": -74.165756
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6414803302915,
+              "lng": -74.16439126970849
+            },
+            "southwest": {
+              "lat": 40.6387823697085,
+              "lng": -74.16708923029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/South Ave",
+        "place_id": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+        "plus_code": {
+          "compound_code": "JRRM+2M New York, NY, USA",
+          "global_code": "87G7JRRM+2M"
+        },
+        "rating": 2,
+        "reference": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631491,
+            "lng": -74.1583175
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6328487802915,
+              "lng": -74.15696726970847
+            },
+            "southwest": {
+              "lat": 40.6301508197085,
+              "lng": -74.1596652302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Union Av",
+        "place_id": "ChIJi8Odp7pNwokR_RTgTuZTOsA",
+        "plus_code": {
+          "compound_code": "JRJR+HM New York, NY, USA",
+          "global_code": "87G7JRJR+HM"
+        },
+        "reference": "ChIJi8Odp7pNwokR_RTgTuZTOsA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631653,
+            "lng": -74.15830199999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6330047802915,
+              "lng": -74.15684781970849
+            },
+            "southwest": {
+              "lat": 40.6303068197085,
+              "lng": -74.1595457802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Av/Brabant St",
+        "place_id": "ChIJHbr1prpNwokR6TbKec44-uQ",
+        "plus_code": {
+          "compound_code": "JRJR+MM New York, NY, USA",
+          "global_code": "87G7JRJR+MM"
+        },
+        "reference": "ChIJHbr1prpNwokR6TbKec44-uQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.64013300000001,
+            "lng": -74.166122
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6414811802915,
+              "lng": -74.1647367197085
+            },
+            "southwest": {
+              "lat": 40.6387832197085,
+              "lng": -74.1674346802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "South Ave/Richmond Terrace",
+        "place_id": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+        "plus_code": {
+          "compound_code": "JRRM+3H New York, NY, USA",
+          "global_code": "87G7JRRM+3H"
+        },
+        "reference": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631859,
+            "lng": -74.153831
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6332742302915,
+              "lng": -74.1524743197085
+            },
+            "southwest": {
+              "lat": 40.6305762697085,
+              "lng": -74.15517228029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walker St/Van Name Av",
+        "place_id": "ChIJPQwZGbpNwokR1oHPQZJguOM",
+        "plus_code": {
+          "compound_code": "JRJW+PF New York, NY, USA",
+          "global_code": "87G7JRJW+PF"
+        },
+        "rating": 4,
+        "reference": "ChIJPQwZGbpNwokR1oHPQZJguOM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63611599999999,
+            "lng": -74.1661
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63746598029149,
+              "lng": -74.1647971197085
+            },
+            "southwest": {
+              "lat": 40.6347680197085,
+              "lng": -74.16749508029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "South Ave/Arlington Pl",
+        "place_id": "ChIJv6ddlqZNwokRGSVpjJcxTBI",
+        "plus_code": {
+          "compound_code": "JRPM+CH New York, NY, USA",
+          "global_code": "87G7JRPM+CH"
+        },
+        "reference": "ChIJv6ddlqZNwokRGSVpjJcxTBI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63132899999999,
+            "lng": -74.158333
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6327474302915,
+              "lng": -74.1569741697085
+            },
+            "southwest": {
+              "lat": 40.6300494697085,
+              "lng": -74.15967213029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Union Av",
+        "place_id": "ChIJYdhNCLBNwokRVuLmYxkBiX8",
+        "plus_code": {
+          "compound_code": "JRJR+GM New York, NY, USA",
+          "global_code": "87G7JRJR+GM"
+        },
+        "rating": 5,
+        "reference": "ChIJYdhNCLBNwokRVuLmYxkBiX8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63577250000001,
+            "lng": -74.16632849999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63716743029151,
+              "lng": -74.16497831970848
+            },
+            "southwest": {
+              "lat": 40.63446946970851,
+              "lng": -74.1676762802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "South Av/Arlington Pl",
+        "place_id": "ChIJw4VPkqZNwokRl1x4lSGn2Dk",
+        "plus_code": {
+          "compound_code": "JRPM+8F New York, NY, USA",
+          "global_code": "87G7JRPM+8F"
+        },
+        "reference": "ChIJw4VPkqZNwokRl1x4lSGn2Dk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631207,
+            "lng": -74.155495
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6326117802915,
+              "lng": -74.1541409697085
+            },
+            "southwest": {
+              "lat": 40.6299138197085,
+              "lng": -74.1568389302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "De Ruyter Pl/Van Pelt Av",
+        "place_id": "ChIJS412d7pNwokRTm8e1-dmhJI",
+        "plus_code": {
+          "compound_code": "JRJV+FR New York, NY, USA",
+          "global_code": "87G7JRJV+FR"
+        },
+        "reference": "ChIJS412d7pNwokRTm8e1-dmhJI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631931,
+            "lng": -74.152588
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63326533029149,
+              "lng": -74.15124136970849
+            },
+            "southwest": {
+              "lat": 40.63056736970849,
+              "lng": -74.15393933029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walker St/Simonson Av",
+        "place_id": "ChIJn4KjkrlNwokRhJcaPuIRRME",
+        "plus_code": {
+          "compound_code": "JRJW+QX New York, NY, USA",
+          "global_code": "87G7JRJW+QX"
+        },
+        "reference": "ChIJn4KjkrlNwokRhJcaPuIRRME",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63180899999999,
+            "lng": -74.152191
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63315693029151,
+              "lng": -74.15083136970848
+            },
+            "southwest": {
+              "lat": 40.63045896970851,
+              "lng": -74.15352933029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walker St/Simonson Av",
+        "place_id": "ChIJ5ZNM67lNwokRAh_IfwdnkFg",
+        "plus_code": {
+          "compound_code": "JRJX+P4 New York, NY, USA",
+          "global_code": "87G7JRJX+P4"
+        },
+        "reference": "ChIJ5ZNM67lNwokRAh_IfwdnkFg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63164899999999,
+            "lng": -74.1617165
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6330002302915,
+              "lng": -74.16040526970848
+            },
+            "southwest": {
+              "lat": 40.6303022697085,
+              "lng": -74.1631032302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Lockman Av",
+        "place_id": "ChIJueK8hq9NwokRpzGyLp9BgQA",
+        "plus_code": {
+          "compound_code": "JRJQ+M8 New York, NY, USA",
+          "global_code": "87G7JRJQ+M8"
+        },
+        "reference": "ChIJueK8hq9NwokRpzGyLp9BgQA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63542899999999,
+            "lng": -74.16628299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63677743029151,
+              "lng": -74.16491141970849
+            },
+            "southwest": {
+              "lat": 40.63407946970851,
+              "lng": -74.1676093802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "South Ave/Arlington Pl",
+        "place_id": "ChIJnRo_jKZNwokRCtEjN4zuf8Q",
+        "plus_code": {
+          "compound_code": "JRPM+5F New York, NY, USA",
+          "global_code": "87G7JRPM+5F"
+        },
+        "rating": 4.3,
+        "reference": "ChIJnRo_jKZNwokRCtEjN4zuf8Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63590600000001,
+            "lng": -74.166557
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6372487802915,
+              "lng": -74.16520821970849
+            },
+            "southwest": {
+              "lat": 40.6345508197085,
+              "lng": -74.16790618029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Arlington Pl/South Ave",
+        "place_id": "ChIJUfE0k6ZNwokRRH0S8k9YHpc",
+        "plus_code": {
+          "compound_code": "JRPM+99 New York, NY, USA",
+          "global_code": "87G7JRPM+99"
+        },
+        "reference": "ChIJUfE0k6ZNwokRRH0S8k9YHpc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631561,
+            "lng": -74.161324
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63294123029149,
+              "lng": -74.1599711197085
+            },
+            "southwest": {
+              "lat": 40.63024326970849,
+              "lng": -74.16266908029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Lockman Av",
+        "place_id": "ChIJ-7DLiK9NwokRQ5ucp1ahKck",
+        "plus_code": {
+          "compound_code": "JRJQ+JF New York, NY, USA",
+          "global_code": "87G7JRJQ+JF"
+        },
+        "reference": "ChIJ-7DLiK9NwokRQ5ucp1ahKck",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63173700000001,
+            "lng": -74.162109
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6330610802915,
+              "lng": -74.1607637697085
+            },
+            "southwest": {
+              "lat": 40.63036311970851,
+              "lng": -74.1634617302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Lockman Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100765513705985397819\">Yusuf Khaled</a>"
+            ],
+            "photo_reference": "AU_ZVEH--knGiPnNdgenE7AHCCCziLlFuSvMqKM6ucJGKl9nuXfx6dqj0zaZkpda1h5yok4whkeR1PZ24xREBDU5KRdXctlF3hwLDxUBVgvk6iv69T9RJRsKnOowGZ5pNUnCawzImDGzOFdVPnPWq_6bZG4E9kolcv758EtfAHffoG4nBdHUmQvSjCDLx1tWNAxWlG7TGj3U4ZXBUM3WKz2zqx6ZHk9DymNMcGsBUCq3VrDcN_lHB_k1aVKK8_6OVbk1bmDMNp5qnd8ttX-SZ7dVCGES3BlnL6uM_DmogBQqngwG0bjKgXQiGQSCIPYlo8Ty0rnv-W2aOOYEBg2ZjzTJibk9bbI2tBl3dD-996dHP4lOFQfcyYjl7lFBfLucmUO9ppQEgL9sRMXF29QU2xgJ2ybpgZlR35XbjKj5Xq8DY8BOopvXkB37QZ_S4mCafuAeFpDmtOZzYbeEKpehmqA1V8D0a6cuqfNPlkYZ2K-mx7uc69TRVGPX12tZMbIMc0DR_gsut4vx5sQ3-5ZQtBZIFoX3U9hJXiqFbbVGkr6Hljg9ybOvnmtlSDWqtM33CIDTE3BQsjoFlSWOrW0cjZyyithEwLYRYUvW6j8lCZUVTo8WcWhVlydccGu4FcOuF06-rvrJuA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJU5vCga9NwokR-187DOowbZw",
+        "plus_code": {
+          "compound_code": "JRJQ+M5 New York, NY, USA",
+          "global_code": "87G7JRJQ+M5"
+        },
+        "rating": 5,
+        "reference": "ChIJU5vCga9NwokR-187DOowbZw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6376015,
+            "lng": -74.146858
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6389323302915,
+              "lng": -74.14550436970849
+            },
+            "southwest": {
+              "lat": 40.6362343697085,
+              "lng": -74.1482023302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Ter/Granite Av",
+        "place_id": "ChIJsThme8BNwokRGCfZ1_SfxSE",
+        "plus_code": {
+          "compound_code": "JVQ3+27 New York, NY, USA",
+          "global_code": "87G7JVQ3+27"
+        },
+        "reference": "ChIJsThme8BNwokRGCfZ1_SfxSE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637634,
+            "lng": -74.146965
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63898303029151,
+              "lng": -74.14561706970849
+            },
+            "southwest": {
+              "lat": 40.63628506970851,
+              "lng": -74.1483150302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Granite Ave",
+        "place_id": "ChIJTbqbe8BNwokRhn5yj3qAVlg",
+        "plus_code": {
+          "compound_code": "JVQ3+36 New York, NY, USA",
+          "global_code": "87G7JVQ3+36"
+        },
+        "reference": "ChIJTbqbe8BNwokRhn5yj3qAVlg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.631687,
+            "lng": -74.151794
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63309923029151,
+              "lng": -74.15043581970849
+            },
+            "southwest": {
+              "lat": 40.63040126970851,
+              "lng": -74.1531337802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Walker St/Simonson Av",
+        "place_id": "ChIJHchqwLlNwokRGCwXSzaoV0o",
+        "plus_code": {
+          "compound_code": "JRJX+M7 New York, NY, USA",
+          "global_code": "87G7JRJX+M7"
+        },
+        "rating": 2,
+        "reference": "ChIJHchqwLlNwokRGCwXSzaoV0o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.637569,
+            "lng": -74.146751
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.63894623029149,
+              "lng": -74.1454091697085
+            },
+            "southwest": {
+              "lat": 40.6362482697085,
+              "lng": -74.1481071302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Granite Ave",
+        "place_id": "ChIJ67JUe8BNwokRQqykhfSm75Y",
+        "plus_code": {
+          "compound_code": "JVQ3+27 New York, NY, USA",
+          "global_code": "87G7JVQ3+27"
+        },
+        "reference": "ChIJ67JUe8BNwokRQqykhfSm75Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.640587,
+            "lng": -74.167259
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6419374302915,
+              "lng": -74.16594966970848
+            },
+            "southwest": {
+              "lat": 40.6392394697085,
+              "lng": -74.1686476302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Richmond Terrace/Arlington Ave",
+        "photos": [
+          {
+            "height": 2322,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105936864096459175357\">Felicitos Mendoza Barrag\u00e1n</a>"
+            ],
+            "photo_reference": "AU_ZVEH6mlzCFHMJlYsx3YQeJMVUUVKMEcKrI0IUKd6AFdF3vLGRje8py_WYinm18gumYGbzfUT3eJqvfTROdols2u0WcvbpzqNQDkDRJwJfnlminm6JM40LEBvWajY28upwW-z4BLgDBMuE_T4td7XaG9mpGLCm7A2H9cExVJpDOb1BKUQUV8ZQEeAkA2VwO96UR5n0PNu0AqAgTLkcxSrNmTqJOv-V4uY3B57MytYgoI0Wf9GO1ryodBLjc-UEOXhWGY9YhGVQmwam0bCDVXf1AGbgY3_qojnrOTRuGAyAs0any2y_I57IPF35lI7tZcwCuTFHYpnLNCsQH4ZACDApV6jQvs4OUju7XAkKfF6MQgfxmrWFTAvcWcsu7nNcKczBKOwjCBC87iMjocGnrHviiNll7k3ssgn4283goAvNRR9MBKf7EXamxQIGHHphyVkTbU7mLUdOgxj4yYiVRrkYkFGdRUtUUFGE7VJ9vbCXUyfvHilBf0Q3VEzBOkcoKXjnOencNvI73S6U8a4LTNbw6MRT-oAMlim5UfU9UizA1wPhSWomQF5YA3I6fe65drgTEOli4k03aOmuWN1EVJIz72AA8OYE47lTQ8mzlUmt8Su3VQuEAP1_o10o7IJTK_--50QZlA",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+        "plus_code": {
+          "compound_code": "JRRM+63 New York, NY, USA",
+          "global_code": "87G7JRRM+63"
+        },
+        "reference": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.632202,
+            "lng": -74.16508499999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6335269302915,
+              "lng": -74.1636814197085
+            },
+            "southwest": {
+              "lat": 40.6308289697085,
+              "lng": -74.1663793802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Grandview Av",
+        "place_id": "ChIJka3TVK9NwokRGZPSqFD3cas",
+        "plus_code": {
+          "compound_code": "JRJM+VX New York, NY, USA",
+          "global_code": "87G7JRJM+VX"
+        },
+        "reference": "ChIJka3TVK9NwokRGZPSqFD3cas",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.63210499999999,
+            "lng": -74.165127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6334688302915,
+              "lng": -74.16377706970849
+            },
+            "southwest": {
+              "lat": 40.6307708697085,
+              "lng": -74.1664750302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Brabant St/Grandview Av",
+        "place_id": "ChIJq0FRq6hNwokREY1gTXGcgyA",
+        "plus_code": {
+          "compound_code": "JRJM+RW New York, NY, USA",
+          "global_code": "87G7JRJM+RW"
+        },
+        "reference": "ChIJq0FRq6hNwokREY1gTXGcgyA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.632008,
+            "lng": -74.165169
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6333578802915,
+              "lng": -74.16385921970848
+            },
+            "southwest": {
+              "lat": 40.6306599197085,
+              "lng": -74.1665571802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Grandview Av/Brabant St",
+        "photos": [
+          {
+            "height": 3264,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103624301628839472891\">Lee AndersonParham</a>"
+            ],
+            "photo_reference": "AU_ZVEHe3zXIZD3M4jcgtHOHRyBHryTE8rECEo7ts8CmA8JSiABLCBlXju8ENmZ2UAxiwo7rn-lkQf_1XVowWNQVGsONlqs7ZTXCDmjHoNKeBq5INyM-1ns0xptXQgZMyUHRviY3nFiMBuSe3hiLMOjuvrUXoXIOxGhzfy45Fb133MSJSsej51NN-M72uhRDZ9I9JWLHMVvXiz124mF0HF7W92OY8MqyxjhpQyfqAIB3bCwYnGalzIKwIBj2GvTHnHf8XUXQBO3dS4B3VW4zA26IMusqmpUEu8pEyMcgE4BFu4a37GXe5H1G5Bvymlx5Ho-7fReWB0bns11-nXi_YI3H7ySxUdickmgNN-ClaQkVs2g_ThGyqNKWBH1O3L_6Otqx_G0i-K4K9EARUXuZCCMaGidGohQ20Ks84xDY-wEwrlU8pTeXPfiqpeYQ8QaeIJ1B-j6sIoBkMbsmUC1iZayBTHptZQzASSNhABDCSbAdHBjpGmPqCGkDUmTxBNa3LwZuUeNLDBcTzPKQsglUY6MWQ7kaHe2uq_-vAF3Dw-koFqCPC0NbXQle8q1hqTXk8eHR5H6UTC8brDpkPjMCt5P8Wj4DCrqkgQwxI5HL4qiLZKTXdZSnaA6qJ_6jl2iIJcsLEvQGRw",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJy63ArKhNwokRqW-l8pRF5Nk",
+        "plus_code": {
+          "compound_code": "JRJM+RW New York, NY, USA",
+          "global_code": "87G7JRJM+RW"
+        },
+        "rating": 1,
+        "reference": "ChIJy63ArKhNwokRqW-l8pRF5Nk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6367477,
+          "lng": -74.15881879999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6380479302915,
+            "lng": -74.15745486970849
+          },
+          "southwest": {
+            "lat": 40.6353499697085,
+            "lng": -74.16015283029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-510-6196",
+      "name": "L&B Homemade Food, Inc",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105011701551679307769\">L&amp;B Homemade Food, Inc</a>"
+          ],
+          "photo_reference": "AU_ZVEG3Uqgnz-DongC1oqQ3qKLOpigZIMXwlVnVbj6C4tx1hX3MB7RyTO6FeMGFBNpbR7Xym0LT5krEGn1SPfnhFjXaDuO1Hhfl0fqKbXAky12cH2cqLDBdbK8Z2GNOUYuDD9zZs8Ti9y7KZnqPiqFz_p1-KoyXYnGBlVPr1tdiTBlZbXSC6pcrGjMhvowNFXrdBe8BQ9KFBB7ajV37rVJ4MF19TYh4Dq1_2DjL-zbhslRg1Hmo8NwtterVu5Ec3M5kF0wtF25ZjDjR9KnF9SYAR0R5LLvCDFvUO4TWpJY35zgifKKJ2Gtd94uv_VmKKfSEn35iEB-qxeg",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJgUPCq7xNwokRxk2OxODpRIU",
+      "plus_code": {
+        "compound_code": "JRPR+MF Staten Island, NY, USA",
+        "global_code": "87G7JRPR+MF"
+      },
+      "price_level": 2,
+      "rating": 4.8,
+      "reference": "ChIJgUPCq7xNwokRxk2OxODpRIU",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 120,
+      "vicinity": "2960 Richmond Terrace, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6366561,
+          "lng": -74.1584337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63809198029149,
+            "lng": -74.15707566970849
+          },
+          "southwest": {
+            "lat": 40.63539401970849,
+            "lng": -74.1597736302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+      "international_phone_number": "+1 347-861-7355",
+      "name": "O Star Deli and Grill",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100072941232364770474\">O Star Deli and Grill</a>"
+          ],
+          "photo_reference": "AU_ZVEFQG3fUifLDy2jdK_LwTzIkY2J6vA51VmXsGkoapqLdqNg1re3DftOdktvcQ_yIi25Ycia1veGCcE0xyV8TC64-gRyiQ1SrhE05EudE4rhdqanYKwLZL38dzFWad9HRHxQsc1jS3glPMd4y_rwpjM94nJh4clWqMU3M9oy8WsMdXot_brmZHxBDpvC75fGDJ0leoPMM8FV-rf6DhuCQL95QXEsCeT71J1oI_x3mC0I0yJrcfxuH6bPulpkXWeM0Vfy7azK30_eizdRv8ym8pXoyiu6hs0q38XlIUExRX_PGK88DVYFqqTvlUq0ioj-el73X2sEMULY",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJw0oYhFhNwokRnYC0X3WY5w0",
+      "plus_code": {
+        "compound_code": "JRPR+MJ Staten Island, NY, USA",
+        "global_code": "87G7JRPR+MJ"
+      },
+      "rating": 5,
+      "reference": "ChIJw0oYhFhNwokRnYC0X3WY5w0",
+      "scope": "GOOGLE",
+      "types": [
+        "grocery_or_supermarket",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 10,
+      "vicinity": "2950 Richmond Terrace, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6322661,
+          "lng": -74.1549474
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63360523029151,
+            "lng": -74.15372566970849
+          },
+          "southwest": {
+            "lat": 40.63090726970851,
+            "lng": -74.15642363029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-816-4844",
+      "name": "Romance",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101366174576866845268\">Alexis Sotomayor</a>"
+          ],
+          "photo_reference": "AU_ZVEFmBM602R__CCA0fVJv9xVGEb51MaseMyLQIyWiv_FXeZSWRmOjocAgOSzNN8D_g8wH2MOxpDwKe48fY_iuezR3Kls6E-p3InpTFUptbR8w_aFdHY_IjtEm5DvzSHTqE3_9sJCioUQX1FudIbMvp3E4YsMflrlnZkmyvPVRjYGR_w9I38WnUd23GWJVY9hfqJ3Ov-PILbSvJiAACkNYdds74OEQLbBQ-mFxgiuqsaj-jGdb7GebR8WjA3IXDkfb_jfvOx-FSlTAQsNRsyhJqw_uq2juIafbTOHjWneJswmb2pct2nTO5Gu78_4zROx0JRAEsqJV0NQUStrpGRP_QnMZos1cYvyDdFbVPE2_zS9FSOhaPpqaWdPALFfmIXkDdXJqUAnmEoeREH7WzU7ZLG99U70czKNjg63uDiXQpQj_bzdYMqdWI8sN3yL3yUWNf05zfbZ-rKaigH8d-jx-58dN6t8nv-R7KJZrBZkuHzSJHI8rXyAippbu_jxrx7JnfC8XRygmGCsSqvG2DrT5lyglJvp_42ML0VT2zHXaGR8rCJsSJ6x5W-ug_fi29uwZsuYfAcIWsCz59xpFwmIekRNeYc75y2iwAKUBeu7TAP0JY3lBbBcO5b0GgI5L23vnyqbJdCMH",
+          "width": 1440
+        }
+      ],
+      "place_id": "ChIJ56juQbpNwokRklb1RcIMIjs",
+      "plus_code": {
+        "compound_code": "JRJW+W2 Staten Island, NY, USA",
+        "global_code": "87G7JRJW+W2"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJ56juQbpNwokRklb1RcIMIjs",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 95,
+      "vicinity": "163 Van Pelt Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6360238,
+          "lng": -74.147806
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63731763029151,
+            "lng": -74.1463167197085
+          },
+          "southwest": {
+            "lat": 40.63461966970851,
+            "lng": -74.1490146802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-701-6496",
+      "name": "PLP Frameworks and Restoration ,Dry ice blasting, Undercoating,Frame Repair",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114932397035141472801\">PLP Frameworks and Restoration ,Dry ice blasting, Undercoating,Frame Repair</a>"
+          ],
+          "photo_reference": "AU_ZVEEU5smBcRJvBJn4yxqU2wjbCE6mQ4TPRO0FbUhCvp3iSMmfHA3TRMJgjqCR7xm-dyKS169bcxqoyQ2J5BIY7O3di_dwGZepHDQJPcbNlspTzUT7SW88v-0mLtAQaFaUQGkmKzUMfOFZJRwdRczZYTW03s4UiGnSN2YV0Pm0vZ4ascJDOkEr2utngfcOv5sYtXyUtFyXG3Msgser-01WNOzJiO-TMQsznHP0gI1RzFfbHr1-Ae4auaDNuzUxdUdm1OTxUKQOsttTiI18Y9tvbQ_-Feh4Az5OEIgTKrDws9AL33lbPANa7ebxKOtzqiuC9P83rVkwyHk",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJRUfJRjxNwokRUXzqOC6lSMA",
+      "plus_code": {
+        "compound_code": "JVP2+CV Staten Island, NY, USA",
+        "global_code": "87G7JVP2+CV"
+      },
+      "rating": 5,
+      "reference": "ChIJRUfJRjxNwokRUXzqOC6lSMA",
+      "scope": "GOOGLE",
+      "types": [
+        "car_repair",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 103,
+      "vicinity": "58 Granite Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63549289999999,
+          "lng": -74.166331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63683888029149,
+            "lng": -74.16492476970849
+          },
+          "southwest": {
+            "lat": 40.63414091970849,
+            "lng": -74.1676227302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-524-1096",
+      "name": "Big Al's Soul Food Kitchen",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106481673842515442326\">Big Al&#39;s Soul Food Kitchen</a>"
+          ],
+          "photo_reference": "AU_ZVEFzcO-vBnDdR2HHlT0ZsN77S4qPHyr_y9ZzoD0jPP9UQnUkCzFt2X-DK5s38ZPvWkEs-slypgTt-k4m7QTf3xeuDcDUOATsWn3e_qD-e2Jz-3IHqtQiQ7aMlMIGhABbNMFyD776rXhUDlG5_hJ3N2_HNVUiEzuLAaFmQaZmchITP6U4iGwpOBiE_I_InuSFgEHVzzyXxuoZyey8Yjm8HXg_4MIJ6vXU3d1xttIFoChsNFED4BifNFUyRkxkZutyWBYU2EVl2WRrrIKpBDJma_vlmpAS-cFhttNO1x5JGr7MkSpBI0yYHds0dE_qnvhLFRYtIwQTCd8",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJCSLYk6ZNwokRiILt-zsYQAY",
+      "plus_code": {
+        "compound_code": "JRPM+5F New York, NY, USA",
+        "global_code": "87G7JRPM+5F"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJCSLYk6ZNwokRiILt-zsYQAY",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 138,
+      "vicinity": "180 South Avenue, Staten Island"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.6351789,
+          "lng": -74.1673647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6365212302915,
+            "lng": -74.16609776970849
+          },
+          "southwest": {
+            "lat": 40.6338232697085,
+            "lng": -74.16879573029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-466-5496",
+      "name": "Staten Island Halal Food",
+      "permanently_closed": true,
+      "place_id": "ChIJjc-r96ZNwokR0co5BT2pfv0",
+      "plus_code": {
+        "compound_code": "JRPM+33 Staten Island, NY, USA",
+        "global_code": "87G7JRPM+33"
+      },
+      "reference": "ChIJjc-r96ZNwokR0co5BT2pfv0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "201 Arlington Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6375275,
+          "lng": -74.1571503
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63889453029149,
+            "lng": -74.15617256970849
+          },
+          "southwest": {
+            "lat": 40.6361965697085,
+            "lng": -74.15887053029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Urban Oasis: A Modern 2-Bedroom Apartment in Staten Island with WiFi, AC & More.",
+      "place_id": "ChIJQVw87bxNwokRdB7EXf65N1A",
+      "plus_code": {
+        "compound_code": "JRQV+24 New York, NY, USA",
+        "global_code": "87G7JRQV+24"
+      },
+      "reference": "ChIJQVw87bxNwokRdB7EXf65N1A",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6375198,
+          "lng": -74.1571503
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6388868302915,
+            "lng": -74.1561728697085
+          },
+          "southwest": {
+            "lat": 40.6361888697085,
+            "lng": -74.1588708302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Urban Oasis: A Modern 2-Bedroom Apartment in Staten Island with WiFi, AC More.",
+      "place_id": "ChIJ84Q77bxNwokRQK5lJuuYdJc",
+      "reference": "ChIJ84Q77bxNwokRQK5lJuuYdJc",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6407891,
+          "lng": -74.15844729999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6415082302915,
+            "lng": -74.15653599999999
+          },
+          "southwest": {
+            "lat": 40.6388102697085,
+            "lng": -74.1641812
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Luxurious one of a kind Tugboat /yacht, NYC, Sleeps 12, unique experience,",
+      "place_id": "ChIJd9W6Wr1NwokR_DOHGxGxKo8",
+      "plus_code": {
+        "compound_code": "JRRR+8J New York, NY, USA",
+        "global_code": "87G7JRRR+8J"
+      },
+      "reference": "ChIJd9W6Wr1NwokR_DOHGxGxKo8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6385384,
+          "lng": -74.1609955
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6396578302915,
+            "lng": -74.1599707197085
+          },
+          "southwest": {
+            "lat": 40.63695986970851,
+            "lng": -74.1626686802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Luxurious one of a kind Tugboat/yacht, NYC, Sleeps 12, unique experience,",
+      "place_id": "ChIJuc44F6NNwokRAiVWSUe5Oak",
+      "plus_code": {
+        "compound_code": "JRQQ+CJ New York, NY, USA",
+        "global_code": "87G7JRQQ+CJ"
+      },
+      "reference": "ChIJuc44F6NNwokRAiVWSUe5Oak",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6403885,
+          "lng": -74.16072079999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6413079302915,
+            "lng": -74.15994625
+          },
+          "southwest": {
+            "lat": 40.6386099697085,
+            "lng": -74.16304445000002
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "One bedroom apartment in a quiet peaceful area.",
+      "place_id": "ChIJcSOk6qJNwokRYwSFyqUl9Yg",
+      "plus_code": {
+        "compound_code": "JRRQ+5P New York, NY, USA",
+        "global_code": "87G7JRRQ+5P"
+      },
+      "reference": "ChIJcSOk6qJNwokRYwSFyqUl9Yg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6381798,
+          "lng": -74.16428379999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6395319802915,
+            "lng": -74.16303236970849
+          },
+          "southwest": {
+            "lat": 40.6368340197085,
+            "lng": -74.1657303302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Guest house in a quiet peaceful area. - One-Bedroom Apartment",
+      "place_id": "ChIJS1m26KNNwokRFphms8mbuHA",
+      "plus_code": {
+        "compound_code": "JRQP+77 New York, NY, USA",
+        "global_code": "87G7JRQP+77"
+      },
+      "reference": "ChIJS1m26KNNwokRFphms8mbuHA",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6381798,
+          "lng": -74.1643066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6395316302915,
+            "lng": -74.1630437697085
+          },
+          "southwest": {
+            "lat": 40.6368336697085,
+            "lng": -74.1657417302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "One bedroom apartment in a quiet peaceful area.",
+      "place_id": "ChIJO3ex6KNNwokRrEsn3YkqqUk",
+      "plus_code": {
+        "compound_code": "JRQP+77 New York, NY, USA",
+        "global_code": "87G7JRQP+77"
+      },
+      "reference": "ChIJO3ex6KNNwokRrEsn3YkqqUk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6339138,
+          "lng": -74.1617756
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6352713302915,
+            "lng": -74.1603536697085
+          },
+          "southwest": {
+            "lat": 40.6325733697085,
+            "lng": -74.1630516302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Eco friendly",
+      "place_id": "ChIJy-tcFjJNwokRhtzAfQAWB_c",
+      "plus_code": {
+        "compound_code": "JRMQ+H7 Staten Island, NY, USA",
+        "global_code": "87G7JRMQ+H7"
+      },
+      "reference": "ChIJy-tcFjJNwokRhtzAfQAWB_c",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "134 Lockman Avenue, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63565819999999,
+          "lng": -74.1667405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6371135802915,
+            "lng": -74.16538851970849
+          },
+          "southwest": {
+            "lat": 40.6344156197085,
+            "lng": -74.16808648029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Debdorkdave Hospitality Services J - Family Room",
+      "place_id": "ChIJ8ZuJ8qZNwokRv_VfJVI3SLs",
+      "reference": "ChIJ8ZuJ8qZNwokRv_VfJVI3SLs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63565819999999,
+          "lng": -74.1667405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6371135802915,
+            "lng": -74.16538851970849
+          },
+          "southwest": {
+            "lat": 40.6344156197085,
+            "lng": -74.16808648029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Debdorkdave Hospitality Services J - Economy Double Room",
+      "place_id": "ChIJ8ZuJ8qZNwokRt1f6phofpKg",
+      "plus_code": {
+        "compound_code": "JRPM+78 New York, NY, USA",
+        "global_code": "87G7JRPM+78"
+      },
+      "reference": "ChIJ8ZuJ8qZNwokRt1f6phofpKg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63565819999999,
+          "lng": -74.1667405
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6371135802915,
+            "lng": -74.16538851970849
+          },
+          "southwest": {
+            "lat": 40.6344156197085,
+            "lng": -74.16808648029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Debdorkdave Hospitality Services J - Double Room",
+      "place_id": "ChIJ8ZuJ8qZNwokRcHh4DbQDrl0",
+      "reference": "ChIJ8ZuJ8qZNwokRcHh4DbQDrl0",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6375008,
+          "lng": -74.1685562
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6387564802915,
+            "lng": -74.1672253697085
+          },
+          "southwest": {
+            "lat": 40.6360585197085,
+            "lng": -74.16992333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "cozzy room with private entrance and drive way - Double Room with Terrace",
+      "place_id": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+      "plus_code": {
+        "compound_code": "JRQJ+2H New York, NY, USA",
+        "global_code": "87G7JRQJ+2H"
+      },
+      "reference": "ChIJ7b-DLqdNwokR71jclUI-DYs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6375008,
+          "lng": -74.1685562
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6387564802915,
+            "lng": -74.1672253697085
+          },
+          "southwest": {
+            "lat": 40.6360585197085,
+            "lng": -74.16992333029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "cozy room with private bathroom - Double Room with Private Bathroom",
+      "place_id": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+      "plus_code": {
+        "compound_code": "JRQJ+2H New York, NY, USA",
+        "global_code": "87G7JRQJ+2H"
+      },
+      "reference": "ChIJ7b-DLqdNwokRSXf4bsRQLvY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6434295,
+          "lng": -74.1599617
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64472875,
+            "lng": -74.1586685
+          },
+          "southwest": {
+            "lat": 40.63953175000001,
+            "lng": -74.16384130000002
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Shooter's Island",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107666202615044389093\">GREGG CONHEENEY</a>"
+          ],
+          "photo_reference": "AU_ZVEFlYIgYdS_ROZR8UGKrrDCgjbP22gVRzbxIEqQCAfgWAJsLu2wS6Bx7e1TJcuqaCvxNtl_JKYmK1G95eFgibUNihCqqxqUsPkRsNUSu7FQt7pt0FbFdXkNVbU18Bfyr-UbWIlXMwSDveD7YmV4_z1Q8vQOGxRD2H9tfx6Spxp8iPbfTRpFF3dM2RJp9iRXEx4h3P4ebkC7KHx9fgK7n_H9DKjEyBLKSsdNs-KlBtjFndNzJgCL6oFiM3QaJFPwLpo4--XoqChIAV9FCfaDAE1MROB4LoV-MKxZzlhqsD9vFQOa2Ateyd2cb_ms2x7wkKBP57Uo_Djm0JoYh-9lPmVf6QbZB5Fg2zmK8v_pgMrdIHQyMlRK_Fnoi7tGI4_QqiUWCFeEXXfJu2Ck2VWfmhotKEF_ztr8VxmuH7qh2ef55Jxdm1TmG_q0M9NE1Ske8jN7TKWumrr2j-dSXHv31xzXBhyRQSba_e1FisDwvZND6x0cIUFC9cyWzbt8vxw5i4T4i5nd0dM5T8k6hPTYwuPyxhMqeCYDCKPruU_jn6SIt21IT0Wloq7281Zzl25gXWu_UGw7RcM9BhFgRUcCHIfZeBBs_mXjPazZtTQd628a9JMhdD9-uuIf6G8MqaY1I",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJ84fRJ5hNwokRAO4TwK91240",
+      "plus_code": {
+        "compound_code": "JRVR+92 Staten Island, NY, USA",
+        "global_code": "87G7JRVR+92"
+      },
+      "rating": 4.8,
+      "reference": "ChIJ84fRJ5hNwokRAO4TwK91240",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "Shooters Island, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6365646,
+          "lng": -74.1604317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6379184802915,
+            "lng": -74.1592222697085
+          },
+          "southwest": {
+            "lat": 40.63522051970851,
+            "lng": -74.1619202302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Bobbie Lewis, Jr. Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108380186242688916953\">Bobbie Lewis, Jr. Playground</a>"
+          ],
+          "photo_reference": "AU_ZVEH8Kt2Dd7G7u87Rp0etXP7OoqtcDlUWzsw1f4arYe3eWBBpvYxHt18yJWDOnbcalL38EilsLZ0lKm7N6NL6bJ4oezTfbVNCvaCuQ0oCCkcuTgNMIzIS-PbR6B6NmquWi3lQ74lRUuD5JF0mfq1w6S21HBlNzunckMHPQhgjwhb9HBlO_94pur_Ynh0cGBOsuIvwc_zSYPiHAbeW47Stw6M_229Ln3KtN0-Hny9gDAwtKyOagEKoTKFOIFg5km3mS-owiVa0tq4bQ1iE4qQLiXspAvufRM3JYOyrcnSN0Y8MYdUo59JRMvpzTsZ_Grb1Sy8whMrTFQw",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJfeDloKRNwokREJqFcG54B1I",
+      "plus_code": {
+        "compound_code": "JRPQ+JR Staten Island, NY, USA",
+        "global_code": "87G7JRPQ+JR"
+      },
+      "rating": 4.1,
+      "reference": "ChIJfeDloKRNwokREJqFcG54B1I",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 73,
+      "vicinity": "Richmond Terrace &, Harbor Road, Staten Island"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63682000000001,
+          "lng": -74.157635
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63815298029151,
+            "lng": -74.15628541970848
+          },
+          "southwest": {
+            "lat": 40.63545501970851,
+            "lng": -74.1589833802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/Union Av",
+      "place_id": "ChIJm4tGmLxNwokRDAJGVCwmOSw",
+      "plus_code": {
+        "compound_code": "JRPR+PW New York, NY, USA",
+        "global_code": "87G7JRPR+PW"
+      },
+      "reference": "ChIJm4tGmLxNwokRDAJGVCwmOSw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637068,
+          "lng": -74.16
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6383995302915,
+            "lng": -74.15866041970848
+          },
+          "southwest": {
+            "lat": 40.6357015697085,
+            "lng": -74.1613583802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/Harbor Rd",
+      "place_id": "ChIJlWV7WqNNwokRfdCPxOeGheI",
+      "plus_code": {
+        "compound_code": "JRPR+R2 New York, NY, USA",
+        "global_code": "87G7JRPR+R2"
+      },
+      "reference": "ChIJlWV7WqNNwokRfdCPxOeGheI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636877,
+          "lng": -74.152641
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6382058302915,
+            "lng": -74.15128946970849
+          },
+          "southwest": {
+            "lat": 40.6355078697085,
+            "lng": -74.1539874302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/Van Name Av",
+      "place_id": "ChIJ95EcmL5NwokRQvWCDbkdFMU",
+      "plus_code": {
+        "compound_code": "JRPW+QW New York, NY, USA",
+        "global_code": "87G7JRPW+QW"
+      },
+      "reference": "ChIJ95EcmL5NwokRQvWCDbkdFMU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.638092,
+          "lng": -74.1623075
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6394166802915,
+            "lng": -74.1609828197085
+          },
+          "southwest": {
+            "lat": 40.6367187197085,
+            "lng": -74.1636807802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/Andros Av",
+      "photos": [
+        {
+          "height": 3724,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104931139876122213359\">OSAMA EWEIS</a>"
+          ],
+          "photo_reference": "AU_ZVEHIgn0ZFbi_S53IYH0z-oiR54HqqmoFnxW5gze-_l71cDWpvUDmer_A-YbLHpoHpYR5l3ZaURdTQjpX4MhxZKeavcygjdnfCe4R3-_63wHhtc2V_JM-vQZJg0A-ElzRQz6pdJxy0GPxoAW-HpqKVtcoR6kp1JvM9PwNYxA0FiHFwfBPsedonit-vvOX40E2kGQhUHOKybIIXXpgCZdHUVJG5WtS_RAacHcZl3UKbA3V-yOkQLwhaS7gAtP0kvrBAB8qsusqGcetbV9LMaOJCmVHUnKem5VoLAAebOoQ0fiIA9c9sslH5T0qX3HpdWtyQAqcL2103flsSNWvsNs9xYV_tyTF-tDCHQTrmHkHKEKkLpo2dz10M0dL4_-gdK8BwYtoXFEB-EaqFGieYuFEQxadNMP4Rq2v4mtXoIgDQMBe034XquZb75EQvwyVyKrYVzJZt0zFV9OmaOErK1QrT1T-bE-3kkleLf6AV3ELbMiFSNjbPf37uaejtCUeJN65dabzzPgfhFiwGYOrRlavnoxUlJlIc_sE32eFqbPiakfZN8JED6Fl7MmEA7S1Cfw3gujncRgotWdOesg0Skh1hlQwN8LRWb_kXlNXCaq-UzSjvVkXHg1abnc1sd7UwZF_p4RDydn7B2GpWH5NvlqrefqaU28",
+          "width": 2096
+        }
+      ],
+      "place_id": "ChIJq2ejn6NNwokRKGTwTNKmU5g",
+      "plus_code": {
+        "compound_code": "JRQQ+63 New York, NY, USA",
+        "global_code": "87G7JRQQ+63"
+      },
+      "rating": 5,
+      "reference": "ChIJq2ejn6NNwokRKGTwTNKmU5g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636864,
+          "lng": -74.157715
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63821048029149,
+            "lng": -74.15636596970849
+          },
+          "southwest": {
+            "lat": 40.63551251970849,
+            "lng": -74.1590639302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Union Ave",
+      "place_id": "ChIJCfkNmLxNwokRMf1OdqW-cH0",
+      "plus_code": {
+        "compound_code": "JRPR+PW New York, NY, USA",
+        "global_code": "87G7JRPR+PW"
+      },
+      "rating": 5,
+      "reference": "ChIJCfkNmLxNwokRMf1OdqW-cH0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636776,
+          "lng": -74.157555
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63815468029151,
+            "lng": -74.1562072197085
+          },
+          "southwest": {
+            "lat": 40.63545671970851,
+            "lng": -74.15890518029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Union Ave",
+      "place_id": "ChIJYdOtmbxNwokR4AsJona19uQ",
+      "plus_code": {
+        "compound_code": "JRPR+PX New York, NY, USA",
+        "global_code": "87G7JRPR+PX"
+      },
+      "reference": "ChIJYdOtmbxNwokR4AsJona19uQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636745,
+          "lng": -74.154884
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6381256302915,
+            "lng": -74.1538959197085
+          },
+          "southwest": {
+            "lat": 40.6354276697085,
+            "lng": -74.15659388029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Van Pelt Ave",
+      "place_id": "ChIJa_3GbLxNwokRuYiwzTxLcb0",
+      "plus_code": {
+        "compound_code": "JRPW+M2 New York, NY, USA",
+        "global_code": "87G7JRPW+M2"
+      },
+      "rating": 3,
+      "reference": "ChIJa_3GbLxNwokRuYiwzTxLcb0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636837,
+          "lng": -74.154671
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6381859802915,
+            "lng": -74.15332201970848
+          },
+          "southwest": {
+            "lat": 40.6354880197085,
+            "lng": -74.15601998029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Van Pelt Ave",
+      "place_id": "ChIJObGFFLxNwokRsSmYJNJgliI",
+      "plus_code": {
+        "compound_code": "JRPW+P4 New York, NY, USA",
+        "global_code": "87G7JRPW+P4"
+      },
+      "reference": "ChIJObGFFLxNwokRsSmYJNJgliI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637146,
+          "lng": -74.160065
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6384872802915,
+            "lng": -74.1587203697085
+          },
+          "southwest": {
+            "lat": 40.6357893197085,
+            "lng": -74.16141833029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Harbor Rd",
+      "place_id": "ChIJDartWqNNwokRyQrMp4zKQMU",
+      "plus_code": {
+        "compound_code": "JRPQ+VX New York, NY, USA",
+        "global_code": "87G7JRPQ+VX"
+      },
+      "reference": "ChIJDartWqNNwokRyQrMp4zKQMU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63699,
+          "lng": -74.15993499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6383699302915,
+            "lng": -74.15856856970849
+          },
+          "southwest": {
+            "lat": 40.6356719697085,
+            "lng": -74.1612665302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Harbor Rd",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114204962517439416596\">Gene Staubitz</a>"
+          ],
+          "photo_reference": "AU_ZVEG-vC6ckJV_F65Nj-DiqcQedCMdM603oLZoo1Ls0KuF70AXDodpLZifyIC6G3XEsJqW4fL9zDtR6SBXdF7Iy1x9vBRPWq_dJSusWa2xhYtD_ZdYSDU45daLPW5rv64U6ES9sQnRs3YzKYEd7ny7DqnMcIFXhuVSzw1TAjK-n-VIiGZOhOpZSR1B5IBMQ0kP0C57Ss7ZZNrU2pfyLnBA5HxBRvPFHPiBWLy6DQc2tWACaq7WJz_cEsVx6f2dlLnLKRHZ2bpLAG0-YcPIDl2wOQjxc-CEbLBHLbBC6svbI9_o3x9ljY9gtmL-bwbFP17utbeO3uWuTrEnR7Ni1jkEUm3LEMIZLsHFeJyGIm7bzfDGV3gA0mAk2GHogULuQQnwCWjH8k_6ozWC-2aAe859VnM8qLLFirRYjHBfVXbyD65KjCuCFmMM9dwSI2xMpMNVMo-nURiGbcYWX4a-rjUkk8xHdvAJPDjvIBL4tP0AhKVd7TnknATP-HwTxkF8vM7IfrTXiZ0-d1gTl0BKk8Srx3TkGKE8eGW28qLWLGEG2MkuksmveWqb1LJXc24U0lZnuNHL7jUvBKdBVZ07J8l1LsKUWmH-kIrs4chB9Da13xd1_xdh3RzgiYNRJlAF6JCGuLUQzg",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJXcSjUKNNwokRUhdShuStSx8",
+      "plus_code": {
+        "compound_code": "JRPR+Q2 New York, NY, USA",
+        "global_code": "87G7JRPR+Q2"
+      },
+      "reference": "ChIJXcSjUKNNwokRUhdShuStSx8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.636913,
+          "lng": -74.152946
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63824713029149,
+            "lng": -74.1515950697085
+          },
+          "southwest": {
+            "lat": 40.6355491697085,
+            "lng": -74.15429303029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Van Name Ave",
+      "place_id": "ChIJYRKKmL5NwokRuMyV6rHVw4k",
+      "plus_code": {
+        "compound_code": "JRPW+QR New York, NY, USA",
+        "global_code": "87G7JRPW+QR"
+      },
+      "reference": "ChIJYRKKmL5NwokRuMyV6rHVw4k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637909,
+          "lng": -74.16208600000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6392762302915,
+            "lng": -74.1607221197085
+          },
+          "southwest": {
+            "lat": 40.6365782697085,
+            "lng": -74.1634200802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Andros Ave",
+      "place_id": "ChIJCcjrdaNNwokR4XxyqIQbRV8",
+      "plus_code": {
+        "compound_code": "JRQQ+55 New York, NY, USA",
+        "global_code": "87G7JRQQ+55"
+      },
+      "reference": "ChIJCcjrdaNNwokR4XxyqIQbRV8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.638275,
+          "lng": -74.16252899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63961113029149,
+            "lng": -74.1611928697085
+          },
+          "southwest": {
+            "lat": 40.63691316970849,
+            "lng": -74.16389083029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Andros Ave",
+      "place_id": "ChIJSwH2oaNNwokRBWlAgORWqL8",
+      "plus_code": {
+        "compound_code": "JRQP+8X New York, NY, USA",
+        "global_code": "87G7JRQP+8X"
+      },
+      "reference": "ChIJSwH2oaNNwokRBWlAgORWqL8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63693600000001,
+          "lng": -74.151276
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6383071302915,
+            "lng": -74.1499298697085
+          },
+          "southwest": {
+            "lat": 40.6356091697085,
+            "lng": -74.15262783029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Simonson Ave",
+      "place_id": "ChIJ40PM6L5NwokRwsyuDZ1F2so",
+      "plus_code": {
+        "compound_code": "JRPX+QF New York, NY, USA",
+        "global_code": "87G7JRPX+QF"
+      },
+      "reference": "ChIJ40PM6L5NwokRwsyuDZ1F2so",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6325685,
+          "lng": -74.15660849999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6338843302915,
+            "lng": -74.15526206970848
+          },
+          "southwest": {
+            "lat": 40.6311863697085,
+            "lng": -74.15796003029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walloon St/Maple Py",
+      "place_id": "ChIJIUmP9LpNwokRe_3CBP546Uc",
+      "plus_code": {
+        "compound_code": "JRMV+29 New York, NY, USA",
+        "global_code": "87G7JRMV+29"
+      },
+      "reference": "ChIJIUmP9LpNwokRe_3CBP546Uc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63387300000001,
+          "lng": -74.15555599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6351616302915,
+            "lng": -74.15420336970848
+          },
+          "southwest": {
+            "lat": 40.6324636697085,
+            "lng": -74.1569013302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Linden Ave/Van Pelt Av",
+      "place_id": "ChIJrVP9sbtNwokRuBlNGlkBW7c",
+      "plus_code": {
+        "compound_code": "JRMV+GQ New York, NY, USA",
+        "global_code": "87G7JRMV+GQ"
+      },
+      "rating": 3.5,
+      "reference": "ChIJrVP9sbtNwokRuBlNGlkBW7c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63703899999999,
+          "lng": -74.151108
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63838343029149,
+            "lng": -74.1497584697085
+          },
+          "southwest": {
+            "lat": 40.63568546970849,
+            "lng": -74.15245643029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Simonson Ave",
+      "place_id": "ChIJFx2Q5b5NwokRXq3ee_FX5vQ",
+      "plus_code": {
+        "compound_code": "JRPX+RH New York, NY, USA",
+        "global_code": "87G7JRPX+RH"
+      },
+      "rating": 5,
+      "reference": "ChIJFx2Q5b5NwokRXq3ee_FX5vQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.639339,
+          "lng": -74.164085
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64068058029149,
+            "lng": -74.1627464697085
+          },
+          "southwest": {
+            "lat": 40.6379826197085,
+            "lng": -74.16544443029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Post Ln",
+      "place_id": "ChIJC2mizqNNwokRGkawIir2-4w",
+      "plus_code": {
+        "compound_code": "JRQP+P9 New York, NY, USA",
+        "global_code": "87G7JRQP+P9"
+      },
+      "reference": "ChIJC2mizqNNwokRGkawIir2-4w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.632725,
+          "lng": -74.156616
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6340716302915,
+            "lng": -74.15518371970849
+          },
+          "southwest": {
+            "lat": 40.6313736697085,
+            "lng": -74.1578816802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Maple Pkwy/Walloon St",
+      "photos": [
+        {
+          "height": 4608,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109234556464912217323\">Kormassah Kaydor</a>"
+          ],
+          "photo_reference": "AU_ZVEFVBE5plj13k6fgyQj8FNtgf4vTjxzWClxCvtggQsRP1ziMWWFyQoOsED5UhcNkHt1mijiuIMEcJQiqa9hpAElb5Q8vLUqQiPbLGHjIym_d6z2YMtmPINtn4r0pKE4SGHe0-pmAIFvv71f0pgWxFu48qOmHag6bQ1z3ZpF_nimLxcIpaT8lju_L-tgwEQjXr00XIROjOC5ohOzgBbCmbEeEr-X4anmuihXvtv-m4VYEMRUNJ2A9b7cKhR8gvAG28a3kJWzXNJAXFwFHGj41fIgRudYjy1bgsTlPeXuMMIZ8DdAt2sUatf8jIcqxXVk69WyWf8jwrDUtudKoNqpyagPtTcj5KTOKcxpvGjtMbQYSXmb1hP57OO1j9YtyOXuE7zDBQ95gxLM4gAOJQc6iX9S7FuHnqu4TKHYHiEOPgy4bPhE71sD2nTQhvGcIG7DMi3piuhDEHZwmNQX72X63MASlsuob2iL4F3_XPCaWI-OeB1XBA2JnkYcsvJrq9Z-M7GZ7ur7TivthADTlUfSoldpJzL5uF0nrNZ4aEqc1bCNgABD6vatuvB8Xl41UU_0JOP-OUpIgN198kVxdgdJuqntVVt3rcQI8cqPPw2WUD6Msn73pDopHApM1akch1nsV91mwpadnsO7FHtQ6D9Yb7A",
+          "width": 3456
+        }
+      ],
+      "place_id": "ChIJqagE9LpNwokReqqdy5mbFnA",
+      "plus_code": {
+        "compound_code": "JRMV+39 New York, NY, USA",
+        "global_code": "87G7JRMV+39"
+      },
+      "reference": "ChIJqagE9LpNwokReqqdy5mbFnA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.632412,
+          "lng": -74.156601
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6338056302915,
+            "lng": -74.15524861970849
+          },
+          "southwest": {
+            "lat": 40.6311076697085,
+            "lng": -74.15794658029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walloon St/Maple Pkwy",
+      "place_id": "ChIJf4hOi7pNwokRqRbV5ftCdC0",
+      "plus_code": {
+        "compound_code": "JRJV+X9 New York, NY, USA",
+        "global_code": "87G7JRJV+X9"
+      },
+      "rating": 3.5,
+      "reference": "ChIJf4hOi7pNwokRqRbV5ftCdC0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.639957,
+          "lng": -74.165039
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64129408029151,
+            "lng": -74.1636979697085
+          },
+          "southwest": {
+            "lat": 40.63859611970851,
+            "lng": -74.1663959302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Grandview Ave",
+      "place_id": "ChIJZ7eJKqJNwokRHmE5tkK-1-0",
+      "plus_code": {
+        "compound_code": "JRQM+XX New York, NY, USA",
+        "global_code": "87G7JRQM+XX"
+      },
+      "reference": "ChIJZ7eJKqJNwokRHmE5tkK-1-0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6373385,
+          "lng": -74.14859799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6386054302915,
+            "lng": -74.14721071970848
+          },
+          "southwest": {
+            "lat": 40.63590746970851,
+            "lng": -74.1499086802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/Houseman Av",
+      "place_id": "ChIJFQErdL9NwokRh86nzd3iWco",
+      "plus_code": {
+        "compound_code": "JVP2+WH New York, NY, USA",
+        "global_code": "87G7JVP2+WH"
+      },
+      "reference": "ChIJFQErdL9NwokRh86nzd3iWco",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63211099999999,
+          "lng": -74.155022
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6334507302915,
+            "lng": -74.15367406970849
+          },
+          "southwest": {
+            "lat": 40.6307527697085,
+            "lng": -74.1563720302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walker St/Van Pelt Av",
+      "place_id": "ChIJSz1ZarpNwokRaoVMJtolOso",
+      "plus_code": {
+        "compound_code": "JRJV+RX New York, NY, USA",
+        "global_code": "87G7JRJV+RX"
+      },
+      "reference": "ChIJSz1ZarpNwokRaoVMJtolOso",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637299,
+          "lng": -74.14861300000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63866478029149,
+            "lng": -74.1472683697085
+          },
+          "southwest": {
+            "lat": 40.63596681970849,
+            "lng": -74.1499663302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Houseman Ave",
+      "place_id": "ChIJIb1odL9NwokRkqo6StPcVXo",
+      "plus_code": {
+        "compound_code": "JVP2+WH New York, NY, USA",
+        "global_code": "87G7JVP2+WH"
+      },
+      "reference": "ChIJIb1odL9NwokRkqo6StPcVXo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6401215,
+          "lng": -74.165939
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.64147163029149,
+            "lng": -74.16464276970848
+          },
+          "southwest": {
+            "lat": 40.6387736697085,
+            "lng": -74.1673407302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/South Av",
+      "place_id": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+      "plus_code": {
+        "compound_code": "JRRM+2J New York, NY, USA",
+        "global_code": "87G7JRRM+2J"
+      },
+      "reference": "ChIJVU_mnKFNwokRGU_Mj_t3xho",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637405,
+          "lng": -74.148476
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63875288029149,
+            "lng": -74.14712666970848
+          },
+          "southwest": {
+            "lat": 40.6360549197085,
+            "lng": -74.14982463029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Houseman Ave",
+      "place_id": "ChIJJb1Adr9NwokRtVlz0bBZEAI",
+      "plus_code": {
+        "compound_code": "JVP2+XJ New York, NY, USA",
+        "global_code": "87G7JVP2+XJ"
+      },
+      "reference": "ChIJJb1Adr9NwokRtVlz0bBZEAI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.640106,
+          "lng": -74.165756
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6414803302915,
+            "lng": -74.16439126970849
+          },
+          "southwest": {
+            "lat": 40.6387823697085,
+            "lng": -74.16708923029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/South Ave",
+      "place_id": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+      "plus_code": {
+        "compound_code": "JRRM+2M New York, NY, USA",
+        "global_code": "87G7JRRM+2M"
+      },
+      "rating": 2,
+      "reference": "ChIJ7fA8g6FNwokRzuPSI5YzP2Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631491,
+          "lng": -74.1583175
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6328487802915,
+            "lng": -74.15696726970847
+          },
+          "southwest": {
+            "lat": 40.6301508197085,
+            "lng": -74.1596652302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Union Av",
+      "place_id": "ChIJi8Odp7pNwokR_RTgTuZTOsA",
+      "plus_code": {
+        "compound_code": "JRJR+HM New York, NY, USA",
+        "global_code": "87G7JRJR+HM"
+      },
+      "reference": "ChIJi8Odp7pNwokR_RTgTuZTOsA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631653,
+          "lng": -74.15830199999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6330047802915,
+            "lng": -74.15684781970849
+          },
+          "southwest": {
+            "lat": 40.6303068197085,
+            "lng": -74.1595457802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Av/Brabant St",
+      "place_id": "ChIJHbr1prpNwokR6TbKec44-uQ",
+      "plus_code": {
+        "compound_code": "JRJR+MM New York, NY, USA",
+        "global_code": "87G7JRJR+MM"
+      },
+      "reference": "ChIJHbr1prpNwokR6TbKec44-uQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.64013300000001,
+          "lng": -74.166122
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6414811802915,
+            "lng": -74.1647367197085
+          },
+          "southwest": {
+            "lat": 40.6387832197085,
+            "lng": -74.1674346802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Ave/Richmond Terrace",
+      "place_id": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+      "plus_code": {
+        "compound_code": "JRRM+3H New York, NY, USA",
+        "global_code": "87G7JRRM+3H"
+      },
+      "reference": "ChIJ6Sg0nKFNwokR_GM507YjSp0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631859,
+          "lng": -74.153831
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6332742302915,
+            "lng": -74.1524743197085
+          },
+          "southwest": {
+            "lat": 40.6305762697085,
+            "lng": -74.15517228029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walker St/Van Name Av",
+      "place_id": "ChIJPQwZGbpNwokR1oHPQZJguOM",
+      "plus_code": {
+        "compound_code": "JRJW+PF New York, NY, USA",
+        "global_code": "87G7JRJW+PF"
+      },
+      "rating": 4,
+      "reference": "ChIJPQwZGbpNwokR1oHPQZJguOM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63611599999999,
+          "lng": -74.1661
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63746598029149,
+            "lng": -74.1647971197085
+          },
+          "southwest": {
+            "lat": 40.6347680197085,
+            "lng": -74.16749508029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Ave/Arlington Pl",
+      "place_id": "ChIJv6ddlqZNwokRGSVpjJcxTBI",
+      "plus_code": {
+        "compound_code": "JRPM+CH New York, NY, USA",
+        "global_code": "87G7JRPM+CH"
+      },
+      "reference": "ChIJv6ddlqZNwokRGSVpjJcxTBI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63132899999999,
+          "lng": -74.158333
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6327474302915,
+            "lng": -74.1569741697085
+          },
+          "southwest": {
+            "lat": 40.6300494697085,
+            "lng": -74.15967213029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Union Av",
+      "place_id": "ChIJYdhNCLBNwokRVuLmYxkBiX8",
+      "plus_code": {
+        "compound_code": "JRJR+GM New York, NY, USA",
+        "global_code": "87G7JRJR+GM"
+      },
+      "rating": 5,
+      "reference": "ChIJYdhNCLBNwokRVuLmYxkBiX8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63577250000001,
+          "lng": -74.16632849999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63716743029151,
+            "lng": -74.16497831970848
+          },
+          "southwest": {
+            "lat": 40.63446946970851,
+            "lng": -74.1676762802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Av/Arlington Pl",
+      "place_id": "ChIJw4VPkqZNwokRl1x4lSGn2Dk",
+      "plus_code": {
+        "compound_code": "JRPM+8F New York, NY, USA",
+        "global_code": "87G7JRPM+8F"
+      },
+      "reference": "ChIJw4VPkqZNwokRl1x4lSGn2Dk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631207,
+          "lng": -74.155495
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6326117802915,
+            "lng": -74.1541409697085
+          },
+          "southwest": {
+            "lat": 40.6299138197085,
+            "lng": -74.1568389302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "De Ruyter Pl/Van Pelt Av",
+      "place_id": "ChIJS412d7pNwokRTm8e1-dmhJI",
+      "plus_code": {
+        "compound_code": "JRJV+FR New York, NY, USA",
+        "global_code": "87G7JRJV+FR"
+      },
+      "reference": "ChIJS412d7pNwokRTm8e1-dmhJI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631931,
+          "lng": -74.152588
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63326533029149,
+            "lng": -74.15124136970849
+          },
+          "southwest": {
+            "lat": 40.63056736970849,
+            "lng": -74.15393933029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walker St/Simonson Av",
+      "place_id": "ChIJn4KjkrlNwokRhJcaPuIRRME",
+      "plus_code": {
+        "compound_code": "JRJW+QX New York, NY, USA",
+        "global_code": "87G7JRJW+QX"
+      },
+      "reference": "ChIJn4KjkrlNwokRhJcaPuIRRME",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63180899999999,
+          "lng": -74.152191
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63315693029151,
+            "lng": -74.15083136970848
+          },
+          "southwest": {
+            "lat": 40.63045896970851,
+            "lng": -74.15352933029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walker St/Simonson Av",
+      "place_id": "ChIJ5ZNM67lNwokRAh_IfwdnkFg",
+      "plus_code": {
+        "compound_code": "JRJX+P4 New York, NY, USA",
+        "global_code": "87G7JRJX+P4"
+      },
+      "reference": "ChIJ5ZNM67lNwokRAh_IfwdnkFg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63164899999999,
+          "lng": -74.1617165
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6330002302915,
+            "lng": -74.16040526970848
+          },
+          "southwest": {
+            "lat": 40.6303022697085,
+            "lng": -74.1631032302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Lockman Av",
+      "place_id": "ChIJueK8hq9NwokRpzGyLp9BgQA",
+      "plus_code": {
+        "compound_code": "JRJQ+M8 New York, NY, USA",
+        "global_code": "87G7JRJQ+M8"
+      },
+      "reference": "ChIJueK8hq9NwokRpzGyLp9BgQA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63542899999999,
+          "lng": -74.16628299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63677743029151,
+            "lng": -74.16491141970849
+          },
+          "southwest": {
+            "lat": 40.63407946970851,
+            "lng": -74.1676093802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "South Ave/Arlington Pl",
+      "place_id": "ChIJnRo_jKZNwokRCtEjN4zuf8Q",
+      "plus_code": {
+        "compound_code": "JRPM+5F New York, NY, USA",
+        "global_code": "87G7JRPM+5F"
+      },
+      "rating": 4.3,
+      "reference": "ChIJnRo_jKZNwokRCtEjN4zuf8Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63590600000001,
+          "lng": -74.166557
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6372487802915,
+            "lng": -74.16520821970849
+          },
+          "southwest": {
+            "lat": 40.6345508197085,
+            "lng": -74.16790618029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Arlington Pl/South Ave",
+      "place_id": "ChIJUfE0k6ZNwokRRH0S8k9YHpc",
+      "plus_code": {
+        "compound_code": "JRPM+99 New York, NY, USA",
+        "global_code": "87G7JRPM+99"
+      },
+      "reference": "ChIJUfE0k6ZNwokRRH0S8k9YHpc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631561,
+          "lng": -74.161324
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63294123029149,
+            "lng": -74.1599711197085
+          },
+          "southwest": {
+            "lat": 40.63024326970849,
+            "lng": -74.16266908029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Lockman Av",
+      "place_id": "ChIJ-7DLiK9NwokRQ5ucp1ahKck",
+      "plus_code": {
+        "compound_code": "JRJQ+JF New York, NY, USA",
+        "global_code": "87G7JRJQ+JF"
+      },
+      "reference": "ChIJ-7DLiK9NwokRQ5ucp1ahKck",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63173700000001,
+          "lng": -74.162109
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6330610802915,
+            "lng": -74.1607637697085
+          },
+          "southwest": {
+            "lat": 40.63036311970851,
+            "lng": -74.1634617302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Lockman Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100765513705985397819\">Yusuf Khaled</a>"
+          ],
+          "photo_reference": "AU_ZVEH--knGiPnNdgenE7AHCCCziLlFuSvMqKM6ucJGKl9nuXfx6dqj0zaZkpda1h5yok4whkeR1PZ24xREBDU5KRdXctlF3hwLDxUBVgvk6iv69T9RJRsKnOowGZ5pNUnCawzImDGzOFdVPnPWq_6bZG4E9kolcv758EtfAHffoG4nBdHUmQvSjCDLx1tWNAxWlG7TGj3U4ZXBUM3WKz2zqx6ZHk9DymNMcGsBUCq3VrDcN_lHB_k1aVKK8_6OVbk1bmDMNp5qnd8ttX-SZ7dVCGES3BlnL6uM_DmogBQqngwG0bjKgXQiGQSCIPYlo8Ty0rnv-W2aOOYEBg2ZjzTJibk9bbI2tBl3dD-996dHP4lOFQfcyYjl7lFBfLucmUO9ppQEgL9sRMXF29QU2xgJ2ybpgZlR35XbjKj5Xq8DY8BOopvXkB37QZ_S4mCafuAeFpDmtOZzYbeEKpehmqA1V8D0a6cuqfNPlkYZ2K-mx7uc69TRVGPX12tZMbIMc0DR_gsut4vx5sQ3-5ZQtBZIFoX3U9hJXiqFbbVGkr6Hljg9ybOvnmtlSDWqtM33CIDTE3BQsjoFlSWOrW0cjZyyithEwLYRYUvW6j8lCZUVTo8WcWhVlydccGu4FcOuF06-rvrJuA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJU5vCga9NwokR-187DOowbZw",
+      "plus_code": {
+        "compound_code": "JRJQ+M5 New York, NY, USA",
+        "global_code": "87G7JRJQ+M5"
+      },
+      "rating": 5,
+      "reference": "ChIJU5vCga9NwokR-187DOowbZw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6376015,
+          "lng": -74.146858
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6389323302915,
+            "lng": -74.14550436970849
+          },
+          "southwest": {
+            "lat": 40.6362343697085,
+            "lng": -74.1482023302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Ter/Granite Av",
+      "place_id": "ChIJsThme8BNwokRGCfZ1_SfxSE",
+      "plus_code": {
+        "compound_code": "JVQ3+27 New York, NY, USA",
+        "global_code": "87G7JVQ3+27"
+      },
+      "reference": "ChIJsThme8BNwokRGCfZ1_SfxSE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637634,
+          "lng": -74.146965
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63898303029151,
+            "lng": -74.14561706970849
+          },
+          "southwest": {
+            "lat": 40.63628506970851,
+            "lng": -74.1483150302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Granite Ave",
+      "place_id": "ChIJTbqbe8BNwokRhn5yj3qAVlg",
+      "plus_code": {
+        "compound_code": "JVQ3+36 New York, NY, USA",
+        "global_code": "87G7JVQ3+36"
+      },
+      "reference": "ChIJTbqbe8BNwokRhn5yj3qAVlg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.631687,
+          "lng": -74.151794
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63309923029151,
+            "lng": -74.15043581970849
+          },
+          "southwest": {
+            "lat": 40.63040126970851,
+            "lng": -74.1531337802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Walker St/Simonson Av",
+      "place_id": "ChIJHchqwLlNwokRGCwXSzaoV0o",
+      "plus_code": {
+        "compound_code": "JRJX+M7 New York, NY, USA",
+        "global_code": "87G7JRJX+M7"
+      },
+      "rating": 2,
+      "reference": "ChIJHchqwLlNwokRGCwXSzaoV0o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.637569,
+          "lng": -74.146751
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.63894623029149,
+            "lng": -74.1454091697085
+          },
+          "southwest": {
+            "lat": 40.6362482697085,
+            "lng": -74.1481071302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Granite Ave",
+      "place_id": "ChIJ67JUe8BNwokRQqykhfSm75Y",
+      "plus_code": {
+        "compound_code": "JVQ3+27 New York, NY, USA",
+        "global_code": "87G7JVQ3+27"
+      },
+      "reference": "ChIJ67JUe8BNwokRQqykhfSm75Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.640587,
+          "lng": -74.167259
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6419374302915,
+            "lng": -74.16594966970848
+          },
+          "southwest": {
+            "lat": 40.6392394697085,
+            "lng": -74.1686476302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Richmond Terrace/Arlington Ave",
+      "photos": [
+        {
+          "height": 2322,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105936864096459175357\">Felicitos Mendoza Barrag\u00e1n</a>"
+          ],
+          "photo_reference": "AU_ZVEH6mlzCFHMJlYsx3YQeJMVUUVKMEcKrI0IUKd6AFdF3vLGRje8py_WYinm18gumYGbzfUT3eJqvfTROdols2u0WcvbpzqNQDkDRJwJfnlminm6JM40LEBvWajY28upwW-z4BLgDBMuE_T4td7XaG9mpGLCm7A2H9cExVJpDOb1BKUQUV8ZQEeAkA2VwO96UR5n0PNu0AqAgTLkcxSrNmTqJOv-V4uY3B57MytYgoI0Wf9GO1ryodBLjc-UEOXhWGY9YhGVQmwam0bCDVXf1AGbgY3_qojnrOTRuGAyAs0any2y_I57IPF35lI7tZcwCuTFHYpnLNCsQH4ZACDApV6jQvs4OUju7XAkKfF6MQgfxmrWFTAvcWcsu7nNcKczBKOwjCBC87iMjocGnrHviiNll7k3ssgn4283goAvNRR9MBKf7EXamxQIGHHphyVkTbU7mLUdOgxj4yYiVRrkYkFGdRUtUUFGE7VJ9vbCXUyfvHilBf0Q3VEzBOkcoKXjnOencNvI73S6U8a4LTNbw6MRT-oAMlim5UfU9UizA1wPhSWomQF5YA3I6fe65drgTEOli4k03aOmuWN1EVJIz72AA8OYE47lTQ8mzlUmt8Su3VQuEAP1_o10o7IJTK_--50QZlA",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+      "plus_code": {
+        "compound_code": "JRRM+63 New York, NY, USA",
+        "global_code": "87G7JRRM+63"
+      },
+      "reference": "ChIJj-N7paFNwokRG4iSRKZa6Xg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.632202,
+          "lng": -74.16508499999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6335269302915,
+            "lng": -74.1636814197085
+          },
+          "southwest": {
+            "lat": 40.6308289697085,
+            "lng": -74.1663793802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Grandview Av",
+      "place_id": "ChIJka3TVK9NwokRGZPSqFD3cas",
+      "plus_code": {
+        "compound_code": "JRJM+VX New York, NY, USA",
+        "global_code": "87G7JRJM+VX"
+      },
+      "reference": "ChIJka3TVK9NwokRGZPSqFD3cas",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.63210499999999,
+          "lng": -74.165127
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6334688302915,
+            "lng": -74.16377706970849
+          },
+          "southwest": {
+            "lat": 40.6307708697085,
+            "lng": -74.1664750302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Brabant St/Grandview Av",
+      "place_id": "ChIJq0FRq6hNwokREY1gTXGcgyA",
+      "plus_code": {
+        "compound_code": "JRJM+RW New York, NY, USA",
+        "global_code": "87G7JRJM+RW"
+      },
+      "reference": "ChIJq0FRq6hNwokREY1gTXGcgyA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.632008,
+          "lng": -74.165169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6333578802915,
+            "lng": -74.16385921970848
+          },
+          "southwest": {
+            "lat": 40.6306599197085,
+            "lng": -74.1665571802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Grandview Av/Brabant St",
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103624301628839472891\">Lee AndersonParham</a>"
+          ],
+          "photo_reference": "AU_ZVEHe3zXIZD3M4jcgtHOHRyBHryTE8rECEo7ts8CmA8JSiABLCBlXju8ENmZ2UAxiwo7rn-lkQf_1XVowWNQVGsONlqs7ZTXCDmjHoNKeBq5INyM-1ns0xptXQgZMyUHRviY3nFiMBuSe3hiLMOjuvrUXoXIOxGhzfy45Fb133MSJSsej51NN-M72uhRDZ9I9JWLHMVvXiz124mF0HF7W92OY8MqyxjhpQyfqAIB3bCwYnGalzIKwIBj2GvTHnHf8XUXQBO3dS4B3VW4zA26IMusqmpUEu8pEyMcgE4BFu4a37GXe5H1G5Bvymlx5Ho-7fReWB0bns11-nXi_YI3H7ySxUdickmgNN-ClaQkVs2g_ThGyqNKWBH1O3L_6Otqx_G0i-K4K9EARUXuZCCMaGidGohQ20Ks84xDY-wEwrlU8pTeXPfiqpeYQ8QaeIJ1B-j6sIoBkMbsmUC1iZayBTHptZQzASSNhABDCSbAdHBjpGmPqCGkDUmTxBNa3LwZuUeNLDBcTzPKQsglUY6MWQ7kaHe2uq_-vAF3Dw-koFqCPC0NbXQle8q1hqTXk8eHR5H6UTC8brDpkPjMCt5P8Wj4DCrqkgQwxI5HL4qiLZKTXdZSnaA6qJ_6jl2iIJcsLEvQGRw",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJy63ArKhNwokRqW-l8pRF5Nk",
+      "plus_code": {
+        "compound_code": "JRJM+RW New York, NY, USA",
+        "global_code": "87G7JRJM+RW"
+      },
+      "rating": 1,
+      "reference": "ChIJy63ArKhNwokRqW-l8pRF5Nk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    }
+  ]
+}

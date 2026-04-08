@@ -1,0 +1,4654 @@
+{
+  "neighbourhood": "Glen Oaks",
+  "centroid": {
+    "lat": 40.75508919047619,
+    "lon": -73.71660114285714
+  },
+  "fetched_at": "2026-04-06T14:23:07.287007+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749627,
+            "lng": -73.707534
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7509603802915,
+              "lng": -73.7060650697085
+            },
+            "southwest": {
+              "lat": 40.7482624197085,
+              "lng": -73.70876303029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-7136",
+        "name": "Luigi's Restaurant And Bar",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117952603038362798192\">Luigi&#39;s Restaurant And Bar</a>"
+            ],
+            "photo_reference": "AU_ZVEEX06m8Su1F63W6pOfTt4tLmORRIM2zwXwvcRy9MaK1tV58eElLp7O-yZne3aLE1vNeqXC1kMAjpdMudsau6I0rwxI8Uu6lE3zLjCjSPiJSbshDngSToxVItfJuSIr0DrTqzbBNo-ASZNC3nP_2CThHd0cazcHYfOOGVtyGGX6T8N9f7ERIgRzpnZml9dXRcqwNY5ZYYbUHXVbGkw0DUTAI9d6RegSP6q8ap78Eg6ki5XhY1zqVilMADfFMU3cqCA9LcjEOV38jHPNRWg5WLn1OWPLJGW2FVfDgBYXhr0n-QrKiroL5xzzz94TRLkSWizboa9sruPE",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJq7l85XtiwokRiLieNJOBm68",
+        "plus_code": {
+          "compound_code": "P7XR+VX New Hyde Park, NY, USA",
+          "global_code": "87G8P7XR+VX"
+        },
+        "price_level": 2,
+        "rating": 4.5,
+        "reference": "ChIJq7l85XtiwokRiLieNJOBm68",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 2276,
+        "vicinity": "265-21 Union Turnpike, New Hyde Park"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7493811,
+            "lng": -73.70786389999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7507080302915,
+              "lng": -73.70643931970851
+            },
+            "southwest": {
+              "lat": 40.7480100697085,
+              "lng": -73.70913728029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-4846",
+        "name": "Galo Tavern 18",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102149276815075523131\">Galo Tavern 18</a>"
+            ],
+            "photo_reference": "AU_ZVEFDTdgpcY8H7j6n3fSTTM6aAMmB0f32VuZb14KkxDemCD0R9l7ib_JX0vHt7T_piWJ3Rcx3XkwVDQMBFC70bIqmo54G2zqsCHtT6rYC2IBzFLp-WbXOO01nFeUUJQw4U6fuMAacxUY_HLBl1WZmN4nRNqSBpSJEb59JewQcvHM9wEPm_Beg7utYgWPbh3-6VYIXlSlFMoWl7F2rrJ5XPWnM6pXjXq4HPKCSG7WTLc5w8aAA0PLopQ62svU9kNq5JUO_TeHeRxLEKlgMPspLe5wmtTHnLTP6ZQjyqcm_iX7ObHJRbRs9w593C8UMefgGmQbCZc2abPI",
+            "width": 3000
+          }
+        ],
+        "place_id": "ChIJ1wRt6XtiwokRpusM6OoAaiI",
+        "plus_code": {
+          "compound_code": "P7XR+QV New Hyde Park, NY, USA",
+          "global_code": "87G8P7XR+QV"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJ1wRt6XtiwokRpusM6OoAaiI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 999,
+        "vicinity": "265-11 Union Turnpike, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7568152,
+            "lng": -73.71503369999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7583038802915,
+              "lng": -73.71387676970849
+            },
+            "southwest": {
+              "lat": 40.7556059197085,
+              "lng": -73.7165747302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-819-8228",
+        "name": "Dining at North Shore Towers",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1338,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116132322074999206668\">Meghan Channon</a>"
+            ],
+            "photo_reference": "AU_ZVEEKjXVi2lPFBFhRdBsYfnsC7B0j_gpR3zV_Oy3nWAvWocCKFKi_LOkPCSDE2XBPcFmbqAfKriIKghu0K4_5ZboUHAmefWY36cHU02UnfrrSITPdbee4aAP1_sYg_U41M3jBcNJZGIQ3HfxcQ6h_YGvuhFeJOGZy3KVLEjjD23-Pi7P2hGhxFbFixO9PWRjtyhhjjFaNkFnYnzfItkz1QouGjsRJqJ45e7qHUnb3D9sG8dnz8ceLIKpwhpjQlTrX-CCGpXthywHzDzS6VSvhoCybHUlm0DjSitSZI80Oiv27BDFZW3Wtqg-8QCWEtdBnuR6yP4f8NpHyNArruRJiQZYAEGq_j9gSslvQIPX6MrG60rF3EdVjbGHKg3gpR4_KFf7eljQJsu5kZVdlPIjQLDrDd5nENqk67P0ihvhrfPyvRwJ-kjUyn0xHzyPXDvixffhmIXrUY1-K4LfvhlsxsGfn-Uu_oPFczCbhyvp2KhnMx9hR03zAvVhH4hZc8Dk1qey7WVopAdWYdlbv1V3TR8Q3WT49BUTdoKpC3i4d8xb5cyyoCgTvfAAR8miPpx5AhFxXiPg8LsFDyIB0R_s0zsJmwnDJS7QlkCD88D2Givy3wBBNpimykG81t3wR_AYUMi4L2Hmz",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJIwcM2NiJwokRD2388G2D4yY",
+        "plus_code": {
+          "compound_code": "Q74M+PX New York, NY, USA",
+          "global_code": "87G8Q74M+PX"
+        },
+        "rating": 3.6,
+        "reference": "ChIJIwcM2NiJwokRD2388G2D4yY",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 63,
+        "vicinity": "272-48 Grand Central Parkway"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.747074,
+            "lng": -73.712529
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7483327302915,
+              "lng": -73.7111017697085
+            },
+            "southwest": {
+              "lat": 40.7456347697085,
+              "lng": -73.71379973029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-343-0790",
+        "name": "Subway",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2340,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113208052915052581794\">George M Malakian</a>"
+            ],
+            "photo_reference": "AU_ZVEFxQdDC417MOZjWdKAVjNriUMVwle5GKvdF4wyuBbDdVCelMKd1e3BwjF-KcMKQo8tOC9K32QwQ68eFPUJPtdjFcTQno6l-S0eoyPzVHG9gYwGaMVUXD5pqIVDVTypvKKR5AuswLJykIh6PTY2gQ0G47mQoazRwwLV1EwynfwljMFBMIRtpkcq_WaR93wDstDicAkLQmdU9cUE7d4vKCVc4lZvApTHeHyV8IFuwHwano6UfcTWzd266qK1jUSALEIVtNDQ4W3g1m9RQPmBHUI9CZR81VcdKGLVsn1g7biL86lKbarLso_Do4gvYBBhRXVZSNHkReVwZJ5_wP99Fl-qPfGJu407STwoyeidJDBHDI0zc3bSbXYa9FQ4cxvEO21D09oVgizAqVCT2i1QJFBAUXG7KrksuWxnw-oKlKl0ZpokO6MTL7HEhMjmWuelK3w0tcysfnIkCKHgLDRyiXIRqeG-TbrpNElIEPW9Qe3Q--XYD5MGryxrmnD3jUhi8yrIULXzqwPO6Rv4dJ0iE0TdRQKyI4Z-QyW97kCA_0j-FmKmWfVd_ertG8K-T8FiF6NMV3Ynzm61YRmwhqelke-s0UDCltF_8aunAAIC6Sdg_kqSjHtKcTyw91PEat7Mj6Uf2iCBD",
+            "width": 4160
+          }
+        ],
+        "place_id": "ChIJcckDBnBiwokRMaItUYqt9wc",
+        "plus_code": {
+          "compound_code": "P7WP+RX Glen Oaks, Queens, NY, USA",
+          "global_code": "87G8P7WP+RX"
+        },
+        "price_level": 1,
+        "rating": 3.8,
+        "reference": "ChIJcckDBnBiwokRMaItUYqt9wc",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 117,
+        "vicinity": "259-19 Union Turnpike #59A, Glen Oaks"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7614323,
+            "lng": -73.7224959
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7627301302915,
+              "lng": -73.7214122197085
+            },
+            "southwest": {
+              "lat": 40.7600321697085,
+              "lng": -73.7241101802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-428-5050",
+        "name": "Commonpoint Queens at Tanenbaum Family Pool",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1836,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112802009526623689679\">Natalia Hanson</a>"
+            ],
+            "photo_reference": "AU_ZVEG87Q1rGgwprcTmkZTJZmyfybcNj00bwz-Xni9SbxBQMYVOD7xL_kyNd1hG4tdfPDhN0RCEC9uFedNN04tg-0SGAeO4Ox9XFIG_10ekZtD9IJw6B4qLd9Ts9oyu97dkHVgzME7CCLRtEYv0E8yJuWZyYjPq5U_qhMjG3NuWzcdvlSn_6Qko1y-c92FkPiHnR5z4l7ydu7E-u5V5FXPQDzsxSbM_6eXTwaGcyNmbCfTE1DgfHrIwaQ2lBA75I1VWNFwAiYpVu29yf6mGWlACu9S_9HWVCDFcQtPbtO2Es5luiK5RZbWpFueTV2TDKgAjspNduLXtqFznUBbP8qoBzmaDxjq7glL__m2u5FIJb90f20G8rV-bf3KZseaiqZPqXm-xHJRokoB1Vv32SUB_mOu8ESOYTjil7YOHQCsmZCi5R3b0wV0ayol4k5Ab554CjvD-MUqL8Go4mYCqU2KOnNfzlFbl9P3R-LBSQyin7Wf_wwyHSdjVN4NxwtvmWAhpigz9jLwy48ggVT1q6ElWJiyf64xWIMaTghLtRw-wKUCs2r2IvtW42D7gUU9f_JaEAWrgWHY8gxmDKXi2cbPeQ1PsZ1YKVSAYzPrwqR_NVi3WF_v3WJPGyJkYH-Sbf_Vh3j0dew",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJsxtHbN6JwokRoilE6WAo5cY",
+        "plus_code": {
+          "compound_code": "Q76H+H2 Little Neck, Queens, NY, USA",
+          "global_code": "87G8Q76H+H2"
+        },
+        "rating": 4.2,
+        "reference": "ChIJsxtHbN6JwokRoilE6WAo5cY",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 131,
+        "vicinity": "58-25 Little Neck Parkway, Little Neck"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7568337,
+            "lng": -73.715194
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7583131302915,
+              "lng": -73.7139164197085
+            },
+            "southwest": {
+              "lat": 40.7556151697085,
+              "lng": -73.7166143802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 516-680-8937",
+        "name": "Falafeldelivery",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJyZYVFa2JwokRlMk9YglN6vA",
+        "plus_code": {
+          "compound_code": "Q74M+PW New York, NY, USA",
+          "global_code": "87G8Q74M+PW"
+        },
+        "reference": "ChIJyZYVFa2JwokRlMk9YglN6vA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "270-10 Grand Central Parkway #29b"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.7535857,
+            "lng": -73.7083463
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7548483802915,
+              "lng": -73.7068930197085
+            },
+            "southwest": {
+              "lat": 40.7521504197085,
+              "lng": -73.70959098029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 312-229-0509",
+        "name": "Farmer's Fridge",
+        "permanently_closed": true,
+        "place_id": "ChIJmbfyN7NjwokR0d1GLVbbLyw",
+        "plus_code": {
+          "compound_code": "Q73R+CM Queens, NY, USA",
+          "global_code": "87G8Q73R+CM"
+        },
+        "reference": "ChIJmbfyN7NjwokR0d1GLVbbLyw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "Located on the main floor off of the Starfish Lounge where the other vending machines reside, 76th Avenue, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7542402,
+            "lng": -73.7077067
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7551756302915,
+              "lng": -73.7066657197085
+            },
+            "southwest": {
+              "lat": 40.7524776697085,
+              "lng": -73.7093636802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+        "international_phone_number": "+1 718-347-1409",
+        "name": "Panera Bread",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1125,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113874845547348454140\">Panera Bread</a>"
+            ],
+            "photo_reference": "AU_ZVEF6UNw62l1tUkV8beg1-Y65fO_-79EZ1Caa8ZiH0ttCCl1nduAUHZERpdUZdmQsfPT_SQwiBzeLH8hBggW-R5wJ0u2qUAY95hFVj1kwmEtwctDONzZRRLjA1EW2jyG1g5Mrd0yxEKFNLHWRi8qMDd99YQH9D8LHXbhkt_yORtrTqg5seSsTiKW70Ch5JwBikICVnfpfPyTrVF7hzoTq1EQH8qdexq-LcE0WH0MPCCsjADFXYO26GLLMSlMt3VGUB4oU7xdccvwfANxW512UnLS00ms3bcx57ID_h0ZfwGKg7S1J9OkMrUh7rv9m48tKOAMjsayKvGE",
+            "width": 1999
+          }
+        ],
+        "place_id": "ChIJK2GpqUWJwokRgDy31zUaa-w",
+        "plus_code": {
+          "compound_code": "Q73R+MW New York, NY, USA",
+          "global_code": "87G8Q73R+MW"
+        },
+        "price_level": 2,
+        "rating": 2.2,
+        "reference": "ChIJK2GpqUWJwokRgDy31zUaa-w",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "meal_takeaway",
+          "bakery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 73,
+        "vicinity": "270-05 76th Avenue, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7533245,
+            "lng": -73.70720109999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75447088029149,
+              "lng": -73.7062786197085
+            },
+            "southwest": {
+              "lat": 40.7517729197085,
+              "lng": -73.7089765802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 917-279-9926",
+        "name": "Moes Halal Food",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104955427312395675460\">Sara Soltan</a>"
+            ],
+            "photo_reference": "AU_ZVEEtlWkv7OISjcvXjVNlYNVDGGfQMSLt6vEBovFQI4r3YoWOzUJTuErz56CYWJ8YrWbsieWFl9juUwUcMsGX6l6XG16UCo6SC-fKg8hJuqGR47dzmLorp3mYYELE26Chp6EuIbh7P8QvbBvxaEeDYC_bnd3DFAauc8Qm3G_7DUpyMFzlMSdyYRVQYSZQEgAMLkaOWYqjJmlYKCrg2QamKpg83TWlBosoc8E7AOEhdbpAvhFPrY8hvIdRwOYT-E9-8y76VO0esF6GOtowz7sWPjL0L6_V72HBQNMjs4n-MruY87VB1vbvrWa0TqVFyQ_rNPYSS7uYIp0yZclc0DoEJ9H3NCkgMzmqWIk45glNXwLg7Zsutk4-x6_8KRYm4oNTtC_K6qVdXRi0QWPtSrKuVTpdLJ9JzfICQX_5szokHjycwLfqymqr6VXvmDkB4kIPM-1dSy3qXz8g3AUj7LEplig-DhmkQRuVOJLZYSOniL_Boua1ZMtZTOd28U5PTlWuLWiIj0c7ptRbKkT--P3cFgFRNJRd2vkQVlXtrmqVoiUCrLdxf4n6yexFBOZS3s4iU8aPxdqL2sXi4Nuf0oF5FLMg6byoyEpB9d6dF54Xv78tap1MSIg__Ti6PEHixSNof0MyuTiw43nkWfDVerZ0zQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJcwNV1TFjwokRFdGq8TILWW8",
+        "plus_code": {
+          "compound_code": "Q73V+84 Glen Oaks, Queens, NY, USA",
+          "global_code": "87G8Q73V+84"
+        },
+        "rating": 4.7,
+        "reference": "ChIJcwNV1TFjwokRFdGq8TILWW8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 60,
+        "vicinity": "270-05 76th Avenue, Glen Oaks"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.7532247,
+            "lng": -73.7072227
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75451443029149,
+              "lng": -73.7057819197085
+            },
+            "southwest": {
+              "lat": 40.75181646970849,
+              "lng": -73.7084798802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-831-9550",
+        "name": "Spiro's food truck",
+        "permanently_closed": true,
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101421295937584896710\">Peter H</a>"
+            ],
+            "photo_reference": "AU_ZVEHUOM28bTBB1f8sGMwQfgQ3z8ET5v6iwBlHR2YdJ5rA0Oop5ktL2VC_51OK0deQgywkRcIT6Npbe651H8mI7wzgd2UI05lTkcbWQ9hi9Uc7bA-t60Bpbjr8IVMVRKif7rMsgqTzuABlkAgZRwNfoyEwK061QjZRj6GNTVYTLztsqKf-M7Hs6nileCzfiuXnlXHi4Jo9UnnwDoh_Qmuq1crQT9z_lpe8RvIVBuTPzbezoVDZU0jGP7IwsS7uIi-O9QqQ7KMz7rcDEINuWibXiZYnH6WKnG8tlyxaOuUZIb-0aqJPE_0ion2ZCfa_sqK3r_shDkcuogQ3TQ6L4jzc4XfT3IRUOdaLD_oTRyjxCoSIpSbuMA8UmRvWfrDDilpw9NoGT9w1yU6Xn1CS1puIz-GFDq-6jigxQTfaQ5mlMLhOB8ZssAyiU_ADBXpV_MGwEUijsv3-2NVxDhHIGYiO8N84f3bOm_oPRNFijciPFdHgmPnj1KXLEIicUInXuxZUfOLCLKZ5ll_0mK9tJf6uZ5GJhEfjUAQy7jIg5pSQigFmIGZkfsnMEVGyaB0VMvfW5AeETAksT-kjbvzdDOKaFuAVKb27myASXeh1ygLP8J_z6wChQ03DDYrE5G5A8LZI50wbSg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJVZGU0HhiwokRFZBMUoJqmy0",
+        "plus_code": {
+          "compound_code": "Q73V+74 New York, NY, USA",
+          "global_code": "87G8Q73V+74"
+        },
+        "rating": 4.8,
+        "reference": "ChIJVZGU0HhiwokRFZBMUoJqmy0",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "110-40 76th Avenue, Glen Oaks"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7469795,
+            "lng": -73.71253399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7482694802915,
+              "lng": -73.71113431970849
+            },
+            "southwest": {
+              "lat": 40.74557151970851,
+              "lng": -73.7138322802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-564-2860",
+        "name": "Tropical Smoothie Cafe",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 800,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103174976331775059765\">Tropical Smoothie Cafe</a>"
+            ],
+            "photo_reference": "AU_ZVEFGC6U76tNjMS5a05lECQxP3qnT-hn2ki15VZdwc5A_kQWyRxrbFBB2PLH3tFDhRnMiRhrUyTGc7Sxj5j7w-o9iggC1I7-8bSKNPW9IDflioZmpxh0Aq13EDEfWMIo0-aYcD-zDInMCuv9KopYZ_W6_qYQfC5gyYwlGhI5_lAUytlx67H4xdbLmE1u7Lc2ecf39eFe2mE2lXNAPZMsQuE_hpGxRtnPlCeGnocB5L3hVgnMmndIOsNNVL-kJGayUZlklyBMW0vFlgi-sVT0NC9MfPxpb8se46GG_TS99a_LDtlOh379I2NxMInzmST7MQRbS65Xa1Vw",
+            "width": 800
+          }
+        ],
+        "place_id": "ChIJ-TZMlvdhwokRJRyC1vIcwSo",
+        "plus_code": {
+          "compound_code": "P7WP+QX Glen Oaks, Queens, NY, USA",
+          "global_code": "87G8P7WP+QX"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ-TZMlvdhwokRJRyC1vIcwSo",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 54,
+        "vicinity": "259-15A Union Turnpike, Glen Oaks"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7496114,
+            "lng": -73.70764
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7508898802915,
+              "lng": -73.7062116197085
+            },
+            "southwest": {
+              "lat": 40.7481919197085,
+              "lng": -73.7089095802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-347-3106",
+        "name": "Liu's Garden",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEECklrBSLDBEim6OOorxcD-IyYN4yugTM_AJLypimHq6S8UfmQMW2tFlzjzllBXRennxXykNXF-jEfiK8WbFVCNvUzucPx0_RTx01w79IYAjODOymoGtWi9uC-Ip_oGo9NIuGFcTfXSml0mQosxuf-0WIsJh00i5KiT7ufNuwCeHD5G0Rmt-Ain1TpXxPSUCKhI_jDr6NC4P0__-XUxntoTs7GoS1CmAHJp52oECY7-zTsQuD1Wbk9SFjEy-nMxuaIbE4kvPCOD_6psAsYh0Lk_ZGGeNZx1dimVu4xK0OA9pTtt6Hub_NYuRUBb-sqLY3sAu8hSz0fidNVug7zFMS2VsIoBQ_QLfVIiw-tg-GVZryBWCejoiaC-gj5u-dlUmc4MKGlZeEClMFnhb_sjoQyOEHDFDjaFM4sM_ZMK3ZSr31hlMd6UCmo7lMNvfq9zyGlHk_LgB32kwghOGDt0xhe0j8OhSkLovYJTYGtjwIdvKV8gjwJfaZLvUERvaVGSdhLK_7E3n_EC0qiP84_f1DrSUa4GLdenfNal2WRsQ2T2xsDltl0vN79OzKCV_LMIO45x-6Bk7cJmEg-Z6MEIIRTufDPi877SSynHcg--J0ykppqlukNn3PiVOOLx7zQVqUwTUTuX",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ-W5N6XtiwokRzyw9i4PH8L0",
+        "plus_code": {
+          "compound_code": "P7XR+RW New Hyde Park, NY, USA",
+          "global_code": "87G8P7XR+RW"
+        },
+        "rating": 4,
+        "reference": "ChIJ-W5N6XtiwokRzyw9i4PH8L0",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 117,
+        "vicinity": "265-19 Union Turnpike, Queens"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7462651,
+            "lng": -73.714741
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7476542802915,
+              "lng": -73.71342826970849
+            },
+            "southwest": {
+              "lat": 40.7449563197085,
+              "lng": -73.71612623029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-470-2050",
+        "name": "UNO Mexican Grill",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100572229193189473190\">R Ho</a>"
+            ],
+            "photo_reference": "AU_ZVEGOlNZHkfKjOf42AkSKgxOKm8oPhAJ8Px7wFZep5Gdj3Ua84IfOORiYF9nkTndK4ktRtYzjq1C9eTgaGOJ3tMr0lknnywpJSkKWq9w-sOSyHFLfMWlFfY7Gncts2kbWchTksGh8Jk4y2_QhCH7_yVsMKxNbtnUjvLw3mMohPQzdIUOi_aYkPQvXpF90dToRBswbn-oBdbn-pMYy6QPzU5q89LonKqfy2t5KwLNdi0NofjDpzyjqi-6iH8pqcKkb85Y-NyKl6wMluAXPbYwbeOZuzUjNQOPIfvHaU9EoaS0vH0AeQ9EZY9F51MTTMQ5xO9sKSqz4jpD18p6A3v3tmoGhegkjMEXBWP6oh9u56bZBIIjEAfrvfyM_8YmJNlZEPG4eRyAI123fvRmUMU82oUn_DtqBn_ilPDkkPEqtS8o6uAWOURaCF1Rdgazya9vt6Dk8i8xP3phwp-A5fbgsiCy2rSK7Gw9IBJJDkcp-7I4hmNxTPpHzlV_c4MEg19UHsL_USgUftPVu2T98D0PN4Jb1-0npYaIlIF7tx3ylsI8tJgpVElhSoh75rfPAf9qbU8rqYavL8fPCnMz2uOlywQajZW6RipD4qTgUWJL8v66G39riIGAN5BdNgYPKjnQQx7CJww",
+            "width": 4284
+          }
+        ],
+        "place_id": "ChIJww7q31BjwokRwzqwDgFSXsQ",
+        "plus_code": {
+          "compound_code": "P7WP+G4 Glen Oaks, Queens, NY, USA",
+          "global_code": "87G8P7WP+G4"
+        },
+        "price_level": 2,
+        "rating": 4.7,
+        "reference": "ChIJww7q31BjwokRwzqwDgFSXsQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 98,
+        "vicinity": "256-31 Union Turnpike, Glen Oaks"
+      }
+    ],
+    "bar": [],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7474785,
+            "lng": -73.7220059
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7493148802915,
+              "lng": -73.71831080000001
+            },
+            "southwest": {
+              "lat": 40.74661691970851,
+              "lng": -73.7232376
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-347-3276",
+        "name": "Queens County Farm Museum",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1936,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111776199222481536522\">Queens County Farm Museum</a>"
+            ],
+            "photo_reference": "AU_ZVEEIlV84yGcOO0lZIBby2x9mnG9s4iE8z4HGkdnqrYbBKIH4NiVFdN2q69m4ryzwUk2_gp46ydo-ozCnlEjLWXcdoLKRB8yhLBBXxl6GdEdEfpiyFIGB0ovwh39RRfQTZxGljct-8l2PWBAdUNSJTC1Al6EPQNPgYo_3PzBFQ-Q0LyQTk-qpz3s78kPlp1tQ9qaRdjW-L3Zulm-GAw4UhJ1bshQaStj_u73_70Hww4uuq9Vhl_jqVdrjQOGJzJ_csrgEjILFJ-XooKs5e2hRfxGeeEfnK1pRqKWy4EKMOicZiojWj9r4OTOq1CU9yz-ui2VDBKpwWQA",
+            "width": 2592
+          }
+        ],
+        "place_id": "ChIJ97dFr3JiwokRbeAyMsBwcnA",
+        "plus_code": {
+          "compound_code": "P7WH+X5 New York, NY, USA",
+          "global_code": "87G8P7WH+X5"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ97dFr3JiwokRbeAyMsBwcnA",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "museum",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4203,
+        "vicinity": "73-50 Little Neck Parkway"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.750723,
+            "lng": -73.7174915
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75205648029149,
+              "lng": -73.7161597197085
+            },
+            "southwest": {
+              "lat": 40.74935851970849,
+              "lng": -73.7188576802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/73 Av",
+        "place_id": "ChIJ6zOdRHFiwokRmS6ezJUjO6w",
+        "plus_code": {
+          "compound_code": "Q72M+72 New York, NY, USA",
+          "global_code": "87G8Q72M+72"
+        },
+        "reference": "ChIJ6zOdRHFiwokRmS6ezJUjO6w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74963,
+            "lng": -73.7157785
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7507985802915,
+              "lng": -73.71467251970849
+            },
+            "southwest": {
+              "lat": 40.7481006197085,
+              "lng": -73.71737048029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/74 Av",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113026770032151249383\">\u042f\u0446\u0435\u043d\u043a\u043e \u0412\u0430\u0434\u0438\u043c</a>"
+            ],
+            "photo_reference": "AU_ZVEGcA1NcZs5CreiSVzPSj7pWTOux-bBLxQEwT8yeRJw4MzXQvXLaJhfcMkGtG6vvHvk20NqaZXiNj-m6ltPMK5bYajvlgbysti-9smk6ZdTgg51cWNenPwhtkYW0np6h68fCT8hd0GbQVDAJD4QQBjFjsYp695PT9QJZ2q_OKYkV24H3YHZYbwHhNAQ2qlOYQv6phz4_-MUHyO8lgdb2aVPJqfKyqzF3eMje1J0m1sLQ279v0UdogZ_yDQ8m0Nbl_vfn3eGczZaU19BQsQIDGv_y_ouYd_uSg87N7bILNJYmOT-26jUgnRp36MaQFPHzAZFvuIhyu4k8orO6EtQK2izsaMi4kp5cIOcE5BIa4gaGFyd3rRcHHOxvWyQERWDm68T1-D5Yc0IXdGXYbgw-NfHFXKCJ69bkM9LYDtObgBozGLbyeh30mzF9YFenYTT-n00hFYcA7voi8O_XC_wBSrm4f1Aca_stGvUTG0g9YYNizVsODK3GfSzzonR4sn7zAQuAr73Mcju_zV-oiqowbUPYt5JfwL-t0I1kOcVmtYzC1WdDWoHHJRcJd7tSyQVQaaRF13j9iFgbnlPfgAAr2a-67xiJjzU47T6b2FE1bXinfkPDGE6hja8briQKMaV31LCyMw",
+            "width": 2252
+          }
+        ],
+        "place_id": "ChIJ_aqfHHFiwokRKMKbjaxbYN8",
+        "plus_code": {
+          "compound_code": "P7XM+VM New York, NY, USA",
+          "global_code": "87G8P7XM+VM"
+        },
+        "reference": "ChIJ_aqfHHFiwokRKMKbjaxbYN8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.757244,
+            "lng": -73.715126
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75857893029149,
+              "lng": -73.71378141970848
+            },
+            "southwest": {
+              "lat": 40.75588096970849,
+              "lng": -73.7164793802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "North Shore Towers/Building Entrance",
+        "place_id": "ChIJWUg_YdiJwokRiisSf2Ez82Y",
+        "plus_code": {
+          "compound_code": "Q74M+VW New York, NY, USA",
+          "global_code": "87G8Q74M+VW"
+        },
+        "reference": "ChIJWUg_YdiJwokRiisSf2Ez82Y",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.757221,
+            "lng": -73.714882
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7585451802915,
+              "lng": -73.7135367197085
+            },
+            "southwest": {
+              "lat": 40.7558472197085,
+              "lng": -73.71623468029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "North Shore Towers/Building Entrance",
+        "place_id": "ChIJqS30ZtiJwokRSlIcRjrPGlI",
+        "plus_code": {
+          "compound_code": "Q74P+V2 New York, NY, USA",
+          "global_code": "87G8Q74P+V2"
+        },
+        "rating": 5,
+        "reference": "ChIJqS30ZtiJwokRSlIcRjrPGlI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75873,
+            "lng": -73.722538
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7600803302915,
+              "lng": -73.7211757197085
+            },
+            "southwest": {
+              "lat": 40.7573823697085,
+              "lng": -73.7238736802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Py/61 Av",
+        "place_id": "ChIJMzHwvt-JwokRlJDBrBdIi2s",
+        "plus_code": {
+          "compound_code": "Q75G+FX New York, NY, USA",
+          "global_code": "87G8Q75G+FX"
+        },
+        "reference": "ChIJMzHwvt-JwokRlJDBrBdIi2s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.752037,
+            "lng": -73.720215
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7534187802915,
+              "lng": -73.71886256970849
+            },
+            "southwest": {
+              "lat": 40.7507208197085,
+              "lng": -73.7215605302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/Little Neck Pkwy",
+        "place_id": "ChIJKQr3iXNiwokRV4FT7vUTXsU",
+        "plus_code": {
+          "compound_code": "Q72H+RW New York, NY, USA",
+          "global_code": "87G8Q72H+RW"
+        },
+        "rating": 1,
+        "reference": "ChIJKQr3iXNiwokRV4FT7vUTXsU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7521285,
+            "lng": -73.72059150000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7534801802915,
+              "lng": -73.71924226970849
+            },
+            "southwest": {
+              "lat": 40.7507822197085,
+              "lng": -73.72194023029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/Little Neck Pky",
+        "place_id": "ChIJ1VIDeHRiwokRYaJ8l8yiULQ",
+        "plus_code": {
+          "compound_code": "Q72H+VQ New York, NY, USA",
+          "global_code": "87G8Q72H+VQ"
+        },
+        "reference": "ChIJ1VIDeHRiwokRYaJ8l8yiULQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75082400000001,
+            "lng": -73.717522
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7521501302915,
+              "lng": -73.71619821970849
+            },
+            "southwest": {
+              "lat": 40.7494521697085,
+              "lng": -73.71889618029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/73 Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+            ],
+            "photo_reference": "AU_ZVEGjdbtHVyOC8Pq0KLgrKJ3OkvCRH9SV8yf0339kjJk23mpjmbRAK5rEtYrg6p6f5iSaou1q_Kf8zckdh3iH1jFqwlQYlCj91A2Xv0s0sNHg3W3AWqyt-iIelPVVe2DqQviLKfmk_bSbxK2l6OD0w3hi8iORmXJz-qal8EB8WYsNclbD-HUVZVyR6CYwK4RNbPmsLmkvwjrJwtfAbBBS_YCbX9GIMmwSTYJyPfSH0X4HrA54VSpwAk1Acc74VVo60aH2nEowlXWdp50HZDNf0W3o2hqxzPxwPeQ0_4wAQHsyNNJE2XmXMI4PtsTyS_kwDN_2daTxVc4I85zm_0fQQpt_F-J0bs3eMbUFbghhsrwE75tUHAUOd6me6tWN1c4jHs3QiQCDMD8iGg7ZENtBFGyy-c8YhsEZ1_vKK9Uu_exGl4olHAzWt6UBXa1dKirxqd4dz2pBMjcU3vFmd0gshKyqWTWLrsuuhl-TA5wpP8kjdsvTAaIIBidl0gSj13slLZOUiHiGQeFUCEgkzBg75AmtJC320azLG8tKW9G8GMS40LIDEMXARloas8EyUZvUIzn_4K5awl3hSM5GNry94TzHv1G0-IyW-oq9bu54RH0wNp5mBxfPlulIC9QU80MmTX3JiN2E",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJs5_8RHFiwokRA9ZzLcwqvkE",
+        "plus_code": {
+          "compound_code": "Q72J+8X New York, NY, USA",
+          "global_code": "87G8Q72J+8X"
+        },
+        "rating": 5,
+        "reference": "ChIJs5_8RHFiwokRA9ZzLcwqvkE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.752266,
+            "lng": -73.72097
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75360423029149,
+              "lng": -73.71967856970849
+            },
+            "southwest": {
+              "lat": 40.75090626970849,
+              "lng": -73.7223765302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/Little Neck Pkwy",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+            ],
+            "photo_reference": "AU_ZVEFZFKm9bRwU80f27bPRUwUElwAdmnWY1QTEH4Gx2gUqg7iznhyOQeM-H2xZoheECniDCSATgPXx0w3817KHVlYlf7yTwkeAe95Yyt9VwqTc6MgE8cbhrKyjBJEYJacwxyckNuzd8iqb51KZVYo23wDgKkR3eRFJIkn_XEn6j1pai9KylyguSLHqAKXQOZVeW2J2mT07izgxE-dd3yxipg9MdiOm_qGgyUiHHLEl8rTAulwrptbf8QAKQRueVPd0oYv8dI5GxiPCPLr1vn83UHkriCeDEaLVTI6bDfu-gWUk_QDaR8ckpvDOOlhEA5I_D_R3qWDDRjIh-1DXoF3HVc6iXXz52zZK98a8dUy1PpiHODHNrSQ4CcaFwnrpnUJDy89wk4f4ihvgoDLfAK5WCN8Cm1sa_mBWGlryHhmsfdgLKFuljx7YxNeuDFYcHIBPtlbUv3kiXrvuL_lG82V-3hQvO8RBGXiPJ9W09-XmaGildtsB44cGNB4uRSesnqCV5wt5ON6JAUcu8GBkSrPlcGqrfjQbp0yXR45AG53x-f9KBT6SZec_c6L5ulj-D-nwaECSrxhTkC-Iwtbh9mCbi0SYohCYU1WTgoaGWDlFYor4nmzDJbIw1VVbWwVeFwPJNzhBIg",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJf0Euf3RiwokRf9pqjItwgf4",
+        "plus_code": {
+          "compound_code": "Q72H+WJ New York, NY, USA",
+          "global_code": "87G8Q72H+WJ"
+        },
+        "reference": "ChIJf0Euf3RiwokRf9pqjItwgf4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.752018,
+            "lng": -73.72075699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75338748029149,
+              "lng": -73.71939971970849
+            },
+            "southwest": {
+              "lat": 40.7506895197085,
+              "lng": -73.7220976802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/Little Neck Pkwy",
+        "place_id": "ChIJ4wIKh3NiwokR8iEHl-6U9xk",
+        "plus_code": {
+          "compound_code": "Q72H+RM New York, NY, USA",
+          "global_code": "87G8Q72H+RM"
+        },
+        "reference": "ChIJ4wIKh3NiwokR8iEHl-6U9xk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.750626,
+            "lng": -73.717468
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75195928029149,
+              "lng": -73.7161365197085
+            },
+            "southwest": {
+              "lat": 40.7492613197085,
+              "lng": -73.7188344802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/73 Av",
+        "place_id": "ChIJ_e8aQ3FiwokR5GBQHLoH1Es",
+        "plus_code": {
+          "compound_code": "Q72M+72 New York, NY, USA",
+          "global_code": "87G8Q72M+72"
+        },
+        "rating": 5,
+        "reference": "ChIJ_e8aQ3FiwokR5GBQHLoH1Es",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.752132,
+            "lng": -73.72126
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75348933029149,
+              "lng": -73.71988336970851
+            },
+            "southwest": {
+              "lat": 40.7507913697085,
+              "lng": -73.72258133029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/252 St",
+        "place_id": "ChIJjbl2iHNiwokRY5DMLrmn4xM",
+        "plus_code": {
+          "compound_code": "Q72H+VF New York, NY, USA",
+          "global_code": "87G8Q72H+VF"
+        },
+        "reference": "ChIJjbl2iHNiwokRY5DMLrmn4xM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75180099999999,
+            "lng": -73.720879
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7531438802915,
+              "lng": -73.71956496970849
+            },
+            "southwest": {
+              "lat": 40.7504459197085,
+              "lng": -73.7222629302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/260 St",
+        "place_id": "ChIJI5sbhHNiwokRGT_qAkJDU24",
+        "plus_code": {
+          "compound_code": "Q72H+PJ New York, NY, USA",
+          "global_code": "87G8Q72H+PJ"
+        },
+        "reference": "ChIJI5sbhHNiwokRGT_qAkJDU24",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.756672,
+            "lng": -73.722633
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75802403029149,
+              "lng": -73.72130971970849
+            },
+            "southwest": {
+              "lat": 40.7553260697085,
+              "lng": -73.72400768029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/255 St",
+        "place_id": "ChIJ5a59aHViwokRVF3m4jDPW7g",
+        "plus_code": {
+          "compound_code": "Q74G+MW New York, NY, USA",
+          "global_code": "87G8Q74G+MW"
+        },
+        "reference": "ChIJ5a59aHViwokRVF3m4jDPW7g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.750134,
+            "lng": -73.715355
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7514544802915,
+              "lng": -73.71403101970849
+            },
+            "southwest": {
+              "lat": 40.7487565197085,
+              "lng": -73.7167289802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/74 Av",
+        "place_id": "ChIJS-bl33BiwokRV_DWeNXscmU",
+        "plus_code": {
+          "compound_code": "Q72M+3V New York, NY, USA",
+          "global_code": "87G8Q72M+3V"
+        },
+        "reference": "ChIJS-bl33BiwokRV_DWeNXscmU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75553499999999,
+            "lng": -73.723236
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7568746802915,
+              "lng": -73.7218565197085
+            },
+            "southwest": {
+              "lat": 40.7541767197085,
+              "lng": -73.7245544802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/Cullman Ave",
+        "place_id": "ChIJI4nTJHViwokRBTRshQghDOI",
+        "plus_code": {
+          "compound_code": "Q74G+6P New York, NY, USA",
+          "global_code": "87G8Q74G+6P"
+        },
+        "reference": "ChIJI4nTJHViwokRBTRshQghDOI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749628,
+            "lng": -73.720024
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7509702302915,
+              "lng": -73.71869771970849
+            },
+            "southwest": {
+              "lat": 40.7482722697085,
+              "lng": -73.72139568029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Py/73 Rd",
+        "place_id": "ChIJecnhtHNiwokRibdNwegVE3M",
+        "plus_code": {
+          "compound_code": "P7XH+VX New York, NY, USA",
+          "global_code": "87G8P7XH+VX"
+        },
+        "reference": "ChIJecnhtHNiwokRibdNwegVE3M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75816,
+            "lng": -73.722572
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7595055802915,
+              "lng": -73.7211762197085
+            },
+            "southwest": {
+              "lat": 40.7568076197085,
+              "lng": -73.7238741802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/61 Av",
+        "place_id": "ChIJB_6hk9-JwokRNBpjpS8ktdQ",
+        "plus_code": {
+          "compound_code": "Q75G+7X New York, NY, USA",
+          "global_code": "87G8Q75G+7X"
+        },
+        "reference": "ChIJB_6hk9-JwokRNBpjpS8ktdQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749733,
+            "lng": -73.71994
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7510916302915,
+              "lng": -73.7185969197085
+            },
+            "southwest": {
+              "lat": 40.7483936697085,
+              "lng": -73.72129488029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/73 Rd",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+            ],
+            "photo_reference": "AU_ZVEH_5KlADRrlsQI_wKMvEHu1Ds8BUZ89U-XAIiUpD3-nqOJz5rZakcw2Hh0rLQT8wyzhX3KBz7AYmX7Kt01yTnk7UruHbZcnYy413_TpGo0pjyHgx3-5bvMJSxqQyCMpJIBX-U2VhAmiTRkxyvV17eI0gONM0aWdaxsJpZoFQAFwJa_X_d9MUlUm1nz-cp8aBZ1bdSMd3pLzvQMDS94bvKhOLQ1A_z42KJLDSWRqYOUnIKA3NOZ0uiOVg_452nzSjIObIY_H4RINHgb11rsjJgZ3XyVHcqma9kjdCvV6kWXYo4_JqvzBSzJbgciZZGwjd8UN9Xsj6Y-KY2jbMihICtghijBZF5DZm2reMqvSmhFB_PT3BeYbFkYuJR3HTuXk8IuoBBCzsstd_bTP2Yu83Up-adozDzWAPXBph2X3Hm7LrO9LuQG2lINNoeKsgfCDbH2r49h-oyT1jepygguY72ZlrUVp6-y1OtDexQljGPRjvSk3CtwHEGnWNcDEmfn8oTZT_ePBrd09DZAIxwnGbbn3UBoTi47qgMlZyVTkMiarUzqUZnrRmgI6QFu9J3nstJNJ4IAnIWrnGMpq7oWXwfRCAbjrX3TQ2zQX3uHwiVnL7Sf6Z7c-6yXDMtu4qXa8EbQwDBmC",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJdU68tXNiwokRbCs3gl8DYU8",
+        "plus_code": {
+          "compound_code": "P7XJ+V2 New York, NY, USA",
+          "global_code": "87G8P7XJ+V2"
+        },
+        "rating": 5,
+        "reference": "ChIJdU68tXNiwokRbCs3gl8DYU8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749126,
+            "lng": -73.716202
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7508495802915,
+              "lng": -73.7149437197085
+            },
+            "southwest": {
+              "lat": 40.7481516197085,
+              "lng": -73.7176416802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/74 Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+            ],
+            "photo_reference": "AU_ZVEEsFpg9rB5XvJl4C8qj_ZlJadlOdcmy8IbBkoEfaH84Tf8KTzm6G-1bpZL830013lLcxJDyO7wb95sH8zqqnfXIFxuDpSwl-wBBd6a6Kwf384Zvvt6JLNzUGsRzXgdLcwp0BBJJcRLy4WKmiAq-CIKP8M1ID4Y-f3Da5cVBBtI1Z253PlXE04DD4625NfpFjqh6KnWyOoXd3krejazek9uLQuPY6iFdTOiWzyz16uSAPfvG2ANIBSva6jMcRbd3H0DbONS19LVlWJ4BTvdALctxoUvd7yT7yXxP6RRp-FovBv3a3OgjTY0LgCsFoHj6T39AeWuFvqsJgMjKRJ2Vv7X_GRI2TZnuaz69fJsb6CNAR-axA_8O7IDw8Hhf2tPb7LSp6LxO4XaBR92Yb5fraF2Gagm-xki-_63kM1YNTZC6NH45uH2kl1FaXTtTsiFJuK86XIul6JfKHYWCm8w0MFVxQCucE-7gAtf7lZNhVUOdUbP5eGgbLkbrOAmNj2i__t-zqthHc675fwROLux6B4Sc1L7m893ZUKowP__plw0f4srFfyOujX8RCEsNzSlk2VghPUvUt-g0uT9LSxOdgjNJw2zWPpvQb5lVufKiAdJXO4ysVeuF78x6d0M62pX0mO0lGIL0",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJt7N8CHFiwokRXaY5gJclE3k",
+        "plus_code": {
+          "compound_code": "P7XM+MG New York, NY, USA",
+          "global_code": "87G8P7XM+MG"
+        },
+        "rating": 1,
+        "reference": "ChIJt7N8CHFiwokRXaY5gJclE3k",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75929999999999,
+            "lng": -73.722504
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7606453302915,
+              "lng": -73.7211917197085
+            },
+            "southwest": {
+              "lat": 40.7579473697085,
+              "lng": -73.72388968029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/61 Av",
+        "place_id": "ChIJkY8ft9-JwokRZaGGKewTc_Q",
+        "plus_code": {
+          "compound_code": "Q75G+PX New York, NY, USA",
+          "global_code": "87G8Q75G+PX"
+        },
+        "rating": 3,
+        "reference": "ChIJkY8ft9-JwokRZaGGKewTc_Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749523,
+            "lng": -73.72011599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7508795302915,
+              "lng": -73.71874211970851
+            },
+            "southwest": {
+              "lat": 40.74818156970851,
+              "lng": -73.72144008029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/73 Rd",
+        "photos": [
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101217005580106231295\">Susmith Sarma</a>"
+            ],
+            "photo_reference": "AU_ZVEGKd1gZQ0BRiqYTm4EWVJacrF08KgkhOCnuQ4JFPMjjdLsUM2dM0J1wMLMsmZfFGpLG5I2LDk8scE9C7-4um28gZ_ahxhmJfx7lyx89WL8feYxU9IabhdM4Dv9ssUS-uB8Df1DE-a4c_5NRht0C57IByLdl8v9qEsSFuq4ZerFGBFivOwWuGaXHZOPnVq6Hxepe8wxypmAq3MKTglMZAR_oms-e2dOsc3nl0_LMPAp-DQKRFiK4Q-OaxlDuFXK34s0Q5k2SpOy2jqtOv8ihRXa8aRq_ULF2sfsXKFri32zJ3hgAvdZOXTnjJhuO31u_46E3k9Ujs1b4V1GEQ9k__SmQJpSldP3voNVWm1P-0h2YfvWmfIAjaOcLHu3Gy47EvQ70FteSt2mTExBorv_c2ZiMlD3zWZjpXOtb2g-jbHoPAzqDAnCH4cCYH6MuDB1jrIS9gLvF1NkY7n_fiXt5lv9TcGFXr00NYz1j2fZ5zH3Mb3A1E_ukUsQwiQ6JbKpskRqEEP6U3IgWWuT1mVkYXMcJMxGuRNnPRxEF3bLJpCnGeL8q8YDzQffNS2DoEGMtyGTaW5CXBSn0pXLXZOKG2DyV_6w25lTs-dVyXd7Bru5-qPs1JKmnYUDurgAr2917A_U-gB-uccuwInJ1MJofkUZB4MM",
+            "width": 3072
+          }
+        ],
+        "place_id": "ChIJV803S3JiwokRn7A1ZQVTzwY",
+        "plus_code": {
+          "compound_code": "P7XH+RX New York, NY, USA",
+          "global_code": "87G8P7XH+RX"
+        },
+        "reference": "ChIJV803S3JiwokRn7A1ZQVTzwY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75489400000001,
+            "lng": -73.706589
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7562475802915,
+              "lng": -73.70524731970849
+            },
+            "southwest": {
+              "lat": 40.7535496197085,
+              "lng": -73.70794528029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "LIJ Medical Center/271 St",
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113510356879054206737\">Hwan Bae</a>"
+            ],
+            "photo_reference": "AU_ZVEHnIV7sV9Iav3pvDVTCUsOc9Iyeh7risUVJL7441fQaLLfMP-sikIlyRC9pypkzQcRrh7i0OiD6pzXPDOF4zwgYvsiy5AoAr1T44w__PMwfy1v31gxkH3q-tD_ZCbJ0napFHGBbMONqAomJSRGsZBiYR6FO_5OL-zrwzmwaiO1rFaIVCoU7Zw_bDCV9knE-13y4y-4fKu1kZIWv8ZS-DTuONZZ2t1lVmAZR9XBTrCAJlgNWqmAuLKi-CQynqTaskGE8yQEQN4vNaOFBWTuLehoj6Nnuoq7ctLE50N13vxBI_EiCtgERiD4Fr1dXD7f3ZRmn80Xu4JHLXgN3Hc36QtbgKnkQ8tabVoxJNqEf4O2KZXoJLrvpn6Z32d1jqijTXEXN23TO2HY3mpcBgryPNoSDfNdM8TpckTDPddKlsJD3UJ-ee1POYIrdsAYhp03OaGlCzEA3_lH1Dp1kuUoCbkafsX-i26LnxexoiXHbpMGC4ppDSqaMzYWfJw3dDBTiB8fPLxVAZglo9k11Xqnm4qRtBRMPBTQgI1HCjcs-BoTh9yLMV2vA6M11TzbYfhUKC2rudDN2XeE9yCVhD8o3nL_Fg2IoSAcLhC07gEWEbj5_DoSWF3s5-pZsRkPUW-GmQkhArA",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJP4kzrHhiwokRMm7GNyt6gPQ",
+        "plus_code": {
+          "compound_code": "Q73V+X9 New York, NY, USA",
+          "global_code": "87G8Q73V+X9"
+        },
+        "rating": 5,
+        "reference": "ChIJP4kzrHhiwokRMm7GNyt6gPQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.75501999999999,
+            "lng": -73.706429
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7563543302915,
+              "lng": -73.70505641970848
+            },
+            "southwest": {
+              "lat": 40.7536563697085,
+              "lng": -73.7077543802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "LIJ Medical Roadway/271 St",
+        "place_id": "ChIJ8_mg_9WJwokRkb3JQ4DR2fg",
+        "plus_code": {
+          "compound_code": "Q74V+2C New York, NY, USA",
+          "global_code": "87G8Q74V+2C"
+        },
+        "rating": 1,
+        "reference": "ChIJ8_mg_9WJwokRkb3JQ4DR2fg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.747276,
+            "lng": -73.718903
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7486170302915,
+              "lng": -73.7175939697085
+            },
+            "southwest": {
+              "lat": 40.7459190697085,
+              "lng": -73.72029193029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/74 Av",
+        "place_id": "ChIJF7dGBHJiwokRHs18aJGmOAo",
+        "plus_code": {
+          "compound_code": "P7WJ+WC New York, NY, USA",
+          "global_code": "87G8P7WJ+WC"
+        },
+        "reference": "ChIJF7dGBHJiwokRHs18aJGmOAo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7471465,
+            "lng": -73.718975
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74849313029149,
+              "lng": -73.7176385697085
+            },
+            "southwest": {
+              "lat": 40.74579516970849,
+              "lng": -73.7203365302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Py/74 Av",
+        "place_id": "ChIJvV1CBnJiwokRWimVJ8gq81w",
+        "plus_code": {
+          "compound_code": "P7WJ+VC New York, NY, USA",
+          "global_code": "87G8P7WJ+VC"
+        },
+        "reference": "ChIJvV1CBnJiwokRWimVJ8gq81w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.761555,
+            "lng": -73.72320599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76292403029149,
+              "lng": -73.72186286970849
+            },
+            "southwest": {
+              "lat": 40.76022606970849,
+              "lng": -73.7245608302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/58 Av",
+        "place_id": "ChIJoe92Ed6JwokRP5wB8Or01wo",
+        "plus_code": {
+          "compound_code": "Q76G+JP New York, NY, USA",
+          "global_code": "87G8Q76G+JP"
+        },
+        "reference": "ChIJoe92Ed6JwokRP5wB8Or01wo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7616695,
+            "lng": -73.7231335
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.76301598029151,
+              "lng": -73.72180226970849
+            },
+            "southwest": {
+              "lat": 40.76031801970851,
+              "lng": -73.7245002302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Py/58 Av",
+        "place_id": "ChIJvdgcEt6JwokRQQ7pmmXw3ig",
+        "plus_code": {
+          "compound_code": "Q76G+MP New York, NY, USA",
+          "global_code": "87G8Q76G+MP"
+        },
+        "reference": "ChIJvdgcEt6JwokRQQ7pmmXw3ig",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.761784,
+            "lng": -73.723061
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7631281802915,
+              "lng": -73.72174556970849
+            },
+            "southwest": {
+              "lat": 40.7604302197085,
+              "lng": -73.7244435302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/58 Av",
+        "place_id": "ChIJnUbADd6JwokRaEgmPqdmq5I",
+        "plus_code": {
+          "compound_code": "Q76G+PQ New York, NY, USA",
+          "global_code": "87G8Q76G+PQ"
+        },
+        "reference": "ChIJnUbADd6JwokRaEgmPqdmq5I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74699,
+            "lng": -73.719093
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74834328029151,
+              "lng": -73.71772451970848
+            },
+            "southwest": {
+              "lat": 40.74564531970851,
+              "lng": -73.7204224802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Little Neck Pkwy/74 Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110344283172678365745\">Jim Ryan</a>"
+            ],
+            "photo_reference": "AU_ZVEFQhEcDNrJEjiPmkYhDE3jo01Jo_R6DDmYA9k2d4BooPp_o2iOgR2bUOOC039vtM56ZDEASMnFuRx-3sb_MUnWo_Sbu0oNLuIkNYLdQWH_Mu4A7CuDJaQszmxTMiohF5-WS1WxxttTHdAS5ikoRYPaWrONJmZREWA1JEwz13qGk1mpM93wn_adTuFgAdrz5tNOYCvQpnH4CXaRFLPuIiJD8LVCGJdsKpv9gcq-ShU6CDAAkHqrRuo5R9yKoiFVkGOtXxlbNbs4x3sRfikpqeqP7ZA7tx02aS8JQgqr66KDE2tmlFS1L_05u40krcY90kHmKrrebmw1eJh51i1y3EZgbThQAABuUg9etI0Mn_eeqra42zCq0DW3_IW79VzEhWKbijT7SbmOf86gTDkDhKvb-AEk25VZVy9FqGCUy9R-i9BNdTc6jCKL7LEmgGRj1-L7CASb2pPC-PiJgBZ4Sz3E9eZUve1Di0_DqqHFdcvN5aykazSJErqruoWmpPejDt_TPdZ4FaIc5ATi4VNApzUKDekmjxS2q5oNvdJEyI0hHJWZKC4x98cfDKCZ-46KmbXwpyD1WsFYqX5uG9DRzLim2IOnqUQD7tdFTkb9pYd1R7_1CR6JDLIfL3Xw4_edCZFl888B6",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ4dsJCHJiwokRyOH71MRCpxA",
+        "plus_code": {
+          "compound_code": "P7WJ+Q9 New York, NY, USA",
+          "global_code": "87G8P7WJ+Q9"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ4dsJCHJiwokRyOH71MRCpxA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74733,
+            "lng": -73.71212000000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7486846802915,
+              "lng": -73.71076461970848
+            },
+            "southwest": {
+              "lat": 40.7459867197085,
+              "lng": -73.71346258029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "260 St/Union Tpke",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+            ],
+            "photo_reference": "AU_ZVEGN_kxWMEMjSY_aMMs8Lvg1O-jXz0jUnYR_Zit_LuADZIGPyoVO98cDwaO_ydgQOwD5ptJgk1WjIB1khCP2O-s5DCBmZGzoJlUQZqhzwZArSOaTKxhnt-Ok3XWmocM272gZu0fDoTILP5BBnM3vOdmHacsE4j0JGR6OGYhQVYvVdUrSd0u53bRrdEL-oo0nyN9BZ2aGz0glD1g93NES3NGeY8uxkoSldiBnklGrQCP6iP-B_nyjjMFJOmMA57Xg_ZD-e_vFMttlLUOGCOz3Yc3U3iR5YH7TIvuHqhe8Hvl5ft-tuwfNKnLw78r1z9fNZQVj8Q87xJuaCQXz-7Ge6iie5aeO1POJbJuUk9OoQOsDkELRERCXFrq4mDBmrdwHOTc9ivf8Ohei8J_W06KNQq-8PWzVKSp_fBiUT2nPlmeAMQJkKVH4IthXltvs6kminUSKT9-qWIDpOhig1m87MafULXUfziiZmjVaDN3Kq-dAwIRV1qT8qKOcAqDKlX2o3bjAQZ6JqmQihy6RGmmirpklwB1dUcsaqeTlB9J8B6jfzp1he2sJkVoCUqDBi3GuBXIlqumCOx_3SnsvppgzwMIQrnIJn_0MpA2B4vJSZiJ3il4_AaRmVtyWljHr063OXmQl8g",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJsXqznnpiwokRqdsMKW7kG8c",
+        "plus_code": {
+          "compound_code": "P7WQ+W5 New York, NY, USA",
+          "global_code": "87G8P7WQ+W5"
+        },
+        "reference": "ChIJsXqznnpiwokRqdsMKW7kG8c",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.748173,
+            "lng": -73.710014
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7495266302915,
+              "lng": -73.70866931970849
+            },
+            "southwest": {
+              "lat": 40.7468286697085,
+              "lng": -73.7113672802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/263 St",
+        "place_id": "ChIJ76JAVnpiwokRbonFje8hQbs",
+        "plus_code": {
+          "compound_code": "P7XQ+7X New York, NY, USA",
+          "global_code": "87G8P7XQ+7X"
+        },
+        "reference": "ChIJ76JAVnpiwokRbonFje8hQbs",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.747114,
+            "lng": -73.712307
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7484007802915,
+              "lng": -73.71090031970849
+            },
+            "southwest": {
+              "lat": 40.7457028197085,
+              "lng": -73.71359828029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/260 St",
+        "place_id": "ChIJdYA1oHpiwokRXrjLxzFLKFg",
+        "plus_code": {
+          "compound_code": "P7WQ+R3 New York, NY, USA",
+          "global_code": "87G8P7WQ+R3"
+        },
+        "reference": "ChIJdYA1oHpiwokRXrjLxzFLKFg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74831,
+            "lng": -73.7095295
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7496554802915,
+              "lng": -73.7081867697085
+            },
+            "southwest": {
+              "lat": 40.7469575197085,
+              "lng": -73.71088473029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/263 St",
+        "place_id": "ChIJKWlTq3tiwokRa95cma4i4V4",
+        "plus_code": {
+          "compound_code": "P7XR+85 New York, NY, USA",
+          "global_code": "87G8P7XR+85"
+        },
+        "reference": "ChIJKWlTq3tiwokRa95cma4i4V4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74704699999999,
+            "lng": -73.71227999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.74836103029149,
+              "lng": -73.71089861970849
+            },
+            "southwest": {
+              "lat": 40.74566306970849,
+              "lng": -73.71359658029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/260 St",
+        "place_id": "ChIJp72roXpiwokRQekRbPQs7EQ",
+        "plus_code": {
+          "compound_code": "P7WQ+R3 New York, NY, USA",
+          "global_code": "87G8P7WQ+R3"
+        },
+        "reference": "ChIJp72roXpiwokRQekRbPQs7EQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749187,
+            "lng": -73.708183
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.75050693029149,
+              "lng": -73.7068071697085
+            },
+            "southwest": {
+              "lat": 40.74780896970849,
+              "lng": -73.7095051302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/265 St",
+        "place_id": "ChIJr9BEv3tiwokRJ0mSfDKto4I",
+        "plus_code": {
+          "compound_code": "P7XR+MP New York, NY, USA",
+          "global_code": "87G8P7XR+MP"
+        },
+        "reference": "ChIJr9BEv3tiwokRJ0mSfDKto4I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74844699999999,
+            "lng": -73.709045
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7498115302915,
+              "lng": -73.7077103697085
+            },
+            "southwest": {
+              "lat": 40.7471135697085,
+              "lng": -73.7104083302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/263 St",
+        "photos": [
+          {
+            "height": 2660,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEEXxeOlqweJVLkQhcBaqX1MUSIIDXg7yhOVgV7Z2MOjD1GTunpSOxSlkQfEpXCHSLmXfsRMFdUn8ctbSwtatP3tkUQve4wUEBdIBSnQZ9afTlVSua9dIoiDW4awW0KPDfv5sVaNxJebQ4hNgpH4X-edE8HhjrSLfFwuTlqZNOqYZNwbQSXPo0hivAeT66Htxh_2q9IyAxjYhU7uPj88k2eeYnc8bKXKcIHSfjaBAiftOMciMvfoTUr-ga5GJcGfIeRCRARoQk4FvhSDO2xpnurX3Oq-RpxBEDrgVxoUFUDfEJRkt05CdFM-lEWgqnpwQdRyk8VNw4dJ6ky-XlvX_bx8bWLrBLsWO4NAtN4_UINYnkgSxLc00m_tshWqq7Dz47VHiIW9uQRoXiyK0xbdWn0d4HPH6iYoImB7VbZrKC7w3LHd1xZ2FcGMt7iBkU0Q-aV0hKKbTByGK1BPu2WbAvqI_bPY87RfnYzMuok3SnmZ81isbE_Y0_XIMg-yG_9_O8TeAl8g8MR7B38oENvrqbKIS3fmEq9OrwUvpCfedBsXAwxsyw0aFP627ZuddjTBF7htMnUyJI5P60x2iPb7e6IjXS1s3NWZ6yQ2s0TlNxH1XzQ7a1YXi8Mi1WT2hA",
+            "width": 8195
+          }
+        ],
+        "place_id": "ChIJ8wVbrntiwokRryLJvDkCc-o",
+        "plus_code": {
+          "compound_code": "P7XR+99 New York, NY, USA",
+          "global_code": "87G8P7XR+99"
+        },
+        "reference": "ChIJ8wVbrntiwokRryLJvDkCc-o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.746841,
+            "lng": -73.712563
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7481830802915,
+              "lng": -73.7112076197085
+            },
+            "southwest": {
+              "lat": 40.7454851197085,
+              "lng": -73.71390558029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/260 St",
+        "photos": [
+          {
+            "height": 3592,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+            ],
+            "photo_reference": "AU_ZVEHg-yDwHs5VKXBRIJA--TwqbDqjaTwDEaMG6vy3nC_6tgCLKAkVxE_ax1VRvkbN-FGlTJvrRR9g8iDkYgqeToLFrmtIcHxDOTfCml7lND75X09QrvC31mGykNIxulhBRpPOdDXy4BNed3ngLOlB7OzeVByYT1xzQ6MK71qn3efiLY6kIaPXcQheAkvuDZtB3ZIexGo6Mp4nI33E97jnL4c2vsyudCfwsAg8PK3RdITVLgI2-qkPNQTa-JP9TobuIU_dkrDQD0x5kJaxtYY0Vn3fvUiXi7jVb1NKD6YVGUVdYZgfMSAPDEkZEv3IWq8gs5yGqwS35M5eX7ijQCAsC6N3HHhC-2wkQR4yZEiD-43XKM4osCvQGBczYpMbQXg4eRI5Xk7JDTUHaA-wZAVpRKeNLHQYx_eb130g3E2Rtdr5LUsFSVXGqKWbmXLuIRGXjtZmle6q2M5WnifEsFMTpJ5W7nIPXAp0VohldbgGO_WplMGhUXvjqpEPAC9l5nB4uTfIwztzTXeHO1xJ57MQFSpwgeKC3MDfeAaBoUZg2tKJy7k6GRorQ2wA3pYzx5LzwiSgS35TuGhd25MsxQyMtWD-A7r-yC3398ko8qOT2sZpPiqtnJQy6yNPWDEc98RnVpSxHw",
+            "width": 4767
+          }
+        ],
+        "place_id": "ChIJVX_8CXBiwokRQB2w629JqkY",
+        "plus_code": {
+          "compound_code": "P7WP+PX New York, NY, USA",
+          "global_code": "87G8P7WP+PX"
+        },
+        "reference": "ChIJVX_8CXBiwokRQB2w629JqkY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.749172,
+            "lng": -73.70791249999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7505036802915,
+              "lng": -73.7065474697085
+            },
+            "southwest": {
+              "lat": 40.7478057197085,
+              "lng": -73.7092454302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union TP/265 St",
+        "place_id": "ChIJRe746ntiwokRFpzcgSB1PpE",
+        "plus_code": {
+          "compound_code": "P7XR+MR New York, NY, USA",
+          "global_code": "87G8P7XR+MR"
+        },
+        "reference": "ChIJRe746ntiwokRFpzcgSB1PpE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.74711599999999,
+            "lng": -73.711548
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7484864802915,
+              "lng": -73.71021906970849
+            },
+            "southwest": {
+              "lat": 40.7457885197085,
+              "lng": -73.7129170302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Union Tpke/260 St",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101056157823885573576\">Erick Lakha</a>"
+            ],
+            "photo_reference": "AU_ZVEGkCA0NVOzTns2RCIiJ42ejBoT_DtRevNP-oQQNYbvoOd_on2x9tt1HrE1g-Bu7vsXfrNDEfmp6YGcni0bO12PYih3dTWxCMRprBAxdaPR4zqJCfKqZhWPlLoy2WA9e350ANf6rI2J_KN7G_9aHc6T0G6UD2wQlG1ERwvYeTOUcXpltDklnYeFErvnjDq7nqhf6zf6b6JQ5MWvuebJbVJkvH2yYueJU-9lW4IO2W3thyVhwoo75MUAT26JgzjhqhxuOo6yjFE4t8u9itRXikfOUwflmknOC5G0bpU2O7xJA3xFgw0QbG7KvGRI9ll3WCrA3sTizvHle6_ZjUudWNNSn3SsDnEnA1Y7pvOJsY3lCFbUe2b7kmabRvKihn1rD89s5gQm9NOqxXr8BQDTb0uUhJB6P-qMZ75Wpef3IYIcgvOZKt13s0lnzZpNUbmfdr2Urck2H1_RLD8oCp7-FmyOr4Nyp1wR2N_pdtSxLqrDZgWj4uO7tmUkH7pBneNwbK2K2NJuLsP5vrjhtkAY6qJFATlvOMXDYP4F93xZ1NeIjAIpHIRU4EWM-6b8TU6Zt1ZWDnLac_3yRvXmGAVEUDeid99kFA8IUaUqZPLPYfVMY_yJsFqR2lOC0rReoS1oC",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJJ54tlnpiwokRBRcJdG70V7M",
+        "plus_code": {
+          "compound_code": "P7WQ+R9 New York, NY, USA",
+          "global_code": "87G8P7WQ+R9"
+        },
+        "rating": 5,
+        "reference": "ChIJJ54tlnpiwokRBRcJdG70V7M",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749627,
+          "lng": -73.707534
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7509603802915,
+            "lng": -73.7060650697085
+          },
+          "southwest": {
+            "lat": 40.7482624197085,
+            "lng": -73.70876303029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-7136",
+      "name": "Luigi's Restaurant And Bar",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117952603038362798192\">Luigi&#39;s Restaurant And Bar</a>"
+          ],
+          "photo_reference": "AU_ZVEEX06m8Su1F63W6pOfTt4tLmORRIM2zwXwvcRy9MaK1tV58eElLp7O-yZne3aLE1vNeqXC1kMAjpdMudsau6I0rwxI8Uu6lE3zLjCjSPiJSbshDngSToxVItfJuSIr0DrTqzbBNo-ASZNC3nP_2CThHd0cazcHYfOOGVtyGGX6T8N9f7ERIgRzpnZml9dXRcqwNY5ZYYbUHXVbGkw0DUTAI9d6RegSP6q8ap78Eg6ki5XhY1zqVilMADfFMU3cqCA9LcjEOV38jHPNRWg5WLn1OWPLJGW2FVfDgBYXhr0n-QrKiroL5xzzz94TRLkSWizboa9sruPE",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJq7l85XtiwokRiLieNJOBm68",
+      "plus_code": {
+        "compound_code": "P7XR+VX New Hyde Park, NY, USA",
+        "global_code": "87G8P7XR+VX"
+      },
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "ChIJq7l85XtiwokRiLieNJOBm68",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 2276,
+      "vicinity": "265-21 Union Turnpike, New Hyde Park"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7493811,
+          "lng": -73.70786389999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7507080302915,
+            "lng": -73.70643931970851
+          },
+          "southwest": {
+            "lat": 40.7480100697085,
+            "lng": -73.70913728029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-4846",
+      "name": "Galo Tavern 18",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102149276815075523131\">Galo Tavern 18</a>"
+          ],
+          "photo_reference": "AU_ZVEFDTdgpcY8H7j6n3fSTTM6aAMmB0f32VuZb14KkxDemCD0R9l7ib_JX0vHt7T_piWJ3Rcx3XkwVDQMBFC70bIqmo54G2zqsCHtT6rYC2IBzFLp-WbXOO01nFeUUJQw4U6fuMAacxUY_HLBl1WZmN4nRNqSBpSJEb59JewQcvHM9wEPm_Beg7utYgWPbh3-6VYIXlSlFMoWl7F2rrJ5XPWnM6pXjXq4HPKCSG7WTLc5w8aAA0PLopQ62svU9kNq5JUO_TeHeRxLEKlgMPspLe5wmtTHnLTP6ZQjyqcm_iX7ObHJRbRs9w593C8UMefgGmQbCZc2abPI",
+          "width": 3000
+        }
+      ],
+      "place_id": "ChIJ1wRt6XtiwokRpusM6OoAaiI",
+      "plus_code": {
+        "compound_code": "P7XR+QV New Hyde Park, NY, USA",
+        "global_code": "87G8P7XR+QV"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJ1wRt6XtiwokRpusM6OoAaiI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 999,
+      "vicinity": "265-11 Union Turnpike, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7568152,
+          "lng": -73.71503369999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7583038802915,
+            "lng": -73.71387676970849
+          },
+          "southwest": {
+            "lat": 40.7556059197085,
+            "lng": -73.7165747302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-819-8228",
+      "name": "Dining at North Shore Towers",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1338,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116132322074999206668\">Meghan Channon</a>"
+          ],
+          "photo_reference": "AU_ZVEEKjXVi2lPFBFhRdBsYfnsC7B0j_gpR3zV_Oy3nWAvWocCKFKi_LOkPCSDE2XBPcFmbqAfKriIKghu0K4_5ZboUHAmefWY36cHU02UnfrrSITPdbee4aAP1_sYg_U41M3jBcNJZGIQ3HfxcQ6h_YGvuhFeJOGZy3KVLEjjD23-Pi7P2hGhxFbFixO9PWRjtyhhjjFaNkFnYnzfItkz1QouGjsRJqJ45e7qHUnb3D9sG8dnz8ceLIKpwhpjQlTrX-CCGpXthywHzDzS6VSvhoCybHUlm0DjSitSZI80Oiv27BDFZW3Wtqg-8QCWEtdBnuR6yP4f8NpHyNArruRJiQZYAEGq_j9gSslvQIPX6MrG60rF3EdVjbGHKg3gpR4_KFf7eljQJsu5kZVdlPIjQLDrDd5nENqk67P0ihvhrfPyvRwJ-kjUyn0xHzyPXDvixffhmIXrUY1-K4LfvhlsxsGfn-Uu_oPFczCbhyvp2KhnMx9hR03zAvVhH4hZc8Dk1qey7WVopAdWYdlbv1V3TR8Q3WT49BUTdoKpC3i4d8xb5cyyoCgTvfAAR8miPpx5AhFxXiPg8LsFDyIB0R_s0zsJmwnDJS7QlkCD88D2Givy3wBBNpimykG81t3wR_AYUMi4L2Hmz",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJIwcM2NiJwokRD2388G2D4yY",
+      "plus_code": {
+        "compound_code": "Q74M+PX New York, NY, USA",
+        "global_code": "87G8Q74M+PX"
+      },
+      "rating": 3.6,
+      "reference": "ChIJIwcM2NiJwokRD2388G2D4yY",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 63,
+      "vicinity": "272-48 Grand Central Parkway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.747074,
+          "lng": -73.712529
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7483327302915,
+            "lng": -73.7111017697085
+          },
+          "southwest": {
+            "lat": 40.7456347697085,
+            "lng": -73.71379973029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-343-0790",
+      "name": "Subway",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2340,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113208052915052581794\">George M Malakian</a>"
+          ],
+          "photo_reference": "AU_ZVEFxQdDC417MOZjWdKAVjNriUMVwle5GKvdF4wyuBbDdVCelMKd1e3BwjF-KcMKQo8tOC9K32QwQ68eFPUJPtdjFcTQno6l-S0eoyPzVHG9gYwGaMVUXD5pqIVDVTypvKKR5AuswLJykIh6PTY2gQ0G47mQoazRwwLV1EwynfwljMFBMIRtpkcq_WaR93wDstDicAkLQmdU9cUE7d4vKCVc4lZvApTHeHyV8IFuwHwano6UfcTWzd266qK1jUSALEIVtNDQ4W3g1m9RQPmBHUI9CZR81VcdKGLVsn1g7biL86lKbarLso_Do4gvYBBhRXVZSNHkReVwZJ5_wP99Fl-qPfGJu407STwoyeidJDBHDI0zc3bSbXYa9FQ4cxvEO21D09oVgizAqVCT2i1QJFBAUXG7KrksuWxnw-oKlKl0ZpokO6MTL7HEhMjmWuelK3w0tcysfnIkCKHgLDRyiXIRqeG-TbrpNElIEPW9Qe3Q--XYD5MGryxrmnD3jUhi8yrIULXzqwPO6Rv4dJ0iE0TdRQKyI4Z-QyW97kCA_0j-FmKmWfVd_ertG8K-T8FiF6NMV3Ynzm61YRmwhqelke-s0UDCltF_8aunAAIC6Sdg_kqSjHtKcTyw91PEat7Mj6Uf2iCBD",
+          "width": 4160
+        }
+      ],
+      "place_id": "ChIJcckDBnBiwokRMaItUYqt9wc",
+      "plus_code": {
+        "compound_code": "P7WP+RX Glen Oaks, Queens, NY, USA",
+        "global_code": "87G8P7WP+RX"
+      },
+      "price_level": 1,
+      "rating": 3.8,
+      "reference": "ChIJcckDBnBiwokRMaItUYqt9wc",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 117,
+      "vicinity": "259-19 Union Turnpike #59A, Glen Oaks"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7614323,
+          "lng": -73.7224959
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7627301302915,
+            "lng": -73.7214122197085
+          },
+          "southwest": {
+            "lat": 40.7600321697085,
+            "lng": -73.7241101802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-428-5050",
+      "name": "Commonpoint Queens at Tanenbaum Family Pool",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1836,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112802009526623689679\">Natalia Hanson</a>"
+          ],
+          "photo_reference": "AU_ZVEG87Q1rGgwprcTmkZTJZmyfybcNj00bwz-Xni9SbxBQMYVOD7xL_kyNd1hG4tdfPDhN0RCEC9uFedNN04tg-0SGAeO4Ox9XFIG_10ekZtD9IJw6B4qLd9Ts9oyu97dkHVgzME7CCLRtEYv0E8yJuWZyYjPq5U_qhMjG3NuWzcdvlSn_6Qko1y-c92FkPiHnR5z4l7ydu7E-u5V5FXPQDzsxSbM_6eXTwaGcyNmbCfTE1DgfHrIwaQ2lBA75I1VWNFwAiYpVu29yf6mGWlACu9S_9HWVCDFcQtPbtO2Es5luiK5RZbWpFueTV2TDKgAjspNduLXtqFznUBbP8qoBzmaDxjq7glL__m2u5FIJb90f20G8rV-bf3KZseaiqZPqXm-xHJRokoB1Vv32SUB_mOu8ESOYTjil7YOHQCsmZCi5R3b0wV0ayol4k5Ab554CjvD-MUqL8Go4mYCqU2KOnNfzlFbl9P3R-LBSQyin7Wf_wwyHSdjVN4NxwtvmWAhpigz9jLwy48ggVT1q6ElWJiyf64xWIMaTghLtRw-wKUCs2r2IvtW42D7gUU9f_JaEAWrgWHY8gxmDKXi2cbPeQ1PsZ1YKVSAYzPrwqR_NVi3WF_v3WJPGyJkYH-Sbf_Vh3j0dew",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJsxtHbN6JwokRoilE6WAo5cY",
+      "plus_code": {
+        "compound_code": "Q76H+H2 Little Neck, Queens, NY, USA",
+        "global_code": "87G8Q76H+H2"
+      },
+      "rating": 4.2,
+      "reference": "ChIJsxtHbN6JwokRoilE6WAo5cY",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 131,
+      "vicinity": "58-25 Little Neck Parkway, Little Neck"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7568337,
+          "lng": -73.715194
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7583131302915,
+            "lng": -73.7139164197085
+          },
+          "southwest": {
+            "lat": 40.7556151697085,
+            "lng": -73.7166143802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 516-680-8937",
+      "name": "Falafeldelivery",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJyZYVFa2JwokRlMk9YglN6vA",
+      "plus_code": {
+        "compound_code": "Q74M+PW New York, NY, USA",
+        "global_code": "87G8Q74M+PW"
+      },
+      "reference": "ChIJyZYVFa2JwokRlMk9YglN6vA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "270-10 Grand Central Parkway #29b"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7535857,
+          "lng": -73.7083463
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7548483802915,
+            "lng": -73.7068930197085
+          },
+          "southwest": {
+            "lat": 40.7521504197085,
+            "lng": -73.70959098029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 312-229-0509",
+      "name": "Farmer's Fridge",
+      "permanently_closed": true,
+      "place_id": "ChIJmbfyN7NjwokR0d1GLVbbLyw",
+      "plus_code": {
+        "compound_code": "Q73R+CM Queens, NY, USA",
+        "global_code": "87G8Q73R+CM"
+      },
+      "reference": "ChIJmbfyN7NjwokR0d1GLVbbLyw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Located on the main floor off of the Starfish Lounge where the other vending machines reside, 76th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7542402,
+          "lng": -73.7077067
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7551756302915,
+            "lng": -73.7066657197085
+          },
+          "southwest": {
+            "lat": 40.7524776697085,
+            "lng": -73.7093636802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+      "international_phone_number": "+1 718-347-1409",
+      "name": "Panera Bread",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1125,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113874845547348454140\">Panera Bread</a>"
+          ],
+          "photo_reference": "AU_ZVEF6UNw62l1tUkV8beg1-Y65fO_-79EZ1Caa8ZiH0ttCCl1nduAUHZERpdUZdmQsfPT_SQwiBzeLH8hBggW-R5wJ0u2qUAY95hFVj1kwmEtwctDONzZRRLjA1EW2jyG1g5Mrd0yxEKFNLHWRi8qMDd99YQH9D8LHXbhkt_yORtrTqg5seSsTiKW70Ch5JwBikICVnfpfPyTrVF7hzoTq1EQH8qdexq-LcE0WH0MPCCsjADFXYO26GLLMSlMt3VGUB4oU7xdccvwfANxW512UnLS00ms3bcx57ID_h0ZfwGKg7S1J9OkMrUh7rv9m48tKOAMjsayKvGE",
+          "width": 1999
+        }
+      ],
+      "place_id": "ChIJK2GpqUWJwokRgDy31zUaa-w",
+      "plus_code": {
+        "compound_code": "Q73R+MW New York, NY, USA",
+        "global_code": "87G8Q73R+MW"
+      },
+      "price_level": 2,
+      "rating": 2.2,
+      "reference": "ChIJK2GpqUWJwokRgDy31zUaa-w",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "meal_takeaway",
+        "bakery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 73,
+      "vicinity": "270-05 76th Avenue, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7533245,
+          "lng": -73.70720109999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75447088029149,
+            "lng": -73.7062786197085
+          },
+          "southwest": {
+            "lat": 40.7517729197085,
+            "lng": -73.7089765802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 917-279-9926",
+      "name": "Moes Halal Food",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104955427312395675460\">Sara Soltan</a>"
+          ],
+          "photo_reference": "AU_ZVEEtlWkv7OISjcvXjVNlYNVDGGfQMSLt6vEBovFQI4r3YoWOzUJTuErz56CYWJ8YrWbsieWFl9juUwUcMsGX6l6XG16UCo6SC-fKg8hJuqGR47dzmLorp3mYYELE26Chp6EuIbh7P8QvbBvxaEeDYC_bnd3DFAauc8Qm3G_7DUpyMFzlMSdyYRVQYSZQEgAMLkaOWYqjJmlYKCrg2QamKpg83TWlBosoc8E7AOEhdbpAvhFPrY8hvIdRwOYT-E9-8y76VO0esF6GOtowz7sWPjL0L6_V72HBQNMjs4n-MruY87VB1vbvrWa0TqVFyQ_rNPYSS7uYIp0yZclc0DoEJ9H3NCkgMzmqWIk45glNXwLg7Zsutk4-x6_8KRYm4oNTtC_K6qVdXRi0QWPtSrKuVTpdLJ9JzfICQX_5szokHjycwLfqymqr6VXvmDkB4kIPM-1dSy3qXz8g3AUj7LEplig-DhmkQRuVOJLZYSOniL_Boua1ZMtZTOd28U5PTlWuLWiIj0c7ptRbKkT--P3cFgFRNJRd2vkQVlXtrmqVoiUCrLdxf4n6yexFBOZS3s4iU8aPxdqL2sXi4Nuf0oF5FLMg6byoyEpB9d6dF54Xv78tap1MSIg__Ti6PEHixSNof0MyuTiw43nkWfDVerZ0zQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJcwNV1TFjwokRFdGq8TILWW8",
+      "plus_code": {
+        "compound_code": "Q73V+84 Glen Oaks, Queens, NY, USA",
+        "global_code": "87G8Q73V+84"
+      },
+      "rating": 4.7,
+      "reference": "ChIJcwNV1TFjwokRFdGq8TILWW8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 60,
+      "vicinity": "270-05 76th Avenue, Glen Oaks"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.7532247,
+          "lng": -73.7072227
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75451443029149,
+            "lng": -73.7057819197085
+          },
+          "southwest": {
+            "lat": 40.75181646970849,
+            "lng": -73.7084798802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-831-9550",
+      "name": "Spiro's food truck",
+      "permanently_closed": true,
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101421295937584896710\">Peter H</a>"
+          ],
+          "photo_reference": "AU_ZVEHUOM28bTBB1f8sGMwQfgQ3z8ET5v6iwBlHR2YdJ5rA0Oop5ktL2VC_51OK0deQgywkRcIT6Npbe651H8mI7wzgd2UI05lTkcbWQ9hi9Uc7bA-t60Bpbjr8IVMVRKif7rMsgqTzuABlkAgZRwNfoyEwK061QjZRj6GNTVYTLztsqKf-M7Hs6nileCzfiuXnlXHi4Jo9UnnwDoh_Qmuq1crQT9z_lpe8RvIVBuTPzbezoVDZU0jGP7IwsS7uIi-O9QqQ7KMz7rcDEINuWibXiZYnH6WKnG8tlyxaOuUZIb-0aqJPE_0ion2ZCfa_sqK3r_shDkcuogQ3TQ6L4jzc4XfT3IRUOdaLD_oTRyjxCoSIpSbuMA8UmRvWfrDDilpw9NoGT9w1yU6Xn1CS1puIz-GFDq-6jigxQTfaQ5mlMLhOB8ZssAyiU_ADBXpV_MGwEUijsv3-2NVxDhHIGYiO8N84f3bOm_oPRNFijciPFdHgmPnj1KXLEIicUInXuxZUfOLCLKZ5ll_0mK9tJf6uZ5GJhEfjUAQy7jIg5pSQigFmIGZkfsnMEVGyaB0VMvfW5AeETAksT-kjbvzdDOKaFuAVKb27myASXeh1ygLP8J_z6wChQ03DDYrE5G5A8LZI50wbSg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJVZGU0HhiwokRFZBMUoJqmy0",
+      "plus_code": {
+        "compound_code": "Q73V+74 New York, NY, USA",
+        "global_code": "87G8Q73V+74"
+      },
+      "rating": 4.8,
+      "reference": "ChIJVZGU0HhiwokRFZBMUoJqmy0",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "110-40 76th Avenue, Glen Oaks"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7469795,
+          "lng": -73.71253399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7482694802915,
+            "lng": -73.71113431970849
+          },
+          "southwest": {
+            "lat": 40.74557151970851,
+            "lng": -73.7138322802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-564-2860",
+      "name": "Tropical Smoothie Cafe",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 800,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103174976331775059765\">Tropical Smoothie Cafe</a>"
+          ],
+          "photo_reference": "AU_ZVEFGC6U76tNjMS5a05lECQxP3qnT-hn2ki15VZdwc5A_kQWyRxrbFBB2PLH3tFDhRnMiRhrUyTGc7Sxj5j7w-o9iggC1I7-8bSKNPW9IDflioZmpxh0Aq13EDEfWMIo0-aYcD-zDInMCuv9KopYZ_W6_qYQfC5gyYwlGhI5_lAUytlx67H4xdbLmE1u7Lc2ecf39eFe2mE2lXNAPZMsQuE_hpGxRtnPlCeGnocB5L3hVgnMmndIOsNNVL-kJGayUZlklyBMW0vFlgi-sVT0NC9MfPxpb8se46GG_TS99a_LDtlOh379I2NxMInzmST7MQRbS65Xa1Vw",
+          "width": 800
+        }
+      ],
+      "place_id": "ChIJ-TZMlvdhwokRJRyC1vIcwSo",
+      "plus_code": {
+        "compound_code": "P7WP+QX Glen Oaks, Queens, NY, USA",
+        "global_code": "87G8P7WP+QX"
+      },
+      "rating": 4.2,
+      "reference": "ChIJ-TZMlvdhwokRJRyC1vIcwSo",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 54,
+      "vicinity": "259-15A Union Turnpike, Glen Oaks"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7496114,
+          "lng": -73.70764
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7508898802915,
+            "lng": -73.7062116197085
+          },
+          "southwest": {
+            "lat": 40.7481919197085,
+            "lng": -73.7089095802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-347-3106",
+      "name": "Liu's Garden",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEECklrBSLDBEim6OOorxcD-IyYN4yugTM_AJLypimHq6S8UfmQMW2tFlzjzllBXRennxXykNXF-jEfiK8WbFVCNvUzucPx0_RTx01w79IYAjODOymoGtWi9uC-Ip_oGo9NIuGFcTfXSml0mQosxuf-0WIsJh00i5KiT7ufNuwCeHD5G0Rmt-Ain1TpXxPSUCKhI_jDr6NC4P0__-XUxntoTs7GoS1CmAHJp52oECY7-zTsQuD1Wbk9SFjEy-nMxuaIbE4kvPCOD_6psAsYh0Lk_ZGGeNZx1dimVu4xK0OA9pTtt6Hub_NYuRUBb-sqLY3sAu8hSz0fidNVug7zFMS2VsIoBQ_QLfVIiw-tg-GVZryBWCejoiaC-gj5u-dlUmc4MKGlZeEClMFnhb_sjoQyOEHDFDjaFM4sM_ZMK3ZSr31hlMd6UCmo7lMNvfq9zyGlHk_LgB32kwghOGDt0xhe0j8OhSkLovYJTYGtjwIdvKV8gjwJfaZLvUERvaVGSdhLK_7E3n_EC0qiP84_f1DrSUa4GLdenfNal2WRsQ2T2xsDltl0vN79OzKCV_LMIO45x-6Bk7cJmEg-Z6MEIIRTufDPi877SSynHcg--J0ykppqlukNn3PiVOOLx7zQVqUwTUTuX",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ-W5N6XtiwokRzyw9i4PH8L0",
+      "plus_code": {
+        "compound_code": "P7XR+RW New Hyde Park, NY, USA",
+        "global_code": "87G8P7XR+RW"
+      },
+      "rating": 4,
+      "reference": "ChIJ-W5N6XtiwokRzyw9i4PH8L0",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 117,
+      "vicinity": "265-19 Union Turnpike, Queens"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7462651,
+          "lng": -73.714741
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7476542802915,
+            "lng": -73.71342826970849
+          },
+          "southwest": {
+            "lat": 40.7449563197085,
+            "lng": -73.71612623029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-470-2050",
+      "name": "UNO Mexican Grill",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 5712,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100572229193189473190\">R Ho</a>"
+          ],
+          "photo_reference": "AU_ZVEGOlNZHkfKjOf42AkSKgxOKm8oPhAJ8Px7wFZep5Gdj3Ua84IfOORiYF9nkTndK4ktRtYzjq1C9eTgaGOJ3tMr0lknnywpJSkKWq9w-sOSyHFLfMWlFfY7Gncts2kbWchTksGh8Jk4y2_QhCH7_yVsMKxNbtnUjvLw3mMohPQzdIUOi_aYkPQvXpF90dToRBswbn-oBdbn-pMYy6QPzU5q89LonKqfy2t5KwLNdi0NofjDpzyjqi-6iH8pqcKkb85Y-NyKl6wMluAXPbYwbeOZuzUjNQOPIfvHaU9EoaS0vH0AeQ9EZY9F51MTTMQ5xO9sKSqz4jpD18p6A3v3tmoGhegkjMEXBWP6oh9u56bZBIIjEAfrvfyM_8YmJNlZEPG4eRyAI123fvRmUMU82oUn_DtqBn_ilPDkkPEqtS8o6uAWOURaCF1Rdgazya9vt6Dk8i8xP3phwp-A5fbgsiCy2rSK7Gw9IBJJDkcp-7I4hmNxTPpHzlV_c4MEg19UHsL_USgUftPVu2T98D0PN4Jb1-0npYaIlIF7tx3ylsI8tJgpVElhSoh75rfPAf9qbU8rqYavL8fPCnMz2uOlywQajZW6RipD4qTgUWJL8v66G39riIGAN5BdNgYPKjnQQx7CJww",
+          "width": 4284
+        }
+      ],
+      "place_id": "ChIJww7q31BjwokRwzqwDgFSXsQ",
+      "plus_code": {
+        "compound_code": "P7WP+G4 Glen Oaks, Queens, NY, USA",
+        "global_code": "87G8P7WP+G4"
+      },
+      "price_level": 2,
+      "rating": 4.7,
+      "reference": "ChIJww7q31BjwokRwzqwDgFSXsQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 98,
+      "vicinity": "256-31 Union Turnpike, Glen Oaks"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7474785,
+          "lng": -73.7220059
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7493148802915,
+            "lng": -73.71831080000001
+          },
+          "southwest": {
+            "lat": 40.74661691970851,
+            "lng": -73.7232376
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-347-3276",
+      "name": "Queens County Farm Museum",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1936,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111776199222481536522\">Queens County Farm Museum</a>"
+          ],
+          "photo_reference": "AU_ZVEEIlV84yGcOO0lZIBby2x9mnG9s4iE8z4HGkdnqrYbBKIH4NiVFdN2q69m4ryzwUk2_gp46ydo-ozCnlEjLWXcdoLKRB8yhLBBXxl6GdEdEfpiyFIGB0ovwh39RRfQTZxGljct-8l2PWBAdUNSJTC1Al6EPQNPgYo_3PzBFQ-Q0LyQTk-qpz3s78kPlp1tQ9qaRdjW-L3Zulm-GAw4UhJ1bshQaStj_u73_70Hww4uuq9Vhl_jqVdrjQOGJzJ_csrgEjILFJ-XooKs5e2hRfxGeeEfnK1pRqKWy4EKMOicZiojWj9r4OTOq1CU9yz-ui2VDBKpwWQA",
+          "width": 2592
+        }
+      ],
+      "place_id": "ChIJ97dFr3JiwokRbeAyMsBwcnA",
+      "plus_code": {
+        "compound_code": "P7WH+X5 New York, NY, USA",
+        "global_code": "87G8P7WH+X5"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ97dFr3JiwokRbeAyMsBwcnA",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4203,
+      "vicinity": "73-50 Little Neck Parkway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.750723,
+          "lng": -73.7174915
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75205648029149,
+            "lng": -73.7161597197085
+          },
+          "southwest": {
+            "lat": 40.74935851970849,
+            "lng": -73.7188576802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/73 Av",
+      "place_id": "ChIJ6zOdRHFiwokRmS6ezJUjO6w",
+      "plus_code": {
+        "compound_code": "Q72M+72 New York, NY, USA",
+        "global_code": "87G8Q72M+72"
+      },
+      "reference": "ChIJ6zOdRHFiwokRmS6ezJUjO6w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74963,
+          "lng": -73.7157785
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7507985802915,
+            "lng": -73.71467251970849
+          },
+          "southwest": {
+            "lat": 40.7481006197085,
+            "lng": -73.71737048029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/74 Av",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113026770032151249383\">\u042f\u0446\u0435\u043d\u043a\u043e \u0412\u0430\u0434\u0438\u043c</a>"
+          ],
+          "photo_reference": "AU_ZVEGcA1NcZs5CreiSVzPSj7pWTOux-bBLxQEwT8yeRJw4MzXQvXLaJhfcMkGtG6vvHvk20NqaZXiNj-m6ltPMK5bYajvlgbysti-9smk6ZdTgg51cWNenPwhtkYW0np6h68fCT8hd0GbQVDAJD4QQBjFjsYp695PT9QJZ2q_OKYkV24H3YHZYbwHhNAQ2qlOYQv6phz4_-MUHyO8lgdb2aVPJqfKyqzF3eMje1J0m1sLQ279v0UdogZ_yDQ8m0Nbl_vfn3eGczZaU19BQsQIDGv_y_ouYd_uSg87N7bILNJYmOT-26jUgnRp36MaQFPHzAZFvuIhyu4k8orO6EtQK2izsaMi4kp5cIOcE5BIa4gaGFyd3rRcHHOxvWyQERWDm68T1-D5Yc0IXdGXYbgw-NfHFXKCJ69bkM9LYDtObgBozGLbyeh30mzF9YFenYTT-n00hFYcA7voi8O_XC_wBSrm4f1Aca_stGvUTG0g9YYNizVsODK3GfSzzonR4sn7zAQuAr73Mcju_zV-oiqowbUPYt5JfwL-t0I1kOcVmtYzC1WdDWoHHJRcJd7tSyQVQaaRF13j9iFgbnlPfgAAr2a-67xiJjzU47T6b2FE1bXinfkPDGE6hja8briQKMaV31LCyMw",
+          "width": 2252
+        }
+      ],
+      "place_id": "ChIJ_aqfHHFiwokRKMKbjaxbYN8",
+      "plus_code": {
+        "compound_code": "P7XM+VM New York, NY, USA",
+        "global_code": "87G8P7XM+VM"
+      },
+      "reference": "ChIJ_aqfHHFiwokRKMKbjaxbYN8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.757244,
+          "lng": -73.715126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75857893029149,
+            "lng": -73.71378141970848
+          },
+          "southwest": {
+            "lat": 40.75588096970849,
+            "lng": -73.7164793802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North Shore Towers/Building Entrance",
+      "place_id": "ChIJWUg_YdiJwokRiisSf2Ez82Y",
+      "plus_code": {
+        "compound_code": "Q74M+VW New York, NY, USA",
+        "global_code": "87G8Q74M+VW"
+      },
+      "reference": "ChIJWUg_YdiJwokRiisSf2Ez82Y",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.757221,
+          "lng": -73.714882
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7585451802915,
+            "lng": -73.7135367197085
+          },
+          "southwest": {
+            "lat": 40.7558472197085,
+            "lng": -73.71623468029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "North Shore Towers/Building Entrance",
+      "place_id": "ChIJqS30ZtiJwokRSlIcRjrPGlI",
+      "plus_code": {
+        "compound_code": "Q74P+V2 New York, NY, USA",
+        "global_code": "87G8Q74P+V2"
+      },
+      "rating": 5,
+      "reference": "ChIJqS30ZtiJwokRSlIcRjrPGlI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75873,
+          "lng": -73.722538
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7600803302915,
+            "lng": -73.7211757197085
+          },
+          "southwest": {
+            "lat": 40.7573823697085,
+            "lng": -73.7238736802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Py/61 Av",
+      "place_id": "ChIJMzHwvt-JwokRlJDBrBdIi2s",
+      "plus_code": {
+        "compound_code": "Q75G+FX New York, NY, USA",
+        "global_code": "87G8Q75G+FX"
+      },
+      "reference": "ChIJMzHwvt-JwokRlJDBrBdIi2s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.752037,
+          "lng": -73.720215
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7534187802915,
+            "lng": -73.71886256970849
+          },
+          "southwest": {
+            "lat": 40.7507208197085,
+            "lng": -73.7215605302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/Little Neck Pkwy",
+      "place_id": "ChIJKQr3iXNiwokRV4FT7vUTXsU",
+      "plus_code": {
+        "compound_code": "Q72H+RW New York, NY, USA",
+        "global_code": "87G8Q72H+RW"
+      },
+      "rating": 1,
+      "reference": "ChIJKQr3iXNiwokRV4FT7vUTXsU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7521285,
+          "lng": -73.72059150000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7534801802915,
+            "lng": -73.71924226970849
+          },
+          "southwest": {
+            "lat": 40.7507822197085,
+            "lng": -73.72194023029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/Little Neck Pky",
+      "place_id": "ChIJ1VIDeHRiwokRYaJ8l8yiULQ",
+      "plus_code": {
+        "compound_code": "Q72H+VQ New York, NY, USA",
+        "global_code": "87G8Q72H+VQ"
+      },
+      "reference": "ChIJ1VIDeHRiwokRYaJ8l8yiULQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75082400000001,
+          "lng": -73.717522
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7521501302915,
+            "lng": -73.71619821970849
+          },
+          "southwest": {
+            "lat": 40.7494521697085,
+            "lng": -73.71889618029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/73 Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+          ],
+          "photo_reference": "AU_ZVEGjdbtHVyOC8Pq0KLgrKJ3OkvCRH9SV8yf0339kjJk23mpjmbRAK5rEtYrg6p6f5iSaou1q_Kf8zckdh3iH1jFqwlQYlCj91A2Xv0s0sNHg3W3AWqyt-iIelPVVe2DqQviLKfmk_bSbxK2l6OD0w3hi8iORmXJz-qal8EB8WYsNclbD-HUVZVyR6CYwK4RNbPmsLmkvwjrJwtfAbBBS_YCbX9GIMmwSTYJyPfSH0X4HrA54VSpwAk1Acc74VVo60aH2nEowlXWdp50HZDNf0W3o2hqxzPxwPeQ0_4wAQHsyNNJE2XmXMI4PtsTyS_kwDN_2daTxVc4I85zm_0fQQpt_F-J0bs3eMbUFbghhsrwE75tUHAUOd6me6tWN1c4jHs3QiQCDMD8iGg7ZENtBFGyy-c8YhsEZ1_vKK9Uu_exGl4olHAzWt6UBXa1dKirxqd4dz2pBMjcU3vFmd0gshKyqWTWLrsuuhl-TA5wpP8kjdsvTAaIIBidl0gSj13slLZOUiHiGQeFUCEgkzBg75AmtJC320azLG8tKW9G8GMS40LIDEMXARloas8EyUZvUIzn_4K5awl3hSM5GNry94TzHv1G0-IyW-oq9bu54RH0wNp5mBxfPlulIC9QU80MmTX3JiN2E",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJs5_8RHFiwokRA9ZzLcwqvkE",
+      "plus_code": {
+        "compound_code": "Q72J+8X New York, NY, USA",
+        "global_code": "87G8Q72J+8X"
+      },
+      "rating": 5,
+      "reference": "ChIJs5_8RHFiwokRA9ZzLcwqvkE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.752266,
+          "lng": -73.72097
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75360423029149,
+            "lng": -73.71967856970849
+          },
+          "southwest": {
+            "lat": 40.75090626970849,
+            "lng": -73.7223765302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/Little Neck Pkwy",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+          ],
+          "photo_reference": "AU_ZVEFZFKm9bRwU80f27bPRUwUElwAdmnWY1QTEH4Gx2gUqg7iznhyOQeM-H2xZoheECniDCSATgPXx0w3817KHVlYlf7yTwkeAe95Yyt9VwqTc6MgE8cbhrKyjBJEYJacwxyckNuzd8iqb51KZVYo23wDgKkR3eRFJIkn_XEn6j1pai9KylyguSLHqAKXQOZVeW2J2mT07izgxE-dd3yxipg9MdiOm_qGgyUiHHLEl8rTAulwrptbf8QAKQRueVPd0oYv8dI5GxiPCPLr1vn83UHkriCeDEaLVTI6bDfu-gWUk_QDaR8ckpvDOOlhEA5I_D_R3qWDDRjIh-1DXoF3HVc6iXXz52zZK98a8dUy1PpiHODHNrSQ4CcaFwnrpnUJDy89wk4f4ihvgoDLfAK5WCN8Cm1sa_mBWGlryHhmsfdgLKFuljx7YxNeuDFYcHIBPtlbUv3kiXrvuL_lG82V-3hQvO8RBGXiPJ9W09-XmaGildtsB44cGNB4uRSesnqCV5wt5ON6JAUcu8GBkSrPlcGqrfjQbp0yXR45AG53x-f9KBT6SZec_c6L5ulj-D-nwaECSrxhTkC-Iwtbh9mCbi0SYohCYU1WTgoaGWDlFYor4nmzDJbIw1VVbWwVeFwPJNzhBIg",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJf0Euf3RiwokRf9pqjItwgf4",
+      "plus_code": {
+        "compound_code": "Q72H+WJ New York, NY, USA",
+        "global_code": "87G8Q72H+WJ"
+      },
+      "reference": "ChIJf0Euf3RiwokRf9pqjItwgf4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.752018,
+          "lng": -73.72075699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75338748029149,
+            "lng": -73.71939971970849
+          },
+          "southwest": {
+            "lat": 40.7506895197085,
+            "lng": -73.7220976802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/Little Neck Pkwy",
+      "place_id": "ChIJ4wIKh3NiwokR8iEHl-6U9xk",
+      "plus_code": {
+        "compound_code": "Q72H+RM New York, NY, USA",
+        "global_code": "87G8Q72H+RM"
+      },
+      "reference": "ChIJ4wIKh3NiwokR8iEHl-6U9xk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.750626,
+          "lng": -73.717468
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75195928029149,
+            "lng": -73.7161365197085
+          },
+          "southwest": {
+            "lat": 40.7492613197085,
+            "lng": -73.7188344802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/73 Av",
+      "place_id": "ChIJ_e8aQ3FiwokR5GBQHLoH1Es",
+      "plus_code": {
+        "compound_code": "Q72M+72 New York, NY, USA",
+        "global_code": "87G8Q72M+72"
+      },
+      "rating": 5,
+      "reference": "ChIJ_e8aQ3FiwokR5GBQHLoH1Es",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.752132,
+          "lng": -73.72126
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75348933029149,
+            "lng": -73.71988336970851
+          },
+          "southwest": {
+            "lat": 40.7507913697085,
+            "lng": -73.72258133029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/252 St",
+      "place_id": "ChIJjbl2iHNiwokRY5DMLrmn4xM",
+      "plus_code": {
+        "compound_code": "Q72H+VF New York, NY, USA",
+        "global_code": "87G8Q72H+VF"
+      },
+      "reference": "ChIJjbl2iHNiwokRY5DMLrmn4xM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75180099999999,
+          "lng": -73.720879
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7531438802915,
+            "lng": -73.71956496970849
+          },
+          "southwest": {
+            "lat": 40.7504459197085,
+            "lng": -73.7222629302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/260 St",
+      "place_id": "ChIJI5sbhHNiwokRGT_qAkJDU24",
+      "plus_code": {
+        "compound_code": "Q72H+PJ New York, NY, USA",
+        "global_code": "87G8Q72H+PJ"
+      },
+      "reference": "ChIJI5sbhHNiwokRGT_qAkJDU24",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.756672,
+          "lng": -73.722633
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75802403029149,
+            "lng": -73.72130971970849
+          },
+          "southwest": {
+            "lat": 40.7553260697085,
+            "lng": -73.72400768029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/255 St",
+      "place_id": "ChIJ5a59aHViwokRVF3m4jDPW7g",
+      "plus_code": {
+        "compound_code": "Q74G+MW New York, NY, USA",
+        "global_code": "87G8Q74G+MW"
+      },
+      "reference": "ChIJ5a59aHViwokRVF3m4jDPW7g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.750134,
+          "lng": -73.715355
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7514544802915,
+            "lng": -73.71403101970849
+          },
+          "southwest": {
+            "lat": 40.7487565197085,
+            "lng": -73.7167289802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/74 Av",
+      "place_id": "ChIJS-bl33BiwokRV_DWeNXscmU",
+      "plus_code": {
+        "compound_code": "Q72M+3V New York, NY, USA",
+        "global_code": "87G8Q72M+3V"
+      },
+      "reference": "ChIJS-bl33BiwokRV_DWeNXscmU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75553499999999,
+          "lng": -73.723236
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7568746802915,
+            "lng": -73.7218565197085
+          },
+          "southwest": {
+            "lat": 40.7541767197085,
+            "lng": -73.7245544802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/Cullman Ave",
+      "place_id": "ChIJI4nTJHViwokRBTRshQghDOI",
+      "plus_code": {
+        "compound_code": "Q74G+6P New York, NY, USA",
+        "global_code": "87G8Q74G+6P"
+      },
+      "reference": "ChIJI4nTJHViwokRBTRshQghDOI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749628,
+          "lng": -73.720024
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7509702302915,
+            "lng": -73.71869771970849
+          },
+          "southwest": {
+            "lat": 40.7482722697085,
+            "lng": -73.72139568029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Py/73 Rd",
+      "place_id": "ChIJecnhtHNiwokRibdNwegVE3M",
+      "plus_code": {
+        "compound_code": "P7XH+VX New York, NY, USA",
+        "global_code": "87G8P7XH+VX"
+      },
+      "reference": "ChIJecnhtHNiwokRibdNwegVE3M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75816,
+          "lng": -73.722572
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7595055802915,
+            "lng": -73.7211762197085
+          },
+          "southwest": {
+            "lat": 40.7568076197085,
+            "lng": -73.7238741802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/61 Av",
+      "place_id": "ChIJB_6hk9-JwokRNBpjpS8ktdQ",
+      "plus_code": {
+        "compound_code": "Q75G+7X New York, NY, USA",
+        "global_code": "87G8Q75G+7X"
+      },
+      "reference": "ChIJB_6hk9-JwokRNBpjpS8ktdQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749733,
+          "lng": -73.71994
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7510916302915,
+            "lng": -73.7185969197085
+          },
+          "southwest": {
+            "lat": 40.7483936697085,
+            "lng": -73.72129488029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/73 Rd",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+          ],
+          "photo_reference": "AU_ZVEH_5KlADRrlsQI_wKMvEHu1Ds8BUZ89U-XAIiUpD3-nqOJz5rZakcw2Hh0rLQT8wyzhX3KBz7AYmX7Kt01yTnk7UruHbZcnYy413_TpGo0pjyHgx3-5bvMJSxqQyCMpJIBX-U2VhAmiTRkxyvV17eI0gONM0aWdaxsJpZoFQAFwJa_X_d9MUlUm1nz-cp8aBZ1bdSMd3pLzvQMDS94bvKhOLQ1A_z42KJLDSWRqYOUnIKA3NOZ0uiOVg_452nzSjIObIY_H4RINHgb11rsjJgZ3XyVHcqma9kjdCvV6kWXYo4_JqvzBSzJbgciZZGwjd8UN9Xsj6Y-KY2jbMihICtghijBZF5DZm2reMqvSmhFB_PT3BeYbFkYuJR3HTuXk8IuoBBCzsstd_bTP2Yu83Up-adozDzWAPXBph2X3Hm7LrO9LuQG2lINNoeKsgfCDbH2r49h-oyT1jepygguY72ZlrUVp6-y1OtDexQljGPRjvSk3CtwHEGnWNcDEmfn8oTZT_ePBrd09DZAIxwnGbbn3UBoTi47qgMlZyVTkMiarUzqUZnrRmgI6QFu9J3nstJNJ4IAnIWrnGMpq7oWXwfRCAbjrX3TQ2zQX3uHwiVnL7Sf6Z7c-6yXDMtu4qXa8EbQwDBmC",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJdU68tXNiwokRbCs3gl8DYU8",
+      "plus_code": {
+        "compound_code": "P7XJ+V2 New York, NY, USA",
+        "global_code": "87G8P7XJ+V2"
+      },
+      "rating": 5,
+      "reference": "ChIJdU68tXNiwokRbCs3gl8DYU8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749126,
+          "lng": -73.716202
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7508495802915,
+            "lng": -73.7149437197085
+          },
+          "southwest": {
+            "lat": 40.7481516197085,
+            "lng": -73.7176416802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/74 Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+          ],
+          "photo_reference": "AU_ZVEEsFpg9rB5XvJl4C8qj_ZlJadlOdcmy8IbBkoEfaH84Tf8KTzm6G-1bpZL830013lLcxJDyO7wb95sH8zqqnfXIFxuDpSwl-wBBd6a6Kwf384Zvvt6JLNzUGsRzXgdLcwp0BBJJcRLy4WKmiAq-CIKP8M1ID4Y-f3Da5cVBBtI1Z253PlXE04DD4625NfpFjqh6KnWyOoXd3krejazek9uLQuPY6iFdTOiWzyz16uSAPfvG2ANIBSva6jMcRbd3H0DbONS19LVlWJ4BTvdALctxoUvd7yT7yXxP6RRp-FovBv3a3OgjTY0LgCsFoHj6T39AeWuFvqsJgMjKRJ2Vv7X_GRI2TZnuaz69fJsb6CNAR-axA_8O7IDw8Hhf2tPb7LSp6LxO4XaBR92Yb5fraF2Gagm-xki-_63kM1YNTZC6NH45uH2kl1FaXTtTsiFJuK86XIul6JfKHYWCm8w0MFVxQCucE-7gAtf7lZNhVUOdUbP5eGgbLkbrOAmNj2i__t-zqthHc675fwROLux6B4Sc1L7m893ZUKowP__plw0f4srFfyOujX8RCEsNzSlk2VghPUvUt-g0uT9LSxOdgjNJw2zWPpvQb5lVufKiAdJXO4ysVeuF78x6d0M62pX0mO0lGIL0",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJt7N8CHFiwokRXaY5gJclE3k",
+      "plus_code": {
+        "compound_code": "P7XM+MG New York, NY, USA",
+        "global_code": "87G8P7XM+MG"
+      },
+      "rating": 1,
+      "reference": "ChIJt7N8CHFiwokRXaY5gJclE3k",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75929999999999,
+          "lng": -73.722504
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7606453302915,
+            "lng": -73.7211917197085
+          },
+          "southwest": {
+            "lat": 40.7579473697085,
+            "lng": -73.72388968029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/61 Av",
+      "place_id": "ChIJkY8ft9-JwokRZaGGKewTc_Q",
+      "plus_code": {
+        "compound_code": "Q75G+PX New York, NY, USA",
+        "global_code": "87G8Q75G+PX"
+      },
+      "rating": 3,
+      "reference": "ChIJkY8ft9-JwokRZaGGKewTc_Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749523,
+          "lng": -73.72011599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7508795302915,
+            "lng": -73.71874211970851
+          },
+          "southwest": {
+            "lat": 40.74818156970851,
+            "lng": -73.72144008029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/73 Rd",
+      "photos": [
+        {
+          "height": 4080,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101217005580106231295\">Susmith Sarma</a>"
+          ],
+          "photo_reference": "AU_ZVEGKd1gZQ0BRiqYTm4EWVJacrF08KgkhOCnuQ4JFPMjjdLsUM2dM0J1wMLMsmZfFGpLG5I2LDk8scE9C7-4um28gZ_ahxhmJfx7lyx89WL8feYxU9IabhdM4Dv9ssUS-uB8Df1DE-a4c_5NRht0C57IByLdl8v9qEsSFuq4ZerFGBFivOwWuGaXHZOPnVq6Hxepe8wxypmAq3MKTglMZAR_oms-e2dOsc3nl0_LMPAp-DQKRFiK4Q-OaxlDuFXK34s0Q5k2SpOy2jqtOv8ihRXa8aRq_ULF2sfsXKFri32zJ3hgAvdZOXTnjJhuO31u_46E3k9Ujs1b4V1GEQ9k__SmQJpSldP3voNVWm1P-0h2YfvWmfIAjaOcLHu3Gy47EvQ70FteSt2mTExBorv_c2ZiMlD3zWZjpXOtb2g-jbHoPAzqDAnCH4cCYH6MuDB1jrIS9gLvF1NkY7n_fiXt5lv9TcGFXr00NYz1j2fZ5zH3Mb3A1E_ukUsQwiQ6JbKpskRqEEP6U3IgWWuT1mVkYXMcJMxGuRNnPRxEF3bLJpCnGeL8q8YDzQffNS2DoEGMtyGTaW5CXBSn0pXLXZOKG2DyV_6w25lTs-dVyXd7Bru5-qPs1JKmnYUDurgAr2917A_U-gB-uccuwInJ1MJofkUZB4MM",
+          "width": 3072
+        }
+      ],
+      "place_id": "ChIJV803S3JiwokRn7A1ZQVTzwY",
+      "plus_code": {
+        "compound_code": "P7XH+RX New York, NY, USA",
+        "global_code": "87G8P7XH+RX"
+      },
+      "reference": "ChIJV803S3JiwokRn7A1ZQVTzwY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75489400000001,
+          "lng": -73.706589
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7562475802915,
+            "lng": -73.70524731970849
+          },
+          "southwest": {
+            "lat": 40.7535496197085,
+            "lng": -73.70794528029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LIJ Medical Center/271 St",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113510356879054206737\">Hwan Bae</a>"
+          ],
+          "photo_reference": "AU_ZVEHnIV7sV9Iav3pvDVTCUsOc9Iyeh7risUVJL7441fQaLLfMP-sikIlyRC9pypkzQcRrh7i0OiD6pzXPDOF4zwgYvsiy5AoAr1T44w__PMwfy1v31gxkH3q-tD_ZCbJ0napFHGBbMONqAomJSRGsZBiYR6FO_5OL-zrwzmwaiO1rFaIVCoU7Zw_bDCV9knE-13y4y-4fKu1kZIWv8ZS-DTuONZZ2t1lVmAZR9XBTrCAJlgNWqmAuLKi-CQynqTaskGE8yQEQN4vNaOFBWTuLehoj6Nnuoq7ctLE50N13vxBI_EiCtgERiD4Fr1dXD7f3ZRmn80Xu4JHLXgN3Hc36QtbgKnkQ8tabVoxJNqEf4O2KZXoJLrvpn6Z32d1jqijTXEXN23TO2HY3mpcBgryPNoSDfNdM8TpckTDPddKlsJD3UJ-ee1POYIrdsAYhp03OaGlCzEA3_lH1Dp1kuUoCbkafsX-i26LnxexoiXHbpMGC4ppDSqaMzYWfJw3dDBTiB8fPLxVAZglo9k11Xqnm4qRtBRMPBTQgI1HCjcs-BoTh9yLMV2vA6M11TzbYfhUKC2rudDN2XeE9yCVhD8o3nL_Fg2IoSAcLhC07gEWEbj5_DoSWF3s5-pZsRkPUW-GmQkhArA",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJP4kzrHhiwokRMm7GNyt6gPQ",
+      "plus_code": {
+        "compound_code": "Q73V+X9 New York, NY, USA",
+        "global_code": "87G8Q73V+X9"
+      },
+      "rating": 5,
+      "reference": "ChIJP4kzrHhiwokRMm7GNyt6gPQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.75501999999999,
+          "lng": -73.706429
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7563543302915,
+            "lng": -73.70505641970848
+          },
+          "southwest": {
+            "lat": 40.7536563697085,
+            "lng": -73.7077543802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "LIJ Medical Roadway/271 St",
+      "place_id": "ChIJ8_mg_9WJwokRkb3JQ4DR2fg",
+      "plus_code": {
+        "compound_code": "Q74V+2C New York, NY, USA",
+        "global_code": "87G8Q74V+2C"
+      },
+      "rating": 1,
+      "reference": "ChIJ8_mg_9WJwokRkb3JQ4DR2fg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.747276,
+          "lng": -73.718903
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7486170302915,
+            "lng": -73.7175939697085
+          },
+          "southwest": {
+            "lat": 40.7459190697085,
+            "lng": -73.72029193029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/74 Av",
+      "place_id": "ChIJF7dGBHJiwokRHs18aJGmOAo",
+      "plus_code": {
+        "compound_code": "P7WJ+WC New York, NY, USA",
+        "global_code": "87G8P7WJ+WC"
+      },
+      "reference": "ChIJF7dGBHJiwokRHs18aJGmOAo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7471465,
+          "lng": -73.718975
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74849313029149,
+            "lng": -73.7176385697085
+          },
+          "southwest": {
+            "lat": 40.74579516970849,
+            "lng": -73.7203365302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Py/74 Av",
+      "place_id": "ChIJvV1CBnJiwokRWimVJ8gq81w",
+      "plus_code": {
+        "compound_code": "P7WJ+VC New York, NY, USA",
+        "global_code": "87G8P7WJ+VC"
+      },
+      "reference": "ChIJvV1CBnJiwokRWimVJ8gq81w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.761555,
+          "lng": -73.72320599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76292403029149,
+            "lng": -73.72186286970849
+          },
+          "southwest": {
+            "lat": 40.76022606970849,
+            "lng": -73.7245608302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/58 Av",
+      "place_id": "ChIJoe92Ed6JwokRP5wB8Or01wo",
+      "plus_code": {
+        "compound_code": "Q76G+JP New York, NY, USA",
+        "global_code": "87G8Q76G+JP"
+      },
+      "reference": "ChIJoe92Ed6JwokRP5wB8Or01wo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7616695,
+          "lng": -73.7231335
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.76301598029151,
+            "lng": -73.72180226970849
+          },
+          "southwest": {
+            "lat": 40.76031801970851,
+            "lng": -73.7245002302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Py/58 Av",
+      "place_id": "ChIJvdgcEt6JwokRQQ7pmmXw3ig",
+      "plus_code": {
+        "compound_code": "Q76G+MP New York, NY, USA",
+        "global_code": "87G8Q76G+MP"
+      },
+      "reference": "ChIJvdgcEt6JwokRQQ7pmmXw3ig",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.761784,
+          "lng": -73.723061
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7631281802915,
+            "lng": -73.72174556970849
+          },
+          "southwest": {
+            "lat": 40.7604302197085,
+            "lng": -73.7244435302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/58 Av",
+      "place_id": "ChIJnUbADd6JwokRaEgmPqdmq5I",
+      "plus_code": {
+        "compound_code": "Q76G+PQ New York, NY, USA",
+        "global_code": "87G8Q76G+PQ"
+      },
+      "reference": "ChIJnUbADd6JwokRaEgmPqdmq5I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74699,
+          "lng": -73.719093
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74834328029151,
+            "lng": -73.71772451970848
+          },
+          "southwest": {
+            "lat": 40.74564531970851,
+            "lng": -73.7204224802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Little Neck Pkwy/74 Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110344283172678365745\">Jim Ryan</a>"
+          ],
+          "photo_reference": "AU_ZVEFQhEcDNrJEjiPmkYhDE3jo01Jo_R6DDmYA9k2d4BooPp_o2iOgR2bUOOC039vtM56ZDEASMnFuRx-3sb_MUnWo_Sbu0oNLuIkNYLdQWH_Mu4A7CuDJaQszmxTMiohF5-WS1WxxttTHdAS5ikoRYPaWrONJmZREWA1JEwz13qGk1mpM93wn_adTuFgAdrz5tNOYCvQpnH4CXaRFLPuIiJD8LVCGJdsKpv9gcq-ShU6CDAAkHqrRuo5R9yKoiFVkGOtXxlbNbs4x3sRfikpqeqP7ZA7tx02aS8JQgqr66KDE2tmlFS1L_05u40krcY90kHmKrrebmw1eJh51i1y3EZgbThQAABuUg9etI0Mn_eeqra42zCq0DW3_IW79VzEhWKbijT7SbmOf86gTDkDhKvb-AEk25VZVy9FqGCUy9R-i9BNdTc6jCKL7LEmgGRj1-L7CASb2pPC-PiJgBZ4Sz3E9eZUve1Di0_DqqHFdcvN5aykazSJErqruoWmpPejDt_TPdZ4FaIc5ATi4VNApzUKDekmjxS2q5oNvdJEyI0hHJWZKC4x98cfDKCZ-46KmbXwpyD1WsFYqX5uG9DRzLim2IOnqUQD7tdFTkb9pYd1R7_1CR6JDLIfL3Xw4_edCZFl888B6",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ4dsJCHJiwokRyOH71MRCpxA",
+      "plus_code": {
+        "compound_code": "P7WJ+Q9 New York, NY, USA",
+        "global_code": "87G8P7WJ+Q9"
+      },
+      "rating": 4.5,
+      "reference": "ChIJ4dsJCHJiwokRyOH71MRCpxA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74733,
+          "lng": -73.71212000000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7486846802915,
+            "lng": -73.71076461970848
+          },
+          "southwest": {
+            "lat": 40.7459867197085,
+            "lng": -73.71346258029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "260 St/Union Tpke",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110146321170975563919\">Kiyoshi Sudo</a>"
+          ],
+          "photo_reference": "AU_ZVEGN_kxWMEMjSY_aMMs8Lvg1O-jXz0jUnYR_Zit_LuADZIGPyoVO98cDwaO_ydgQOwD5ptJgk1WjIB1khCP2O-s5DCBmZGzoJlUQZqhzwZArSOaTKxhnt-Ok3XWmocM272gZu0fDoTILP5BBnM3vOdmHacsE4j0JGR6OGYhQVYvVdUrSd0u53bRrdEL-oo0nyN9BZ2aGz0glD1g93NES3NGeY8uxkoSldiBnklGrQCP6iP-B_nyjjMFJOmMA57Xg_ZD-e_vFMttlLUOGCOz3Yc3U3iR5YH7TIvuHqhe8Hvl5ft-tuwfNKnLw78r1z9fNZQVj8Q87xJuaCQXz-7Ge6iie5aeO1POJbJuUk9OoQOsDkELRERCXFrq4mDBmrdwHOTc9ivf8Ohei8J_W06KNQq-8PWzVKSp_fBiUT2nPlmeAMQJkKVH4IthXltvs6kminUSKT9-qWIDpOhig1m87MafULXUfziiZmjVaDN3Kq-dAwIRV1qT8qKOcAqDKlX2o3bjAQZ6JqmQihy6RGmmirpklwB1dUcsaqeTlB9J8B6jfzp1he2sJkVoCUqDBi3GuBXIlqumCOx_3SnsvppgzwMIQrnIJn_0MpA2B4vJSZiJ3il4_AaRmVtyWljHr063OXmQl8g",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJsXqznnpiwokRqdsMKW7kG8c",
+      "plus_code": {
+        "compound_code": "P7WQ+W5 New York, NY, USA",
+        "global_code": "87G8P7WQ+W5"
+      },
+      "reference": "ChIJsXqznnpiwokRqdsMKW7kG8c",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.748173,
+          "lng": -73.710014
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7495266302915,
+            "lng": -73.70866931970849
+          },
+          "southwest": {
+            "lat": 40.7468286697085,
+            "lng": -73.7113672802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/263 St",
+      "place_id": "ChIJ76JAVnpiwokRbonFje8hQbs",
+      "plus_code": {
+        "compound_code": "P7XQ+7X New York, NY, USA",
+        "global_code": "87G8P7XQ+7X"
+      },
+      "reference": "ChIJ76JAVnpiwokRbonFje8hQbs",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.747114,
+          "lng": -73.712307
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7484007802915,
+            "lng": -73.71090031970849
+          },
+          "southwest": {
+            "lat": 40.7457028197085,
+            "lng": -73.71359828029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/260 St",
+      "place_id": "ChIJdYA1oHpiwokRXrjLxzFLKFg",
+      "plus_code": {
+        "compound_code": "P7WQ+R3 New York, NY, USA",
+        "global_code": "87G8P7WQ+R3"
+      },
+      "reference": "ChIJdYA1oHpiwokRXrjLxzFLKFg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74831,
+          "lng": -73.7095295
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7496554802915,
+            "lng": -73.7081867697085
+          },
+          "southwest": {
+            "lat": 40.7469575197085,
+            "lng": -73.71088473029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/263 St",
+      "place_id": "ChIJKWlTq3tiwokRa95cma4i4V4",
+      "plus_code": {
+        "compound_code": "P7XR+85 New York, NY, USA",
+        "global_code": "87G8P7XR+85"
+      },
+      "reference": "ChIJKWlTq3tiwokRa95cma4i4V4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74704699999999,
+          "lng": -73.71227999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.74836103029149,
+            "lng": -73.71089861970849
+          },
+          "southwest": {
+            "lat": 40.74566306970849,
+            "lng": -73.71359658029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/260 St",
+      "place_id": "ChIJp72roXpiwokRQekRbPQs7EQ",
+      "plus_code": {
+        "compound_code": "P7WQ+R3 New York, NY, USA",
+        "global_code": "87G8P7WQ+R3"
+      },
+      "reference": "ChIJp72roXpiwokRQekRbPQs7EQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749187,
+          "lng": -73.708183
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.75050693029149,
+            "lng": -73.7068071697085
+          },
+          "southwest": {
+            "lat": 40.74780896970849,
+            "lng": -73.7095051302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/265 St",
+      "place_id": "ChIJr9BEv3tiwokRJ0mSfDKto4I",
+      "plus_code": {
+        "compound_code": "P7XR+MP New York, NY, USA",
+        "global_code": "87G8P7XR+MP"
+      },
+      "reference": "ChIJr9BEv3tiwokRJ0mSfDKto4I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74844699999999,
+          "lng": -73.709045
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7498115302915,
+            "lng": -73.7077103697085
+          },
+          "southwest": {
+            "lat": 40.7471135697085,
+            "lng": -73.7104083302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/263 St",
+      "photos": [
+        {
+          "height": 2660,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEEXxeOlqweJVLkQhcBaqX1MUSIIDXg7yhOVgV7Z2MOjD1GTunpSOxSlkQfEpXCHSLmXfsRMFdUn8ctbSwtatP3tkUQve4wUEBdIBSnQZ9afTlVSua9dIoiDW4awW0KPDfv5sVaNxJebQ4hNgpH4X-edE8HhjrSLfFwuTlqZNOqYZNwbQSXPo0hivAeT66Htxh_2q9IyAxjYhU7uPj88k2eeYnc8bKXKcIHSfjaBAiftOMciMvfoTUr-ga5GJcGfIeRCRARoQk4FvhSDO2xpnurX3Oq-RpxBEDrgVxoUFUDfEJRkt05CdFM-lEWgqnpwQdRyk8VNw4dJ6ky-XlvX_bx8bWLrBLsWO4NAtN4_UINYnkgSxLc00m_tshWqq7Dz47VHiIW9uQRoXiyK0xbdWn0d4HPH6iYoImB7VbZrKC7w3LHd1xZ2FcGMt7iBkU0Q-aV0hKKbTByGK1BPu2WbAvqI_bPY87RfnYzMuok3SnmZ81isbE_Y0_XIMg-yG_9_O8TeAl8g8MR7B38oENvrqbKIS3fmEq9OrwUvpCfedBsXAwxsyw0aFP627ZuddjTBF7htMnUyJI5P60x2iPb7e6IjXS1s3NWZ6yQ2s0TlNxH1XzQ7a1YXi8Mi1WT2hA",
+          "width": 8195
+        }
+      ],
+      "place_id": "ChIJ8wVbrntiwokRryLJvDkCc-o",
+      "plus_code": {
+        "compound_code": "P7XR+99 New York, NY, USA",
+        "global_code": "87G8P7XR+99"
+      },
+      "reference": "ChIJ8wVbrntiwokRryLJvDkCc-o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.746841,
+          "lng": -73.712563
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7481830802915,
+            "lng": -73.7112076197085
+          },
+          "southwest": {
+            "lat": 40.7454851197085,
+            "lng": -73.71390558029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/260 St",
+      "photos": [
+        {
+          "height": 3592,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+          ],
+          "photo_reference": "AU_ZVEHg-yDwHs5VKXBRIJA--TwqbDqjaTwDEaMG6vy3nC_6tgCLKAkVxE_ax1VRvkbN-FGlTJvrRR9g8iDkYgqeToLFrmtIcHxDOTfCml7lND75X09QrvC31mGykNIxulhBRpPOdDXy4BNed3ngLOlB7OzeVByYT1xzQ6MK71qn3efiLY6kIaPXcQheAkvuDZtB3ZIexGo6Mp4nI33E97jnL4c2vsyudCfwsAg8PK3RdITVLgI2-qkPNQTa-JP9TobuIU_dkrDQD0x5kJaxtYY0Vn3fvUiXi7jVb1NKD6YVGUVdYZgfMSAPDEkZEv3IWq8gs5yGqwS35M5eX7ijQCAsC6N3HHhC-2wkQR4yZEiD-43XKM4osCvQGBczYpMbQXg4eRI5Xk7JDTUHaA-wZAVpRKeNLHQYx_eb130g3E2Rtdr5LUsFSVXGqKWbmXLuIRGXjtZmle6q2M5WnifEsFMTpJ5W7nIPXAp0VohldbgGO_WplMGhUXvjqpEPAC9l5nB4uTfIwztzTXeHO1xJ57MQFSpwgeKC3MDfeAaBoUZg2tKJy7k6GRorQ2wA3pYzx5LzwiSgS35TuGhd25MsxQyMtWD-A7r-yC3398ko8qOT2sZpPiqtnJQy6yNPWDEc98RnVpSxHw",
+          "width": 4767
+        }
+      ],
+      "place_id": "ChIJVX_8CXBiwokRQB2w629JqkY",
+      "plus_code": {
+        "compound_code": "P7WP+PX New York, NY, USA",
+        "global_code": "87G8P7WP+PX"
+      },
+      "reference": "ChIJVX_8CXBiwokRQB2w629JqkY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.749172,
+          "lng": -73.70791249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7505036802915,
+            "lng": -73.7065474697085
+          },
+          "southwest": {
+            "lat": 40.7478057197085,
+            "lng": -73.7092454302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union TP/265 St",
+      "place_id": "ChIJRe746ntiwokRFpzcgSB1PpE",
+      "plus_code": {
+        "compound_code": "P7XR+MR New York, NY, USA",
+        "global_code": "87G8P7XR+MR"
+      },
+      "reference": "ChIJRe746ntiwokRFpzcgSB1PpE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.74711599999999,
+          "lng": -73.711548
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7484864802915,
+            "lng": -73.71021906970849
+          },
+          "southwest": {
+            "lat": 40.7457885197085,
+            "lng": -73.7129170302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Union Tpke/260 St",
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101056157823885573576\">Erick Lakha</a>"
+          ],
+          "photo_reference": "AU_ZVEGkCA0NVOzTns2RCIiJ42ejBoT_DtRevNP-oQQNYbvoOd_on2x9tt1HrE1g-Bu7vsXfrNDEfmp6YGcni0bO12PYih3dTWxCMRprBAxdaPR4zqJCfKqZhWPlLoy2WA9e350ANf6rI2J_KN7G_9aHc6T0G6UD2wQlG1ERwvYeTOUcXpltDklnYeFErvnjDq7nqhf6zf6b6JQ5MWvuebJbVJkvH2yYueJU-9lW4IO2W3thyVhwoo75MUAT26JgzjhqhxuOo6yjFE4t8u9itRXikfOUwflmknOC5G0bpU2O7xJA3xFgw0QbG7KvGRI9ll3WCrA3sTizvHle6_ZjUudWNNSn3SsDnEnA1Y7pvOJsY3lCFbUe2b7kmabRvKihn1rD89s5gQm9NOqxXr8BQDTb0uUhJB6P-qMZ75Wpef3IYIcgvOZKt13s0lnzZpNUbmfdr2Urck2H1_RLD8oCp7-FmyOr4Nyp1wR2N_pdtSxLqrDZgWj4uO7tmUkH7pBneNwbK2K2NJuLsP5vrjhtkAY6qJFATlvOMXDYP4F93xZ1NeIjAIpHIRU4EWM-6b8TU6Zt1ZWDnLac_3yRvXmGAVEUDeid99kFA8IUaUqZPLPYfVMY_yJsFqR2lOC0rReoS1oC",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJJ54tlnpiwokRBRcJdG70V7M",
+      "plus_code": {
+        "compound_code": "P7WQ+R9 New York, NY, USA",
+        "global_code": "87G8P7WQ+R9"
+      },
+      "rating": 5,
+      "reference": "ChIJJ54tlnpiwokRBRcJdG70V7M",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    }
+  ]
+}

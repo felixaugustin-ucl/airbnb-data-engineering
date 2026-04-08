@@ -1,0 +1,490 @@
+{
+  "neighbourhood": "Breezy Point",
+  "centroid": {
+    "lat": 40.56163851213593,
+    "lon": -73.89145431310679
+  },
+  "fetched_at": "2026-04-06T14:13:05.686246+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.5674424,
+            "lng": -73.8833319
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5687995802915,
+              "lng": -73.8819860697085
+            },
+            "southwest": {
+              "lat": 40.5661016197085,
+              "lng": -73.88468403029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "name": "Breezy Dogs Food Truck",
+        "photos": [
+          {
+            "height": 1826,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEGVtKMFG02HYjk5nJnmysn3HaNJdK1-kO5QVHz0pYAIm1G_Ejxw7XkvzYzWqllpcP4tstZzCj9WRAD-9q41WmmMh2ck9lUzGseT8_hRS9OJAktuBJEUnDjMMnJBeT5EFh60GShLe3YX60_be-r04oUk9n1FhrAP1BJbEQGAo6YQ5ui1RbSDgyJuU-QwqTqu8Ex6Za97kSQKmUzhP1kRkW4z9tUe6w7LXTh_RxsIoBm7FtPNKiX7eXAdOQmwMSGkfXqb6WDSLISd56iQjo9q97CNsEAtP03PnhFrIjS9y6Qjwsew3dmj64nW7Rf7ugXP-S-Njo01l7suMQbkidfGJGI-CPLwpfWk4peJ0tS8fZi--48DECrIKLvU5B-Om9H-Gv6gaAxbIP9p8zXojWG9wqwPNrGx7WfwR4-77JZ5sNRADGctvpBWlylujMJj3GgabaCFgQ_pVPDsoWh7FWrx5u4l64MwdtaRL9xDRQKCQztZKgsxJKTdBxkPH2AHKPpyb637j0lcGTjOdINg8-WQd--tgc7EaaxVLrem4ThUdoXIYr_v3P7UVANZAOlXdcdhaiCjF5tZMZ1l0lHV_UXplBg6LNHNN98EsN8W1FX49_skYpTzh-BAGxresIQjkb1cCyRwzA",
+            "width": 3328
+          }
+        ],
+        "place_id": "ChIJq6oeLPpDwokRSitslAzLvzw",
+        "plus_code": {
+          "compound_code": "H488+XM Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8H488+XM"
+        },
+        "rating": 4.5,
+        "reference": "ChIJq6oeLPpDwokRSitslAzLvzw",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "food",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 12,
+        "vicinity": "2 Rockaway Point Boulevard, Far Rockaway"
+      }
+    ],
+    "bar": [],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56131240000001,
+            "lng": -73.8931953
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.56374284999999,
+              "lng": -73.8868305
+            },
+            "southwest": {
+              "lat": 40.56050225000001,
+              "lng": -73.89531690000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-354-4606",
+        "name": "Battery Harris East",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2822,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104596856248078658268\">Rouslan Valonen (LibertyToursLLC)</a>"
+            ],
+            "photo_reference": "AU_ZVEEeUxGWPCiHpbgL2sV_Z-lc1UKg9jm4D7hOSSYzt2dcVcTTgRErMc6UAOVLIA34QRlp86EX9mNjyuj5g5OwLoCobFkIH3t5We47iHtILUy7Nh3D4RNfSH0ZZJslXbPcXJ0-jJVSFy-7XVvdixzLbbTeYQbZswOQqwqBJBpwY3uXLKyY1YqH1chNlve-gRveGwuFwbAR_ZJC9WtZ5TQGstqCmowom_XM8Fp0lusxaWpbV_wA7Hs47s8ASGHAcjwX8Jks5V-QUgjHFW_RFJc_Vj-jatojpFcFFnwIAu-PAFGxeBaetvX7eQ21afxpreSon3_oQPMvIaNGWrax9BuzCghtLRWBIRhRLAKGkW4frVCRt9OCmNrGS4IP9bknU2Zlrt7FexpJJ6iA7oZIAcIYELMqQPAyfhVZtjT8QigvnfF3JNefJU35Y_LazgFGJcWl-XvhcgXJFZn5GhiP5GpWtb_Begkv7vNZcL4RwufqCZ_fmrHi4fBJTDz4S6Ebfv4lPHlLm5doTs86ckopEdwj562wdeRLzpsmgjb234YZc03s9PlaU2cGW7wrBPH-ulEwAMdlxuxQ6RfzAGMEvkiq00Zt2gohWOrrgwprF3geX_xX1Oj3KnH9kkUKRe1OopXL",
+            "width": 3400
+          }
+        ],
+        "place_id": "ChIJnzj4tstDwokRXEVUrwK-bjw",
+        "plus_code": {
+          "compound_code": "H464+GP Breezy Point, Queens, NY, USA",
+          "global_code": "87G8H464+GP"
+        },
+        "rating": 4.5,
+        "reference": "ChIJnzj4tstDwokRXEVUrwK-bjw",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 36,
+        "vicinity": "Fort Tilden, Breezy Point"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.558317,
+            "lng": -73.892557
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5597103302915,
+              "lng": -73.88927079999999
+            },
+            "southwest": {
+              "lat": 40.5570123697085,
+              "lng": -73.90241559999998
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Fort Tilden Beach",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103781258692678707860\">Consultant Albany</a>"
+            ],
+            "photo_reference": "AU_ZVEHiVKtGRpfxtUj0qF5A0taf31fcjXr3zE8taN9vSn2J6lwMrYDcy6NV-8NglND2rhr76i9efQbGVgDe6Rz3h29vE99MaDtcjb_RJBSpatsVp7n5T85AarGGGa0uX_euvgwIJ90HJn5GuX3DtbdW883T5t3SLuxq8b6AgttvtlpV_BXI1UKQg0I2nM3z0Ccnz8IRfP0oMqIUI67aX-J8ZzB4-aLjF38z3pVEfiHI_yCgAYltsD1Ez1BP_UlNyGRb4Lj1bH148dgpcG-uVmC_IZwo0rOau-5w8lGmzJo5Y2sv-vyT71As91r2j3kE4E5WBlvKrHf9ujHeVOxZel1Mj0bFwQUKK7pFy5_LxNtazGjYIJc-3xSs4Ja4Pa9hePqBQOQr44UETmSUMeXyWR9QUoKq8ZoyAkLevFOtzM9fRG3YLtm5Sarze0xnXrONkYbuedp6LXmo-Jb4BVTHGDd-pMxbW2uWxJp1bf2zl_M3TBJT_uhDS-IVvXoZVPW0nRyYLQ2AUkBZeNWPACNT2T77nE-XYG6KzO-eS7o18aA8QEDPAvJkvBVRtq9V8Ivjl8TwlUkzGm1vok3hlQ8kwsex_Vw_ejTPfMGmdNtHx4o0pfbA_oIKOCzKzLfAqE-Ht9GhnEuqcomW4JkZGdQq73iLf_BZlNY",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJz8TQfwBDwokR3QinR-9G6m8",
+        "rating": 5,
+        "reference": "ChIJz8TQfwBDwokR3QinR-9G6m8",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "H454+8X"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.567088,
+            "lng": -73.882577
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5684449802915,
+              "lng": -73.88120391970848
+            },
+            "southwest": {
+              "lat": 40.5657470197085,
+              "lng": -73.8839018802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rockaway Point Boulevard & Beach 169th Street",
+        "place_id": "ChIJD7HqUElCwokRBLEoaAyKF6I",
+        "plus_code": {
+          "compound_code": "H488+RX New York, NY, USA",
+          "global_code": "87G8H488+RX"
+        },
+        "rating": 5,
+        "reference": "ChIJD7HqUElCwokRBLEoaAyKF6I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.56736,
+            "lng": -73.88269799999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.5687075302915,
+              "lng": -73.8813537197085
+            },
+            "southwest": {
+              "lat": 40.56600956970851,
+              "lng": -73.8840516802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Beach 169 St/Rockaway Point Blvd",
+        "photos": [
+          {
+            "height": 2133,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+            ],
+            "photo_reference": "AU_ZVEHV5HHIUS2d3h66V9Qi9bkwrpCYAu9UMJeD2rGO35zpfkZ-rJdjdyw3xJ6hiTuAjCMP_6KxsHzl75EF6cxobGOETIoR0jCStxmb5TVn7teeH2BV0CVpSQdZ8fGAmgFND806-PZ2spuqhWx38ypIS7IjFPySXgJqkI8sYqXNgxGE55j7BlnhYUQdjOmlry4R7XD4vKZE337SLrntNy_SMli_uK-gyWcHncR0S0HXiFgu3t9CWjiZsaHg0fQ7htmaEyyPc-mwjGi5cdpwcBoddG59XJ6O6TAtjXSzKSvwZaCKAShlpA56cO17xuDJ0NMMujn7MP9T2zXdCf_ngEuJk3-pMKCyLGjlunEah3y4xjsC8nwQQWXpK0LSx16zsyDNTTGMvOKcWUoCtlVDYEAvQI_LRXtSWHZTIFWPEWXjpChVXEMmK8lvpUkSIOVZwj7rBI2g7hv3EeK-pW_MdJCuU-9cblmj8mGZ8fBQ3ZAEqdg0iicY_5vmijLkfBJRaQZj71_07svoqDlL04y9NUWlO6qfLhZ68h6TBSR4nbZXQMwLVmheH9KjtxGHAMgu5LLDqbNOXVCTEmF4fXjYOBNRwA5AGI7PpE0qgw-b1sHh-4GDeKB4IwpwmA1d4hkRow",
+            "width": 3405
+          }
+        ],
+        "place_id": "ChIJkeH_U0lCwokRNlTF2BjkNFY",
+        "plus_code": {
+          "compound_code": "H488+WW New York, NY, USA",
+          "global_code": "87G8H488+WW"
+        },
+        "rating": 3.4,
+        "reference": "ChIJkeH_U0lCwokRNlTF2BjkNFY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.5674424,
+          "lng": -73.8833319
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5687995802915,
+            "lng": -73.8819860697085
+          },
+          "southwest": {
+            "lat": 40.5661016197085,
+            "lng": -73.88468403029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "name": "Breezy Dogs Food Truck",
+      "photos": [
+        {
+          "height": 1826,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEGVtKMFG02HYjk5nJnmysn3HaNJdK1-kO5QVHz0pYAIm1G_Ejxw7XkvzYzWqllpcP4tstZzCj9WRAD-9q41WmmMh2ck9lUzGseT8_hRS9OJAktuBJEUnDjMMnJBeT5EFh60GShLe3YX60_be-r04oUk9n1FhrAP1BJbEQGAo6YQ5ui1RbSDgyJuU-QwqTqu8Ex6Za97kSQKmUzhP1kRkW4z9tUe6w7LXTh_RxsIoBm7FtPNKiX7eXAdOQmwMSGkfXqb6WDSLISd56iQjo9q97CNsEAtP03PnhFrIjS9y6Qjwsew3dmj64nW7Rf7ugXP-S-Njo01l7suMQbkidfGJGI-CPLwpfWk4peJ0tS8fZi--48DECrIKLvU5B-Om9H-Gv6gaAxbIP9p8zXojWG9wqwPNrGx7WfwR4-77JZ5sNRADGctvpBWlylujMJj3GgabaCFgQ_pVPDsoWh7FWrx5u4l64MwdtaRL9xDRQKCQztZKgsxJKTdBxkPH2AHKPpyb637j0lcGTjOdINg8-WQd--tgc7EaaxVLrem4ThUdoXIYr_v3P7UVANZAOlXdcdhaiCjF5tZMZ1l0lHV_UXplBg6LNHNN98EsN8W1FX49_skYpTzh-BAGxresIQjkb1cCyRwzA",
+          "width": 3328
+        }
+      ],
+      "place_id": "ChIJq6oeLPpDwokRSitslAzLvzw",
+      "plus_code": {
+        "compound_code": "H488+XM Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8H488+XM"
+      },
+      "rating": 4.5,
+      "reference": "ChIJq6oeLPpDwokRSitslAzLvzw",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 12,
+      "vicinity": "2 Rockaway Point Boulevard, Far Rockaway"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56131240000001,
+          "lng": -73.8931953
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.56374284999999,
+            "lng": -73.8868305
+          },
+          "southwest": {
+            "lat": 40.56050225000001,
+            "lng": -73.89531690000001
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-354-4606",
+      "name": "Battery Harris East",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2822,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104596856248078658268\">Rouslan Valonen (LibertyToursLLC)</a>"
+          ],
+          "photo_reference": "AU_ZVEEeUxGWPCiHpbgL2sV_Z-lc1UKg9jm4D7hOSSYzt2dcVcTTgRErMc6UAOVLIA34QRlp86EX9mNjyuj5g5OwLoCobFkIH3t5We47iHtILUy7Nh3D4RNfSH0ZZJslXbPcXJ0-jJVSFy-7XVvdixzLbbTeYQbZswOQqwqBJBpwY3uXLKyY1YqH1chNlve-gRveGwuFwbAR_ZJC9WtZ5TQGstqCmowom_XM8Fp0lusxaWpbV_wA7Hs47s8ASGHAcjwX8Jks5V-QUgjHFW_RFJc_Vj-jatojpFcFFnwIAu-PAFGxeBaetvX7eQ21afxpreSon3_oQPMvIaNGWrax9BuzCghtLRWBIRhRLAKGkW4frVCRt9OCmNrGS4IP9bknU2Zlrt7FexpJJ6iA7oZIAcIYELMqQPAyfhVZtjT8QigvnfF3JNefJU35Y_LazgFGJcWl-XvhcgXJFZn5GhiP5GpWtb_Begkv7vNZcL4RwufqCZ_fmrHi4fBJTDz4S6Ebfv4lPHlLm5doTs86ckopEdwj562wdeRLzpsmgjb234YZc03s9PlaU2cGW7wrBPH-ulEwAMdlxuxQ6RfzAGMEvkiq00Zt2gohWOrrgwprF3geX_xX1Oj3KnH9kkUKRe1OopXL",
+          "width": 3400
+        }
+      ],
+      "place_id": "ChIJnzj4tstDwokRXEVUrwK-bjw",
+      "plus_code": {
+        "compound_code": "H464+GP Breezy Point, Queens, NY, USA",
+        "global_code": "87G8H464+GP"
+      },
+      "rating": 4.5,
+      "reference": "ChIJnzj4tstDwokRXEVUrwK-bjw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 36,
+      "vicinity": "Fort Tilden, Breezy Point"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.558317,
+          "lng": -73.892557
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5597103302915,
+            "lng": -73.88927079999999
+          },
+          "southwest": {
+            "lat": 40.5570123697085,
+            "lng": -73.90241559999998
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Fort Tilden Beach",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103781258692678707860\">Consultant Albany</a>"
+          ],
+          "photo_reference": "AU_ZVEHiVKtGRpfxtUj0qF5A0taf31fcjXr3zE8taN9vSn2J6lwMrYDcy6NV-8NglND2rhr76i9efQbGVgDe6Rz3h29vE99MaDtcjb_RJBSpatsVp7n5T85AarGGGa0uX_euvgwIJ90HJn5GuX3DtbdW883T5t3SLuxq8b6AgttvtlpV_BXI1UKQg0I2nM3z0Ccnz8IRfP0oMqIUI67aX-J8ZzB4-aLjF38z3pVEfiHI_yCgAYltsD1Ez1BP_UlNyGRb4Lj1bH148dgpcG-uVmC_IZwo0rOau-5w8lGmzJo5Y2sv-vyT71As91r2j3kE4E5WBlvKrHf9ujHeVOxZel1Mj0bFwQUKK7pFy5_LxNtazGjYIJc-3xSs4Ja4Pa9hePqBQOQr44UETmSUMeXyWR9QUoKq8ZoyAkLevFOtzM9fRG3YLtm5Sarze0xnXrONkYbuedp6LXmo-Jb4BVTHGDd-pMxbW2uWxJp1bf2zl_M3TBJT_uhDS-IVvXoZVPW0nRyYLQ2AUkBZeNWPACNT2T77nE-XYG6KzO-eS7o18aA8QEDPAvJkvBVRtq9V8Ivjl8TwlUkzGm1vok3hlQ8kwsex_Vw_ejTPfMGmdNtHx4o0pfbA_oIKOCzKzLfAqE-Ht9GhnEuqcomW4JkZGdQq73iLf_BZlNY",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJz8TQfwBDwokR3QinR-9G6m8",
+      "rating": 5,
+      "reference": "ChIJz8TQfwBDwokR3QinR-9G6m8",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "H454+8X"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.567088,
+          "lng": -73.882577
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5684449802915,
+            "lng": -73.88120391970848
+          },
+          "southwest": {
+            "lat": 40.5657470197085,
+            "lng": -73.8839018802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Rockaway Point Boulevard & Beach 169th Street",
+      "place_id": "ChIJD7HqUElCwokRBLEoaAyKF6I",
+      "plus_code": {
+        "compound_code": "H488+RX New York, NY, USA",
+        "global_code": "87G8H488+RX"
+      },
+      "rating": 5,
+      "reference": "ChIJD7HqUElCwokRBLEoaAyKF6I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.56736,
+          "lng": -73.88269799999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.5687075302915,
+            "lng": -73.8813537197085
+          },
+          "southwest": {
+            "lat": 40.56600956970851,
+            "lng": -73.8840516802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Beach 169 St/Rockaway Point Blvd",
+      "photos": [
+        {
+          "height": 2133,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111652443594296819850\">Rick B</a>"
+          ],
+          "photo_reference": "AU_ZVEHV5HHIUS2d3h66V9Qi9bkwrpCYAu9UMJeD2rGO35zpfkZ-rJdjdyw3xJ6hiTuAjCMP_6KxsHzl75EF6cxobGOETIoR0jCStxmb5TVn7teeH2BV0CVpSQdZ8fGAmgFND806-PZ2spuqhWx38ypIS7IjFPySXgJqkI8sYqXNgxGE55j7BlnhYUQdjOmlry4R7XD4vKZE337SLrntNy_SMli_uK-gyWcHncR0S0HXiFgu3t9CWjiZsaHg0fQ7htmaEyyPc-mwjGi5cdpwcBoddG59XJ6O6TAtjXSzKSvwZaCKAShlpA56cO17xuDJ0NMMujn7MP9T2zXdCf_ngEuJk3-pMKCyLGjlunEah3y4xjsC8nwQQWXpK0LSx16zsyDNTTGMvOKcWUoCtlVDYEAvQI_LRXtSWHZTIFWPEWXjpChVXEMmK8lvpUkSIOVZwj7rBI2g7hv3EeK-pW_MdJCuU-9cblmj8mGZ8fBQ3ZAEqdg0iicY_5vmijLkfBJRaQZj71_07svoqDlL04y9NUWlO6qfLhZ68h6TBSR4nbZXQMwLVmheH9KjtxGHAMgu5LLDqbNOXVCTEmF4fXjYOBNRwA5AGI7PpE0qgw-b1sHh-4GDeKB4IwpwmA1d4hkRow",
+          "width": 3405
+        }
+      ],
+      "place_id": "ChIJkeH_U0lCwokRNlTF2BjkNFY",
+      "plus_code": {
+        "compound_code": "H488+WW New York, NY, USA",
+        "global_code": "87G8H488+WW"
+      },
+      "rating": 3.4,
+      "reference": "ChIJkeH_U0lCwokRNlTF2BjkNFY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "United States"
+    }
+  ]
+}

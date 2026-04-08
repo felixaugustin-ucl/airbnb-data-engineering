@@ -1,0 +1,1624 @@
+{
+  "source": "Google Places Nearby Search API",
+  "geojson_snapshot": "up_to_2026-02-13",
+  "search_radius_m": 1000,
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "run_started_at": "2026-04-06T14:06:55.506040+00:00",
+  "neighbourhoods": {
+    "Bayswater": {
+      "status": "skipped",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bayswater.json"
+    },
+    "Allerton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Allerton.json",
+      "fetched_at": "2026-04-06T14:07:10.127222+00:00",
+      "total_results": 139,
+      "new_global_unique": 139
+    },
+    "City Island": {
+      "status": "skipped",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/City_Island.json"
+    },
+    "Ditmars Steinway": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Ditmars_Steinway.json",
+      "fetched_at": "2026-04-06T14:07:17.842768+00:00",
+      "total_results": 34,
+      "new_global_unique": 34
+    },
+    "Ozone Park": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Ozone_Park.json",
+      "fetched_at": "2026-04-06T14:07:29.910025+00:00",
+      "total_results": 146,
+      "new_global_unique": 146
+    },
+    "Fordham": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Fordham.json",
+      "fetched_at": "2026-04-06T14:07:46.653375+00:00",
+      "total_results": 182,
+      "new_global_unique": 182
+    },
+    "Whitestone": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Whitestone.json",
+      "fetched_at": "2026-04-06T14:07:51.883830+00:00",
+      "total_results": 61,
+      "new_global_unique": 61
+    },
+    "Arden Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Arden_Heights.json",
+      "fetched_at": "2026-04-06T14:07:56.574816+00:00",
+      "total_results": 38,
+      "new_global_unique": 38
+    },
+    "Arrochar": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Arrochar.json",
+      "fetched_at": "2026-04-06T14:08:05.887527+00:00",
+      "total_results": 89,
+      "new_global_unique": 89
+    },
+    "Arverne": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Arverne.json",
+      "fetched_at": "2026-04-06T14:08:13.273436+00:00",
+      "total_results": 76,
+      "new_global_unique": 76
+    },
+    "Bay Ridge": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bay_Ridge.json",
+      "fetched_at": "2026-04-06T14:08:25.762652+00:00",
+      "total_results": 150,
+      "new_global_unique": 150
+    },
+    "Belmont": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Belmont.json",
+      "fetched_at": "2026-04-06T14:08:40.237600+00:00",
+      "total_results": 164,
+      "new_global_unique": 79
+    },
+    "Gerritsen Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Gerritsen_Beach.json",
+      "fetched_at": "2026-04-06T14:08:47.436790+00:00",
+      "total_results": 70,
+      "new_global_unique": 70
+    },
+    "Port Ivory": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Port_Ivory.json",
+      "fetched_at": "2026-04-06T14:08:49.861013+00:00",
+      "total_results": 18,
+      "new_global_unique": 18
+    },
+    "Soundview": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Soundview.json",
+      "fetched_at": "2026-04-06T14:09:02.104453+00:00",
+      "total_results": 141,
+      "new_global_unique": 141
+    },
+    "Astoria": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Astoria.json",
+      "fetched_at": "2026-04-06T14:09:23.839269+00:00",
+      "total_results": 223,
+      "new_global_unique": 223
+    },
+    "Bath Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bath_Beach.json",
+      "fetched_at": "2026-04-06T14:09:37.877141+00:00",
+      "total_results": 148,
+      "new_global_unique": 148
+    },
+    "Bayside": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bayside.json",
+      "fetched_at": "2026-04-06T14:09:50.128920+00:00",
+      "total_results": 107,
+      "new_global_unique": 107
+    },
+    "Battery Park City": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Battery_Park_City.json",
+      "fetched_at": "2026-04-06T14:10:16.942597+00:00",
+      "total_results": 280,
+      "new_global_unique": 280
+    },
+    "Bay Terrace": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bay_Terrace.json",
+      "fetched_at": "2026-04-06T14:10:21.779366+00:00",
+      "total_results": 32,
+      "new_global_unique": 32
+    },
+    "Bay Terrace, Staten Island": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bay_Terrace,_Staten_Island.json",
+      "fetched_at": "2026-04-06T14:10:24.218610+00:00",
+      "total_results": 32,
+      "new_global_unique": 32
+    },
+    "Baychester": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Baychester.json",
+      "fetched_at": "2026-04-06T14:10:38.327573+00:00",
+      "total_results": 142,
+      "new_global_unique": 142
+    },
+    "Bedford-Stuyvesant": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bedford-Stuyvesant.json",
+      "fetched_at": "2026-04-06T14:10:57.532199+00:00",
+      "total_results": 222,
+      "new_global_unique": 222
+    },
+    "Belle Harbor": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Belle_Harbor.json",
+      "fetched_at": "2026-04-06T14:11:02.295933+00:00",
+      "total_results": 53,
+      "new_global_unique": 53
+    },
+    "Bellerose": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bellerose.json",
+      "fetched_at": "2026-04-06T14:11:06.988670+00:00",
+      "total_results": 47,
+      "new_global_unique": 47
+    },
+    "Bensonhurst": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bensonhurst.json",
+      "fetched_at": "2026-04-06T14:11:19.319327+00:00",
+      "total_results": 140,
+      "new_global_unique": 140
+    },
+    "Bergen Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bergen_Beach.json",
+      "fetched_at": "2026-04-06T14:11:21.587296+00:00",
+      "total_results": 11,
+      "new_global_unique": 11
+    },
+    "Bloomfield": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bloomfield.json",
+      "fetched_at": "2026-04-06T14:11:23.819086+00:00",
+      "total_results": 7,
+      "new_global_unique": 7
+    },
+    "Boerum Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Boerum_Hill.json",
+      "fetched_at": "2026-04-06T14:11:48.537467+00:00",
+      "total_results": 242,
+      "new_global_unique": 242
+    },
+    "Borough Park": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Borough_Park.json",
+      "fetched_at": "2026-04-06T14:12:00.740610+00:00",
+      "total_results": 129,
+      "new_global_unique": 129
+    },
+    "Brighton Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Brighton_Beach.json",
+      "fetched_at": "2026-04-06T14:12:15.419160+00:00",
+      "total_results": 168,
+      "new_global_unique": 168
+    },
+    "Prospect-Lefferts Gardens": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Prospect-Lefferts_Gardens.json",
+      "fetched_at": "2026-04-06T14:12:34.215348+00:00",
+      "total_results": 212,
+      "new_global_unique": 212
+    },
+    "Mott Haven": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Mott_Haven.json",
+      "fetched_at": "2026-04-06T14:12:51.091666+00:00",
+      "total_results": 211,
+      "new_global_unique": 211
+    },
+    "Bronxdale": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bronxdale.json",
+      "fetched_at": "2026-04-06T14:13:03.373427+00:00",
+      "total_results": 138,
+      "new_global_unique": 123
+    },
+    "Breezy Point": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Breezy_Point.json",
+      "fetched_at": "2026-04-06T14:13:05.686246+00:00",
+      "total_results": 5,
+      "new_global_unique": 5
+    },
+    "Briarwood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Briarwood.json",
+      "fetched_at": "2026-04-06T14:13:20.339985+00:00",
+      "total_results": 169,
+      "new_global_unique": 169
+    },
+    "Brooklyn Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Brooklyn_Heights.json",
+      "fetched_at": "2026-04-06T14:13:47.300211+00:00",
+      "total_results": 270,
+      "new_global_unique": 243
+    },
+    "Brownsville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Brownsville.json",
+      "fetched_at": "2026-04-06T14:14:04.147969+00:00",
+      "total_results": 172,
+      "new_global_unique": 172
+    },
+    "Bull's Head": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bull's_Head.json",
+      "fetched_at": "2026-04-06T14:14:13.616073+00:00",
+      "total_results": 75,
+      "new_global_unique": 75
+    },
+    "Bushwick": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Bushwick.json",
+      "fetched_at": "2026-04-06T14:14:34.901369+00:00",
+      "total_results": 226,
+      "new_global_unique": 226
+    },
+    "Cambria Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Cambria_Heights.json",
+      "fetched_at": "2026-04-06T14:14:46.598218+00:00",
+      "total_results": 110,
+      "new_global_unique": 110
+    },
+    "Chelsea, Staten Island": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Chelsea,_Staten_Island.json",
+      "fetched_at": "2026-04-06T14:14:49.196009+00:00",
+      "total_results": 35,
+      "new_global_unique": 35
+    },
+    "Chinatown": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Chinatown.json",
+      "fetched_at": "2026-04-06T14:15:15.651087+00:00",
+      "total_results": 273,
+      "new_global_unique": 269
+    },
+    "Cypress Hills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Cypress_Hills.json",
+      "fetched_at": "2026-04-06T14:15:32.861902+00:00",
+      "total_results": 190,
+      "new_global_unique": 190
+    },
+    "Canarsie": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Canarsie.json",
+      "fetched_at": "2026-04-06T14:15:50.232584+00:00",
+      "total_results": 164,
+      "new_global_unique": 164
+    },
+    "Carroll Gardens": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Carroll_Gardens.json",
+      "fetched_at": "2026-04-06T14:16:12.111773+00:00",
+      "total_results": 236,
+      "new_global_unique": 153
+    },
+    "Castle Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Castle_Hill.json",
+      "fetched_at": "2026-04-06T14:16:19.164658+00:00",
+      "total_results": 68,
+      "new_global_unique": 68
+    },
+    "Castleton Corners": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Castleton_Corners.json",
+      "fetched_at": "2026-04-06T14:16:31.176386+00:00",
+      "total_results": 110,
+      "new_global_unique": 110
+    },
+    "Grant City": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Grant_City.json",
+      "fetched_at": "2026-04-06T14:16:43.218656+00:00",
+      "total_results": 131,
+      "new_global_unique": 131
+    },
+    "Charleston": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Charleston.json",
+      "fetched_at": "2026-04-06T14:16:45.620678+00:00",
+      "total_results": 24,
+      "new_global_unique": 24
+    },
+    "Chelsea": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Chelsea.json",
+      "fetched_at": "2026-04-06T14:17:11.808538+00:00",
+      "total_results": 262,
+      "new_global_unique": 262
+    },
+    "Civic Center": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Civic_Center.json",
+      "fetched_at": "2026-04-06T14:17:38.061308+00:00",
+      "total_results": 276,
+      "new_global_unique": 92
+    },
+    "Claremont Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Claremont_Village.json",
+      "fetched_at": "2026-04-06T14:17:52.345172+00:00",
+      "total_results": 172,
+      "new_global_unique": 172
+    },
+    "Clason Point": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Clason_Point.json",
+      "fetched_at": "2026-04-06T14:17:59.177806+00:00",
+      "total_results": 58,
+      "new_global_unique": 26
+    },
+    "Clifton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Clifton.json",
+      "fetched_at": "2026-04-06T14:18:11.819959+00:00",
+      "total_results": 149,
+      "new_global_unique": 149
+    },
+    "Clinton Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Clinton_Hill.json",
+      "fetched_at": "2026-04-06T14:18:33.668926+00:00",
+      "total_results": 231,
+      "new_global_unique": 231
+    },
+    "Co-op City": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Co-op_City.json",
+      "fetched_at": "2026-04-06T14:18:45.634192+00:00",
+      "total_results": 119,
+      "new_global_unique": 84
+    },
+    "Cobble Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Cobble_Hill.json",
+      "fetched_at": "2026-04-06T14:19:09.460456+00:00",
+      "total_results": 247,
+      "new_global_unique": 4
+    },
+    "College Point": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/College_Point.json",
+      "fetched_at": "2026-04-06T14:19:21.375062+00:00",
+      "total_results": 126,
+      "new_global_unique": 126
+    },
+    "Crown Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Crown_Heights.json",
+      "fetched_at": "2026-04-06T14:19:40.407438+00:00",
+      "total_results": 213,
+      "new_global_unique": 208
+    },
+    "Columbia St": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Columbia_St.json",
+      "fetched_at": "2026-04-06T14:19:54.498983+00:00",
+      "total_results": 141,
+      "new_global_unique": 70
+    },
+    "Concord": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Concord.json",
+      "fetched_at": "2026-04-06T14:20:04.072232+00:00",
+      "total_results": 90,
+      "new_global_unique": 80
+    },
+    "Concourse": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Concourse.json",
+      "fetched_at": "2026-04-06T14:20:18.795965+00:00",
+      "total_results": 183,
+      "new_global_unique": 177
+    },
+    "Concourse Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Concourse_Village.json",
+      "fetched_at": "2026-04-06T14:20:35.472941+00:00",
+      "total_results": 185,
+      "new_global_unique": 50
+    },
+    "Coney Island": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Coney_Island.json",
+      "fetched_at": "2026-04-06T14:20:47.413369+00:00",
+      "total_results": 142,
+      "new_global_unique": 141
+    },
+    "Corona": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Corona.json",
+      "fetched_at": "2026-04-06T14:21:02.136104+00:00",
+      "total_results": 170,
+      "new_global_unique": 170
+    },
+    "Mount Eden": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Mount_Eden.json",
+      "fetched_at": "2026-04-06T14:21:17.026094+00:00",
+      "total_results": 181,
+      "new_global_unique": 85
+    },
+    "Jamaica Hills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Jamaica_Hills.json",
+      "fetched_at": "2026-04-06T14:21:31.848212+00:00",
+      "total_results": 152,
+      "new_global_unique": 122
+    },
+    "Country Club": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Country_Club.json",
+      "fetched_at": "2026-04-06T14:21:36.359788+00:00",
+      "total_results": 26,
+      "new_global_unique": 26
+    },
+    "Mount Hope": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Mount_Hope.json",
+      "fetched_at": "2026-04-06T14:21:52.874623+00:00",
+      "total_results": 182,
+      "new_global_unique": 119
+    },
+    "DUMBO": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/DUMBO.json",
+      "fetched_at": "2026-04-06T14:22:19.219090+00:00",
+      "total_results": 273,
+      "new_global_unique": 128
+    },
+    "Dongan Hills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Dongan_Hills.json",
+      "fetched_at": "2026-04-06T14:22:24.166861+00:00",
+      "total_results": 33,
+      "new_global_unique": 33
+    },
+    "Douglaston": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Douglaston.json",
+      "fetched_at": "2026-04-06T14:22:26.650244+00:00",
+      "total_results": 35,
+      "new_global_unique": 32
+    },
+    "Downtown Brooklyn": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Downtown_Brooklyn.json",
+      "fetched_at": "2026-04-06T14:22:52.714423+00:00",
+      "total_results": 276,
+      "new_global_unique": 44
+    },
+    "Dyker Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Dyker_Heights.json",
+      "fetched_at": "2026-04-06T14:23:02.536125+00:00",
+      "total_results": 119,
+      "new_global_unique": 95
+    },
+    "Glen Oaks": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Glen_Oaks.json",
+      "fetched_at": "2026-04-06T14:23:07.287007+00:00",
+      "total_results": 54,
+      "new_global_unique": 54
+    },
+    "East Elmhurst": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/East_Elmhurst.json",
+      "fetched_at": "2026-04-06T14:23:21.706223+00:00",
+      "total_results": 154,
+      "new_global_unique": 154
+    },
+    "East Flatbush": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/East_Flatbush.json",
+      "fetched_at": "2026-04-06T14:23:38.628962+00:00",
+      "total_results": 175,
+      "new_global_unique": 175
+    },
+    "East Harlem": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/East_Harlem.json",
+      "fetched_at": "2026-04-06T14:24:00.343845+00:00",
+      "total_results": 223,
+      "new_global_unique": 223
+    },
+    "East Morrisania": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/East_Morrisania.json",
+      "fetched_at": "2026-04-06T14:24:12.412427+00:00",
+      "total_results": 145,
+      "new_global_unique": 120
+    },
+    "Eltingville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Eltingville.json",
+      "fetched_at": "2026-04-06T14:24:21.705163+00:00",
+      "total_results": 73,
+      "new_global_unique": 73
+    },
+    "Emerson Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Emerson_Hill.json",
+      "fetched_at": "2026-04-06T14:24:31.093846+00:00",
+      "total_results": 90,
+      "new_global_unique": 74
+    },
+    "Elmhurst": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Elmhurst.json",
+      "fetched_at": "2026-04-06T14:24:43.193233+00:00",
+      "total_results": 151,
+      "new_global_unique": 149
+    },
+    "Fieldston": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Fieldston.json",
+      "fetched_at": "2026-04-06T14:24:54.969046+00:00",
+      "total_results": 101,
+      "new_global_unique": 101
+    },
+    "East New York": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/East_New_York.json",
+      "fetched_at": "2026-04-06T14:25:04.384094+00:00",
+      "total_results": 90,
+      "new_global_unique": 84
+    },
+    "East Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/East_Village.json",
+      "fetched_at": "2026-04-06T14:25:31.098532+00:00",
+      "total_results": 275,
+      "new_global_unique": 270
+    },
+    "Eastchester": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Eastchester.json",
+      "fetched_at": "2026-04-06T14:25:38.350418+00:00",
+      "total_results": 74,
+      "new_global_unique": 66
+    },
+    "Edenwald": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Edenwald.json",
+      "fetched_at": "2026-04-06T14:25:52.298490+00:00",
+      "total_results": 140,
+      "new_global_unique": 113
+    },
+    "Edgemere": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Edgemere.json",
+      "fetched_at": "2026-04-06T14:25:54.752348+00:00",
+      "total_results": 37,
+      "new_global_unique": 37
+    },
+    "Glendale": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Glendale.json",
+      "fetched_at": "2026-04-06T14:26:01.931690+00:00",
+      "total_results": 64,
+      "new_global_unique": 64
+    },
+    "Far Rockaway": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Far_Rockaway.json",
+      "fetched_at": "2026-04-06T14:26:04.564584+00:00",
+      "total_results": 45,
+      "new_global_unique": 45
+    },
+    "Jamaica Estates": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Jamaica_Estates.json",
+      "fetched_at": "2026-04-06T14:26:16.580957+00:00",
+      "total_results": 135,
+      "new_global_unique": 82
+    },
+    "Financial District": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Financial_District.json",
+      "fetched_at": "2026-04-06T14:26:43.034000+00:00",
+      "total_results": 279,
+      "new_global_unique": 108
+    },
+    "Flatbush": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Flatbush.json",
+      "fetched_at": "2026-04-06T14:27:02.227968+00:00",
+      "total_results": 209,
+      "new_global_unique": 208
+    },
+    "Flatiron District": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Flatiron_District.json",
+      "fetched_at": "2026-04-06T14:27:28.895005+00:00",
+      "total_results": 273,
+      "new_global_unique": 270
+    },
+    "Flatlands": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Flatlands.json",
+      "fetched_at": "2026-04-06T14:27:43.508999+00:00",
+      "total_results": 159,
+      "new_global_unique": 159
+    },
+    "Laurelton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Laurelton.json",
+      "fetched_at": "2026-04-06T14:27:53.008865+00:00",
+      "total_results": 96,
+      "new_global_unique": 96
+    },
+    "Shore Acres": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Shore_Acres.json",
+      "fetched_at": "2026-04-06T14:28:02.403764+00:00",
+      "total_results": 84,
+      "new_global_unique": 66
+    },
+    "Flushing": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Flushing.json",
+      "fetched_at": "2026-04-06T14:28:21.343306+00:00",
+      "total_results": 211,
+      "new_global_unique": 211
+    },
+    "Gowanus": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Gowanus.json",
+      "fetched_at": "2026-04-06T14:28:43.136004+00:00",
+      "total_results": 232,
+      "new_global_unique": 151
+    },
+    "Forest Hills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Forest_Hills.json",
+      "fetched_at": "2026-04-06T14:28:57.446571+00:00",
+      "total_results": 159,
+      "new_global_unique": 159
+    },
+    "Fort Greene": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Fort_Greene.json",
+      "fetched_at": "2026-04-06T14:29:19.179232+00:00",
+      "total_results": 236,
+      "new_global_unique": 124
+    },
+    "Fort Hamilton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Fort_Hamilton.json",
+      "fetched_at": "2026-04-06T14:29:28.674817+00:00",
+      "total_results": 105,
+      "new_global_unique": 82
+    },
+    "Fort Wadsworth": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Fort_Wadsworth.json",
+      "fetched_at": "2026-04-06T14:29:33.270093+00:00",
+      "total_results": 41,
+      "new_global_unique": 16
+    },
+    "Fresh Meadows": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Fresh_Meadows.json",
+      "fetched_at": "2026-04-06T14:29:45.167530+00:00",
+      "total_results": 103,
+      "new_global_unique": 103
+    },
+    "Gramercy": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Gramercy.json",
+      "fetched_at": "2026-04-06T14:30:11.493784+00:00",
+      "total_results": 281,
+      "new_global_unique": 86
+    },
+    "Graniteville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Graniteville.json",
+      "fetched_at": "2026-04-06T14:30:23.381501+00:00",
+      "total_results": 116,
+      "new_global_unique": 103
+    },
+    "Gravesend": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Gravesend.json",
+      "fetched_at": "2026-04-06T14:30:33.027331+00:00",
+      "total_results": 101,
+      "new_global_unique": 100
+    },
+    "Kensington": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Kensington.json",
+      "fetched_at": "2026-04-06T14:30:47.197677+00:00",
+      "total_results": 159,
+      "new_global_unique": 125
+    },
+    "Kew Gardens": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Kew_Gardens.json",
+      "fetched_at": "2026-04-06T14:31:01.874062+00:00",
+      "total_results": 154,
+      "new_global_unique": 141
+    },
+    "Parkchester": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Parkchester.json",
+      "fetched_at": "2026-04-06T14:31:14.139672+00:00",
+      "total_results": 146,
+      "new_global_unique": 143
+    },
+    "Pelham Bay": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Pelham_Bay.json",
+      "fetched_at": "2026-04-06T14:31:26.274756+00:00",
+      "total_results": 130,
+      "new_global_unique": 125
+    },
+    "Great Kills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Great_Kills.json",
+      "fetched_at": "2026-04-06T14:31:31.213251+00:00",
+      "total_results": 52,
+      "new_global_unique": 4
+    },
+    "Huguenot": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Huguenot.json",
+      "fetched_at": "2026-04-06T14:31:36.165113+00:00",
+      "total_results": 41,
+      "new_global_unique": 28
+    },
+    "Greenpoint": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Greenpoint.json",
+      "fetched_at": "2026-04-06T14:31:58.162390+00:00",
+      "total_results": 245,
+      "new_global_unique": 245
+    },
+    "Greenwich Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Greenwich_Village.json",
+      "fetched_at": "2026-04-06T14:32:24.816426+00:00",
+      "total_results": 271,
+      "new_global_unique": 206
+    },
+    "Grymes Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Grymes_Hill.json",
+      "fetched_at": "2026-04-06T14:32:31.973223+00:00",
+      "total_results": 87,
+      "new_global_unique": 69
+    },
+    "Harlem": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Harlem.json",
+      "fetched_at": "2026-04-06T14:32:51.785581+00:00",
+      "total_results": 229,
+      "new_global_unique": 229
+    },
+    "Queens Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Queens_Village.json",
+      "fetched_at": "2026-04-06T14:33:03.696314+00:00",
+      "total_results": 125,
+      "new_global_unique": 125
+    },
+    "Hell's Kitchen": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Hell's_Kitchen.json",
+      "fetched_at": "2026-04-06T14:33:28.474331+00:00",
+      "total_results": 243,
+      "new_global_unique": 243
+    },
+    "Highbridge": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Highbridge.json",
+      "fetched_at": "2026-04-06T14:33:42.956982+00:00",
+      "total_results": 174,
+      "new_global_unique": 97
+    },
+    "Hollis": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Hollis.json",
+      "fetched_at": "2026-04-06T14:33:55.013199+00:00",
+      "total_results": 127,
+      "new_global_unique": 127
+    },
+    "Hollis Hills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Hollis_Hills.json",
+      "fetched_at": "2026-04-06T14:34:04.218925+00:00",
+      "total_results": 82,
+      "new_global_unique": 68
+    },
+    "Holliswood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Holliswood.json",
+      "fetched_at": "2026-04-06T14:34:09.044480+00:00",
+      "total_results": 64,
+      "new_global_unique": 49
+    },
+    "Howard Beach": {
+      "status": "skipped",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Howard_Beach.json"
+    },
+    "Howland Hook": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Howland_Hook.json",
+      "fetched_at": "2026-04-06T14:34:20.664044+00:00",
+      "total_results": 2,
+      "new_global_unique": 1
+    },
+    "Pelham Gardens": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Pelham_Gardens.json",
+      "fetched_at": "2026-04-06T14:34:30.090745+00:00",
+      "total_results": 100,
+      "new_global_unique": 34
+    },
+    "Hunts Point": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Hunts_Point.json",
+      "fetched_at": "2026-04-06T14:34:34.807927+00:00",
+      "total_results": 47,
+      "new_global_unique": 47
+    },
+    "Inwood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Inwood.json",
+      "fetched_at": "2026-04-06T14:34:51.742969+00:00",
+      "total_results": 182,
+      "new_global_unique": 182
+    },
+    "Jackson Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Jackson_Heights.json",
+      "fetched_at": "2026-04-06T14:35:13.270116+00:00",
+      "total_results": 210,
+      "new_global_unique": 177
+    },
+    "Jamaica": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Jamaica.json",
+      "fetched_at": "2026-04-06T14:35:24.889705+00:00",
+      "total_results": 110,
+      "new_global_unique": 110
+    },
+    "Morris Park": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Morris_Park.json",
+      "fetched_at": "2026-04-06T14:35:36.930821+00:00",
+      "total_results": 139,
+      "new_global_unique": 98
+    },
+    "Kew Gardens Hills": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Kew_Gardens_Hills.json",
+      "fetched_at": "2026-04-06T14:35:49.178894+00:00",
+      "total_results": 115,
+      "new_global_unique": 91
+    },
+    "Kingsbridge": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Kingsbridge.json",
+      "fetched_at": "2026-04-06T14:36:01.347825+00:00",
+      "total_results": 154,
+      "new_global_unique": 146
+    },
+    "Kips Bay": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Kips_Bay.json",
+      "fetched_at": "2026-04-06T14:36:23.035351+00:00",
+      "total_results": 239,
+      "new_global_unique": 183
+    },
+    "Lighthouse Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Lighthouse_Hill.json",
+      "fetched_at": "2026-04-06T14:36:27.590382+00:00",
+      "total_results": 39,
+      "new_global_unique": 39
+    },
+    "Little Italy": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Little_Italy.json",
+      "fetched_at": "2026-04-06T14:36:54.087662+00:00",
+      "total_results": 269,
+      "new_global_unique": 33
+    },
+    "Little Neck": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Little_Neck.json",
+      "fetched_at": "2026-04-06T14:37:03.838908+00:00",
+      "total_results": 110,
+      "new_global_unique": 104
+    },
+    "Morrisania": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Morrisania.json",
+      "fetched_at": "2026-04-06T14:37:15.865251+00:00",
+      "total_results": 147,
+      "new_global_unique": 113
+    },
+    "Murray Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Murray_Hill.json",
+      "fetched_at": "2026-04-06T14:37:42.042515+00:00",
+      "total_results": 257,
+      "new_global_unique": 206
+    },
+    "Long Island City": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Long_Island_City.json",
+      "fetched_at": "2026-04-06T14:38:03.831200+00:00",
+      "total_results": 240,
+      "new_global_unique": 216
+    },
+    "Longwood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Longwood.json",
+      "fetched_at": "2026-04-06T14:38:16.605889+00:00",
+      "total_results": 149,
+      "new_global_unique": 117
+    },
+    "Lower East Side": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Lower_East_Side.json",
+      "fetched_at": "2026-04-06T14:38:42.977170+00:00",
+      "total_results": 263,
+      "new_global_unique": 178
+    },
+    "Manhattan Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Manhattan_Beach.json",
+      "fetched_at": "2026-04-06T14:38:47.908823+00:00",
+      "total_results": 69,
+      "new_global_unique": 56
+    },
+    "Marble Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Marble_Hill.json",
+      "fetched_at": "2026-04-06T14:39:00.059575+00:00",
+      "total_results": 156,
+      "new_global_unique": 25
+    },
+    "Midtown": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Midtown.json",
+      "fetched_at": "2026-04-06T14:39:27.329667+00:00",
+      "total_results": 265,
+      "new_global_unique": 257
+    },
+    "Midwood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Midwood.json",
+      "fetched_at": "2026-04-06T14:39:39.275949+00:00",
+      "total_results": 141,
+      "new_global_unique": 141
+    },
+    "Norwood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Norwood.json",
+      "fetched_at": "2026-04-06T14:39:51.727917+00:00",
+      "total_results": 146,
+      "new_global_unique": 146
+    },
+    "Oakwood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Oakwood.json",
+      "fetched_at": "2026-04-06T14:39:58.654633+00:00",
+      "total_results": 57,
+      "new_global_unique": 57
+    },
+    "Morris Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Morris_Heights.json",
+      "fetched_at": "2026-04-06T14:40:13.360208+00:00",
+      "total_results": 165,
+      "new_global_unique": 88
+    },
+    "Pleasant Plains": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Pleasant_Plains.json",
+      "fetched_at": "2026-04-06T14:40:20.853267+00:00",
+      "total_results": 74,
+      "new_global_unique": 74
+    },
+    "Mariners Harbor": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Mariners_Harbor.json",
+      "fetched_at": "2026-04-06T14:40:27.814966+00:00",
+      "total_results": 71,
+      "new_global_unique": 65
+    },
+    "Maspeth": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Maspeth.json",
+      "fetched_at": "2026-04-06T14:40:32.639689+00:00",
+      "total_results": 47,
+      "new_global_unique": 47
+    },
+    "Melrose": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Melrose.json",
+      "fetched_at": "2026-04-06T14:40:49.530201+00:00",
+      "total_results": 181,
+      "new_global_unique": 23
+    },
+    "Middle Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Middle_Village.json",
+      "fetched_at": "2026-04-06T14:40:58.943376+00:00",
+      "total_results": 98,
+      "new_global_unique": 96
+    },
+    "Midland Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Midland_Beach.json",
+      "fetched_at": "2026-04-06T14:41:01.351862+00:00",
+      "total_results": 31,
+      "new_global_unique": 15
+    },
+    "Mill Basin": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Mill_Basin.json",
+      "fetched_at": "2026-04-06T14:41:11.076732+00:00",
+      "total_results": 106,
+      "new_global_unique": 96
+    },
+    "Morningside Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Morningside_Heights.json",
+      "fetched_at": "2026-04-06T14:41:35.197678+00:00",
+      "total_results": 239,
+      "new_global_unique": 216
+    },
+    "Olinville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Olinville.json",
+      "fetched_at": "2026-04-06T14:41:49.461568+00:00",
+      "total_results": 149,
+      "new_global_unique": 128
+    },
+    "Navy Yard": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Navy_Yard.json",
+      "fetched_at": "2026-04-06T14:42:03.817715+00:00",
+      "total_results": 175,
+      "new_global_unique": 122
+    },
+    "Neponsit": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Neponsit.json",
+      "fetched_at": "2026-04-06T14:42:06.329404+00:00",
+      "total_results": 23,
+      "new_global_unique": 12
+    },
+    "New Brighton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/New_Brighton.json",
+      "fetched_at": "2026-04-06T14:42:15.746726+00:00",
+      "total_results": 108,
+      "new_global_unique": 108
+    },
+    "New Dorp": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/New_Dorp.json",
+      "fetched_at": "2026-04-06T14:42:27.671694+00:00",
+      "total_results": 131,
+      "new_global_unique": 81
+    },
+    "New Dorp Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/New_Dorp_Beach.json",
+      "fetched_at": "2026-04-06T14:42:34.724320+00:00",
+      "total_results": 60,
+      "new_global_unique": 44
+    },
+    "New Springville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/New_Springville.json",
+      "fetched_at": "2026-04-06T14:42:46.824255+00:00",
+      "total_results": 93,
+      "new_global_unique": 88
+    },
+    "NoHo": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/NoHo.json",
+      "fetched_at": "2026-04-06T14:43:13.624727+00:00",
+      "total_results": 276,
+      "new_global_unique": 70
+    },
+    "Nolita": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Nolita.json",
+      "fetched_at": "2026-04-06T14:43:39.569046+00:00",
+      "total_results": 271,
+      "new_global_unique": 18
+    },
+    "North Riverdale": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/North_Riverdale.json",
+      "fetched_at": "2026-04-06T14:43:46.594466+00:00",
+      "total_results": 58,
+      "new_global_unique": 54
+    },
+    "Park Slope": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Park_Slope.json",
+      "fetched_at": "2026-04-06T14:44:08.119039+00:00",
+      "total_results": 238,
+      "new_global_unique": 187
+    },
+    "Port Morris": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Port_Morris.json",
+      "fetched_at": "2026-04-06T14:44:15.885211+00:00",
+      "total_results": 73,
+      "new_global_unique": 73
+    },
+    "Port Richmond": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Port_Richmond.json",
+      "fetched_at": "2026-04-06T14:44:28.034362+00:00",
+      "total_results": 126,
+      "new_global_unique": 122
+    },
+    "Prince's Bay": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Prince's_Bay.json",
+      "fetched_at": "2026-04-06T14:44:33.198837+00:00",
+      "total_results": 40,
+      "new_global_unique": 40
+    },
+    "Prospect Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Prospect_Heights.json",
+      "fetched_at": "2026-04-06T14:44:57.391283+00:00",
+      "total_results": 249,
+      "new_global_unique": 96
+    },
+    "Randall Manor": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Randall_Manor.json",
+      "fetched_at": "2026-04-06T14:45:04.896547+00:00",
+      "total_results": 87,
+      "new_global_unique": 87
+    },
+    "Riverdale": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Riverdale.json",
+      "fetched_at": "2026-04-06T14:45:09.753817+00:00",
+      "total_results": 31,
+      "new_global_unique": 1
+    },
+    "Silver Lake": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Silver_Lake.json",
+      "fetched_at": "2026-04-06T14:45:19.067003+00:00",
+      "total_results": 84,
+      "new_global_unique": 49
+    },
+    "SoHo": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/SoHo.json",
+      "fetched_at": "2026-04-06T14:45:45.489132+00:00",
+      "total_results": 267,
+      "new_global_unique": 136
+    },
+    "Woodrow": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Woodrow.json",
+      "fetched_at": "2026-04-06T14:45:50.251849+00:00",
+      "total_results": 52,
+      "new_global_unique": 52
+    },
+    "Red Hook": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Red_Hook.json",
+      "fetched_at": "2026-04-06T14:45:57.891691+00:00",
+      "total_results": 97,
+      "new_global_unique": 72
+    },
+    "Rego Park": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Rego_Park.json",
+      "fetched_at": "2026-04-06T14:46:12.636723+00:00",
+      "total_results": 147,
+      "new_global_unique": 121
+    },
+    "Richmond Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Richmond_Hill.json",
+      "fetched_at": "2026-04-06T14:46:24.558812+00:00",
+      "total_results": 152,
+      "new_global_unique": 112
+    },
+    "Richmondtown": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Richmondtown.json",
+      "fetched_at": "2026-04-06T14:46:31.745738+00:00",
+      "total_results": 69,
+      "new_global_unique": 23
+    },
+    "Ridgewood": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Ridgewood.json",
+      "fetched_at": "2026-04-06T14:46:54.144056+00:00",
+      "total_results": 227,
+      "new_global_unique": 180
+    },
+    "Sea Gate": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Sea_Gate.json",
+      "fetched_at": "2026-04-06T14:46:58.756009+00:00",
+      "total_results": 41,
+      "new_global_unique": 15
+    },
+    "Rockaway Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Rockaway_Beach.json",
+      "fetched_at": "2026-04-06T14:47:08.111578+00:00",
+      "total_results": 96,
+      "new_global_unique": 76
+    },
+    "Roosevelt Island": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Roosevelt_Island.json",
+      "fetched_at": "2026-04-06T14:47:27.387502+00:00",
+      "total_results": 215,
+      "new_global_unique": 215
+    },
+    "Rosebank": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Rosebank.json",
+      "fetched_at": "2026-04-06T14:47:37.129027+00:00",
+      "total_results": 106,
+      "new_global_unique": 4
+    },
+    "Rosedale": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Rosedale.json",
+      "fetched_at": "2026-04-06T14:47:39.549715+00:00",
+      "total_results": 17,
+      "new_global_unique": 17
+    },
+    "Rossville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Rossville.json",
+      "fetched_at": "2026-04-06T14:47:44.331567+00:00",
+      "total_results": 33,
+      "new_global_unique": 33
+    },
+    "Schuylerville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Schuylerville.json",
+      "fetched_at": "2026-04-06T14:47:56.975606+00:00",
+      "total_results": 136,
+      "new_global_unique": 104
+    },
+    "Sheepshead Bay": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Sheepshead_Bay.json",
+      "fetched_at": "2026-04-06T14:48:06.276798+00:00",
+      "total_results": 98,
+      "new_global_unique": 27
+    },
+    "South Beach": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/South_Beach.json",
+      "fetched_at": "2026-04-06T14:48:10.997225+00:00",
+      "total_results": 34,
+      "new_global_unique": 3
+    },
+    "South Ozone Park": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/South_Ozone_Park.json",
+      "fetched_at": "2026-04-06T14:48:23.064567+00:00",
+      "total_results": 125,
+      "new_global_unique": 125
+    },
+    "South Slope": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/South_Slope.json",
+      "fetched_at": "2026-04-06T14:48:44.906111+00:00",
+      "total_results": 229,
+      "new_global_unique": 194
+    },
+    "Springfield Gardens": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Springfield_Gardens.json",
+      "fetched_at": "2026-04-06T14:48:59.329767+00:00",
+      "total_results": 151,
+      "new_global_unique": 151
+    },
+    "Spuyten Duyvil": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Spuyten_Duyvil.json",
+      "fetched_at": "2026-04-06T14:49:01.909301+00:00",
+      "total_results": 41,
+      "new_global_unique": 14
+    },
+    "St. Albans": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/St._Albans.json",
+      "fetched_at": "2026-04-06T14:49:17.832125+00:00",
+      "total_results": 137,
+      "new_global_unique": 114
+    },
+    "Tompkinsville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Tompkinsville.json",
+      "fetched_at": "2026-04-06T14:49:27.737621+00:00",
+      "total_results": 131,
+      "new_global_unique": 59
+    },
+    "St. George": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/St._George.json",
+      "fetched_at": "2026-04-06T14:49:39.823515+00:00",
+      "total_results": 144,
+      "new_global_unique": 133
+    },
+    "Stapleton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Stapleton.json",
+      "fetched_at": "2026-04-06T14:49:53.996245+00:00",
+      "total_results": 157,
+      "new_global_unique": 23
+    },
+    "Stuyvesant Town": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Stuyvesant_Town.json",
+      "fetched_at": "2026-04-06T14:50:18.139590+00:00",
+      "total_results": 258,
+      "new_global_unique": 108
+    },
+    "Sunnyside": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Sunnyside.json",
+      "fetched_at": "2026-04-06T14:50:37.020265+00:00",
+      "total_results": 195,
+      "new_global_unique": 192
+    },
+    "Van Nest": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Van_Nest.json",
+      "fetched_at": "2026-04-06T14:50:51.268025+00:00",
+      "total_results": 150,
+      "new_global_unique": 71
+    },
+    "Sunset Park": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Sunset_Park.json",
+      "fetched_at": "2026-04-06T14:51:03.450361+00:00",
+      "total_results": 127,
+      "new_global_unique": 127
+    },
+    "Theater District": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Theater_District.json",
+      "fetched_at": "2026-04-06T14:51:30.028057+00:00",
+      "total_results": 264,
+      "new_global_unique": 88
+    },
+    "Throgs Neck": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Throgs_Neck.json",
+      "fetched_at": "2026-04-06T14:51:39.563903+00:00",
+      "total_results": 101,
+      "new_global_unique": 101
+    },
+    "Todt Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Todt_Hill.json",
+      "fetched_at": "2026-04-06T14:51:42.135178+00:00",
+      "total_results": 36,
+      "new_global_unique": 29
+    },
+    "Tottenville": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Tottenville.json",
+      "fetched_at": "2026-04-06T14:51:46.976197+00:00",
+      "total_results": 60,
+      "new_global_unique": 60
+    },
+    "Tremont": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Tremont.json",
+      "fetched_at": "2026-04-06T14:51:58.965130+00:00",
+      "total_results": 155,
+      "new_global_unique": 98
+    },
+    "Tribeca": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Tribeca.json",
+      "fetched_at": "2026-04-06T14:52:25.174112+00:00",
+      "total_results": 274,
+      "new_global_unique": 124
+    },
+    "Two Bridges": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Two_Bridges.json",
+      "fetched_at": "2026-04-06T14:52:52.041799+00:00",
+      "total_results": 285,
+      "new_global_unique": 55
+    },
+    "Vinegar Hill": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Vinegar_Hill.json",
+      "fetched_at": "2026-04-06T14:53:13.487910+00:00",
+      "total_results": 222,
+      "new_global_unique": 31
+    },
+    "Woodside": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Woodside.json",
+      "fetched_at": "2026-04-06T14:53:34.723723+00:00",
+      "total_results": 215,
+      "new_global_unique": 202
+    },
+    "Unionport": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Unionport.json",
+      "fetched_at": "2026-04-06T14:53:46.725818+00:00",
+      "total_results": 143,
+      "new_global_unique": 83
+    },
+    "University Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/University_Heights.json",
+      "fetched_at": "2026-04-06T14:54:01.025468+00:00",
+      "total_results": 171,
+      "new_global_unique": 47
+    },
+    "Upper East Side": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Upper_East_Side.json",
+      "fetched_at": "2026-04-06T14:54:22.452277+00:00",
+      "total_results": 236,
+      "new_global_unique": 225
+    },
+    "Upper West Side": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Upper_West_Side.json",
+      "fetched_at": "2026-04-06T14:54:44.388436+00:00",
+      "total_results": 230,
+      "new_global_unique": 230
+    },
+    "Windsor Terrace": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Windsor_Terrace.json",
+      "fetched_at": "2026-04-06T14:54:58.471402+00:00",
+      "total_results": 160,
+      "new_global_unique": 76
+    },
+    "Wakefield": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Wakefield.json",
+      "fetched_at": "2026-04-06T14:55:14.968011+00:00",
+      "total_results": 186,
+      "new_global_unique": 186
+    },
+    "Washington Heights": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Washington_Heights.json",
+      "fetched_at": "2026-04-06T14:55:28.122355+00:00",
+      "total_results": 161,
+      "new_global_unique": 150
+    },
+    "West Brighton": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/West_Brighton.json",
+      "fetched_at": "2026-04-06T14:55:39.912257+00:00",
+      "total_results": 123,
+      "new_global_unique": 85
+    },
+    "West Farms": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/West_Farms.json",
+      "fetched_at": "2026-04-06T14:55:51.887603+00:00",
+      "total_results": 154,
+      "new_global_unique": 52
+    },
+    "Woodhaven": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Woodhaven.json",
+      "fetched_at": "2026-04-06T14:56:03.817561+00:00",
+      "total_results": 132,
+      "new_global_unique": 132
+    },
+    "Woodlawn": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Woodlawn.json",
+      "fetched_at": "2026-04-06T14:56:08.855238+00:00",
+      "total_results": 78,
+      "new_global_unique": 74
+    },
+    "West Village": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/West_Village.json",
+      "fetched_at": "2026-04-06T14:56:35.719208+00:00",
+      "total_results": 257,
+      "new_global_unique": 143
+    },
+    "Westchester Square": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Westchester_Square.json",
+      "fetched_at": "2026-04-06T14:56:47.611874+00:00",
+      "total_results": 141,
+      "new_global_unique": 23
+    },
+    "Westerleigh": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Westerleigh.json",
+      "fetched_at": "2026-04-06T14:56:59.748042+00:00",
+      "total_results": 131,
+      "new_global_unique": 123
+    },
+    "Williamsbridge": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Williamsbridge.json",
+      "fetched_at": "2026-04-06T14:57:14.033981+00:00",
+      "total_results": 162,
+      "new_global_unique": 66
+    },
+    "Williamsburg": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Williamsburg.json",
+      "fetched_at": "2026-04-06T14:57:37.714132+00:00",
+      "total_results": 237,
+      "new_global_unique": 230
+    },
+    "Willowbrook": {
+      "status": "ok",
+      "file": "/Users/felixaugustin/Documents/GitHub/Data-Engineering-Individual/project/data_pipeline/raw/places/Willowbrook.json",
+      "fetched_at": "2026-04-06T14:57:44.815328+00:00",
+      "total_results": 63,
+      "new_global_unique": 25
+    }
+  },
+  "run_finished_at": "2026-04-06T14:57:45.031230+00:00",
+  "summary": {
+    "neighbourhoods_total": 233,
+    "neighbourhoods_fetched": 230,
+    "neighbourhoods_skipped": 3,
+    "neighbourhoods_failed": 0,
+    "global_unique_place_ids": 24813
+  }
+}

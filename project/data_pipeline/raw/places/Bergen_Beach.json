@@ -1,0 +1,879 @@
+{
+  "neighbourhood": "Bergen Beach",
+  "centroid": {
+    "lat": 40.613718537572254,
+    "lon": -73.89762596098265
+  },
+  "fetched_at": "2026-04-06T14:11:21.587296+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [],
+    "bar": [],
+    "lodging": [],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6187957,
+            "lng": -73.89888839999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6199537302915,
+              "lng": -73.8978182197085
+            },
+            "southwest": {
+              "lat": 40.6172557697085,
+              "lng": -73.90051618029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "McGuire Fields",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115425261636893744457\">ravensley rene</a>"
+            ],
+            "photo_reference": "AU_ZVEF01TjOJvqbVjPqFZWAKm3Sqyvzse-7jb3hLplJmXqJ0d-TywyLSfmbkI7LaIoHTS5mxpXT0C1xg36zFl9gKnLEEIZ46L-n13vUZu05-XCH0iTsqc1auY7SU7VvE17F-Nd8rpQmObuhS7cGXartIWsXgaSedCRLOv-_UfX06wfoa53dTcNDosRsbV17Uo2g1QoA6DvokJbGzKA02Vts3vz--d7sWJ5If_GIK7C9VK7I_mAa6gtDyYi_eWGSfcY1iHMMcu-ryLLnuthY3DfK3a2TacCkTKjKcvFYsL-ywDeVBxFaR78e0vEyiCy00d5XVvxtQfDEW-3RewcUOQ3OZ0NjfUV-xTWLg1JYmObAo5y86OJZqSWInCK00JuRttneipURvbVezyIPOWlPnpLS87pDQJZI4QqLde7XE6j5jcbBKzHPuGjG1N6wUdMx1qk_MQG3Iszh0C_g4NdUyduw49gtoi8MUypd_nbscTcSjDED9uOAE2hENxsMAd1tq7csSaU1tdjDPiVLbPsUxRoBDy7SoXnri3_a2zBgsA3GUH0-OrHUW98MO4taq7rEqBCB3ZI3QH7cAObS5iEBtRqmMCAEe0ZJACly5aXzE0_CR2IfvQUArbGdveU2uGyf1uwJj4bgYFs5",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJiQa64S1DwokRIvOZopJDMfs",
+        "plus_code": {
+          "compound_code": "J492+GC Brooklyn, NY, USA",
+          "global_code": "87G8J492+GC"
+        },
+        "rating": 4.5,
+        "reference": "ChIJiQa64S1DwokRIvOZopJDMfs",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 201,
+        "vicinity": "Bergen Avenue, Brooklyn"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.611844,
+            "lng": -73.90665249999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.61318963029149,
+              "lng": -73.9053459197085
+            },
+            "southwest": {
+              "lat": 40.61049166970849,
+              "lng": -73.9080438802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St / Mayfair Dr N",
+        "place_id": "ChIJl0CRXzlDwokRmHWvoR4Dmns",
+        "plus_code": {
+          "compound_code": "J36V+P8 New York, NY, USA",
+          "global_code": "87G8J36V+P8"
+        },
+        "reference": "ChIJl0CRXzlDwokRmHWvoR4Dmns",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.611668,
+            "lng": -73.90653999999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6130171802915,
+              "lng": -73.90524491970848
+            },
+            "southwest": {
+              "lat": 40.6103192197085,
+              "lng": -73.9079428802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Mayfair Dr N",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106926722551645327519\">John</a>"
+            ],
+            "photo_reference": "AU_ZVEEKP-pDsUQyt4DkPE3J9-U8idnXpvlP2nCzsYreIVCjBE_iQ9IfaRGFJf5oNR4XDegiMrpQIwuYZOpKBDc5xk5djeKCiL32EpEqvfsIurIdbL5CWhCoJ4Et-bHkkB-838mc9FsErYqZt8I983a4AL69cghmV4Nm6NZxBp_MJr_H0oH1kuJTGGtXzPC1D8KWag1oxwmuV05wQ7DrKwuIfxM-dH02ipoLxfATtRYYGpFM41EJ4QVNlkOB9v5h8QHkF85EvwQ-ntIAoTQymJ6lXjhsBWOan98IRBbbuGLlX66q5SLL-RzYA19BOWjR-GBa5QVSDROHBo9u_nG6Og9L1aV9hDN5-v9nvU8-s7yLlVTBCqDlyEoUyi0esasa7eYCACqIve_JT8qwmAnYJc6xydjc-L_7v8IOOgiqQC-uUG9Kq0ylW6MR7CPk3_4L0LMjkN5q4YZ2f6kT8U-j1ByhOUs381H43YqzbGlGEodWv7l7y7poxoa4KHw5YhkAKQ_QqR9ceZe2nt2tifXS1-A9c4XBjxN0jwi9Em5efe5nIUIFjK_yEd3bzfdkShK0XJK-LpcM42F2FKMK9cnlt2xC_UP_kXD8JeyTzMT8yA-QAEgXj0gCSmENV52-XH_xs8ADH4Uujvyu",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJkYLv4TtDwokRLdg10Ff11Nc",
+        "plus_code": {
+          "compound_code": "J36V+M9 New York, NY, USA",
+          "global_code": "87G8J36V+M9"
+        },
+        "rating": 5,
+        "reference": "ChIJkYLv4TtDwokRLdg10Ff11Nc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.612022,
+            "lng": -73.906761
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.61337413029149,
+              "lng": -73.90537496970849
+            },
+            "southwest": {
+              "lat": 40.6106761697085,
+              "lng": -73.9080729302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Mayfair Dr North",
+        "place_id": "ChIJu51hYDlDwokRN5_dMpVSMM8",
+        "plus_code": {
+          "compound_code": "J36V+R7 New York, NY, USA",
+          "global_code": "87G8J36V+R7"
+        },
+        "reference": "ChIJu51hYDlDwokRN5_dMpVSMM8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.613712,
+            "lng": -73.907135
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.61504513029151,
+              "lng": -73.90583076970849
+            },
+            "southwest": {
+              "lat": 40.61234716970851,
+              "lng": -73.9085287302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Ohio Walk",
+        "place_id": "ChIJZ0FVhDlDwokR8dCXphFGMsU",
+        "plus_code": {
+          "compound_code": "J37V+F4 New York, NY, USA",
+          "global_code": "87G8J37V+F4"
+        },
+        "rating": 5,
+        "reference": "ChIJZ0FVhDlDwokR8dCXphFGMsU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.613884,
+            "lng": -73.90736249999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.61522198029149,
+              "lng": -73.9060423197085
+            },
+            "southwest": {
+              "lat": 40.61252401970849,
+              "lng": -73.90874028029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St / Ohio Walk",
+        "place_id": "ChIJI8uomjlDwokR4z8JcCKFM0U",
+        "plus_code": {
+          "compound_code": "J37V+H3 New York, NY, USA",
+          "global_code": "87G8J37V+H3"
+        },
+        "reference": "ChIJI8uomjlDwokR4z8JcCKFM0U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.614056,
+            "lng": -73.90759299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6154249302915,
+              "lng": -73.90619731970848
+            },
+            "southwest": {
+              "lat": 40.6127269697085,
+              "lng": -73.9088952802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Ohio Walk",
+        "place_id": "ChIJSUjmkDlDwokR5nUp-X0rfbQ",
+        "plus_code": {
+          "compound_code": "J37R+JX New York, NY, USA",
+          "global_code": "87G8J37R+JX"
+        },
+        "reference": "ChIJSUjmkDlDwokR5nUp-X0rfbQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60994,
+            "lng": -73.907127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6112784302915,
+              "lng": -73.90573356970849
+            },
+            "southwest": {
+              "lat": 40.6085804697085,
+              "lng": -73.90843153029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Bassett Ave",
+        "place_id": "ChIJNdlepD5DwokRWFR0Otn4S9I",
+        "plus_code": {
+          "compound_code": "J35V+X4 New York, NY, USA",
+          "global_code": "87G8J35V+X4"
+        },
+        "reference": "ChIJNdlepD5DwokRWFR0Otn4S9I",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.60977099999999,
+            "lng": -73.9071025
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6111084802915,
+              "lng": -73.90571266970848
+            },
+            "southwest": {
+              "lat": 40.6084105197085,
+              "lng": -73.9084106302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St / Bassett Av",
+        "place_id": "ChIJXV2Yoz5DwokR_rEbo4xg6gk",
+        "plus_code": {
+          "compound_code": "J35V+W5 New York, NY, USA",
+          "global_code": "87G8J35V+W5"
+        },
+        "reference": "ChIJXV2Yoz5DwokR_rEbo4xg6gk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.609604,
+            "lng": -73.907074
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6109675802915,
+              "lng": -73.9057736197085
+            },
+            "southwest": {
+              "lat": 40.6082696197085,
+              "lng": -73.9084715802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Bassett Ave",
+        "place_id": "ChIJXe5poj5DwokRb2kzZmqm6f0",
+        "plus_code": {
+          "compound_code": "J35V+R5 New York, NY, USA",
+          "global_code": "87G8J35V+R5"
+        },
+        "reference": "ChIJXe5poj5DwokRb2kzZmqm6f0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.615715,
+            "lng": -73.90898899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6170366802915,
+              "lng": -73.90768261970848
+            },
+            "southwest": {
+              "lat": 40.6143387197085,
+              "lng": -73.9103805802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "E 66 St/Strickland Ave",
+        "place_id": "ChIJi6TX1jlDwokR3qZuv30atl4",
+        "plus_code": {
+          "compound_code": "J38R+7C New York, NY, USA",
+          "global_code": "87G8J38R+7C"
+        },
+        "reference": "ChIJi6TX1jlDwokR3qZuv30atl4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6187957,
+          "lng": -73.89888839999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6199537302915,
+            "lng": -73.8978182197085
+          },
+          "southwest": {
+            "lat": 40.6172557697085,
+            "lng": -73.90051618029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "McGuire Fields",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115425261636893744457\">ravensley rene</a>"
+          ],
+          "photo_reference": "AU_ZVEF01TjOJvqbVjPqFZWAKm3Sqyvzse-7jb3hLplJmXqJ0d-TywyLSfmbkI7LaIoHTS5mxpXT0C1xg36zFl9gKnLEEIZ46L-n13vUZu05-XCH0iTsqc1auY7SU7VvE17F-Nd8rpQmObuhS7cGXartIWsXgaSedCRLOv-_UfX06wfoa53dTcNDosRsbV17Uo2g1QoA6DvokJbGzKA02Vts3vz--d7sWJ5If_GIK7C9VK7I_mAa6gtDyYi_eWGSfcY1iHMMcu-ryLLnuthY3DfK3a2TacCkTKjKcvFYsL-ywDeVBxFaR78e0vEyiCy00d5XVvxtQfDEW-3RewcUOQ3OZ0NjfUV-xTWLg1JYmObAo5y86OJZqSWInCK00JuRttneipURvbVezyIPOWlPnpLS87pDQJZI4QqLde7XE6j5jcbBKzHPuGjG1N6wUdMx1qk_MQG3Iszh0C_g4NdUyduw49gtoi8MUypd_nbscTcSjDED9uOAE2hENxsMAd1tq7csSaU1tdjDPiVLbPsUxRoBDy7SoXnri3_a2zBgsA3GUH0-OrHUW98MO4taq7rEqBCB3ZI3QH7cAObS5iEBtRqmMCAEe0ZJACly5aXzE0_CR2IfvQUArbGdveU2uGyf1uwJj4bgYFs5",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJiQa64S1DwokRIvOZopJDMfs",
+      "plus_code": {
+        "compound_code": "J492+GC Brooklyn, NY, USA",
+        "global_code": "87G8J492+GC"
+      },
+      "rating": 4.5,
+      "reference": "ChIJiQa64S1DwokRIvOZopJDMfs",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 201,
+      "vicinity": "Bergen Avenue, Brooklyn"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.611844,
+          "lng": -73.90665249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.61318963029149,
+            "lng": -73.9053459197085
+          },
+          "southwest": {
+            "lat": 40.61049166970849,
+            "lng": -73.9080438802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St / Mayfair Dr N",
+      "place_id": "ChIJl0CRXzlDwokRmHWvoR4Dmns",
+      "plus_code": {
+        "compound_code": "J36V+P8 New York, NY, USA",
+        "global_code": "87G8J36V+P8"
+      },
+      "reference": "ChIJl0CRXzlDwokRmHWvoR4Dmns",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.611668,
+          "lng": -73.90653999999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6130171802915,
+            "lng": -73.90524491970848
+          },
+          "southwest": {
+            "lat": 40.6103192197085,
+            "lng": -73.9079428802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Mayfair Dr N",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106926722551645327519\">John</a>"
+          ],
+          "photo_reference": "AU_ZVEEKP-pDsUQyt4DkPE3J9-U8idnXpvlP2nCzsYreIVCjBE_iQ9IfaRGFJf5oNR4XDegiMrpQIwuYZOpKBDc5xk5djeKCiL32EpEqvfsIurIdbL5CWhCoJ4Et-bHkkB-838mc9FsErYqZt8I983a4AL69cghmV4Nm6NZxBp_MJr_H0oH1kuJTGGtXzPC1D8KWag1oxwmuV05wQ7DrKwuIfxM-dH02ipoLxfATtRYYGpFM41EJ4QVNlkOB9v5h8QHkF85EvwQ-ntIAoTQymJ6lXjhsBWOan98IRBbbuGLlX66q5SLL-RzYA19BOWjR-GBa5QVSDROHBo9u_nG6Og9L1aV9hDN5-v9nvU8-s7yLlVTBCqDlyEoUyi0esasa7eYCACqIve_JT8qwmAnYJc6xydjc-L_7v8IOOgiqQC-uUG9Kq0ylW6MR7CPk3_4L0LMjkN5q4YZ2f6kT8U-j1ByhOUs381H43YqzbGlGEodWv7l7y7poxoa4KHw5YhkAKQ_QqR9ceZe2nt2tifXS1-A9c4XBjxN0jwi9Em5efe5nIUIFjK_yEd3bzfdkShK0XJK-LpcM42F2FKMK9cnlt2xC_UP_kXD8JeyTzMT8yA-QAEgXj0gCSmENV52-XH_xs8ADH4Uujvyu",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJkYLv4TtDwokRLdg10Ff11Nc",
+      "plus_code": {
+        "compound_code": "J36V+M9 New York, NY, USA",
+        "global_code": "87G8J36V+M9"
+      },
+      "rating": 5,
+      "reference": "ChIJkYLv4TtDwokRLdg10Ff11Nc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.612022,
+          "lng": -73.906761
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.61337413029149,
+            "lng": -73.90537496970849
+          },
+          "southwest": {
+            "lat": 40.6106761697085,
+            "lng": -73.9080729302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Mayfair Dr North",
+      "place_id": "ChIJu51hYDlDwokRN5_dMpVSMM8",
+      "plus_code": {
+        "compound_code": "J36V+R7 New York, NY, USA",
+        "global_code": "87G8J36V+R7"
+      },
+      "reference": "ChIJu51hYDlDwokRN5_dMpVSMM8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.613712,
+          "lng": -73.907135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.61504513029151,
+            "lng": -73.90583076970849
+          },
+          "southwest": {
+            "lat": 40.61234716970851,
+            "lng": -73.9085287302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Ohio Walk",
+      "place_id": "ChIJZ0FVhDlDwokR8dCXphFGMsU",
+      "plus_code": {
+        "compound_code": "J37V+F4 New York, NY, USA",
+        "global_code": "87G8J37V+F4"
+      },
+      "rating": 5,
+      "reference": "ChIJZ0FVhDlDwokR8dCXphFGMsU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.613884,
+          "lng": -73.90736249999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.61522198029149,
+            "lng": -73.9060423197085
+          },
+          "southwest": {
+            "lat": 40.61252401970849,
+            "lng": -73.90874028029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St / Ohio Walk",
+      "place_id": "ChIJI8uomjlDwokR4z8JcCKFM0U",
+      "plus_code": {
+        "compound_code": "J37V+H3 New York, NY, USA",
+        "global_code": "87G8J37V+H3"
+      },
+      "reference": "ChIJI8uomjlDwokR4z8JcCKFM0U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.614056,
+          "lng": -73.90759299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6154249302915,
+            "lng": -73.90619731970848
+          },
+          "southwest": {
+            "lat": 40.6127269697085,
+            "lng": -73.9088952802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Ohio Walk",
+      "place_id": "ChIJSUjmkDlDwokR5nUp-X0rfbQ",
+      "plus_code": {
+        "compound_code": "J37R+JX New York, NY, USA",
+        "global_code": "87G8J37R+JX"
+      },
+      "reference": "ChIJSUjmkDlDwokR5nUp-X0rfbQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60994,
+          "lng": -73.907127
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6112784302915,
+            "lng": -73.90573356970849
+          },
+          "southwest": {
+            "lat": 40.6085804697085,
+            "lng": -73.90843153029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Bassett Ave",
+      "place_id": "ChIJNdlepD5DwokRWFR0Otn4S9I",
+      "plus_code": {
+        "compound_code": "J35V+X4 New York, NY, USA",
+        "global_code": "87G8J35V+X4"
+      },
+      "reference": "ChIJNdlepD5DwokRWFR0Otn4S9I",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.60977099999999,
+          "lng": -73.9071025
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6111084802915,
+            "lng": -73.90571266970848
+          },
+          "southwest": {
+            "lat": 40.6084105197085,
+            "lng": -73.9084106302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St / Bassett Av",
+      "place_id": "ChIJXV2Yoz5DwokR_rEbo4xg6gk",
+      "plus_code": {
+        "compound_code": "J35V+W5 New York, NY, USA",
+        "global_code": "87G8J35V+W5"
+      },
+      "reference": "ChIJXV2Yoz5DwokR_rEbo4xg6gk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.609604,
+          "lng": -73.907074
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6109675802915,
+            "lng": -73.9057736197085
+          },
+          "southwest": {
+            "lat": 40.6082696197085,
+            "lng": -73.9084715802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Bassett Ave",
+      "place_id": "ChIJXe5poj5DwokRb2kzZmqm6f0",
+      "plus_code": {
+        "compound_code": "J35V+R5 New York, NY, USA",
+        "global_code": "87G8J35V+R5"
+      },
+      "reference": "ChIJXe5poj5DwokRb2kzZmqm6f0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.615715,
+          "lng": -73.90898899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6170366802915,
+            "lng": -73.90768261970848
+          },
+          "southwest": {
+            "lat": 40.6143387197085,
+            "lng": -73.9103805802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "E 66 St/Strickland Ave",
+      "place_id": "ChIJi6TX1jlDwokR3qZuv30atl4",
+      "plus_code": {
+        "compound_code": "J38R+7C New York, NY, USA",
+        "global_code": "87G8J38R+7C"
+      },
+      "reference": "ChIJi6TX1jlDwokR3qZuv30atl4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

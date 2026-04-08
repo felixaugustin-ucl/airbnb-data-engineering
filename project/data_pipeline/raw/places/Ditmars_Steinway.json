@@ -1,0 +1,3414 @@
+{
+  "neighbourhood": "Ditmars Steinway",
+  "centroid": {
+    "lat": 40.78159298835275,
+    "lon": -73.89580003327787
+  },
+  "fetched_at": "2026-04-06T14:07:17.842768+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773136,
+            "lng": -73.8947354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7745730802915,
+              "lng": -73.8934381697085
+            },
+            "southwest": {
+              "lat": 40.7718751197085,
+              "lng": -73.89613613029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 877-377-2695",
+        "name": "Bowl 360 Astoria",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 383,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115151249458652897275\">Bowl 360 Astoria</a>"
+            ],
+            "photo_reference": "AU_ZVEEOHrN0gf3sl-epJL1Ei8uABr95V3bplI8LiVYj84_la_oTHUDTnW6pJhMnrMr9uP_m5408mUgBHyJckwBGtaT94WlyCg5eobd3huV_Wc-t3n7Cdc9yZHs_0kc-LWNrRqMyoOcoGxDhrMm1oW_swsovHN13bzWd3yh9iACI26LUks44JXm-FZckeaVqRPLEqabls_sjzJgmYXr9eGS3DCVPZjHORKiE-tRkyCjuuHN-26tOBVMtlhnMrBP_U8bpQA7l74GysUvglUfbLfadqGRRI7C50HWIuQ4687CU8e_YdXr9rcRlKSW3aAnc9PDc8tnYLreyyRU",
+            "width": 680
+          }
+        ],
+        "place_id": "ChIJf-nXH3pfwokRxlV-hFdPA5E",
+        "plus_code": {
+          "compound_code": "Q4F4+74 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4F4+74"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJf-nXH3pfwokRxlV-hFdPA5E",
+        "scope": "GOOGLE",
+        "types": [
+          "bowling_alley",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1780,
+        "vicinity": "19-45 49th Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7787113,
+            "lng": -73.9026028
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7799977802915,
+              "lng": -73.9012659697085
+            },
+            "southwest": {
+              "lat": 40.7772998197085,
+              "lng": -73.90396393029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-726-9112",
+        "name": "Astoria Pizza Factory",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116013199477076364439\">Heart &amp; Soul Concerts</a>"
+            ],
+            "photo_reference": "AU_ZVEGlc8ReNIvGcF61Pao5wWKs8RVvmZE2YHRD8YQl9gRgz1TR1dVdcqNxbg8ZigvGc8IhW209lSfafFp_nK4J6-eykMRwYtOkRPMoz-b6HcIPg3DVz8AOvi1rbtPKDmbDTjCI1QSYu6R8JEzegEnnXHewMCSeu3dSPc6c2_tPKsFCyvLqdYZnJ4gcoXyZA6wPKnQrOZy7bsYLnL-W82Xq0iq8g617xeSyFmVqx5fAF1aJAYjt2TFTqjLcEbgNPe6lLkATapcPAbgw38XvNJRBgtvUAYzq3zerzYR8wUNl0pjeqFr4wvnTeTLRXh9ahhYZuEDZuuRQ2Ba5yczWW-93yLoeLwzeZqmDB6lq47ClttLfmVESxC_BO4_p0IU1lnIc7TrrYXq_ZULmKMzbgUAcO3qbnN6DjHCwxqxXI-pYLZTNbHtAXfpjagxQOD9t6o49CjP63QQhzmW9REBoSgXZyvSchU6AbOzaVo3O0KFMjQXZjQkpKm6oJXws0I775L3ykbBTrBBm3HbDW4ytrOg2qJe9RSCHq66dvvpN6ae1hj1tmn2Bp76Kn5zAAePWkvY-GZqqOgXV2s8OwP28Z4e36pDI_yop4LbsWj0JSjUFdzLC6JJlg9UXZ4cVfbp1d4ZU_zvEBw",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJn-CYaGNfwokR3ZV_OKEcGmk",
+        "plus_code": {
+          "compound_code": "Q3HW+FX Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3HW+FX"
+        },
+        "price_level": 1,
+        "rating": 4.5,
+        "reference": "ChIJn-CYaGNfwokR3ZV_OKEcGmk",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 473,
+        "vicinity": "19-46 37th Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7786733,
+            "lng": -73.9026611
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7799936302915,
+              "lng": -73.9012555197085
+            },
+            "southwest": {
+              "lat": 40.7772956697085,
+              "lng": -73.9039534802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-278-0799",
+        "name": "Dragon Gate",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107821815236197059478\">sinan erel</a>"
+            ],
+            "photo_reference": "AU_ZVEHq075GfAobBbijnUrwX4wt2oRzGhjsFmBrEaEg3De09M8Qchf_UO5uDddSsAUD7a4LICweTs2QBz6QVNhuN_KT1DTPhqxeCMXA1XPWXSYEBL_I1CWkB7L7atovcR1icXuEIEmGUriumoGISChBH2VSok0KioCz08EZUpweRSlUDYcKxpZod6Ap8NO3cJ4ziygfbNf31UmWGcye3ZaStmgoEYd0rZ-8LCovm2Ms0MDkE2pU6gKaxLXxoslf4SMX9Sl129PJ27CNeQ2hmF2uslqiZbzvOyATV3eGVlWnaf_diVcJZMaR4blTzQXNjCoSLFRBSMQ-LWBloXGrtpr6EIkJ9Z80yjCHvWb7k6OCfXrYaIMVwE9IavuaO6WN3Dj9kxyu94Re4WmXDlqnPBGprT6gNdOBwhe-pZUrI4H5SVfbtcCukGrArgoCVPNSRTmIPAerSts9i-fGqMBhTxS71WWQHUdt0tK72JiI6XHS3nIglo7rYSVdUJHmYzjllwgxu0NfwfFAPUbTHY-oMvebNq9AaF_UprMr19dsHYfQTygIi5bdWv-cDEWSRyFOgbqpwVi-hB3AnotdagcgRYsq-3QAsK4guokLHEJlHSqLufnyNOavPoa04yZOQOsqMhKhgg7c3w",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJjyitskJfwokRD5A-YjQjb9M",
+        "plus_code": {
+          "compound_code": "Q3HW+FW Long Island City, Queens, NY, USA",
+          "global_code": "87G8Q3HW+FW"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJjyitskJfwokRD5A-YjQjb9M",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 94,
+        "vicinity": "19-44 37th Street, Long Island City"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77915,
+            "lng": -73.904923
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.78040798029149,
+              "lng": -73.90371311970848
+            },
+            "southwest": {
+              "lat": 40.77771001970849,
+              "lng": -73.9064110802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 718-777-7249",
+        "name": "Astoria Live Poultry & Meat",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 372,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102315264339159888842\">Astoria Live Poultry &amp; Meat</a>"
+            ],
+            "photo_reference": "AU_ZVEGZq3tbBMljj04EqCQ5uANRgGYmsGA2ihs-03JNNa1f09C4KmUXon8w8w2Z2gczzM-d8xWX4-waCaQsHnEBsxuS-_mch0ka68wENR4ZTYKlRE7kF538Krus2nAkTiQEEJJLtoKICyWYGOMUBe_Ooza0SGvSepzfl3-NaimPoyflOEOR0OBii3ClBT__Q5SwUvS08RSdUnD8fUysHSoV4U53KWWghTRUFudwTmy942Wn0DlrtELCjHlbzMLqIPUUI3d1VqDGoq56lHGZqUvw5Bn02LEZDrAyiJELjp6mFr1UodbLX7VPv2kNdtIvBQrPd64wNzJ-iLY",
+            "width": 803
+          }
+        ],
+        "place_id": "ChIJ_cLRjGNfwokRamXHFm85jHI",
+        "plus_code": {
+          "compound_code": "Q3HW+M2 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3HW+M2"
+        },
+        "rating": 3.2,
+        "reference": "ChIJ_cLRjGNfwokRamXHFm85jHI",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 134,
+        "vicinity": "31-37 20th Avenue, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77733219999999,
+            "lng": -73.8933794
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7786659302915,
+              "lng": -73.8920099197085
+            },
+            "southwest": {
+              "lat": 40.7759679697085,
+              "lng": -73.8947078802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-935-9657",
+        "name": "2 Guys Halal Food",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105584726048134536725\">2 Guys Halal Food</a>"
+            ],
+            "photo_reference": "AU_ZVEE6oE9krxOH88sMyQ5XmWeTJ-VS9yMnQzl93OY-CId81XhOKOotmuNx6tm0LWFkorCp5I3fNi3oHfVcnjU2OrFDDxKKGD3N6hoLuDFT59VXAo8D6zHt2_BIbN9dEtHEoUds3COdE96GbCCzbOX-goIileEQr1hw1ovkvl7iRoPmXMzLG9wtv_mivdf7nSbfYXcXZAsVH-FsDjABcdu8PlzA2dqLY-n2gKNWSeWtwy29oz4tODtLx85v_R78ojYvmOBj2si5i28rA9IQo8qIRP2iVNfcbwlQAh8O2TfpxYIRHGvaWxXYPGmHh9vVb0e_zVON3T8X1cA",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ-YUwc9JfwokRQRuVs1_BMLQ",
+        "plus_code": {
+          "compound_code": "Q4G4+WJ East Elmhurst, Queens, NY, USA",
+          "global_code": "87G8Q4G4+WJ"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJ-YUwc9JfwokRQRuVs1_BMLQ",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 149,
+        "vicinity": "46-10 Berrian Blvd Astoria NY 11105, inside the park lot, East Elmhurst"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7759575,
+            "lng": -73.9026841
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77722903029149,
+              "lng": -73.9012251697085
+            },
+            "southwest": {
+              "lat": 40.77453106970849,
+              "lng": -73.90392313029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-726-1600",
+        "name": "Code Astoria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111130121772586998275\">Code Astoria</a>"
+            ],
+            "photo_reference": "AU_ZVEEbR2tBoz0w_tlxu-Cc_SjyBjqcHY1lbXGmL1otBOn7chnR6h9tHvKedLaAV0vBoUWbavHBZGerehiabgfC0u-A3mE4AMTfraVZAZhYyWgWBa1EVMXr1UOsXOIt0qF7hVAVHbZ0lQwLp7WDU-AVY23hMBdMZJ2uL_VphnA_cu9InFPSQzDc7iTtWaDHG4VSMj-M_9Xic6VL_bBZdljwKugfh1XS9jyekeBIBCNcNa05nlaw8Ez-ziO0uAubP7ucd49KkX56NJ_bU1P8SNmexFez22DXe02PJllj0kKcSufKY6-bX8gQMfRKCQ2Kbff6QuF4h7WnApo",
+            "width": 1752
+          }
+        ],
+        "place_id": "ChIJdw23siRfwokR80oXumBYnVI",
+        "plus_code": {
+          "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+9W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJdw23siRfwokR80oXumBYnVI",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 985,
+        "vicinity": "20-30 Steinway Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77576869999999,
+            "lng": -73.9029528
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77705428029149,
+              "lng": -73.90145971970848
+            },
+            "southwest": {
+              "lat": 40.7743563197085,
+              "lng": -73.90415768029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 347-468-0030",
+        "name": "Fusion Lounge NY",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1462,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118167382270332017112\">Fusion Lounge NY</a>"
+            ],
+            "photo_reference": "AU_ZVEFN5HDVuPug2gKlGOqzw4XYUyKtIGdIdWBwqgbl7liU-LOYeLzMF9fxdJsKfPXDp7LygFnBCisaSpZky1AI1RNCNaPHjUCpU_yeRVEvvt2vQxSvdOU5x442VmCPecMrt83_rE5Q2D2xPfhel1J3QnDGlDkJb9FX7r-KSve0iIXBa1g-zFOtGvDYSj50Sm7VhQ7GxvyHzfbZjDr17QFsNzMWoQGt3ChRwvG1BRNoYqMQS6ZwjOFkN6StfgzG7PXU1jR-_AkhDK53k4BOwBxWqR4kffpwvaAll1pIF97eL0ll7W0S35jmty6vk8mZLKAalUUE1c3YTSo",
+            "width": 1179
+          }
+        ],
+        "place_id": "ChIJPR2EE0pfwokRxs-_tm-d35U",
+        "plus_code": {
+          "compound_code": "Q3GW+8R Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+8R"
+        },
+        "price_level": 2,
+        "rating": 3.6,
+        "reference": "ChIJPR2EE0pfwokRxs-_tm-d35U",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 378,
+        "vicinity": "20-38 Steinway Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7745099,
+            "lng": -73.9016621
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7758021802915,
+              "lng": -73.9002279197085
+            },
+            "southwest": {
+              "lat": 40.7731042197085,
+              "lng": -73.9029258802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-440-8266",
+        "name": "Taste of Gyro | Astoria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3229,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118201069652937506191\">Taste of Gyro | Astoria</a>"
+            ],
+            "photo_reference": "AU_ZVEHOdcDNn69xDyknQ7Ke2Lr4Jo7hMO-mu2xk1WXgdW5YJoKvh7UWYufzF8XIERIyttrrGxKUlwcdLyTj44WxLHNVXjT08qs4azbq_Dkgr9PSa3Z1lFpbcR-31cgKTzRPnXj3reliq1lLqFYITO6UHeA7yiiu66j5tHlfy5a3BI-HeBGfZVe_bjfmbKDnnLQ0jPZLFg5_4a90piKT0A47W4EBvFasp0hbMG2wAk6b8AZo-essa3T8VmLsI422rvcbgtOF8McsSBL0EA1V1fGFXRnxc2z-EdN9POlP5Q8ucB7oz0M9ntTh7wnRHQnNDNjv4WQqkoJsVME",
+            "width": 3500
+          }
+        ],
+        "place_id": "ChIJD7cEIQFfwokRPzMQH9g8or4",
+        "plus_code": {
+          "compound_code": "Q3FX+R8 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3FX+R8"
+        },
+        "price_level": 2,
+        "rating": 4.9,
+        "reference": "ChIJD7cEIQFfwokRPzMQH9g8or4",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 349,
+        "vicinity": "20-48 42nd Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7734574,
+            "lng": -73.8926774
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7748010802915,
+              "lng": -73.8913925697085
+            },
+            "southwest": {
+              "lat": 40.7721031197085,
+              "lng": -73.89409053029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 312-229-0099",
+        "name": "Farmer's Fridge",
+        "photos": [
+          {
+            "height": 270,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113336845606431267829\">Farmer&#39;s Fridge</a>"
+            ],
+            "photo_reference": "AU_ZVEEdFFiFh16RdjzKbRYwRQ7t50mfjHgduxEg4vHPsu_bhtNULH-lyzT_JVKhPDuCpJXksP5wukqPqFfjtUvj1IMwYnfjgf9D_S_atnbo0Fdyy4GOFG3jX2muWfq6wGon0rpOPA8hPQkMmFRtVIj3wqBOtmi8_fOqbqb0OSpkYZVNbnhO8x6bBQmrYnXihW0SCgvunxihrBfTfWZZeOS1vXehMcqUB_CPxtid_NE_aXl2rm4GGRJEl3XnLgJgPLJLZPEpguhw18holcErl50nlOgkxX5TcA8iM67ugfJnyPb-74cGW_IBEy55Vf6G0P43onMRhGgdK8c",
+            "width": 480
+          }
+        ],
+        "place_id": "ChIJdZoU7Cz1wokRJQF1X2e_z5g",
+        "plus_code": {
+          "compound_code": "Q4F4+9W East Elmhurst, Queens, NY, USA",
+          "global_code": "87G8Q4F4+9W"
+        },
+        "reference": "ChIJdZoU7Cz1wokRJQF1X2e_z5g",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "vicinity": "Located in the RMSC employee cafeteria along the vending wall, 19-19 Hazen Street, East Elmhurst"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773136,
+            "lng": -73.8947354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7744574802915,
+              "lng": -73.8934882697085
+            },
+            "southwest": {
+              "lat": 40.7717595197085,
+              "lng": -73.89618623029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 877-377-2695",
+        "name": "Paddles 360",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1066,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109062001784959077808\">Paddles 360</a>"
+            ],
+            "photo_reference": "AU_ZVEFLHqbPO_a5rJ4Kl5dfJ5oY7pNo3mR9kxG6YfHIUlZ2Qy2jXyQE1yrCtuDKoWyQcVl9e_Lh_67Hfue-i7f3wXELb8R81reyFhO192QvFVMix-hJskdkv-7smidJHu8wLkXXZ6SQq6y3rIXi0baEupG-EgYg5BRRnSURBn3BDSpMUJvcl5LJBtBUsicfv7YO_VeAQT-5-NejRp3RlBD9oY9d13Ek3j8K2MLZvs1Sb-jzX5CL4ZbMoLSEwRGP25WIqDXmQwYbbEBZjkIj4WAaXCWoSztEHRRKLTTN10BZiZjR0jV23nIfUaudUC6z7Jl9iU8Uw7JopIE",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJwZ5SJodfwokR5xkQ9U8G1oE",
+        "plus_code": {
+          "compound_code": "Q4F4+74 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4F4+74"
+        },
+        "rating": 3.2,
+        "reference": "ChIJwZ5SJodfwokR5xkQ9U8G1oE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bowling_alley",
+          "bar",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "19-45 49th Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7751623,
+            "lng": -73.90363529999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7764393302915,
+              "lng": -73.9021825697085
+            },
+            "southwest": {
+              "lat": 40.7737413697085,
+              "lng": -73.9048805302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-204-7722",
+        "name": "Apicius Pizzeria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107275352939080864606\">G H</a>"
+            ],
+            "photo_reference": "AU_ZVEGl14bezznlsT0FI7I4CpYpxMhq1-wTzPTU0SJpd-xBYvfdrAmf7qLY8Haw_XTqBkOZURJzOduS7WObaVsfnK6jtAEC6s4a3700ydv-ht917INoPoe4oVp9rFo4I6AdvoZQ22DIgnxUgZJ-ZWy5Z2_ocT65yhzivnresgpJ51Y-5LGVt54aA2IJ-CvNpq5_zgZ4hCcFKcp8iEyvwHw_rys5bclp6wGb5Y2Eb0h1we8zqn-qNlh7REgqPIBriMgXESFyOjcBbajrYHT1T2f-JqcMYn30lPsf5l88vnw67Mqk-bhDj4K47Iqbdf8xxPFBBxzZLyZ0D5VFsr35IhZ1L1P2K-R875Abn7quE0LnXt0vmEKJMnLFA4O1JG3s6RyzVwR4BKznX4aXIhWeDTVjS9gQF6bLeYe9y_r7-FIPpinxRuDxW7SeLkbgCLBjGLySgMOSEuJ-FusxxMXiuOmKWEGRPswKoM7Kx3Nku-0CENBUIFRLL24-rU_tlpQdafFCpmFQrE2Ty7G_OnJtS3BuFgAakmGhQd_D7XecTEUNg--qjY0jJK_L_CiWgQpygkbNR__Qf6TJxJcBh7K1IlPRoRI3x9lvk6TbgwZ7yVJww5n30GaWt0SiUtuQeEHqtUeOkj0pYLHI",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJaSbCCWVfwokRXW1gf11bZX4",
+        "plus_code": {
+          "compound_code": "Q3GW+3G Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+3G"
+        },
+        "price_level": 1,
+        "rating": 4.2,
+        "reference": "ChIJaSbCCWVfwokRXW1gf11bZX4",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 146,
+        "vicinity": "20-72 Steinway Street, Astoria"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773136,
+            "lng": -73.8947354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7745730802915,
+              "lng": -73.8934381697085
+            },
+            "southwest": {
+              "lat": 40.7718751197085,
+              "lng": -73.89613613029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 877-377-2695",
+        "name": "Bowl 360 Astoria",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 383,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115151249458652897275\">Bowl 360 Astoria</a>"
+            ],
+            "photo_reference": "AU_ZVEEqiCnltwIizzHPThbXxYpPMr_-CYc0IE6i-8zFJUPj53muzfThu1xPTWuip8-31em07kosjpoWs1f-a4E6nIfFI61GEa7oJNAOUZ0dxCW-I5H_T0dNLeC_xU1_l0ClzIGjd_Ate1uHGYE1Fye4QwU0ySodq530AFLoLO3S2o-MqEMibg8qczmYtBEshhqyCcLy4Z7qQuVASCCIrfQwa5BoVj9YInLTCmbdQ4RHBzsRpkL6I9i2_ELLJenhoA80TUOp7OYo5n80yoia-710h0s1f8jNSqz3GM5IGg7S_-lOx9oFF1r-S17Z9YbQ-ifEaNtHA89d37s",
+            "width": 680
+          }
+        ],
+        "place_id": "ChIJf-nXH3pfwokRxlV-hFdPA5E",
+        "plus_code": {
+          "compound_code": "Q4F4+74 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4F4+74"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJf-nXH3pfwokRxlV-hFdPA5E",
+        "scope": "GOOGLE",
+        "types": [
+          "bowling_alley",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1780,
+        "vicinity": "19-45 49th Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77594459999999,
+            "lng": -73.902686
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77720863029149,
+              "lng": -73.9012450697085
+            },
+            "southwest": {
+              "lat": 40.7745106697085,
+              "lng": -73.9039430302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-726-1600",
+        "name": "Central Bar Lounge",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3510,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109962410915955622267\">Central</a>"
+            ],
+            "photo_reference": "AU_ZVEHRSKQdExlcZBKyci5ITfS7BONod4cO-pvCRzjrCAtuZxxVGBMRIpdkwWH4ly1uyWom2eVydgi847-vjT4BGx-Gar6m1qGIEySFE9i4SwASTggV9yBssMWOphImU0OLGznANvl2DFgr2-RXcK9-O6fWfXg8CFYlhP-lSX_GjeUHGuOB13RVjBVjzuL32gjuR46S0qZmkl1tGpm7eXKB5SDan8dibQihNobOwktV95b4p_ZTOWKAK-ZNC3TLyFNuL8-1U2ZBP7259UKWhinEpQ0wlmYjJ6l4pa_CIZoB82QvOVwHcfqIGAZhd4og4FnYeFChD5xWwMXhcK52qIV6FWqhPbvT1OTDWtyiN89EZwuNckLFDg3CSyZUpJ30YKO6PhHmjj7EEAebbbPknJsfOX4AadAW87uCtbMafGgVOnC0HPHecWxnKIkP4GD-IsHGE_D0vjhX1-pICgkvxJ5W6kn5yCeYvFq689GAFFYoDxwHsPs_CZizTuZUvNDIBsF57rXQ_gctTNrgUSxkalF4h2CpPMVBvhICZDdWKrm9zK3ptEbdlMkInVNv-_WYIUFIeh712b0B1XbDHjljmhB6tObiidd-aA7s4-e6Q18BNDJb2y2cnrP16FSyMeRja5_5D367Ag",
+            "width": 5265
+          }
+        ],
+        "place_id": "ChIJJ1iT4WRfwokRgHRUKkjqHpo",
+        "plus_code": {
+          "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+9W"
+        },
+        "price_level": 2,
+        "rating": 4,
+        "reference": "ChIJJ1iT4WRfwokRgHRUKkjqHpo",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 236,
+        "vicinity": "20-30 Steinway Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7787204,
+            "lng": -73.89599129999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7801099302915,
+              "lng": -73.89470376970849
+            },
+            "southwest": {
+              "lat": 40.7774119697085,
+              "lng": -73.89740173029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "international_phone_number": "+1 718-626-6016",
+        "name": "Padania Wines",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJK-RJPHxfwokRz52PHl4xxB4",
+        "plus_code": {
+          "compound_code": "Q4H3+FJ Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4H3+FJ"
+        },
+        "reference": "ChIJK-RJPHxfwokRz52PHl4xxB4",
+        "scope": "GOOGLE",
+        "types": [
+          "liquor_store",
+          "bar",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "vicinity": "18-13 42nd Street Suite B, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77614320000001,
+            "lng": -73.90087609999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77743558029151,
+              "lng": -73.89962421970849
+            },
+            "southwest": {
+              "lat": 40.77473761970851,
+              "lng": -73.9023221802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 516-301-7800",
+        "name": "Caligula",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108894174924783014124\">Caligula NY</a>"
+            ],
+            "photo_reference": "AU_ZVEHdoBHXodl4_6shwCfBYA2Joviyl5osbAgGfXheszdGhTUIEWq2tLdB2yNCYGxcsgApQZ63JOSJmP_g4q-6VO9Ch9HRbfg0at9zbpev6Lu4Bab2o90aTb07az2Dc8eNPA6V-IqLGA14PDxH-c44uMYEC4PUU8J-YR8dMOClSU5hPR3yWppC_Sy6DhzzFqtcZoIizUwVhD_PgVoaPTbpFbL_QU543gkag0dCndFkspZZfQYjdoF2Y11FlCU52dok06FMsyhyJEgHLJB9xjqNW5dkALvHW1SZ3EBD_4ilAxFivLtmVT_1Q60fdSsclDRSGeD4mcH_u-QNDK6KHJ8rhBi5MMiMYE6-dQue6RITDj_cZLkb_5RhENTipS68yrafGvHeo0zoo1h7SLuOtiGmQ1HPzX777fMnf43YacXFI5XQGsPlUbY3HH-fvT9ohUoo33x1nNU_heJQxK-UsRp8G_5XWMPULTga8hVkhYrrRAnUsUwTzuMB-7oKBRLzHvpHXYoUI36NM63feCS5lcJ1z8lBsbnAw_KnL4S_iYYwIwesVy9t6TEn2f4lXE7r94Zn8TqlC-iX8G4Q3HGQ1ZZQoRDzHLO3urJpYULR0AJNUzILPIZ-0TL1zTbJR3_wcRxIN7JZSQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJo98g0mRfwokR1gEVsFCZet4",
+        "plus_code": {
+          "compound_code": "Q3GX+FJ Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GX+FJ"
+        },
+        "rating": 3.9,
+        "reference": "ChIJo98g0mRfwokR1gEVsFCZet4",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 390,
+        "vicinity": "40-19 20th Avenue, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7759575,
+            "lng": -73.9026841
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77722903029149,
+              "lng": -73.9012251697085
+            },
+            "southwest": {
+              "lat": 40.77453106970849,
+              "lng": -73.90392313029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-726-1600",
+        "name": "Code Astoria",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1168,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111130121772586998275\">Code Astoria</a>"
+            ],
+            "photo_reference": "AU_ZVEHMPUILVNrkSwtsGxDsuGnSU6khLCvz-tPNWnCZMv2tNrczNeZO-Kcr4D6R7mabJzu4Lt2R73w_MmZN0oim1BsVIZ5O8CHo64UD0T7X-9uH49vfHIbAG7Y5CrdEVhb-SLzLkXp552iOCJ5mDNRbowQlP4N4q4rm21Ukjl0zviAG22BhlYH4A4kFZv1Tbq-pGRzkyiaiEkxN0m9SgvzX4cng2MLdWXmkYjcOHEuw1oKeo7RacxWcg1HKBDT1DoxZeyM6C8tRKddO2m1Fh5K35gWHI6NA13xhBvTeOSDwk9R_i2ksStN5ntD0gLfy6Wvozl2JuCCKcxw",
+            "width": 1752
+          }
+        ],
+        "place_id": "ChIJdw23siRfwokR80oXumBYnVI",
+        "plus_code": {
+          "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+9W"
+        },
+        "rating": 4.6,
+        "reference": "ChIJdw23siRfwokR80oXumBYnVI",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 985,
+        "vicinity": "20-30 Steinway Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77597110000001,
+            "lng": -73.9027132
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77723488029151,
+              "lng": -73.90124276970849
+            },
+            "southwest": {
+              "lat": 40.77453691970851,
+              "lng": -73.9039407302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 718-255-1989",
+        "name": "CideBar",
+        "photos": [
+          {
+            "height": 576,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116211925133312659026\">CideBar</a>"
+            ],
+            "photo_reference": "AU_ZVEEQH-7Dz4as6g1YkXlot0zdCsVlOVq5ahGulQVDW9dW1JXgl_8khJbJfqnPrdLr_73alJwzaULl_1OP7IYKHFBT9-gpoLpQ-uDKL_Tia4O-cIjSAPzl-A2BM28zMV5citN6SddIsCObulx6RBQ3s4ahIN7qXomVhE8fHYx39uVqt8xjT8hmOAH8IiPGloJLgN5idKqIggiG3n0S3V8CqrlYTQuXU5YsZjxuMaqX6M7C3995xHW0b85pBHWYXtmNqC5qGbaOFIoPr2mxO02jxKdZjnkwtdLcu0_IN1CGS_G2yIbZBDB5GKOAVy1N92k4gs-lB2YDmSE",
+            "width": 1024
+          }
+        ],
+        "place_id": "ChIJG4suQ6RfwokRZLu2T_UTyt0",
+        "plus_code": {
+          "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+9W"
+        },
+        "rating": 5,
+        "reference": "ChIJG4suQ6RfwokRZLu2T_UTyt0",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "next to Code, 20-30 Steinway Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77576869999999,
+            "lng": -73.9029528
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77705428029149,
+              "lng": -73.90145971970848
+            },
+            "southwest": {
+              "lat": 40.7743563197085,
+              "lng": -73.90415768029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 347-468-0030",
+        "name": "Fusion Lounge NY",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 1462,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118167382270332017112\">Fusion Lounge NY</a>"
+            ],
+            "photo_reference": "AU_ZVEHeOwk0j_lnvfvdJBsVs_O6KaEG2AAxdd31C89sZ3ZtOe16dScsclIZ_zTcuWyvCqplOHXDHfVuHqAQiDBh9d-nZ6pnDV_JWgZeL1AbUtK1gqnJo2YVk2Iw9gqFtkO2XRVRfGv_BSpUYRJ-WQ0yTteb6tbgdpTS527rLfyVu-zFt0limppjJFnh4BCSxcfyJBZ-jloS-aoAfra94_MmynX2-HKhyyIkjkV6OO5iJZPDkWjS6orssUDZ4MjoFcp1O9mK7aCOKElR1Iwn0jRGrHpC9FDdTepjOW6syDmoOXOmjVJGfyx5lxrRppw5tppI_GWxajRZZ6g",
+            "width": 1179
+          }
+        ],
+        "place_id": "ChIJPR2EE0pfwokRxs-_tm-d35U",
+        "plus_code": {
+          "compound_code": "Q3GW+8R Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+8R"
+        },
+        "price_level": 2,
+        "rating": 3.6,
+        "reference": "ChIJPR2EE0pfwokRxs-_tm-d35U",
+        "scope": "GOOGLE",
+        "types": [
+          "night_club",
+          "bar",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 378,
+        "vicinity": "20-38 Steinway Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773136,
+            "lng": -73.8947354
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7744574802915,
+              "lng": -73.8934882697085
+            },
+            "southwest": {
+              "lat": 40.7717595197085,
+              "lng": -73.89618623029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 877-377-2695",
+        "name": "Paddles 360",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1066,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109062001784959077808\">Paddles 360</a>"
+            ],
+            "photo_reference": "AU_ZVEHZwljcL9uXSPif8jvjIAmvRwyULGfwI6-St5q_1gALvnfE7ODfe8srpfEaEbRmMfS5aA38lxtPR2CRVOLmUy0nXZEHBSGXGOOjdOPnCzzgTn8eFRFJOcxSX-GeILu631Tp3BRG7ovYQ5hqrBsHOquLPFXSaGUwuittSUFqqxo-d3e2MZtfrd2kaJ9Q3OFFQEZ5kjg_rnw0YcUfpjum1EDKibHXVxoYDDeLOzmSHuAcygCut1kBMim8xWr24OUg2KIs5eP8hssmvZfLVpFMranQfEnd69Cq60V6zvgOdtVi6Byp0t4nbkPkbctPDWbkzlTaXodp1BE",
+            "width": 1600
+          }
+        ],
+        "place_id": "ChIJwZ5SJodfwokR5xkQ9U8G1oE",
+        "plus_code": {
+          "compound_code": "Q4F4+74 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4F4+74"
+        },
+        "rating": 3.2,
+        "reference": "ChIJwZ5SJodfwokR5xkQ9U8G1oE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "bowling_alley",
+          "bar",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "19-45 49th Street, Astoria"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77700469999999,
+            "lng": -73.9033986
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77840798029149,
+              "lng": -73.90211286970849
+            },
+            "southwest": {
+              "lat": 40.7757100197085,
+              "lng": -73.90481083029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 917-943-2748",
+        "name": "ViNYC HomeRental",
+        "photos": [
+          {
+            "height": 1366,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106373121576833485127\">ViNYC HomeRental</a>"
+            ],
+            "photo_reference": "AU_ZVEGTh8n1huFHhErLoP-0tHkXs6IefMzKP1BUKy31fsKi0-oMVKN3zkIT6ph_yQeTVxVqR69DpKlOCTXGk7nQF4bdLiGzM3fKVevjWWZjwWjjT-UffGq8gWpGJyFLqsyzRar2Ww1K0GpB5xSurg3A-4iqpG1gVlwj--JP2DtT3Y5kHpTRomnpSkWpnNMsPSyqq9OYiLpoRILdS87HlUtROFzcrHpZ0Ikw8o_2QpmcUCbX1HF_c6ukhcmYntgWhV4oVUotmNm4kghd2usNu5tbW7owkiiZuYEOHyrlpUu50SF80Rz3FTM9-W_3OTweIa3c1mEdPc-pb48",
+            "width": 2048
+          }
+        ],
+        "place_id": "ChIJgaRVhwhfwokRyNqvutNeESY",
+        "plus_code": {
+          "compound_code": "Q3GW+RJ Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+RJ"
+        },
+        "reference": "ChIJgaRVhwhfwokRyNqvutNeESY",
+        "scope": "GOOGLE",
+        "types": [
+          "real_estate_agency",
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "20-15 37th Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77588269999999,
+            "lng": -73.90230559999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7772345802915,
+              "lng": -73.9009607197085
+            },
+            "southwest": {
+              "lat": 40.77453661970851,
+              "lng": -73.90365868029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Comfortable room with private parking, 15m from Manhattan and 5m to LGA",
+        "place_id": "ChIJlSn34GRfwokRhFnwI4y7Tuk",
+        "plus_code": {
+          "compound_code": "Q3GX+93 New York, NY, USA",
+          "global_code": "87G8Q3GX+93"
+        },
+        "reference": "ChIJlSn34GRfwokRhFnwI4y7Tuk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7760559,
+            "lng": -73.9032586
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77745918029149,
+              "lng": -73.90196856970849
+            },
+            "southwest": {
+              "lat": 40.77476121970849,
+              "lng": -73.90466653029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Maison youness",
+        "place_id": "ChIJOT27LQBfwokR5oHVmDpdg28",
+        "plus_code": {
+          "compound_code": "Q3GW+CM Astoria, Queens, NY, USA",
+          "global_code": "87G8Q3GW+CM"
+        },
+        "reference": "ChIJOT27LQBfwokR5oHVmDpdg28",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "20-35 38th Street, Astoria"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7728135,
+            "lng": -73.8974066
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7741315802915,
+              "lng": -73.8961469197085
+            },
+            "southwest": {
+              "lat": 40.7714336197085,
+              "lng": -73.89884488029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Paul Raimonda Playground",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100135328095812154187\">Paul Raimonda Playground</a>"
+            ],
+            "photo_reference": "AU_ZVEFnou9EgL0H2E3Ihm3x3Gxpn3xi_wnMtBlx7_lMgdyyX8sUGMeZR471b9FTq4-T_i-S_Jd5qfZjgkzWKL6WQvHwsGvmiqhIts6xW9EDdZefiYWWH7KJ14Z93HTQ6zr0F3nngOYqMqyZOw7RkXawJZAG4IPZHNb_TbE0TTXB_RCNfpeXt5Ws1FJQaoOYda8latMVghlS_XF6iKsaEeyTI_5_HyZ5gOvkP1sQe8MlsEoTuR73NXHEL2QvWBQmsG8odTAYAMnrmvKf7QSRtwRmUznHnnsu568X4U5ZtW4_NX_DLOp6Z0PqvDSo-IWWia3FpvWjgmdHU1E",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJA85TfnpfwokRu5MfdPTw_fA",
+        "plus_code": {
+          "compound_code": "Q4F3+42 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4F3+42"
+        },
+        "rating": 4.5,
+        "reference": "ChIJA85TfnpfwokRu5MfdPTw_fA",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 225,
+        "vicinity": "47th Street &, 20th Avenue, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.778752,
+            "lng": -73.89707299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7801775802915,
+              "lng": -73.8958481697085
+            },
+            "southwest": {
+              "lat": 40.7774796197085,
+              "lng": -73.8985461302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Steinway Mansion",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115462652844575432574\">Noel Santos</a>"
+            ],
+            "photo_reference": "AU_ZVEHOSZ4rRw-7-9xbCHGoCIEArLVFmDt_mt1LTAOXnIL6oQbeL6IRCPNK_AQSGlF_3OCeIY3XkqoiX0_zihQ2hK3WQi8c-xqBgAL55BZp-d4ZKgdsqfwKFCM-TD62hYqUl8EC-7e0kjYO6x-GuZLVvqVYS415YBLGvoRdgHVI4RoB48tPQZdGFPdrjQkWugEDorXrVTI-ae7bgB8h6hcADloL17ZSwydcl03vEmsPb-rkm1Ph-PWmq4OiIV2TMVcgSfLjMuDmH-_xumg3OaRdsZUAWWE0VxvzsvXndI35nSU1-ex4FlYQ-f_CF6xz6ZaPyEeFpZjIvJCYShqVqACAq1doA3yUo__U3mV_qEIcx3Aeu2FBj3PjytIfSHH9KSOTosSkmJe7plA5MB8GT93nZJCTsgdFMPB92dXlYLn4dYcHhachzxRum0MRQiqN8IoKPCRH6L_76ELguqvC0SPjcQZ3f77LT0mYoMtEdlTDGYtlr_-HcqoZoDPXC2ctwLFuwxkpeul-ONPDcmSLcVZNXyzFBC5xXBj5fWlBLdiJYSJiJO1SkyGd2yJgQvnk5Mu0cTHmbz3tJpPGh2lLiQn0gTFpvRiuBKaJNOtMMurqkgWLmM1M3JBQiQ1f7pN_MUnEbacjWA",
+            "width": 3264
+          }
+        ],
+        "place_id": "ChIJsaY3XXxfwokRKarQx36VFuI",
+        "plus_code": {
+          "compound_code": "Q4H3+G5 Astoria, Queens, NY, USA",
+          "global_code": "87G8Q4H3+G5"
+        },
+        "rating": 4.7,
+        "reference": "ChIJsaY3XXxfwokRKarQx36VFuI",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 45,
+        "vicinity": "18-33 41st Street, Astoria"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77322939999999,
+            "lng": -73.89203669999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77446408029149,
+              "lng": -73.8906673197085
+            },
+            "southwest": {
+              "lat": 40.7717661197085,
+              "lng": -73.8933652802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Lent-Riker-Smith Homestead (1656)",
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103174998050442551123\">Carmen Jimenez</a>"
+            ],
+            "photo_reference": "AU_ZVEGyvS8qDRTFOBqFZ3oSmGRo1Z8579Nb_Hf78wOWHSpn-yrEjDNIf0WXFpjLvwuaV8tZ_CNVTSGga-8Tvwk1ibFRAAdb4bkLIqTGLzHesG5sScDdrcfVuBtVc8cm39RY5uHSUeEeUtee0gLdlYbblw0MdqRN3l7EJEemPUp0YLdu4rOBoAfy0Z1uo9Wb6bfFhPeuJxe8CLo8FUHzR1hOc0MEu2eYLu9pNrM8pTXjYWevUWGAz84bRpoROE1Mlc5bPg1I-ukTeR45i5bx6h4amXbZ_CgOsEkbx7On6mPoJD3GOFkddrS7A6u8W57uYAYSdeh-JIcseZj7VI6AqB9LbbPO7cmCxny47wHytGmDCJ6irCx2D0SaTUFyywgbXck8Gb-S32dGW0SGBjkdIyA3cMVaKpdYu9DeK-Uem9zw6two9jdHzl2bjgp70oLcH9XFNvwVt-l9yhoX_qlbJxcLtuW0M0CoXj5qV2oU6EpNk9pZsVTlUyp7FBNK4ePmw6MLYhfayEbXlgOM92PT7mjwjSEna7gFf1bq4YXxAq-T_k--rnSZrnciXfKsFtlvfvMcq5lwNR76tezszIJM999dOpdkWmlLmUBb3JWR8RvHpVfC6PuL2pR4vMUFpI5H50Po4M9hJTz6",
+            "width": 1200
+          }
+        ],
+        "place_id": "ChIJzZ0btXlfwokR8pPKzzx4_GQ",
+        "plus_code": {
+          "compound_code": "Q4F5+75 East Elmhurst, Queens, NY, USA",
+          "global_code": "87G8Q4F5+75"
+        },
+        "rating": 4.3,
+        "reference": "ChIJzZ0btXlfwokR8pPKzzx4_GQ",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 16,
+        "vicinity": "78-03 19th Road, East Elmhurst"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.777229,
+            "lng": -73.901932
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7786050802915,
+              "lng": -73.90062156970849
+            },
+            "southwest": {
+              "lat": 40.7759071197085,
+              "lng": -73.90331953029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "38 St/20 Ave",
+        "place_id": "ChIJVfUkvGRfwokRIJObniXTdpE",
+        "plus_code": {
+          "compound_code": "Q3GX+V6 New York, NY, USA",
+          "global_code": "87G8Q3GX+V6"
+        },
+        "reference": "ChIJVfUkvGRfwokRIJObniXTdpE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77638899999999,
+            "lng": -73.9015665
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7777587302915,
+              "lng": -73.9001900697085
+            },
+            "southwest": {
+              "lat": 40.7750607697085,
+              "lng": -73.9028880302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/Steinway St",
+        "place_id": "ChIJD--mxWRfwokR_n8oUO1sqMk",
+        "plus_code": {
+          "compound_code": "Q3GX+H9 New York, NY, USA",
+          "global_code": "87G8Q3GX+H9"
+        },
+        "reference": "ChIJD--mxWRfwokR_n8oUO1sqMk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.776436,
+            "lng": -73.901474
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7777563302915,
+              "lng": -73.9001628197085
+            },
+            "southwest": {
+              "lat": 40.7750583697085,
+              "lng": -73.9028607802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/Steinway St",
+        "photos": [
+          {
+            "height": 4128,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110068034998075350365\">Leonardo Torres</a>"
+            ],
+            "photo_reference": "AU_ZVEHb89SWyGF-XiB0ENyGfuO1mL16vdOyliA83bSEbkIcwBRy2OWh_e-dCahU3aoAoBJyGmbl6vWPusFLxHI71qiL4cxu_x0WMk51ORg77ZmIIIjBSBNBpTDr2_mo69opRcOLs7HdiCN_wQpOQmStpOrifFbPByK55kAMCx5F03qbniLYx3PjdX9jsUE7iQznNYM_Xuo5X4S7stEwRMF2GOLFT5jcTrlTdKRggs-Agosc5gw2fBVb1oVBO_RrJQ5nnABJzWeD-2F3ANlUUrWhD_-6AsENS22eP_T_Iwsylq30h53oOUOXn7kWNEnE7J0W-cq5ExlAuTvhutoJ0coNuX7lWNTgZMAj_kayBrYXUQB0vUaoVJ2-Vsj-fdxRiu6kvVOJDZj0XIzrcEriLwcsVaBwaw_BDuAePoWiAcos-8ZKAJ6TrrR2uXOjGLa6xlOJUNeA1-0AmXysdmMt8wbzqWRwK3W8kYPCQc2HBmnAqsTqNHi6ZxpHTCBD31vlzz0PtZ86KooHZQ6DuUzRU3M7EFZZ4oCfRl-PuTKX8Khe6AY__2sHeOOrd-kXS8JLkQ-5OEMpNaxIpTrVWU-7bt6QUCYE0Z56WyZy0WyRSvX4Db9XRVrWhEXm3ANHqkcjE8oK",
+            "width": 3096
+          }
+        ],
+        "place_id": "ChIJAb-MxWRfwokRgJlt1w9ITxU",
+        "plus_code": {
+          "compound_code": "Q3GX+HC New York, NY, USA",
+          "global_code": "87G8Q3GX+HC"
+        },
+        "rating": 3,
+        "reference": "ChIJAb-MxWRfwokRgJlt1w9ITxU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77631400000001,
+            "lng": -73.90158100000001
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77768583029151,
+              "lng": -73.90020316970849
+            },
+            "southwest": {
+              "lat": 40.77498786970851,
+              "lng": -73.9029011302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Ave/Steinway St",
+        "place_id": "ChIJA2MXxWRfwokRHVwrbcSES_8",
+        "plus_code": {
+          "compound_code": "Q3GX+G9 New York, NY, USA",
+          "global_code": "87G8Q3GX+G9"
+        },
+        "reference": "ChIJA2MXxWRfwokRHVwrbcSES_8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77634,
+            "lng": -73.902008
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7776516802915,
+              "lng": -73.90060581970849
+            },
+            "southwest": {
+              "lat": 40.7749537197085,
+              "lng": -73.9033037802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Steinway St/20 Ave",
+        "place_id": "ChIJgybZwmRfwokRBs4GHfhOQcg",
+        "plus_code": {
+          "compound_code": "Q3GX+G5 New York, NY, USA",
+          "global_code": "87G8Q3GX+G5"
+        },
+        "reference": "ChIJgybZwmRfwokRBs4GHfhOQcg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77974150000001,
+            "lng": -73.90627750000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.78110418029149,
+              "lng": -73.9049148197085
+            },
+            "southwest": {
+              "lat": 40.77840621970849,
+              "lng": -73.9076127802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/31 St",
+        "place_id": "ChIJLaZH4WNfwokRM-Hs5pyh4xE",
+        "plus_code": {
+          "compound_code": "Q3HV+VF New York, NY, USA",
+          "global_code": "87G8Q3HV+VF"
+        },
+        "reference": "ChIJLaZH4WNfwokRM-Hs5pyh4xE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77948800000001,
+            "lng": -73.90611299999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7808328802915,
+              "lng": -73.90472416970849
+            },
+            "southwest": {
+              "lat": 40.7781349197085,
+              "lng": -73.9074221302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/31 St",
+        "place_id": "ChIJvb715GNfwokR9GJyMjWC97w",
+        "plus_code": {
+          "compound_code": "Q3HV+QH New York, NY, USA",
+          "global_code": "87G8Q3HV+QH"
+        },
+        "rating": 1,
+        "reference": "ChIJvb715GNfwokR9GJyMjWC97w",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773586,
+            "lng": -73.897453
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7749089302915,
+              "lng": -73.89613566970849
+            },
+            "southwest": {
+              "lat": 40.7722109697085,
+              "lng": -73.8988336302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/47 St",
+        "place_id": "ChIJ2b86YXpfwokRJwTUxT6OGs8",
+        "plus_code": {
+          "compound_code": "Q4F3+C2 New York, NY, USA",
+          "global_code": "87G8Q4F3+C2"
+        },
+        "reference": "ChIJ2b86YXpfwokRJwTUxT6OGs8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.7734285,
+            "lng": -73.8973865
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7747640802915,
+              "lng": -73.89605386970848
+            },
+            "southwest": {
+              "lat": 40.77206611970851,
+              "lng": -73.89875183029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/47 St",
+        "place_id": "ChIJOSQGZHpfwokRmoea-B9YQTU",
+        "plus_code": {
+          "compound_code": "Q4F3+92 New York, NY, USA",
+          "global_code": "87G8Q4F3+92"
+        },
+        "rating": 5,
+        "reference": "ChIJOSQGZHpfwokRmoea-B9YQTU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.779999,
+            "lng": -73.906448
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7813027802915,
+              "lng": -73.90515506970848
+            },
+            "southwest": {
+              "lat": 40.77860481970851,
+              "lng": -73.90785303029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/31 St",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109659362607078024978\">THOMAS TREADWAY</a>"
+            ],
+            "photo_reference": "AU_ZVEGUUOuuKgeoS_Zi1WFA1H0TbfxwmPw5c7wEgFKR0a9Nb4o8UMNXSrP1y8uNUz0ry5MI6_PbNgegsx4zV0pxX2vc4NGbMLRgaw2NWfD7Hf2ZM3kQQAeLnaN2uQhnWpIuXQZxV1nS5o0s_ejyuRNlbXUsbJRYxpFaMn6xpHvQLwxaoBlpHx2DGhQ8H9TISeT2VBzATY32xxKqfLnVDiUo8C1MWSREVEdWoG1v6z4bEulv3MBgHPQ_4rdDlwWcFP8tXCEGAqGagdO_jikjv02MCneugzjYG2esyKVL-CcZY4Agp4PIjSH_eySfGfol-UNMjk4yqKrlFlnjiXv0Fn0yGyUmg7VCE6xaa00MuWTA8Ce1HATsnNL6gAQ3r8gSwSjRIro8RjAfxsGaceQw3tmf-LywFgZZfLjWEDM3APaSg5bCXVxyJZ8NBs9DYPj8lpEvd6AKXzzB5Z1qOgwOHTjeFY15S4stFCedG6jCdjJhn7pf25hQ_Chvy5K7XBcNTELWCllqDD9Sy2HIT2Xvy2hT_Zb8HCYhIaNk1MdWKp72TXTMACnbWGGHB-xvK5U52yqBvpMz_smPg3iXDeY40dkgwrTw-kozNy4n2Mg4y8RxLtutyO5q-dQ1oNOU-I9ZJ0UePMD1Eg",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ4SJ44GNfwokRRo_BDRh1tZo",
+        "plus_code": {
+          "compound_code": "Q3HV+XC New York, NY, USA",
+          "global_code": "87G8Q3HV+XC"
+        },
+        "rating": 2.8,
+        "reference": "ChIJ4SJ44GNfwokRRo_BDRh1tZo",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.77365899999999,
+            "lng": -73.893013
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77501618029149,
+              "lng": -73.8916758197085
+            },
+            "southwest": {
+              "lat": 40.7723182197085,
+              "lng": -73.8943737802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hazen St/77 St",
+        "photos": [
+          {
+            "height": 4160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108671962578934488797\">D</a>"
+            ],
+            "photo_reference": "AU_ZVEE40k4zGGh5kdzpc5Y7HbKojE6A_lhx_1oE93y6sR5-tuY8KAwhASpslF_n90M7R8U45k0dj2Dab7-kmpV-UJjSteW6SjfyM7g4bEse544x3Fat1UEgnr9zQz-3rpDVjgU8Eosju3NkpeY0YwkffoVY838TSh-nHT79zvg3I-b_wq1hRHE_Luj6Gd9L8htznIMAzaeaAUKyn6Uq-60HRaUWBkfx169SJlXpX1aZh1ljtB-0gN1GLsdhV9SAJuaocOArvUNXv5c3-8aaGZJcmbJDHUL_xw4ewJiflsU8ma0N9oAmWQB9aiNWAPZtS-uqJ-dLt4uSS7r-mjqMfzsVS-q_firKUoYbNawyEFN2p-oTRwUAYDZehzL1fmsPLs9qBxrWy5OLVFfBrrG5K4qfQ9575W0A8Xcw_vhSJ8yIy66AyASDlIPIPTS81-dBrMKA1G5P3bxA7xDuVpvvRLQQHIvLh-8_yOPQrZhDvhQ8_2b2ANi0Qf98YE0ovF7_weXlU9a1jCqT3dGTCrnR3Dp7ZvCfRp24gF-l1sinv7PwNt1LusR6jOKahdPOPtWFdpv3Cxq-nIIbn3wnq9pknlPEptT0kLDAc5WVLCQoq_9uoRLvbrKGfJVaY6puqM6KTvkWU-asLQ",
+            "width": 3120
+          }
+        ],
+        "place_id": "ChIJU4ScvHlfwokRukw_v7JmgMU",
+        "plus_code": {
+          "compound_code": "Q4F4+FQ New York, NY, USA",
+          "global_code": "87G8Q4F4+FQ"
+        },
+        "rating": 4,
+        "reference": "ChIJU4ScvHlfwokRukw_v7JmgMU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773575,
+            "lng": -73.893288
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.77491028029151,
+              "lng": -73.89191981970849
+            },
+            "southwest": {
+              "lat": 40.77221231970851,
+              "lng": -73.89461778029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Hazen St/19 Av",
+        "place_id": "ChIJB1frvXlfwokR00l0MNj2XBQ",
+        "plus_code": {
+          "compound_code": "Q4F4+CM New York, NY, USA",
+          "global_code": "87G8Q4F4+CM"
+        },
+        "reference": "ChIJB1frvXlfwokR00l0MNj2XBQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.773273,
+            "lng": -73.897324
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.7746559802915,
+              "lng": -73.8959333197085
+            },
+            "southwest": {
+              "lat": 40.7719580197085,
+              "lng": -73.89863128029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "20 Av/47 St",
+        "photos": [
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114592143269096100906\">Jesse Spector</a>"
+            ],
+            "photo_reference": "AU_ZVEFHw3r8GYLXNOrdSBh_HgJUUgHLCpPKvOxqPo1ZWmMuWFf_kOHyQKFVC5IjMgiEsgdtedqAkZeFq84h2h9_ueHybyRRwrAbZc8u30d8PjdmDIthD3ijWqT9z0iO9n74BF7JRpB1qB632zkI26NNbYHaJMUDul1VBDh6353zy55HRJNlPaXnHkmgRShvBxx2R2Sfn6d3-RuvnL0vwAzHBWMoBKHWbOONUrnaduJetdwxyF74qvziVXOH6_KGz5kuRU2PbJE5bY9xIJDM69rl6SYX4B7Ekss24rxk3jmt8zzBLdgiJ5gFq3ypBwWTD6sdHCbAFXKqZeXfvCE1azFigwEWomsrm94AFFOvAJowW7aNnC_mcU7lXegRvkBf7AM7ZA6o80cO7_xkcka3v4y65Gub-wJWG5WhjQKYHS86u1uWOWMfDgRgtN4zz5h6TmzfQX3M-TWTHL5Di9MKETFadlOxHcZ_0HyWfRPU0MeIN4L2V-fVPB7Qw-anJnZxrs4A-cd_jnTMaQfBJGGlScxyl1uZkUi44TD0Nyr2B3TgCwseLJ2rB8iI7YPg4WJ84vb8fEgluYdYvUKytr3cMql8zT_5KvC5kixQbT0wgcjRi4NpCgL1vtdegyxEFsuejFAx",
+            "width": 2448
+          }
+        ],
+        "place_id": "ChIJvaSNZHpfwokRS1LbggIWVW0",
+        "plus_code": {
+          "compound_code": "Q4F3+83 New York, NY, USA",
+          "global_code": "87G8Q4F3+83"
+        },
+        "reference": "ChIJvaSNZHpfwokRS1LbggIWVW0",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.773136,
+          "lng": -73.8947354
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7745730802915,
+            "lng": -73.8934381697085
+          },
+          "southwest": {
+            "lat": 40.7718751197085,
+            "lng": -73.89613613029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 877-377-2695",
+      "name": "Bowl 360 Astoria",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 383,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115151249458652897275\">Bowl 360 Astoria</a>"
+          ],
+          "photo_reference": "AU_ZVEEOHrN0gf3sl-epJL1Ei8uABr95V3bplI8LiVYj84_la_oTHUDTnW6pJhMnrMr9uP_m5408mUgBHyJckwBGtaT94WlyCg5eobd3huV_Wc-t3n7Cdc9yZHs_0kc-LWNrRqMyoOcoGxDhrMm1oW_swsovHN13bzWd3yh9iACI26LUks44JXm-FZckeaVqRPLEqabls_sjzJgmYXr9eGS3DCVPZjHORKiE-tRkyCjuuHN-26tOBVMtlhnMrBP_U8bpQA7l74GysUvglUfbLfadqGRRI7C50HWIuQ4687CU8e_YdXr9rcRlKSW3aAnc9PDc8tnYLreyyRU",
+          "width": 680
+        }
+      ],
+      "place_id": "ChIJf-nXH3pfwokRxlV-hFdPA5E",
+      "plus_code": {
+        "compound_code": "Q4F4+74 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q4F4+74"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJf-nXH3pfwokRxlV-hFdPA5E",
+      "scope": "GOOGLE",
+      "types": [
+        "bowling_alley",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1780,
+      "vicinity": "19-45 49th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7787113,
+          "lng": -73.9026028
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7799977802915,
+            "lng": -73.9012659697085
+          },
+          "southwest": {
+            "lat": 40.7772998197085,
+            "lng": -73.90396393029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-726-9112",
+      "name": "Astoria Pizza Factory",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116013199477076364439\">Heart &amp; Soul Concerts</a>"
+          ],
+          "photo_reference": "AU_ZVEGlc8ReNIvGcF61Pao5wWKs8RVvmZE2YHRD8YQl9gRgz1TR1dVdcqNxbg8ZigvGc8IhW209lSfafFp_nK4J6-eykMRwYtOkRPMoz-b6HcIPg3DVz8AOvi1rbtPKDmbDTjCI1QSYu6R8JEzegEnnXHewMCSeu3dSPc6c2_tPKsFCyvLqdYZnJ4gcoXyZA6wPKnQrOZy7bsYLnL-W82Xq0iq8g617xeSyFmVqx5fAF1aJAYjt2TFTqjLcEbgNPe6lLkATapcPAbgw38XvNJRBgtvUAYzq3zerzYR8wUNl0pjeqFr4wvnTeTLRXh9ahhYZuEDZuuRQ2Ba5yczWW-93yLoeLwzeZqmDB6lq47ClttLfmVESxC_BO4_p0IU1lnIc7TrrYXq_ZULmKMzbgUAcO3qbnN6DjHCwxqxXI-pYLZTNbHtAXfpjagxQOD9t6o49CjP63QQhzmW9REBoSgXZyvSchU6AbOzaVo3O0KFMjQXZjQkpKm6oJXws0I775L3ykbBTrBBm3HbDW4ytrOg2qJe9RSCHq66dvvpN6ae1hj1tmn2Bp76Kn5zAAePWkvY-GZqqOgXV2s8OwP28Z4e36pDI_yop4LbsWj0JSjUFdzLC6JJlg9UXZ4cVfbp1d4ZU_zvEBw",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJn-CYaGNfwokR3ZV_OKEcGmk",
+      "plus_code": {
+        "compound_code": "Q3HW+FX Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3HW+FX"
+      },
+      "price_level": 1,
+      "rating": 4.5,
+      "reference": "ChIJn-CYaGNfwokR3ZV_OKEcGmk",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 473,
+      "vicinity": "19-46 37th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7786733,
+          "lng": -73.9026611
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7799936302915,
+            "lng": -73.9012555197085
+          },
+          "southwest": {
+            "lat": 40.7772956697085,
+            "lng": -73.9039534802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-278-0799",
+      "name": "Dragon Gate",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107821815236197059478\">sinan erel</a>"
+          ],
+          "photo_reference": "AU_ZVEHq075GfAobBbijnUrwX4wt2oRzGhjsFmBrEaEg3De09M8Qchf_UO5uDddSsAUD7a4LICweTs2QBz6QVNhuN_KT1DTPhqxeCMXA1XPWXSYEBL_I1CWkB7L7atovcR1icXuEIEmGUriumoGISChBH2VSok0KioCz08EZUpweRSlUDYcKxpZod6Ap8NO3cJ4ziygfbNf31UmWGcye3ZaStmgoEYd0rZ-8LCovm2Ms0MDkE2pU6gKaxLXxoslf4SMX9Sl129PJ27CNeQ2hmF2uslqiZbzvOyATV3eGVlWnaf_diVcJZMaR4blTzQXNjCoSLFRBSMQ-LWBloXGrtpr6EIkJ9Z80yjCHvWb7k6OCfXrYaIMVwE9IavuaO6WN3Dj9kxyu94Re4WmXDlqnPBGprT6gNdOBwhe-pZUrI4H5SVfbtcCukGrArgoCVPNSRTmIPAerSts9i-fGqMBhTxS71WWQHUdt0tK72JiI6XHS3nIglo7rYSVdUJHmYzjllwgxu0NfwfFAPUbTHY-oMvebNq9AaF_UprMr19dsHYfQTygIi5bdWv-cDEWSRyFOgbqpwVi-hB3AnotdagcgRYsq-3QAsK4guokLHEJlHSqLufnyNOavPoa04yZOQOsqMhKhgg7c3w",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJjyitskJfwokRD5A-YjQjb9M",
+      "plus_code": {
+        "compound_code": "Q3HW+FW Long Island City, Queens, NY, USA",
+        "global_code": "87G8Q3HW+FW"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJjyitskJfwokRD5A-YjQjb9M",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 94,
+      "vicinity": "19-44 37th Street, Long Island City"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77915,
+          "lng": -73.904923
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.78040798029149,
+            "lng": -73.90371311970848
+          },
+          "southwest": {
+            "lat": 40.77771001970849,
+            "lng": -73.9064110802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 718-777-7249",
+      "name": "Astoria Live Poultry & Meat",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 372,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102315264339159888842\">Astoria Live Poultry &amp; Meat</a>"
+          ],
+          "photo_reference": "AU_ZVEGZq3tbBMljj04EqCQ5uANRgGYmsGA2ihs-03JNNa1f09C4KmUXon8w8w2Z2gczzM-d8xWX4-waCaQsHnEBsxuS-_mch0ka68wENR4ZTYKlRE7kF538Krus2nAkTiQEEJJLtoKICyWYGOMUBe_Ooza0SGvSepzfl3-NaimPoyflOEOR0OBii3ClBT__Q5SwUvS08RSdUnD8fUysHSoV4U53KWWghTRUFudwTmy942Wn0DlrtELCjHlbzMLqIPUUI3d1VqDGoq56lHGZqUvw5Bn02LEZDrAyiJELjp6mFr1UodbLX7VPv2kNdtIvBQrPd64wNzJ-iLY",
+          "width": 803
+        }
+      ],
+      "place_id": "ChIJ_cLRjGNfwokRamXHFm85jHI",
+      "plus_code": {
+        "compound_code": "Q3HW+M2 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3HW+M2"
+      },
+      "rating": 3.2,
+      "reference": "ChIJ_cLRjGNfwokRamXHFm85jHI",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 134,
+      "vicinity": "31-37 20th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77733219999999,
+          "lng": -73.8933794
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7786659302915,
+            "lng": -73.8920099197085
+          },
+          "southwest": {
+            "lat": 40.7759679697085,
+            "lng": -73.8947078802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-935-9657",
+      "name": "2 Guys Halal Food",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105584726048134536725\">2 Guys Halal Food</a>"
+          ],
+          "photo_reference": "AU_ZVEE6oE9krxOH88sMyQ5XmWeTJ-VS9yMnQzl93OY-CId81XhOKOotmuNx6tm0LWFkorCp5I3fNi3oHfVcnjU2OrFDDxKKGD3N6hoLuDFT59VXAo8D6zHt2_BIbN9dEtHEoUds3COdE96GbCCzbOX-goIileEQr1hw1ovkvl7iRoPmXMzLG9wtv_mivdf7nSbfYXcXZAsVH-FsDjABcdu8PlzA2dqLY-n2gKNWSeWtwy29oz4tODtLx85v_R78ojYvmOBj2si5i28rA9IQo8qIRP2iVNfcbwlQAh8O2TfpxYIRHGvaWxXYPGmHh9vVb0e_zVON3T8X1cA",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ-YUwc9JfwokRQRuVs1_BMLQ",
+      "plus_code": {
+        "compound_code": "Q4G4+WJ East Elmhurst, Queens, NY, USA",
+        "global_code": "87G8Q4G4+WJ"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJ-YUwc9JfwokRQRuVs1_BMLQ",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 149,
+      "vicinity": "46-10 Berrian Blvd Astoria NY 11105, inside the park lot, East Elmhurst"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7759575,
+          "lng": -73.9026841
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77722903029149,
+            "lng": -73.9012251697085
+          },
+          "southwest": {
+            "lat": 40.77453106970849,
+            "lng": -73.90392313029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 718-726-1600",
+      "name": "Code Astoria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1168,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111130121772586998275\">Code Astoria</a>"
+          ],
+          "photo_reference": "AU_ZVEEbR2tBoz0w_tlxu-Cc_SjyBjqcHY1lbXGmL1otBOn7chnR6h9tHvKedLaAV0vBoUWbavHBZGerehiabgfC0u-A3mE4AMTfraVZAZhYyWgWBa1EVMXr1UOsXOIt0qF7hVAVHbZ0lQwLp7WDU-AVY23hMBdMZJ2uL_VphnA_cu9InFPSQzDc7iTtWaDHG4VSMj-M_9Xic6VL_bBZdljwKugfh1XS9jyekeBIBCNcNa05nlaw8Ez-ziO0uAubP7ucd49KkX56NJ_bU1P8SNmexFez22DXe02PJllj0kKcSufKY6-bX8gQMfRKCQ2Kbff6QuF4h7WnApo",
+          "width": 1752
+        }
+      ],
+      "place_id": "ChIJdw23siRfwokR80oXumBYnVI",
+      "plus_code": {
+        "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+9W"
+      },
+      "rating": 4.6,
+      "reference": "ChIJdw23siRfwokR80oXumBYnVI",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 985,
+      "vicinity": "20-30 Steinway Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77576869999999,
+          "lng": -73.9029528
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77705428029149,
+            "lng": -73.90145971970848
+          },
+          "southwest": {
+            "lat": 40.7743563197085,
+            "lng": -73.90415768029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 347-468-0030",
+      "name": "Fusion Lounge NY",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 1462,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118167382270332017112\">Fusion Lounge NY</a>"
+          ],
+          "photo_reference": "AU_ZVEFN5HDVuPug2gKlGOqzw4XYUyKtIGdIdWBwqgbl7liU-LOYeLzMF9fxdJsKfPXDp7LygFnBCisaSpZky1AI1RNCNaPHjUCpU_yeRVEvvt2vQxSvdOU5x442VmCPecMrt83_rE5Q2D2xPfhel1J3QnDGlDkJb9FX7r-KSve0iIXBa1g-zFOtGvDYSj50Sm7VhQ7GxvyHzfbZjDr17QFsNzMWoQGt3ChRwvG1BRNoYqMQS6ZwjOFkN6StfgzG7PXU1jR-_AkhDK53k4BOwBxWqR4kffpwvaAll1pIF97eL0ll7W0S35jmty6vk8mZLKAalUUE1c3YTSo",
+          "width": 1179
+        }
+      ],
+      "place_id": "ChIJPR2EE0pfwokRxs-_tm-d35U",
+      "plus_code": {
+        "compound_code": "Q3GW+8R Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+8R"
+      },
+      "price_level": 2,
+      "rating": 3.6,
+      "reference": "ChIJPR2EE0pfwokRxs-_tm-d35U",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 378,
+      "vicinity": "20-38 Steinway Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7745099,
+          "lng": -73.9016621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7758021802915,
+            "lng": -73.9002279197085
+          },
+          "southwest": {
+            "lat": 40.7731042197085,
+            "lng": -73.9029258802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-440-8266",
+      "name": "Taste of Gyro | Astoria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3229,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118201069652937506191\">Taste of Gyro | Astoria</a>"
+          ],
+          "photo_reference": "AU_ZVEHOdcDNn69xDyknQ7Ke2Lr4Jo7hMO-mu2xk1WXgdW5YJoKvh7UWYufzF8XIERIyttrrGxKUlwcdLyTj44WxLHNVXjT08qs4azbq_Dkgr9PSa3Z1lFpbcR-31cgKTzRPnXj3reliq1lLqFYITO6UHeA7yiiu66j5tHlfy5a3BI-HeBGfZVe_bjfmbKDnnLQ0jPZLFg5_4a90piKT0A47W4EBvFasp0hbMG2wAk6b8AZo-essa3T8VmLsI422rvcbgtOF8McsSBL0EA1V1fGFXRnxc2z-EdN9POlP5Q8ucB7oz0M9ntTh7wnRHQnNDNjv4WQqkoJsVME",
+          "width": 3500
+        }
+      ],
+      "place_id": "ChIJD7cEIQFfwokRPzMQH9g8or4",
+      "plus_code": {
+        "compound_code": "Q3FX+R8 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3FX+R8"
+      },
+      "price_level": 2,
+      "rating": 4.9,
+      "reference": "ChIJD7cEIQFfwokRPzMQH9g8or4",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 349,
+      "vicinity": "20-48 42nd Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7734574,
+          "lng": -73.8926774
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7748010802915,
+            "lng": -73.8913925697085
+          },
+          "southwest": {
+            "lat": 40.7721031197085,
+            "lng": -73.89409053029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 312-229-0099",
+      "name": "Farmer's Fridge",
+      "photos": [
+        {
+          "height": 270,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113336845606431267829\">Farmer&#39;s Fridge</a>"
+          ],
+          "photo_reference": "AU_ZVEEdFFiFh16RdjzKbRYwRQ7t50mfjHgduxEg4vHPsu_bhtNULH-lyzT_JVKhPDuCpJXksP5wukqPqFfjtUvj1IMwYnfjgf9D_S_atnbo0Fdyy4GOFG3jX2muWfq6wGon0rpOPA8hPQkMmFRtVIj3wqBOtmi8_fOqbqb0OSpkYZVNbnhO8x6bBQmrYnXihW0SCgvunxihrBfTfWZZeOS1vXehMcqUB_CPxtid_NE_aXl2rm4GGRJEl3XnLgJgPLJLZPEpguhw18holcErl50nlOgkxX5TcA8iM67ugfJnyPb-74cGW_IBEy55Vf6G0P43onMRhGgdK8c",
+          "width": 480
+        }
+      ],
+      "place_id": "ChIJdZoU7Cz1wokRJQF1X2e_z5g",
+      "plus_code": {
+        "compound_code": "Q4F4+9W East Elmhurst, Queens, NY, USA",
+        "global_code": "87G8Q4F4+9W"
+      },
+      "reference": "ChIJdZoU7Cz1wokRJQF1X2e_z5g",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "vicinity": "Located in the RMSC employee cafeteria along the vending wall, 19-19 Hazen Street, East Elmhurst"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.773136,
+          "lng": -73.8947354
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7744574802915,
+            "lng": -73.8934882697085
+          },
+          "southwest": {
+            "lat": 40.7717595197085,
+            "lng": -73.89618623029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 877-377-2695",
+      "name": "Paddles 360",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1066,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109062001784959077808\">Paddles 360</a>"
+          ],
+          "photo_reference": "AU_ZVEFLHqbPO_a5rJ4Kl5dfJ5oY7pNo3mR9kxG6YfHIUlZ2Qy2jXyQE1yrCtuDKoWyQcVl9e_Lh_67Hfue-i7f3wXELb8R81reyFhO192QvFVMix-hJskdkv-7smidJHu8wLkXXZ6SQq6y3rIXi0baEupG-EgYg5BRRnSURBn3BDSpMUJvcl5LJBtBUsicfv7YO_VeAQT-5-NejRp3RlBD9oY9d13Ek3j8K2MLZvs1Sb-jzX5CL4ZbMoLSEwRGP25WIqDXmQwYbbEBZjkIj4WAaXCWoSztEHRRKLTTN10BZiZjR0jV23nIfUaudUC6z7Jl9iU8Uw7JopIE",
+          "width": 1600
+        }
+      ],
+      "place_id": "ChIJwZ5SJodfwokR5xkQ9U8G1oE",
+      "plus_code": {
+        "compound_code": "Q4F4+74 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q4F4+74"
+      },
+      "rating": 3.2,
+      "reference": "ChIJwZ5SJodfwokR5xkQ9U8G1oE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "bowling_alley",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 5,
+      "vicinity": "19-45 49th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7751623,
+          "lng": -73.90363529999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7764393302915,
+            "lng": -73.9021825697085
+          },
+          "southwest": {
+            "lat": 40.7737413697085,
+            "lng": -73.9048805302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-204-7722",
+      "name": "Apicius Pizzeria",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107275352939080864606\">G H</a>"
+          ],
+          "photo_reference": "AU_ZVEGl14bezznlsT0FI7I4CpYpxMhq1-wTzPTU0SJpd-xBYvfdrAmf7qLY8Haw_XTqBkOZURJzOduS7WObaVsfnK6jtAEC6s4a3700ydv-ht917INoPoe4oVp9rFo4I6AdvoZQ22DIgnxUgZJ-ZWy5Z2_ocT65yhzivnresgpJ51Y-5LGVt54aA2IJ-CvNpq5_zgZ4hCcFKcp8iEyvwHw_rys5bclp6wGb5Y2Eb0h1we8zqn-qNlh7REgqPIBriMgXESFyOjcBbajrYHT1T2f-JqcMYn30lPsf5l88vnw67Mqk-bhDj4K47Iqbdf8xxPFBBxzZLyZ0D5VFsr35IhZ1L1P2K-R875Abn7quE0LnXt0vmEKJMnLFA4O1JG3s6RyzVwR4BKznX4aXIhWeDTVjS9gQF6bLeYe9y_r7-FIPpinxRuDxW7SeLkbgCLBjGLySgMOSEuJ-FusxxMXiuOmKWEGRPswKoM7Kx3Nku-0CENBUIFRLL24-rU_tlpQdafFCpmFQrE2Ty7G_OnJtS3BuFgAakmGhQd_D7XecTEUNg--qjY0jJK_L_CiWgQpygkbNR__Qf6TJxJcBh7K1IlPRoRI3x9lvk6TbgwZ7yVJww5n30GaWt0SiUtuQeEHqtUeOkj0pYLHI",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJaSbCCWVfwokRXW1gf11bZX4",
+      "plus_code": {
+        "compound_code": "Q3GW+3G Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+3G"
+      },
+      "price_level": 1,
+      "rating": 4.2,
+      "reference": "ChIJaSbCCWVfwokRXW1gf11bZX4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 146,
+      "vicinity": "20-72 Steinway Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77594459999999,
+          "lng": -73.902686
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77720863029149,
+            "lng": -73.9012450697085
+          },
+          "southwest": {
+            "lat": 40.7745106697085,
+            "lng": -73.9039430302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 718-726-1600",
+      "name": "Central Bar Lounge",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3510,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109962410915955622267\">Central</a>"
+          ],
+          "photo_reference": "AU_ZVEHRSKQdExlcZBKyci5ITfS7BONod4cO-pvCRzjrCAtuZxxVGBMRIpdkwWH4ly1uyWom2eVydgi847-vjT4BGx-Gar6m1qGIEySFE9i4SwASTggV9yBssMWOphImU0OLGznANvl2DFgr2-RXcK9-O6fWfXg8CFYlhP-lSX_GjeUHGuOB13RVjBVjzuL32gjuR46S0qZmkl1tGpm7eXKB5SDan8dibQihNobOwktV95b4p_ZTOWKAK-ZNC3TLyFNuL8-1U2ZBP7259UKWhinEpQ0wlmYjJ6l4pa_CIZoB82QvOVwHcfqIGAZhd4og4FnYeFChD5xWwMXhcK52qIV6FWqhPbvT1OTDWtyiN89EZwuNckLFDg3CSyZUpJ30YKO6PhHmjj7EEAebbbPknJsfOX4AadAW87uCtbMafGgVOnC0HPHecWxnKIkP4GD-IsHGE_D0vjhX1-pICgkvxJ5W6kn5yCeYvFq689GAFFYoDxwHsPs_CZizTuZUvNDIBsF57rXQ_gctTNrgUSxkalF4h2CpPMVBvhICZDdWKrm9zK3ptEbdlMkInVNv-_WYIUFIeh712b0B1XbDHjljmhB6tObiidd-aA7s4-e6Q18BNDJb2y2cnrP16FSyMeRja5_5D367Ag",
+          "width": 5265
+        }
+      ],
+      "place_id": "ChIJJ1iT4WRfwokRgHRUKkjqHpo",
+      "plus_code": {
+        "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+9W"
+      },
+      "price_level": 2,
+      "rating": 4,
+      "reference": "ChIJJ1iT4WRfwokRgHRUKkjqHpo",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 236,
+      "vicinity": "20-30 Steinway Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7787204,
+          "lng": -73.89599129999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7801099302915,
+            "lng": -73.89470376970849
+          },
+          "southwest": {
+            "lat": 40.7774119697085,
+            "lng": -73.89740173029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+      "icon_background_color": "#4B96F3",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+      "international_phone_number": "+1 718-626-6016",
+      "name": "Padania Wines",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJK-RJPHxfwokRz52PHl4xxB4",
+      "plus_code": {
+        "compound_code": "Q4H3+FJ Astoria, Queens, NY, USA",
+        "global_code": "87G8Q4H3+FJ"
+      },
+      "reference": "ChIJK-RJPHxfwokRz52PHl4xxB4",
+      "scope": "GOOGLE",
+      "types": [
+        "liquor_store",
+        "bar",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "vicinity": "18-13 42nd Street Suite B, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77614320000001,
+          "lng": -73.90087609999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77743558029151,
+            "lng": -73.89962421970849
+          },
+          "southwest": {
+            "lat": 40.77473761970851,
+            "lng": -73.9023221802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 516-301-7800",
+      "name": "Caligula",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108894174924783014124\">Caligula NY</a>"
+          ],
+          "photo_reference": "AU_ZVEHdoBHXodl4_6shwCfBYA2Joviyl5osbAgGfXheszdGhTUIEWq2tLdB2yNCYGxcsgApQZ63JOSJmP_g4q-6VO9Ch9HRbfg0at9zbpev6Lu4Bab2o90aTb07az2Dc8eNPA6V-IqLGA14PDxH-c44uMYEC4PUU8J-YR8dMOClSU5hPR3yWppC_Sy6DhzzFqtcZoIizUwVhD_PgVoaPTbpFbL_QU543gkag0dCndFkspZZfQYjdoF2Y11FlCU52dok06FMsyhyJEgHLJB9xjqNW5dkALvHW1SZ3EBD_4ilAxFivLtmVT_1Q60fdSsclDRSGeD4mcH_u-QNDK6KHJ8rhBi5MMiMYE6-dQue6RITDj_cZLkb_5RhENTipS68yrafGvHeo0zoo1h7SLuOtiGmQ1HPzX777fMnf43YacXFI5XQGsPlUbY3HH-fvT9ohUoo33x1nNU_heJQxK-UsRp8G_5XWMPULTga8hVkhYrrRAnUsUwTzuMB-7oKBRLzHvpHXYoUI36NM63feCS5lcJ1z8lBsbnAw_KnL4S_iYYwIwesVy9t6TEn2f4lXE7r94Zn8TqlC-iX8G4Q3HGQ1ZZQoRDzHLO3urJpYULR0AJNUzILPIZ-0TL1zTbJR3_wcRxIN7JZSQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJo98g0mRfwokR1gEVsFCZet4",
+      "plus_code": {
+        "compound_code": "Q3GX+FJ Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GX+FJ"
+      },
+      "rating": 3.9,
+      "reference": "ChIJo98g0mRfwokR1gEVsFCZet4",
+      "scope": "GOOGLE",
+      "types": [
+        "night_club",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 390,
+      "vicinity": "40-19 20th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77597110000001,
+          "lng": -73.9027132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77723488029151,
+            "lng": -73.90124276970849
+          },
+          "southwest": {
+            "lat": 40.77453691970851,
+            "lng": -73.9039407302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 718-255-1989",
+      "name": "CideBar",
+      "photos": [
+        {
+          "height": 576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116211925133312659026\">CideBar</a>"
+          ],
+          "photo_reference": "AU_ZVEEQH-7Dz4as6g1YkXlot0zdCsVlOVq5ahGulQVDW9dW1JXgl_8khJbJfqnPrdLr_73alJwzaULl_1OP7IYKHFBT9-gpoLpQ-uDKL_Tia4O-cIjSAPzl-A2BM28zMV5citN6SddIsCObulx6RBQ3s4ahIN7qXomVhE8fHYx39uVqt8xjT8hmOAH8IiPGloJLgN5idKqIggiG3n0S3V8CqrlYTQuXU5YsZjxuMaqX6M7C3995xHW0b85pBHWYXtmNqC5qGbaOFIoPr2mxO02jxKdZjnkwtdLcu0_IN1CGS_G2yIbZBDB5GKOAVy1N92k4gs-lB2YDmSE",
+          "width": 1024
+        }
+      ],
+      "place_id": "ChIJG4suQ6RfwokRZLu2T_UTyt0",
+      "plus_code": {
+        "compound_code": "Q3GW+9W Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+9W"
+      },
+      "rating": 5,
+      "reference": "ChIJG4suQ6RfwokRZLu2T_UTyt0",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "next to Code, 20-30 Steinway Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77700469999999,
+          "lng": -73.9033986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77840798029149,
+            "lng": -73.90211286970849
+          },
+          "southwest": {
+            "lat": 40.7757100197085,
+            "lng": -73.90481083029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 917-943-2748",
+      "name": "ViNYC HomeRental",
+      "photos": [
+        {
+          "height": 1366,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106373121576833485127\">ViNYC HomeRental</a>"
+          ],
+          "photo_reference": "AU_ZVEGTh8n1huFHhErLoP-0tHkXs6IefMzKP1BUKy31fsKi0-oMVKN3zkIT6ph_yQeTVxVqR69DpKlOCTXGk7nQF4bdLiGzM3fKVevjWWZjwWjjT-UffGq8gWpGJyFLqsyzRar2Ww1K0GpB5xSurg3A-4iqpG1gVlwj--JP2DtT3Y5kHpTRomnpSkWpnNMsPSyqq9OYiLpoRILdS87HlUtROFzcrHpZ0Ikw8o_2QpmcUCbX1HF_c6ukhcmYntgWhV4oVUotmNm4kghd2usNu5tbW7owkiiZuYEOHyrlpUu50SF80Rz3FTM9-W_3OTweIa3c1mEdPc-pb48",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJgaRVhwhfwokRyNqvutNeESY",
+      "plus_code": {
+        "compound_code": "Q3GW+RJ Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+RJ"
+      },
+      "reference": "ChIJgaRVhwhfwokRyNqvutNeESY",
+      "scope": "GOOGLE",
+      "types": [
+        "real_estate_agency",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "20-15 37th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77588269999999,
+          "lng": -73.90230559999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7772345802915,
+            "lng": -73.9009607197085
+          },
+          "southwest": {
+            "lat": 40.77453661970851,
+            "lng": -73.90365868029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Comfortable room with private parking, 15m from Manhattan and 5m to LGA",
+      "place_id": "ChIJlSn34GRfwokRhFnwI4y7Tuk",
+      "plus_code": {
+        "compound_code": "Q3GX+93 New York, NY, USA",
+        "global_code": "87G8Q3GX+93"
+      },
+      "reference": "ChIJlSn34GRfwokRhFnwI4y7Tuk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7760559,
+          "lng": -73.9032586
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77745918029149,
+            "lng": -73.90196856970849
+          },
+          "southwest": {
+            "lat": 40.77476121970849,
+            "lng": -73.90466653029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Maison youness",
+      "place_id": "ChIJOT27LQBfwokR5oHVmDpdg28",
+      "plus_code": {
+        "compound_code": "Q3GW+CM Astoria, Queens, NY, USA",
+        "global_code": "87G8Q3GW+CM"
+      },
+      "reference": "ChIJOT27LQBfwokR5oHVmDpdg28",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "20-35 38th Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7728135,
+          "lng": -73.8974066
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7741315802915,
+            "lng": -73.8961469197085
+          },
+          "southwest": {
+            "lat": 40.7714336197085,
+            "lng": -73.89884488029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Paul Raimonda Playground",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100135328095812154187\">Paul Raimonda Playground</a>"
+          ],
+          "photo_reference": "AU_ZVEFnou9EgL0H2E3Ihm3x3Gxpn3xi_wnMtBlx7_lMgdyyX8sUGMeZR471b9FTq4-T_i-S_Jd5qfZjgkzWKL6WQvHwsGvmiqhIts6xW9EDdZefiYWWH7KJ14Z93HTQ6zr0F3nngOYqMqyZOw7RkXawJZAG4IPZHNb_TbE0TTXB_RCNfpeXt5Ws1FJQaoOYda8latMVghlS_XF6iKsaEeyTI_5_HyZ5gOvkP1sQe8MlsEoTuR73NXHEL2QvWBQmsG8odTAYAMnrmvKf7QSRtwRmUznHnnsu568X4U5ZtW4_NX_DLOp6Z0PqvDSo-IWWia3FpvWjgmdHU1E",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJA85TfnpfwokRu5MfdPTw_fA",
+      "plus_code": {
+        "compound_code": "Q4F3+42 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q4F3+42"
+      },
+      "rating": 4.5,
+      "reference": "ChIJA85TfnpfwokRu5MfdPTw_fA",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 225,
+      "vicinity": "47th Street &, 20th Avenue, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.778752,
+          "lng": -73.89707299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7801775802915,
+            "lng": -73.8958481697085
+          },
+          "southwest": {
+            "lat": 40.7774796197085,
+            "lng": -73.8985461302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Steinway Mansion",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115462652844575432574\">Noel Santos</a>"
+          ],
+          "photo_reference": "AU_ZVEHOSZ4rRw-7-9xbCHGoCIEArLVFmDt_mt1LTAOXnIL6oQbeL6IRCPNK_AQSGlF_3OCeIY3XkqoiX0_zihQ2hK3WQi8c-xqBgAL55BZp-d4ZKgdsqfwKFCM-TD62hYqUl8EC-7e0kjYO6x-GuZLVvqVYS415YBLGvoRdgHVI4RoB48tPQZdGFPdrjQkWugEDorXrVTI-ae7bgB8h6hcADloL17ZSwydcl03vEmsPb-rkm1Ph-PWmq4OiIV2TMVcgSfLjMuDmH-_xumg3OaRdsZUAWWE0VxvzsvXndI35nSU1-ex4FlYQ-f_CF6xz6ZaPyEeFpZjIvJCYShqVqACAq1doA3yUo__U3mV_qEIcx3Aeu2FBj3PjytIfSHH9KSOTosSkmJe7plA5MB8GT93nZJCTsgdFMPB92dXlYLn4dYcHhachzxRum0MRQiqN8IoKPCRH6L_76ELguqvC0SPjcQZ3f77LT0mYoMtEdlTDGYtlr_-HcqoZoDPXC2ctwLFuwxkpeul-ONPDcmSLcVZNXyzFBC5xXBj5fWlBLdiJYSJiJO1SkyGd2yJgQvnk5Mu0cTHmbz3tJpPGh2lLiQn0gTFpvRiuBKaJNOtMMurqkgWLmM1M3JBQiQ1f7pN_MUnEbacjWA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJsaY3XXxfwokRKarQx36VFuI",
+      "plus_code": {
+        "compound_code": "Q4H3+G5 Astoria, Queens, NY, USA",
+        "global_code": "87G8Q4H3+G5"
+      },
+      "rating": 4.7,
+      "reference": "ChIJsaY3XXxfwokRKarQx36VFuI",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 45,
+      "vicinity": "18-33 41st Street, Astoria"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77322939999999,
+          "lng": -73.89203669999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77446408029149,
+            "lng": -73.8906673197085
+          },
+          "southwest": {
+            "lat": 40.7717661197085,
+            "lng": -73.8933652802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Lent-Riker-Smith Homestead (1656)",
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103174998050442551123\">Carmen Jimenez</a>"
+          ],
+          "photo_reference": "AU_ZVEGyvS8qDRTFOBqFZ3oSmGRo1Z8579Nb_Hf78wOWHSpn-yrEjDNIf0WXFpjLvwuaV8tZ_CNVTSGga-8Tvwk1ibFRAAdb4bkLIqTGLzHesG5sScDdrcfVuBtVc8cm39RY5uHSUeEeUtee0gLdlYbblw0MdqRN3l7EJEemPUp0YLdu4rOBoAfy0Z1uo9Wb6bfFhPeuJxe8CLo8FUHzR1hOc0MEu2eYLu9pNrM8pTXjYWevUWGAz84bRpoROE1Mlc5bPg1I-ukTeR45i5bx6h4amXbZ_CgOsEkbx7On6mPoJD3GOFkddrS7A6u8W57uYAYSdeh-JIcseZj7VI6AqB9LbbPO7cmCxny47wHytGmDCJ6irCx2D0SaTUFyywgbXck8Gb-S32dGW0SGBjkdIyA3cMVaKpdYu9DeK-Uem9zw6two9jdHzl2bjgp70oLcH9XFNvwVt-l9yhoX_qlbJxcLtuW0M0CoXj5qV2oU6EpNk9pZsVTlUyp7FBNK4ePmw6MLYhfayEbXlgOM92PT7mjwjSEna7gFf1bq4YXxAq-T_k--rnSZrnciXfKsFtlvfvMcq5lwNR76tezszIJM999dOpdkWmlLmUBb3JWR8RvHpVfC6PuL2pR4vMUFpI5H50Po4M9hJTz6",
+          "width": 1200
+        }
+      ],
+      "place_id": "ChIJzZ0btXlfwokR8pPKzzx4_GQ",
+      "plus_code": {
+        "compound_code": "Q4F5+75 East Elmhurst, Queens, NY, USA",
+        "global_code": "87G8Q4F5+75"
+      },
+      "rating": 4.3,
+      "reference": "ChIJzZ0btXlfwokR8pPKzzx4_GQ",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 16,
+      "vicinity": "78-03 19th Road, East Elmhurst"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.777229,
+          "lng": -73.901932
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7786050802915,
+            "lng": -73.90062156970849
+          },
+          "southwest": {
+            "lat": 40.7759071197085,
+            "lng": -73.90331953029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "38 St/20 Ave",
+      "place_id": "ChIJVfUkvGRfwokRIJObniXTdpE",
+      "plus_code": {
+        "compound_code": "Q3GX+V6 New York, NY, USA",
+        "global_code": "87G8Q3GX+V6"
+      },
+      "reference": "ChIJVfUkvGRfwokRIJObniXTdpE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77638899999999,
+          "lng": -73.9015665
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7777587302915,
+            "lng": -73.9001900697085
+          },
+          "southwest": {
+            "lat": 40.7750607697085,
+            "lng": -73.9028880302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/Steinway St",
+      "place_id": "ChIJD--mxWRfwokR_n8oUO1sqMk",
+      "plus_code": {
+        "compound_code": "Q3GX+H9 New York, NY, USA",
+        "global_code": "87G8Q3GX+H9"
+      },
+      "reference": "ChIJD--mxWRfwokR_n8oUO1sqMk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.776436,
+          "lng": -73.901474
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7777563302915,
+            "lng": -73.9001628197085
+          },
+          "southwest": {
+            "lat": 40.7750583697085,
+            "lng": -73.9028607802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/Steinway St",
+      "photos": [
+        {
+          "height": 4128,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110068034998075350365\">Leonardo Torres</a>"
+          ],
+          "photo_reference": "AU_ZVEHb89SWyGF-XiB0ENyGfuO1mL16vdOyliA83bSEbkIcwBRy2OWh_e-dCahU3aoAoBJyGmbl6vWPusFLxHI71qiL4cxu_x0WMk51ORg77ZmIIIjBSBNBpTDr2_mo69opRcOLs7HdiCN_wQpOQmStpOrifFbPByK55kAMCx5F03qbniLYx3PjdX9jsUE7iQznNYM_Xuo5X4S7stEwRMF2GOLFT5jcTrlTdKRggs-Agosc5gw2fBVb1oVBO_RrJQ5nnABJzWeD-2F3ANlUUrWhD_-6AsENS22eP_T_Iwsylq30h53oOUOXn7kWNEnE7J0W-cq5ExlAuTvhutoJ0coNuX7lWNTgZMAj_kayBrYXUQB0vUaoVJ2-Vsj-fdxRiu6kvVOJDZj0XIzrcEriLwcsVaBwaw_BDuAePoWiAcos-8ZKAJ6TrrR2uXOjGLa6xlOJUNeA1-0AmXysdmMt8wbzqWRwK3W8kYPCQc2HBmnAqsTqNHi6ZxpHTCBD31vlzz0PtZ86KooHZQ6DuUzRU3M7EFZZ4oCfRl-PuTKX8Khe6AY__2sHeOOrd-kXS8JLkQ-5OEMpNaxIpTrVWU-7bt6QUCYE0Z56WyZy0WyRSvX4Db9XRVrWhEXm3ANHqkcjE8oK",
+          "width": 3096
+        }
+      ],
+      "place_id": "ChIJAb-MxWRfwokRgJlt1w9ITxU",
+      "plus_code": {
+        "compound_code": "Q3GX+HC New York, NY, USA",
+        "global_code": "87G8Q3GX+HC"
+      },
+      "rating": 3,
+      "reference": "ChIJAb-MxWRfwokRgJlt1w9ITxU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77631400000001,
+          "lng": -73.90158100000001
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77768583029151,
+            "lng": -73.90020316970849
+          },
+          "southwest": {
+            "lat": 40.77498786970851,
+            "lng": -73.9029011302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Ave/Steinway St",
+      "place_id": "ChIJA2MXxWRfwokRHVwrbcSES_8",
+      "plus_code": {
+        "compound_code": "Q3GX+G9 New York, NY, USA",
+        "global_code": "87G8Q3GX+G9"
+      },
+      "reference": "ChIJA2MXxWRfwokRHVwrbcSES_8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77634,
+          "lng": -73.902008
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7776516802915,
+            "lng": -73.90060581970849
+          },
+          "southwest": {
+            "lat": 40.7749537197085,
+            "lng": -73.9033037802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Steinway St/20 Ave",
+      "place_id": "ChIJgybZwmRfwokRBs4GHfhOQcg",
+      "plus_code": {
+        "compound_code": "Q3GX+G5 New York, NY, USA",
+        "global_code": "87G8Q3GX+G5"
+      },
+      "reference": "ChIJgybZwmRfwokRBs4GHfhOQcg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77974150000001,
+          "lng": -73.90627750000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.78110418029149,
+            "lng": -73.9049148197085
+          },
+          "southwest": {
+            "lat": 40.77840621970849,
+            "lng": -73.9076127802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/31 St",
+      "place_id": "ChIJLaZH4WNfwokRM-Hs5pyh4xE",
+      "plus_code": {
+        "compound_code": "Q3HV+VF New York, NY, USA",
+        "global_code": "87G8Q3HV+VF"
+      },
+      "reference": "ChIJLaZH4WNfwokRM-Hs5pyh4xE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77948800000001,
+          "lng": -73.90611299999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7808328802915,
+            "lng": -73.90472416970849
+          },
+          "southwest": {
+            "lat": 40.7781349197085,
+            "lng": -73.9074221302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/31 St",
+      "place_id": "ChIJvb715GNfwokR9GJyMjWC97w",
+      "plus_code": {
+        "compound_code": "Q3HV+QH New York, NY, USA",
+        "global_code": "87G8Q3HV+QH"
+      },
+      "rating": 1,
+      "reference": "ChIJvb715GNfwokR9GJyMjWC97w",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.773586,
+          "lng": -73.897453
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7749089302915,
+            "lng": -73.89613566970849
+          },
+          "southwest": {
+            "lat": 40.7722109697085,
+            "lng": -73.8988336302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/47 St",
+      "place_id": "ChIJ2b86YXpfwokRJwTUxT6OGs8",
+      "plus_code": {
+        "compound_code": "Q4F3+C2 New York, NY, USA",
+        "global_code": "87G8Q4F3+C2"
+      },
+      "reference": "ChIJ2b86YXpfwokRJwTUxT6OGs8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.7734285,
+          "lng": -73.8973865
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7747640802915,
+            "lng": -73.89605386970848
+          },
+          "southwest": {
+            "lat": 40.77206611970851,
+            "lng": -73.89875183029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/47 St",
+      "place_id": "ChIJOSQGZHpfwokRmoea-B9YQTU",
+      "plus_code": {
+        "compound_code": "Q4F3+92 New York, NY, USA",
+        "global_code": "87G8Q4F3+92"
+      },
+      "rating": 5,
+      "reference": "ChIJOSQGZHpfwokRmoea-B9YQTU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.779999,
+          "lng": -73.906448
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7813027802915,
+            "lng": -73.90515506970848
+          },
+          "southwest": {
+            "lat": 40.77860481970851,
+            "lng": -73.90785303029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/31 St",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109659362607078024978\">THOMAS TREADWAY</a>"
+          ],
+          "photo_reference": "AU_ZVEGUUOuuKgeoS_Zi1WFA1H0TbfxwmPw5c7wEgFKR0a9Nb4o8UMNXSrP1y8uNUz0ry5MI6_PbNgegsx4zV0pxX2vc4NGbMLRgaw2NWfD7Hf2ZM3kQQAeLnaN2uQhnWpIuXQZxV1nS5o0s_ejyuRNlbXUsbJRYxpFaMn6xpHvQLwxaoBlpHx2DGhQ8H9TISeT2VBzATY32xxKqfLnVDiUo8C1MWSREVEdWoG1v6z4bEulv3MBgHPQ_4rdDlwWcFP8tXCEGAqGagdO_jikjv02MCneugzjYG2esyKVL-CcZY4Agp4PIjSH_eySfGfol-UNMjk4yqKrlFlnjiXv0Fn0yGyUmg7VCE6xaa00MuWTA8Ce1HATsnNL6gAQ3r8gSwSjRIro8RjAfxsGaceQw3tmf-LywFgZZfLjWEDM3APaSg5bCXVxyJZ8NBs9DYPj8lpEvd6AKXzzB5Z1qOgwOHTjeFY15S4stFCedG6jCdjJhn7pf25hQ_Chvy5K7XBcNTELWCllqDD9Sy2HIT2Xvy2hT_Zb8HCYhIaNk1MdWKp72TXTMACnbWGGHB-xvK5U52yqBvpMz_smPg3iXDeY40dkgwrTw-kozNy4n2Mg4y8RxLtutyO5q-dQ1oNOU-I9ZJ0UePMD1Eg",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ4SJ44GNfwokRRo_BDRh1tZo",
+      "plus_code": {
+        "compound_code": "Q3HV+XC New York, NY, USA",
+        "global_code": "87G8Q3HV+XC"
+      },
+      "rating": 2.8,
+      "reference": "ChIJ4SJ44GNfwokRRo_BDRh1tZo",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.77365899999999,
+          "lng": -73.893013
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77501618029149,
+            "lng": -73.8916758197085
+          },
+          "southwest": {
+            "lat": 40.7723182197085,
+            "lng": -73.8943737802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hazen St/77 St",
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108671962578934488797\">D</a>"
+          ],
+          "photo_reference": "AU_ZVEE40k4zGGh5kdzpc5Y7HbKojE6A_lhx_1oE93y6sR5-tuY8KAwhASpslF_n90M7R8U45k0dj2Dab7-kmpV-UJjSteW6SjfyM7g4bEse544x3Fat1UEgnr9zQz-3rpDVjgU8Eosju3NkpeY0YwkffoVY838TSh-nHT79zvg3I-b_wq1hRHE_Luj6Gd9L8htznIMAzaeaAUKyn6Uq-60HRaUWBkfx169SJlXpX1aZh1ljtB-0gN1GLsdhV9SAJuaocOArvUNXv5c3-8aaGZJcmbJDHUL_xw4ewJiflsU8ma0N9oAmWQB9aiNWAPZtS-uqJ-dLt4uSS7r-mjqMfzsVS-q_firKUoYbNawyEFN2p-oTRwUAYDZehzL1fmsPLs9qBxrWy5OLVFfBrrG5K4qfQ9575W0A8Xcw_vhSJ8yIy66AyASDlIPIPTS81-dBrMKA1G5P3bxA7xDuVpvvRLQQHIvLh-8_yOPQrZhDvhQ8_2b2ANi0Qf98YE0ovF7_weXlU9a1jCqT3dGTCrnR3Dp7ZvCfRp24gF-l1sinv7PwNt1LusR6jOKahdPOPtWFdpv3Cxq-nIIbn3wnq9pknlPEptT0kLDAc5WVLCQoq_9uoRLvbrKGfJVaY6puqM6KTvkWU-asLQ",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJU4ScvHlfwokRukw_v7JmgMU",
+      "plus_code": {
+        "compound_code": "Q4F4+FQ New York, NY, USA",
+        "global_code": "87G8Q4F4+FQ"
+      },
+      "rating": 4,
+      "reference": "ChIJU4ScvHlfwokRukw_v7JmgMU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.773575,
+          "lng": -73.893288
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.77491028029151,
+            "lng": -73.89191981970849
+          },
+          "southwest": {
+            "lat": 40.77221231970851,
+            "lng": -73.89461778029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Hazen St/19 Av",
+      "place_id": "ChIJB1frvXlfwokR00l0MNj2XBQ",
+      "plus_code": {
+        "compound_code": "Q4F4+CM New York, NY, USA",
+        "global_code": "87G8Q4F4+CM"
+      },
+      "reference": "ChIJB1frvXlfwokR00l0MNj2XBQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.773273,
+          "lng": -73.897324
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.7746559802915,
+            "lng": -73.8959333197085
+          },
+          "southwest": {
+            "lat": 40.7719580197085,
+            "lng": -73.89863128029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "20 Av/47 St",
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114592143269096100906\">Jesse Spector</a>"
+          ],
+          "photo_reference": "AU_ZVEFHw3r8GYLXNOrdSBh_HgJUUgHLCpPKvOxqPo1ZWmMuWFf_kOHyQKFVC5IjMgiEsgdtedqAkZeFq84h2h9_ueHybyRRwrAbZc8u30d8PjdmDIthD3ijWqT9z0iO9n74BF7JRpB1qB632zkI26NNbYHaJMUDul1VBDh6353zy55HRJNlPaXnHkmgRShvBxx2R2Sfn6d3-RuvnL0vwAzHBWMoBKHWbOONUrnaduJetdwxyF74qvziVXOH6_KGz5kuRU2PbJE5bY9xIJDM69rl6SYX4B7Ekss24rxk3jmt8zzBLdgiJ5gFq3ypBwWTD6sdHCbAFXKqZeXfvCE1azFigwEWomsrm94AFFOvAJowW7aNnC_mcU7lXegRvkBf7AM7ZA6o80cO7_xkcka3v4y65Gub-wJWG5WhjQKYHS86u1uWOWMfDgRgtN4zz5h6TmzfQX3M-TWTHL5Di9MKETFadlOxHcZ_0HyWfRPU0MeIN4L2V-fVPB7Qw-anJnZxrs4A-cd_jnTMaQfBJGGlScxyl1uZkUi44TD0Nyr2B3TgCwseLJ2rB8iI7YPg4WJ84vb8fEgluYdYvUKytr3cMql8zT_5KvC5kixQbT0wgcjRi4NpCgL1vtdegyxEFsuejFAx",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJvaSNZHpfwokRS1LbggIWVW0",
+      "plus_code": {
+        "compound_code": "Q4F3+83 New York, NY, USA",
+        "global_code": "87G8Q4F3+83"
+      },
+      "reference": "ChIJvaSNZHpfwokRS1LbggIWVW0",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}

@@ -1,0 +1,3691 @@
+{
+  "neighbourhood": "Spuyten Duyvil",
+  "centroid": {
+    "lat": 40.87904128333333,
+    "lon": -73.92235575
+  },
+  "fetched_at": "2026-04-06T14:49:01.909301+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8786283,
+            "lng": -73.9145678
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88009288029149,
+              "lng": -73.9137525197085
+            },
+            "southwest": {
+              "lat": 40.87739491970849,
+              "lng": -73.9164504802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 718-796-9099",
+        "name": "TCR The Club of Riverdale",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117858207823559245735\">TCR The Club of Riverdale</a>"
+            ],
+            "photo_reference": "AU_ZVEGWXWaH-zTgW1iXDO-1wGYKq5Hk1iaKUPeSLfyMvgmjRUFVRuz95YmBWHt3dXNNsWybnMkHu4zdBaiU9esneRHrujFkHieanFaScFO04OjlrfDfzPGOQK5bm4D6erEksCCdHbyhE-_JUNRPJAKA0JTRZ0EqG-ReCVHcdBbQ2dXSLGW4mfqd1IFrR1cAth51arlb5vqu0M_dQA6TQFlAFiwjiKrLK5xjk53Xdrr_GYIXRAry-vrbkYI4eIISfgGMuR9GaDVKfp2ufhbJ_nEr9-liLsgViW0nV6Wy0Izz2lRMw5m8FAhxuLBNKPg2o-jm7ovjWC8mED0",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJD-_1fOvzwokRXbzmmmtKaLo",
+        "plus_code": {
+          "compound_code": "V3HP+F5 The Bronx, NY, USA",
+          "global_code": "87G8V3HP+F5"
+        },
+        "rating": 4,
+        "reference": "ChIJD-_1fOvzwokRXbzmmmtKaLo",
+        "scope": "GOOGLE",
+        "types": [
+          "gym",
+          "spa",
+          "health",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 90,
+        "vicinity": "2600 Netherland Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8788335,
+            "lng": -73.9169613
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88012063029149,
+              "lng": -73.91556586970849
+            },
+            "southwest": {
+              "lat": 40.87742266970849,
+              "lng": -73.9182638302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-548-8510",
+        "name": "Rays Express",
+        "opening_hours": {
+          "open_now": true
+        },
+        "place_id": "ChIJR5nGCuzzwokRzbmv6Cwt-ok",
+        "plus_code": {
+          "compound_code": "V3HM+G6 The Bronx, NY, USA",
+          "global_code": "87G8V3HM+G6"
+        },
+        "rating": 4.2,
+        "reference": "ChIJR5nGCuzzwokRzbmv6Cwt-ok",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "570 Kappock Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8785373,
+            "lng": -73.9175078
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8799611302915,
+              "lng": -73.9162261697085
+            },
+            "southwest": {
+              "lat": 40.8772631697085,
+              "lng": -73.9189241302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-796-3338",
+        "name": "Empire 19",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118445145974530192249\">Greg Gallent</a>"
+            ],
+            "photo_reference": "AU_ZVEF5aXX2eZxnpjnxaIgDWDYA4uBHygjIPaQt5o_1_cXhV5cMZzx9lKv2lgUUIkz1X28xq8WNfz-xL2K-noyPcxfeoDH7QwoDpWNZkkRUb86VrltlaKgI23xep5o9zM4TGA2aiFJevK-S7J_oCDIlHsgLoZcof5ipvVyWzBZt_CKzNryiULfaSXYm8ADHA7VdcGIkisrr7vKlJkA2r7TPya0e43TH77npEFFFaQpD61F21R_N2hyFNxUusO8Cc1pmPB6estykpNLejPCOZqeubQAxSvH6nMEddwJAVW8o1c2nTtuwMsfvpKF9bJJX_3Wo8zTq9ddhburqDka0lNt0u-cnS6T2c0WbxwnhTBIRVTOjTvycAyRCz4f5pGpHrEl84hCOR4aLrffp7AM0CQJtUU7rw2AEN2y9nDgPrV6-5ybudPj7aVlYHjZuNp6ZJx-YSkX_X0ZyPILTkfR-ZBRmDeMusV7ZsCmzI52Xr9rlTd1L8Ow3sKnaxZ3E8obX_E9Fj2vrOTpzL-LUoMzqF3IFrX7l1zwVKl9zFQ5fb99wtW_IfpZnhMAYyTGwpwYMrLPiNwHk0zbHHKIOzGUsU7RlU3jqqhoAq_GnRHEfAavcv2h8EFT9Y1an9VpV8PUWWNUjWrRtqQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJySW3COzzwokRkMMdKqXJVLw",
+        "plus_code": {
+          "compound_code": "V3HJ+CX The Bronx, NY, USA",
+          "global_code": "87G8V3HJ+CX"
+        },
+        "price_level": 1,
+        "rating": 3.7,
+        "reference": "ChIJySW3COzzwokRkMMdKqXJVLw",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 85,
+        "vicinity": "19 Knolls Crescent, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8788318,
+            "lng": -73.91695469999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8801562302915,
+              "lng": -73.9155462697085
+            },
+            "southwest": {
+              "lat": 40.87745826970851,
+              "lng": -73.9182442302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-548-8510",
+        "name": "Famous Pizza Express",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118445145974530192249\">Greg Gallent</a>"
+            ],
+            "photo_reference": "AU_ZVEH0QxCqoP25F9x7fHduZQh4fiAbbc11mW9PFGHF1DhvqwfiKXQo-bB1zaQh-yx8Z9NXpjRg--6cazZKl_NnqvpwrdxsBGN0EA8Z6NxdoFG7BTA4-WWmAjBBBElcXuCxZKHXLrKP6dtKyONUEECjE66kLWL3H_RgF3mc_WmuZUHAv2ZhjQXlJNP4-gCXB58eGwptqilt6DnFb9vby0s2stnEazjQpDBS0nxRXhI2PjGcRIx2_31OC05z_AYrHky45zEuCf35ekqqmX0Jx9pA-PA6m3KrK0LrWle_YAGkZqvwypNfvMZFvCZw_ns5QXfzuN8myoSecrWE-fF26kPhfIHFgsZ_X6gDPViGkgNOL2wJM0XtKUuIS2hph7xYPcqj0lTKVWD5R07fAjncCriiLN3yLJeXnUOk4gKfokPPkxc6hWtxF9CNwiP_3Iro2a_O9vZgtizQwr-UPiQabBg_WooqKB3fXZXk252Qk8JA94FwHBVVCyO5AokoZNxm9IkyfUDS5_q5jFrUd7gKmWQYMkqMAgsqevAFpHz3wd70EixDkj6jgOBTggbsCginoI9Ck2iwEbnWDAi2CJrTx-lxmGO4GkmxY6iKeyqIuf1faiZCLqCHdRW_GBqmdskVJi1hZ37qMw",
+            "width": 2935
+          }
+        ],
+        "place_id": "ChIJR5nGCuzzwokRjeFuJX6hw9A",
+        "plus_code": {
+          "compound_code": "V3HM+G6 The Bronx, NY, USA",
+          "global_code": "87G8V3HM+G6"
+        },
+        "price_level": 1,
+        "rating": 4.3,
+        "reference": "ChIJR5nGCuzzwokRjeFuJX6hw9A",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "meal_takeaway",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 142,
+        "vicinity": "570 Kappock Street, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87277780000001,
+            "lng": -73.9183494
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8742150302915,
+              "lng": -73.91704661970849
+            },
+            "southwest": {
+              "lat": 40.8715170697085,
+              "lng": -73.9197445802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 212-884-2111",
+        "name": "The Inwood Farm",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2907,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105415132922583069848\">ManhattanNYC</a>"
+            ],
+            "photo_reference": "AU_ZVEFbkripVfxaBMswqeh_206e9miOR4d7w2rOk7dOCkejUM0zErIwc0l2WenKsWoRd7F5ZWLwb-NOS1TWcamD1z6Nt-IN1LD0wV7o5yXZV8pYm5K-noSj5jix40uUOYzYF9xqN6w-H5RhLeazHwDZEa1irxHbfHdKTSnIeyW9Dz38NgVNVI-S8a0P4nu2OGCXwAlqCL6fCztNi_2ycqSq-Bu56Jeb67fEhbQJaJeZ0c9Pr2fkMNlNzEi0xqboshCrCYGjxCYeiW7PYCEX2nnvhoC8TMIy1DsVZ1bUJmfGydFZmiUqMf6oLLER_9JfXnKn0ShueJAO-u8vLf5WsMYwhz5RF6aCsAx-yxX_mcIeY__2iVyhUQYSpoY6fUh-qnisuLHekbnSawd6ys2Yw6T71Rqq7mfIY8iXClrzyhK0HIrZwAQxQRoIPIem6LNHKsdnMHidiFFkn0yU5THsSWJFnZcSVuutOJVUOd06Deh4CNR_mIqI1ygpV98ELQpOMbeWHQyKwSkPwJCvE2z_NXkgP_P0J1f9L6CayX1o2KBnkR0fS1RPNUnhD7AxE7gI0vBdzUEXbytAATlrK5FCO2gGI4G-g2fKdcpNS_Un9rhi3dXd5kO7wX0GJ53-M84UAaf2LRuK2Wx0w0NVgd8EclC9qheilSA",
+            "width": 3876
+          }
+        ],
+        "place_id": "ChIJy1euYgPzwokRh0HmWpSAF08",
+        "plus_code": {
+          "compound_code": "V3FJ+4M New York, NY, USA",
+          "global_code": "87G8V3FJ+4M"
+        },
+        "price_level": 2,
+        "rating": 4.4,
+        "reference": "ChIJy1euYgPzwokRh0HmWpSAF08",
+        "scope": "GOOGLE",
+        "types": [
+          "cafe",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 1103,
+        "vicinity": "600 West 218th Street, New York"
+      },
+      {
+        "business_status": "CLOSED_TEMPORARILY",
+        "geometry": {
+          "location": {
+            "lat": 40.875991,
+            "lng": -73.9132
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8773705802915,
+              "lng": -73.9117021197085
+            },
+            "southwest": {
+              "lat": 40.8746726197085,
+              "lng": -73.9144000802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 929-438-0765",
+        "name": "Mya's Taqueria",
+        "permanently_closed": true,
+        "place_id": "ChIJqf8drA7zwokRmib0YcarpKE",
+        "plus_code": {
+          "compound_code": "V3GP+9P The Bronx, NY, USA",
+          "global_code": "87G8V3GP+9P"
+        },
+        "rating": 5,
+        "reference": "ChIJqf8drA7zwokRmib0YcarpKE",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "135 Terrace View Avenue, The Bronx"
+      }
+    ],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.88304430000001,
+            "lng": -73.9133353
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8843210802915,
+              "lng": -73.9119847697085
+            },
+            "southwest": {
+              "lat": 40.8816231197085,
+              "lng": -73.9146827302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 718-708-4661",
+        "name": "Centro Maria Residence",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107784768796367257811\">Centro Maria Residence</a>"
+            ],
+            "photo_reference": "AU_ZVEEg0H78NCzLNvaTbq4KdqjEQdFGBs20tsI-8WyShouUSpgdLKb4NkYncFru7MiTyRW-0kvysuXKEeyO0kZFeuS0GXiM3DolcVhH4fKy86Z9rFFFjan57a9jxhRFdLlnjvlRG3eIBTVJotQ_wMT6Tlptvppc6T98_VggJPUXOtM-tyJ4SuWvrMfeCp44tfIZVXeZD-6LmQIya_AR8Tzy7hSRVoiY3pN3AZ1FXxPjnZ-3QApPIdFQyHivIX3HuCHCTpE2ubWkycNNSbgwDwhATNY7bSqQ1j5TJKTpOLCXJo_kugV0paCFm4LrSSHLnfp9TzNTPjkUhBc",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJs2ENV1pYwokRlIHo3cXrz9s",
+        "plus_code": {
+          "compound_code": "V3MP+6M The Bronx, NY, USA",
+          "global_code": "87G8V3MP+6M"
+        },
+        "rating": 4.7,
+        "reference": "ChIJs2ENV1pYwokRlIHo3cXrz9s",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 82,
+        "vicinity": "3103 Arlington Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.879509,
+            "lng": -73.9216079
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88087258029149,
+              "lng": -73.9202455697085
+            },
+            "southwest": {
+              "lat": 40.8781746197085,
+              "lng": -73.9229435302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Grand Studio Avec vue et Lumineux, Animaux Accept\u00e9s, \u00e0 NYC",
+        "place_id": "ChIJ_1JdK-_zwokRLttVvYJbGDQ",
+        "plus_code": {
+          "compound_code": "V3HH+R9 New York, NY, USA",
+          "global_code": "87G8V3HH+R9"
+        },
+        "reference": "ChIJ_1JdK-_zwokRLttVvYJbGDQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8718414,
+            "lng": -73.9228973
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87801120000001,
+              "lng": -73.9219776197085
+            },
+            "southwest": {
+              "lat": 40.8697848,
+              "lng": -73.9246755802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "2-bedroom apartment in quiet charming Upper Manhattan New York Location.",
+        "place_id": "ChIJd2kNjfDzwokRrDchxwkx9ns",
+        "plus_code": {
+          "compound_code": "V3CG+PR New York, NY, USA",
+          "global_code": "87G8V3CG+PR"
+        },
+        "reference": "ChIJd2kNjfDzwokRrDchxwkx9ns",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87573619999999,
+            "lng": -73.913063
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87710833029149,
+              "lng": -73.91159666970849
+            },
+            "southwest": {
+              "lat": 40.87441036970849,
+              "lng": -73.91429463029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Door172",
+        "place_id": "ChIJ-dP5KO3zwokR7ZGsDx8VNK8",
+        "plus_code": {
+          "compound_code": "V3GP+7Q New York, NY, USA",
+          "global_code": "87G8V3GP+7Q"
+        },
+        "reference": "ChIJ-dP5KO3zwokR7ZGsDx8VNK8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87573619999999,
+            "lng": -73.913063
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87710833029149,
+              "lng": -73.91159666970849
+            },
+            "southwest": {
+              "lat": 40.87441036970849,
+              "lng": -73.91429463029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Door172",
+        "place_id": "ChIJ-dP5KO3zwokR1z8U2MOzZ4E",
+        "plus_code": {
+          "compound_code": "V3GP+7Q New York, NY, USA",
+          "global_code": "87G8V3GP+7Q"
+        },
+        "reference": "ChIJ-dP5KO3zwokR1z8U2MOzZ4E",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8811608,
+            "lng": -73.9113922
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8825213802915,
+              "lng": -73.91008366970848
+            },
+            "southwest": {
+              "lat": 40.8798234197085,
+              "lng": -73.9127816302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Riverdale Room - One-Bedroom Apartment",
+        "place_id": "ChIJN8-lJJXzwokREv8oLbiA7hs",
+        "plus_code": {
+          "compound_code": "V3JQ+FC New York, NY, USA",
+          "global_code": "87G8V3JQ+FC"
+        },
+        "reference": "ChIJN8-lJJXzwokREv8oLbiA7hs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8757744,
+            "lng": -73.9117203
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8770427302915,
+              "lng": -73.91028496970848
+            },
+            "southwest": {
+              "lat": 40.8743447697085,
+              "lng": -73.9129829302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "SILVIAS PLACE",
+        "place_id": "ChIJLQbhJ5PzwokR5lKdVdVQvlM",
+        "plus_code": {
+          "compound_code": "V3GQ+88 New York, NY, USA",
+          "global_code": "87G8V3GQ+88"
+        },
+        "reference": "ChIJLQbhJ5PzwokR5lKdVdVQvlM",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8757706,
+            "lng": -73.9117127
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8770407802915,
+              "lng": -73.9102804697085
+            },
+            "southwest": {
+              "lat": 40.8743428197085,
+              "lng": -73.9129784302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "SILVIAS PLACE",
+        "place_id": "ChIJ70fhJ5PzwokRQpggrq0MHz8",
+        "plus_code": {
+          "compound_code": "V3GQ+88 New York, NY, USA",
+          "global_code": "87G8V3GQ+88"
+        },
+        "reference": "ChIJ70fhJ5PzwokRQpggrq0MHz8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8777134,
+            "lng": -73.9224308
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87851375000001,
+              "lng": -73.9214579
+            },
+            "southwest": {
+              "lat": 40.87541395,
+              "lng": -73.92524830000002
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-304-5001",
+        "name": "Henry Hudson Bridge",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2778,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117477418614613292422\">Seexunaa B\u00e0mba</a>"
+            ],
+            "photo_reference": "AU_ZVEF1oGIoiWbREhMcWz55bfwZ3xzJysGQ16GeC7OzAjHBa3I3GztBskeP4Pmhqyd7OL11d5YIDMWDQDqc8o5-jQ-UaXsTNAjHdlbpKv3sfQ5f4Io_gYU_ngxbGUfDgZL63lt9UVACs1HhuieJUjkX865RWS0JObwfgIvUimX6819xIO_J3g6y_EpGRp91lspm0XSwLH5SZZgjM5fEkCfFMQn0dTHa1OX4kNmF9mT-vtq1mK1V498yiIoO19rvJzK7cWUgzchoapRoCRqWYU-uxQqStBcE9KwY3VkP-Tocrld4saTXl_2Wkp8UXglN-Bk6zJa2mhK0tBvfavh4QytUl4dsyyt6GDSUvK_6l-YTN30XQhaK4NXAD_wcZcf7uw2lszXNkaj3NbZBq84bAawUL0CPNIS9pwxp6MUIUSIuTyk5LPkj68M0snn49p5NgjWZ_tSkrv4VrwFXBnfZA1vyzI_pzDdWiMwv-0Typ-esT5NjJaAL-QSq_CIULYCIZdPFGB9Sn_fqZGsOd_9uUb7166g8Tz96cFuUEoM33BLseg29RSZ0OIK8EOoFhJnv5EhyIETxTb8vX6UNylFrMYchWkQ7r-_tIOElItpHjuAHd5GIBdMdw1xL2nxynZ81OXU0hiWD5QLI",
+            "width": 3882
+          }
+        ],
+        "place_id": "ChIJtT1iDe_zwokRdUvlbh_VU3Y",
+        "plus_code": {
+          "compound_code": "V3HH+32 The Bronx, NY, USA",
+          "global_code": "87G8V3HH+32"
+        },
+        "rating": 4.2,
+        "reference": "ChIJtT1iDe_zwokRdUvlbh_VU3Y",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 115,
+        "vicinity": "2152 Henry Hudson Parkway, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8784958,
+            "lng": -73.921388
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87956923029149,
+              "lng": -73.9191788
+            },
+            "southwest": {
+              "lat": 40.8768712697085,
+              "lng": -73.9221244
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Spuyten Duyvil Shorefront Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1706,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104400338401869276555\">Spuyten Duyvil Shorefront Park</a>"
+            ],
+            "photo_reference": "AU_ZVEFeHPRocwt4IN-UPpPzEQe6wpbA4ve_gUuO03WZDZqSoYs3fn_Wxqk9IUPCDXu0dev_ZpqZHWAhYaZMbeBjEAD8vIT0xbkE__8lsHzbm1ugwNpDVKVTUwjVh0houqzf3TJ4NeDpaHRBrITzKlApjQpPqI5jF_F9baM6HFvFQQDY-KqTe6bAPqWTypODTjsUrItG0GNq9QWhxxdDLtdqMs2ARHurcUKcqWfatAhKUqtEW8XH02vWldaztuWbP-H0m6_zWXvV54Yo5w1hnOILY7dSg5yGOD1eMLyAUvNdZUax9vwf4u29XWkMu8wrBFx7JjqDgwmhY5k",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJNazC3u7zwokRVfUBzP7r-YU",
+        "plus_code": {
+          "compound_code": "V3HH+9C The Bronx, NY, USA",
+          "global_code": "87G8V3HH+9C"
+        },
+        "rating": 4.1,
+        "reference": "ChIJNazC3u7zwokRVfUBzP7r-YU",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 88,
+        "vicinity": "Edsall Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.885941,
+            "lng": -73.9165092
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88686758029149,
+              "lng": -73.91473266970848
+            },
+            "southwest": {
+              "lat": 40.88416961970849,
+              "lng": -73.9174306302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Seton Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115482515194499974414\">CINDY ROSARIO</a>"
+            ],
+            "photo_reference": "AU_ZVEHhFcUiYt48FaOte6QSbX6WNP0TlipuLu5yW-UL2OTG0naAF-4tXXhLHRPFHIFmeV1T8_dD3-Evbp-13aU2on_Un2NxVtqlicd-aAgwxwP9UV8KkxqF_kzaeO86QrwVXmsIA8enAZfAE26vBiDzugGk9hrGWnX7B5Tp4YqXwcWF2zOe_iuUNsAx8yTVqWkblnwxcx0lAe2dk8-VPvFrtqIpiC1-g6b_uo9mco57RjByKZVox75tCnk21uwDyB200N9Vk4MIAlsoAb55vymNlWdiY7gyU4xwtTYLBEB1JpCtjrkhQNdNhnw5cgVK6rZnYnHYPcAFxNoyudDYA9PAgz-Zs3my21cbeUD3DVi2h7FurimNylu2BPMWa8bm5BllUyeGVynOCwbLfSYMuINYxIhnKddN0iT37nFurAi0sAVDgCPYuZSIf9AHEMPHJ7vm7SpZqm5Ar48LBvUV5QUO5g1BuSejHuemX13t558FIc2BkuUQFJ82Mu1Ij3OwWKlaGwEcvK-49VvdEWF43Gs5HypLbYCp5vabXDNhDLrckSLzabZi1ZfE9S_rJL1Pzi2BE_1at2OUwXrgQARgXO-Ebj42YWjyMJey2rvyFX--9HeowIBfqzVBMkKI2Wp0bYlhpPn5OQ",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ5zUuqcHzwokRF5DJbc4ourU",
+        "plus_code": {
+          "compound_code": "V3PM+99 The Bronx, NY, USA",
+          "global_code": "87G8V3PM+99"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ5zUuqcHzwokRF5DJbc4ourU",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 437,
+        "vicinity": "Independence Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8806181,
+            "lng": -73.91751959999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8819805302915,
+              "lng": -73.9162663197085
+            },
+            "southwest": {
+              "lat": 40.8792825697085,
+              "lng": -73.9189642802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Phyllis Post Goodman Park",
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113692046345948784946\">Phyllis Post Goodman Park</a>"
+            ],
+            "photo_reference": "AU_ZVEFHcipkOuMazPsPYGqMA2IyfrihMuSsHNMc0c3qkzUv-x_WsqQ1d16Mw9jnilM0oP6El10T8X0FufFqpdbFtsNdJjd0Ekw86kCVIPMCUaAMnpkx_j24ed2tUKMtHz3rC_tOjXW9vKa72_W5LHLWeeMJ6qLNmX-TD-Lw1-gJ8IqoyChR5L7pkzGDzsl50UMpHyTPopgmBzSIpxwvnWzlBufgsTZZH4xVLhPKGgcp7wljvcotDU4-SP55tR6ZFaNajx0n0O0oYTtzWlk3imw4wdaFdQO_2DwrGz5NcZkvHlw1sSLZs_In_KD7-fvDu6T6LLmd6z_zxBo",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJT_-DxOvzwokRGE_6nP0yHZE",
+        "plus_code": {
+          "compound_code": "V3JJ+6X The Bronx, NY, USA",
+          "global_code": "87G8V3JJ+6X"
+        },
+        "rating": 4.2,
+        "reference": "ChIJT_-DxOvzwokRGE_6nP0yHZE",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "2600 Henry Hudson Parkway East, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8748711,
+            "lng": -73.92483969999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8766109802915,
+              "lng": -73.9235759197085
+            },
+            "southwest": {
+              "lat": 40.8739130197085,
+              "lng": -73.9262738802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Fort Cockhill",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104538891341344625921\">Jordan Boyd</a>"
+            ],
+            "photo_reference": "AU_ZVEGrihwgjR-LS1A2QxT7UjMaAu-fT5Gi4d0IsuxdYxa76s9d90rXpEeR-LU2jaVicIDsGFGkP5ZyVzQrGF0uPTMGlmBqdVy4TafTT1Gzcy7P33SYrHPFo6fa1EGQn03ezaKYqKczeROp5J2u17jBFRebflcABHQxxnxkY7z3aMGEi9AJ7HPKRibh94ffa5L9OpYlUso-_asSidogcu5tU5NqFYlLF_oKcL9sG0pGN6mIaeIZxlnqfGkDlFLo14KxCavurd4nRDBF4WGXCYAvwYvKWM6l2TXtmJon3For5KDey7T0GQ5wS4jv9r-vXGhU-j4qtFvSeLjDimSy_HQsXAmyi7X0tDYXHtcQ7SZ_kcFEK2JphZKoRreQ2dBgqBLRWxjZkceQsRXhGW14UbXlpu6TX2dD4ZNsXtoF7qt-kYloUoMwHwtiuzNL4wJGJRkLAG7r4tmVRyTJaoyctm3plYCcBUH1xwGVhju3ZVyyJ8GAtZTQ04YJa0iawY1ZS4FbgWbFF_xVViP3Z6kR-VHYSTXaGA1byZO_TdjjxGNR-Bp-dUankRWVwZJ5rz9-rNkL2dn9KPz99Rbv9yzjvypAks18J_SRjZAU__ipQnN1D50ixhyHlfLKsbVtRXtbToUNTY7YPA",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJtYNzrvrzwokRaVfnAkfw-Fw",
+        "plus_code": {
+          "compound_code": "V3FG+W3 New York, NY, USA",
+          "global_code": "87G8V3FG+W3"
+        },
+        "rating": 4.1,
+        "reference": "ChIJtYNzrvrzwokRaVfnAkfw-Fw",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 18,
+        "vicinity": "Inwood Hill Park, New York"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8737956,
+            "lng": -73.91809599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8751182802915,
+              "lng": -73.9165633697085
+            },
+            "southwest": {
+              "lat": 40.8724203197085,
+              "lng": -73.9192613302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Muscota Marsh",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 491,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101140409814028774850\">Lic. Horus Ruiseco Jacobo</a>"
+            ],
+            "photo_reference": "AU_ZVEE3dL14LpY9ZKyVr-w0Uaykb-OSyPn64wFnKxuHV4xOkjmIoS7uxYgVEjEFcpBRw5fIl24vNRuiRnasMgO94H42KtmTvaiKc62GG0twp0r2sLABe7lsxZnEHn7q0jBy12BHP868qj1FbVzPSZnDpwAgqbVK4t-_2eNCXcNTMtqZUB6pEP1EBHPequ-Rlvkms7OGj9Mg6-dRI1tC9wgbMgvzBTqtZ4yRmv19e0mHRIjum3nY98b9irjrNsnZrqA9FuN0m7F_Fvk384ipUHN_5TQLKDK0pm2IpsxuY9AVwgzaprkdUeeoxee5wVROjtmjhfNK2UZJHNxwOZe2P1lZsb3dRh8GBd7stfIFtrn3pMZnjy7J3qW9ykjkFQJn0cAwHicdGcTvkpxjQ4GKeVgp64hMxj2zesW42ruOmrXUhLXDCYEzrFpCuUwMt07V2tM3Cqiw4ofWMIg7eOZuznBVoLBvAwiwmVbIy9anaavHQx5JPo-WlLq-Cjqat0dQ2n9CO2Bo1ThxhnZq_efl-gTCnzBge2V90qCvjHHwyREOATuMz3VYsfzWCGVisOXV0-xZ7f-MUJDtgXRIwedxeHMUwB0XFtRwuRElPRQHZ4g7oyrrC9OzcYK-uORgArpN_t1DhqhNCLiXPx91NcO0MisyLw",
+            "width": 950
+          }
+        ],
+        "place_id": "ChIJW3DEA_LzwokRBhKF-FdCoww",
+        "plus_code": {
+          "compound_code": "V3FJ+GQ New York, NY, USA",
+          "global_code": "87G8V3FJ+GQ"
+        },
+        "rating": 4.7,
+        "reference": "ChIJW3DEA_LzwokRBhKF-FdCoww",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 93,
+        "vicinity": "575 West 218th Street, New York"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8721829,
+            "lng": -73.924776
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87982814999999,
+              "lng": -73.9118932
+            },
+            "southwest": {
+              "lat": 40.86312235,
+              "lng": -73.93808960000001
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Inwood Hill Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1500,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111106528780111791393\">Inwood Hill Park</a>"
+            ],
+            "photo_reference": "AU_ZVEEmC6OxDcxwgUSr55sOBb5WAwXGQ1vza2JjBBUYaK5Zqknpo0cU1lfNBFfsTJLeJnbNLcHLmWL_25-2i_YZvLBloz4RzJriIbuphE8JyWvUN4TOdBTJ45kHx5a4bg8nUPhV2wYr1AExSO-VLpJhFit6hitXbrK60vJPSP64ByzGUH373DUbozNx3Cq3HaHPwQGCXcsmy1vXeIjGrT_k53WNcsPEeJCb0PS-CoB7IcCtb9AXI5QjsxsDJvDVBYQf-uzF5L6VbbbtoTjXkqY9YkeHE3ji_Zj6LMrBaBmyXBPsxRGL0ZAMfu0pR6IUjQZOVjv3sp1n_ag",
+            "width": 2250
+          }
+        ],
+        "place_id": "ChIJpUOPMe7zwokRJUQfPbEU1CI",
+        "plus_code": {
+          "compound_code": "V3CG+V3 New York, NY, USA",
+          "global_code": "87G8V3CG+V3"
+        },
+        "rating": 4.7,
+        "reference": "ChIJpUOPMe7zwokRJUQfPbEU1CI",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3527,
+        "vicinity": "Payson Ave. &, Seaman Avenue, New York"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8809075,
+            "lng": -73.9202518
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88209448029151,
+              "lng": -73.91892101970849
+            },
+            "southwest": {
+              "lat": 40.87939651970851,
+              "lng": -73.9216189802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Henry Hudson Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1600,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112552266883349781884\">Henry Hudson Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGC23wtZ54kgGzvvm02tPGYjcXhUy9KqVw1GWd7HSsDjxyBuYy4svLdHV2LstpzrI2S3kuRtPhYHJQX4fOQg3sZQDDE__608xT3rMWwpNlJA4mwbmiWsnMJM16Nnyq6iHz8oBm7skIXlegP843m7HMxj0zTxQFHrGLKfqcJRifUy8JxvNY98NYLNwRjOBbn2WC_FSndKfKzWJJv6qCBy6mefnPaO6ZUmHPiB94vmLq7sv90lZV05xSyVRMjVVGFdzSMk1qirdTPPer25FbbzwOQTukSQDRf_kzVuq7jmL_cON1iUzEP5YouFoKGRS2Dc8tU8aXLZN0",
+            "width": 2400
+          }
+        ],
+        "place_id": "ChIJM6mCDOnzwokRdA3Jq-C9HOE",
+        "plus_code": {
+          "compound_code": "V3JH+9V The Bronx, NY, USA",
+          "global_code": "87G8V3JH+9V"
+        },
+        "rating": 4.6,
+        "reference": "ChIJM6mCDOnzwokRdA3Jq-C9HOE",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 308,
+        "vicinity": "2570 Independence Avenue #6204, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8760989,
+            "lng": -73.9189853
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8777296802915,
+              "lng": -73.9175048697085
+            },
+            "southwest": {
+              "lat": 40.8750317197085,
+              "lng": -73.9202028302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "international_phone_number": "+1 212-854-1754",
+        "name": "The Big C Rock",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3344,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102917060757698482849\">Andrew Marmorstein</a>"
+            ],
+            "photo_reference": "AU_ZVEHSRO0yVe8joGmpnbe5cR0c0z1LdzCBP8JbWK3ZBAlOqE9sJXx_XMXethZ-BklidVpsDj7PwnihVMzwY8QQ6_wwE4_t6pA3Oj_Kpd1lW1NsPjAsU5T89tPXSr6DHc4A9mRilMkQs5S5sG6BBvDKPTotP3yNNU7HN5L5Fh7EEFAI41qlFjfCvzRMFWU6CD_7hGY6Ig__Xut_qDiPiYrM2zxgEmg1eUVme30hKmD6FiYhXvIXZaE1AyCUkebJNmw7orDP18j3C9IjJQ7dqqCH7nUD6RLwGhEokn9B6GA62gFlMHufsEg2ZRy1tGcWoW0GcUjGR8VBaykKfGH-GRrujUDoXGjnoDddY7U7Zoh9io_G8xR7WJs0M9-kccV_d03pnUXBy2sJvy60wEjLEwMI6V_9Rrps_z4yewwm7lRYgqEW72TojprewSI2R_ujuzjoh9z-Covqj1sQ3Ap9OAxdTyLeukDfHcXon_PecYVOWjT83RwQX5xCFDfSSzmLzl4Zafku-ifm7jOibHB4Kwvnw_Q7kfqe10FKSOx4W3wdxZO6ZnYl2F1K8_dinCW9wuo4rBeJoHobKoorNKf1GvNeLPDEcezI0j9657t616p7iF5Ajb84a60onzvgnOQkgvSap2pI_A",
+            "width": 5016
+          }
+        ],
+        "place_id": "ChIJz-ptcO7zwokR-NB_5Ud6pc0",
+        "plus_code": {
+          "compound_code": "V3GJ+CC The Bronx, NY, USA",
+          "global_code": "87G8V3GJ+CC"
+        },
+        "rating": 4.3,
+        "reference": "ChIJz-ptcO7zwokR-NB_5Ud6pc0",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "university",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 27,
+        "vicinity": "40.876106, -73.918971, 2400 Johnson Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.877614,
+            "lng": -73.9264568
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8783176802915,
+              "lng": -73.9233917
+            },
+            "southwest": {
+              "lat": 40.8756197197085,
+              "lng": -73.92747849999999
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#13B5C7",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Northernmost Point Of Manhattan Island",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101263627927965087201\">Ze&#39;ev Yehuda</a>"
+            ],
+            "photo_reference": "AU_ZVEHP2Muahqhr8utrlA-UvBDFWdFPwIEcmUhB-mVlw2B8vyNwB6NEKEi0gwzVEJtk7gbmDf_P_uPGXkRhf6ReTr8afN9hmVOhtcIAqbQ4pXXUnMlIa8KB-mNEfeMmzaMTuKZDQAT9QEy03MKWP3go1tWiidfpGq1TEOL1nJnYOdYtbUiOw4Z11tx0EfsFfGy4fgtjXG1753qRTvqaNW-gY3Hqv3hHBeIgwqlBU1mNNWTtcNac40mn3AqG9ryMdiaIbgy3igLdN9XWKytuWJt0otMcq7wxhtIHYP-ph0Oc0_7G-Mm9SsyCJXcMXsryyjuxmSsofCgIVIceT57MUl-Zr-IGkmt8U5iUxmDEnoSx-UpMfuPE53MXVmEi8LltzeGGqCpnxy3xZ6Kkmi8vFFsMFb7wnj4m-oNKpk7AermPrDU5xPHMl1iKMsFFpxHuxu9G5PZHmVdG7fCgjHbpZQZkdetCFICmf9KrxaMgJaf0xdPBjIwp2kf5tFHTbdg9chProt3h2QwjFTBAF9X0STFE_9izTUypQ2mx9QB8nE5n2mp7et-snhZuX1xs9oAaq4gcUcWKMQlTuDCvTruolXeIrE7eKKsx1mJKUQPyNaYUBNgx-IVfoPqyUnMfxTzvhQlwR9MoTCTtI-vwThigOw_txw",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJEXhFfgDzwokR35AIyv7EdTw",
+        "rating": 4.8,
+        "reference": "ChIJEXhFfgDzwokR35AIyv7EdTw",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "Tiny Beach, New York"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8774815,
+            "lng": -73.9178775
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8788266802915,
+              "lng": -73.91651616970849
+            },
+            "southwest": {
+              "lat": 40.8761287197085,
+              "lng": -73.91921413029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Johnson Av",
+        "place_id": "ChIJvftyJOzzwokRAVkK8KlFt6g",
+        "plus_code": {
+          "compound_code": "V3GJ+XR New York, NY, USA",
+          "global_code": "87G8V3GJ+XR"
+        },
+        "reference": "ChIJvftyJOzzwokRAVkK8KlFt6g",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.879282,
+            "lng": -73.9167135
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8806316302915,
+              "lng": -73.9154053697085
+            },
+            "southwest": {
+              "lat": 40.8779336697085,
+              "lng": -73.9181033302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Knolls Cres",
+        "place_id": "ChIJZXv0jOvzwokRjxOy7k6NtYE",
+        "plus_code": {
+          "compound_code": "V3HM+P8 New York, NY, USA",
+          "global_code": "87G8V3HM+P8"
+        },
+        "reference": "ChIJZXv0jOvzwokRjxOy7k6NtYE",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87893429999999,
+            "lng": -73.9221341
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88053688029149,
+              "lng": -73.9207357697085
+            },
+            "southwest": {
+              "lat": 40.87783891970849,
+              "lng": -73.9234337302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Spuyten Duyvil",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108584358126588129564\">Jae Hong Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGx3f7wWNXoMh1QMjUvVfRTxRrbuSQ3K9Wil92iTIbiQLaFkd2L4L-5RquTueoKklq5MCDjUKPEqAenGtEbHvATdJHX8x9PVtgoP8M-e5m4fOI51XeRQ4cHQogi3TwwQACfD_QVPCHzE7BsmmxUSmqDCY9aelTyHauPDHQLheOnn5Xq9PvuLOo9YF-45QvAVnAyR3F0Rp6T-xykLqOG7dP28punBH9rsYEG-r57rmcTXoBiUZX0yFSeMlAZs4R71679ymbDleI9LiDSTv2fdVBN3mw5TZa9JmOU6sicRQzjZlU0rcinlInY1o8cqUiDQp9BgA5bS0KMzhFX8IjTB9ohydDPgKfOP5TISfQnX0apMYdER_pabxcEfVvoIPVCSHLDIEovAuPCby7O1zqTnujzGlY6wqxCqlIFbMxRFSaz3-jCGSBA22LQpZ8YQc59DCmau-9dfYWkevoB7WUwau3Fy-WdgfRP1PwYdcxJK9jFCQnuMJyq9_-ig0MHZlCMEzpJLso4aaAGWbhZ7NMovCa6BXodXnsvx5B0pvSDQuANKrNn6mDW_bUYzLOwGiACicge-rj65cBCCfOfjDHL47tkMd24lSw6CSQ1zw8OuJ13nX7lGQpL9e3VEAAXqza6s3h9QW_G",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJ8aWhH-_zwokRoTR8108e76o",
+        "plus_code": {
+          "compound_code": "V3HH+H4 New York, NY, USA",
+          "global_code": "87G8V3HH+H4"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ8aWhH-_zwokRoTR8108e76o",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.880779,
+            "lng": -73.91893
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88211723029151,
+              "lng": -73.91759036970849
+            },
+            "southwest": {
+              "lat": 40.87941926970851,
+              "lng": -73.9202883302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/Independence Ave",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100319193906624228074\">Paul</a>"
+            ],
+            "photo_reference": "AU_ZVEG6ZI4nx_cUh07mXL1RmIHhExaZ69At_JssEdwXhTTFPv80P8uvZT1ro5ehTcZo7vULDP7f-pt-0gEkBVIp9_wnMcnjHih_9ypM0itmGz9qnI4K7r2T4o83kFs3CPgwwxQFcOoPxGP4a-5j2LaSpnph1U2YP4uBQFBLlrFLY7ZZkXz_ATZXwgDaiwSInAKafyq9BnZ2N8bTbn7g9NU9cYaHAwFTJAgsioxXgXuDibVGciJ2GT811zZfUiA5_F5QpBANH7SJCrGIHNDkAf8Unjb02orPa9QGe2MjWvsdDNVY4ODKnJ2fdDErDgQsH0-CTIF4Ca2XZWinAJpvQU_RMpJcyXsDY21mvgLbq31Mh5nI67GNx3o_Fu14oXz8tzsE4VWRx6eQHJ9HIGi63GPRhffmRl0Nk_twaHDObHVMvxDVztSK6MGQMfVJT_-Cfq16l9Id1PLT6MxrXzCVpDVoEFXes45aekAqjbLKVBFNA7MTz1RzRjMHhvUTB7ZX7DFlBaKSYExowZWnXVRaX-M4M8IQeusKmtwlK48w7M9bIQddQifOVv5cWDsw7oLEPZ11xYGRtvwLlhqAsBk4Nho9a5VRj_fcW7vRDad18Mfi6M4YS7ZGEVcaxpwGxLZ5DahnrL1cT71M",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJv9zZbunzwokR3rjDHh5FKMU",
+        "plus_code": {
+          "compound_code": "V3JJ+8C New York, NY, USA",
+          "global_code": "87G8V3JJ+8C"
+        },
+        "rating": 3.7,
+        "reference": "ChIJv9zZbunzwokR3rjDHh5FKMU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.877411,
+            "lng": -73.918045
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8787570802915,
+              "lng": -73.9166360697085
+            },
+            "southwest": {
+              "lat": 40.8760591197085,
+              "lng": -73.91933403029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Johnson Av",
+        "place_id": "ChIJO3mGJuzzwokRsQbhumCVDck",
+        "plus_code": {
+          "compound_code": "V3GJ+XQ New York, NY, USA",
+          "global_code": "87G8V3GJ+XQ"
+        },
+        "rating": 5,
+        "reference": "ChIJO3mGJuzzwokRsQbhumCVDck",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87770099999999,
+            "lng": -73.917694
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8790627302915,
+              "lng": -73.9163786197085
+            },
+            "southwest": {
+              "lat": 40.8763647697085,
+              "lng": -73.9190765802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Johnson Av",
+        "photos": [
+          {
+            "height": 2248,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+            ],
+            "photo_reference": "AU_ZVEGbGDya9N_hOe7gw_IIqI5Gs9pBw7hT6XzayWmc1DrkkYhunofJ3oUMv6PPUwN3tOEIb_aLXStjNIZverbIz2AOj3deLt_pyMWjrT-o-BjyoQPNSLgxcPM7p7V-6-by4yYEjjnc3G6gtvIPr0KqdS16NXhupsA0TFDJ9NbEN2bpY9ZBfl4KzIHWRw1NDo6JHYLUR7Q_DFws81CKfQeFd9rQgPyNqKp9c0S3WNn-8tuZHzuLedbQgEaVNYHXUkPGVeOrXoMqRhY7Z0yg8nXRkeXqkGiJWWacunqTWtjWhX01nb5rWlWBvkWIJhRr2OU3vdppRP34NF6ikKYF0gqn0Q6Wd4xsh2jsIAReVftw-OnD6mEfbT-T3kPr7kxoVAd6m1dq5BY5oNun_-bXRK13Kn7PUBb7vZMYBzTvDZnQF5FrJOB2qLKCZXUNeOQDDWrMVsw9JYKe8BoPtSAP73ITMhAhU7dSSKeZ7ZlrodvUcuMzdNbUlPwqPpjPNVDpInY5pwINuhSdTOrfNc9wVvRtsAMlDp_fHdeBOyXzzrhGWwKAYuPsyxw3bqUcPNIG0acy0_JiBKyi1w_kXxgrhyo_CwRUkn5A94b-7KHJvKWYSFuYwhacAFx-ntwBElqbrxtHySeOE9J1",
+            "width": 4000
+          }
+        ],
+        "place_id": "ChIJ4WSgJOzzwokRocAnWKTDElU",
+        "plus_code": {
+          "compound_code": "V3HJ+3W New York, NY, USA",
+          "global_code": "87G8V3HJ+3W"
+        },
+        "reference": "ChIJ4WSgJOzzwokRocAnWKTDElU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.878994,
+            "lng": -73.91687000000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8803370802915,
+              "lng": -73.9154660197085
+            },
+            "southwest": {
+              "lat": 40.8776391197085,
+              "lng": -73.91816398029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Knolls Crescent",
+        "place_id": "ChIJR9ZqjOvzwokRJmEN70zgTkY",
+        "plus_code": {
+          "compound_code": "V3HM+H7 New York, NY, USA",
+          "global_code": "87G8V3HM+H7"
+        },
+        "rating": 4.5,
+        "reference": "ChIJR9ZqjOvzwokRJmEN70zgTkY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87970699999999,
+            "lng": -73.916794
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8810497302915,
+              "lng": -73.91547656970849
+            },
+            "southwest": {
+              "lat": 40.8783517697085,
+              "lng": -73.91817453029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Knolls Crescent",
+        "place_id": "ChIJ5ceIjevzwokRTSGqz68uCm8",
+        "plus_code": {
+          "compound_code": "V3HM+V7 New York, NY, USA",
+          "global_code": "87G8V3HM+V7"
+        },
+        "rating": 5,
+        "reference": "ChIJ5ceIjevzwokRTSGqz68uCm8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87942899999999,
+            "lng": -73.916641
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88069028029149,
+              "lng": -73.9153212197085
+            },
+            "southwest": {
+              "lat": 40.87799231970849,
+              "lng": -73.91801918029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Kappock St/Knolls Crescent",
+        "place_id": "ChIJcfxxjOvzwokRmegUR44J_hg",
+        "plus_code": {
+          "compound_code": "V3HM+Q8 New York, NY, USA",
+          "global_code": "87G8V3HM+Q8"
+        },
+        "reference": "ChIJcfxxjOvzwokRmegUR44J_hg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.881195,
+            "lng": -73.917099
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8825507802915,
+              "lng": -73.9157602697085
+            },
+            "southwest": {
+              "lat": 40.8798528197085,
+              "lng": -73.91845823029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 227 St",
+        "place_id": "ChIJxUS2y-vzwokROam0U-q75cQ",
+        "plus_code": {
+          "compound_code": "V3JM+F5 New York, NY, USA",
+          "global_code": "87G8V3JM+F5"
+        },
+        "reference": "ChIJxUS2y-vzwokROam0U-q75cQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.88161499999999,
+            "lng": -73.91732
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88295923029149,
+              "lng": -73.91596371970849
+            },
+            "southwest": {
+              "lat": 40.8802612697085,
+              "lng": -73.91866168029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 227 St",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111684991827907097246\">Mike Fisher</a>"
+            ],
+            "photo_reference": "AU_ZVEHcsfyQItED0cJzOd8wGd6GntdVdVE9UOyrtfaFM32Ejk5xNXfMjUCEAw6iqliKntJMsZowepFTepL8Aak1IC4QnOXZ67XF2enmAg_T_NxkknH-P-WH1aNa_Y1D-oLy4uTYph9twwf8zW9f4BbZ893gygLndUmD7hQZgIGW2G2kz3jchn8vglMc74_2AmcU2wk2-2vv0InvlSCKi2fj-wNPCKhnqdOy6jjTpZD0oLSfom6qhTircLDd6EWEnFHnvLSQE5TnEbjfeIkwXAqohViz2Xpj7JBYdR8qdxfukLHTtpzNkNyUudX9VX2n43Ku-6hzEqqV1jVkvHKGXumWVVMeUZymVvPT02fIqrQcyN0ZZ9pvOvWifqRa0BV87Lto4xnwlaLKLFTGBmn1cxkBI-JkevKM_50_w4M5XCw7vt7dZGWVjNUXFEyZuPS9n0lpa4jyt99SdPUtT8eq5YU26boeIzktQpYW1meD3heBOdJI7n5Iz-vXX8AdixI0eqODfc76-J8IX3H-P3R1DEi0LkAhW_4EY7m_PmmZb-R23ZKx5hBtknZbp5-rvw5FnVsSM-65cYrobN6Qjrl3W6L4gk-wlKXGB4f1Asf5iSWhsm80zQnRB5jffyqLmpz2mumT-PZ5iQ",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJjesMM-rzwokR1gbayom5nhI",
+        "plus_code": {
+          "compound_code": "V3JM+J3 New York, NY, USA",
+          "global_code": "87G8V3JM+J3"
+        },
+        "rating": 5,
+        "reference": "ChIJjesMM-rzwokR1gbayom5nhI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87937949999999,
+            "lng": -73.912346
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88075248029149,
+              "lng": -73.9110278197085
+            },
+            "southwest": {
+              "lat": 40.87805451970849,
+              "lng": -73.9137257802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Irwin Av/Johnson Av",
+        "place_id": "ChIJL54QtZTzwokRxq1Y9LhmZeY",
+        "plus_code": {
+          "compound_code": "V3HQ+Q3 New York, NY, USA",
+          "global_code": "87G8V3HQ+Q3"
+        },
+        "reference": "ChIJL54QtZTzwokRxq1Y9LhmZeY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.879486,
+            "lng": -73.912384
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8808303302915,
+              "lng": -73.9110565197085
+            },
+            "southwest": {
+              "lat": 40.8781323697085,
+              "lng": -73.9137544802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Irwin Ave/Johnson Av",
+        "photos": [
+          {
+            "height": 1920,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105719265554617952878\">Margarita Rosa</a>"
+            ],
+            "photo_reference": "AU_ZVEEJlgQ0jH0xuF7jz1vRyQa2lqlU97sIyqSWW2l8GlfdKeBdBXeYLvTkT3SKhJhKq1PhwtNvAoNkdCKsLlrOmzZMaNzGi7X3z99w8oVk2Zds-oFYO2_UcCCuaplGBONmbItL-iIzi1hxVX_RSLNeo_Jvtc2_FMoDNCRZjiF57r4pKdyJJ38BQRJrWRFE9cQsNtpGRqLowaug-bM-tljopNAKSlLlRgrn6-Gal7aXCwLTEjfLRIXC2aSuWM2AwJN0SPM2F-299wcacFO5aAeKW0F-4zxI9oi489W6OTXNyifKU1OfIGQnKUiH8UQhngi7JQMJHE3MIbUTw0GhSMXh_y96uAEFq7o5Z5TngqEEnxigYAllADvH5qPo6F3BU64ADEKQF8_267P-RZzZJP90fzC5P1dur42b4DnQI7kHZiGgCIYmh3gYLnZ0L3Et5Acek056RAkVFzn4X5oo504bWaww2hWIDfhWDcUM00aovK-xgAtT7jNeGPo4zkt6KBniw2dNNReTkEBma1XFdoyCitvy_FA7lP4sbrz4CazDd2ZtI0QN4DkhDb4f5MLpmHmdGWnO36cyZiMoqTbKubGXlz2aY2e3D_CT5zL57xZfbJR9ijLmTTx61TIemfrc91AvEHvG8A",
+            "width": 1080
+          }
+        ],
+        "place_id": "ChIJ21xqtZTzwokRQHB3JNCwWJU",
+        "plus_code": {
+          "compound_code": "V3HQ+Q2 New York, NY, USA",
+          "global_code": "87G8V3HQ+Q2"
+        },
+        "rating": 5,
+        "reference": "ChIJ21xqtZTzwokRQHB3JNCwWJU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.884441,
+            "lng": -73.915176
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88577598029149,
+              "lng": -73.91379666970849
+            },
+            "southwest": {
+              "lat": 40.88307801970849,
+              "lng": -73.9164946302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy West/W 232 St",
+        "place_id": "ChIJQZRWMsDzwokR630KGHfYg-o",
+        "plus_code": {
+          "compound_code": "V3MM+QW New York, NY, USA",
+          "global_code": "87G8V3MM+QW"
+        },
+        "rating": 3.3,
+        "reference": "ChIJQZRWMsDzwokR630KGHfYg-o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.87959299999999,
+            "lng": -73.912003
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88095243029151,
+              "lng": -73.9106691697085
+            },
+            "southwest": {
+              "lat": 40.87825446970851,
+              "lng": -73.91336713029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Irwin Ave/Johnson Av",
+        "place_id": "ChIJT-b8tJTzwokRW7gRekDIRMM",
+        "plus_code": {
+          "compound_code": "V3HQ+R5 New York, NY, USA",
+          "global_code": "87G8V3HQ+R5"
+        },
+        "rating": 5,
+        "reference": "ChIJT-b8tJTzwokRW7gRekDIRMM",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.88443400000001,
+            "lng": -73.914566
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.88579388029149,
+              "lng": -73.9132362197085
+            },
+            "southwest": {
+              "lat": 40.8830959197085,
+              "lng": -73.91593418029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Henry Hudson Pkwy East/W 232 St",
+        "photos": [
+          {
+            "height": 2988,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106864979536596716989\">Jos\u00e9 L. Rodr\u00edguez</a>"
+            ],
+            "photo_reference": "AU_ZVEGS0K6i4eWwwfHURaL8SEmY-JkoFUvMwFqVruwrIFv1r5Hzofzty7WPnSN-KNDVoVcD9p70l9UK8MSpT_iWpqpEQu4xMcjWUowUOXyN91lvaZqsrz4mK5bmWQcTEcnZSrYeDmGbx3CoeUslADMgFK9Z3JiMoEnmrrw2sPkb-c9y28JEO2SkYLxwH64DAGVGZGQFLFiMiWHLv4tFuRGvjIRjIEXjCMVLW1cn_OS6Ly69-pFtCiAPB_Gs0yob4y3swX5o3q7iWi6reOM4Emx9jKr4PPVuQZlNJA445BvjKZGcKVA0bEKzuKTupDOQdXR8EEGAQJnosJxUbbSbREfbDPueycGji3iWKP4phswmA9hsMOqvLuCURJA-9pdP9Vt57pGAsB-5pmEM2StINvl9jVwEfTK1L-VnvgnaCfVRe-BwJVvklxwU_wZyETF0-WKF0d0DOaCUo1Dg_KSTDCAJJJuSUH65a4IpwliKl8_7OsNzXVq0w7oqQz5jt3lIdGWTUs08M2ek0JuU0D8y_8FTY1HMS61jg9zm3tMsoDM8WhUKmPnfgxPuUhX2G4EEGInuiB2xGxdpCCDUFPJj30FUshRT_vlGVahaV4R78eHAe79ywEaz9EQnAIq24kOJKLHF59tbiOH4",
+            "width": 5312
+          }
+        ],
+        "place_id": "ChIJr3qKOcDzwokRIRDPBvfyG1E",
+        "plus_code": {
+          "compound_code": "V3MP+Q5 New York, NY, USA",
+          "global_code": "87G8V3MP+Q5"
+        },
+        "rating": 4.3,
+        "reference": "ChIJr3qKOcDzwokRIRDPBvfyG1E",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8747631,
+            "lng": -73.9121515
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.87614428029149,
+              "lng": -73.91047996970849
+            },
+            "southwest": {
+              "lat": 40.87344631970849,
+              "lng": -73.91317793029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+        "icon_background_color": "#10BDFF",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+        "name": "Marble Hill",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106937471073926317181\">Jakob W. Plummer</a>"
+            ],
+            "photo_reference": "AU_ZVEEJBN8ilDpoJwSnpIWCCxnLYcZ5wVuUHMl7e2Qc4gNL78XA5sFNtCSbLboJjW1XrhfCMDTXCXxTmDifobH9bDkehTPuBp0Dpy4q24-oqrXLt9u5AV7tfgkuI9g1Fv7Y5SFw_HqIUuhTGboRKU0CgMVOYKznx1iznmidiBw0a9iAgXWSk-BkWHGU_FIXrvzoRMPgWJpYyiQ7XuBvtb0YQO9kIPvxJ05hJvPoglkdBwtaIhtoQCFbV0uckOJAMVem3VAF4-C8Z2XBh9VyY8CnExxd4SVj39aZF3NGcNeVZ0PpxiHA717Hrt8mJPXKqlMGoQx4q1484bPtSAJtWneTWfp1VRHluPQ7ofuhI0B5B37C5WhXgAa-DNzQcAcI1-EUaldLQZbnaxLSb_LexGX37nCfP8ujA1HUZC00Ldo-WuHiz7h4YfTEUaoJJiogf6XjNW55-sq37IOrWv9Di90mnJ48eO2as_CtaZr0fWhHVl3r_ZgTke774LF52uaKntl3rVlkfEEw3t1lnc98hxigbnZdeAb-wGlFdcH9IM0KmCzmQZL2c0SklIfJiaPNufamxR4TATTUC451QraxwvORbPpJnAqP4Sf89msDtLORmtP26oXuUSrHfBHNeyJCK4rxfJXgqw",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJHaFPlZLzwokRowjI6AIzWDw",
+        "plus_code": {
+          "compound_code": "V3FQ+W4 New York, NY, USA",
+          "global_code": "87G8V3FQ+W4"
+        },
+        "rating": 3.8,
+        "reference": "ChIJHaFPlZLzwokRowjI6AIzWDw",
+        "scope": "GOOGLE",
+        "types": [
+          "train_station",
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 64,
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8786283,
+          "lng": -73.9145678
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88009288029149,
+            "lng": -73.9137525197085
+          },
+          "southwest": {
+            "lat": 40.87739491970849,
+            "lng": -73.9164504802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 718-796-9099",
+      "name": "TCR The Club of Riverdale",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117858207823559245735\">TCR The Club of Riverdale</a>"
+          ],
+          "photo_reference": "AU_ZVEGWXWaH-zTgW1iXDO-1wGYKq5Hk1iaKUPeSLfyMvgmjRUFVRuz95YmBWHt3dXNNsWybnMkHu4zdBaiU9esneRHrujFkHieanFaScFO04OjlrfDfzPGOQK5bm4D6erEksCCdHbyhE-_JUNRPJAKA0JTRZ0EqG-ReCVHcdBbQ2dXSLGW4mfqd1IFrR1cAth51arlb5vqu0M_dQA6TQFlAFiwjiKrLK5xjk53Xdrr_GYIXRAry-vrbkYI4eIISfgGMuR9GaDVKfp2ufhbJ_nEr9-liLsgViW0nV6Wy0Izz2lRMw5m8FAhxuLBNKPg2o-jm7ovjWC8mED0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJD-_1fOvzwokRXbzmmmtKaLo",
+      "plus_code": {
+        "compound_code": "V3HP+F5 The Bronx, NY, USA",
+        "global_code": "87G8V3HP+F5"
+      },
+      "rating": 4,
+      "reference": "ChIJD-_1fOvzwokRXbzmmmtKaLo",
+      "scope": "GOOGLE",
+      "types": [
+        "gym",
+        "spa",
+        "health",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 90,
+      "vicinity": "2600 Netherland Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8788335,
+          "lng": -73.9169613
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88012063029149,
+            "lng": -73.91556586970849
+          },
+          "southwest": {
+            "lat": 40.87742266970849,
+            "lng": -73.9182638302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-548-8510",
+      "name": "Rays Express",
+      "opening_hours": {
+        "open_now": true
+      },
+      "place_id": "ChIJR5nGCuzzwokRzbmv6Cwt-ok",
+      "plus_code": {
+        "compound_code": "V3HM+G6 The Bronx, NY, USA",
+        "global_code": "87G8V3HM+G6"
+      },
+      "rating": 4.2,
+      "reference": "ChIJR5nGCuzzwokRzbmv6Cwt-ok",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 6,
+      "vicinity": "570 Kappock Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8785373,
+          "lng": -73.9175078
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8799611302915,
+            "lng": -73.9162261697085
+          },
+          "southwest": {
+            "lat": 40.8772631697085,
+            "lng": -73.9189241302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-796-3338",
+      "name": "Empire 19",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118445145974530192249\">Greg Gallent</a>"
+          ],
+          "photo_reference": "AU_ZVEF5aXX2eZxnpjnxaIgDWDYA4uBHygjIPaQt5o_1_cXhV5cMZzx9lKv2lgUUIkz1X28xq8WNfz-xL2K-noyPcxfeoDH7QwoDpWNZkkRUb86VrltlaKgI23xep5o9zM4TGA2aiFJevK-S7J_oCDIlHsgLoZcof5ipvVyWzBZt_CKzNryiULfaSXYm8ADHA7VdcGIkisrr7vKlJkA2r7TPya0e43TH77npEFFFaQpD61F21R_N2hyFNxUusO8Cc1pmPB6estykpNLejPCOZqeubQAxSvH6nMEddwJAVW8o1c2nTtuwMsfvpKF9bJJX_3Wo8zTq9ddhburqDka0lNt0u-cnS6T2c0WbxwnhTBIRVTOjTvycAyRCz4f5pGpHrEl84hCOR4aLrffp7AM0CQJtUU7rw2AEN2y9nDgPrV6-5ybudPj7aVlYHjZuNp6ZJx-YSkX_X0ZyPILTkfR-ZBRmDeMusV7ZsCmzI52Xr9rlTd1L8Ow3sKnaxZ3E8obX_E9Fj2vrOTpzL-LUoMzqF3IFrX7l1zwVKl9zFQ5fb99wtW_IfpZnhMAYyTGwpwYMrLPiNwHk0zbHHKIOzGUsU7RlU3jqqhoAq_GnRHEfAavcv2h8EFT9Y1an9VpV8PUWWNUjWrRtqQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJySW3COzzwokRkMMdKqXJVLw",
+      "plus_code": {
+        "compound_code": "V3HJ+CX The Bronx, NY, USA",
+        "global_code": "87G8V3HJ+CX"
+      },
+      "price_level": 1,
+      "rating": 3.7,
+      "reference": "ChIJySW3COzzwokRkMMdKqXJVLw",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 85,
+      "vicinity": "19 Knolls Crescent, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8788318,
+          "lng": -73.91695469999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8801562302915,
+            "lng": -73.9155462697085
+          },
+          "southwest": {
+            "lat": 40.87745826970851,
+            "lng": -73.9182442302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-548-8510",
+      "name": "Famous Pizza Express",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118445145974530192249\">Greg Gallent</a>"
+          ],
+          "photo_reference": "AU_ZVEH0QxCqoP25F9x7fHduZQh4fiAbbc11mW9PFGHF1DhvqwfiKXQo-bB1zaQh-yx8Z9NXpjRg--6cazZKl_NnqvpwrdxsBGN0EA8Z6NxdoFG7BTA4-WWmAjBBBElcXuCxZKHXLrKP6dtKyONUEECjE66kLWL3H_RgF3mc_WmuZUHAv2ZhjQXlJNP4-gCXB58eGwptqilt6DnFb9vby0s2stnEazjQpDBS0nxRXhI2PjGcRIx2_31OC05z_AYrHky45zEuCf35ekqqmX0Jx9pA-PA6m3KrK0LrWle_YAGkZqvwypNfvMZFvCZw_ns5QXfzuN8myoSecrWE-fF26kPhfIHFgsZ_X6gDPViGkgNOL2wJM0XtKUuIS2hph7xYPcqj0lTKVWD5R07fAjncCriiLN3yLJeXnUOk4gKfokPPkxc6hWtxF9CNwiP_3Iro2a_O9vZgtizQwr-UPiQabBg_WooqKB3fXZXk252Qk8JA94FwHBVVCyO5AokoZNxm9IkyfUDS5_q5jFrUd7gKmWQYMkqMAgsqevAFpHz3wd70EixDkj6jgOBTggbsCginoI9Ck2iwEbnWDAi2CJrTx-lxmGO4GkmxY6iKeyqIuf1faiZCLqCHdRW_GBqmdskVJi1hZ37qMw",
+          "width": 2935
+        }
+      ],
+      "place_id": "ChIJR5nGCuzzwokRjeFuJX6hw9A",
+      "plus_code": {
+        "compound_code": "V3HM+G6 The Bronx, NY, USA",
+        "global_code": "87G8V3HM+G6"
+      },
+      "price_level": 1,
+      "rating": 4.3,
+      "reference": "ChIJR5nGCuzzwokRjeFuJX6hw9A",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "meal_takeaway",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 142,
+      "vicinity": "570 Kappock Street, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87277780000001,
+          "lng": -73.9183494
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8742150302915,
+            "lng": -73.91704661970849
+          },
+          "southwest": {
+            "lat": 40.8715170697085,
+            "lng": -73.9197445802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 212-884-2111",
+      "name": "The Inwood Farm",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2907,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105415132922583069848\">ManhattanNYC</a>"
+          ],
+          "photo_reference": "AU_ZVEFbkripVfxaBMswqeh_206e9miOR4d7w2rOk7dOCkejUM0zErIwc0l2WenKsWoRd7F5ZWLwb-NOS1TWcamD1z6Nt-IN1LD0wV7o5yXZV8pYm5K-noSj5jix40uUOYzYF9xqN6w-H5RhLeazHwDZEa1irxHbfHdKTSnIeyW9Dz38NgVNVI-S8a0P4nu2OGCXwAlqCL6fCztNi_2ycqSq-Bu56Jeb67fEhbQJaJeZ0c9Pr2fkMNlNzEi0xqboshCrCYGjxCYeiW7PYCEX2nnvhoC8TMIy1DsVZ1bUJmfGydFZmiUqMf6oLLER_9JfXnKn0ShueJAO-u8vLf5WsMYwhz5RF6aCsAx-yxX_mcIeY__2iVyhUQYSpoY6fUh-qnisuLHekbnSawd6ys2Yw6T71Rqq7mfIY8iXClrzyhK0HIrZwAQxQRoIPIem6LNHKsdnMHidiFFkn0yU5THsSWJFnZcSVuutOJVUOd06Deh4CNR_mIqI1ygpV98ELQpOMbeWHQyKwSkPwJCvE2z_NXkgP_P0J1f9L6CayX1o2KBnkR0fS1RPNUnhD7AxE7gI0vBdzUEXbytAATlrK5FCO2gGI4G-g2fKdcpNS_Un9rhi3dXd5kO7wX0GJ53-M84UAaf2LRuK2Wx0w0NVgd8EclC9qheilSA",
+          "width": 3876
+        }
+      ],
+      "place_id": "ChIJy1euYgPzwokRh0HmWpSAF08",
+      "plus_code": {
+        "compound_code": "V3FJ+4M New York, NY, USA",
+        "global_code": "87G8V3FJ+4M"
+      },
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "ChIJy1euYgPzwokRh0HmWpSAF08",
+      "scope": "GOOGLE",
+      "types": [
+        "cafe",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 1103,
+      "vicinity": "600 West 218th Street, New York"
+    },
+    {
+      "business_status": "CLOSED_TEMPORARILY",
+      "geometry": {
+        "location": {
+          "lat": 40.875991,
+          "lng": -73.9132
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8773705802915,
+            "lng": -73.9117021197085
+          },
+          "southwest": {
+            "lat": 40.8746726197085,
+            "lng": -73.9144000802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 929-438-0765",
+      "name": "Mya's Taqueria",
+      "permanently_closed": true,
+      "place_id": "ChIJqf8drA7zwokRmib0YcarpKE",
+      "plus_code": {
+        "compound_code": "V3GP+9P The Bronx, NY, USA",
+        "global_code": "87G8V3GP+9P"
+      },
+      "rating": 5,
+      "reference": "ChIJqf8drA7zwokRmib0YcarpKE",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "135 Terrace View Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.88304430000001,
+          "lng": -73.9133353
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8843210802915,
+            "lng": -73.9119847697085
+          },
+          "southwest": {
+            "lat": 40.8816231197085,
+            "lng": -73.9146827302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 718-708-4661",
+      "name": "Centro Maria Residence",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107784768796367257811\">Centro Maria Residence</a>"
+          ],
+          "photo_reference": "AU_ZVEEg0H78NCzLNvaTbq4KdqjEQdFGBs20tsI-8WyShouUSpgdLKb4NkYncFru7MiTyRW-0kvysuXKEeyO0kZFeuS0GXiM3DolcVhH4fKy86Z9rFFFjan57a9jxhRFdLlnjvlRG3eIBTVJotQ_wMT6Tlptvppc6T98_VggJPUXOtM-tyJ4SuWvrMfeCp44tfIZVXeZD-6LmQIya_AR8Tzy7hSRVoiY3pN3AZ1FXxPjnZ-3QApPIdFQyHivIX3HuCHCTpE2ubWkycNNSbgwDwhATNY7bSqQ1j5TJKTpOLCXJo_kugV0paCFm4LrSSHLnfp9TzNTPjkUhBc",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJs2ENV1pYwokRlIHo3cXrz9s",
+      "plus_code": {
+        "compound_code": "V3MP+6M The Bronx, NY, USA",
+        "global_code": "87G8V3MP+6M"
+      },
+      "rating": 4.7,
+      "reference": "ChIJs2ENV1pYwokRlIHo3cXrz9s",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 82,
+      "vicinity": "3103 Arlington Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.879509,
+          "lng": -73.9216079
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88087258029149,
+            "lng": -73.9202455697085
+          },
+          "southwest": {
+            "lat": 40.8781746197085,
+            "lng": -73.9229435302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Grand Studio Avec vue et Lumineux, Animaux Accept\u00e9s, \u00e0 NYC",
+      "place_id": "ChIJ_1JdK-_zwokRLttVvYJbGDQ",
+      "plus_code": {
+        "compound_code": "V3HH+R9 New York, NY, USA",
+        "global_code": "87G8V3HH+R9"
+      },
+      "reference": "ChIJ_1JdK-_zwokRLttVvYJbGDQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8718414,
+          "lng": -73.9228973
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87801120000001,
+            "lng": -73.9219776197085
+          },
+          "southwest": {
+            "lat": 40.8697848,
+            "lng": -73.9246755802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "2-bedroom apartment in quiet charming Upper Manhattan New York Location.",
+      "place_id": "ChIJd2kNjfDzwokRrDchxwkx9ns",
+      "plus_code": {
+        "compound_code": "V3CG+PR New York, NY, USA",
+        "global_code": "87G8V3CG+PR"
+      },
+      "reference": "ChIJd2kNjfDzwokRrDchxwkx9ns",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87573619999999,
+          "lng": -73.913063
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87710833029149,
+            "lng": -73.91159666970849
+          },
+          "southwest": {
+            "lat": 40.87441036970849,
+            "lng": -73.91429463029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Door172",
+      "place_id": "ChIJ-dP5KO3zwokR7ZGsDx8VNK8",
+      "plus_code": {
+        "compound_code": "V3GP+7Q New York, NY, USA",
+        "global_code": "87G8V3GP+7Q"
+      },
+      "reference": "ChIJ-dP5KO3zwokR7ZGsDx8VNK8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87573619999999,
+          "lng": -73.913063
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87710833029149,
+            "lng": -73.91159666970849
+          },
+          "southwest": {
+            "lat": 40.87441036970849,
+            "lng": -73.91429463029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Door172",
+      "place_id": "ChIJ-dP5KO3zwokR1z8U2MOzZ4E",
+      "plus_code": {
+        "compound_code": "V3GP+7Q New York, NY, USA",
+        "global_code": "87G8V3GP+7Q"
+      },
+      "reference": "ChIJ-dP5KO3zwokR1z8U2MOzZ4E",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8811608,
+          "lng": -73.9113922
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8825213802915,
+            "lng": -73.91008366970848
+          },
+          "southwest": {
+            "lat": 40.8798234197085,
+            "lng": -73.9127816302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Riverdale Room - One-Bedroom Apartment",
+      "place_id": "ChIJN8-lJJXzwokREv8oLbiA7hs",
+      "plus_code": {
+        "compound_code": "V3JQ+FC New York, NY, USA",
+        "global_code": "87G8V3JQ+FC"
+      },
+      "reference": "ChIJN8-lJJXzwokREv8oLbiA7hs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8757744,
+          "lng": -73.9117203
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8770427302915,
+            "lng": -73.91028496970848
+          },
+          "southwest": {
+            "lat": 40.8743447697085,
+            "lng": -73.9129829302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "SILVIAS PLACE",
+      "place_id": "ChIJLQbhJ5PzwokR5lKdVdVQvlM",
+      "plus_code": {
+        "compound_code": "V3GQ+88 New York, NY, USA",
+        "global_code": "87G8V3GQ+88"
+      },
+      "reference": "ChIJLQbhJ5PzwokR5lKdVdVQvlM",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8757706,
+          "lng": -73.9117127
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8770407802915,
+            "lng": -73.9102804697085
+          },
+          "southwest": {
+            "lat": 40.8743428197085,
+            "lng": -73.9129784302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "SILVIAS PLACE",
+      "place_id": "ChIJ70fhJ5PzwokRQpggrq0MHz8",
+      "plus_code": {
+        "compound_code": "V3GQ+88 New York, NY, USA",
+        "global_code": "87G8V3GQ+88"
+      },
+      "reference": "ChIJ70fhJ5PzwokRQpggrq0MHz8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8777134,
+          "lng": -73.9224308
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87851375000001,
+            "lng": -73.9214579
+          },
+          "southwest": {
+            "lat": 40.87541395,
+            "lng": -73.92524830000002
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-304-5001",
+      "name": "Henry Hudson Bridge",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2778,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117477418614613292422\">Seexunaa B\u00e0mba</a>"
+          ],
+          "photo_reference": "AU_ZVEF1oGIoiWbREhMcWz55bfwZ3xzJysGQ16GeC7OzAjHBa3I3GztBskeP4Pmhqyd7OL11d5YIDMWDQDqc8o5-jQ-UaXsTNAjHdlbpKv3sfQ5f4Io_gYU_ngxbGUfDgZL63lt9UVACs1HhuieJUjkX865RWS0JObwfgIvUimX6819xIO_J3g6y_EpGRp91lspm0XSwLH5SZZgjM5fEkCfFMQn0dTHa1OX4kNmF9mT-vtq1mK1V498yiIoO19rvJzK7cWUgzchoapRoCRqWYU-uxQqStBcE9KwY3VkP-Tocrld4saTXl_2Wkp8UXglN-Bk6zJa2mhK0tBvfavh4QytUl4dsyyt6GDSUvK_6l-YTN30XQhaK4NXAD_wcZcf7uw2lszXNkaj3NbZBq84bAawUL0CPNIS9pwxp6MUIUSIuTyk5LPkj68M0snn49p5NgjWZ_tSkrv4VrwFXBnfZA1vyzI_pzDdWiMwv-0Typ-esT5NjJaAL-QSq_CIULYCIZdPFGB9Sn_fqZGsOd_9uUb7166g8Tz96cFuUEoM33BLseg29RSZ0OIK8EOoFhJnv5EhyIETxTb8vX6UNylFrMYchWkQ7r-_tIOElItpHjuAHd5GIBdMdw1xL2nxynZ81OXU0hiWD5QLI",
+          "width": 3882
+        }
+      ],
+      "place_id": "ChIJtT1iDe_zwokRdUvlbh_VU3Y",
+      "plus_code": {
+        "compound_code": "V3HH+32 The Bronx, NY, USA",
+        "global_code": "87G8V3HH+32"
+      },
+      "rating": 4.2,
+      "reference": "ChIJtT1iDe_zwokRdUvlbh_VU3Y",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 115,
+      "vicinity": "2152 Henry Hudson Parkway, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8784958,
+          "lng": -73.921388
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87956923029149,
+            "lng": -73.9191788
+          },
+          "southwest": {
+            "lat": 40.8768712697085,
+            "lng": -73.9221244
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Spuyten Duyvil Shorefront Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1706,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104400338401869276555\">Spuyten Duyvil Shorefront Park</a>"
+          ],
+          "photo_reference": "AU_ZVEFeHPRocwt4IN-UPpPzEQe6wpbA4ve_gUuO03WZDZqSoYs3fn_Wxqk9IUPCDXu0dev_ZpqZHWAhYaZMbeBjEAD8vIT0xbkE__8lsHzbm1ugwNpDVKVTUwjVh0houqzf3TJ4NeDpaHRBrITzKlApjQpPqI5jF_F9baM6HFvFQQDY-KqTe6bAPqWTypODTjsUrItG0GNq9QWhxxdDLtdqMs2ARHurcUKcqWfatAhKUqtEW8XH02vWldaztuWbP-H0m6_zWXvV54Yo5w1hnOILY7dSg5yGOD1eMLyAUvNdZUax9vwf4u29XWkMu8wrBFx7JjqDgwmhY5k",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJNazC3u7zwokRVfUBzP7r-YU",
+      "plus_code": {
+        "compound_code": "V3HH+9C The Bronx, NY, USA",
+        "global_code": "87G8V3HH+9C"
+      },
+      "rating": 4.1,
+      "reference": "ChIJNazC3u7zwokRVfUBzP7r-YU",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 88,
+      "vicinity": "Edsall Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.885941,
+          "lng": -73.9165092
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88686758029149,
+            "lng": -73.91473266970848
+          },
+          "southwest": {
+            "lat": 40.88416961970849,
+            "lng": -73.9174306302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Seton Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115482515194499974414\">CINDY ROSARIO</a>"
+          ],
+          "photo_reference": "AU_ZVEHhFcUiYt48FaOte6QSbX6WNP0TlipuLu5yW-UL2OTG0naAF-4tXXhLHRPFHIFmeV1T8_dD3-Evbp-13aU2on_Un2NxVtqlicd-aAgwxwP9UV8KkxqF_kzaeO86QrwVXmsIA8enAZfAE26vBiDzugGk9hrGWnX7B5Tp4YqXwcWF2zOe_iuUNsAx8yTVqWkblnwxcx0lAe2dk8-VPvFrtqIpiC1-g6b_uo9mco57RjByKZVox75tCnk21uwDyB200N9Vk4MIAlsoAb55vymNlWdiY7gyU4xwtTYLBEB1JpCtjrkhQNdNhnw5cgVK6rZnYnHYPcAFxNoyudDYA9PAgz-Zs3my21cbeUD3DVi2h7FurimNylu2BPMWa8bm5BllUyeGVynOCwbLfSYMuINYxIhnKddN0iT37nFurAi0sAVDgCPYuZSIf9AHEMPHJ7vm7SpZqm5Ar48LBvUV5QUO5g1BuSejHuemX13t558FIc2BkuUQFJ82Mu1Ij3OwWKlaGwEcvK-49VvdEWF43Gs5HypLbYCp5vabXDNhDLrckSLzabZi1ZfE9S_rJL1Pzi2BE_1at2OUwXrgQARgXO-Ebj42YWjyMJey2rvyFX--9HeowIBfqzVBMkKI2Wp0bYlhpPn5OQ",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ5zUuqcHzwokRF5DJbc4ourU",
+      "plus_code": {
+        "compound_code": "V3PM+99 The Bronx, NY, USA",
+        "global_code": "87G8V3PM+99"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ5zUuqcHzwokRF5DJbc4ourU",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 437,
+      "vicinity": "Independence Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8806181,
+          "lng": -73.91751959999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8819805302915,
+            "lng": -73.9162663197085
+          },
+          "southwest": {
+            "lat": 40.8792825697085,
+            "lng": -73.9189642802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Phyllis Post Goodman Park",
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113692046345948784946\">Phyllis Post Goodman Park</a>"
+          ],
+          "photo_reference": "AU_ZVEFHcipkOuMazPsPYGqMA2IyfrihMuSsHNMc0c3qkzUv-x_WsqQ1d16Mw9jnilM0oP6El10T8X0FufFqpdbFtsNdJjd0Ekw86kCVIPMCUaAMnpkx_j24ed2tUKMtHz3rC_tOjXW9vKa72_W5LHLWeeMJ6qLNmX-TD-Lw1-gJ8IqoyChR5L7pkzGDzsl50UMpHyTPopgmBzSIpxwvnWzlBufgsTZZH4xVLhPKGgcp7wljvcotDU4-SP55tR6ZFaNajx0n0O0oYTtzWlk3imw4wdaFdQO_2DwrGz5NcZkvHlw1sSLZs_In_KD7-fvDu6T6LLmd6z_zxBo",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJT_-DxOvzwokRGE_6nP0yHZE",
+      "plus_code": {
+        "compound_code": "V3JJ+6X The Bronx, NY, USA",
+        "global_code": "87G8V3JJ+6X"
+      },
+      "rating": 4.2,
+      "reference": "ChIJT_-DxOvzwokRGE_6nP0yHZE",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 17,
+      "vicinity": "2600 Henry Hudson Parkway East, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8748711,
+          "lng": -73.92483969999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8766109802915,
+            "lng": -73.9235759197085
+          },
+          "southwest": {
+            "lat": 40.8739130197085,
+            "lng": -73.9262738802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Fort Cockhill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104538891341344625921\">Jordan Boyd</a>"
+          ],
+          "photo_reference": "AU_ZVEGrihwgjR-LS1A2QxT7UjMaAu-fT5Gi4d0IsuxdYxa76s9d90rXpEeR-LU2jaVicIDsGFGkP5ZyVzQrGF0uPTMGlmBqdVy4TafTT1Gzcy7P33SYrHPFo6fa1EGQn03ezaKYqKczeROp5J2u17jBFRebflcABHQxxnxkY7z3aMGEi9AJ7HPKRibh94ffa5L9OpYlUso-_asSidogcu5tU5NqFYlLF_oKcL9sG0pGN6mIaeIZxlnqfGkDlFLo14KxCavurd4nRDBF4WGXCYAvwYvKWM6l2TXtmJon3For5KDey7T0GQ5wS4jv9r-vXGhU-j4qtFvSeLjDimSy_HQsXAmyi7X0tDYXHtcQ7SZ_kcFEK2JphZKoRreQ2dBgqBLRWxjZkceQsRXhGW14UbXlpu6TX2dD4ZNsXtoF7qt-kYloUoMwHwtiuzNL4wJGJRkLAG7r4tmVRyTJaoyctm3plYCcBUH1xwGVhju3ZVyyJ8GAtZTQ04YJa0iawY1ZS4FbgWbFF_xVViP3Z6kR-VHYSTXaGA1byZO_TdjjxGNR-Bp-dUankRWVwZJ5rz9-rNkL2dn9KPz99Rbv9yzjvypAks18J_SRjZAU__ipQnN1D50ixhyHlfLKsbVtRXtbToUNTY7YPA",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJtYNzrvrzwokRaVfnAkfw-Fw",
+      "plus_code": {
+        "compound_code": "V3FG+W3 New York, NY, USA",
+        "global_code": "87G8V3FG+W3"
+      },
+      "rating": 4.1,
+      "reference": "ChIJtYNzrvrzwokRaVfnAkfw-Fw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 18,
+      "vicinity": "Inwood Hill Park, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8737956,
+          "lng": -73.91809599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8751182802915,
+            "lng": -73.9165633697085
+          },
+          "southwest": {
+            "lat": 40.8724203197085,
+            "lng": -73.9192613302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Muscota Marsh",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 491,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101140409814028774850\">Lic. Horus Ruiseco Jacobo</a>"
+          ],
+          "photo_reference": "AU_ZVEE3dL14LpY9ZKyVr-w0Uaykb-OSyPn64wFnKxuHV4xOkjmIoS7uxYgVEjEFcpBRw5fIl24vNRuiRnasMgO94H42KtmTvaiKc62GG0twp0r2sLABe7lsxZnEHn7q0jBy12BHP868qj1FbVzPSZnDpwAgqbVK4t-_2eNCXcNTMtqZUB6pEP1EBHPequ-Rlvkms7OGj9Mg6-dRI1tC9wgbMgvzBTqtZ4yRmv19e0mHRIjum3nY98b9irjrNsnZrqA9FuN0m7F_Fvk384ipUHN_5TQLKDK0pm2IpsxuY9AVwgzaprkdUeeoxee5wVROjtmjhfNK2UZJHNxwOZe2P1lZsb3dRh8GBd7stfIFtrn3pMZnjy7J3qW9ykjkFQJn0cAwHicdGcTvkpxjQ4GKeVgp64hMxj2zesW42ruOmrXUhLXDCYEzrFpCuUwMt07V2tM3Cqiw4ofWMIg7eOZuznBVoLBvAwiwmVbIy9anaavHQx5JPo-WlLq-Cjqat0dQ2n9CO2Bo1ThxhnZq_efl-gTCnzBge2V90qCvjHHwyREOATuMz3VYsfzWCGVisOXV0-xZ7f-MUJDtgXRIwedxeHMUwB0XFtRwuRElPRQHZ4g7oyrrC9OzcYK-uORgArpN_t1DhqhNCLiXPx91NcO0MisyLw",
+          "width": 950
+        }
+      ],
+      "place_id": "ChIJW3DEA_LzwokRBhKF-FdCoww",
+      "plus_code": {
+        "compound_code": "V3FJ+GQ New York, NY, USA",
+        "global_code": "87G8V3FJ+GQ"
+      },
+      "rating": 4.7,
+      "reference": "ChIJW3DEA_LzwokRBhKF-FdCoww",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 93,
+      "vicinity": "575 West 218th Street, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8721829,
+          "lng": -73.924776
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87982814999999,
+            "lng": -73.9118932
+          },
+          "southwest": {
+            "lat": 40.86312235,
+            "lng": -73.93808960000001
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Inwood Hill Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1500,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111106528780111791393\">Inwood Hill Park</a>"
+          ],
+          "photo_reference": "AU_ZVEEmC6OxDcxwgUSr55sOBb5WAwXGQ1vza2JjBBUYaK5Zqknpo0cU1lfNBFfsTJLeJnbNLcHLmWL_25-2i_YZvLBloz4RzJriIbuphE8JyWvUN4TOdBTJ45kHx5a4bg8nUPhV2wYr1AExSO-VLpJhFit6hitXbrK60vJPSP64ByzGUH373DUbozNx3Cq3HaHPwQGCXcsmy1vXeIjGrT_k53WNcsPEeJCb0PS-CoB7IcCtb9AXI5QjsxsDJvDVBYQf-uzF5L6VbbbtoTjXkqY9YkeHE3ji_Zj6LMrBaBmyXBPsxRGL0ZAMfu0pR6IUjQZOVjv3sp1n_ag",
+          "width": 2250
+        }
+      ],
+      "place_id": "ChIJpUOPMe7zwokRJUQfPbEU1CI",
+      "plus_code": {
+        "compound_code": "V3CG+V3 New York, NY, USA",
+        "global_code": "87G8V3CG+V3"
+      },
+      "rating": 4.7,
+      "reference": "ChIJpUOPMe7zwokRJUQfPbEU1CI",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3527,
+      "vicinity": "Payson Ave. &, Seaman Avenue, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8809075,
+          "lng": -73.9202518
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88209448029151,
+            "lng": -73.91892101970849
+          },
+          "southwest": {
+            "lat": 40.87939651970851,
+            "lng": -73.9216189802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Henry Hudson Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1600,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112552266883349781884\">Henry Hudson Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGC23wtZ54kgGzvvm02tPGYjcXhUy9KqVw1GWd7HSsDjxyBuYy4svLdHV2LstpzrI2S3kuRtPhYHJQX4fOQg3sZQDDE__608xT3rMWwpNlJA4mwbmiWsnMJM16Nnyq6iHz8oBm7skIXlegP843m7HMxj0zTxQFHrGLKfqcJRifUy8JxvNY98NYLNwRjOBbn2WC_FSndKfKzWJJv6qCBy6mefnPaO6ZUmHPiB94vmLq7sv90lZV05xSyVRMjVVGFdzSMk1qirdTPPer25FbbzwOQTukSQDRf_kzVuq7jmL_cON1iUzEP5YouFoKGRS2Dc8tU8aXLZN0",
+          "width": 2400
+        }
+      ],
+      "place_id": "ChIJM6mCDOnzwokRdA3Jq-C9HOE",
+      "plus_code": {
+        "compound_code": "V3JH+9V The Bronx, NY, USA",
+        "global_code": "87G8V3JH+9V"
+      },
+      "rating": 4.6,
+      "reference": "ChIJM6mCDOnzwokRdA3Jq-C9HOE",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 308,
+      "vicinity": "2570 Independence Avenue #6204, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8760989,
+          "lng": -73.9189853
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8777296802915,
+            "lng": -73.9175048697085
+          },
+          "southwest": {
+            "lat": 40.8750317197085,
+            "lng": -73.9202028302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "international_phone_number": "+1 212-854-1754",
+      "name": "The Big C Rock",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3344,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102917060757698482849\">Andrew Marmorstein</a>"
+          ],
+          "photo_reference": "AU_ZVEHSRO0yVe8joGmpnbe5cR0c0z1LdzCBP8JbWK3ZBAlOqE9sJXx_XMXethZ-BklidVpsDj7PwnihVMzwY8QQ6_wwE4_t6pA3Oj_Kpd1lW1NsPjAsU5T89tPXSr6DHc4A9mRilMkQs5S5sG6BBvDKPTotP3yNNU7HN5L5Fh7EEFAI41qlFjfCvzRMFWU6CD_7hGY6Ig__Xut_qDiPiYrM2zxgEmg1eUVme30hKmD6FiYhXvIXZaE1AyCUkebJNmw7orDP18j3C9IjJQ7dqqCH7nUD6RLwGhEokn9B6GA62gFlMHufsEg2ZRy1tGcWoW0GcUjGR8VBaykKfGH-GRrujUDoXGjnoDddY7U7Zoh9io_G8xR7WJs0M9-kccV_d03pnUXBy2sJvy60wEjLEwMI6V_9Rrps_z4yewwm7lRYgqEW72TojprewSI2R_ujuzjoh9z-Covqj1sQ3Ap9OAxdTyLeukDfHcXon_PecYVOWjT83RwQX5xCFDfSSzmLzl4Zafku-ifm7jOibHB4Kwvnw_Q7kfqe10FKSOx4W3wdxZO6ZnYl2F1K8_dinCW9wuo4rBeJoHobKoorNKf1GvNeLPDEcezI0j9657t616p7iF5Ajb84a60onzvgnOQkgvSap2pI_A",
+          "width": 5016
+        }
+      ],
+      "place_id": "ChIJz-ptcO7zwokR-NB_5Ud6pc0",
+      "plus_code": {
+        "compound_code": "V3GJ+CC The Bronx, NY, USA",
+        "global_code": "87G8V3GJ+CC"
+      },
+      "rating": 4.3,
+      "reference": "ChIJz-ptcO7zwokR-NB_5Ud6pc0",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "university",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 27,
+      "vicinity": "40.876106, -73.918971, 2400 Johnson Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.877614,
+          "lng": -73.9264568
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8783176802915,
+            "lng": -73.9233917
+          },
+          "southwest": {
+            "lat": 40.8756197197085,
+            "lng": -73.92747849999999
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#13B5C7",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Northernmost Point Of Manhattan Island",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101263627927965087201\">Ze&#39;ev Yehuda</a>"
+          ],
+          "photo_reference": "AU_ZVEHP2Muahqhr8utrlA-UvBDFWdFPwIEcmUhB-mVlw2B8vyNwB6NEKEi0gwzVEJtk7gbmDf_P_uPGXkRhf6ReTr8afN9hmVOhtcIAqbQ4pXXUnMlIa8KB-mNEfeMmzaMTuKZDQAT9QEy03MKWP3go1tWiidfpGq1TEOL1nJnYOdYtbUiOw4Z11tx0EfsFfGy4fgtjXG1753qRTvqaNW-gY3Hqv3hHBeIgwqlBU1mNNWTtcNac40mn3AqG9ryMdiaIbgy3igLdN9XWKytuWJt0otMcq7wxhtIHYP-ph0Oc0_7G-Mm9SsyCJXcMXsryyjuxmSsofCgIVIceT57MUl-Zr-IGkmt8U5iUxmDEnoSx-UpMfuPE53MXVmEi8LltzeGGqCpnxy3xZ6Kkmi8vFFsMFb7wnj4m-oNKpk7AermPrDU5xPHMl1iKMsFFpxHuxu9G5PZHmVdG7fCgjHbpZQZkdetCFICmf9KrxaMgJaf0xdPBjIwp2kf5tFHTbdg9chProt3h2QwjFTBAF9X0STFE_9izTUypQ2mx9QB8nE5n2mp7et-snhZuX1xs9oAaq4gcUcWKMQlTuDCvTruolXeIrE7eKKsx1mJKUQPyNaYUBNgx-IVfoPqyUnMfxTzvhQlwR9MoTCTtI-vwThigOw_txw",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJEXhFfgDzwokR35AIyv7EdTw",
+      "rating": 4.8,
+      "reference": "ChIJEXhFfgDzwokR35AIyv7EdTw",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 9,
+      "vicinity": "Tiny Beach, New York"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8774815,
+          "lng": -73.9178775
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8788266802915,
+            "lng": -73.91651616970849
+          },
+          "southwest": {
+            "lat": 40.8761287197085,
+            "lng": -73.91921413029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Johnson Av",
+      "place_id": "ChIJvftyJOzzwokRAVkK8KlFt6g",
+      "plus_code": {
+        "compound_code": "V3GJ+XR New York, NY, USA",
+        "global_code": "87G8V3GJ+XR"
+      },
+      "reference": "ChIJvftyJOzzwokRAVkK8KlFt6g",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.879282,
+          "lng": -73.9167135
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8806316302915,
+            "lng": -73.9154053697085
+          },
+          "southwest": {
+            "lat": 40.8779336697085,
+            "lng": -73.9181033302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Knolls Cres",
+      "place_id": "ChIJZXv0jOvzwokRjxOy7k6NtYE",
+      "plus_code": {
+        "compound_code": "V3HM+P8 New York, NY, USA",
+        "global_code": "87G8V3HM+P8"
+      },
+      "reference": "ChIJZXv0jOvzwokRjxOy7k6NtYE",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87893429999999,
+          "lng": -73.9221341
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88053688029149,
+            "lng": -73.9207357697085
+          },
+          "southwest": {
+            "lat": 40.87783891970849,
+            "lng": -73.9234337302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Spuyten Duyvil",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108584358126588129564\">Jae Hong Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGx3f7wWNXoMh1QMjUvVfRTxRrbuSQ3K9Wil92iTIbiQLaFkd2L4L-5RquTueoKklq5MCDjUKPEqAenGtEbHvATdJHX8x9PVtgoP8M-e5m4fOI51XeRQ4cHQogi3TwwQACfD_QVPCHzE7BsmmxUSmqDCY9aelTyHauPDHQLheOnn5Xq9PvuLOo9YF-45QvAVnAyR3F0Rp6T-xykLqOG7dP28punBH9rsYEG-r57rmcTXoBiUZX0yFSeMlAZs4R71679ymbDleI9LiDSTv2fdVBN3mw5TZa9JmOU6sicRQzjZlU0rcinlInY1o8cqUiDQp9BgA5bS0KMzhFX8IjTB9ohydDPgKfOP5TISfQnX0apMYdER_pabxcEfVvoIPVCSHLDIEovAuPCby7O1zqTnujzGlY6wqxCqlIFbMxRFSaz3-jCGSBA22LQpZ8YQc59DCmau-9dfYWkevoB7WUwau3Fy-WdgfRP1PwYdcxJK9jFCQnuMJyq9_-ig0MHZlCMEzpJLso4aaAGWbhZ7NMovCa6BXodXnsvx5B0pvSDQuANKrNn6mDW_bUYzLOwGiACicge-rj65cBCCfOfjDHL47tkMd24lSw6CSQ1zw8OuJ13nX7lGQpL9e3VEAAXqza6s3h9QW_G",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJ8aWhH-_zwokRoTR8108e76o",
+      "plus_code": {
+        "compound_code": "V3HH+H4 New York, NY, USA",
+        "global_code": "87G8V3HH+H4"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ8aWhH-_zwokRoTR8108e76o",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 37,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.880779,
+          "lng": -73.91893
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88211723029151,
+            "lng": -73.91759036970849
+          },
+          "southwest": {
+            "lat": 40.87941926970851,
+            "lng": -73.9202883302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/Independence Ave",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/100319193906624228074\">Paul</a>"
+          ],
+          "photo_reference": "AU_ZVEG6ZI4nx_cUh07mXL1RmIHhExaZ69At_JssEdwXhTTFPv80P8uvZT1ro5ehTcZo7vULDP7f-pt-0gEkBVIp9_wnMcnjHih_9ypM0itmGz9qnI4K7r2T4o83kFs3CPgwwxQFcOoPxGP4a-5j2LaSpnph1U2YP4uBQFBLlrFLY7ZZkXz_ATZXwgDaiwSInAKafyq9BnZ2N8bTbn7g9NU9cYaHAwFTJAgsioxXgXuDibVGciJ2GT811zZfUiA5_F5QpBANH7SJCrGIHNDkAf8Unjb02orPa9QGe2MjWvsdDNVY4ODKnJ2fdDErDgQsH0-CTIF4Ca2XZWinAJpvQU_RMpJcyXsDY21mvgLbq31Mh5nI67GNx3o_Fu14oXz8tzsE4VWRx6eQHJ9HIGi63GPRhffmRl0Nk_twaHDObHVMvxDVztSK6MGQMfVJT_-Cfq16l9Id1PLT6MxrXzCVpDVoEFXes45aekAqjbLKVBFNA7MTz1RzRjMHhvUTB7ZX7DFlBaKSYExowZWnXVRaX-M4M8IQeusKmtwlK48w7M9bIQddQifOVv5cWDsw7oLEPZ11xYGRtvwLlhqAsBk4Nho9a5VRj_fcW7vRDad18Mfi6M4YS7ZGEVcaxpwGxLZ5DahnrL1cT71M",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJv9zZbunzwokR3rjDHh5FKMU",
+      "plus_code": {
+        "compound_code": "V3JJ+8C New York, NY, USA",
+        "global_code": "87G8V3JJ+8C"
+      },
+      "rating": 3.7,
+      "reference": "ChIJv9zZbunzwokR3rjDHh5FKMU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.877411,
+          "lng": -73.918045
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8787570802915,
+            "lng": -73.9166360697085
+          },
+          "southwest": {
+            "lat": 40.8760591197085,
+            "lng": -73.91933403029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Johnson Av",
+      "place_id": "ChIJO3mGJuzzwokRsQbhumCVDck",
+      "plus_code": {
+        "compound_code": "V3GJ+XQ New York, NY, USA",
+        "global_code": "87G8V3GJ+XQ"
+      },
+      "rating": 5,
+      "reference": "ChIJO3mGJuzzwokRsQbhumCVDck",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87770099999999,
+          "lng": -73.917694
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8790627302915,
+            "lng": -73.9163786197085
+          },
+          "southwest": {
+            "lat": 40.8763647697085,
+            "lng": -73.9190765802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Johnson Av",
+      "photos": [
+        {
+          "height": 2248,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103237729589375373179\">Sebastian Sinisterra (CitySeby)</a>"
+          ],
+          "photo_reference": "AU_ZVEGbGDya9N_hOe7gw_IIqI5Gs9pBw7hT6XzayWmc1DrkkYhunofJ3oUMv6PPUwN3tOEIb_aLXStjNIZverbIz2AOj3deLt_pyMWjrT-o-BjyoQPNSLgxcPM7p7V-6-by4yYEjjnc3G6gtvIPr0KqdS16NXhupsA0TFDJ9NbEN2bpY9ZBfl4KzIHWRw1NDo6JHYLUR7Q_DFws81CKfQeFd9rQgPyNqKp9c0S3WNn-8tuZHzuLedbQgEaVNYHXUkPGVeOrXoMqRhY7Z0yg8nXRkeXqkGiJWWacunqTWtjWhX01nb5rWlWBvkWIJhRr2OU3vdppRP34NF6ikKYF0gqn0Q6Wd4xsh2jsIAReVftw-OnD6mEfbT-T3kPr7kxoVAd6m1dq5BY5oNun_-bXRK13Kn7PUBb7vZMYBzTvDZnQF5FrJOB2qLKCZXUNeOQDDWrMVsw9JYKe8BoPtSAP73ITMhAhU7dSSKeZ7ZlrodvUcuMzdNbUlPwqPpjPNVDpInY5pwINuhSdTOrfNc9wVvRtsAMlDp_fHdeBOyXzzrhGWwKAYuPsyxw3bqUcPNIG0acy0_JiBKyi1w_kXxgrhyo_CwRUkn5A94b-7KHJvKWYSFuYwhacAFx-ntwBElqbrxtHySeOE9J1",
+          "width": 4000
+        }
+      ],
+      "place_id": "ChIJ4WSgJOzzwokRocAnWKTDElU",
+      "plus_code": {
+        "compound_code": "V3HJ+3W New York, NY, USA",
+        "global_code": "87G8V3HJ+3W"
+      },
+      "reference": "ChIJ4WSgJOzzwokRocAnWKTDElU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.878994,
+          "lng": -73.91687000000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8803370802915,
+            "lng": -73.9154660197085
+          },
+          "southwest": {
+            "lat": 40.8776391197085,
+            "lng": -73.91816398029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Knolls Crescent",
+      "place_id": "ChIJR9ZqjOvzwokRJmEN70zgTkY",
+      "plus_code": {
+        "compound_code": "V3HM+H7 New York, NY, USA",
+        "global_code": "87G8V3HM+H7"
+      },
+      "rating": 4.5,
+      "reference": "ChIJR9ZqjOvzwokRJmEN70zgTkY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87970699999999,
+          "lng": -73.916794
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8810497302915,
+            "lng": -73.91547656970849
+          },
+          "southwest": {
+            "lat": 40.8783517697085,
+            "lng": -73.91817453029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Knolls Crescent",
+      "place_id": "ChIJ5ceIjevzwokRTSGqz68uCm8",
+      "plus_code": {
+        "compound_code": "V3HM+V7 New York, NY, USA",
+        "global_code": "87G8V3HM+V7"
+      },
+      "rating": 5,
+      "reference": "ChIJ5ceIjevzwokRTSGqz68uCm8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87942899999999,
+          "lng": -73.916641
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88069028029149,
+            "lng": -73.9153212197085
+          },
+          "southwest": {
+            "lat": 40.87799231970849,
+            "lng": -73.91801918029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Kappock St/Knolls Crescent",
+      "place_id": "ChIJcfxxjOvzwokRmegUR44J_hg",
+      "plus_code": {
+        "compound_code": "V3HM+Q8 New York, NY, USA",
+        "global_code": "87G8V3HM+Q8"
+      },
+      "reference": "ChIJcfxxjOvzwokRmegUR44J_hg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.881195,
+          "lng": -73.917099
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8825507802915,
+            "lng": -73.9157602697085
+          },
+          "southwest": {
+            "lat": 40.8798528197085,
+            "lng": -73.91845823029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 227 St",
+      "place_id": "ChIJxUS2y-vzwokROam0U-q75cQ",
+      "plus_code": {
+        "compound_code": "V3JM+F5 New York, NY, USA",
+        "global_code": "87G8V3JM+F5"
+      },
+      "reference": "ChIJxUS2y-vzwokROam0U-q75cQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.88161499999999,
+          "lng": -73.91732
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88295923029149,
+            "lng": -73.91596371970849
+          },
+          "southwest": {
+            "lat": 40.8802612697085,
+            "lng": -73.91866168029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 227 St",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/111684991827907097246\">Mike Fisher</a>"
+          ],
+          "photo_reference": "AU_ZVEHcsfyQItED0cJzOd8wGd6GntdVdVE9UOyrtfaFM32Ejk5xNXfMjUCEAw6iqliKntJMsZowepFTepL8Aak1IC4QnOXZ67XF2enmAg_T_NxkknH-P-WH1aNa_Y1D-oLy4uTYph9twwf8zW9f4BbZ893gygLndUmD7hQZgIGW2G2kz3jchn8vglMc74_2AmcU2wk2-2vv0InvlSCKi2fj-wNPCKhnqdOy6jjTpZD0oLSfom6qhTircLDd6EWEnFHnvLSQE5TnEbjfeIkwXAqohViz2Xpj7JBYdR8qdxfukLHTtpzNkNyUudX9VX2n43Ku-6hzEqqV1jVkvHKGXumWVVMeUZymVvPT02fIqrQcyN0ZZ9pvOvWifqRa0BV87Lto4xnwlaLKLFTGBmn1cxkBI-JkevKM_50_w4M5XCw7vt7dZGWVjNUXFEyZuPS9n0lpa4jyt99SdPUtT8eq5YU26boeIzktQpYW1meD3heBOdJI7n5Iz-vXX8AdixI0eqODfc76-J8IX3H-P3R1DEi0LkAhW_4EY7m_PmmZb-R23ZKx5hBtknZbp5-rvw5FnVsSM-65cYrobN6Qjrl3W6L4gk-wlKXGB4f1Asf5iSWhsm80zQnRB5jffyqLmpz2mumT-PZ5iQ",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJjesMM-rzwokR1gbayom5nhI",
+      "plus_code": {
+        "compound_code": "V3JM+J3 New York, NY, USA",
+        "global_code": "87G8V3JM+J3"
+      },
+      "rating": 5,
+      "reference": "ChIJjesMM-rzwokR1gbayom5nhI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87937949999999,
+          "lng": -73.912346
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88075248029149,
+            "lng": -73.9110278197085
+          },
+          "southwest": {
+            "lat": 40.87805451970849,
+            "lng": -73.9137257802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Irwin Av/Johnson Av",
+      "place_id": "ChIJL54QtZTzwokRxq1Y9LhmZeY",
+      "plus_code": {
+        "compound_code": "V3HQ+Q3 New York, NY, USA",
+        "global_code": "87G8V3HQ+Q3"
+      },
+      "reference": "ChIJL54QtZTzwokRxq1Y9LhmZeY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.879486,
+          "lng": -73.912384
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8808303302915,
+            "lng": -73.9110565197085
+          },
+          "southwest": {
+            "lat": 40.8781323697085,
+            "lng": -73.9137544802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Irwin Ave/Johnson Av",
+      "photos": [
+        {
+          "height": 1920,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105719265554617952878\">Margarita Rosa</a>"
+          ],
+          "photo_reference": "AU_ZVEEJlgQ0jH0xuF7jz1vRyQa2lqlU97sIyqSWW2l8GlfdKeBdBXeYLvTkT3SKhJhKq1PhwtNvAoNkdCKsLlrOmzZMaNzGi7X3z99w8oVk2Zds-oFYO2_UcCCuaplGBONmbItL-iIzi1hxVX_RSLNeo_Jvtc2_FMoDNCRZjiF57r4pKdyJJ38BQRJrWRFE9cQsNtpGRqLowaug-bM-tljopNAKSlLlRgrn6-Gal7aXCwLTEjfLRIXC2aSuWM2AwJN0SPM2F-299wcacFO5aAeKW0F-4zxI9oi489W6OTXNyifKU1OfIGQnKUiH8UQhngi7JQMJHE3MIbUTw0GhSMXh_y96uAEFq7o5Z5TngqEEnxigYAllADvH5qPo6F3BU64ADEKQF8_267P-RZzZJP90fzC5P1dur42b4DnQI7kHZiGgCIYmh3gYLnZ0L3Et5Acek056RAkVFzn4X5oo504bWaww2hWIDfhWDcUM00aovK-xgAtT7jNeGPo4zkt6KBniw2dNNReTkEBma1XFdoyCitvy_FA7lP4sbrz4CazDd2ZtI0QN4DkhDb4f5MLpmHmdGWnO36cyZiMoqTbKubGXlz2aY2e3D_CT5zL57xZfbJR9ijLmTTx61TIemfrc91AvEHvG8A",
+          "width": 1080
+        }
+      ],
+      "place_id": "ChIJ21xqtZTzwokRQHB3JNCwWJU",
+      "plus_code": {
+        "compound_code": "V3HQ+Q2 New York, NY, USA",
+        "global_code": "87G8V3HQ+Q2"
+      },
+      "rating": 5,
+      "reference": "ChIJ21xqtZTzwokRQHB3JNCwWJU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.884441,
+          "lng": -73.915176
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88577598029149,
+            "lng": -73.91379666970849
+          },
+          "southwest": {
+            "lat": 40.88307801970849,
+            "lng": -73.9164946302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy West/W 232 St",
+      "place_id": "ChIJQZRWMsDzwokR630KGHfYg-o",
+      "plus_code": {
+        "compound_code": "V3MM+QW New York, NY, USA",
+        "global_code": "87G8V3MM+QW"
+      },
+      "rating": 3.3,
+      "reference": "ChIJQZRWMsDzwokR630KGHfYg-o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.87959299999999,
+          "lng": -73.912003
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88095243029151,
+            "lng": -73.9106691697085
+          },
+          "southwest": {
+            "lat": 40.87825446970851,
+            "lng": -73.91336713029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Irwin Ave/Johnson Av",
+      "place_id": "ChIJT-b8tJTzwokRW7gRekDIRMM",
+      "plus_code": {
+        "compound_code": "V3HQ+R5 New York, NY, USA",
+        "global_code": "87G8V3HQ+R5"
+      },
+      "rating": 5,
+      "reference": "ChIJT-b8tJTzwokRW7gRekDIRMM",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.88443400000001,
+          "lng": -73.914566
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.88579388029149,
+            "lng": -73.9132362197085
+          },
+          "southwest": {
+            "lat": 40.8830959197085,
+            "lng": -73.91593418029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Henry Hudson Pkwy East/W 232 St",
+      "photos": [
+        {
+          "height": 2988,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106864979536596716989\">Jos\u00e9 L. Rodr\u00edguez</a>"
+          ],
+          "photo_reference": "AU_ZVEGS0K6i4eWwwfHURaL8SEmY-JkoFUvMwFqVruwrIFv1r5Hzofzty7WPnSN-KNDVoVcD9p70l9UK8MSpT_iWpqpEQu4xMcjWUowUOXyN91lvaZqsrz4mK5bmWQcTEcnZSrYeDmGbx3CoeUslADMgFK9Z3JiMoEnmrrw2sPkb-c9y28JEO2SkYLxwH64DAGVGZGQFLFiMiWHLv4tFuRGvjIRjIEXjCMVLW1cn_OS6Ly69-pFtCiAPB_Gs0yob4y3swX5o3q7iWi6reOM4Emx9jKr4PPVuQZlNJA445BvjKZGcKVA0bEKzuKTupDOQdXR8EEGAQJnosJxUbbSbREfbDPueycGji3iWKP4phswmA9hsMOqvLuCURJA-9pdP9Vt57pGAsB-5pmEM2StINvl9jVwEfTK1L-VnvgnaCfVRe-BwJVvklxwU_wZyETF0-WKF0d0DOaCUo1Dg_KSTDCAJJJuSUH65a4IpwliKl8_7OsNzXVq0w7oqQz5jt3lIdGWTUs08M2ek0JuU0D8y_8FTY1HMS61jg9zm3tMsoDM8WhUKmPnfgxPuUhX2G4EEGInuiB2xGxdpCCDUFPJj30FUshRT_vlGVahaV4R78eHAe79ywEaz9EQnAIq24kOJKLHF59tbiOH4",
+          "width": 5312
+        }
+      ],
+      "place_id": "ChIJr3qKOcDzwokRIRDPBvfyG1E",
+      "plus_code": {
+        "compound_code": "V3MP+Q5 New York, NY, USA",
+        "global_code": "87G8V3MP+Q5"
+      },
+      "rating": 4.3,
+      "reference": "ChIJr3qKOcDzwokRIRDPBvfyG1E",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8747631,
+          "lng": -73.9121515
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.87614428029149,
+            "lng": -73.91047996970849
+          },
+          "southwest": {
+            "lat": 40.87344631970849,
+            "lng": -73.91317793029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/train-71.png",
+      "icon_background_color": "#10BDFF",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/train_rail_1_pinlet",
+      "name": "Marble Hill",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106937471073926317181\">Jakob W. Plummer</a>"
+          ],
+          "photo_reference": "AU_ZVEEJBN8ilDpoJwSnpIWCCxnLYcZ5wVuUHMl7e2Qc4gNL78XA5sFNtCSbLboJjW1XrhfCMDTXCXxTmDifobH9bDkehTPuBp0Dpy4q24-oqrXLt9u5AV7tfgkuI9g1Fv7Y5SFw_HqIUuhTGboRKU0CgMVOYKznx1iznmidiBw0a9iAgXWSk-BkWHGU_FIXrvzoRMPgWJpYyiQ7XuBvtb0YQO9kIPvxJ05hJvPoglkdBwtaIhtoQCFbV0uckOJAMVem3VAF4-C8Z2XBh9VyY8CnExxd4SVj39aZF3NGcNeVZ0PpxiHA717Hrt8mJPXKqlMGoQx4q1484bPtSAJtWneTWfp1VRHluPQ7ofuhI0B5B37C5WhXgAa-DNzQcAcI1-EUaldLQZbnaxLSb_LexGX37nCfP8ujA1HUZC00Ldo-WuHiz7h4YfTEUaoJJiogf6XjNW55-sq37IOrWv9Di90mnJ48eO2as_CtaZr0fWhHVl3r_ZgTke774LF52uaKntl3rVlkfEEw3t1lnc98hxigbnZdeAb-wGlFdcH9IM0KmCzmQZL2c0SklIfJiaPNufamxR4TATTUC451QraxwvORbPpJnAqP4Sf89msDtLORmtP26oXuUSrHfBHNeyJCK4rxfJXgqw",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJHaFPlZLzwokRowjI6AIzWDw",
+      "plus_code": {
+        "compound_code": "V3FQ+W4 New York, NY, USA",
+        "global_code": "87G8V3FQ+W4"
+      },
+      "rating": 3.8,
+      "reference": "ChIJHaFPlZLzwokRowjI6AIzWDw",
+      "scope": "GOOGLE",
+      "types": [
+        "train_station",
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 64,
+      "vicinity": "United States"
+    }
+  ]
+}

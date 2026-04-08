@@ -1,0 +1,311 @@
+{
+  "neighbourhood": "Bayswater",
+  "centroid": {
+    "lat": 40.61692025,
+    "lon": -73.76905612499999
+  },
+  "fetched_at": "2026-04-06T14:06:57.842311+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [],
+    "bar": [],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.6121559,
+            "lng": -73.7687607
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.61367033029151,
+              "lng": -73.7676064697085
+            },
+            "southwest": {
+              "lat": 40.61097236970851,
+              "lng": -73.7703044302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Newly renovated 3 bedroom apartment",
+        "place_id": "ChIJnZfV5hhmwokRGhmjjwycsfY",
+        "plus_code": {
+          "compound_code": "J66J+VF New York, NY, USA",
+          "global_code": "87G8J66J+VF"
+        },
+        "reference": "ChIJnZfV5hhmwokRGhmjjwycsfY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.61440799999999,
+            "lng": -73.76230699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6155163802915,
+              "lng": -73.76044426970849
+            },
+            "southwest": {
+              "lat": 40.6128184197085,
+              "lng": -73.76314223029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 516-571-7894",
+        "name": "Inwood Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106752897466415251980\">Natividad Antigua</a>"
+            ],
+            "photo_reference": "AU_ZVEEfEMMNHAUPU_829tHYFYFXZmflJJkPCBP2QdAaA-K2Z2UaKy5PozSumi-8aoHaXIERz2xFnKAxw3azs7hDdCfdcRNmZ7fK8eFSGW9tpZh_GRRuA7xTQDASg4IUXVHzMNl2Mt3zUwXC8sFlL981eJkZt2Fgb9TNo_uM_7_nBofP6ek8tS8SqUbmGwMDja_YS2gnQYOmM165j6E4HALRvqKLW2qSYbTvxsIzZMaNZECsj6WnXD_T6ftAzYnHtBJbVtwIZLKBkiWhdxkS9mZpNYEhk8dM53GJhGLlCur_LSdKcS_LjgHvpW5Q4YKePUwAfLRbqFKGDDUIogX4zwJscht0ot9vXYGZovL9I3mAUlVpY87aVVm5TeYhXWmx4WLZQEOSN_PaTXFLayYL6FeBl4wJhSmobD_i9jBMPu64oP0ohJlb0u1uL6rjZCgkYmDxEdE8O5pkM4M22s_Y7K9XZZRmIcqow7PvyBw8GYsntI4U45oOTYdXKzeS8tNF-VfWYqtH6vOGM-bsk39wgqVN5pi1TdRcCwUnq7nYVn3VTNjbVahYH9ZtUsxmuMGGNGbR7PG2jaLVL37DoptLYbnv0BjDI9YzJb2EUfCIL1OMyRdTj8UeQor8AQjM9IflPa6aUC0_8AmD",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJ3Q5DiBpmwokRFNfFRXbKG1s",
+        "plus_code": {
+          "compound_code": "J67Q+Q3 Inwood, NY, USA",
+          "global_code": "87G8J67Q+Q3"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ3Q5DiBpmwokRFNfFRXbKG1s",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 500,
+        "vicinity": "Inwood Park, 600 Bayview Avenue, Inwood"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.612555,
+            "lng": -73.7730254
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.6138869802915,
+              "lng": -73.77144081970849
+            },
+            "southwest": {
+              "lat": 40.6111890197085,
+              "lng": -73.77413878029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 718-471-1018",
+        "name": "Bayswater Point State Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 2025,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106641584648179359484\">Hungry Bear</a>"
+            ],
+            "photo_reference": "AU_ZVEHee8llRudIUhJvEPlvcECMcs-EB4VY-do_p3_mIlzI2meVE-wygypxGguG5dPdz0jTkGy9jaZIN2sf4ELx9vY7QH1Rl7zuqPD1EkPgWQiOb5gh3FoUE3pnOrdhfCMiwqGeI7S20UZITXi7yrruOUV5SaKNJBN-Cqv2hM0DQnbhviEaGWz-8ejAXpg948IbwXt8-IOI1B1-CKtAMToxMuh0h0cvkvaAbuBoi5zG7du4lzdCG_dY7zi4xaz4NKNeLPBslttyQ0tO7ZtotRLSWV1G0medGUG46ZKcgixqSRbHaTh666WPbQglrytQP-4iAjq1ZCj6ubFwk0xsgdqmEtnwgqMuF1aDetg8iDCGU8GRqmSOxEJHUoHptq-Ugz-Uk-GNs0qYJRK7FH1UbVPwACXofD_uLfjkhotfcgeYmc3cFf1xmVC0UE7opCRo9CkJqYhSDw5PvXSgcOS-C4pPo_y_wg8IdwZrfp9lNryXz6fcJn4kKwLHoMz9p5mSz3m8BVksKdovBiFjgAuikBIRLuWLIsaPWLHQZkfWOZL_eiMZ4pcHshatgK_tGZFRNFNetgJmnRfjxq77e17tNK-9YHa7gcucbg32JkLEZKFO7JdQBPeLW3qUeKKUzKOWS6SQ8Rkfg00Y",
+            "width": 3600
+          }
+        ],
+        "place_id": "ChIJp0JajRhmwokRjrBs3n4bxDs",
+        "plus_code": {
+          "compound_code": "J67G+2Q Far Rockaway, Queens, NY, USA",
+          "global_code": "87G8J67G+2Q"
+        },
+        "rating": 4.4,
+        "reference": "ChIJp0JajRhmwokRjrBs3n4bxDs",
+        "scope": "GOOGLE",
+        "types": [
+          "tourist_attraction",
+          "park",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 283,
+        "vicinity": "14-79 Point Breeze Place, Far Rockaway"
+      }
+    ],
+    "transit_station": []
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.6121559,
+          "lng": -73.7687607
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.61367033029151,
+            "lng": -73.7676064697085
+          },
+          "southwest": {
+            "lat": 40.61097236970851,
+            "lng": -73.7703044302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Newly renovated 3 bedroom apartment",
+      "place_id": "ChIJnZfV5hhmwokRGhmjjwycsfY",
+      "plus_code": {
+        "compound_code": "J66J+VF New York, NY, USA",
+        "global_code": "87G8J66J+VF"
+      },
+      "reference": "ChIJnZfV5hhmwokRGhmjjwycsfY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.61440799999999,
+          "lng": -73.76230699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6155163802915,
+            "lng": -73.76044426970849
+          },
+          "southwest": {
+            "lat": 40.6128184197085,
+            "lng": -73.76314223029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 516-571-7894",
+      "name": "Inwood Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106752897466415251980\">Natividad Antigua</a>"
+          ],
+          "photo_reference": "AU_ZVEEfEMMNHAUPU_829tHYFYFXZmflJJkPCBP2QdAaA-K2Z2UaKy5PozSumi-8aoHaXIERz2xFnKAxw3azs7hDdCfdcRNmZ7fK8eFSGW9tpZh_GRRuA7xTQDASg4IUXVHzMNl2Mt3zUwXC8sFlL981eJkZt2Fgb9TNo_uM_7_nBofP6ek8tS8SqUbmGwMDja_YS2gnQYOmM165j6E4HALRvqKLW2qSYbTvxsIzZMaNZECsj6WnXD_T6ftAzYnHtBJbVtwIZLKBkiWhdxkS9mZpNYEhk8dM53GJhGLlCur_LSdKcS_LjgHvpW5Q4YKePUwAfLRbqFKGDDUIogX4zwJscht0ot9vXYGZovL9I3mAUlVpY87aVVm5TeYhXWmx4WLZQEOSN_PaTXFLayYL6FeBl4wJhSmobD_i9jBMPu64oP0ohJlb0u1uL6rjZCgkYmDxEdE8O5pkM4M22s_Y7K9XZZRmIcqow7PvyBw8GYsntI4U45oOTYdXKzeS8tNF-VfWYqtH6vOGM-bsk39wgqVN5pi1TdRcCwUnq7nYVn3VTNjbVahYH9ZtUsxmuMGGNGbR7PG2jaLVL37DoptLYbnv0BjDI9YzJb2EUfCIL1OMyRdTj8UeQor8AQjM9IflPa6aUC0_8AmD",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJ3Q5DiBpmwokRFNfFRXbKG1s",
+      "plus_code": {
+        "compound_code": "J67Q+Q3 Inwood, NY, USA",
+        "global_code": "87G8J67Q+Q3"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ3Q5DiBpmwokRFNfFRXbKG1s",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 500,
+      "vicinity": "Inwood Park, 600 Bayview Avenue, Inwood"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.612555,
+          "lng": -73.7730254
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.6138869802915,
+            "lng": -73.77144081970849
+          },
+          "southwest": {
+            "lat": 40.6111890197085,
+            "lng": -73.77413878029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 718-471-1018",
+      "name": "Bayswater Point State Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 2025,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106641584648179359484\">Hungry Bear</a>"
+          ],
+          "photo_reference": "AU_ZVEHee8llRudIUhJvEPlvcECMcs-EB4VY-do_p3_mIlzI2meVE-wygypxGguG5dPdz0jTkGy9jaZIN2sf4ELx9vY7QH1Rl7zuqPD1EkPgWQiOb5gh3FoUE3pnOrdhfCMiwqGeI7S20UZITXi7yrruOUV5SaKNJBN-Cqv2hM0DQnbhviEaGWz-8ejAXpg948IbwXt8-IOI1B1-CKtAMToxMuh0h0cvkvaAbuBoi5zG7du4lzdCG_dY7zi4xaz4NKNeLPBslttyQ0tO7ZtotRLSWV1G0medGUG46ZKcgixqSRbHaTh666WPbQglrytQP-4iAjq1ZCj6ubFwk0xsgdqmEtnwgqMuF1aDetg8iDCGU8GRqmSOxEJHUoHptq-Ugz-Uk-GNs0qYJRK7FH1UbVPwACXofD_uLfjkhotfcgeYmc3cFf1xmVC0UE7opCRo9CkJqYhSDw5PvXSgcOS-C4pPo_y_wg8IdwZrfp9lNryXz6fcJn4kKwLHoMz9p5mSz3m8BVksKdovBiFjgAuikBIRLuWLIsaPWLHQZkfWOZL_eiMZ4pcHshatgK_tGZFRNFNetgJmnRfjxq77e17tNK-9YHa7gcucbg32JkLEZKFO7JdQBPeLW3qUeKKUzKOWS6SQ8Rkfg00Y",
+          "width": 3600
+        }
+      ],
+      "place_id": "ChIJp0JajRhmwokRjrBs3n4bxDs",
+      "plus_code": {
+        "compound_code": "J67G+2Q Far Rockaway, Queens, NY, USA",
+        "global_code": "87G8J67G+2Q"
+      },
+      "rating": 4.4,
+      "reference": "ChIJp0JajRhmwokRjrBs3n4bxDs",
+      "scope": "GOOGLE",
+      "types": [
+        "tourist_attraction",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 283,
+      "vicinity": "14-79 Point Breeze Place, Far Rockaway"
+    }
+  ]
+}

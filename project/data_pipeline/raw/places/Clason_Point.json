@@ -1,0 +1,4738 @@
+{
+  "neighbourhood": "Clason Point",
+  "centroid": {
+    "lat": 40.80844808275862,
+    "lon": -73.85561900689655
+  },
+  "fetched_at": "2026-04-06T14:17:59.177806+00:00",
+  "place_types": [
+    "restaurant",
+    "bar",
+    "lodging",
+    "tourist_attraction",
+    "transit_station"
+  ],
+  "search_radius_m": 1000,
+  "results_by_type": {
+    "restaurant": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8135397,
+            "lng": -73.8555878
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8149435802915,
+              "lng": -73.8542714197085
+            },
+            "southwest": {
+              "lat": 40.8122456197085,
+              "lng": -73.8569693802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 347-810-9018",
+        "name": "Lechonera El Sazon Criollo",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116634776690844968707\">angel perez</a>"
+            ],
+            "photo_reference": "AU_ZVEHB6g5OS-teuifS4X1CrwN6iU97KHg-ee_ojMvd6pczPQ6rGLmcMzEqbtO-hwKJ549gbpw8rjiWomEGUCXZhm8QMGxt94MoymPt8OichhW5aVCPJR5y7a2ZVsRPKl6XWEJRvuNVDLo3c-9ht2crkyDjHlswn3klOxKldAfDCl-EKkhuoz6xpINezAgP7rzawbc_Z7Zk3r8XqoXWr1A31ZGq1EI3oG0_LxSI-PUS4qxDmtBdHj4mUVHNT4PMzjFlxxATQ7Oj9AuGhJoGw_whMCkPE60XKaWfJuAm6wrlJChw77Or9elI1ao_pV9Pb1W1sIlpK3NzxOKHc_Jm99WaF_GLC1n71w1v0stADYbD83l1rBCVt9wsGRLP82aY-LZEDwwP9CZJHi8sOM-MLv1E6VSjGjWAnSIjdpTPyQP1tQsO7TVFl3mnS4E160ZWxP4Ypnt-H5oavH6CcGeNqfdcxc0mczXWMI_bENjo1VKT6enly6y4FveOEVh5buWRyN2lkh2AWaLUG_4UXpKVihFiformDIfvqLkO6diE14-9ECpmUgDDEb2A1XCdJ5rKKOymXVFchCOZrCaE_0vfTs8t8LC00Exw_k6cEquCBBvPy4SE9U-eaWE8uwFgK5-ejqiawcFIDw",
+            "width": 1816
+          }
+        ],
+        "place_id": "ChIJo1yVXNH0wokRpvJbM8K64F4",
+        "plus_code": {
+          "compound_code": "R47V+CQ The Bronx, NY, USA",
+          "global_code": "87G8R47V+CQ"
+        },
+        "rating": 4.2,
+        "reference": "ChIJo1yVXNH0wokRpvJbM8K64F4",
+        "scope": "GOOGLE",
+        "types": [
+          "meal_delivery",
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 301,
+        "vicinity": "1930 Patterson Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8111645,
+            "lng": -73.8553621
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8124860302915,
+              "lng": -73.8541567697085
+            },
+            "southwest": {
+              "lat": 40.8097880697085,
+              "lng": -73.8568547302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-618-7440",
+        "name": "Maravillas Bar & Grill",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101992354388838242140\">Maravillas Bar &amp; Grill</a>"
+            ],
+            "photo_reference": "AU_ZVEHetscglmcWXj9kF-FxBTCItNlEVVMRTSMu3lxbJKnrXrNdjQWcWSffPXyvnd99izOM9iyi8VjSxPcBCh0sX4Aufs0omAucOZK1q271m9P5SyIBNeHbMg5f--qD1NzkhgNqaDzQ-YD3VeXiWTKrLjmn-xRvBxFrMILHFnVvG4CGjfypjYZ3FNU00PZaHP_4gjL9XYohovI6uyPRTY3RFSNgSNS-2Zh_ApRagm5g6iiuLCa13pEumhEfcREs2oizaum9-moIJ-dikqMDGcQCD8tCAZ5tJPa8HMXNy0dSJDRKFfLzNLyJlz8ZPlbESWik5VQnVNdM8D0",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJo3Ka3yX1wokRS4aOV3PdvR8",
+        "plus_code": {
+          "compound_code": "R46V+FV The Bronx, NY, USA",
+          "global_code": "87G8R46V+FV"
+        },
+        "price_level": 2,
+        "rating": 4.3,
+        "reference": "ChIJo3Ka3yX1wokRS4aOV3PdvR8",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "point_of_interest",
+          "food",
+          "establishment"
+        ],
+        "user_ratings_total": 397,
+        "vicinity": "264 Soundview Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8154841,
+            "lng": -73.8569461
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8169086802915,
+              "lng": -73.8556456197085
+            },
+            "southwest": {
+              "lat": 40.8142107197085,
+              "lng": -73.85834358029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+        "international_phone_number": "+1 718-328-4220",
+        "name": "La Isla Food Corporation",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1445,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115669779561965803211\">Kin Tsui</a>"
+            ],
+            "photo_reference": "AU_ZVEFCtI2nZ8dikv13_e-f_0cuybcR_u_mMg2BnNHHKa4cn1M6uU34MSPaQrTKD3RJlfBz0Ncr-GrG9267XormUho2xQO8-V4tVwLQpeCxZCqeBZd0gd3GbAy21iVuibTzvITlKKxg7tWGXgEclChXQxe1v2qcc40rNx-SEPf1X95lN2Ylz-D7AO_cNnn3kKr-uaHeEcbdibDTP5HoXa_xNM6-ZnzInM5UyRe1Tbmh8xY2P-F38dEYk59ToTbofbv8Y7zo2rgXoRBJQhKJTGQUvdtGgQ-leMmFXTzsA0vbfu5ME0LDGaYKLpTyX5ai1FbRLnPlU0w2qG8PRRuj_eDYLFRz87Z8wH5H0cGxaY6Hs-IwnlkRhyX_MR3K_Nw1wC4-3U0g0vkc2xEB64k_BhDSEknP68q-Gzas7Vqfg6za9EnuJkw-gWoQxR1WpHX_6lSLoVaNB7PLIHxEan2N5OBv8UTDdMmZkkBiutscQzysqpwpGnUKWaWJQfoHSm0YpLKbyw2_aEKeAZr8LPD1J3b3-sFgiEdoc4TmefFqEu9QmfqKP0dXLI5kbh_gj9DNAuYpTFK04bT2BIOKguqSzr8zFSg4NSkIPLbrpzpsYChcAJRTXvWspjlmBva1OnOrPeVN",
+            "width": 2553
+          }
+        ],
+        "place_id": "ChIJrdk1dyf1wokRsayiWlttrLA",
+        "plus_code": {
+          "compound_code": "R48V+56 The Bronx, NY, USA",
+          "global_code": "87G8R48V+56"
+        },
+        "rating": 4.1,
+        "reference": "ChIJrdk1dyf1wokRsayiWlttrLA",
+        "scope": "GOOGLE",
+        "types": [
+          "restaurant",
+          "grocery_or_supermarket",
+          "point_of_interest",
+          "food",
+          "store",
+          "establishment"
+        ],
+        "user_ratings_total": 23,
+        "vicinity": "1918 Lacombe Avenue, The Bronx"
+      }
+    ],
+    "bar": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81118,
+            "lng": -73.85542
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8124959302915,
+              "lng": -73.85420016970849
+            },
+            "southwest": {
+              "lat": 40.8097979697085,
+              "lng": -73.85689813029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+        "icon_background_color": "#FF9E67",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+        "international_phone_number": "+1 347-270-2422",
+        "name": "Mi Casita Lounge",
+        "opening_hours": {
+          "open_now": false
+        },
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113602064153632961677\">kecia dorsey-rosa</a>"
+            ],
+            "photo_reference": "AU_ZVEHiVj2TALf0SQK-h9dwx-MELRJ-bRu5A3D9k2KNsJb163qTGoStdBXUe5NlmVmxGwUZeGNDSrl_q5II2avuvMQUtgAu7uu7d8LHLiNPZZV5pqB2TemkphGGVla456Ru6mgZK0Rgj4CatzBueLsVx5rDVT7NET0I2XF-42m19mL191od5mc28QWBw1iF---JKJi3QMUbRK1AshMuSbk5pGHiQyp2a7Ei-1mDU9MbR5T-yhz3Fmho0n3SuJQNhSTRyvaRqWais0JPPEmIEqSsj5d2K4vke_P9X3wooRlPUuVGHngC8gBN8fP5PklPUwNuXN_rR8cn8iUuTdtpPHMcU7dRP-N0A5wDSYf5y8UHKlhtxUIPhMq9nkqBjd3PmLAHqJnRAmx3cOvIjrPZlYVPajIN0ZYocwJM1aGojeOYDuk0IL8GgF3n-ATSOnaGVGewL5pTCW43YLODp5iV0cypJkrQSisfme7WJBYO0dQVdJt6erIwx_lzHyR316_qCWPObjFz_EVrbtLdYIQOHZd4fJdKRKlB25xwu22Wh9b_diVDq5bWUPN3IbPAqIEoW68BNOkpG7bfbFwW1wT9wlI2BTXf-QLMDQDCeu3SBX3siPw87g55as1eZhWgIGVVPFOHf27imv82",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJW70_dCb1wokRu0IQ7-pa95s",
+        "plus_code": {
+          "compound_code": "R46V+FR The Bronx, NY, USA",
+          "global_code": "87G8R46V+FR"
+        },
+        "price_level": 2,
+        "rating": 4.1,
+        "reference": "ChIJW70_dCb1wokRu0IQ7-pa95s",
+        "scope": "GOOGLE",
+        "types": [
+          "bar",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 206,
+        "vicinity": "264 Soundview Avenue, The Bronx"
+      }
+    ],
+    "lodging": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81321810000001,
+            "lng": -73.8547851
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81460223029149,
+              "lng": -73.8534176197085
+            },
+            "southwest": {
+              "lat": 40.81190426970849,
+              "lng": -73.8561155802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 917-312-0314",
+        "name": "Hamilton's Hideaway",
+        "place_id": "ChIJ6RWuNCb1wokRSNYyCIwFvJ0",
+        "plus_code": {
+          "compound_code": "R47W+73 The Bronx, NY, USA",
+          "global_code": "87G8R47W+73"
+        },
+        "rating": 5,
+        "reference": "ChIJ6RWuNCb1wokRSNYyCIwFvJ0",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "between Obrien and, Stephens Ave, Compton Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8091697,
+            "lng": -73.8545913
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8104358302915,
+              "lng": -73.85332261970849
+            },
+            "southwest": {
+              "lat": 40.8077378697085,
+              "lng": -73.8560205802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Spacious 3BR Detach house w/Parking in Quiet area - Three-Bedroom House",
+        "place_id": "ChIJg2kHkSX1wokRGaOowzYaFjE",
+        "plus_code": {
+          "compound_code": "R45W+M5 New York, NY, USA",
+          "global_code": "87G8R45W+M5"
+        },
+        "reference": "ChIJg2kHkSX1wokRGaOowzYaFjE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8079071,
+            "lng": -73.8522416
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8091634302915,
+              "lng": -73.8508673697085
+            },
+            "southwest": {
+              "lat": 40.8064654697085,
+              "lng": -73.8535653302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Oasis Stay NY, 2BR Cozy Home in a 2Family House, 18min from the City",
+        "place_id": "ChIJ79CEny_1wokRGmdxL52eVAc",
+        "plus_code": {
+          "compound_code": "R45X+54 New York, NY, USA",
+          "global_code": "87G8R45X+54"
+        },
+        "reference": "ChIJ79CEny_1wokRGmdxL52eVAc",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8079109,
+            "lng": -73.8522263
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8092739302915,
+              "lng": -73.85075491970849
+            },
+            "southwest": {
+              "lat": 40.8065759697085,
+              "lng": -73.8534528802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Oasis Stay NY, 2BR Cozy Home in a 2Family House, 18min from the City - Two-Bedroom Apartment",
+        "place_id": "ChIJRcCFny_1wokRjivkhUJNww4",
+        "plus_code": {
+          "compound_code": "R45X+54 New York, NY, USA",
+          "global_code": "87G8R45X+54"
+        },
+        "reference": "ChIJRcCFny_1wokRjivkhUJNww4",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8113975,
+            "lng": -73.8542404
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81287528029149,
+              "lng": -73.8529224697085
+            },
+            "southwest": {
+              "lat": 40.8101773197085,
+              "lng": -73.85562043029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Cozy room with attached bathroom",
+        "place_id": "ChIJ1WUrBSb1wokRiBgwQ23UqQQ",
+        "reference": "ChIJ1WUrBSb1wokRiBgwQ23UqQQ",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8056793,
+            "lng": -73.8534088
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8070714802915,
+              "lng": -73.85201526970849
+            },
+            "southwest": {
+              "lat": 40.8043735197085,
+              "lng": -73.85471323029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Stunning Peloton Condo 18 mins from Manhattan",
+        "place_id": "ChIJFcPDATD1wokRVWZWOd_0b-E",
+        "plus_code": {
+          "compound_code": "R44W+7J New York, NY, USA",
+          "global_code": "87G8R44W+7J"
+        },
+        "reference": "ChIJFcPDATD1wokRVWZWOd_0b-E",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8117685,
+            "lng": -73.8571255
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8131460802915,
+              "lng": -73.8556741197085
+            },
+            "southwest": {
+              "lat": 40.8104481197085,
+              "lng": -73.85837208029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "international_phone_number": "+1 917-244-9483",
+        "name": "BautistaVendingServices",
+        "place_id": "ChIJobmyY171wokR8LFCRnBn47o",
+        "plus_code": {
+          "compound_code": "R46V+P4 The Bronx, NY, USA",
+          "global_code": "87G8R46V+P4"
+        },
+        "reference": "ChIJobmyY171wokR8LFCRnBn47o",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "313 Bolton Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8121414,
+            "lng": -73.855629
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8134726802915,
+              "lng": -73.85441551970848
+            },
+            "southwest": {
+              "lat": 40.8107747197085,
+              "lng": -73.8571134802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "1-bedroom in the Bronx next to nearby parks and ferry.",
+        "place_id": "ChIJHZ24aSb1wokRPk-Unb-usOE",
+        "plus_code": {
+          "compound_code": "R46V+VP New York, NY, USA",
+          "global_code": "87G8R46V+VP"
+        },
+        "reference": "ChIJHZ24aSb1wokRPk-Unb-usOE",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8121491,
+            "lng": -73.8556366
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8134807302915,
+              "lng": -73.85442026970848
+            },
+            "southwest": {
+              "lat": 40.8107827697085,
+              "lng": -73.8571182302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "1-bedroom in the Bronx next to nearby parks and ferry.",
+        "place_id": "ChIJ1WUrBSb1wokRma58ngMtLEY",
+        "plus_code": {
+          "compound_code": "R46V+VP New York, NY, USA",
+          "global_code": "87G8R46V+VP"
+        },
+        "reference": "ChIJ1WUrBSb1wokRma58ngMtLEY",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8108292,
+            "lng": -73.85952
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8122856302915,
+              "lng": -73.85775346970851
+            },
+            "southwest": {
+              "lat": 40.8095876697085,
+              "lng": -73.86045143029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Serene 1-bedroom in a 3bd 2ba house with WiFi in The Bronx",
+        "place_id": "ChIJfUmHayb1wokRKNZnq0MnU0M",
+        "plus_code": {
+          "compound_code": "R46R+85 New York, NY, USA",
+          "global_code": "87G8R46R+85"
+        },
+        "reference": "ChIJfUmHayb1wokRKNZnq0MnU0M",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8072967,
+            "lng": -73.850647
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8086556302915,
+              "lng": -73.84890391970849
+            },
+            "southwest": {
+              "lat": 40.8059576697085,
+              "lng": -73.8516018802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Luxurious 3 bedroom water front property",
+        "place_id": "ChIJp_3CUi71wokR8KPVY4mRELk",
+        "reference": "ChIJp_3CUi71wokR8KPVY4mRELk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8126488,
+            "lng": -73.8541336
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8140097302915,
+              "lng": -73.8526906697085
+            },
+            "southwest": {
+              "lat": 40.8113117697085,
+              "lng": -73.8553886302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hamilton's Hideaway",
+        "place_id": "ChIJzwxnLyb1wokRFqTOiTaUbSU",
+        "plus_code": {
+          "compound_code": "R47W+38 New York, NY, USA",
+          "global_code": "87G8R47W+38"
+        },
+        "reference": "ChIJzwxnLyb1wokRFqTOiTaUbSU",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8097305,
+            "lng": -73.8499603
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8112384302915,
+              "lng": -73.8487335197085
+            },
+            "southwest": {
+              "lat": 40.8085404697085,
+              "lng": -73.85143148029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Vrbo Property",
+        "place_id": "ChIJzykszi71wokRx1aeFBGfyF8",
+        "plus_code": {
+          "compound_code": "R552+V2 New York, NY, USA",
+          "global_code": "87G8R552+V2"
+        },
+        "reference": "ChIJzykszi71wokRx1aeFBGfyF8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8097381,
+            "lng": -73.8499603
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8112422302915,
+              "lng": -73.8487335197085
+            },
+            "southwest": {
+              "lat": 40.80854426970851,
+              "lng": -73.85143148029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "2 Bedroom Private vacation home in The Bronx",
+        "place_id": "ChIJZfouzi71wokRIvwtxgVr9n8",
+        "plus_code": {
+          "compound_code": "R552+V2 New York, NY, USA",
+          "global_code": "87G8R552+V2"
+        },
+        "reference": "ChIJZfouzi71wokRIvwtxgVr9n8",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81299970000001,
+            "lng": -73.85399629999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8143486802915,
+              "lng": -73.85264731970848
+            },
+            "southwest": {
+              "lat": 40.8116507197085,
+              "lng": -73.8553452802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Hamilton's Hideaway Studio M3",
+        "place_id": "ChIJHb2NKyb1wokRpYjw-OlpGps",
+        "plus_code": {
+          "compound_code": "R47W+5C New York, NY, USA",
+          "global_code": "87G8R47W+5C"
+        },
+        "reference": "ChIJHb2NKyb1wokRpYjw-OlpGps",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8124046,
+            "lng": -73.8481521
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81400858029151,
+              "lng": -73.84658281970849
+            },
+            "southwest": {
+              "lat": 40.81131061970851,
+              "lng": -73.8492807802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "2 bedroom house in a quiet place Close to all places",
+        "place_id": "ChIJNaP4gSn1wokR1Nm8Lp3IhCg",
+        "plus_code": {
+          "compound_code": "R562+XP New York, NY, USA",
+          "global_code": "87G8R562+XP"
+        },
+        "reference": "ChIJNaP4gSn1wokR1Nm8Lp3IhCg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8151626,
+            "lng": -73.8534317
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81697733029151,
+              "lng": -73.8524004197085
+            },
+            "southwest": {
+              "lat": 40.81427936970851,
+              "lng": -73.85509838029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Spacious one Bedroom apt No cleaning fee",
+        "place_id": "ChIJI8nwBij1wokRHoVVq8Krqvo",
+        "reference": "ChIJI8nwBij1wokRHoVVq8Krqvo",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81436919999999,
+            "lng": -73.8603668
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81572278029149,
+              "lng": -73.85898391970849
+            },
+            "southwest": {
+              "lat": 40.8130248197085,
+              "lng": -73.8616818802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Private luxury short /long term rentals for traveling medical professionals.",
+        "place_id": "ChIJm_rq2SD1wokRI-HH--H9GJg",
+        "plus_code": {
+          "compound_code": "R47Q+PV New York, NY, USA",
+          "global_code": "87G8R47Q+PV"
+        },
+        "reference": "ChIJm_rq2SD1wokRI-HH--H9GJg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8143807,
+            "lng": -73.86037449999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8157348802915,
+              "lng": -73.85898671970851
+            },
+            "southwest": {
+              "lat": 40.8130369197085,
+              "lng": -73.86168468029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Private luxury short/long term rentals for traveling medical professionals.",
+        "place_id": "ChIJX1Hr2SD1wokR7TfuTdDsqkk",
+        "plus_code": {
+          "compound_code": "R47Q+QV New York, NY, USA",
+          "global_code": "87G8R47Q+QV"
+        },
+        "reference": "ChIJX1Hr2SD1wokR7TfuTdDsqkk",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81533809999999,
+            "lng": -73.8574371
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81680563029149,
+              "lng": -73.8561156197085
+            },
+            "southwest": {
+              "lat": 40.8141076697085,
+              "lng": -73.85881358029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Beautiful Bronx property",
+        "place_id": "ChIJ_XtAbif1wokRs4kzC2LAM44",
+        "plus_code": {
+          "compound_code": "R48V+42 New York, NY, USA",
+          "global_code": "87G8R48V+42"
+        },
+        "reference": "ChIJ_XtAbif1wokRs4kzC2LAM44",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8148423,
+            "lng": -73.86156470000002
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8161996302915,
+              "lng": -73.8601547197085
+            },
+            "southwest": {
+              "lat": 40.8135016697085,
+              "lng": -73.86285268029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Beautiful family home",
+        "place_id": "ChIJ0_Sf5SD1wokRtYeG5c3tQCg",
+        "plus_code": {
+          "compound_code": "R47Q+W9 New York, NY, USA",
+          "global_code": "87G8R47Q+W9"
+        },
+        "reference": "ChIJ0_Sf5SD1wokRtYeG5c3tQCg",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8157592,
+            "lng": -73.8500485
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81708373029149,
+              "lng": -73.84888341970849
+            },
+            "southwest": {
+              "lat": 40.8143857697085,
+              "lng": -73.85158138029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+        "icon_background_color": "#909CE1",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+        "name": "Casa temporal",
+        "place_id": "ChIJwaVrdwD1wokRFcwFR0bVSCs",
+        "plus_code": {
+          "compound_code": "R48X+8X The Bronx, NY, USA",
+          "global_code": "87G8R48X+8X"
+        },
+        "reference": "ChIJwaVrdwD1wokRFcwFR0bVSCs",
+        "scope": "GOOGLE",
+        "types": [
+          "lodging",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "442 Olmstead Avenue, The Bronx"
+      }
+    ],
+    "tourist_attraction": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81273069999999,
+            "lng": -73.84780289999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81575795,
+              "lng": -73.8445877
+            },
+            "southwest": {
+              "lat": 40.81016655,
+              "lng": -73.8519761
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "name": "Castle Hill Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104405006829023045678\">Castle Hill Park</a>"
+            ],
+            "photo_reference": "AU_ZVEEBLxykdPAmqZgJzcFApro0gvDr4D5bLEg9O4J7oSNJAZ0dI1dkH9E_04HSX9F0_sUt5Ij7b8o2dXc5WOefGMI8CkVhFM6prdp6W9D4sAvbDM_04Y_1Xo6ZqAv93CwbJwWlDIowroMB318osQtcCILPOvRMCyeNAqLkQnUKN8z0Qph3apGvR5kzL_dcPuqz7J7OwpdTTlvuHmnTAxbmcm0RHQOWivO2w_SQ6cZBk2c4_E3Vin2x7YdnSWukP-PChPDWL-tRZJHVP-npc8zfObzaaD4x9s_vNp20cjxtNEFVrszZZ27hpH4mFnxUBcxtJvV81P2idjc",
+            "width": 1280
+          }
+        ],
+        "place_id": "ChIJOU0gfin1wokR_HujcSJFJKg",
+        "plus_code": {
+          "compound_code": "R572+3V The Bronx, NY, USA",
+          "global_code": "87G8R572+3V"
+        },
+        "rating": 4.5,
+        "reference": "ChIJOU0gfin1wokR_HujcSJFJKg",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 354,
+        "vicinity": "Barrett Ave. &, Howe Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8145338,
+            "lng": -73.853428
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8183167,
+              "lng": -73.85226981970848
+            },
+            "southwest": {
+              "lat": 40.8093355,
+              "lng": -73.85496778029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Pugsley Creek Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 3096,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108454284563615015356\">Alex Vazquez</a>"
+            ],
+            "photo_reference": "AU_ZVEHz54osnIjvtkq__1M1tV6v3Ab8NFSPL925w18IJSKdB78ZlmR5fRw8OamHfBZLDBNnXD68WuhfVBsAsr5gcPdUSxL32jX05O6vhHvxS9XjPFrbWxx8df1bt0mSiYe-qTNDCx74WzRPoEibeORNwLM1UACUXJ0nv9m43Qb2HycoSEcv_tVow4iDmHzUYnk1AoymyOt0rHRE3cJ0nbR0cI71J2tS3IRUcZcp2w0KDtqMG7FKNtn7qDIOvhMPEROhLc0WKM1mSFL595RMjSFdHGJYl9q6X5bObUW1EnWgEXA48tQVLqLwB9EA4EgDSBNAJrNSyyQgbpxUpx7PevTfQziGPwY78CEIe2SaXdVrM_LIODlZcDLUh7dKmfcF2z8uqZfrKBqu8PCdxkPeAkFcj9AOVcFpTqP224pdJcZn-ue9Zplwnr3MBZjJEMOs9ptzRgrbABq99IIiqQDukYcDFP1mmw2DdgxZoO_Bn3JsjzZ7V6fRtnMk12poSC_ecKRw-YJDsbf0yCBdYzPOtYGbfbCYhGWHqdaVGozZ9eLYqgTVkYBlsUzRYkec7wwQmvq2Hn33Q2CenaLkENMByQLxoJfteRP7blNIOrcLuCq780SGdebTbKIezPx1QyU5ikVuxZnGBXif",
+            "width": 4128
+          }
+        ],
+        "place_id": "ChIJ9cRJTij1wokRfCXsCWEHJfA",
+        "plus_code": {
+          "compound_code": "R47W+RJ The Bronx, NY, USA",
+          "global_code": "87G8R47W+RJ"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ9cRJTij1wokRfCXsCWEHJfA",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 860,
+        "vicinity": "Randall Ave., Lacombe Ave., Soundview Ave. bet. White Plains Rd. and, Olmstead Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80964849999999,
+            "lng": -73.8567266
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8110122302915,
+              "lng": -73.8552716697085
+            },
+            "southwest": {
+              "lat": 40.8083142697085,
+              "lng": -73.8579696302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Harding Park",
+        "photos": [
+          {
+            "height": 480,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101868402050048670395\">Harding Park</a>"
+            ],
+            "photo_reference": "AU_ZVEGYdtm9veWNSEYMsQNfxG0b-ldGD0n8SDqy06TwNnsF0SqFW2EjHX4CO3lDZNt3GW1H_U68KSHKuBaz9yg6ah-XfD5FNHFkb5Cp3Rwop5Ygm1Sg07vpy37otTyH_4WdBM6FeR3r1cD-W-w4nIHsjeHQFTjTHDBe0ghtoKEKPiUvA-XETSDnOfgorUdgi9BtyqKm6sp7usJZclWyxdoyJuOkMksd6z-xGsI9AlpCwh79DhOvvvsvO1I3S_0xgRFt566jF5SKV0OPoQFkSbsSmUQJXLn9GGPMfo5Eo610uXjFziokdWSu45Ukfu-KUdxK5SXmWxyGbsw",
+            "width": 640
+          }
+        ],
+        "place_id": "ChIJ-7RsNST1wokRUw7KuvKMoDk",
+        "plus_code": {
+          "compound_code": "R45V+V8 The Bronx, NY, USA",
+          "global_code": "87G8R45V+V8"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ-7RsNST1wokRUw7KuvKMoDk",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 146,
+        "vicinity": "201 Bolton Avenue, The Bronx"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8055473,
+            "lng": -73.84815859999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8069931302915,
+              "lng": -73.84712586970849
+            },
+            "southwest": {
+              "lat": 40.8042951697085,
+              "lng": -73.84982383029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "icon_background_color": "#4DB546",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+        "international_phone_number": "+1 212-639-9675",
+        "name": "Clason Point Park",
+        "opening_hours": {
+          "open_now": true
+        },
+        "photos": [
+          {
+            "height": 1198,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108497856693643177336\">Clason Point Park</a>"
+            ],
+            "photo_reference": "AU_ZVEEVMEsdVFUMXd0-NKyE5y7ldw1zkXlh9T7TTbDIYm5JKxeML4ICPFX-iaNPXEx_WQ3hNRzgb7Y-17dKL-SbEo158O2E52ptrF1bFgftMl-wIieUjO90v6T9zYA8IH0LKeZzPZrbpHBGlcfD9hwvmWBClg_39J2GBoTM2pfgAnklSy6w87Sky4zovfbu3-WgmsDtI4X1EgEAl28viG4sgGuhRqyr6dVTHbJCuiN5JPfq5-NokCkI45qnbZTOQHiibH3EslXlXzX2bWwJ3tDbSODCx8rv6lL10_3EBRl-zUZZx48eHs1bKCHcrFijTrPEHIw8i1laZcQ",
+            "width": 1800
+          }
+        ],
+        "place_id": "ChIJm069OC71wokRlwo13Wmhmh4",
+        "plus_code": {
+          "compound_code": "R542+6P The Bronx, NY, USA",
+          "global_code": "87G8R542+6P"
+        },
+        "rating": 4.5,
+        "reference": "ChIJm069OC71wokRlwo13Wmhmh4",
+        "scope": "GOOGLE",
+        "types": [
+          "park",
+          "tourist_attraction",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1537,
+        "vicinity": "Soundview Avenue, The Bronx"
+      }
+    ],
+    "transit_station": [
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80933,
+            "lng": -73.8552395
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8106663302915,
+              "lng": -73.85388681970849
+            },
+            "southwest": {
+              "lat": 40.8079683697085,
+              "lng": -73.8565847802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Av/Gildersleeve Av",
+        "place_id": "ChIJsYfBvSX1wokRM--pHc207A4",
+        "plus_code": {
+          "compound_code": "R45V+PW New York, NY, USA",
+          "global_code": "87G8R45V+PW"
+        },
+        "reference": "ChIJsYfBvSX1wokRM--pHc207A4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81167,
+            "lng": -73.85582699999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8130185802915,
+              "lng": -73.8544816697085
+            },
+            "southwest": {
+              "lat": 40.81032061970851,
+              "lng": -73.85717963029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/Obrien Av",
+        "place_id": "ChIJUf7vbyb1wokR5FWulSvAC24",
+        "plus_code": {
+          "compound_code": "R46V+MM New York, NY, USA",
+          "global_code": "87G8R46V+MM"
+        },
+        "reference": "ChIJUf7vbyb1wokR5FWulSvAC24",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81355649999999,
+            "lng": -73.856293
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8148842802915,
+              "lng": -73.8549378697085
+            },
+            "southwest": {
+              "lat": 40.8121863197085,
+              "lng": -73.85763583029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/Patterson Av",
+        "place_id": "ChIJ2wpNqyf1wokRRiO6-EblFeA",
+        "plus_code": {
+          "compound_code": "R47V+CF New York, NY, USA",
+          "global_code": "87G8R47V+CF"
+        },
+        "reference": "ChIJ2wpNqyf1wokRRiO6-EblFeA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81354149999999,
+            "lng": -73.857918
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8148978802915,
+              "lng": -73.8565563197085
+            },
+            "southwest": {
+              "lat": 40.8121999197085,
+              "lng": -73.85925428029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Av/Patterson Av",
+        "place_id": "ChIJAXje4Cb1wokRFgpFsDUZstA",
+        "plus_code": {
+          "compound_code": "R47R+CR New York, NY, USA",
+          "global_code": "87G8R47R+CR"
+        },
+        "reference": "ChIJAXje4Cb1wokRFgpFsDUZstA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.809544,
+            "lng": -73.85548399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8109036302915,
+              "lng": -73.8540547697085
+            },
+            "southwest": {
+              "lat": 40.8082056697085,
+              "lng": -73.8567527302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Gildersleeve Av",
+        "photos": [
+          {
+            "height": 3060,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109920476630289061919\">JonPaul Niang</a>"
+            ],
+            "photo_reference": "AU_ZVEGRKpjo5VtfFmD1r-NCVkZNadYoh5KqjnVOcY7OrgawuR1BjZFs4stXbg02MiB1b1iRtkbUBGcCrnZT0XP86lAtZ6YJxaZMWF_r0yL2YteswfK_a0KpCrmy3TLP6gVe95Fs9j_iiMHLf5-P30n5vpdAx0nWtoNOwyAEYL8zrz0jHXv0UJzYRsWgIZMAEeO0QYDTMiSEfgqTozfMVG_6OH6xYZyt_uMXCCUh5D1gVlPZyN2fVuRxLE6bER6b5tJDXhkELMcdNJD4sWSnh3Es-o1JvCeJlolpsJ86NaiO84zEb_GyFqisXXaTIU67EDW5qTHOF3wuUIV12fZ2kU691M5SrVcYs8VbWK_utiLYx9B9C7pEtHdliEGtHqU9RiO9uOm59L1UYrY3sN6pNke1yMxHbX0wT5PWozQTtqoYv1k0O3OG7eBs2qOU1LH6zqFmWKBJAnz7yB7O24i6hUayf0dl4Rtka2UTJRttAwbwnSv1nSlpMNEkGL06VkUYrm-q89Ut9NgYsgl9K66X3Q_ORN8h7xyutOdVv-FaQ_h0neBjJPLPGS0RtoSe5tfA5zkkSdKL45eNCtOS2T0HMPOXukuLALncLLdeoXjyD1McSe6w6DmCvIxAfo3kv1NEB_a035L9Kg",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJZ2EdvCX1wokREowysiVQO5E",
+        "plus_code": {
+          "compound_code": "R45V+RR New York, NY, USA",
+          "global_code": "87G8R45V+RR"
+        },
+        "rating": 5,
+        "reference": "ChIJZ2EdvCX1wokREowysiVQO5E",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.809536,
+            "lng": -73.855301
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8108884302915,
+              "lng": -73.85392621970851
+            },
+            "southwest": {
+              "lat": 40.8081904697085,
+              "lng": -73.85662418029152
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Gildersleeve Ave",
+        "photos": [
+          {
+            "height": 3060,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109920476630289061919\">JonPaul Niang</a>"
+            ],
+            "photo_reference": "AU_ZVEEdgOANjddRunLOsqX-hpA4FwTg_5Cm25q4gPFslUEWvkiTaHIfyr2hbCJOBLKXO1Gr-itNwi_hcrTxCGhUmJiwFypvGGuzs6jk3q4aEwdljXzAipDWKY3R56qn-igztcJQYwabYqIu5f7Qp2AVrgCwR3tCRrOWGyL_Hm5kco4U1B1XhAlh0vXTLShKwD2BXvQde8gRg6H_fFKtUVmBich2jqyW0apxpS9GoJce2ajUhQsnUvZp3zs6E3njqBTEhTQe3wQ747zg3gcH8kXCWn_WMY8D1yMe_B5EmmJVnzXhFE4ZQjW2AmMPeVRVMQFKf0W8vx32FNU6b_FRSd9hfzTdhUAO0BU3W4mZnoB9McfJBssb57CGvJDbPzSfLrmm2XEOQObPbyj6ATh_5YxCKlU3i4pqy2smUE-zeH0Ghs47P80p1bhhh28oMQpdQoIMFVVziXtM6B3oJmpiZg-rEmg4S03PhmwwALJYsTuBQQqzCxq62yVdzqtk3132VvKCbB0R96OOU2tPM87YPEry9KCWzOMWB9cgh6ZNO5NyMrj_bWX4DnxUd8R2DQext765twLrjFUmZ42tR0WjPEh-yHofSHrdKztZlt7IQnrgNLxS-mlmaD4opJ76fLSEvJ4DECpJbJ3W",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJJahIliX1wokRmRpnr7cxGAc",
+        "plus_code": {
+          "compound_code": "R45V+RV New York, NY, USA",
+          "global_code": "87G8R45V+RV"
+        },
+        "rating": 3.5,
+        "reference": "ChIJJahIliX1wokRmRpnr7cxGAc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.808311,
+            "lng": -73.853737
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8096978802915,
+              "lng": -73.85235131970849
+            },
+            "southwest": {
+              "lat": 40.8069999197085,
+              "lng": -73.8550492802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Newman Av",
+        "photos": [
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108010742019935402848\">Hereef Muhammad</a>"
+            ],
+            "photo_reference": "AU_ZVEE8JeIERSMebgXRP6DxVJh0LmPsOp_VeNWvZdViyjTt__QIXE9ESMu8e_OKMZh6xnM0H0py3BXZiETTcArpwSajy4th8GBGCOH_FySj5M9Q2ckyQ0cXkUosYY-FpwrVAfUloeA6sHautlnpiCj9MD6_7cvOOHiFsTxNeimqwa4FaCloPgDAiRejKwqygp0D9SJsqTmE469HjP5lytjqAQ2EdlmCWCoAqqz3MGtdfPTvZyiJUZzGS-LhzNHjMXzXdibLVAlDLxaAMu2hJAPZDSFq8i9xY9Be-NwHUacvOUmUdwAc6csse5EVIplxFOlxEMVG8r_3THyPMS0J9Nz4R92igIKA13QYIcLqqWR2lZDXdNRoMfNvUP52QU1I2giyXPvzJeCQrUWJeRUUmdNy8Qzy3OM1WTWUdtj5xwwc3IcwA1Dcs_q1EeWeSBx1kSAUN3czomuq2MVqx61_GIzM8WPsKSxM-wq_k1fEl0N8KGBPLbzlUW7bCG8RiFIo8kgy4X9bmYs9WILoAynaPemLpdxxJA4WP5ElU5R5-tLo1KcD-SCvmyDuS1FMez7vxXUt3JG4-WkcHX9NvYmQvOKbp_R0-OizKgWd8W-utDbvDUTZkcRrsDAfmkPgYagdqA8yz9Zr-V7y",
+            "width": 3024
+          }
+        ],
+        "place_id": "ChIJi6cBgCX1wokR21gYSBZtfHQ",
+        "plus_code": {
+          "compound_code": "R45W+8G New York, NY, USA",
+          "global_code": "87G8R45W+8G"
+        },
+        "rating": 4,
+        "reference": "ChIJi6cBgCX1wokR21gYSBZtfHQ",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.807976,
+            "lng": -73.852745
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8093181302915,
+              "lng": -73.8514506697085
+            },
+            "southwest": {
+              "lat": 40.8066201697085,
+              "lng": -73.8541486302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Stephens Ave",
+        "place_id": "ChIJn3hnnC_1wokReoQZbABgj70",
+        "plus_code": {
+          "compound_code": "R45W+5W New York, NY, USA",
+          "global_code": "87G8R45W+5W"
+        },
+        "rating": 2.7,
+        "reference": "ChIJn3hnnC_1wokReoQZbABgj70",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.807545,
+            "lng": -73.852341
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8089218802915,
+              "lng": -73.85096556970849
+            },
+            "southwest": {
+              "lat": 40.8062239197085,
+              "lng": -73.85366353029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Cornell Ave",
+        "place_id": "ChIJy-dPmC_1wokR0ogph5rkMI8",
+        "plus_code": {
+          "compound_code": "R45X+23 New York, NY, USA",
+          "global_code": "87G8R45X+23"
+        },
+        "rating": 3.5,
+        "reference": "ChIJy-dPmC_1wokR0ogph5rkMI8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.811317,
+            "lng": -73.855942
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8127280802915,
+              "lng": -73.85460881970849
+            },
+            "southwest": {
+              "lat": 40.8100301197085,
+              "lng": -73.85730678029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/O'Brien Ave",
+        "place_id": "ChIJO1jxeSb1wokRrxYfOKtTAV8",
+        "plus_code": {
+          "compound_code": "R46V+GJ New York, NY, USA",
+          "global_code": "87G8R46V+GJ"
+        },
+        "reference": "ChIJO1jxeSb1wokRrxYfOKtTAV8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.811527,
+            "lng": -73.856331
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8128939802915,
+              "lng": -73.85493006970849
+            },
+            "southwest": {
+              "lat": 40.81019601970851,
+              "lng": -73.8576280302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/O'Brien Ave",
+        "place_id": "ChIJEWBpfCb1wokR2U2E_kUOyF4",
+        "plus_code": {
+          "compound_code": "R46V+JF New York, NY, USA",
+          "global_code": "87G8R46V+JF"
+        },
+        "reference": "ChIJEWBpfCb1wokR2U2E_kUOyF4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81163,
+            "lng": -73.855972
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8129931302915,
+              "lng": -73.85452976970849
+            },
+            "southwest": {
+              "lat": 40.8102951697085,
+              "lng": -73.8572277302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/O'Brien Ave",
+        "place_id": "ChIJ08Sceib1wokRD6cf-SuU_0Q",
+        "plus_code": {
+          "compound_code": "R46V+MJ New York, NY, USA",
+          "global_code": "87G8R46V+MJ"
+        },
+        "reference": "ChIJ08Sceib1wokRD6cf-SuU_0Q",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.811779,
+            "lng": -73.855766
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8131146802915,
+              "lng": -73.85444491970848
+            },
+            "southwest": {
+              "lat": 40.8104167197085,
+              "lng": -73.85714288029149
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/O'Brien Ave",
+        "place_id": "ChIJhY4Nbyb1wokRrW4w8lO-35U",
+        "plus_code": {
+          "compound_code": "R46V+PM New York, NY, USA",
+          "global_code": "87G8R46V+PM"
+        },
+        "reference": "ChIJhY4Nbyb1wokRrW4w8lO-35U",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.813103,
+            "lng": -73.856331
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81445613029149,
+              "lng": -73.8549565197085
+            },
+            "southwest": {
+              "lat": 40.81175816970849,
+              "lng": -73.8576544802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/Patterson Av",
+        "place_id": "ChIJJZuiVib1wokRWXZccpl4oXY",
+        "plus_code": {
+          "compound_code": "R47V+6F New York, NY, USA",
+          "global_code": "87G8R47V+6F"
+        },
+        "reference": "ChIJJZuiVib1wokRWXZccpl4oXY",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.81347299999999,
+            "lng": -73.857986
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81484118029149,
+              "lng": -73.85660391970849
+            },
+            "southwest": {
+              "lat": 40.8121432197085,
+              "lng": -73.8593018802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Patterson Av",
+        "place_id": "ChIJK2865yb1wokREvAbkx0Fdw8",
+        "plus_code": {
+          "compound_code": "R47R+9R New York, NY, USA",
+          "global_code": "87G8R47R+9R"
+        },
+        "reference": "ChIJK2865yb1wokREvAbkx0Fdw8",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.813595,
+            "lng": -73.857796
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8149198302915,
+              "lng": -73.85648686970849
+            },
+            "southwest": {
+              "lat": 40.8122218697085,
+              "lng": -73.8591848302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Patterson Av",
+        "photos": [
+          {
+            "height": 3050,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213\">Jay Kindell</a>"
+            ],
+            "photo_reference": "AU_ZVEHW2JwBfSRwyDSZS2MmEWMPLhwjwReHHo1pKbR-CFlHPkFJQjsvI2FWrcCkRbGKRrnzqg0jj1ASr2FZkvAEMb1YUsxQ7rBScm0zlbxkVQvzTIouMisp1TkiILBvxDr4LvscYmB5qStXEXEOYDrVGRh-UYS7sP3BidMzGEmOteOk9jDMfctRzCmpGaHw0nZ-YQR_HeJzFC73tG9BWdETlbb3xStOg9Be1FlowyTF3UiiVm7OobUF_v-tgjjxCZgLXFNiruUd8vdj42nGndS2WwSGA7hghE8jeXRRTPGTAIP1c6zpeUQo5eREu9QuX4lsbu2HDsXARb6Fl661dO97h8xtfJ40X34_iUxIwb2JeAlj0eGoUEEmGG4vhG-i3zK9Vl9yXSHv2aaBQVlCB6d0_t0Fimd4jpreOaEHaKEKFF4AXues7d4jDjvezKpSO7rciOSgDrM4CB3hRJR_doVCDq59koVQH6radAQZTrKu7nqBF8xbbzI99yVOlBIAmw_njX6jqrzXemMBjg_EB4JGWB8VkXBSZq8_Jn3kjTPqNDXiXqdzrAmjJYkkCcV7-q-yaRH27vdLXaWDg18DpHllRtQYXLL16TjQjuy8YReDolWYOFk96MtA3lRZAro5SbD8R-rLf_0g",
+            "width": 3210
+          }
+        ],
+        "place_id": "ChIJfU6s4Sb1wokRBWh3VrqzP2o",
+        "plus_code": {
+          "compound_code": "R47R+CV New York, NY, USA",
+          "global_code": "87G8R47R+CV"
+        },
+        "reference": "ChIJfU6s4Sb1wokRBWh3VrqzP2o",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.813999,
+            "lng": -73.85627
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8153426302915,
+              "lng": -73.85496046970849
+            },
+            "southwest": {
+              "lat": 40.8126446697085,
+              "lng": -73.85765843029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/Patterson Av",
+        "place_id": "ChIJu1FMqSf1wokRzh2LWdRFGXw",
+        "plus_code": {
+          "compound_code": "R47V+HF New York, NY, USA",
+          "global_code": "87G8R47V+HF"
+        },
+        "rating": 1,
+        "reference": "ChIJu1FMqSf1wokRzh2LWdRFGXw",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80574,
+            "lng": -73.848801
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8070877802915,
+              "lng": -73.8474563197085
+            },
+            "southwest": {
+              "lat": 40.8043898197085,
+              "lng": -73.8501542802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Soundview Ferry",
+        "photos": [
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113344452122749341831\">Mehedi Hasan, Traveler</a>"
+            ],
+            "photo_reference": "AU_ZVEGiKbtd9OcJ2pRI25JViGOybAhGHiL5QKJ_oiyNTSVWD6jCiFfIqEVIO9xuuPsHX86gNWwDA_MYmPRo-aw5KDuzzQqaa4mp3HgdTf69YDrHiw8iSF3LzPpkJxBas8PzNNjx3iz91cBaGBCY4q8Mk9ovrOa-F0_cA-euFTG_y_STKYIAi0I634CWfhdZ0x9m13EmICj0kCFlqbwutYnbB-yvAMLFXSR3Oxjf9LLszzCRAar23wNZ2ANdL1D-DzV09GMzD28BQydrE5krJZZXyOphiLlnu0khwNHUehFAHWpZrnYS7sQ1glKJpXDrvioQwYWABLGUHpprHEsI7XYI42VPML1bQ3cQiDt4EGSCcA4K3zDBwBB_Kktchih9NK_131r6D6DqI-jYS6-pfLJI60cgodmTf6sYZhLgJGEb6biFWT3RoomSXhsOGOIVnYfuelouH6i5ePptOG_3g5LCRhMGtsC09Wp0sOUbCZTnK32uw0gc_VgdoeVZDFQluQHfHcjV9CE_xiOiqi1G2fHAVsiuyNQtD0G_iLChFSKl1QCh2vqm8kVeNiXrVUCkesIAkXIXqei2s8fOsIkszvd0p8fNwJKshV7jfD2xagex0f5xESEP3n4tfUXSAHEqfrM_Ol22ZA",
+            "width": 2250
+          }
+        ],
+        "place_id": "ChIJLQu9EC71wokRGNA4xLsL0m4",
+        "plus_code": {
+          "compound_code": "R542+7F New York, NY, USA",
+          "global_code": "87G8R542+7F"
+        },
+        "rating": 4.4,
+        "reference": "ChIJLQu9EC71wokRGNA4xLsL0m4",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.80571,
+            "lng": -73.848801
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80706633029151,
+              "lng": -73.8474692197085
+            },
+            "southwest": {
+              "lat": 40.80436836970851,
+              "lng": -73.8501671802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Soundview Ferry",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117980461759449680456\">Ishtiaque Khan</a>"
+            ],
+            "photo_reference": "AU_ZVEGptSU8TEu3SDPhH3DSgjpAnwvwiomB9vFLaue3etG34pR7mHq8284fcZGbCrsuRtoCUG5xNR74hCbwWwsWnMhiSrK5q-80xeuxX7gXQXCEM4nrW-osVKWzFMpARMFVP1wqaNZvsA8AeH9rX0v72EF_LFVh_p0kKpWNIqpz-9hglYL4lrzlUv6OZvcLdveI-O3s5UjE3nrEal2xSrKuyselkIvQY7h7W2PtxYkBHLi8cHssgZw7eeWfiW9hUZPBm3G3zh7jW1DtyNrD0PAt2V8RobMniQC19syVAiRw-FMAIlAdv4cw8AryJFBMR6TZxmFSI18FuUNcvMJtm4_9clessaHDm5VOaBmp8xAcsswRS612YYQ0rWnRZFEiiK-wRY266EBIdE0rQucqM9T60Sd7FZD0-MiwqPD0zw2iHFjnhSyuDjphbTlGXWu62xOgGcyjeEnXWWtEljzO55IEeG_v2WXcWY7rpSi6sb_AiZRU2tbux9mKnlxZ5Xf8f1JfzP9cHrZcpWHimuCKWmww2vF6wWtjo_koyqtzEC2z57wi2qaYmHMaMqtmalrPVK5nEoX-fD7AYcTqhd1BqT9HNBhodqg7Jdou63aRGeKGtZ-kNU0QuKK-Mq-VXzfXXVCnG2noODVq",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJ0WUIGi71wokRmCdPlHTb5Qk",
+        "plus_code": {
+          "compound_code": "R542+7F New York, NY, USA",
+          "global_code": "87G8R542+7F"
+        },
+        "rating": 3,
+        "reference": "ChIJ0WUIGi71wokRmCdPlHTb5Qk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8041862,
+            "lng": -73.8486982
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.80607003029149,
+              "lng": -73.8474913697085
+            },
+            "southwest": {
+              "lat": 40.80337206970849,
+              "lng": -73.8501893302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107747855819836970502\">Stacey O&#39;Neil</a>"
+            ],
+            "photo_reference": "AU_ZVEFVfMt3TGACeXuVZiKqtIGqAdt4g0lJimIcqYVow9kzk6dWtvlVnjju_jARUfSUupOZtAov_AFWrPTXFoMo8QnREyO9SOe_KG_DB97bBqMarkULM35fIylWVaAKSdGt--qc14QxmvXcO3Ytr-O1AsQGu9iBRRXsQG_gXa6rewag_JcXfwtJitShsVVswP7g5x-iSUcxYVgf5FuQB47mWTETMgIevo6b52QucYudQi5uk8Fq2D91acBHAxu1GXGEEd-lzjtORZ9JVIBFaMLDAsjsrSSdazhb0V-hUhzm4m70kpqjXPWjA6LKpu9vYTeMTdoCgEH25tVBINn8OPgA0KNB6C3NkxvJbrobNTxWJWnIghsuxyubUr6jO2bsMA7aatfRu7hGelpfZrMTqvQlstWqvXsgoSOwPydGCQNyE_VF1U6TfXuHIoMTxjRe4vW4a0sMpYe4fFNiqMY1MhhbWVBYbVqRPxbvOIUuy4xs4ixlsIPcmjjbIgSyMJVqvgkHPq8mVWz4oXz3qoVE4n24EloPlYqv1v9PMz79xaiUlP36E5OLBV5w53U8A7knqbXrZeY5LuYOuJE6_tuLP62voAd6WPptFI3EGkxHX_lc3tAqtnEA7k-LHzPiy6AoT-nBh9oAdMx-",
+            "width": 4032
+          }
+        ],
+        "place_id": "ChIJ0cTx6zH1wokRlTluB0YTisA",
+        "plus_code": {
+          "compound_code": "R532+MG New York, NY, USA",
+          "global_code": "87G8R532+MG"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ0cTx6zH1wokRlTluB0YTisA",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 450,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.815327,
+            "lng": -73.856827
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81667703029149,
+              "lng": -73.8554701197085
+            },
+            "southwest": {
+              "lat": 40.8139790697085,
+              "lng": -73.8581680802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/Lacombe Av",
+        "photos": [
+          {
+            "height": 4624,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118446328631689981751\">Gigi Perez</a>"
+            ],
+            "photo_reference": "AU_ZVEEsuQBI9AF7BhhdzvAP-d6XaGxjGOLkyzeyc_knwtg8NIA88h9jWqk7laiz5SJO5-Cdk7wK8Qsn9jQ5YmYc1pQZiHdpT2MxbTlHhmt7PknJf-sG2J5CUF9Hsk7m-uOO5QlLmM_B_5FOWKSBaQELPZc_q0gSZEnEA7tM3h6mVej2fDvDV2JeoDrP5pA9RjxNtWv5wBNjgHChSHQuVDx52_-3S3iy_RZUqpfZqsD_Fwsj0Z2dBFBcYotkj2aRFH_QEsimODBSfdbk63fqlbdJNNaxl_7uH-vmuHTog_ZhNipV8sN_awVlpvmFRvCL5jSvtwX5W3TM2-gL3DYH53Yxf49iuqcew657_HgoI_EXqCB_Tw5Jj9AbgdXFKSA3FJ4Kle3Fkfl3bvT3VOYsBf8eAWr-UGQPy8TrZ1eF2ISYHp6JFX75C800I4Pnv1il_3Z1aP9GefL1akkJXbRfsJ0JMI2tbpHysuLpDr3xZkHdag-Tx9csPnn4yp5RpAlpOQclAJc4H3NzC1Yg94cbnOLT3N6S41BqfIL6Yf4r9_-fFeBsFRMp6rON026vG6QLSA2WcGsdfI7KqQLHLTBnvoArbQe0oRxr3Ep7MAZfd3gYj3Sf2jF3pYIaVO2Grj95yYfXl76av_kK",
+            "width": 3472
+          }
+        ],
+        "place_id": "ChIJDfgCdyf1wokRyws85E97dQg",
+        "plus_code": {
+          "compound_code": "R48V+47 New York, NY, USA",
+          "global_code": "87G8R48V+47"
+        },
+        "rating": 5,
+        "reference": "ChIJDfgCdyf1wokRyws85E97dQg",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.815491,
+            "lng": -73.856674
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81684148029149,
+              "lng": -73.8553145697085
+            },
+            "southwest": {
+              "lat": 40.81414351970849,
+              "lng": -73.8580125302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "White Plains Rd/Lacombe Ave",
+        "place_id": "ChIJV6YQeCf1wokRlVs_kR74NHc",
+        "plus_code": {
+          "compound_code": "R48V+58 New York, NY, USA",
+          "global_code": "87G8R48V+58"
+        },
+        "rating": 4,
+        "reference": "ChIJV6YQeCf1wokRlVs_kR74NHc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.8151205,
+            "lng": -73.8595655
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8164725802915,
+              "lng": -73.8582115697085
+            },
+            "southwest": {
+              "lat": 40.8137746197085,
+              "lng": -73.86090953029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Av/Lacombe Av",
+        "place_id": "ChIJIbnTyiD1wokRXiUkVP55xoU",
+        "plus_code": {
+          "compound_code": "R48R+25 New York, NY, USA",
+          "global_code": "87G8R48R+25"
+        },
+        "reference": "ChIJIbnTyiD1wokRXiUkVP55xoU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.815086,
+            "lng": -73.859688
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81643913029151,
+              "lng": -73.8582957197085
+            },
+            "southwest": {
+              "lat": 40.81374116970851,
+              "lng": -73.8609936802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Lacombe Av",
+        "place_id": "ChIJo2gXyyD1wokR77sQ_0SdQ-s",
+        "plus_code": {
+          "compound_code": "R48R+24 New York, NY, USA",
+          "global_code": "87G8R48R+24"
+        },
+        "rating": 5,
+        "reference": "ChIJo2gXyyD1wokR77sQ_0SdQ-s",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.815174,
+            "lng": -73.85947399999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.81650733029149,
+              "lng": -73.85815156970848
+            },
+            "southwest": {
+              "lat": 40.81380936970849,
+              "lng": -73.8608495302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Soundview Ave/Lacombe Av",
+        "photos": [
+          {
+            "height": 3058,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213\">Jay Kindell</a>"
+            ],
+            "photo_reference": "AU_ZVEHtnQHRUWUDCCjt_KFqopH2C-DI7DQEf3XHAqRCP6x_Avw5Q7pwxs-p-zVSgeMtwzB2_YyAJj5Ns09RsKxI0zFkckCxTwLPfLI80_BhiMFu0rSOKhYQbvefjrVyyDKzkK-eCcun3VkA5YLQO4iAOYqpILLrXIv8spTkc0YEqNAeJ0o1EbmxFQt4SwQMXZmzRc2IBeGM-d1xmPr8CMg1rmKHopN4bqNvPREQgo481EfS8YKCf33rxcL9kXotarm7YC64w2dsObVbGjmURryhGcN_x15dll79pI9hdGCVbtaKMXJv1-bk-PHkzhGUBrb-5XzBs_te63FENnRITn_6PkBx5g2wDfmkRyzmpi8NpSfvxfFFFV5ufPpAKVBNRkydo9uc4fISfaPp6jxRsvn3GmUiRKmMcyzJ2Si8tdUkV0g-MTxuZtqUQE1201m2yxQm1I1g8RfS_oPjVHJheapJPbygJenidnByNDZPijn02awJsC03iZyVleXNpRaJCHUzCiFkOHyh6BTZe4kczJ3fI84kJqiDvwbylcx0-1TH3bhLLI_sB6ZS-ilNrd3ldUyVOs0FHdgW9UAp6-BibeCc3aAjdtWSy__W3QLXwjAywuQdZKJgt1BHcBaLEOsgD_ni",
+            "width": 4068
+          }
+        ],
+        "place_id": "ChIJi2pBNSf1wokRCIVsNHkJfxU",
+        "plus_code": {
+          "compound_code": "R48R+36 New York, NY, USA",
+          "global_code": "87G8R48R+36"
+        },
+        "rating": 3.5,
+        "reference": "ChIJi2pBNSf1wokRCIVsNHkJfxU",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.812847,
+            "lng": -73.84614599999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8141990302915,
+              "lng": -73.8448092197085
+            },
+            "southwest": {
+              "lat": 40.81150106970851,
+              "lng": -73.8475071802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Zerega Ave/Castle Hill Ave",
+        "photos": [
+          {
+            "height": 3060,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109920476630289061919\">JonPaul Niang</a>"
+            ],
+            "photo_reference": "AU_ZVEEiac26FYBKihSvbHT9CwxVMqU4reDPdS9gmACftm6GUcf5yrRnNSsOGd9-eUitXn04kMmEn8B_54kqSL0an85mQF0j_pGFrdM-hmO1hZ3sOCVB817ylpPLguhDphMr8CYEyHVCrHte90Iwz2hKTXJVNtr3telj9rx5Ks5t8VWRXXRUoZ3o-5cbZzLGYN-47G7YUpvJOnNFzWjPqg91_2j8u_18OzqsGU80nv49gKBiFoN6K1uYig584VoOk-Q4vIaNYm5OwWjlQ4ETA82Bt6jrUUMZ-8NdtP8-YKiexHfTA-Oi_bwDfIo3CNdEP3Ox86tTgSCWEykKfkMWYHjvUlevhlnuq_7ZO7gXEHlQWjpTG6lg6VV18mzhNYqEydWJUP5fgElXRhNJkCvAkocZmlrIdYfRLF6Cg9HavYnZDBwaM2XTAhglAOfYD_3dl6uSut6NzG7zkYGYju7BZk99vT3FtW42tsuxGKLetB9JQw8PdAhNM8w-JvXh0eFRWQj9kBd7VO7q9snnGEBxq89v5_Tf4Nj6nuzhfvuKxrYNs-a5SvPHQm2HMWj6Kp8PTtPYCbWdogHtXNdJiJG2Mdmx2MTeVbqwFV6we5N9Rjiipen5gDzgGvD5WQETqvQcfzXK5Zs8X8qk",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJlYOrRyr1wokRJmSJVQRWtUI",
+        "plus_code": {
+          "compound_code": "R573+4G New York, NY, USA",
+          "global_code": "87G8R573+4G"
+        },
+        "rating": 5,
+        "reference": "ChIJlYOrRyr1wokRJmSJVQRWtUI",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.814388,
+            "lng": -73.84706899999999
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8157417802915,
+              "lng": -73.8456844697085
+            },
+            "southwest": {
+              "lat": 40.8130438197085,
+              "lng": -73.84838243029151
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Castle Hill Ave/Norton Av",
+        "place_id": "ChIJ2Z8kBir1wokR32iAEBM0ZSk",
+        "plus_code": {
+          "compound_code": "R573+Q5 New York, NY, USA",
+          "global_code": "87G8R573+Q5"
+        },
+        "reference": "ChIJ2Z8kBir1wokR32iAEBM0ZSk",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      },
+      {
+        "business_status": "OPERATIONAL",
+        "geometry": {
+          "location": {
+            "lat": 40.814606,
+            "lng": -73.847004
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 40.8159555802915,
+              "lng": -73.8456507697085
+            },
+            "southwest": {
+              "lat": 40.8132576197085,
+              "lng": -73.8483487302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Castle Hill Av/Norton Av",
+        "photos": [
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107959408862058383607\">Rahat Alam</a>"
+            ],
+            "photo_reference": "AU_ZVEHBOSabvqOdlsfaFHQo4IDsgvHBogJA5tG1tMH7lJ3cFj3fdD5maeFWN3WGr-FnWQrOxZ9A69_evLKtrc8ScrP0gEbjAI8gmVrfrBKhNnhQhmV9M3FTAsIHKVTDmhZ_QwHvumB9-rysdYAnIsWz5l553qitv5Sh0jo-BTYTXtr4iQkoWeT4rG7Co4k93tRcdTE9SltI-wpbIqUxzkIWZAosSPPH-AM7vO4CGtPL9Ib647TtggBZqdiVJQtcydJ9RolI-mWypyJEsTd3O3qEsRXH-BiGvo2YoJ9VTJu-wkhofj0ZbWW61rJb9W_nPykSXXNocN04TAIE3_-1FQcW15cZrv_PmbYqMfzUCGFSagsWOVfXoNSd6tl4xMKGHTNs30pzDt9UEHOkOxc5GWKvPXpBmKJ9VqvBpSetj10TgW7IyBvxy_dJllAaaH7xr9nHkRH_xh25i2SMwtznndhxhD3Xg2dZDwtmxf3ou0MbkXdAvLqB77l4eeCJP3if8Peli6V7QejflL9dfbPbpD1laY-m9PHXNbsY-u_FIAYMuHX4uGs9qKvlrK4zykZr3kYJCpipkCwtR0d3J9LAEkUNGCSACHwSzzY3TClFdSl3-JE8k9CcJCAfXdK-ZIVtAChmdHEhDg",
+            "width": 4080
+          }
+        ],
+        "place_id": "ChIJ3VJtCCr1wokRmg_4CoIewzc",
+        "plus_code": {
+          "compound_code": "R573+R5 New York, NY, USA",
+          "global_code": "87G8R573+R5"
+        },
+        "reference": "ChIJ3VJtCCr1wokRmg_4CoIewzc",
+        "scope": "GOOGLE",
+        "types": [
+          "transit_station",
+          "point_of_interest",
+          "establishment"
+        ],
+        "vicinity": "United States"
+      }
+    ]
+  },
+  "results_deduped": [
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8135397,
+          "lng": -73.8555878
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8149435802915,
+            "lng": -73.8542714197085
+          },
+          "southwest": {
+            "lat": 40.8122456197085,
+            "lng": -73.8569693802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 347-810-9018",
+      "name": "Lechonera El Sazon Criollo",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/116634776690844968707\">angel perez</a>"
+          ],
+          "photo_reference": "AU_ZVEHB6g5OS-teuifS4X1CrwN6iU97KHg-ee_ojMvd6pczPQ6rGLmcMzEqbtO-hwKJ549gbpw8rjiWomEGUCXZhm8QMGxt94MoymPt8OichhW5aVCPJR5y7a2ZVsRPKl6XWEJRvuNVDLo3c-9ht2crkyDjHlswn3klOxKldAfDCl-EKkhuoz6xpINezAgP7rzawbc_Z7Zk3r8XqoXWr1A31ZGq1EI3oG0_LxSI-PUS4qxDmtBdHj4mUVHNT4PMzjFlxxATQ7Oj9AuGhJoGw_whMCkPE60XKaWfJuAm6wrlJChw77Or9elI1ao_pV9Pb1W1sIlpK3NzxOKHc_Jm99WaF_GLC1n71w1v0stADYbD83l1rBCVt9wsGRLP82aY-LZEDwwP9CZJHi8sOM-MLv1E6VSjGjWAnSIjdpTPyQP1tQsO7TVFl3mnS4E160ZWxP4Ypnt-H5oavH6CcGeNqfdcxc0mczXWMI_bENjo1VKT6enly6y4FveOEVh5buWRyN2lkh2AWaLUG_4UXpKVihFiformDIfvqLkO6diE14-9ECpmUgDDEb2A1XCdJ5rKKOymXVFchCOZrCaE_0vfTs8t8LC00Exw_k6cEquCBBvPy4SE9U-eaWE8uwFgK5-ejqiawcFIDw",
+          "width": 1816
+        }
+      ],
+      "place_id": "ChIJo1yVXNH0wokRpvJbM8K64F4",
+      "plus_code": {
+        "compound_code": "R47V+CQ The Bronx, NY, USA",
+        "global_code": "87G8R47V+CQ"
+      },
+      "rating": 4.2,
+      "reference": "ChIJo1yVXNH0wokRpvJbM8K64F4",
+      "scope": "GOOGLE",
+      "types": [
+        "meal_delivery",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 301,
+      "vicinity": "1930 Patterson Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8111645,
+          "lng": -73.8553621
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8124860302915,
+            "lng": -73.8541567697085
+          },
+          "southwest": {
+            "lat": 40.8097880697085,
+            "lng": -73.8568547302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-618-7440",
+      "name": "Maravillas Bar & Grill",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101992354388838242140\">Maravillas Bar &amp; Grill</a>"
+          ],
+          "photo_reference": "AU_ZVEHetscglmcWXj9kF-FxBTCItNlEVVMRTSMu3lxbJKnrXrNdjQWcWSffPXyvnd99izOM9iyi8VjSxPcBCh0sX4Aufs0omAucOZK1q271m9P5SyIBNeHbMg5f--qD1NzkhgNqaDzQ-YD3VeXiWTKrLjmn-xRvBxFrMILHFnVvG4CGjfypjYZ3FNU00PZaHP_4gjL9XYohovI6uyPRTY3RFSNgSNS-2Zh_ApRagm5g6iiuLCa13pEumhEfcREs2oizaum9-moIJ-dikqMDGcQCD8tCAZ5tJPa8HMXNy0dSJDRKFfLzNLyJlz8ZPlbESWik5VQnVNdM8D0",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJo3Ka3yX1wokRS4aOV3PdvR8",
+      "plus_code": {
+        "compound_code": "R46V+FV The Bronx, NY, USA",
+        "global_code": "87G8R46V+FV"
+      },
+      "price_level": 2,
+      "rating": 4.3,
+      "reference": "ChIJo3Ka3yX1wokRS4aOV3PdvR8",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "user_ratings_total": 397,
+      "vicinity": "264 Soundview Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8154841,
+          "lng": -73.8569461
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8169086802915,
+            "lng": -73.8556456197085
+          },
+          "southwest": {
+            "lat": 40.8142107197085,
+            "lng": -73.85834358029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+      "international_phone_number": "+1 718-328-4220",
+      "name": "La Isla Food Corporation",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1445,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115669779561965803211\">Kin Tsui</a>"
+          ],
+          "photo_reference": "AU_ZVEFCtI2nZ8dikv13_e-f_0cuybcR_u_mMg2BnNHHKa4cn1M6uU34MSPaQrTKD3RJlfBz0Ncr-GrG9267XormUho2xQO8-V4tVwLQpeCxZCqeBZd0gd3GbAy21iVuibTzvITlKKxg7tWGXgEclChXQxe1v2qcc40rNx-SEPf1X95lN2Ylz-D7AO_cNnn3kKr-uaHeEcbdibDTP5HoXa_xNM6-ZnzInM5UyRe1Tbmh8xY2P-F38dEYk59ToTbofbv8Y7zo2rgXoRBJQhKJTGQUvdtGgQ-leMmFXTzsA0vbfu5ME0LDGaYKLpTyX5ai1FbRLnPlU0w2qG8PRRuj_eDYLFRz87Z8wH5H0cGxaY6Hs-IwnlkRhyX_MR3K_Nw1wC4-3U0g0vkc2xEB64k_BhDSEknP68q-Gzas7Vqfg6za9EnuJkw-gWoQxR1WpHX_6lSLoVaNB7PLIHxEan2N5OBv8UTDdMmZkkBiutscQzysqpwpGnUKWaWJQfoHSm0YpLKbyw2_aEKeAZr8LPD1J3b3-sFgiEdoc4TmefFqEu9QmfqKP0dXLI5kbh_gj9DNAuYpTFK04bT2BIOKguqSzr8zFSg4NSkIPLbrpzpsYChcAJRTXvWspjlmBva1OnOrPeVN",
+          "width": 2553
+        }
+      ],
+      "place_id": "ChIJrdk1dyf1wokRsayiWlttrLA",
+      "plus_code": {
+        "compound_code": "R48V+56 The Bronx, NY, USA",
+        "global_code": "87G8R48V+56"
+      },
+      "rating": 4.1,
+      "reference": "ChIJrdk1dyf1wokRsayiWlttrLA",
+      "scope": "GOOGLE",
+      "types": [
+        "restaurant",
+        "grocery_or_supermarket",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "user_ratings_total": 23,
+      "vicinity": "1918 Lacombe Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81118,
+          "lng": -73.85542
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8124959302915,
+            "lng": -73.85420016970849
+          },
+          "southwest": {
+            "lat": 40.8097979697085,
+            "lng": -73.85689813029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+      "icon_background_color": "#FF9E67",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+      "international_phone_number": "+1 347-270-2422",
+      "name": "Mi Casita Lounge",
+      "opening_hours": {
+        "open_now": false
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113602064153632961677\">kecia dorsey-rosa</a>"
+          ],
+          "photo_reference": "AU_ZVEHiVj2TALf0SQK-h9dwx-MELRJ-bRu5A3D9k2KNsJb163qTGoStdBXUe5NlmVmxGwUZeGNDSrl_q5II2avuvMQUtgAu7uu7d8LHLiNPZZV5pqB2TemkphGGVla456Ru6mgZK0Rgj4CatzBueLsVx5rDVT7NET0I2XF-42m19mL191od5mc28QWBw1iF---JKJi3QMUbRK1AshMuSbk5pGHiQyp2a7Ei-1mDU9MbR5T-yhz3Fmho0n3SuJQNhSTRyvaRqWais0JPPEmIEqSsj5d2K4vke_P9X3wooRlPUuVGHngC8gBN8fP5PklPUwNuXN_rR8cn8iUuTdtpPHMcU7dRP-N0A5wDSYf5y8UHKlhtxUIPhMq9nkqBjd3PmLAHqJnRAmx3cOvIjrPZlYVPajIN0ZYocwJM1aGojeOYDuk0IL8GgF3n-ATSOnaGVGewL5pTCW43YLODp5iV0cypJkrQSisfme7WJBYO0dQVdJt6erIwx_lzHyR316_qCWPObjFz_EVrbtLdYIQOHZd4fJdKRKlB25xwu22Wh9b_diVDq5bWUPN3IbPAqIEoW68BNOkpG7bfbFwW1wT9wlI2BTXf-QLMDQDCeu3SBX3siPw87g55as1eZhWgIGVVPFOHf27imv82",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJW70_dCb1wokRu0IQ7-pa95s",
+      "plus_code": {
+        "compound_code": "R46V+FR The Bronx, NY, USA",
+        "global_code": "87G8R46V+FR"
+      },
+      "price_level": 2,
+      "rating": 4.1,
+      "reference": "ChIJW70_dCb1wokRu0IQ7-pa95s",
+      "scope": "GOOGLE",
+      "types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 206,
+      "vicinity": "264 Soundview Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81321810000001,
+          "lng": -73.8547851
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81460223029149,
+            "lng": -73.8534176197085
+          },
+          "southwest": {
+            "lat": 40.81190426970849,
+            "lng": -73.8561155802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 917-312-0314",
+      "name": "Hamilton's Hideaway",
+      "place_id": "ChIJ6RWuNCb1wokRSNYyCIwFvJ0",
+      "plus_code": {
+        "compound_code": "R47W+73 The Bronx, NY, USA",
+        "global_code": "87G8R47W+73"
+      },
+      "rating": 5,
+      "reference": "ChIJ6RWuNCb1wokRSNYyCIwFvJ0",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "between Obrien and, Stephens Ave, Compton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8091697,
+          "lng": -73.8545913
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8104358302915,
+            "lng": -73.85332261970849
+          },
+          "southwest": {
+            "lat": 40.8077378697085,
+            "lng": -73.8560205802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Spacious 3BR Detach house w/Parking in Quiet area - Three-Bedroom House",
+      "place_id": "ChIJg2kHkSX1wokRGaOowzYaFjE",
+      "plus_code": {
+        "compound_code": "R45W+M5 New York, NY, USA",
+        "global_code": "87G8R45W+M5"
+      },
+      "reference": "ChIJg2kHkSX1wokRGaOowzYaFjE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8079071,
+          "lng": -73.8522416
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8091634302915,
+            "lng": -73.8508673697085
+          },
+          "southwest": {
+            "lat": 40.8064654697085,
+            "lng": -73.8535653302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Oasis Stay NY, 2BR Cozy Home in a 2Family House, 18min from the City",
+      "place_id": "ChIJ79CEny_1wokRGmdxL52eVAc",
+      "plus_code": {
+        "compound_code": "R45X+54 New York, NY, USA",
+        "global_code": "87G8R45X+54"
+      },
+      "reference": "ChIJ79CEny_1wokRGmdxL52eVAc",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8079109,
+          "lng": -73.8522263
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8092739302915,
+            "lng": -73.85075491970849
+          },
+          "southwest": {
+            "lat": 40.8065759697085,
+            "lng": -73.8534528802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Oasis Stay NY, 2BR Cozy Home in a 2Family House, 18min from the City - Two-Bedroom Apartment",
+      "place_id": "ChIJRcCFny_1wokRjivkhUJNww4",
+      "plus_code": {
+        "compound_code": "R45X+54 New York, NY, USA",
+        "global_code": "87G8R45X+54"
+      },
+      "reference": "ChIJRcCFny_1wokRjivkhUJNww4",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8113975,
+          "lng": -73.8542404
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81287528029149,
+            "lng": -73.8529224697085
+          },
+          "southwest": {
+            "lat": 40.8101773197085,
+            "lng": -73.85562043029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Cozy room with attached bathroom",
+      "place_id": "ChIJ1WUrBSb1wokRiBgwQ23UqQQ",
+      "reference": "ChIJ1WUrBSb1wokRiBgwQ23UqQQ",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8056793,
+          "lng": -73.8534088
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8070714802915,
+            "lng": -73.85201526970849
+          },
+          "southwest": {
+            "lat": 40.8043735197085,
+            "lng": -73.85471323029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Stunning Peloton Condo 18 mins from Manhattan",
+      "place_id": "ChIJFcPDATD1wokRVWZWOd_0b-E",
+      "plus_code": {
+        "compound_code": "R44W+7J New York, NY, USA",
+        "global_code": "87G8R44W+7J"
+      },
+      "reference": "ChIJFcPDATD1wokRVWZWOd_0b-E",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8117685,
+          "lng": -73.8571255
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131460802915,
+            "lng": -73.8556741197085
+          },
+          "southwest": {
+            "lat": 40.8104481197085,
+            "lng": -73.85837208029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "international_phone_number": "+1 917-244-9483",
+      "name": "BautistaVendingServices",
+      "place_id": "ChIJobmyY171wokR8LFCRnBn47o",
+      "plus_code": {
+        "compound_code": "R46V+P4 The Bronx, NY, USA",
+        "global_code": "87G8R46V+P4"
+      },
+      "reference": "ChIJobmyY171wokR8LFCRnBn47o",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "313 Bolton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8121414,
+          "lng": -73.855629
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8134726802915,
+            "lng": -73.85441551970848
+          },
+          "southwest": {
+            "lat": 40.8107747197085,
+            "lng": -73.8571134802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "1-bedroom in the Bronx next to nearby parks and ferry.",
+      "place_id": "ChIJHZ24aSb1wokRPk-Unb-usOE",
+      "plus_code": {
+        "compound_code": "R46V+VP New York, NY, USA",
+        "global_code": "87G8R46V+VP"
+      },
+      "reference": "ChIJHZ24aSb1wokRPk-Unb-usOE",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8121491,
+          "lng": -73.8556366
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8134807302915,
+            "lng": -73.85442026970848
+          },
+          "southwest": {
+            "lat": 40.8107827697085,
+            "lng": -73.8571182302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "1-bedroom in the Bronx next to nearby parks and ferry.",
+      "place_id": "ChIJ1WUrBSb1wokRma58ngMtLEY",
+      "plus_code": {
+        "compound_code": "R46V+VP New York, NY, USA",
+        "global_code": "87G8R46V+VP"
+      },
+      "reference": "ChIJ1WUrBSb1wokRma58ngMtLEY",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8108292,
+          "lng": -73.85952
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8122856302915,
+            "lng": -73.85775346970851
+          },
+          "southwest": {
+            "lat": 40.8095876697085,
+            "lng": -73.86045143029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Serene 1-bedroom in a 3bd 2ba house with WiFi in The Bronx",
+      "place_id": "ChIJfUmHayb1wokRKNZnq0MnU0M",
+      "plus_code": {
+        "compound_code": "R46R+85 New York, NY, USA",
+        "global_code": "87G8R46R+85"
+      },
+      "reference": "ChIJfUmHayb1wokRKNZnq0MnU0M",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8072967,
+          "lng": -73.850647
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8086556302915,
+            "lng": -73.84890391970849
+          },
+          "southwest": {
+            "lat": 40.8059576697085,
+            "lng": -73.8516018802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Luxurious 3 bedroom water front property",
+      "place_id": "ChIJp_3CUi71wokR8KPVY4mRELk",
+      "reference": "ChIJp_3CUi71wokR8KPVY4mRELk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8126488,
+          "lng": -73.8541336
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8140097302915,
+            "lng": -73.8526906697085
+          },
+          "southwest": {
+            "lat": 40.8113117697085,
+            "lng": -73.8553886302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hamilton's Hideaway",
+      "place_id": "ChIJzwxnLyb1wokRFqTOiTaUbSU",
+      "plus_code": {
+        "compound_code": "R47W+38 New York, NY, USA",
+        "global_code": "87G8R47W+38"
+      },
+      "reference": "ChIJzwxnLyb1wokRFqTOiTaUbSU",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8097305,
+          "lng": -73.8499603
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8112384302915,
+            "lng": -73.8487335197085
+          },
+          "southwest": {
+            "lat": 40.8085404697085,
+            "lng": -73.85143148029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Vrbo Property",
+      "place_id": "ChIJzykszi71wokRx1aeFBGfyF8",
+      "plus_code": {
+        "compound_code": "R552+V2 New York, NY, USA",
+        "global_code": "87G8R552+V2"
+      },
+      "reference": "ChIJzykszi71wokRx1aeFBGfyF8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8097381,
+          "lng": -73.8499603
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8112422302915,
+            "lng": -73.8487335197085
+          },
+          "southwest": {
+            "lat": 40.80854426970851,
+            "lng": -73.85143148029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "2 Bedroom Private vacation home in The Bronx",
+      "place_id": "ChIJZfouzi71wokRIvwtxgVr9n8",
+      "plus_code": {
+        "compound_code": "R552+V2 New York, NY, USA",
+        "global_code": "87G8R552+V2"
+      },
+      "reference": "ChIJZfouzi71wokRIvwtxgVr9n8",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81299970000001,
+          "lng": -73.85399629999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8143486802915,
+            "lng": -73.85264731970848
+          },
+          "southwest": {
+            "lat": 40.8116507197085,
+            "lng": -73.8553452802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Hamilton's Hideaway Studio M3",
+      "place_id": "ChIJHb2NKyb1wokRpYjw-OlpGps",
+      "plus_code": {
+        "compound_code": "R47W+5C New York, NY, USA",
+        "global_code": "87G8R47W+5C"
+      },
+      "reference": "ChIJHb2NKyb1wokRpYjw-OlpGps",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8124046,
+          "lng": -73.8481521
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81400858029151,
+            "lng": -73.84658281970849
+          },
+          "southwest": {
+            "lat": 40.81131061970851,
+            "lng": -73.8492807802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "2 bedroom house in a quiet place Close to all places",
+      "place_id": "ChIJNaP4gSn1wokR1Nm8Lp3IhCg",
+      "plus_code": {
+        "compound_code": "R562+XP New York, NY, USA",
+        "global_code": "87G8R562+XP"
+      },
+      "reference": "ChIJNaP4gSn1wokR1Nm8Lp3IhCg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8151626,
+          "lng": -73.8534317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81697733029151,
+            "lng": -73.8524004197085
+          },
+          "southwest": {
+            "lat": 40.81427936970851,
+            "lng": -73.85509838029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Spacious one Bedroom apt No cleaning fee",
+      "place_id": "ChIJI8nwBij1wokRHoVVq8Krqvo",
+      "reference": "ChIJI8nwBij1wokRHoVVq8Krqvo",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81436919999999,
+          "lng": -73.8603668
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81572278029149,
+            "lng": -73.85898391970849
+          },
+          "southwest": {
+            "lat": 40.8130248197085,
+            "lng": -73.8616818802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Private luxury short /long term rentals for traveling medical professionals.",
+      "place_id": "ChIJm_rq2SD1wokRI-HH--H9GJg",
+      "plus_code": {
+        "compound_code": "R47Q+PV New York, NY, USA",
+        "global_code": "87G8R47Q+PV"
+      },
+      "reference": "ChIJm_rq2SD1wokRI-HH--H9GJg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8143807,
+          "lng": -73.86037449999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8157348802915,
+            "lng": -73.85898671970851
+          },
+          "southwest": {
+            "lat": 40.8130369197085,
+            "lng": -73.86168468029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Private luxury short/long term rentals for traveling medical professionals.",
+      "place_id": "ChIJX1Hr2SD1wokR7TfuTdDsqkk",
+      "plus_code": {
+        "compound_code": "R47Q+QV New York, NY, USA",
+        "global_code": "87G8R47Q+QV"
+      },
+      "reference": "ChIJX1Hr2SD1wokR7TfuTdDsqkk",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81533809999999,
+          "lng": -73.8574371
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81680563029149,
+            "lng": -73.8561156197085
+          },
+          "southwest": {
+            "lat": 40.8141076697085,
+            "lng": -73.85881358029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beautiful Bronx property",
+      "place_id": "ChIJ_XtAbif1wokRs4kzC2LAM44",
+      "plus_code": {
+        "compound_code": "R48V+42 New York, NY, USA",
+        "global_code": "87G8R48V+42"
+      },
+      "reference": "ChIJ_XtAbif1wokRs4kzC2LAM44",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8148423,
+          "lng": -73.86156470000002
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8161996302915,
+            "lng": -73.8601547197085
+          },
+          "southwest": {
+            "lat": 40.8135016697085,
+            "lng": -73.86285268029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Beautiful family home",
+      "place_id": "ChIJ0_Sf5SD1wokRtYeG5c3tQCg",
+      "plus_code": {
+        "compound_code": "R47Q+W9 New York, NY, USA",
+        "global_code": "87G8R47Q+W9"
+      },
+      "reference": "ChIJ0_Sf5SD1wokRtYeG5c3tQCg",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8157592,
+          "lng": -73.8500485
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81708373029149,
+            "lng": -73.84888341970849
+          },
+          "southwest": {
+            "lat": 40.8143857697085,
+            "lng": -73.85158138029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+      "icon_background_color": "#909CE1",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+      "name": "Casa temporal",
+      "place_id": "ChIJwaVrdwD1wokRFcwFR0bVSCs",
+      "plus_code": {
+        "compound_code": "R48X+8X The Bronx, NY, USA",
+        "global_code": "87G8R48X+8X"
+      },
+      "reference": "ChIJwaVrdwD1wokRFcwFR0bVSCs",
+      "scope": "GOOGLE",
+      "types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "442 Olmstead Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81273069999999,
+          "lng": -73.84780289999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81575795,
+            "lng": -73.8445877
+          },
+          "southwest": {
+            "lat": 40.81016655,
+            "lng": -73.8519761
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "name": "Castle Hill Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 960,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/104405006829023045678\">Castle Hill Park</a>"
+          ],
+          "photo_reference": "AU_ZVEEBLxykdPAmqZgJzcFApro0gvDr4D5bLEg9O4J7oSNJAZ0dI1dkH9E_04HSX9F0_sUt5Ij7b8o2dXc5WOefGMI8CkVhFM6prdp6W9D4sAvbDM_04Y_1Xo6ZqAv93CwbJwWlDIowroMB318osQtcCILPOvRMCyeNAqLkQnUKN8z0Qph3apGvR5kzL_dcPuqz7J7OwpdTTlvuHmnTAxbmcm0RHQOWivO2w_SQ6cZBk2c4_E3Vin2x7YdnSWukP-PChPDWL-tRZJHVP-npc8zfObzaaD4x9s_vNp20cjxtNEFVrszZZ27hpH4mFnxUBcxtJvV81P2idjc",
+          "width": 1280
+        }
+      ],
+      "place_id": "ChIJOU0gfin1wokR_HujcSJFJKg",
+      "plus_code": {
+        "compound_code": "R572+3V The Bronx, NY, USA",
+        "global_code": "87G8R572+3V"
+      },
+      "rating": 4.5,
+      "reference": "ChIJOU0gfin1wokR_HujcSJFJKg",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 354,
+      "vicinity": "Barrett Ave. &, Howe Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8145338,
+          "lng": -73.853428
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8183167,
+            "lng": -73.85226981970848
+          },
+          "southwest": {
+            "lat": 40.8093355,
+            "lng": -73.85496778029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Pugsley Creek Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 3096,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108454284563615015356\">Alex Vazquez</a>"
+          ],
+          "photo_reference": "AU_ZVEHz54osnIjvtkq__1M1tV6v3Ab8NFSPL925w18IJSKdB78ZlmR5fRw8OamHfBZLDBNnXD68WuhfVBsAsr5gcPdUSxL32jX05O6vhHvxS9XjPFrbWxx8df1bt0mSiYe-qTNDCx74WzRPoEibeORNwLM1UACUXJ0nv9m43Qb2HycoSEcv_tVow4iDmHzUYnk1AoymyOt0rHRE3cJ0nbR0cI71J2tS3IRUcZcp2w0KDtqMG7FKNtn7qDIOvhMPEROhLc0WKM1mSFL595RMjSFdHGJYl9q6X5bObUW1EnWgEXA48tQVLqLwB9EA4EgDSBNAJrNSyyQgbpxUpx7PevTfQziGPwY78CEIe2SaXdVrM_LIODlZcDLUh7dKmfcF2z8uqZfrKBqu8PCdxkPeAkFcj9AOVcFpTqP224pdJcZn-ue9Zplwnr3MBZjJEMOs9ptzRgrbABq99IIiqQDukYcDFP1mmw2DdgxZoO_Bn3JsjzZ7V6fRtnMk12poSC_ecKRw-YJDsbf0yCBdYzPOtYGbfbCYhGWHqdaVGozZ9eLYqgTVkYBlsUzRYkec7wwQmvq2Hn33Q2CenaLkENMByQLxoJfteRP7blNIOrcLuCq780SGdebTbKIezPx1QyU5ikVuxZnGBXif",
+          "width": 4128
+        }
+      ],
+      "place_id": "ChIJ9cRJTij1wokRfCXsCWEHJfA",
+      "plus_code": {
+        "compound_code": "R47W+RJ The Bronx, NY, USA",
+        "global_code": "87G8R47W+RJ"
+      },
+      "rating": 4.4,
+      "reference": "ChIJ9cRJTij1wokRfCXsCWEHJfA",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 860,
+      "vicinity": "Randall Ave., Lacombe Ave., Soundview Ave. bet. White Plains Rd. and, Olmstead Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80964849999999,
+          "lng": -73.8567266
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8110122302915,
+            "lng": -73.8552716697085
+          },
+          "southwest": {
+            "lat": 40.8083142697085,
+            "lng": -73.8579696302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Harding Park",
+      "photos": [
+        {
+          "height": 480,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101868402050048670395\">Harding Park</a>"
+          ],
+          "photo_reference": "AU_ZVEGYdtm9veWNSEYMsQNfxG0b-ldGD0n8SDqy06TwNnsF0SqFW2EjHX4CO3lDZNt3GW1H_U68KSHKuBaz9yg6ah-XfD5FNHFkb5Cp3Rwop5Ygm1Sg07vpy37otTyH_4WdBM6FeR3r1cD-W-w4nIHsjeHQFTjTHDBe0ghtoKEKPiUvA-XETSDnOfgorUdgi9BtyqKm6sp7usJZclWyxdoyJuOkMksd6z-xGsI9AlpCwh79DhOvvvsvO1I3S_0xgRFt566jF5SKV0OPoQFkSbsSmUQJXLn9GGPMfo5Eo610uXjFziokdWSu45Ukfu-KUdxK5SXmWxyGbsw",
+          "width": 640
+        }
+      ],
+      "place_id": "ChIJ-7RsNST1wokRUw7KuvKMoDk",
+      "plus_code": {
+        "compound_code": "R45V+V8 The Bronx, NY, USA",
+        "global_code": "87G8R45V+V8"
+      },
+      "rating": 4.1,
+      "reference": "ChIJ-7RsNST1wokRUw7KuvKMoDk",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 146,
+      "vicinity": "201 Bolton Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8055473,
+          "lng": -73.84815859999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8069931302915,
+            "lng": -73.84712586970849
+          },
+          "southwest": {
+            "lat": 40.8042951697085,
+            "lng": -73.84982383029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+      "icon_background_color": "#4DB546",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+      "international_phone_number": "+1 212-639-9675",
+      "name": "Clason Point Park",
+      "opening_hours": {
+        "open_now": true
+      },
+      "photos": [
+        {
+          "height": 1198,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108497856693643177336\">Clason Point Park</a>"
+          ],
+          "photo_reference": "AU_ZVEEVMEsdVFUMXd0-NKyE5y7ldw1zkXlh9T7TTbDIYm5JKxeML4ICPFX-iaNPXEx_WQ3hNRzgb7Y-17dKL-SbEo158O2E52ptrF1bFgftMl-wIieUjO90v6T9zYA8IH0LKeZzPZrbpHBGlcfD9hwvmWBClg_39J2GBoTM2pfgAnklSy6w87Sky4zovfbu3-WgmsDtI4X1EgEAl28viG4sgGuhRqyr6dVTHbJCuiN5JPfq5-NokCkI45qnbZTOQHiibH3EslXlXzX2bWwJ3tDbSODCx8rv6lL10_3EBRl-zUZZx48eHs1bKCHcrFijTrPEHIw8i1laZcQ",
+          "width": 1800
+        }
+      ],
+      "place_id": "ChIJm069OC71wokRlwo13Wmhmh4",
+      "plus_code": {
+        "compound_code": "R542+6P The Bronx, NY, USA",
+        "global_code": "87G8R542+6P"
+      },
+      "rating": 4.5,
+      "reference": "ChIJm069OC71wokRlwo13Wmhmh4",
+      "scope": "GOOGLE",
+      "types": [
+        "park",
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1537,
+      "vicinity": "Soundview Avenue, The Bronx"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80933,
+          "lng": -73.8552395
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8106663302915,
+            "lng": -73.85388681970849
+          },
+          "southwest": {
+            "lat": 40.8079683697085,
+            "lng": -73.8565847802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Av/Gildersleeve Av",
+      "place_id": "ChIJsYfBvSX1wokRM--pHc207A4",
+      "plus_code": {
+        "compound_code": "R45V+PW New York, NY, USA",
+        "global_code": "87G8R45V+PW"
+      },
+      "reference": "ChIJsYfBvSX1wokRM--pHc207A4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81167,
+          "lng": -73.85582699999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8130185802915,
+            "lng": -73.8544816697085
+          },
+          "southwest": {
+            "lat": 40.81032061970851,
+            "lng": -73.85717963029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/Obrien Av",
+      "place_id": "ChIJUf7vbyb1wokR5FWulSvAC24",
+      "plus_code": {
+        "compound_code": "R46V+MM New York, NY, USA",
+        "global_code": "87G8R46V+MM"
+      },
+      "reference": "ChIJUf7vbyb1wokR5FWulSvAC24",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81355649999999,
+          "lng": -73.856293
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8148842802915,
+            "lng": -73.8549378697085
+          },
+          "southwest": {
+            "lat": 40.8121863197085,
+            "lng": -73.85763583029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/Patterson Av",
+      "place_id": "ChIJ2wpNqyf1wokRRiO6-EblFeA",
+      "plus_code": {
+        "compound_code": "R47V+CF New York, NY, USA",
+        "global_code": "87G8R47V+CF"
+      },
+      "reference": "ChIJ2wpNqyf1wokRRiO6-EblFeA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81354149999999,
+          "lng": -73.857918
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8148978802915,
+            "lng": -73.8565563197085
+          },
+          "southwest": {
+            "lat": 40.8121999197085,
+            "lng": -73.85925428029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Av/Patterson Av",
+      "place_id": "ChIJAXje4Cb1wokRFgpFsDUZstA",
+      "plus_code": {
+        "compound_code": "R47R+CR New York, NY, USA",
+        "global_code": "87G8R47R+CR"
+      },
+      "reference": "ChIJAXje4Cb1wokRFgpFsDUZstA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.809544,
+          "lng": -73.85548399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8109036302915,
+            "lng": -73.8540547697085
+          },
+          "southwest": {
+            "lat": 40.8082056697085,
+            "lng": -73.8567527302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Gildersleeve Av",
+      "photos": [
+        {
+          "height": 3060,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109920476630289061919\">JonPaul Niang</a>"
+          ],
+          "photo_reference": "AU_ZVEGRKpjo5VtfFmD1r-NCVkZNadYoh5KqjnVOcY7OrgawuR1BjZFs4stXbg02MiB1b1iRtkbUBGcCrnZT0XP86lAtZ6YJxaZMWF_r0yL2YteswfK_a0KpCrmy3TLP6gVe95Fs9j_iiMHLf5-P30n5vpdAx0nWtoNOwyAEYL8zrz0jHXv0UJzYRsWgIZMAEeO0QYDTMiSEfgqTozfMVG_6OH6xYZyt_uMXCCUh5D1gVlPZyN2fVuRxLE6bER6b5tJDXhkELMcdNJD4sWSnh3Es-o1JvCeJlolpsJ86NaiO84zEb_GyFqisXXaTIU67EDW5qTHOF3wuUIV12fZ2kU691M5SrVcYs8VbWK_utiLYx9B9C7pEtHdliEGtHqU9RiO9uOm59L1UYrY3sN6pNke1yMxHbX0wT5PWozQTtqoYv1k0O3OG7eBs2qOU1LH6zqFmWKBJAnz7yB7O24i6hUayf0dl4Rtka2UTJRttAwbwnSv1nSlpMNEkGL06VkUYrm-q89Ut9NgYsgl9K66X3Q_ORN8h7xyutOdVv-FaQ_h0neBjJPLPGS0RtoSe5tfA5zkkSdKL45eNCtOS2T0HMPOXukuLALncLLdeoXjyD1McSe6w6DmCvIxAfo3kv1NEB_a035L9Kg",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJZ2EdvCX1wokREowysiVQO5E",
+      "plus_code": {
+        "compound_code": "R45V+RR New York, NY, USA",
+        "global_code": "87G8R45V+RR"
+      },
+      "rating": 5,
+      "reference": "ChIJZ2EdvCX1wokREowysiVQO5E",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.809536,
+          "lng": -73.855301
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8108884302915,
+            "lng": -73.85392621970851
+          },
+          "southwest": {
+            "lat": 40.8081904697085,
+            "lng": -73.85662418029152
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Gildersleeve Ave",
+      "photos": [
+        {
+          "height": 3060,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109920476630289061919\">JonPaul Niang</a>"
+          ],
+          "photo_reference": "AU_ZVEEdgOANjddRunLOsqX-hpA4FwTg_5Cm25q4gPFslUEWvkiTaHIfyr2hbCJOBLKXO1Gr-itNwi_hcrTxCGhUmJiwFypvGGuzs6jk3q4aEwdljXzAipDWKY3R56qn-igztcJQYwabYqIu5f7Qp2AVrgCwR3tCRrOWGyL_Hm5kco4U1B1XhAlh0vXTLShKwD2BXvQde8gRg6H_fFKtUVmBich2jqyW0apxpS9GoJce2ajUhQsnUvZp3zs6E3njqBTEhTQe3wQ747zg3gcH8kXCWn_WMY8D1yMe_B5EmmJVnzXhFE4ZQjW2AmMPeVRVMQFKf0W8vx32FNU6b_FRSd9hfzTdhUAO0BU3W4mZnoB9McfJBssb57CGvJDbPzSfLrmm2XEOQObPbyj6ATh_5YxCKlU3i4pqy2smUE-zeH0Ghs47P80p1bhhh28oMQpdQoIMFVVziXtM6B3oJmpiZg-rEmg4S03PhmwwALJYsTuBQQqzCxq62yVdzqtk3132VvKCbB0R96OOU2tPM87YPEry9KCWzOMWB9cgh6ZNO5NyMrj_bWX4DnxUd8R2DQext765twLrjFUmZ42tR0WjPEh-yHofSHrdKztZlt7IQnrgNLxS-mlmaD4opJ76fLSEvJ4DECpJbJ3W",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJJahIliX1wokRmRpnr7cxGAc",
+      "plus_code": {
+        "compound_code": "R45V+RV New York, NY, USA",
+        "global_code": "87G8R45V+RV"
+      },
+      "rating": 3.5,
+      "reference": "ChIJJahIliX1wokRmRpnr7cxGAc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 4,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.808311,
+          "lng": -73.853737
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8096978802915,
+            "lng": -73.85235131970849
+          },
+          "southwest": {
+            "lat": 40.8069999197085,
+            "lng": -73.8550492802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Newman Av",
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/108010742019935402848\">Hereef Muhammad</a>"
+          ],
+          "photo_reference": "AU_ZVEE8JeIERSMebgXRP6DxVJh0LmPsOp_VeNWvZdViyjTt__QIXE9ESMu8e_OKMZh6xnM0H0py3BXZiETTcArpwSajy4th8GBGCOH_FySj5M9Q2ckyQ0cXkUosYY-FpwrVAfUloeA6sHautlnpiCj9MD6_7cvOOHiFsTxNeimqwa4FaCloPgDAiRejKwqygp0D9SJsqTmE469HjP5lytjqAQ2EdlmCWCoAqqz3MGtdfPTvZyiJUZzGS-LhzNHjMXzXdibLVAlDLxaAMu2hJAPZDSFq8i9xY9Be-NwHUacvOUmUdwAc6csse5EVIplxFOlxEMVG8r_3THyPMS0J9Nz4R92igIKA13QYIcLqqWR2lZDXdNRoMfNvUP52QU1I2giyXPvzJeCQrUWJeRUUmdNy8Qzy3OM1WTWUdtj5xwwc3IcwA1Dcs_q1EeWeSBx1kSAUN3czomuq2MVqx61_GIzM8WPsKSxM-wq_k1fEl0N8KGBPLbzlUW7bCG8RiFIo8kgy4X9bmYs9WILoAynaPemLpdxxJA4WP5ElU5R5-tLo1KcD-SCvmyDuS1FMez7vxXUt3JG4-WkcHX9NvYmQvOKbp_R0-OizKgWd8W-utDbvDUTZkcRrsDAfmkPgYagdqA8yz9Zr-V7y",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJi6cBgCX1wokR21gYSBZtfHQ",
+      "plus_code": {
+        "compound_code": "R45W+8G New York, NY, USA",
+        "global_code": "87G8R45W+8G"
+      },
+      "rating": 4,
+      "reference": "ChIJi6cBgCX1wokR21gYSBZtfHQ",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.807976,
+          "lng": -73.852745
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8093181302915,
+            "lng": -73.8514506697085
+          },
+          "southwest": {
+            "lat": 40.8066201697085,
+            "lng": -73.8541486302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Stephens Ave",
+      "place_id": "ChIJn3hnnC_1wokReoQZbABgj70",
+      "plus_code": {
+        "compound_code": "R45W+5W New York, NY, USA",
+        "global_code": "87G8R45W+5W"
+      },
+      "rating": 2.7,
+      "reference": "ChIJn3hnnC_1wokReoQZbABgj70",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 3,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.807545,
+          "lng": -73.852341
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8089218802915,
+            "lng": -73.85096556970849
+          },
+          "southwest": {
+            "lat": 40.8062239197085,
+            "lng": -73.85366353029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Cornell Ave",
+      "place_id": "ChIJy-dPmC_1wokR0ogph5rkMI8",
+      "plus_code": {
+        "compound_code": "R45X+23 New York, NY, USA",
+        "global_code": "87G8R45X+23"
+      },
+      "rating": 3.5,
+      "reference": "ChIJy-dPmC_1wokR0ogph5rkMI8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811317,
+          "lng": -73.855942
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8127280802915,
+            "lng": -73.85460881970849
+          },
+          "southwest": {
+            "lat": 40.8100301197085,
+            "lng": -73.85730678029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/O'Brien Ave",
+      "place_id": "ChIJO1jxeSb1wokRrxYfOKtTAV8",
+      "plus_code": {
+        "compound_code": "R46V+GJ New York, NY, USA",
+        "global_code": "87G8R46V+GJ"
+      },
+      "reference": "ChIJO1jxeSb1wokRrxYfOKtTAV8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811527,
+          "lng": -73.856331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8128939802915,
+            "lng": -73.85493006970849
+          },
+          "southwest": {
+            "lat": 40.81019601970851,
+            "lng": -73.8576280302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/O'Brien Ave",
+      "place_id": "ChIJEWBpfCb1wokR2U2E_kUOyF4",
+      "plus_code": {
+        "compound_code": "R46V+JF New York, NY, USA",
+        "global_code": "87G8R46V+JF"
+      },
+      "reference": "ChIJEWBpfCb1wokR2U2E_kUOyF4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81163,
+          "lng": -73.855972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8129931302915,
+            "lng": -73.85452976970849
+          },
+          "southwest": {
+            "lat": 40.8102951697085,
+            "lng": -73.8572277302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/O'Brien Ave",
+      "place_id": "ChIJ08Sceib1wokRD6cf-SuU_0Q",
+      "plus_code": {
+        "compound_code": "R46V+MJ New York, NY, USA",
+        "global_code": "87G8R46V+MJ"
+      },
+      "reference": "ChIJ08Sceib1wokRD6cf-SuU_0Q",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.811779,
+          "lng": -73.855766
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8131146802915,
+            "lng": -73.85444491970848
+          },
+          "southwest": {
+            "lat": 40.8104167197085,
+            "lng": -73.85714288029149
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/O'Brien Ave",
+      "place_id": "ChIJhY4Nbyb1wokRrW4w8lO-35U",
+      "plus_code": {
+        "compound_code": "R46V+PM New York, NY, USA",
+        "global_code": "87G8R46V+PM"
+      },
+      "reference": "ChIJhY4Nbyb1wokRrW4w8lO-35U",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.813103,
+          "lng": -73.856331
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81445613029149,
+            "lng": -73.8549565197085
+          },
+          "southwest": {
+            "lat": 40.81175816970849,
+            "lng": -73.8576544802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/Patterson Av",
+      "place_id": "ChIJJZuiVib1wokRWXZccpl4oXY",
+      "plus_code": {
+        "compound_code": "R47V+6F New York, NY, USA",
+        "global_code": "87G8R47V+6F"
+      },
+      "reference": "ChIJJZuiVib1wokRWXZccpl4oXY",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.81347299999999,
+          "lng": -73.857986
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81484118029149,
+            "lng": -73.85660391970849
+          },
+          "southwest": {
+            "lat": 40.8121432197085,
+            "lng": -73.8593018802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Patterson Av",
+      "place_id": "ChIJK2865yb1wokREvAbkx0Fdw8",
+      "plus_code": {
+        "compound_code": "R47R+9R New York, NY, USA",
+        "global_code": "87G8R47R+9R"
+      },
+      "reference": "ChIJK2865yb1wokREvAbkx0Fdw8",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.813595,
+          "lng": -73.857796
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8149198302915,
+            "lng": -73.85648686970849
+          },
+          "southwest": {
+            "lat": 40.8122218697085,
+            "lng": -73.8591848302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Patterson Av",
+      "photos": [
+        {
+          "height": 3050,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213\">Jay Kindell</a>"
+          ],
+          "photo_reference": "AU_ZVEHW2JwBfSRwyDSZS2MmEWMPLhwjwReHHo1pKbR-CFlHPkFJQjsvI2FWrcCkRbGKRrnzqg0jj1ASr2FZkvAEMb1YUsxQ7rBScm0zlbxkVQvzTIouMisp1TkiILBvxDr4LvscYmB5qStXEXEOYDrVGRh-UYS7sP3BidMzGEmOteOk9jDMfctRzCmpGaHw0nZ-YQR_HeJzFC73tG9BWdETlbb3xStOg9Be1FlowyTF3UiiVm7OobUF_v-tgjjxCZgLXFNiruUd8vdj42nGndS2WwSGA7hghE8jeXRRTPGTAIP1c6zpeUQo5eREu9QuX4lsbu2HDsXARb6Fl661dO97h8xtfJ40X34_iUxIwb2JeAlj0eGoUEEmGG4vhG-i3zK9Vl9yXSHv2aaBQVlCB6d0_t0Fimd4jpreOaEHaKEKFF4AXues7d4jDjvezKpSO7rciOSgDrM4CB3hRJR_doVCDq59koVQH6radAQZTrKu7nqBF8xbbzI99yVOlBIAmw_njX6jqrzXemMBjg_EB4JGWB8VkXBSZq8_Jn3kjTPqNDXiXqdzrAmjJYkkCcV7-q-yaRH27vdLXaWDg18DpHllRtQYXLL16TjQjuy8YReDolWYOFk96MtA3lRZAro5SbD8R-rLf_0g",
+          "width": 3210
+        }
+      ],
+      "place_id": "ChIJfU6s4Sb1wokRBWh3VrqzP2o",
+      "plus_code": {
+        "compound_code": "R47R+CV New York, NY, USA",
+        "global_code": "87G8R47R+CV"
+      },
+      "reference": "ChIJfU6s4Sb1wokRBWh3VrqzP2o",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.813999,
+          "lng": -73.85627
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8153426302915,
+            "lng": -73.85496046970849
+          },
+          "southwest": {
+            "lat": 40.8126446697085,
+            "lng": -73.85765843029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/Patterson Av",
+      "place_id": "ChIJu1FMqSf1wokRzh2LWdRFGXw",
+      "plus_code": {
+        "compound_code": "R47V+HF New York, NY, USA",
+        "global_code": "87G8R47V+HF"
+      },
+      "rating": 1,
+      "reference": "ChIJu1FMqSf1wokRzh2LWdRFGXw",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80574,
+          "lng": -73.848801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8070877802915,
+            "lng": -73.8474563197085
+          },
+          "southwest": {
+            "lat": 40.8043898197085,
+            "lng": -73.8501542802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Soundview Ferry",
+      "photos": [
+        {
+          "height": 4000,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113344452122749341831\">Mehedi Hasan, Traveler</a>"
+          ],
+          "photo_reference": "AU_ZVEGiKbtd9OcJ2pRI25JViGOybAhGHiL5QKJ_oiyNTSVWD6jCiFfIqEVIO9xuuPsHX86gNWwDA_MYmPRo-aw5KDuzzQqaa4mp3HgdTf69YDrHiw8iSF3LzPpkJxBas8PzNNjx3iz91cBaGBCY4q8Mk9ovrOa-F0_cA-euFTG_y_STKYIAi0I634CWfhdZ0x9m13EmICj0kCFlqbwutYnbB-yvAMLFXSR3Oxjf9LLszzCRAar23wNZ2ANdL1D-DzV09GMzD28BQydrE5krJZZXyOphiLlnu0khwNHUehFAHWpZrnYS7sQ1glKJpXDrvioQwYWABLGUHpprHEsI7XYI42VPML1bQ3cQiDt4EGSCcA4K3zDBwBB_Kktchih9NK_131r6D6DqI-jYS6-pfLJI60cgodmTf6sYZhLgJGEb6biFWT3RoomSXhsOGOIVnYfuelouH6i5ePptOG_3g5LCRhMGtsC09Wp0sOUbCZTnK32uw0gc_VgdoeVZDFQluQHfHcjV9CE_xiOiqi1G2fHAVsiuyNQtD0G_iLChFSKl1QCh2vqm8kVeNiXrVUCkesIAkXIXqei2s8fOsIkszvd0p8fNwJKshV7jfD2xagex0f5xESEP3n4tfUXSAHEqfrM_Ol22ZA",
+          "width": 2250
+        }
+      ],
+      "place_id": "ChIJLQu9EC71wokRGNA4xLsL0m4",
+      "plus_code": {
+        "compound_code": "R542+7F New York, NY, USA",
+        "global_code": "87G8R542+7F"
+      },
+      "rating": 4.4,
+      "reference": "ChIJLQu9EC71wokRGNA4xLsL0m4",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 8,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.80571,
+          "lng": -73.848801
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80706633029151,
+            "lng": -73.8474692197085
+          },
+          "southwest": {
+            "lat": 40.80436836970851,
+            "lng": -73.8501671802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Soundview Ferry",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/117980461759449680456\">Ishtiaque Khan</a>"
+          ],
+          "photo_reference": "AU_ZVEGptSU8TEu3SDPhH3DSgjpAnwvwiomB9vFLaue3etG34pR7mHq8284fcZGbCrsuRtoCUG5xNR74hCbwWwsWnMhiSrK5q-80xeuxX7gXQXCEM4nrW-osVKWzFMpARMFVP1wqaNZvsA8AeH9rX0v72EF_LFVh_p0kKpWNIqpz-9hglYL4lrzlUv6OZvcLdveI-O3s5UjE3nrEal2xSrKuyselkIvQY7h7W2PtxYkBHLi8cHssgZw7eeWfiW9hUZPBm3G3zh7jW1DtyNrD0PAt2V8RobMniQC19syVAiRw-FMAIlAdv4cw8AryJFBMR6TZxmFSI18FuUNcvMJtm4_9clessaHDm5VOaBmp8xAcsswRS612YYQ0rWnRZFEiiK-wRY266EBIdE0rQucqM9T60Sd7FZD0-MiwqPD0zw2iHFjnhSyuDjphbTlGXWu62xOgGcyjeEnXWWtEljzO55IEeG_v2WXcWY7rpSi6sb_AiZRU2tbux9mKnlxZ5Xf8f1JfzP9cHrZcpWHimuCKWmww2vF6wWtjo_koyqtzEC2z57wi2qaYmHMaMqtmalrPVK5nEoX-fD7AYcTqhd1BqT9HNBhodqg7Jdou63aRGeKGtZ-kNU0QuKK-Mq-VXzfXXVCnG2noODVq",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJ0WUIGi71wokRmCdPlHTb5Qk",
+      "plus_code": {
+        "compound_code": "R542+7F New York, NY, USA",
+        "global_code": "87G8R542+7F"
+      },
+      "rating": 3,
+      "reference": "ChIJ0WUIGi71wokRmCdPlHTb5Qk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8041862,
+          "lng": -73.8486982
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.80607003029149,
+            "lng": -73.8474913697085
+          },
+          "southwest": {
+            "lat": 40.80337206970849,
+            "lng": -73.8501893302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview",
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107747855819836970502\">Stacey O&#39;Neil</a>"
+          ],
+          "photo_reference": "AU_ZVEFVfMt3TGACeXuVZiKqtIGqAdt4g0lJimIcqYVow9kzk6dWtvlVnjju_jARUfSUupOZtAov_AFWrPTXFoMo8QnREyO9SOe_KG_DB97bBqMarkULM35fIylWVaAKSdGt--qc14QxmvXcO3Ytr-O1AsQGu9iBRRXsQG_gXa6rewag_JcXfwtJitShsVVswP7g5x-iSUcxYVgf5FuQB47mWTETMgIevo6b52QucYudQi5uk8Fq2D91acBHAxu1GXGEEd-lzjtORZ9JVIBFaMLDAsjsrSSdazhb0V-hUhzm4m70kpqjXPWjA6LKpu9vYTeMTdoCgEH25tVBINn8OPgA0KNB6C3NkxvJbrobNTxWJWnIghsuxyubUr6jO2bsMA7aatfRu7hGelpfZrMTqvQlstWqvXsgoSOwPydGCQNyE_VF1U6TfXuHIoMTxjRe4vW4a0sMpYe4fFNiqMY1MhhbWVBYbVqRPxbvOIUuy4xs4ixlsIPcmjjbIgSyMJVqvgkHPq8mVWz4oXz3qoVE4n24EloPlYqv1v9PMz79xaiUlP36E5OLBV5w53U8A7knqbXrZeY5LuYOuJE6_tuLP62voAd6WPptFI3EGkxHX_lc3tAqtnEA7k-LHzPiy6AoT-nBh9oAdMx-",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJ0cTx6zH1wokRlTluB0YTisA",
+      "plus_code": {
+        "compound_code": "R532+MG New York, NY, USA",
+        "global_code": "87G8R532+MG"
+      },
+      "rating": 4.6,
+      "reference": "ChIJ0cTx6zH1wokRlTluB0YTisA",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 450,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.815327,
+          "lng": -73.856827
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81667703029149,
+            "lng": -73.8554701197085
+          },
+          "southwest": {
+            "lat": 40.8139790697085,
+            "lng": -73.8581680802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/Lacombe Av",
+      "photos": [
+        {
+          "height": 4624,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/118446328631689981751\">Gigi Perez</a>"
+          ],
+          "photo_reference": "AU_ZVEEsuQBI9AF7BhhdzvAP-d6XaGxjGOLkyzeyc_knwtg8NIA88h9jWqk7laiz5SJO5-Cdk7wK8Qsn9jQ5YmYc1pQZiHdpT2MxbTlHhmt7PknJf-sG2J5CUF9Hsk7m-uOO5QlLmM_B_5FOWKSBaQELPZc_q0gSZEnEA7tM3h6mVej2fDvDV2JeoDrP5pA9RjxNtWv5wBNjgHChSHQuVDx52_-3S3iy_RZUqpfZqsD_Fwsj0Z2dBFBcYotkj2aRFH_QEsimODBSfdbk63fqlbdJNNaxl_7uH-vmuHTog_ZhNipV8sN_awVlpvmFRvCL5jSvtwX5W3TM2-gL3DYH53Yxf49iuqcew657_HgoI_EXqCB_Tw5Jj9AbgdXFKSA3FJ4Kle3Fkfl3bvT3VOYsBf8eAWr-UGQPy8TrZ1eF2ISYHp6JFX75C800I4Pnv1il_3Z1aP9GefL1akkJXbRfsJ0JMI2tbpHysuLpDr3xZkHdag-Tx9csPnn4yp5RpAlpOQclAJc4H3NzC1Yg94cbnOLT3N6S41BqfIL6Yf4r9_-fFeBsFRMp6rON026vG6QLSA2WcGsdfI7KqQLHLTBnvoArbQe0oRxr3Ep7MAZfd3gYj3Sf2jF3pYIaVO2Grj95yYfXl76av_kK",
+          "width": 3472
+        }
+      ],
+      "place_id": "ChIJDfgCdyf1wokRyws85E97dQg",
+      "plus_code": {
+        "compound_code": "R48V+47 New York, NY, USA",
+        "global_code": "87G8R48V+47"
+      },
+      "rating": 5,
+      "reference": "ChIJDfgCdyf1wokRyws85E97dQg",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.815491,
+          "lng": -73.856674
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81684148029149,
+            "lng": -73.8553145697085
+          },
+          "southwest": {
+            "lat": 40.81414351970849,
+            "lng": -73.8580125302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "White Plains Rd/Lacombe Ave",
+      "place_id": "ChIJV6YQeCf1wokRlVs_kR74NHc",
+      "plus_code": {
+        "compound_code": "R48V+58 New York, NY, USA",
+        "global_code": "87G8R48V+58"
+      },
+      "rating": 4,
+      "reference": "ChIJV6YQeCf1wokRlVs_kR74NHc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 1,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.8151205,
+          "lng": -73.8595655
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8164725802915,
+            "lng": -73.8582115697085
+          },
+          "southwest": {
+            "lat": 40.8137746197085,
+            "lng": -73.86090953029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Av/Lacombe Av",
+      "place_id": "ChIJIbnTyiD1wokRXiUkVP55xoU",
+      "plus_code": {
+        "compound_code": "R48R+25 New York, NY, USA",
+        "global_code": "87G8R48R+25"
+      },
+      "reference": "ChIJIbnTyiD1wokRXiUkVP55xoU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.815086,
+          "lng": -73.859688
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81643913029151,
+            "lng": -73.8582957197085
+          },
+          "southwest": {
+            "lat": 40.81374116970851,
+            "lng": -73.8609936802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Lacombe Av",
+      "place_id": "ChIJo2gXyyD1wokR77sQ_0SdQ-s",
+      "plus_code": {
+        "compound_code": "R48R+24 New York, NY, USA",
+        "global_code": "87G8R48R+24"
+      },
+      "rating": 5,
+      "reference": "ChIJo2gXyyD1wokR77sQ_0SdQ-s",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.815174,
+          "lng": -73.85947399999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.81650733029149,
+            "lng": -73.85815156970848
+          },
+          "southwest": {
+            "lat": 40.81380936970849,
+            "lng": -73.8608495302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Soundview Ave/Lacombe Av",
+      "photos": [
+        {
+          "height": 3058,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/101580679594295106213\">Jay Kindell</a>"
+          ],
+          "photo_reference": "AU_ZVEHtnQHRUWUDCCjt_KFqopH2C-DI7DQEf3XHAqRCP6x_Avw5Q7pwxs-p-zVSgeMtwzB2_YyAJj5Ns09RsKxI0zFkckCxTwLPfLI80_BhiMFu0rSOKhYQbvefjrVyyDKzkK-eCcun3VkA5YLQO4iAOYqpILLrXIv8spTkc0YEqNAeJ0o1EbmxFQt4SwQMXZmzRc2IBeGM-d1xmPr8CMg1rmKHopN4bqNvPREQgo481EfS8YKCf33rxcL9kXotarm7YC64w2dsObVbGjmURryhGcN_x15dll79pI9hdGCVbtaKMXJv1-bk-PHkzhGUBrb-5XzBs_te63FENnRITn_6PkBx5g2wDfmkRyzmpi8NpSfvxfFFFV5ufPpAKVBNRkydo9uc4fISfaPp6jxRsvn3GmUiRKmMcyzJ2Si8tdUkV0g-MTxuZtqUQE1201m2yxQm1I1g8RfS_oPjVHJheapJPbygJenidnByNDZPijn02awJsC03iZyVleXNpRaJCHUzCiFkOHyh6BTZe4kczJ3fI84kJqiDvwbylcx0-1TH3bhLLI_sB6ZS-ilNrd3ldUyVOs0FHdgW9UAp6-BibeCc3aAjdtWSy__W3QLXwjAywuQdZKJgt1BHcBaLEOsgD_ni",
+          "width": 4068
+        }
+      ],
+      "place_id": "ChIJi2pBNSf1wokRCIVsNHkJfxU",
+      "plus_code": {
+        "compound_code": "R48R+36 New York, NY, USA",
+        "global_code": "87G8R48R+36"
+      },
+      "rating": 3.5,
+      "reference": "ChIJi2pBNSf1wokRCIVsNHkJfxU",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.812847,
+          "lng": -73.84614599999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8141990302915,
+            "lng": -73.8448092197085
+          },
+          "southwest": {
+            "lat": 40.81150106970851,
+            "lng": -73.8475071802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Zerega Ave/Castle Hill Ave",
+      "photos": [
+        {
+          "height": 3060,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109920476630289061919\">JonPaul Niang</a>"
+          ],
+          "photo_reference": "AU_ZVEEiac26FYBKihSvbHT9CwxVMqU4reDPdS9gmACftm6GUcf5yrRnNSsOGd9-eUitXn04kMmEn8B_54kqSL0an85mQF0j_pGFrdM-hmO1hZ3sOCVB817ylpPLguhDphMr8CYEyHVCrHte90Iwz2hKTXJVNtr3telj9rx5Ks5t8VWRXXRUoZ3o-5cbZzLGYN-47G7YUpvJOnNFzWjPqg91_2j8u_18OzqsGU80nv49gKBiFoN6K1uYig584VoOk-Q4vIaNYm5OwWjlQ4ETA82Bt6jrUUMZ-8NdtP8-YKiexHfTA-Oi_bwDfIo3CNdEP3Ox86tTgSCWEykKfkMWYHjvUlevhlnuq_7ZO7gXEHlQWjpTG6lg6VV18mzhNYqEydWJUP5fgElXRhNJkCvAkocZmlrIdYfRLF6Cg9HavYnZDBwaM2XTAhglAOfYD_3dl6uSut6NzG7zkYGYju7BZk99vT3FtW42tsuxGKLetB9JQw8PdAhNM8w-JvXh0eFRWQj9kBd7VO7q9snnGEBxq89v5_Tf4Nj6nuzhfvuKxrYNs-a5SvPHQm2HMWj6Kp8PTtPYCbWdogHtXNdJiJG2Mdmx2MTeVbqwFV6we5N9Rjiipen5gDzgGvD5WQETqvQcfzXK5Zs8X8qk",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJlYOrRyr1wokRJmSJVQRWtUI",
+      "plus_code": {
+        "compound_code": "R573+4G New York, NY, USA",
+        "global_code": "87G8R573+4G"
+      },
+      "rating": 5,
+      "reference": "ChIJlYOrRyr1wokRJmSJVQRWtUI",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "user_ratings_total": 2,
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.814388,
+          "lng": -73.84706899999999
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8157417802915,
+            "lng": -73.8456844697085
+          },
+          "southwest": {
+            "lat": 40.8130438197085,
+            "lng": -73.84838243029151
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Castle Hill Ave/Norton Av",
+      "place_id": "ChIJ2Z8kBir1wokR32iAEBM0ZSk",
+      "plus_code": {
+        "compound_code": "R573+Q5 New York, NY, USA",
+        "global_code": "87G8R573+Q5"
+      },
+      "reference": "ChIJ2Z8kBir1wokR32iAEBM0ZSk",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    },
+    {
+      "business_status": "OPERATIONAL",
+      "geometry": {
+        "location": {
+          "lat": 40.814606,
+          "lng": -73.847004
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 40.8159555802915,
+            "lng": -73.8456507697085
+          },
+          "southwest": {
+            "lat": 40.8132576197085,
+            "lng": -73.8483487302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+      "icon_background_color": "#7B9EB0",
+      "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+      "name": "Castle Hill Av/Norton Av",
+      "photos": [
+        {
+          "height": 3072,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107959408862058383607\">Rahat Alam</a>"
+          ],
+          "photo_reference": "AU_ZVEHBOSabvqOdlsfaFHQo4IDsgvHBogJA5tG1tMH7lJ3cFj3fdD5maeFWN3WGr-FnWQrOxZ9A69_evLKtrc8ScrP0gEbjAI8gmVrfrBKhNnhQhmV9M3FTAsIHKVTDmhZ_QwHvumB9-rysdYAnIsWz5l553qitv5Sh0jo-BTYTXtr4iQkoWeT4rG7Co4k93tRcdTE9SltI-wpbIqUxzkIWZAosSPPH-AM7vO4CGtPL9Ib647TtggBZqdiVJQtcydJ9RolI-mWypyJEsTd3O3qEsRXH-BiGvo2YoJ9VTJu-wkhofj0ZbWW61rJb9W_nPykSXXNocN04TAIE3_-1FQcW15cZrv_PmbYqMfzUCGFSagsWOVfXoNSd6tl4xMKGHTNs30pzDt9UEHOkOxc5GWKvPXpBmKJ9VqvBpSetj10TgW7IyBvxy_dJllAaaH7xr9nHkRH_xh25i2SMwtznndhxhD3Xg2dZDwtmxf3ou0MbkXdAvLqB77l4eeCJP3if8Peli6V7QejflL9dfbPbpD1laY-m9PHXNbsY-u_FIAYMuHX4uGs9qKvlrK4zykZr3kYJCpipkCwtR0d3J9LAEkUNGCSACHwSzzY3TClFdSl3-JE8k9CcJCAfXdK-ZIVtAChmdHEhDg",
+          "width": 4080
+        }
+      ],
+      "place_id": "ChIJ3VJtCCr1wokRmg_4CoIewzc",
+      "plus_code": {
+        "compound_code": "R573+R5 New York, NY, USA",
+        "global_code": "87G8R573+R5"
+      },
+      "reference": "ChIJ3VJtCCr1wokRmg_4CoIewzc",
+      "scope": "GOOGLE",
+      "types": [
+        "transit_station",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "United States"
+    }
+  ]
+}
