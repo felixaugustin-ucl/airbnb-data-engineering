@@ -135,6 +135,15 @@ _TOOL_LABEL = {
     "get_neighbourhood_context":  "Get Neighbourhood Context",
 }
 
+# Place types actually stored in MongoDB places collection.
+# Derived from Google Places API types returned for NYC POIs — used for
+# routing correction so the signal is data-driven, not hand-picked keywords.
+_GEO_PLACE_TYPES = frozenset({
+    "restaurant", "bar", "lodging", "tourist_attraction", "transit_station",
+    "cafe", "food", "night_club", "park", "museum", "bakery",
+    "subway_station", "meal_takeaway", "meal_delivery", "bowling_alley",
+})
+
 _spinner_stop    = threading.Event()
 _spinner_thread: threading.Thread | None = None
 _spinner_message = "Thinking..."
@@ -225,15 +234,31 @@ def _print_tool_result(tool_name: str, raw: str):
             console.print("  [dim](no documents found)[/dim]")
             return
         table = Table(box=box.SIMPLE, show_header=True, header_style="bold cyan")
-        for col in ["name", "rating", "vicinity", "neighbourhood"]:
-            table.add_column(col)
-        for doc in docs[:10]:
-            table.add_row(
-                str(doc.get("name", "")),
-                str(doc.get("rating", "")),
-                str(doc.get("vicinity", ""))[:50],
-                str(doc.get("neighbourhood", "")),
-            )
+        # Aggregation results have dynamic computed keys; find mode has known fields.
+        # Detect by checking whether standard place fields are present.
+        is_aggregation = "name" not in docs[0] and "_id" in docs[0]
+        if is_aggregation:
+            # Rename _id → group_by for readability, show all computed fields
+            cols = list(docs[0].keys())
+            display_cols = ["group_by" if c == "_id" else c for c in cols]
+            for c in display_cols:
+                table.add_column(str(c))
+            for doc in docs[:20]:
+                row = []
+                for c in cols:
+                    v = doc.get(c, "")
+                    row.append(f"{v:.2f}" if isinstance(v, float) else str(v))
+                table.add_row(*row)
+        else:
+            for col in ["name", "rating", "vicinity", "neighbourhood"]:
+                table.add_column(col)
+            for doc in docs[:10]:
+                table.add_row(
+                    str(doc.get("name", "")),
+                    str(doc.get("rating", "")),
+                    str(doc.get("vicinity", ""))[:50],
+                    str(doc.get("neighbourhood", "")),
+                )
         console.print(table)
 
     elif tool_name == "search_reviews" and "results" in data:
@@ -326,17 +351,20 @@ async def planner_node(state: LakehouseState, llm) -> dict:
         "You are a routing agent for the NYC Airbnb data warehouse.\n"
         "Classify the question below and output ONLY valid JSON — no other text.\n\n"
         f"Question: {state['question']}\n\n"
-        "Available routes:\n"
-        "  warehouse         — listing counts, ratings, occupancy, noise, prices (SQL)\n"
-        "  geodata           — restaurant/bar/hotel/transit ratings and locations (MongoDB)\n"
-        "  semantic          — guest review text, neighbourhood character (vector search)\n"
-        "  geodata+warehouse — place quality (MongoDB) + listing stats (SQL)\n"
-        "  warehouse+semantic — listing stats (SQL) + review/context text\n\n"
-        "Route selection rules:\n"
-        "  - 'best rated restaurants' or 'top places' → needs geodata\n"
-        "  - 'occupancy', 'listings count', 'average price' → needs warehouse\n"
-        "  - If question asks about BOTH places AND listings/occupancy → geodata+warehouse\n"
-        "  - If question asks about stats AND what guests say → warehouse+semantic\n\n"
+        "DATA SOURCES:\n"
+        "  warehouse  — SQL database: Airbnb listing counts, occupancy rates, review\n"
+        "               scores, host stats, noise complaints, seasonal trends\n"
+        "  geodata    — MongoDB: places with types=['restaurant','bar','lodging',\n"
+        "               'tourist_attraction','transit_station','cafe','park','museum',...]\n"
+        "               Fields: name, rating (1-5), user_ratings_total, neighbourhood, borough\n"
+        "  semantic   — Vector search: guest review text, Wikipedia neighbourhood descriptions\n\n"
+        "ROUTING EXAMPLES (follow these exactly):\n"
+        '  "best rated restaurants by borough"          → {"route": "geodata", "geo_intent": "average restaurant rating per borough"}\n'
+        '  "top bars in Brooklyn"                       → {"route": "geodata", "geo_intent": "bars in Brooklyn sorted by rating"}\n'
+        '  "which borough has most listings"            → {"route": "warehouse", "warehouse_intent": "listing count by borough"}\n'
+        '  "what do guests say about noise"             → {"route": "semantic", "semantic_intent": "noise complaints in reviews"}\n'
+        '  "restaurant quality and occupancy by borough"→ {"route": "geodata+warehouse", "geo_intent": "avg restaurant rating per borough", "warehouse_intent": "avg occupancy per borough"}\n'
+        '  "listing stats and guest impressions"        → {"route": "warehouse+semantic", "warehouse_intent": "listing stats", "semantic_intent": "guest experience"}\n\n'
         'Output this JSON structure:\n'
         '{"route": "warehouse|geodata|semantic|geodata+warehouse|warehouse+semantic",\n'
         ' "warehouse_intent": "SQL task description or null",\n'
@@ -358,6 +386,34 @@ async def planner_node(state: LakehouseState, llm) -> dict:
     except Exception:
         plan  = {}
         route = "warehouse"
+
+    # Routing correction — data-driven safety net.
+    # Uses _GEO_PLACE_TYPES (derived from actual MongoDB types field values)
+    # rather than hand-picked keywords, so it covers the full category set.
+    # Also catches generic place phrases ("places near", "best rated venues").
+    q = state["question"].lower()
+    _WAREHOUSE_SIGNALS = frozenset({
+        "occupancy", "listing", "price", "host", "review score",
+        "noise", "complaint", "season", "how many", "average rating",
+    })
+    _GEO_PHRASES = ("places near", "near me", "best rated", "top rated",
+                    "highest rated", "where to eat", "where to drink",
+                    "venues in", "spots in")
+
+    has_geo = (
+        any(pt in q for pt in _GEO_PLACE_TYPES)
+        or any(ph in q for ph in _GEO_PHRASES)
+    )
+    has_warehouse = any(sig in q for sig in _WAREHOUSE_SIGNALS)
+
+    if has_geo and not has_warehouse and route not in ("geodata", "geodata+warehouse"):
+        route = "geodata"
+        if not plan.get("geo_intent"):
+            plan["geo_intent"] = state["question"]
+    elif has_geo and has_warehouse and route not in ("geodata+warehouse",):
+        route = "geodata+warehouse"
+        if not plan.get("geo_intent"):
+            plan["geo_intent"] = state["question"]
 
     route_display = {
         "warehouse":          "warehouse",
@@ -455,42 +511,88 @@ async def geo_node(state: LakehouseState, llm, tool) -> dict:
     """
     intent = (state["intents"].get("geo_intent") or state["question"]).strip()
 
-    geo_prompt = (
-        "Generate a MongoDB query for the NYC Airbnb 'places' collection.\n\n"
-        f"Task: {intent}\n\n"
-        "Document fields: name, neighbourhood, borough,\n"
-        "  types (values: 'restaurant', 'bar', 'lodging', 'tourist_attraction',\n"
-        "         'transit_station'),\n"
-        "  rating (float), user_ratings_total (int), vicinity (address string),\n"
-        "  price_level (0-4)\n\n"
-        "Output ONLY valid JSON:\n"
-        '{"filter": {"neighbourhood": "...", "types": "..."}, '
-        '"limit": 10, "sort": [["rating", -1]]}\n\n'
-        "Only include filter fields that are relevant. Do not invent field names."
-    )
+    # Detect whether the intent requires aggregation (grouping/averaging across
+    # documents) or a simple document lookup.
+    _AGG_KEYWORDS = ("average", "avg", "best rated", "top rated", "highest rating",
+                     "by borough", "per borough", "by neighbourhood", "group",
+                     "count by", "ranking", "compare")
+    needs_aggregation = any(kw in intent.lower() for kw in _AGG_KEYWORDS)
+
+    # Build the types string for the prompt from the canonical set
+    types_list = ", ".join(sorted(_GEO_PLACE_TYPES - {"food", "establishment", "point_of_interest"}))
+
+    if needs_aggregation:
+        geo_prompt = (
+            "Generate a MongoDB aggregation pipeline for the 'places' collection.\n\n"
+            f"Task: {intent}\n\n"
+            "IMPORTANT — document structure:\n"
+            f"  types  : ARRAY of strings, e.g. ['restaurant','food','point_of_interest']\n"
+            f"           Known values: {types_list}\n"
+            "  rating : float (1.0-5.0), may be missing — always filter with $exists\n"
+            "  borough: string — 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
+            "  neighbourhood: string\n\n"
+            "IMPORTANT — MongoDB array matching:\n"
+            "  To match documents where types array contains 'restaurant':\n"
+            '  {"$match": {"types": "restaurant"}}  ← MongoDB checks if array contains value\n\n'
+            "Output ONLY valid JSON:\n"
+            '{"pipeline": [stage1, stage2, ...]}\n\n'
+            "Example — average restaurant rating per borough:\n"
+            '{"pipeline": [\n'
+            '  {"$match": {"types": "restaurant", "rating": {"$exists": true, "$gt": 0}}},\n'
+            '  {"$group": {"_id": "$borough",\n'
+            '              "avg_rating": {"$avg": "$rating"},\n'
+            '              "place_count": {"$sum": 1}}},\n'
+            '  {"$sort": {"avg_rating": -1}}\n'
+            "]}\n\n"
+            "Rules: $match first, then $group (use _id for the group-by field with $ prefix),\n"
+            "then $sort. Use $avg/$sum/$max operators inside $group."
+        )
+    else:
+        geo_prompt = (
+            "Generate a MongoDB find query for the 'places' collection.\n\n"
+            f"Task: {intent}\n\n"
+            "IMPORTANT — document structure:\n"
+            f"  types  : ARRAY of strings, e.g. ['restaurant','food','point_of_interest']\n"
+            f"           Known values: {types_list}\n"
+            "  rating : float (1.0-5.0)\n"
+            "  borough: string — 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
+            "  neighbourhood: string, name, vicinity, price_level (0-4)\n\n"
+            "To filter by type: {\"types\": \"restaurant\"} matches any doc where the array\n"
+            "contains 'restaurant'.\n\n"
+            "Output ONLY valid JSON:\n"
+            '{"filter": {"types": "restaurant", "neighbourhood": "..."}, '
+            '"limit": 10, "sort": [["rating", -1]]}\n\n'
+            "Only include filter fields relevant to the task."
+        )
 
     _stop_spinner()
     response = await llm.ainvoke(geo_prompt)
     _start_spinner()
 
-    # Robust JSON parse with sanitisation
-    params: dict = {"collection": "places", "filter": {}, "limit": 10}
+    params: dict = {"collection": "places"}
+
     try:
-        text = re.sub(r"```json\s*|\s*```", "", response.content).strip()
+        text   = re.sub(r"```json\s*|\s*```", "", response.content).strip()
         parsed = json.loads(text)
-        params["filter"] = parsed.get("filter", {})
-        params["limit"]  = min(int(parsed.get("limit", 10)), 50)
-        raw_sort = parsed.get("sort")
-        if raw_sort:
-            clean = [
-                [item[0], item[1] if isinstance(item[1], int) else -1]
-                for item in raw_sort
-                if isinstance(item, list) and len(item) == 2
-            ]
-            if clean:
-                params["sort"] = clean
+
+        if needs_aggregation and "pipeline" in parsed:
+            params["pipeline"] = parsed["pipeline"]
+        else:
+            # Find mode — sanitise filter/sort/limit
+            params["filter"] = parsed.get("filter", {})
+            params["limit"]  = min(int(parsed.get("limit", 10)), 50)
+            raw_sort = parsed.get("sort")
+            if raw_sort:
+                clean = [
+                    [item[0], item[1] if isinstance(item[1], int) else -1]
+                    for item in raw_sort
+                    if isinstance(item, list) and len(item) == 2
+                ]
+                if clean:
+                    params["sort"] = clean
     except Exception:
-        pass   # fall back to default empty filter
+        params["filter"] = {}
+        params["limit"]  = 10
 
     _stop_spinner()
     _print_tool_call("query_geodata", params)
@@ -498,11 +600,40 @@ async def geo_node(state: LakehouseState, llm, tool) -> dict:
 
     result = await tool.ainvoke(params)
     _stop_spinner()
+
+    # Retry once if aggregation pipeline failed
+    data, _ = _extract_result_data(result)
+    if data and "error" in data and needs_aggregation:
+        console.print(f"  [yellow]Pipeline error — retrying:[/yellow] {data['error'][:120]}")
+        retry_prompt = (
+            geo_prompt
+            + f"\n\nPrevious attempt failed: {data['error']}\n"
+            "Fix the pipeline and return only the corrected JSON."
+        )
+        _start_spinner("Querying Geodata...")
+        response2 = await llm.ainvoke(retry_prompt)
+        _stop_spinner()
+        try:
+            text2   = re.sub(r"```json\s*|\s*```", "", response2.content).strip()
+            parsed2 = json.loads(text2)
+            if "pipeline" in parsed2:
+                params["pipeline"] = parsed2["pipeline"]
+                params.pop("filter", None)
+                params.pop("limit", None)
+                params.pop("sort", None)
+        except Exception:
+            pass
+        _print_tool_call("query_geodata", params)
+        _start_spinner("Querying Geodata...")
+        result = await tool.ainvoke(params)
+        _stop_spinner()
+
     _print_tool_result("query_geodata", result)
     _start_spinner()
 
+    query_desc = json.dumps(params.get("pipeline", params.get("filter", {})))
     return {"tool_results": [{"tool": "query_geodata",
-                               "query": json.dumps(params["filter"]),
+                               "query": query_desc,
                                "result": result}]}
 
 
@@ -686,31 +817,43 @@ async def run_agent(question: str) -> str:
     Build and run the multi-agent graph for one question.
 
     Flow:
-      1. Connect to Ollama — two instances: main LLM + planner LLM (format=json)
+      1. Connect to Groq (preferred) or Ollama (fallback) LLMs
       2. Load MCP tools from server.py subprocess via MultiServerMCPClient
       3. Fetch live schema from PostgreSQL information_schema
       4. Build LangGraph StateGraph
       5. ainvoke — nodes print their own output as they execute
       6. Return synthesizer's final answer
+
+    LLM selection:
+      - If GROQ_API_KEY is set, uses ChatGroq (llama-3.3-70b-versatile by default)
+      - Otherwise falls back to local ChatOllama
     """
-    from langchain_ollama import ChatOllama
     from langchain_mcp_adapters.client import MultiServerMCPClient
 
-    model_name  = os.getenv("OLLAMA_MODEL", "llama3.2")
-    ollama_host = os.getenv("OLLAMA_HOST",  "http://localhost:11434")
-
-    # Main LLM — SQL generation, geo filter generation, synthesis
-    llm = ChatOllama(
-        model=model_name, base_url=ollama_host,
-        temperature=0, num_predict=1024,
-    )
-    # Planner LLM — format="json" constrains output to valid JSON
-    # This is the key improvement over the single-agent architecture: the
-    # routing decision is a constrained generation task, not free-text output.
-    planner_llm = ChatOllama(
-        model=model_name, base_url=ollama_host,
-        temperature=0, num_predict=300, format="json",
-    )
+    if os.getenv("GROQ_API_KEY"):
+        from langchain_groq import ChatGroq
+        groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        # Main LLM — SQL generation, geo filter generation, synthesis
+        llm = ChatGroq(model=groq_model, temperature=0)
+        # Planner LLM — JSON mode constrains routing output to valid JSON
+        planner_llm = ChatGroq(
+            model=groq_model, temperature=0,
+            model_kwargs={"response_format": {"type": "json_object"}},
+        )
+    else:
+        from langchain_ollama import ChatOllama
+        model_name  = os.getenv("OLLAMA_MODEL", "llama3.2")
+        ollama_host = os.getenv("OLLAMA_HOST",  "http://localhost:11434")
+        # Main LLM — SQL generation, geo filter generation, synthesis
+        llm = ChatOllama(
+            model=model_name, base_url=ollama_host,
+            temperature=0, num_predict=1024,
+        )
+        # Planner LLM — format="json" constrains output to valid JSON
+        planner_llm = ChatOllama(
+            model=model_name, base_url=ollama_host,
+            temperature=0, num_predict=300, format="json",
+        )
 
     # Load MCP tools — server.py spawned as stdio subprocess
     client = MultiServerMCPClient({
@@ -748,8 +891,13 @@ def main():
     parser.add_argument("-q", "--question", help="Single question (non-interactive)")
     args = parser.parse_args()
 
-    model = os.getenv("OLLAMA_MODEL", "llama3.2")
-    console.print(f"Agent initialising — model: [bold]{model}[/bold] | server: {SERVER_PATH.name}")
+    if os.getenv("GROQ_API_KEY"):
+        model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        backend = "groq"
+    else:
+        model = os.getenv("OLLAMA_MODEL", "llama3.2")
+        backend = "ollama"
+    console.print(f"Agent initialising — model: [bold]{model}[/bold] ({backend}) | server: {SERVER_PATH.name}")
 
     if args.question:
         console.print(f"\n[dim]Question:[/dim] {args.question}")

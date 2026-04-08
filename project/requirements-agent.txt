@@ -21,7 +21,8 @@ mcp==1.27.0       # FastMCP — tool registration and stdio transport
 # LangChain agent stack (versions pinned — see versions.txt for rationale)
 langchain==1.2.15
 langchain-core==1.2.26
-langchain-ollama==1.1.0
+langchain-ollama==1.1.0       # fallback LLM (local, no API key required)
+langchain-groq==1.1.2         # preferred LLM (free tier, fast inference)
 langchain-mcp-adapters==0.2.2
 langgraph==1.1.6
 
