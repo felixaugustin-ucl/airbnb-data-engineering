@@ -64,8 +64,14 @@ project/
 ├── agent/
 │   └── agent.py                   # LLM agent orchestrating MCP tools
 │
-├── docker-compose.yml             # PostgreSQL 15 + MongoDB 7.0 service stack
-├── requirements.txt               # Python dependencies
+├── docker/
+│   ├── postgres/01_readonly_role.sql  # Creates airbnb_readonly role on first start
+│   └── mongodb/01_readonly_user.js    # Creates airbnb_readonly user on first start
+│
+├── docker-compose.yml             # PostgreSQL 15 + MongoDB 7.0 + Ollama service stack
+├── Dockerfile                     # MCP server + agent container (Python 3.12-slim)
+├── requirements.txt               # Full Python dependencies (ingestion + transformation)
+├── requirements-agent.txt         # Lean subset for the agent container
 └── README.md
 ```
 
@@ -91,36 +97,148 @@ project/
 | MongoDB 7.0 | Geospatial operational store — neighbourhood boundaries, POI proximity | `airbnb_mongodb` |
 | ChromaDB (local) | Vector indexes — semantic review search, neighbourhood context retrieval | no container (persistent client) |
 
-Start all services: `docker-compose up -d`
+---
+
+## Prerequisites
+
+### All platforms
+
+- **Docker Desktop** — runs PostgreSQL, MongoDB, Ollama, and the agent container.
+  Download from [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop).
+  On Windows, enable WSL 2 backend in Docker Desktop settings.
+- **Python 3.10–3.12** — required for ingestion and transformation scripts.
+  Python 3.13 is **not supported** (`build_vector_index.py` uses PyTorch, which has
+  no 3.13 wheel). Use [python.org](https://www.python.org/downloads/) or Anaconda.
+- **Java 11+** — required by PySpark (`transform_star_schema.py` only).
+  Download from [https://adoptium.net](https://adoptium.net).
+
+### Windows-specific notes
+
+- Use **Command Prompt**, **PowerShell**, or **Git Bash** — all work.
+- Replace `python3` with `python` in all commands below if your PATH uses `python`.
+- `JAVA_HOME` must point to your JDK installation and be on `PATH` for PySpark.
+  Verify with: `java -version`
+- If using Anaconda, activate your environment before running pipeline scripts:
+  ```
+  conda activate <your-env>
+  python data_pipeline/transformation/build_vector_index.py --test
+  ```
+- The agent runs inside Docker (`docker-compose run --rm mcp-agent`) — no
+  Windows-specific Python setup needed for the agent layer.
 
 ---
 
-## Interpreter Requirements
+## Environment Setup
 
-| Script | Interpreter | Reason |
-|--------|------------|--------|
-| All ingestion scripts | `/usr/local/bin/python3` (3.13) | Standard |
-| `transform_star_schema.py` | `/usr/local/bin/python3` (3.13) | PySpark |
-| `load_mongodb.py` | `/usr/local/bin/python3` (3.13) | Standard |
-| `build_vector_index.py` | `/opt/anaconda3/bin/python3.12` | PyTorch has no wheel for Python 3.13 |
+```bash
+# 1. Copy the example env file and fill in your API keys
+cp .env.example ../.env        # Mac/Linux
+copy .env.example ..\.env      # Windows
+
+# 2. Install Python dependencies (ingestion + transformation scripts)
+pip install -r requirements.txt
+```
+
+Required keys — see `.env.example` for all variables:
+
+| Key | Used by | Where to get it |
+|-----|---------|-----------------|
+| `GOOGLE_PLACES_API_KEY` | `fetch_places.py` | Google Cloud Console |
+| `SOCRATA_APP_TOKEN` | `fetch_noise_complaints.py` | data.cityofnewyork.us |
+| `GROQ_API_KEY` | `agent.py` (production) | console.groq.com — free tier |
+
+---
+
+## `build_vector_index.py` Modes
+
+`build_vector_index.py` has two modes — choose based on your goal:
+
+| | Demo mode | Production mode |
+|---|---|---|
+| **Flag** | `--test` | _(no flag)_ |
+| **Reviews encoded** | 500 (stratified sample) | 50,000 (stratified sample) |
+| **ChromaDB path** | `processed/chromadb_test/` | `processed/chromadb/` |
+| **Overwrites production index** | No | Yes |
+| **Runtime** | ~1 minute | ~7 hours |
+| **Use when** | Verifying the pipeline end-to-end | Building the full index for deployment |
+
+The demo mode exercises the full stratified sampling and encoding logic — it just caps at 500 reviews. All other pipeline steps are unaffected by this flag.
 
 ---
 
 ## Running the Pipeline
 
+### Step 1 — Start databases
+
 ```bash
-# 1. Start databases
 docker-compose up -d
-
-# 2. Ingestion (run once — takes ~30 min total)
-python3 data_pipeline/ingestion/fetch_airbnb.py
-python3 data_pipeline/ingestion/fetch_places.py
-python3 data_pipeline/ingestion/fetch_wikipedia.py
-python3 data_pipeline/ingestion/fetch_weather.py
-python3 data_pipeline/ingestion/fetch_noise_complaints.py
-
-# 3. Transformation
-python3 data_pipeline/transformation/transform_star_schema.py  # ~5 min
-python3 data_pipeline/transformation/load_mongodb.py           # ~1 min
-/opt/anaconda3/bin/python3.12 data_pipeline/transformation/build_vector_index.py  # ~7 hrs
 ```
+
+This starts PostgreSQL, MongoDB, and Ollama. Database init scripts in
+`docker/postgres/` and `docker/mongodb/` create the read-only roles
+automatically on first start.
+
+---
+
+### Step 2 — Ingestion (run once, ~30 min total)
+
+```bash
+python data_pipeline/ingestion/fetch_airbnb.py
+python data_pipeline/ingestion/fetch_places.py
+python data_pipeline/ingestion/fetch_wikipedia.py
+python data_pipeline/ingestion/fetch_weather.py
+python data_pipeline/ingestion/fetch_noise_complaints.py
+```
+
+Scripts are idempotent — already-downloaded files are skipped on re-runs.
+
+---
+
+### Step 3 — Transformation
+
+```bash
+# Star schema (PySpark) — requires Java; ~5 min
+python data_pipeline/transformation/transform_star_schema.py
+
+# MongoDB load — ~1 min
+python data_pipeline/transformation/load_mongodb.py
+
+# Vector index — requires Python ≤ 3.12; demo mode ~1 min, full ~7 hrs
+python data_pipeline/transformation/build_vector_index.py --test   # demo
+python data_pipeline/transformation/build_vector_index.py          # full
+```
+
+---
+
+### Step 4 — Run the agent
+
+The agent runs inside the Docker container defined in `Dockerfile`.
+This is the recommended path on all platforms (Mac, Windows, Linux) —
+no local Python setup required for the agent layer.
+
+```bash
+# Pull the Ollama model (first time only — ~2 GB download)
+docker-compose exec ollama ollama pull llama3.2
+
+# Run the interactive agent
+docker-compose run --rm mcp-agent
+```
+
+The container connects to PostgreSQL, MongoDB, and Ollama via the Docker
+internal network. ChromaDB is mounted from
+`data_pipeline/processed/chromadb/` (or `chromadb_test/` in demo mode).
+
+> **Windows note:** if `chromadb_test/` was used in Step 3, update the
+> volume mount in `docker-compose.yml` temporarily:
+> `./data_pipeline/processed/chromadb_test:/app/chromadb`
+
+---
+
+## Stopping Services
+
+```bash
+docker-compose down          # stop containers, keep data volumes
+docker-compose down -v       # ⚠ DESTRUCTIVE — deletes all database data
+```
+
+---

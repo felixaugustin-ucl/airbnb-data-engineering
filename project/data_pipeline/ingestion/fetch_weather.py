@@ -7,8 +7,6 @@ Fetches historical daily weather data for NYC from Open-Meteo's free archive API
 
 The date range is derived from actual review dates across all Airbnb snapshots,
 minus a 10-day lookback to cover the stay period preceding each review.
-At transformation time, weather is joined per review as the average of the
-10 days before the review date.
 
 Also writes a lineage.json to raw/weather/ on each run.
 

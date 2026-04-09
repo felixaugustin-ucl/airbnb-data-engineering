@@ -57,6 +57,7 @@ Environment variables (from .env):
     MAX_REVIEWS   — total review cap after stratified sampling (default: 50000)
 """
 
+import argparse
 import json
 import logging
 import math
@@ -540,14 +541,29 @@ def write_lineage(lineage: dict):
 # ── Main ───────────────────────────────────────────────────────────────────────
 
 def run():
+    parser = argparse.ArgumentParser(description="Build ChromaDB vector indexes.")
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help=(
+            "Test mode: encode only 500 reviews, write to chromadb_test/ "
+            "(never overwrites the production index)."
+        ),
+    )
+    args = parser.parse_args()
+
     load_dotenv(REPO_ROOT / ".env")
 
-    chroma_path = os.getenv(
-        "CHROMA_PATH",
-        str(DATA_PIPELINE_DIR / "processed" / "chromadb")
-    )
-
-    max_reviews = int(os.getenv("MAX_REVIEWS", MAX_REVIEWS_DEFAULT))
+    if args.test:
+        max_reviews = 500
+        chroma_path = str(DATA_PIPELINE_DIR / "processed" / "chromadb_test")
+        log.info("TEST MODE — max_reviews=500, path=%s", chroma_path)
+    else:
+        max_reviews = int(os.getenv("MAX_REVIEWS", MAX_REVIEWS_DEFAULT))
+        chroma_path = os.getenv(
+            "CHROMA_PATH",
+            str(DATA_PIPELINE_DIR / "processed" / "chromadb")
+        )
 
     snapshot  = latest_snapshot()
     run_start = datetime.now(timezone.utc).isoformat()
@@ -555,6 +571,7 @@ def run():
         "run_started_at": run_start,
         "encoder":        ENCODER_MODEL,
         "max_reviews":    max_reviews,
+        "test_mode":      args.test,
     }
 
     # Load encoder once — reused for both indexes
