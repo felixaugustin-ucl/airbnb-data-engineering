@@ -1,0 +1,397 @@
+{
+  "branch": "HEAD",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many listings are there in total?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 194.5,
+      "answer": "I was unable to retrieve data for this question \u2014 all tool calls returned errors. Please try rephrasing, or check that the databases are running."
+    },
+    {
+      "id": 2,
+      "question": "What is the average review score across all listings?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 134.7,
+      "answer": "Based on the provided data, there is no average review score available for all listings. The data only provides averages for occupancy, accommodates, beds, bathrooms, and complaints across different months, but does not include a column for review scores.\n\nHowever, we can infer that the average review score is likely to be low or non-existent, as the \"avg_complaints\" value is null for both December and November. This suggests that there may be no reviews available for these listings, making it i"
+    },
+    {
+      "id": 3,
+      "question": "What are the top 5 highest-rated restaurants in Manhattan?",
+      "difficulty": 1,
+      "expected_route": "geodata",
+      "expected_tools": [
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 133.4,
+      "answer": "I can't provide information about the top-rated restaurants in Manhattan based on the provided data. The data appears to be related to Airbnb listings and does not contain any information about restaurants. Can I help you with something else?"
+    },
+    {
+      "id": 4,
+      "question": "What do guests typically say about the check-in experience?",
+      "difficulty": 1,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.5,
+      "elapsed_seconds": 137.8,
+      "answer": "Based on the provided data, there is no direct information about guest comments or reviews regarding the check-in experience. The data only provides statistics such as average occupancy and complaints for each month.\n\nHowever, we can infer that guests had some issues with check-in since \"avg_complaints\" is null for both December and November, indicating that there were no complaints recorded in the provided data."
+    },
+    {
+      "id": 5,
+      "question": "How many superhosts are there in the dataset?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 145.9,
+      "answer": "Unfortunately, the provided dataset does not contain any information about superhosts. The terms \"superhost\" and related metrics such as \"avg_complaints\" are not mentioned in the retrieved data. Therefore, it is impossible to determine the number of superhosts based on this dataset."
+    },
+    {
+      "id": 6,
+      "question": "Which borough has the highest average listing occupancy rate?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 146.9,
+      "answer": "Based on the provided data, there is no borough with a listed average occupancy rate. The data only shows two months (December and November) with available listings, but neither of them has an average occupancy rate greater than 0.0."
+    },
+    {
+      "id": 7,
+      "question": "What is the average restaurant rating per borough?",
+      "difficulty": 2,
+      "expected_route": "geodata",
+      "expected_tools": [
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 151.6,
+      "answer": "I was unable to retrieve data for this question \u2014 all tool calls returned errors. Please try rephrasing, or check that the databases are running."
+    },
+    {
+      "id": 8,
+      "question": "How do review scores vary by room type?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 125.9,
+      "answer": "Based on the provided data, we can analyze the average review scores by room type. However, the data does not provide explicit review scores or ratings for each room type.\n\nThe data only provides information about the total number of listings and their respective averages (occupancy, accommodates, beds, bathrooms) for two months: December and November. There is no mention of review scores or ratings.\n\nTherefore, we cannot determine how review scores vary by room type based on the provided data."
+    },
+    {
+      "id": 9,
+      "question": "Which borough has the most noise complaints overall, and what are the peak months?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 144.9,
+      "answer": "Based on the provided data, I can only analyze the noise complaints for one month, as that information is missing for all other months.\n\nThe borough with the most noise complaints overall is not explicitly stated in the data, as there is no information about the number of noise complaints per borough or any specific borough's total complaints. However, we can look at the average complaints per listing for each month:\n\n- December: No complaints\n- November: No complaints\n\nSince there are no compla"
+    },
+    {
+      "id": 10,
+      "question": "What do guests say about staying in Harlem?",
+      "difficulty": 2,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.5,
+      "elapsed_seconds": 122.1,
+      "answer": "Based on the provided data, here is what guests say about staying in Harlem:\n\n* In December, there were no guest reviews or complaints.\n* In November, 4 listings had an average occupancy of 0%, indicating that none of these listings were occupied during this month.\n\nNote: The data does not provide any information about guest reviews or comments about the quality of accommodations in Harlem."
+    },
+    {
+      "id": 11,
+      "question": "Do instant-bookable listings have higher occupancy rates than non-instant-bookable ones?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 120.6,
+      "answer": "Based on the provided data, we can only analyze the average occupancy rates for two months: December and November.\n\nFor December:\n- Total listings: 37\n- Average occupancy: 0.0\n\nFor November:\n- Total listings: 4\n- Average occupancy: 0.0\n\nSince there are no non-instant-bookable listings in the data, we cannot directly compare their average occupancy rates to instant-bookable ones.\n\nHowever, we can observe that both December and November have an average occupancy rate of 0.0, indicating that neithe"
+    },
+    {
+      "id": 12,
+      "question": "Which month sees the most guest reviews on average across all years?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 153.7,
+      "answer": "Based on the provided data, we can calculate the total number of guest reviews for each month.\n\nSince the data only provides the average occupancy and no actual review count, we cannot directly determine which month has the most guest reviews. However, we can make an educated guess by assuming that a higher average occupancy rate might indicate more guest reviews.\n\nFrom the provided data, November has an average occupancy of 0.0, while December has an average occupancy of 0.0 as well. This sugge"
+    },
+    {
+      "id": 13,
+      "question": "Which boroughs have the highest restaurant density and how does that compare to their average Airbnb review scores?",
+      "difficulty": 3,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": [
+        "query_geodata",
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.5,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 137.9,
+      "answer": "Based on the provided data, I was unable to determine which boroughs have the highest restaurant density or their average Airbnb review scores. The data only includes two months (December and November) with limited information about total listings, occupancy, and accommodations.\n\nThe data does not provide enough information to calculate restaurant density or compare it to Airbnb review scores."
+    },
+    {
+      "id": 14,
+      "question": "What do Wikipedia articles say about the West Village and what do Airbnb guests say about staying there?",
+      "difficulty": 3,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 172.8,
+      "answer": "Based on the provided data from Airbnb, here are some observations about the West Village:\n\n1. In December, there were 37 total listings available.\n2. The average occupancy rate for these listings was 0.0%, indicating that no bookings occurred during this month.\n\nIn November, there were only 4 total listings available, with an average occupancy rate of 0.0%. This suggests that the West Village may not be a popular destination for Airbnb guests during this time of year.\n\nIt's worth noting that th"
+    },
+    {
+      "id": 15,
+      "question": "Is there a relationship between the number of points of interest in a neighbourhood and its average listing review score?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 201.9,
+      "answer": "Based on the provided data, there is no direct relationship between the number of points of interest in a neighborhood and its average listing review score.\n\nThe data does not provide any information about the number of points of interest in each neighborhood or the average listing review scores for those neighborhoods. The only available data is for two specific months (December and November) with limited information, including:\n\n- December: 37 total listings, avg occupancy = 0.0\n- November: 4 "
+    },
+    {
+      "id": 16,
+      "question": "How does the season affect review volume \u2014 are there significantly more reviews in summer than in winter?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 157.7,
+      "answer": "Based on the provided data, there is no direct comparison of review volume between summer and winter months. The data only shows reviews for December and November.\n\nHowever, we can make an educated guess about the seasonality of reviews based on typical seasonal trends in NYC. Summer is a peak tourist season in NYC, while winter is typically quieter.\n\nIf we assume that more listings are available during the summer months (June to August) compared to the winter months (December to February), it's"
+    },
+    {
+      "id": 17,
+      "question": "What distinguishes superhosts from regular hosts in terms of listing occupancy and guest satisfaction?",
+      "difficulty": 3,
+      "expected_route": "warehouse+semantic",
+      "expected_tools": [
+        "query_warehouse",
+        "search_reviews"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.5,
+      "elapsed_seconds": 151.0,
+      "answer": "Based on the provided data, superhosts and regular hosts can be distinguished by their listing occupancy and guest satisfaction as follows:\n\n1. Occupancy: The average occupancy for superhosts is 0.0, indicating that they are not fully booked during any month. In contrast, the average occupancy for regular hosts in November is 0.0, but there are only 4 listings, suggesting that these hosts may have a higher occupancy rate compared to superhosts.\n2. Accommodates: The average accommodates for super"
+    },
+    {
+      "id": 18,
+      "question": "Do boroughs with higher noise complaint rates tend to have lower Airbnb review scores?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 127.3,
+      "answer": "Based on the provided data, there is no direct correlation between noise complaint rates and Airbnb review scores. The data only provides information on total listings, average occupancy, average accommodates, average beds, average bathrooms, and average complaints for two months (December and November).\n\nThere are no specific numbers or statistics available to determine if boroughs with higher noise complaint rates tend to have lower Airbnb review scores. The data does not provide this informat"
+    },
+    {
+      "id": 19,
+      "question": "Which neighbourhood offers the best overall value for guests, considering review scores, minimum nights, and transit access?",
+      "difficulty": 4,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": [
+        "query_warehouse",
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.5,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 116.3,
+      "answer": "Based on the provided data, it is not possible to determine which neighborhood offers the best overall value for guests. The data only provides information about two months (December and November) and does not include any neighborhood-specific information.\n\nThe data also lacks essential metrics such as review scores, minimum nights, and transit access, making it impossible to make a meaningful comparison between neighborhoods.\n\nTherefore, no conclusion can be drawn from the provided data regardi"
+    },
+    {
+      "id": 20,
+      "question": "How does weather \u2014 specifically precipitation and temperature \u2014 correlate with the number of guest reviews? Do bad weather periods generate more or fewer reviews?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 111.0,
+      "answer": "Based on the provided data, there is no direct correlation between weather conditions (precipitation and temperature) and the number of guest reviews. The data only provides information about the total number of listings for two months (December and November), but does not include any data on guest reviews or weather patterns.\n\nTherefore, it is not possible to determine whether bad weather periods generate more or fewer reviews based solely on this data."
+    }
+  ],
+  "summary": {
+    "n": 20,
+    "avg_route_accuracy": 0.05,
+    "avg_tool_coverage": 0.85,
+    "avg_faithfulness": 0.81,
+    "avg_elapsed_s": 144.4
+  }
+}
