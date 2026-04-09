@@ -258,11 +258,9 @@ def query_geodata(
 
         # ── Aggregate mode ─────────────────────────────────────────────────────
         if pipeline:
-            # Append $project to strip _id from aggregation results
-            has_project = any("$project" in stage for stage in pipeline)
-            if not has_project:
-                pipeline = pipeline + [{"$project": {"_id": 0}}]
-
+            # Do NOT auto-strip _id — in $group pipelines _id IS the group-by
+            # value (e.g. the borough name). The display layer renames it to
+            # group_by for readability.
             docs = list(col.aggregate(pipeline))
             return json.dumps(
                 {"documents": docs, "count": len(docs)},

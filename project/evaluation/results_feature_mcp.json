@@ -1,0 +1,359 @@
+{
+  "branch": "feature/mcp",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many listings are there in total?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 124.3,
+      "answer": "There are a total of 36,445 listings in the NYC Airbnb Hospitality Lakehouse."
+    },
+    {
+      "id": 2,
+      "question": "What is the average review score across all listings?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 142.6,
+      "answer": "To find the average review score across all listings, we need to join the fact_review table with the dim_listing table. Here's another attempt:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\": \"SELECT AVG(t.review_scores_rating) FROM fact_review t JOIN dim_listing l ON t.listing_id = l.listing_id\"}}"
+    },
+    {
+      "id": 3,
+      "question": "What are the top 5 highest-rated restaurants in Manhattan?",
+      "difficulty": 1,
+      "expected_route": "geodata",
+      "expected_tools": [
+        "query_geodata"
+      ],
+      "tools_called": [
+        "search_reviews"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 117.7,
+      "answer": "It seems like there was an error with the tool call. Let me try again.\n\n{\"name\": \"search_reviews\", \"parameters\": {\"n_results\": \"5\", \"query\": \"top rated restaurants in Manhattan\", \"where\": \"{}\"}}"
+    },
+    {
+      "id": 4,
+      "question": "What do guests typically say about the check-in experience?",
+      "difficulty": 1,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews"
+      ],
+      "tools_called": [
+        "search_reviews"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 125.2,
+      "answer": "It seems like there was an error with the tool call. Let me try again.\n\nTo answer your question, I'll use the search_reviews tool to find what guests typically say about the check-in experience.\n\n{\"name\": \"search_reviews\", \"parameters\": {\"query\":\"check in experience\",\"n_results\":\"10\"}}"
+    },
+    {
+      "id": 5,
+      "question": "How many superhosts are there in the dataset?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 113.9,
+      "answer": "There are 3,377 superhosts in the dataset."
+    },
+    {
+      "id": 6,
+      "question": "Which borough has the highest average listing occupancy rate?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 162.1,
+      "answer": "To answer the question, we need to calculate the average listing occupancy rate for each borough. We can do this by joining the fact_review table with dim_listing and dim_neighbourhood tables.\n\nHere's the corrected query:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\": \"SELECT n.borough, AVG(f.reviews_count * e.occupancy) AS avg_occupancy FROM fact_review f JOIN listing l ON f.listing_id = l.listing_id JOIN dim_listing d ON l.listing_id = d.listing_id JOIN dim_neighbourhood n ON d.neighbourho"
+    },
+    {
+      "id": 7,
+      "question": "What is the average restaurant rating per borough?",
+      "difficulty": 2,
+      "expected_route": "geodata",
+      "expected_tools": [
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 162.4,
+      "answer": "To answer the question, we need to join the \"places\" collection with the \"dim_neighbourhood\" collection. Here's the corrected query:\n\n{\"name\": \"query_geodata\", \"parameters\": {\"collection\": \"neighbourhoods\", \"filter\": \"{\\\"$lookup\\\": {\\\"localField\\\": \\\"neighbourhood\\\", \\\"foreignField\\\": \\\"neighbourhood_id\\\", \\\"toField\\\": \\\"borough\\\"}}\"}}"
+    },
+    {
+      "id": 8,
+      "question": "How do review scores vary by room type?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 136.4,
+      "answer": "To answer the question, we need to group by both room type and review scores rating. Here is the corrected query:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\":\"SELECT review_scores_rating, room_type FROM dim_listing GROUP BY room_type, review_scores_rating ORDER BY AVG(review_scores_rating) DESC LIMIT 10\"}}"
+    },
+    {
+      "id": 9,
+      "question": "Which borough has the most noise complaints overall, and what are the peak months?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.17,
+      "elapsed_seconds": 185.8,
+      "answer": "The borough with the most noise complaints overall is Queens, Brooklyn, Staten Island, Manhattan, and Bronx, all tied with 29 complaints each.\n\nThe peak months for noise complaints are May (207475 complaints), June (197697 complaints), September (184514 complaints), July (177763 complaints), and August (177034 complaints)."
+    },
+    {
+      "id": 10,
+      "question": "What do guests say about staying in Harlem?",
+      "difficulty": 2,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "tools_called": [
+        "search_reviews"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 0.5,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 114.0,
+      "answer": "It seems like there was an error with the tool call. Let me try again.\n\nTo answer your question, I'll use the search_reviews tool to find what guests say about staying in Harlem. Here's another attempt:\n\n{\"name\": \"search_reviews\", \"parameters\": {\"query\": \"Harlem\", \"where\": \"{}\"}}"
+    },
+    {
+      "id": 11,
+      "question": "Do instant-bookable listings have higher occupancy rates than non-instant-bookable ones?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 164.0,
+      "answer": "To answer the question, we need to calculate the average occupancy rate for instant-bookable listings and non-instant-bookable listings separately.\n\nLet's first get the average occupancy rates for both types of listings:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\": \"SELECT AVG(occupancy_rate) FROM fact_review WHERE listing_id IN (SELECT listing_id FROM dim_listing WHERE instant_bookable = TRUE) UNION SELECT AVG(occupancy_rate) FROM fact_review WHERE listing_id IN (SELECT listing_id FROM di"
+    },
+    {
+      "id": 12,
+      "question": "Which month sees the most guest reviews on average across all years?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 122.2,
+      "answer": "Based on the average date of guest reviews across all years, it appears that Spring is the month with the most guest reviews, with an average of approximately 12,726 days per year. This suggests that guests are more active during the spring season, possibly due to warmer weather and longer days."
+    },
+    {
+      "id": 13,
+      "question": "Which boroughs have the highest restaurant density and how does that compare to their average Airbnb review scores?",
+      "difficulty": 3,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": [
+        "query_geodata",
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "query_warehouse",
+        "query_geodata"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 188.8,
+      "answer": "To get the average Airbnb review scores for each borough, we need to join the fact_review table with the dim_date and dim_neighbourhood tables.\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\": \"SELECT b.borough, AVG(r.review_scores_rating) as avg_review FROM fact_review r JOIN dim_date d USING(date_id) JOIN dim_neighbourhood n ON d.date_id = n.date_id AND r.listing_id = n.listing_id GROUP BY b.borough\"}}"
+    },
+    {
+      "id": 14,
+      "question": "What do Wikipedia articles say about the West Village and what do Airbnb guests say about staying there?",
+      "difficulty": 3,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "tools_called": [
+        "get_neighbourhood_context",
+        "search_reviews"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 178.0,
+      "answer": "The Wikipedia articles about the West Village describe it as a charming and historic neighborhood in Lower Manhattan, known for its bohemian vibe, trendy restaurants and bars, and picturesque streets. The neighborhood is also home to many iconic landmarks, such as the Stonewall Inn and Washington Square Park.\n\nAirbnb guests who have stayed in the West Village report that they love the area's unique energy and charm. Many reviewers mention the neighborhood's proximity to public transportation, ma"
+    },
+    {
+      "id": 15,
+      "question": "Is there a relationship between the number of points of interest in a neighbourhood and its average listing review score?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 150.9,
+      "answer": "To answer the question, we need to join the `dim_listing` table with the `fact_review` table and use the correct column name. Here's another attempt:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\":\"SELECT l.property_type, AVG(r.review_scores_rating) FROM dim_listing l JOIN fact_review r USING (listing_id) GROUP BY l.property_type\"}}"
+    },
+    {
+      "id": 16,
+      "question": "How does the season affect review volume \u2014 are there significantly more reviews in summer than in winter?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 149.7,
+      "answer": "Based on the review volume data, it appears that there is a seasonal pattern in review volume. The top 5 dates with the highest review counts are all in late summer or early fall (August and September), with an average of around 1000-1100 reviews per date. In contrast, the earliest date with a high review count is in January, which has around 950 reviews.\n\nThis suggests that there may be more reviews in the summer months than in the winter months, as expected. However, it's worth noting that the"
+    },
+    {
+      "id": 17,
+      "question": "What distinguishes superhosts from regular hosts in terms of listing occupancy and guest satisfaction?",
+      "difficulty": 3,
+      "expected_route": "warehouse+semantic",
+      "expected_tools": [
+        "query_warehouse",
+        "search_reviews"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.5,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 148.6,
+      "answer": "To answer your question, I'll need to join the tables. Here's another attempt:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"limit\":\"100\",\"sql\":\"SELECT AVG(fact_review.occupancy) AS avg_occupancy, AVG(fact_review.guest_satisfaction) AS avg_guest_satisfaction FROM fact_review JOIN dim_host ON fact_review.host_id = dim_host.host_id WHERE dim_host.host_is_superhost = TRUE\"}}"
+    },
+    {
+      "id": 18,
+      "question": "Do boroughs with higher noise complaint rates tend to have lower Airbnb review scores?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 151.3,
+      "answer": "To answer the question, we need to join the fact_review table with the dim_neighbourhood table and then group by borough. We also need to calculate the average review scores for each borough.\n\nHere is the corrected query:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"sql\":\"SELECT AVG(f.reviews_rating) AS avg_rating FROM ( SELECT review_scores_rating AS reviews_rating FROM fact_review JOIN dim_neighbourhood n ON fact_review.neighbourhood_id = n.neighbourhood_id GROUP BY n.borough ) f GROUP BY boro"
+    },
+    {
+      "id": 19,
+      "question": "Which neighbourhood offers the best overall value for guests, considering review scores, minimum nights, and transit access?",
+      "difficulty": 4,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": [
+        "query_warehouse",
+        "query_geodata"
+      ],
+      "tools_called": [],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 129.5,
+      "answer": "{\"name\": \"query_warehouse\", \"parameters\": {\"sql\": \"SELECT l.listing_id, l.property_type, n.borough, n.poi_transit_station, AVG(r.review_scores_rating) AS avg_review_score, MIN(l.minimum_nights) AS min_nights, (n.poi_transit_station IS NOT NULL) AS has_transit FROM dim_listing l JOIN dim_neighbourhood n ON l.neighbourhood_id = n.neighbourhood_id JOIN fact_review r USING (listing_id) GROUP BY l.listing_id, n.borough, n.poi_transit_station\", \"limit\": {\"type\": \"integer\", \"max\": 1000}}"
+    },
+    {
+      "id": 20,
+      "question": "How does weather \u2014 specifically precipitation and temperature \u2014 correlate with the number of guest reviews? Do bad weather periods generate more or fewer reviews?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 72.5,
+      "answer": "The query_warehouse tool call was not successful. The error message indicates that the column \"date_id\" does not exist in the fact_review_weather table.\n\nLet me try again with a corrected query:\n\n{\"name\": \"query_warehouse\", \"parameters\": {\"limit\":{},\"sql\":\"SELECT AVG(temperature_max), COUNT(*) FROM fact_review_weather WHERE weathercode IN (61,63,65) AND review_date BETWEEN DATE_TRUNC('month', CURRENT_DATE - INTERVAL '6 month') AND DATE_TRUNC('month', CURRENT_DATE)\"}}"
+    }
+  ],
+  "summary": {
+    "n": 20,
+    "avg_route_accuracy": 0.8,
+    "avg_tool_coverage": 0.8,
+    "avg_faithfulness": 0.37,
+    "avg_elapsed_s": 142.0
+  }
+}

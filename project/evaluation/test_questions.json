@@ -1,0 +1,190 @@
+{
+  "description": "20 evaluation questions for the NYC Airbnb Hospitality Lakehouse agent. Used to compare feature/mcp (single-agent Ollama), feature/multi-agent (multi-agent Ollama), and feature/react-agent (multi-agent Groq). Difficulty 1-4. Faithfulness score: fraction of answer claims supported by retrieved tool results.",
+  "scoring": {
+    "faithfulness": "warehouse/geodata → heuristic numeric overlap; semantic → Gemini Flash independent judge",
+    "route_accuracy": "1 if agent took expected_route, 0 otherwise",
+    "tool_coverage": "fraction of expected_tools actually called"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many listings are there in total?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "A single integer in the range 30,000–45,000. Answer must state a specific number — not a range.",
+      "notes": "Simple COUNT(*) on dim_listing — no JOIN needed. Baseline sanity check."
+    },
+    {
+      "id": 2,
+      "question": "What is the average review score across all listings?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "A decimal between 4.5 and 4.9 (NYC Airbnb scores are high on average). Answer should include exactly one number.",
+      "notes": "Single AVG on review_scores_rating. No JOIN or GROUP BY required."
+    },
+    {
+      "id": 3,
+      "question": "What are the top 5 highest-rated restaurants in Manhattan?",
+      "difficulty": 1,
+      "expected_route": "geodata",
+      "expected_tools": ["query_geodata"],
+      "expected_answer": "A list of 5 restaurant names with ratings of 4.5 or above. All should be in Manhattan (borough field). No ratings above 5.0.",
+      "notes": "MongoDB find with filter {types: 'restaurant', borough: 'Manhattan'}, sort rating desc, limit 5."
+    },
+    {
+      "id": 4,
+      "question": "What do guests typically say about the check-in experience?",
+      "difficulty": 1,
+      "expected_route": "semantic",
+      "expected_tools": ["search_reviews"],
+      "expected_answer": "Qualitative themes: smooth/easy process, key lockboxes or self check-in, host responsiveness, clear instructions. Should not contain specific statistics fabricated beyond what reviews say.",
+      "notes": "Direct semantic search. No structured data needed. Tests ChromaDB retrieval quality."
+    },
+    {
+      "id": 5,
+      "question": "How many superhosts are there in the dataset?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "A single integer, expected to be between 5,000 and 15,000 (roughly 20-40% of hosts are superhosts in NYC).",
+      "notes": "COUNT with WHERE host_is_superhost = true on dim_host. Note: host_is_superhost is NOT in dim_listing — only in dim_host."
+    },
+    {
+      "id": 6,
+      "question": "Which borough has the highest average listing occupancy rate?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "One of the five NYC boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island). Manhattan or Brooklyn most likely. Must be supported by a specific percentage or decimal figure.",
+      "notes": "AVG(estimated_occupancy_l365d) GROUP BY borough. Requires JOIN dim_listing → dim_neighbourhood. Tests JOIN generation."
+    },
+    {
+      "id": 7,
+      "question": "What is the average restaurant rating per borough?",
+      "difficulty": 2,
+      "expected_route": "geodata",
+      "expected_tools": ["query_geodata"],
+      "expected_answer": "All five boroughs listed, each with a rating between 3.5 and 4.5. Manhattan typically scores highest. Answer must show per-borough breakdown, not a single average.",
+      "notes": "MongoDB aggregation: $match {types: restaurant} → $group {_id: $borough, avg_rating: $avg} → $sort. Tests aggregate pipeline routing."
+    },
+    {
+      "id": 8,
+      "question": "How do review scores vary by room type?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "Three or four room types listed (Entire home/apt, Private room, Shared room, Hotel room) each with an average score. Entire home/apt typically scores highest (~4.7-4.9); shared room lowest (~4.3-4.6).",
+      "notes": "AVG(review_scores_rating) GROUP BY room_type on dim_listing. Tests categorical GROUP BY."
+    },
+    {
+      "id": 9,
+      "question": "Which borough has the most noise complaints overall, and what are the peak months?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "One borough named as highest (Bronx or Brooklyn typically lead). Peak months should be summer (June–August). Must include specific complaint counts and month names or numbers.",
+      "notes": "noise_borough_month table: SUM(complaint_count) GROUP BY borough for ranking; GROUP BY borough, month for peak months. noise_borough_month has no neighbourhood column — noise data is at borough+month grain only. Tests use of the noise table specifically."
+    },
+    {
+      "id": 10,
+      "question": "What do guests say about staying in Harlem?",
+      "difficulty": 2,
+      "expected_route": "semantic",
+      "expected_tools": ["search_reviews", "get_neighbourhood_context"],
+      "expected_answer": "Two distinct perspectives: (1) guest reviews mentioning character, location, subway access, local food; (2) Wikipedia context about Harlem's history and cultural significance. Both sources should be clearly used.",
+      "notes": "Both review search and Wikipedia context are relevant. Tests whether agent calls both ChromaDB collections."
+    },
+    {
+      "id": 11,
+      "question": "Do instant-bookable listings have higher occupancy rates than non-instant-bookable ones?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "Two numbers comparing occupancy rates. Instant-bookable listings are generally expected to have higher occupancy (convenience premium). Answer must include both figures and a clear comparison.",
+      "notes": "AVG GROUP BY instant_bookable. Simple comparative query testing boolean segmentation."
+    },
+    {
+      "id": 12,
+      "question": "Which month sees the most guest reviews on average across all years?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "A month name or number from June–August (summer peak for NYC tourism). Answer must name the specific month and include a review count.",
+      "notes": "JOIN fact_review with dim_date, GROUP BY month. Tests multi-table JOIN and date dimension use."
+    },
+    {
+      "id": 13,
+      "question": "Which boroughs have the highest restaurant density and how does that compare to their average Airbnb review scores?",
+      "difficulty": 3,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": ["query_geodata", "query_warehouse"],
+      "expected_answer": "Per-borough restaurant counts from MongoDB AND per-borough review scores from PostgreSQL — both datasets present. Manhattan expected to lead on restaurant density. Answer must explicitly draw on both tool results.",
+      "notes": "Two separate stores, two separate tool calls. Synthesizer must combine both results into a coherent comparison. Tests multi-store routing."
+    },
+    {
+      "id": 14,
+      "question": "What do Wikipedia articles say about the West Village and what do Airbnb guests say about staying there?",
+      "difficulty": 3,
+      "expected_route": "semantic",
+      "expected_tools": ["search_reviews", "get_neighbourhood_context"],
+      "expected_answer": "Two clearly attributed sections: (1) encyclopaedic context about the West Village's history, architecture, or character from Wikipedia; (2) guest impressions — walkability, restaurants, charm. No invented facts beyond what the passages contain.",
+      "notes": "Both ChromaDB collections queried. Synthesizer must distinguish encyclopaedic context from guest experience. Tests source attribution."
+    },
+    {
+      "id": 15,
+      "question": "Is there a relationship between the number of points of interest in a neighbourhood and its average listing review score?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "POI counts and review scores per neighbourhood, presented side by side. Answer should note whether neighbourhoods with more POIs tend to have higher or lower scores — or that no clear pattern emerges.",
+      "notes": "poi_total (and per-type counts) are already in dim_neighbourhood in PostgreSQL — no MongoDB call required. JOIN dim_listing with dim_neighbourhood on neighbourhood_id to get AVG(review_scores_rating) and poi_total per neighbourhood. Tests multi-column JOIN and analytical reasoning."
+    },
+    {
+      "id": 16,
+      "question": "How does the season affect review volume — are there significantly more reviews in summer than in winter?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "Four seasons with review counts. Summer (Jun–Aug) expected to be highest; winter (Dec–Feb) lowest. Answer must include all four figures and confirm or deny the seasonal pattern.",
+      "notes": "COUNT(*) GROUP BY season. Requires JOIN fact_review with dim_date using the season column. Tests seasonal dimension use."
+    },
+    {
+      "id": 17,
+      "question": "What distinguishes superhosts from regular hosts in terms of listing occupancy and guest satisfaction?",
+      "difficulty": 3,
+      "expected_route": "warehouse+semantic",
+      "expected_tools": ["query_warehouse", "search_reviews"],
+      "expected_answer": "Quantitative comparison (occupancy rate and review scores for superhost vs non-superhost from warehouse) AND qualitative themes from guest reviews mentioning superhost qualities (communication, cleanliness, extras). Both components must be present.",
+      "notes": "Warehouse for occupancy/score stats segmented by superhost flag; semantic for qualitative guest sentiment. Tests warehouse+semantic multi-store route."
+    },
+    {
+      "id": 18,
+      "question": "Do boroughs with higher noise complaint rates tend to have lower Airbnb review scores?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "Five boroughs each with a noise complaint rate AND an average review score. Answer should comment on whether a negative correlation exists. The Bronx and Brooklyn typically have higher complaint rates; Manhattan and Staten Island lower.",
+      "notes": "Requires joining noise_borough_month with dim_listing via dim_neighbourhood to correlate complaints with review scores at borough level. Most complex single-store SQL in the suite."
+    },
+    {
+      "id": 19,
+      "question": "Which neighbourhood offers the best overall value for guests, considering review scores, minimum nights, and transit access?",
+      "difficulty": 4,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": ["query_warehouse", "query_geodata"],
+      "expected_answer": "A specific neighbourhood named as best value with supporting evidence: review score, minimum nights figure (from warehouse), and transit station count (from MongoDB). Answer must draw on both stores explicitly.",
+      "notes": "Multi-criteria ranking across both stores. Agent must retrieve transit counts from MongoDB and listing quality metrics from PostgreSQL, then synthesizer must rank neighbourhoods across both dimensions."
+    },
+    {
+      "id": 20,
+      "question": "How does weather — specifically precipitation and temperature — correlate with the number of guest reviews? Do bad weather periods generate more or fewer reviews?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": ["query_warehouse"],
+      "expected_answer": "Review counts grouped by precipitation or temperature bands, drawn from fact_review_weather. Answer should state whether rainy/cold periods see more or fewer reviews. This is the only question that specifically tests the weather bridge table.",
+      "notes": "Requires fact_review_weather JOIN fact_review, grouping by precipitation/temperature bands. Tests the weather enrichment table specifically — a unique feature of this lakehouse."
+    }
+  ]
+}

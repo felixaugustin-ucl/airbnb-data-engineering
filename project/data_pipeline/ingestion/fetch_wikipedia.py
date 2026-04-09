@@ -1,14 +1,20 @@
 """
 fetch_wikipedia.py
 ------------------
-Scrapes the introductory section (above the first heading) of the Wikipedia
-article for each NYC neighbourhood and saves the raw text to:
+Fetches the introductory section (above the first heading) of the Wikipedia
+article for each NYC neighbourhood via the MediaWiki API and saves the raw
+text to:
     data_pipeline/raw/wikipedia/<neighbourhood_name>.json
+
+Two API calls per neighbourhood:
+  1. action=query&list=search  — resolve neighbourhood name → page title
+  2. action=parse&prop=text    — fetch rendered HTML; BeautifulSoup extracts
+                                 paragraphs before the first heading
 
 Neighbourhood names are read from the latest Airbnb snapshot's
 neighbourhoods.geojson, matching the same source used by fetch_places.py.
 
-Only the intro section is scraped — this is where descriptive language
+Only the intro section is fetched — this is where descriptive language
 ("affluent", "gentrified", "historic", etc.) is concentrated.
 
 Also writes a lineage.json to raw/wikipedia/ on each run.

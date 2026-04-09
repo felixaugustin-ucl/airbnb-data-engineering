@@ -1,0 +1,365 @@
+{
+  "branch": "feature/react-agent",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many listings are there in total?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 8.9,
+      "answer": "There are 36,445 listings in total."
+    },
+    {
+      "id": 2,
+      "question": "What is the average review score across all listings?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 3.8,
+      "answer": "The average review score across all listings is 4.72."
+    },
+    {
+      "id": 3,
+      "question": "What are the top 5 highest-rated restaurants in Manhattan?",
+      "difficulty": 1,
+      "expected_route": "geodata",
+      "expected_tools": [
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_geodata"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 3.6,
+      "answer": "I was unable to retrieve data for this question \u2014 all tool calls returned errors. Please try rephrasing, or check that the databases are running."
+    },
+    {
+      "id": 4,
+      "question": "What do guests typically say about the check-in experience?",
+      "difficulty": 1,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews"
+      ],
+      "tools_called": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 6.3,
+      "answer": "I was unable to retrieve data for this question \u2014 all tool calls returned errors. Please try rephrasing, or check that the databases are running."
+    },
+    {
+      "id": 5,
+      "question": "How many superhosts are there in the dataset?",
+      "difficulty": 1,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 4.5,
+      "answer": "There are 3377 superhosts in the dataset."
+    },
+    {
+      "id": 6,
+      "question": "Which borough has the highest average listing occupancy rate?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 4.5,
+      "answer": "The borough with the highest average listing occupancy rate is Staten Island, with an average occupancy rate of 53.51%. This is the highest among all boroughs, followed by Queens at 51.94%, and then the Bronx, Brooklyn, and Manhattan with rates of 47.23%, 46.55%, and 41.74%, respectively."
+    },
+    {
+      "id": 7,
+      "question": "What is the average restaurant rating per borough?",
+      "difficulty": 2,
+      "expected_route": "geodata",
+      "expected_tools": [
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_geodata",
+        "query_geodata"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": -1.0,
+      "elapsed_seconds": 5.5,
+      "answer": "I was unable to retrieve data for this question \u2014 all tool calls returned errors. Please try rephrasing, or check that the databases are running."
+    },
+    {
+      "id": 8,
+      "question": "How do review scores vary by room type?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.7,
+      "elapsed_seconds": 5.3,
+      "answer": "Review scores vary by room type in NYC Airbnb data. The highest average review score is 4.82, found in 'Shared room' listings, which have received 7,746 reviews. In contrast, 'Entire home/apt' and 'Private room' listings have average review scores of 4.78, with 463,057 and 500,968 reviews, respectively. The lowest average review score is 4.56, found in 'Hotel room' listings, which have received 3,176 reviews. The minimum review score ranges from 0.0 to 1.0, and the maximum review score is 5.0 fo"
+    },
+    {
+      "id": 9,
+      "question": "Which borough has the most noise complaints overall, and what are the peak months?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 5.9,
+      "answer": "Based on the provided data, Brooklyn has the most noise complaints overall. To determine the peak months, we need to analyze the total complaints for Brooklyn, as it has the highest overall complaints.\n\nThe peak months for Brooklyn are:\n- April: 90,506,742.00 complaints\n- August: 88,779,467.00 complaints\n\nThese two months have the highest total complaints for Brooklyn. However, to determine the overall peak months, we should also consider the complaints in other boroughs. \n\nSince the data only p"
+    },
+    {
+      "id": 10,
+      "question": "What do guests say about staying in Harlem?",
+      "difficulty": 2,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "tools_called": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 5.6,
+      "answer": "I was unable to retrieve data for this question \u2014 all tool calls returned errors. Please try rephrasing, or check that the databases are running."
+    },
+    {
+      "id": 11,
+      "question": "Do instant-bookable listings have higher occupancy rates than non-instant-bookable ones?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 4.2,
+      "answer": "Based on the provided data, there is only one data point available. This data point has a null value for \"instant_bookable\" and an average occupancy rate of 45.27. Since there is no comparison data for non-instant-bookable or instant-bookable listings, it's not possible to determine if instant-bookable listings have higher occupancy rates than non-instant-bookable ones. The single data point shows an average occupancy rate of 45.27, but without additional data, no conclusion can be drawn."
+    },
+    {
+      "id": 12,
+      "question": "Which month sees the most guest reviews on average across all years?",
+      "difficulty": 2,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 4.4,
+      "answer": "The month with the most guest reviews on average across all years is June, with an average of 21,630.50 guest reviews. This is the highest average among all months, followed by September with 19,416.53 average guest reviews, and October with 18,573.90 average guest reviews. June's average is approximately 2,214.00 more than September's, indicating a significant peak in guest reviews during this month."
+    },
+    {
+      "id": 13,
+      "question": "Which boroughs have the highest restaurant density and how does that compare to their average Airbnb review scores?",
+      "difficulty": 3,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": [
+        "query_geodata",
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_geodata",
+        "query_geodata",
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 8.8,
+      "answer": "Based on the provided data, we cannot directly determine the restaurant density of each borough. However, we can compare the average Airbnb review scores among the boroughs. \n\nThe boroughs with the highest average Airbnb review scores are Staten Island (4.79) and Brooklyn (4.76), followed by the Bronx (4.73) and Queens (4.73), and then Manhattan (4.67). \n\nWithout the specific restaurant density data, we cannot make a direct comparison between restaurant density and average Airbnb review scores."
+    },
+    {
+      "id": 14,
+      "question": "What do Wikipedia articles say about the West Village and what do Airbnb guests say about staying there?",
+      "difficulty": 3,
+      "expected_route": "semantic",
+      "expected_tools": [
+        "search_reviews",
+        "get_neighbourhood_context"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.0,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 4.4,
+      "answer": "According to the provided data, Airbnb guests have given the West Village an average rating of 4.79 and an average location rating of 4.95. They have also submitted an average of 16,490.82 complaints."
+    },
+    {
+      "id": 15,
+      "question": "Is there a relationship between the number of points of interest in a neighbourhood and its average listing review score?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_geodata",
+        "query_geodata",
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 9.8,
+      "answer": "Based on the provided data, there is no clear relationship between the number of points of interest in a neighborhood and its average listing review score. The data does not include information on the number of points of interest in each neighborhood. \n\nHowever, we can observe that 11 out of 15 neighborhoods have an average review score of 5.00, while the remaining neighborhoods have scores ranging from 4.96 to 4.97, and 3 neighborhoods have null scores. The average review score for the neighbor"
+    },
+    {
+      "id": 16,
+      "question": "How does the season affect review volume \u2014 are there significantly more reviews in summer than in winter?",
+      "difficulty": 3,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.4,
+      "elapsed_seconds": 5.0,
+      "answer": "To determine if there are significantly more reviews in summer than in winter, we can compare the review counts for these two seasons. \n\nThe review count for Summer is 267,091, and for Winter, it's 196,958. To find the difference, we subtract the Winter review count from the Summer review count: 267,091 - 196,958 = 70,133.\n\nTo understand this difference as a percentage increase, we calculate: (70,133 / 196,958) * 100% \u2248 35.61%. This means Summer has approximately 35.61% more reviews than Winter."
+    },
+    {
+      "id": 17,
+      "question": "What distinguishes superhosts from regular hosts in terms of listing occupancy and guest satisfaction?",
+      "difficulty": 3,
+      "expected_route": "warehouse+semantic",
+      "expected_tools": [
+        "query_warehouse",
+        "search_reviews"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.5,
+      "faithfulness": 1.0,
+      "elapsed_seconds": 4.4,
+      "answer": "Based on the provided data, superhosts have a higher average occupancy rate (136.01) compared to non-superhosts (average of 65.87 and 22.97, which is 44.42 when averaged). Additionally, superhosts have a higher average guest satisfaction rate (4.86) compared to non-superhosts (average of 4.53 and 4.68, which is 4.60 when averaged). \n\nTo summarize: \n- Average occupancy for superhosts: 136.01\n- Average occupancy for non-superhosts: 44.42\n- Average guest satisfaction for superhosts: 4.86\n- Average "
+    },
+    {
+      "id": 18,
+      "question": "Do boroughs with higher noise complaint rates tend to have lower Airbnb review scores?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse",
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.42,
+      "elapsed_seconds": 10.7,
+      "answer": "To determine if boroughs with higher noise complaint rates tend to have lower Airbnb review scores, we need to analyze the data provided. \n\nThe data shows that the Bronx has an average review score of 4.78 and a range of complaint counts from 24,296 to 42,987. Manhattan has an average review score of 4.73 and a range of complaint counts from 23,205 to 26,392. Brooklyn has an average review score of 4.82 and a complaint count of 26,427.\n\nComparing the average review scores and complaint counts, w"
+    },
+    {
+      "id": 19,
+      "question": "Which neighbourhood offers the best overall value for guests, considering review scores, minimum nights, and transit access?",
+      "difficulty": 4,
+      "expected_route": "geodata+warehouse",
+      "expected_tools": [
+        "query_warehouse",
+        "query_geodata"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 0.0,
+      "tool_coverage": 0.5,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 4.5,
+      "answer": "To determine the neighbourhood that offers the best overall value for guests, we need to consider review scores, minimum nights, and transit access. However, since transit access data is not provided, we will focus on review scores and minimum nights.\n\nThe neighbourhoods with the highest average review rating are Oakwood, West Farms, Todt Hill, Chelsea (Staten Island), Bay Terrace (Staten Island), and Navy Yard, all with a perfect score of 5.00. \n\nAmong these, Bay Terrace (Staten Island) stands "
+    },
+    {
+      "id": 20,
+      "question": "How does weather \u2014 specifically precipitation and temperature \u2014 correlate with the number of guest reviews? Do bad weather periods generate more or fewer reviews?",
+      "difficulty": 4,
+      "expected_route": "warehouse",
+      "expected_tools": [
+        "query_warehouse"
+      ],
+      "tools_called": [
+        "query_warehouse"
+      ],
+      "route_accuracy": 1.0,
+      "tool_coverage": 1.0,
+      "faithfulness": 0.0,
+      "elapsed_seconds": 9.9,
+      "answer": "To analyze the correlation between weather and the number of guest reviews, we can examine the provided data. The months with the highest average review counts are February (211.16), March (197.9), and January (189.35), which also tend to have lower average maximum temperatures (5.49, 9.68, and 4.97, respectively) and varying levels of precipitation (2.96, 3.93, and 3.06, respectively).\n\nIn contrast, the months with the lowest average review counts are September (168.62), August (173.22), and Ju"
+    }
+  ],
+  "summary": {
+    "n": 20,
+    "avg_route_accuracy": 0.8,
+    "avg_tool_coverage": 0.9,
+    "avg_faithfulness": 0.36,
+    "avg_elapsed_s": 6.0
+  }
+}

@@ -35,8 +35,9 @@ Rationale:
   ReAct paper (Yao et al., 2022) informs the thought–act–observe loop at the
   node level; the supervisor pattern extends this to multi-agent coordination.
 
-LLM: Ollama (local, no API key) — default: llama3.2
-     Override: OLLAMA_MODEL env variable (e.g. qwen2.5, llama3.3)
+LLM: Groq (llama-3.3-70b-versatile) when GROQ_API_KEY is set in .env;
+     local Ollama (default: llama3.2) otherwise — no API key required.
+     Override model: GROQ_MODEL / OLLAMA_MODEL env variables.
 
 Usage:
   python3 agent/agent.py            # interactive REPL
@@ -47,6 +48,8 @@ import argparse
 import asyncio
 import json
 import logging
+import warnings
+warnings.filterwarnings("ignore", message=".*create_react_agent has been moved.*")
 import operator
 import os
 import re
@@ -182,7 +185,14 @@ def _print_tool_call(tool_name: str, args: dict):
     if tool_name == "query_warehouse" and "sql" in args:
         console.print(Text(args["sql"], style="color(93)"))
     elif tool_name == "query_geodata":
-        console.print(Text(json.dumps(args.get("filter", {}), ensure_ascii=False), style="color(93)"))
+        if args.get("pipeline"):
+            # Show pipeline stages compactly (one stage per line)
+            stages = ", ".join(
+                list(stage.keys())[0] for stage in args["pipeline"] if isinstance(stage, dict)
+            )
+            console.print(Text(f"[pipeline: {stages}]", style="color(93)"))
+        else:
+            console.print(Text(json.dumps(args.get("filter", {}), ensure_ascii=False), style="color(93)"))
     elif tool_name in ("search_reviews", "get_neighbourhood_context"):
         console.print(Text(args.get("query", ""), style="color(93)"))
 
@@ -234,9 +244,9 @@ def _print_tool_result(tool_name: str, raw: str):
             console.print("  [dim](no documents found)[/dim]")
             return
         table = Table(box=box.SIMPLE, show_header=True, header_style="bold cyan")
-        # Aggregation results have dynamic computed keys; find mode has known fields.
-        # Detect by checking whether standard place fields are present.
-        is_aggregation = "name" not in docs[0] and "_id" in docs[0]
+        # Aggregation results have dynamic computed keys (e.g. avg_rating, _id=borough).
+        # Find mode always has a "name" field. Detect by its absence.
+        is_aggregation = "name" not in docs[0]
         if is_aggregation:
             # Rename _id → group_by for readability, show all computed fields
             cols = list(docs[0].keys())
@@ -308,14 +318,24 @@ def _summarise_for_synthesizer(tool_name: str, raw: str) -> str:
         return data_str[:600]
     if "error" in data:
         return f"Error: {data['error']}"
+    def _round_floats(obj):
+        """Recursively round floats to 2dp so the synthesizer doesn't get 16-digit numbers."""
+        if isinstance(obj, float):
+            return round(obj, 2)
+        if isinstance(obj, dict):
+            return {k: _round_floats(v) for k, v in obj.items()}
+        if isinstance(obj, list):
+            return [_round_floats(v) for v in obj]
+        return obj
+
     if tool_name == "query_warehouse" and "rows" in data:
-        return json.dumps(data["rows"][:15], indent=2)
+        return json.dumps(_round_floats(data["rows"][:15]), indent=2)
     if tool_name == "query_geodata" and "documents" in data:
-        return json.dumps(
-            [{k: v for k, v in d.items() if k not in ("geometry", "centroid")}
-             for d in data["documents"][:8]],
-            indent=2,
-        )
+        docs = [
+            {k: v for k, v in d.items() if k not in ("geometry", "centroid")}
+            for d in data["documents"][:8]
+        ]
+        return json.dumps(_round_floats(docs), indent=2)
     if tool_name in ("search_reviews", "get_neighbourhood_context") and "results" in data:
         return "\n\n".join(r.get("document", "")[:300] for r in data["results"][:5])
     return data_str[:600]
@@ -511,59 +531,38 @@ async def geo_node(state: LakehouseState, llm, tool) -> dict:
     """
     intent = (state["intents"].get("geo_intent") or state["question"]).strip()
 
-    # Detect whether the intent requires aggregation (grouping/averaging across
-    # documents) or a simple document lookup.
-    _AGG_KEYWORDS = ("average", "avg", "best rated", "top rated", "highest rating",
-                     "by borough", "per borough", "by neighbourhood", "group",
-                     "count by", "ranking", "compare")
-    needs_aggregation = any(kw in intent.lower() for kw in _AGG_KEYWORDS)
-
     # Build the types string for the prompt from the canonical set
     types_list = ", ".join(sorted(_GEO_PLACE_TYPES - {"food", "establishment", "point_of_interest"}))
 
-    if needs_aggregation:
-        geo_prompt = (
-            "Generate a MongoDB aggregation pipeline for the 'places' collection.\n\n"
-            f"Task: {intent}\n\n"
-            "IMPORTANT — document structure:\n"
-            f"  types  : ARRAY of strings, e.g. ['restaurant','food','point_of_interest']\n"
-            f"           Known values: {types_list}\n"
-            "  rating : float (1.0-5.0), may be missing — always filter with $exists\n"
-            "  borough: string — 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
-            "  neighbourhood: string\n\n"
-            "IMPORTANT — MongoDB array matching:\n"
-            "  To match documents where types array contains 'restaurant':\n"
-            '  {"$match": {"types": "restaurant"}}  ← MongoDB checks if array contains value\n\n'
-            "Output ONLY valid JSON:\n"
-            '{"pipeline": [stage1, stage2, ...]}\n\n'
-            "Example — average restaurant rating per borough:\n"
-            '{"pipeline": [\n'
-            '  {"$match": {"types": "restaurant", "rating": {"$exists": true, "$gt": 0}}},\n'
-            '  {"$group": {"_id": "$borough",\n'
-            '              "avg_rating": {"$avg": "$rating"},\n'
-            '              "place_count": {"$sum": 1}}},\n'
-            '  {"$sort": {"avg_rating": -1}}\n'
-            "]}\n\n"
-            "Rules: $match first, then $group (use _id for the group-by field with $ prefix),\n"
-            "then $sort. Use $avg/$sum/$max operators inside $group."
-        )
-    else:
-        geo_prompt = (
-            "Generate a MongoDB find query for the 'places' collection.\n\n"
-            f"Task: {intent}\n\n"
-            "IMPORTANT — document structure:\n"
-            f"  types  : ARRAY of strings, e.g. ['restaurant','food','point_of_interest']\n"
-            f"           Known values: {types_list}\n"
-            "  rating : float (1.0-5.0)\n"
-            "  borough: string — 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
-            "  neighbourhood: string, name, vicinity, price_level (0-4)\n\n"
-            "To filter by type: {\"types\": \"restaurant\"} matches any doc where the array\n"
-            "contains 'restaurant'.\n\n"
-            "Output ONLY valid JSON:\n"
-            '{"filter": {"types": "restaurant", "neighbourhood": "..."}, '
-            '"limit": 10, "sort": [["rating", -1]]}\n\n'
-            "Only include filter fields relevant to the task."
-        )
+    # Single unified prompt — the LLM decides whether to use find or aggregate
+    # based on the task semantics. No hardcoded keyword detection.
+    geo_prompt = (
+        "Generate a MongoDB query for the 'places' collection to answer this task.\n\n"
+        f"Task: {intent}\n\n"
+        "Document structure:\n"
+        f"  types        : ARRAY of strings, e.g. ['restaurant','food']\n"
+        f"                 Known values: {types_list}\n"
+        "  rating       : float (1.0–5.0), may be missing\n"
+        "  borough      : 'Manhattan','Brooklyn','Queens','Bronx','Staten Island'\n"
+        "  neighbourhood: string\n"
+        "  name, vicinity, price_level (0–4)\n\n"
+        "Array matching: {\"types\": \"restaurant\"} matches any doc whose types array "
+        "contains 'restaurant'.\n\n"
+        "Choose the right output format:\n\n"
+        "  FIND (looking up specific places, listing top N, filtering by location/type):\n"
+        '  {"filter": {"types": "bar", "neighbourhood": "Williamsburg"}, '
+        '"sort": [["rating", -1]], "limit": 10}\n\n'
+        "  AGGREGATE (grouping, averaging, ranking across boroughs/neighbourhoods, "
+        "counting, comparing):\n"
+        '  {"pipeline": [\n'
+        '    {"$match": {"types": "restaurant", "rating": {"$exists": true, "$gt": 0}}},\n'
+        '    {"$group": {"_id": "$borough", "avg_rating": {"$avg": "$rating"}, '
+        '"place_count": {"$sum": 1}}},\n'
+        '    {"$sort": {"avg_rating": -1}}\n'
+        "  ]}\n\n"
+        "Output ONLY valid JSON with either a 'pipeline' key or a 'filter' key. "
+        "No explanation."
+    )
 
     _stop_spinner()
     response = await llm.ainvoke(geo_prompt)
@@ -575,7 +574,8 @@ async def geo_node(state: LakehouseState, llm, tool) -> dict:
         text   = re.sub(r"```json\s*|\s*```", "", response.content).strip()
         parsed = json.loads(text)
 
-        if needs_aggregation and "pipeline" in parsed:
+        if "pipeline" in parsed:
+            # Aggregate mode — the LLM decided grouping is needed
             params["pipeline"] = parsed["pipeline"]
         else:
             # Find mode — sanitise filter/sort/limit
@@ -603,7 +603,7 @@ async def geo_node(state: LakehouseState, llm, tool) -> dict:
 
     # Retry once if aggregation pipeline failed
     data, _ = _extract_result_data(result)
-    if data and "error" in data and needs_aggregation:
+    if data and "error" in data and "pipeline" in params:
         console.print(f"  [yellow]Pipeline error — retrying:[/yellow] {data['error'][:120]}")
         retry_prompt = (
             geo_prompt
@@ -708,7 +708,8 @@ async def synthesizer_node(state: LakehouseState, llm) -> dict:
         "Data retrieved from the lakehouse:\n\n"
         + "\n\n---\n\n".join(sections)
         + "\n\nWrite a clear, data-driven answer using ONLY the data above. "
-        "Include specific numbers. Do not add information not present in the data."
+        "Include specific numbers rounded to 2 decimal places. "
+        "Do not add information not present in the data."
     )
 
     _start_spinner("Composing answer...")
@@ -812,50 +813,35 @@ def _build_graph(llm, planner_llm, tools_by_name: dict, schema: str):
 # ENTRY POINT
 # ══════════════════════════════════════════════════════════════════════════════
 
-async def run_agent(question: str) -> str:
+async def run_graph_agent(question: str) -> str:
     """
-    Build and run the multi-agent graph for one question.
-
-    Flow:
-      1. Connect to Groq (preferred) or Ollama (fallback) LLMs
-      2. Load MCP tools from server.py subprocess via MultiServerMCPClient
-      3. Fetch live schema from PostgreSQL information_schema
-      4. Build LangGraph StateGraph
-      5. ainvoke — nodes print their own output as they execute
-      6. Return synthesizer's final answer
+    Multi-agent Planner → Executor(s) → Synthesizer pipeline.
 
     LLM selection:
-      - If GROQ_API_KEY is set, uses ChatGroq (llama-3.3-70b-versatile by default)
-      - Otherwise falls back to local ChatOllama
+      Groq (llama-3.3-70b-versatile) when GROQ_API_KEY is set;
+      local Ollama otherwise — no API key required.
+
+    The planner LLM uses constrained JSON output (format='json' on Ollama,
+    temperature=0 on Groq) to produce a routing plan. Executor nodes each
+    solve a single sub-problem (SQL generation, MongoDB filter, vector query).
+    The synthesizer composes the final answer from all tool results.
     """
     from langchain_mcp_adapters.client import MultiServerMCPClient
 
     if os.getenv("GROQ_API_KEY"):
         from langchain_groq import ChatGroq
-        groq_model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-        # Main LLM — SQL generation, geo filter generation, synthesis
-        llm = ChatGroq(model=groq_model, temperature=0)
-        # Planner LLM — JSON mode constrains routing output to valid JSON
-        planner_llm = ChatGroq(
-            model=groq_model, temperature=0,
-            model_kwargs={"response_format": {"type": "json_object"}},
-        )
+        groq_model  = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        llm         = ChatGroq(model=groq_model, temperature=0)
+        planner_llm = ChatGroq(model=groq_model, temperature=0)
     else:
         from langchain_ollama import ChatOllama
         model_name  = os.getenv("OLLAMA_MODEL", "llama3.2")
-        ollama_host = os.getenv("OLLAMA_HOST",  "http://localhost:11434")
-        # Main LLM — SQL generation, geo filter generation, synthesis
-        llm = ChatOllama(
-            model=model_name, base_url=ollama_host,
-            temperature=0, num_predict=1024,
-        )
-        # Planner LLM — format="json" constrains output to valid JSON
-        planner_llm = ChatOllama(
-            model=model_name, base_url=ollama_host,
-            temperature=0, num_predict=300, format="json",
-        )
+        ollama_host = os.getenv("OLLAMA_HOST", "http://localhost:11434")
+        llm         = ChatOllama(model=model_name, base_url=ollama_host,
+                                  temperature=0, num_predict=2048)
+        planner_llm = ChatOllama(model=model_name, base_url=ollama_host,
+                                  temperature=0, format="json", num_predict=512)
 
-    # Load MCP tools — server.py spawned as stdio subprocess
     client = MultiServerMCPClient({
         "nyc-airbnb-lakehouse": {
             "command":   sys.executable,
@@ -869,19 +855,27 @@ async def run_agent(question: str) -> str:
     schema        = _fetch_pg_schema()
     graph         = _build_graph(llm, planner_llm, tools_by_name, schema)
 
-    _start_spinner()
     try:
-        final_state = await graph.ainvoke({
+        result = await graph.ainvoke({
             "question":     question,
             "route":        "",
             "intents":      {},
             "tool_results": [],
             "answer":       "",
         })
-    finally:
         _stop_spinner()
+        return result.get("answer") or "(no answer produced)"
 
-    return final_state.get("answer") or "(no answer produced)"
+    except Exception as e:
+        _stop_spinner()
+        err = str(e)
+        if "rate_limit_exceeded" in err or "Rate limit" in err:
+            wait = re.search(r"try again in ([^\.]+)", err)
+            wait_str = f" Try again in {wait.group(1)}." if wait else ""
+            return f"[Rate limit reached] Groq daily token quota exhausted.{wait_str}"
+        if "Failed to call a function" in err or "failed_generation" in err:
+            return "[Model error] The model produced a malformed tool call. Please rephrase your question and try again."
+        raise
 
 
 def main():
@@ -902,7 +896,7 @@ def main():
     if args.question:
         console.print(f"\n[dim]Question:[/dim] {args.question}")
         console.print("─" * 70)
-        answer = asyncio.run(run_agent(args.question))
+        answer = asyncio.run(run_graph_agent(args.question))
         console.print(f"\n{'─' * 70}")
         console.print(answer)
         return
@@ -920,7 +914,7 @@ def main():
             break
         if not question or question.lower() in ("exit", "quit"):
             break
-        answer = asyncio.run(run_agent(question))
+        answer = asyncio.run(run_graph_agent(question))
         console.print(f"\n{answer}\n")
 
 
