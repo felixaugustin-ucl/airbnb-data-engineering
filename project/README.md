@@ -168,76 +168,68 @@ The demo mode exercises the full stratified sampling and encoding logic — it j
 
 ## Running the Pipeline
 
-### Step 1 — Start databases
+### Quick start
 
 ```bash
-docker-compose up -d
+# Test mode — full pipeline, 500-review index, ~1 min vector build
+python run_pipeline.py --test
+
+# Then launch the agent
+make agent-test
 ```
 
-This starts PostgreSQL, MongoDB, and Ollama. Database init scripts in
-`docker/postgres/` and `docker/mongodb/` create the read-only roles
-automatically on first start.
+```bash
+# Production — full 50k-review index (~7 hrs vector build)
+python run_pipeline.py
+
+# Then launch the agent
+make agent
+```
+
+`run_pipeline.py` runs every step in order: starts Docker, ingestion,
+PySpark transformation, MongoDB load, ChromaDB index build.
 
 ---
 
-### Step 2 — Ingestion (run once, ~30 min total)
+### Step-by-step (if you need finer control)
 
 ```bash
-python data_pipeline/ingestion/fetch_airbnb.py
+make up                                                               # start databases
+
+python data_pipeline/ingestion/fetch_airbnb.py                       # ingestion
 python data_pipeline/ingestion/fetch_places.py
 python data_pipeline/ingestion/fetch_wikipedia.py
 python data_pipeline/ingestion/fetch_weather.py
 python data_pipeline/ingestion/fetch_noise_complaints.py
+
+python data_pipeline/transformation/transform_star_schema.py         # ~5 min (PySpark)
+python data_pipeline/transformation/load_mongodb.py                  # ~1 min
+python data_pipeline/transformation/build_vector_index.py --test     # ~1 min (test)
+python data_pipeline/transformation/build_vector_index.py            # ~7 hrs (full)
+
+make agent-test    # agent against test index
+make agent         # agent against full index
 ```
 
-Scripts are idempotent — already-downloaded files are skipped on re-runs.
+Ingestion scripts are idempotent — already-downloaded files are skipped on re-runs.
 
 ---
 
-### Step 3 — Transformation
+### First-time Ollama model pull
+
+The Ollama container downloads the model on first use, which can stall the agent for
+several minutes. Pull it explicitly before running the agent:
 
 ```bash
-# Star schema (PySpark) — requires Java; ~5 min
-python data_pipeline/transformation/transform_star_schema.py
-
-# MongoDB load — ~1 min
-python data_pipeline/transformation/load_mongodb.py
-
-# Vector index — requires Python ≤ 3.12; demo mode ~1 min, full ~7 hrs
-python data_pipeline/transformation/build_vector_index.py --test   # demo
-python data_pipeline/transformation/build_vector_index.py          # full
-```
-
----
-
-### Step 4 — Run the agent
-
-The agent runs inside the Docker container defined in `Dockerfile`.
-This is the recommended path on all platforms (Mac, Windows, Linux) —
-no local Python setup required for the agent layer.
-
-```bash
-# Pull the Ollama model (first time only — ~2 GB download)
 docker-compose exec ollama ollama pull llama3.2
-
-# Run the interactive agent
-docker-compose run --rm mcp-agent
 ```
-
-The container connects to PostgreSQL, MongoDB, and Ollama via the Docker
-internal network. ChromaDB is mounted from
-`data_pipeline/processed/chromadb/` (or `chromadb_test/` in demo mode).
-
-> **Windows note:** if `chromadb_test/` was used in Step 3, update the
-> volume mount in `docker-compose.yml` temporarily:
-> `./data_pipeline/processed/chromadb_test:/app/chromadb`
 
 ---
 
 ## Stopping Services
 
 ```bash
-docker-compose down          # stop containers, keep data volumes
+make down                    # stop containers, keep data volumes
 docker-compose down -v       # ⚠ DESTRUCTIVE — deletes all database data
 ```
 
