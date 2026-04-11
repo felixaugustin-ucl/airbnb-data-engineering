@@ -142,9 +142,9 @@ Required keys — see `.env.example` for all variables:
 
 | Key | Used by | Where to get it |
 |-----|---------|-----------------|
-| `GOOGLE_PLACES_API_KEY` | `fetch_places.py` | Google Cloud Console |
-| `SOCRATA_APP_TOKEN` | `fetch_noise_complaints.py` | data.cityofnewyork.us |
-| `GROQ_API_KEY` | `agent.py` (production) | console.groq.com — free tier |
+| `GOOGLE_PLACES_API_KEY` | `fetch_places.py` | → [Google Cloud Console](https://console.cloud.google.com/apis/credentials) |
+| `SOCRATA_APP_TOKEN` | `fetch_noise_complaints.py` | → [data.cityofnewyork.us](https://data.cityofnewyork.us/profile/edit/developer_settings) |
+| `GROQ_API_KEY` | `agent.py` | → [console.groq.com](https://console.groq.com/keys) — free tier |
 
 ---
 
