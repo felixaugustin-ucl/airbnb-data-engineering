@@ -1,7 +1,7 @@
 """
 server.py
 ---------
-MCP server exposing four tools over the NYC Airbnb Hospitality Lakehouse.
+MCP server exposing four tools over the NYC Airbnb Polyglot Analytics Platform.
 
 Tools:
   query_warehouse          — read-only SQL against PostgreSQL (star schema)
@@ -79,7 +79,7 @@ load_dotenv(REPO_ROOT / ".env")
 
 # ── FastMCP instance ───────────────────────────────────────────────────────────
 
-mcp = FastMCP("nyc-airbnb-lakehouse")
+mcp = FastMCP("nyc-airbnb-platform")
 
 
 # ══════════════════════════════════════════════════════════════════════════════

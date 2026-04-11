@@ -1,5 +1,5 @@
 {
-  "description": "20 evaluation questions for the NYC Airbnb Hospitality Lakehouse agent. Used to compare feature/mcp (single-agent Ollama), feature/multi-agent (multi-agent Ollama), and feature/react-agent (multi-agent Groq). Difficulty 1-4. Faithfulness score: fraction of answer claims supported by retrieved tool results.",
+  "description": "20 evaluation questions for the NYC Airbnb Polyglot Analytics Platform agent. Used to compare feature/mcp (single-agent Ollama), feature/multi-agent (multi-agent Ollama), and feature/react-agent (multi-agent Groq). Difficulty 1-4. Faithfulness score: fraction of answer claims supported by retrieved tool results.",
   "scoring": {
     "faithfulness": "warehouse/geodata → heuristic numeric overlap; semantic → Gemini Flash independent judge",
     "route_accuracy": "1 if agent took expected_route, 0 otherwise",
@@ -184,7 +184,7 @@
       "expected_route": "warehouse",
       "expected_tools": ["query_warehouse"],
       "expected_answer": "Review counts grouped by precipitation or temperature bands, drawn from fact_review_weather. Answer should state whether rainy/cold periods see more or fewer reviews. This is the only question that specifically tests the weather bridge table.",
-      "notes": "Requires fact_review_weather JOIN fact_review, grouping by precipitation/temperature bands. Tests the weather enrichment table specifically — a unique feature of this lakehouse."
+      "notes": "Requires fact_review_weather JOIN fact_review, grouping by precipitation/temperature bands. Tests the weather enrichment table specifically — a unique feature of this platform."
     }
   ]
 }

@@ -1,7 +1,7 @@
 """
 run_pipeline.py
 ---------------
-Runs the full NYC Airbnb Hospitality Lakehouse pipeline end-to-end.
+Runs the full NYC Airbnb Polyglot Analytics Platform pipeline end-to-end.
 
 Steps executed in order:
   1. docker-compose up        — start PostgreSQL, MongoDB, Ollama
@@ -43,7 +43,7 @@ def run(cmd: list[str], **kwargs):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Run the full NYC Airbnb Lakehouse pipeline."
+        description="Run the full NYC Airbnb Polyglot Analytics Platform pipeline."
     )
     parser.add_argument(
         "--test",
@@ -63,7 +63,7 @@ def main():
     args = parser.parse_args()
 
     mode = "TEST MODE (500 reviews)" if args.test else "PRODUCTION MODE (50k reviews)"
-    print(f"\nNYC Airbnb Lakehouse Pipeline — {mode}\n")
+    print(f"\nNYC Airbnb Polyglot Analytics Platform — {mode}\n")
 
     # ── Step 1: Docker ─────────────────────────────────────────────────────────
     if not args.skip_docker:

@@ -1,7 +1,7 @@
 """
 agent.py
 --------
-Multi-agent LangGraph pipeline for the NYC Airbnb Hospitality Lakehouse.
+Multi-agent LangGraph pipeline for the NYC Airbnb Polyglot Analytics Platform.
 
 Architecture — Planner → Executor(s) → Synthesizer:
 
@@ -345,7 +345,7 @@ def _summarise_for_synthesizer(tool_name: str, raw: str) -> str:
 # LANGGRAPH STATE
 # ══════════════════════════════════════════════════════════════════════════════
 
-class LakehouseState(TypedDict):
+class AgentState(TypedDict):
     question:     str
     route:        str
     intents:      dict
@@ -359,7 +359,7 @@ class LakehouseState(TypedDict):
 # NODE 1 — Planner
 # ══════════════════════════════════════════════════════════════════════════════
 
-async def planner_node(state: LakehouseState, llm) -> dict:
+async def planner_node(state: AgentState, llm) -> dict:
     """
     Classifies the question into a routing plan using structured JSON output
     (ChatOllama format='json'). Constrained generation prevents the free-text
@@ -451,7 +451,7 @@ async def planner_node(state: LakehouseState, llm) -> dict:
 # NODE 2 — Warehouse executor
 # ══════════════════════════════════════════════════════════════════════════════
 
-async def warehouse_node(state: LakehouseState, llm, tool, schema: str) -> dict:
+async def warehouse_node(state: AgentState, llm, tool, schema: str) -> dict:
     """
     Generates a SQL SELECT query from the warehouse intent and executes it
     via the query_warehouse MCP tool. Retries once on SQL error with the
@@ -523,7 +523,7 @@ async def warehouse_node(state: LakehouseState, llm, tool, schema: str) -> dict:
 # NODE 3 — Geo executor
 # ══════════════════════════════════════════════════════════════════════════════
 
-async def geo_node(state: LakehouseState, llm, tool) -> dict:
+async def geo_node(state: AgentState, llm, tool) -> dict:
     """
     Generates a MongoDB filter from the geo intent and executes query_geodata.
     The LLM outputs JSON which is parsed and sanitised before the tool call —
@@ -642,7 +642,7 @@ async def geo_node(state: LakehouseState, llm, tool) -> dict:
 # ══════════════════════════════════════════════════════════════════════════════
 
 async def semantic_node(
-    state: LakehouseState,
+    state: AgentState,
     review_tool,
     context_tool,
 ) -> dict:
@@ -679,7 +679,7 @@ async def semantic_node(
 # NODE 5 — Synthesizer
 # ══════════════════════════════════════════════════════════════════════════════
 
-async def synthesizer_node(state: LakehouseState, llm) -> dict:
+async def synthesizer_node(state: AgentState, llm) -> dict:
     """
     Composes the final answer from all accumulated tool results.
     Receives clean summaries (not raw JSON blobs) so the LLM can focus on
@@ -705,7 +705,7 @@ async def synthesizer_node(state: LakehouseState, llm) -> dict:
     synth_prompt = (
         f"Answer this question about NYC Airbnb data.\n\n"
         f"Question: {state['question']}\n\n"
-        "Data retrieved from the lakehouse:\n\n"
+        "Data retrieved from the platform:\n\n"
         + "\n\n---\n\n".join(sections)
         + "\n\nWrite a clear, data-driven answer using ONLY the data above. "
         "Include specific numbers rounded to 2 decimal places. "
@@ -723,7 +723,7 @@ async def synthesizer_node(state: LakehouseState, llm) -> dict:
 # ROUTING FUNCTIONS
 # ══════════════════════════════════════════════════════════════════════════════
 
-def _route_from_planner(state: LakehouseState) -> str:
+def _route_from_planner(state: AgentState) -> str:
     """First node to visit based on planner route."""
     route = state.get("route", "warehouse")
     if route in ("geodata", "geodata+warehouse"):
@@ -733,12 +733,12 @@ def _route_from_planner(state: LakehouseState) -> str:
     return "warehouse"   # warehouse, warehouse+semantic
 
 
-def _route_after_warehouse(state: LakehouseState) -> str:
+def _route_after_warehouse(state: AgentState) -> str:
     """After warehouse: continue to semantic for warehouse+semantic, else synthesize."""
     return "semantic" if state.get("route") == "warehouse+semantic" else "synthesizer"
 
 
-def _route_after_geodata(state: LakehouseState) -> str:
+def _route_after_geodata(state: AgentState) -> str:
     """After geodata: continue to warehouse for geodata+warehouse, else synthesize."""
     return "warehouse" if state.get("route") == "geodata+warehouse" else "synthesizer"
 
@@ -767,7 +767,7 @@ def _build_graph(llm, planner_llm, tools_by_name: dict, schema: str):
     """
     from langgraph.graph import StateGraph, END
 
-    graph = StateGraph(LakehouseState)
+    graph = StateGraph(AgentState)
 
     graph.add_node("planner",     partial(planner_node, llm=planner_llm))
     graph.add_node("warehouse",   partial(
@@ -843,7 +843,7 @@ async def run_graph_agent(question: str) -> str:
                                   temperature=0, format="json", num_predict=512)
 
     client = MultiServerMCPClient({
-        "nyc-airbnb-lakehouse": {
+        "nyc-airbnb-platform": {
             "command":   sys.executable,
             "args":      [str(SERVER_PATH)],
             "transport": "stdio",
@@ -880,7 +880,7 @@ async def run_graph_agent(question: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="NYC Airbnb Lakehouse Agent — multi-agent LangGraph + Ollama"
+        description="NYC Airbnb Analytics Agent — multi-agent LangGraph + Groq"
     )
     parser.add_argument("-q", "--question", help="Single question (non-interactive)")
     args = parser.parse_args()

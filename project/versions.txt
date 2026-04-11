@@ -1,5 +1,5 @@
 ================================================================================
-DEPENDENCY VERSION SELECTION LOG — NYC Airbnb Hospitality Lakehouse
+DEPENDENCY VERSION SELECTION LOG — NYC Airbnb Polyglot Analytics Platform
 ================================================================================
 Date: 2026-04-07
 Purpose: Document version testing and compatibility findings for the agent layer

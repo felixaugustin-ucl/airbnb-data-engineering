@@ -1,4 +1,4 @@
-# ── NYC Airbnb Hospitality Lakehouse — Service Stack ──────────────────────────
+# ── NYC Airbnb Polyglot Analytics Platform — Service Stack ────────────────────
 #
 # Services:
 #   postgres   — relational star schema (OLAP gold layer)
@@ -15,7 +15,7 @@
 #   automatically on first container start.
 #
 # ⚠ DO NOT run `docker-compose down -v` — this deletes the PostgreSQL and
-#   MongoDB named volumes containing the fully transformed lakehouse data.
+#   MongoDB named volumes containing the fully transformed platform data.
 #
 # Start all services:  docker-compose up -d
 # Run agent:           docker-compose run --rm mcp-agent

@@ -2,7 +2,7 @@
 transform_star_schema.py
 ------------------------
 Implements the Bronze → Silver → Gold medallion pipeline using PySpark for
-the relational dimension of the lakehouse, targeting PostgreSQL.
+the relational dimension of the platform, targeting PostgreSQL.
 
 Architecture justification:
   PySpark is used because the same transformation DAG scales from a single
