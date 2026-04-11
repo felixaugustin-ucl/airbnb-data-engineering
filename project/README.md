@@ -188,6 +188,10 @@ make agent
 `run_pipeline.py` runs every step in order: starts Docker, ingestion,
 PySpark transformation, MongoDB load, ChromaDB index build.
 
+The agent uses Groq by default (`GROQ_API_KEY` in `.env`). If no key is set it
+falls back to Ollama — pull the model first in that case:
+`docker-compose exec ollama ollama pull llama3.2`
+
 ---
 
 ### Step-by-step (if you need finer control)
@@ -211,17 +215,6 @@ make agent         # agent against full index
 ```
 
 Ingestion scripts are idempotent — already-downloaded files are skipped on re-runs.
-
----
-
-### First-time Ollama model pull
-
-The Ollama container downloads the model on first use, which can stall the agent for
-several minutes. Pull it explicitly before running the agent:
-
-```bash
-docker-compose exec ollama ollama pull llama3.2
-```
 
 ---
 
