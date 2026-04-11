@@ -1,4 +1,7 @@
-# ── NYC Airbnb Hospitality Lakehouse ──────────────────────────────────────────
+# ── NYC Airbnb Polyglot Analytics Platform ────────────────────────────────────
+# Uses 'docker compose' (Docker Desktop v2+ plugin syntax, works on all platforms).
+
+DC = docker compose
 
 # Run the full pipeline (production — 50k reviews, ~7 hrs total)
 pipeline:
@@ -10,21 +13,21 @@ pipeline-test:
 
 # Launch the agent (production ChromaDB index)
 agent:
-	docker-compose run --rm mcp-agent
+	$(DC) run --rm mcp-agent
 
 # Launch the agent against the test ChromaDB index
 agent-test:
-	docker-compose run --rm \
+	$(DC) run --rm \
 		-e CHROMA_PATH=/app/chromadb \
 		-v $$(pwd)/data_pipeline/processed/chromadb_test:/app/chromadb \
 		mcp-agent
 
 # Start databases only
 up:
-	docker-compose up -d
+	$(DC) up -d
 
 # Stop containers (keep data volumes)
 down:
-	docker-compose down
+	$(DC) down
 
 .PHONY: pipeline pipeline-test agent agent-test up down

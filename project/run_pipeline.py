@@ -30,6 +30,25 @@ from pathlib import Path
 PROJECT_DIR = Path(__file__).resolve().parent
 
 
+def _docker_compose_cmd() -> list[str]:
+    """
+    Return the correct docker compose command for this system.
+    Docker Desktop v2+ uses 'docker compose' (plugin); older installs use
+    'docker-compose' (standalone binary). Try plugin form first.
+    """
+    try:
+        subprocess.run(
+            ["docker", "compose", "version"],
+            capture_output=True, check=True
+        )
+        return ["docker", "compose"]
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        return ["docker-compose"]
+
+
+DOCKER_COMPOSE = _docker_compose_cmd()
+
+
 def run(cmd: list[str], **kwargs):
     """Run a command, streaming output. Exit on failure."""
     print(f"\n{'─'*60}")
@@ -67,7 +86,7 @@ def main():
 
     # ── Step 1: Docker ─────────────────────────────────────────────────────────
     if not args.skip_docker:
-        run(["docker-compose", "up", "-d"])
+        run(DOCKER_COMPOSE + ["up", "-d"])
 
     # ── Step 2: Ingestion ──────────────────────────────────────────────────────
     if not args.skip_ingest:
