@@ -130,9 +130,9 @@ project/
 ## Environment Setup
 
 ```bash
-# 1. Copy the example env file and fill in your API keys
-cp project/.env.example .env        # Mac/Linux
-copy project\.env.example .env      # Windows
+# 1. Copy the example env file and fill in your API keys (run from repo root)
+cp .env.example .env        # Mac/Linux
+copy .env.example .env      # Windows
 
 # 2. Install Python dependencies (ingestion + transformation scripts)
 cd project
