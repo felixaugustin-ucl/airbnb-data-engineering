@@ -914,9 +914,38 @@ def main():
             break
         if not question or question.lower() in ("exit", "quit"):
             break
-        answer = asyncio.run(run_graph_agent(question))
-        console.print(f"\n{answer}\n")
+        try:
+            answer = asyncio.run(run_graph_agent(question))
+            console.print(f"\n{answer}\n")
+        except Exception as e:
+            err = str(e)
+            if "invalid_api_key" in err or "AuthenticationError" in err:
+                console.print("\n[red]Invalid API key.[/red] Check GROQ_API_KEY in your .env file.\n"
+                              "Get a free key at [link=https://console.groq.com/keys]console.groq.com/keys[/link]\n")
+            elif "Connection refused" in err or "ConnectError" in err:
+                console.print("\n[red]Cannot connect to a required service.[/red]\n"
+                              "Make sure Docker is running:  docker compose up -d\n")
+            elif "rate_limit" in err.lower():
+                console.print("\n[red]Rate limit reached.[/red] Wait a moment and try again.\n")
+            else:
+                console.print(f"\n[red]Unexpected error:[/red] {err}\n")
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        console.print("\nBye.")
+    except Exception as e:
+        err = str(e)
+        if "invalid_api_key" in err or "AuthenticationError" in err:
+            console.print("\n[red]Invalid API key.[/red] Check GROQ_API_KEY in your .env file.\n"
+                          "Get a free key at [link=https://console.groq.com/keys]console.groq.com/keys[/link]\n")
+        elif "Connection refused" in err or "ConnectError" in err:
+            console.print("\n[red]Cannot connect to a required service.[/red]\n"
+                          "Make sure Docker is running:  docker compose up -d\n")
+        elif ".env" in err or "No such file" in err:
+            console.print("\n[red].env file not found.[/red] Copy .env.example to .env at the repo root "
+                          "and fill in your API keys.\n")
+        else:
+            console.print(f"\n[red]Startup error:[/red] {err}\n")
