@@ -109,7 +109,8 @@ project/
   Python 3.13 is **not supported** (`build_vector_index.py` uses PyTorch, which has
   no 3.13 wheel). Use [python.org](https://www.python.org/downloads/) or Anaconda.
 - **Java 11+** — required by PySpark (`transform_star_schema.py` only).
-  Download from [https://adoptium.net](https://adoptium.net).
+  → [adoptium.net](https://adoptium.net) — download the LTS installer for your platform.
+  Verify with `java -version` after installing. PySpark will silently fail without it.
 
 ### Windows-specific notes
 

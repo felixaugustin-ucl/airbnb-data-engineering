@@ -30,6 +30,19 @@ from pathlib import Path
 PROJECT_DIR = Path(__file__).resolve().parent
 
 
+def _check_java():
+    """Warn early if Java is missing — PySpark will fail without it."""
+    try:
+        subprocess.run(["java", "-version"], capture_output=True, check=True)
+    except FileNotFoundError:
+        print(
+            "\n[ERROR] Java not found — required by PySpark (transform_star_schema.py).\n"
+            "  → Install Java 11+ from https://adoptium.net\n"
+            "  → Reopen your terminal after installing, then retry.\n"
+        )
+        sys.exit(1)
+
+
 def _docker_compose_cmd() -> list[str]:
     """
     Return the correct docker compose command for this system.
@@ -104,6 +117,7 @@ def main():
     )
     args = parser.parse_args()
 
+    _check_java()
     mode = "TEST MODE (500 reviews)" if args.test else "PRODUCTION MODE (50k reviews)"
     print(f"\nNYC Airbnb Polyglot Analytics Platform — {mode}\n")
 
