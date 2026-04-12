@@ -36,14 +36,37 @@ def _docker_compose_cmd() -> list[str]:
     Docker Desktop v2+ uses 'docker compose' (plugin); older installs use
     'docker-compose' (standalone binary). Try plugin form first.
     """
+    # Try modern plugin form first (Docker Desktop v2+, all platforms)
     try:
         subprocess.run(
             ["docker", "compose", "version"],
             capture_output=True, check=True
         )
         return ["docker", "compose"]
-    except (subprocess.CalledProcessError, FileNotFoundError):
+    except FileNotFoundError:
+        print(
+            "\n[ERROR] Docker not found on PATH.\n"
+            "  → Install Docker Desktop: https://www.docker.com/products/docker-desktop\n"
+            "  → Make sure Docker Desktop is running (whale icon in system tray)\n"
+            "  → Reopen your terminal after installation\n"
+        )
+        sys.exit(1)
+    except subprocess.CalledProcessError:
+        pass  # docker exists but plugin not available — try standalone
+
+    # Fallback: older standalone binary
+    try:
+        subprocess.run(
+            ["docker-compose", "version"],
+            capture_output=True, check=True
+        )
         return ["docker-compose"]
+    except FileNotFoundError:
+        print(
+            "\n[ERROR] Neither 'docker compose' nor 'docker-compose' found.\n"
+            "  → Install Docker Desktop: https://www.docker.com/products/docker-desktop\n"
+        )
+        sys.exit(1)
 
 
 DOCKER_COMPOSE = _docker_compose_cmd()
