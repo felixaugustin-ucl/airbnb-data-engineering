@@ -1,4 +1,4 @@
-# ── NYC Airbnb Hospitality Lakehouse — Makefile ───────────────────────────────
+# ── NYC Airbnb Polyglot Analytics Platform — Makefile ────────────────────────
 #
 # Run from the repo root after cloning:
 #   make agent     — start all services and launch the interactive agent

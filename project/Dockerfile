@@ -1,4 +1,4 @@
-# ── NYC Airbnb Hospitality Lakehouse — MCP Server + Agent ─────────────────────
+# ── NYC Airbnb Polyglot Analytics Platform — MCP Server + Agent ───────────────
 #
 # Base: python:3.12-slim
 # Reason: PyTorch has no wheel for Python 3.13. All pipeline scripts that use
