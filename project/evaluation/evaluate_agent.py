@@ -11,10 +11,10 @@ answer on three metrics:
                       warehouse / geodata questions → heuristic: what fraction
                         of numbers extracted from tool_results appear in the
                         answer? Deterministic, no LLM needed.
-                      semantic questions            → Gemini Flash as
-                        independent LLM judge. Requires GEMINI_API_KEY in .env
-                        (free at aistudio.google.com). Gemini is independent
-                        from both Groq and Ollama — no circular self-grading.
+                      semantic questions            → GPT-4o-mini (OpenAI) as
+                        independent LLM judge. Requires OPENAI_API_KEY in .env.
+                        GPT-4o-mini is independent from both Groq and Ollama —
+                        no circular self-grading.
 
   route_accuracy  — did the agent take the expected route? (0 or 1)
   tool_coverage   — fraction of expected tools actually called (0.0–1.0)
@@ -73,10 +73,10 @@ def _current_branch() -> str:
 
 # ── Faithfulness scoring ──────────────────────────────────────────────────────
 
-# Semantic routes — Gemini judge used. All others → heuristic.
+# Semantic routes — GPT-4o-mini judge used. All others → heuristic.
 _SEMANTIC_ROUTES = {"semantic", "warehouse+semantic"}
 
-_GEMINI_JUDGE_PROMPT = (
+_GPT4O_JUDGE_PROMPT = (
     "You are evaluating whether an AI answer is grounded in retrieved data.\n\n"
     "Question: {question}\n\n"
     "Retrieved context (tool results):\n{context}\n\n"
@@ -139,7 +139,7 @@ async def score_faithfulness_llm_judge(question: str, context: str, answer: str)
             api_key=api_key,
             temperature=0,
         )
-        prompt = _GEMINI_JUDGE_PROMPT.format(
+        prompt = _GPT4O_JUDGE_PROMPT.format(
             question=question,
             context=context[:2000],
             answer=answer,
@@ -154,7 +154,7 @@ async def score_faithfulness_llm_judge(question: str, context: str, answer: str)
 async def score_faithfulness(
     question: str, context: str, answer: str, expected_route: str
 ) -> float:
-    """Dispatch to heuristic or Gemini judge based on expected route."""
+    """Dispatch to heuristic or GPT-4o-mini judge based on expected route."""
     if expected_route in _SEMANTIC_ROUTES:
         return await score_faithfulness_llm_judge(question, context, answer)
     return score_faithfulness_heuristic(context, answer)
