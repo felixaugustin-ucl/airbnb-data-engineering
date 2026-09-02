@@ -44,7 +44,7 @@ all three.
 
 ## Architecture
 
-![End-to-end architecture: five sources, three transformation paths, three stores, four MCP tools, one agent](docs/figures/01-architecture.png)
+![Figure 1 - transformation paths and steps for each dataset](docs/figures/01-transformation-paths.png)
 
 The three paths differ in one respect that determines everything else about them: *where*
 the transformation happens relative to the load.
@@ -55,11 +55,9 @@ the transformation happens relative to the load.
 | Neighbourhood boundaries, Places documents | **ELT** — load raw, enrich in place | GeoJSON polygons are stored natively; a relational schema would serialise the geometry and lose `$geoWithin` / `$nearSphere` | MongoDB 7.0 |
 | Guest reviews, Wikipedia neighbourhood intros | **ELT** — encode, then index | There is no schema to enforce; metadata is filtered at query time alongside vector ranking | ChromaDB |
 
-![Where the load boundary sits in each of the three transformation paths](docs/figures/02-etl-vs-elt.png)
-
-The dashed line is the load. Everything left of it happens before the data reaches the
-store; everything right of it happens inside it. That position is the whole ETL/ELT
-distinction, and it is decided by the target rather than by preference.
+The load is the boundary. Everything before it happens outside the store; everything after
+it happens inside. That position is the whole ETL/ELT distinction, and it is decided by the
+target rather than by preference.
 
 ### Ingestion
 
@@ -80,7 +78,7 @@ That 10-day look-back is the reason weather cannot be a column on the fact table
 
 ### The star schema
 
-![PostgreSQL star schema: four dimensions around fact_review, a weather bridge, and a noise pre-aggregate](docs/figures/03-star-schema.png)
+![Figure 2 - relational star schema (OLAP, Kimball and Ross 2013)](docs/figures/02-star-schema.png)
 
 The queries this data invites are aggregation-heavy — averages by borough, counts by room
 type, occupancy by season — which is what a star schema is for. Denormalised dimensions
@@ -143,8 +141,6 @@ neighbourhood belongs to, then `2dsphere` indexes on `geometry` and `centroid` a
 index on `place_id` that deduplicates on insert.
 
 ### The vector layer
-
-![How the two ChromaDB indexes are built: stratified sampling for reviews, paragraph chunking for Wikipedia](docs/figures/04-vector-index.png)
 
 Encoding 50,000 reviews with `multi-qa-mpnet-base-dot-v1` on CPU takes about nine hours;
 the full corpus is over a million. So the corpus has to be cut, and *how* it is cut decides
@@ -222,16 +218,18 @@ below.
 
 ## Agent orchestration
 
-![Paradigm I gives one model three jobs in one loop; Paradigms II and III give each job its own node](docs/figures/05-agent-paradigms.png)
-
 The MCP layer is constant across all three designs. What changes is how many jobs a single
 model call is asked to do.
+
+![Figure 2 - single-agent ReAct baseline paradigm](docs/figures/03-react-baseline.png)
 
 **Paradigm I — single-agent ReAct.** One local model in a Reason–Act–Observe loop, doing
 routing, parameter generation and summarisation in one iteration, across three
 heterogeneous backends. Ollama was chosen so the system stays reproducible with no API key.
 Smaller models select tools unreliably when the action space is large relative to their
 capacity, and that is what the evaluation found.
+
+![Figure 3 - planner-executor-synthesiser paradigm, version 1 (local) and version 2 (API)](docs/figures/04-planner-executor-synthesizer.png)
 
 **Paradigms II & III — planner · executor · synthesiser.** The same tools, decomposed into
 a LangGraph supervisor graph. The planner classifies the question into a route and nothing
@@ -279,8 +277,6 @@ checked against the query that produced it rather than taken on trust.
 ---
 
 ## Results
-
-![Quality metrics on a shared 0–1 axis and latency in seconds, across the three paradigms](docs/figures/06-evaluation.png)
 
 Twenty questions spanning every routing path and four difficulty levels, from a single
 `COUNT(*)` to *"how does precipitation correlate with the number of guest reviews?"* —
@@ -573,8 +569,8 @@ the work.
 
 ## Figures
 
-All six figures are indexed in [`docs/figures`](docs/figures) with a note on what each one
-shows.
+The four figures are taken directly from the project report and indexed in
+[`docs/figures`](docs/figures), with a note on what each one shows.
 
 ---
 
